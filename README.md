@@ -205,7 +205,7 @@ It is defined in `.github/workflows/regression.yml` and uses the same local-vect
 
 ## Vercel deployment
 
-The repository now includes a Vercel FastAPI entrypoint in `app/index.py`, a minimal `vercel.json` function configuration for that single app function, and a GitHub Actions deployment workflow in `.github/workflows/vercel-deploy.yml`.
+The repository now includes a Vercel FastAPI entrypoint in `app/index.py`, a minimal `vercel.json` that selects the FastAPI framework preset, and a GitHub Actions deployment workflow in `.github/workflows/vercel-deploy.yml`.
 
 To make pushes to `main` deploy automatically, the GitHub repository must have these secrets configured:
 
