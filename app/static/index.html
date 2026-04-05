@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ACG Search SG</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="orb orb-one"></div>
+    <div class="orb orb-two"></div>
+    <main class="page-shell">
+      <section class="top-grid reveal">
+        <section class="feed-panel primary-feed-panel">
+          <div class="feed-header">
+            <div>
+              <p class="panel-kicker">Feed</p>
+              <h2 id="feed-title">Singapore-weighted headline stack</h2>
+            </div>
+            <div id="feed-meta" class="feed-meta">Loading headlines...</div>
+          </div>
+          <div id="status-banner" class="status-banner"></div>
+          <div id="cards-container" class="card-grid"></div>
+        </section>
+
+        <section class="hero-panel">
+          <div class="hero-copy">
+            <p class="eyebrow">Singapore-first ACG signal board</p>
+            <h1>Top anime, games, merch, and event headlines for Singapore.</h1>
+            <p class="hero-text">
+              Fresh headlines first. Search pivots the stack around prompts like “AFA Singapore”, “MLBB qualifiers”, or
+              “new JRPG demo” instead of falling back to plain keyword matches.
+            </p>
+          </div>
+          <div class="hero-controls">
+            <form id="search-form" class="search-panel">
+              <label class="search-label" for="query-input">Search like a fan, not a database.</label>
+              <div class="search-row">
+                <input
+                  id="query-input"
+                  name="query"
+                  type="search"
+                  placeholder="Try: AFA Singapore, MLBB qualifiers, new JRPG demo"
+                  autocomplete="off"
+                />
+                <button type="submit" class="primary-button">Search Feed</button>
+              </div>
+            </form>
+            <form id="profile-form" class="profile-panel">
+              <div class="profile-fields">
+                <label class="search-label" for="user-id-input">Personalization profile</label>
+                <div class="profile-row">
+                  <input id="user-id-input" name="user_id" type="text" placeholder="fan-id" autocomplete="off" />
+                  <input id="display-name-input" name="display_name" type="text" placeholder="Display name" autocomplete="off" />
+                </div>
+              </div>
+              <div>
+                <p class="search-label profile-label">Pinned interests</p>
+                <div class="preference-grid">
+                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="events" /><span>Events</span></label>
+                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="anime" /><span>Anime</span></label>
+                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="manga" /><span>Manga</span></label>
+                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="games" /><span>Games</span></label>
+                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="gacha" /><span>Gacha</span></label>
+                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="esports" /><span>Esports</span></label>
+                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="merch" /><span>Merch</span></label>
+                  <label class="preference-pill"><input data-preference="region" type="checkbox" value="singapore" /><span>Singapore</span></label>
+                  <label class="preference-pill"><input data-preference="region" type="checkbox" value="sea" /><span>SEA</span></label>
+                </div>
+              </div>
+              <div>
+                <p class="search-label profile-label">Pinned clusters</p>
+                <div class="preference-grid entity-preference-grid">
+                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="AFA Singapore" /><span>AFA Singapore</span></label>
+                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="SGCC" /><span>SGCC</span></label>
+                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="HoyoFest Singapore" /><span>HoyoFest Singapore</span></label>
+                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="MLBB" /><span>MLBB</span></label>
+                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Valorant" /><span>Valorant</span></label>
+                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Grand Archive TCG" /><span>Grand Archive TCG</span></label>
+                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Final Fantasy" /><span>Final Fantasy</span></label>
+                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Persona" /><span>Persona</span></label>
+                </div>
+              </div>
+              <button type="submit" class="secondary-button profile-button">Save Preferences</button>
+            </form>
+            <div class="action-row">
+              <button id="home-button" class="secondary-button" type="button">Back To Home Feed</button>
+              <button id="refresh-button" class="secondary-button" type="button">Refresh Sources</button>
+            </div>
+            <div class="tag-row">
+              <span class="tag-chip">Events & conventions</span>
+              <span class="tag-chip">Esports watch</span>
+              <span class="tag-chip">Merch & deals</span>
+              <span class="tag-chip">Anime & manga</span>
+              <span class="tag-chip">Games & gacha</span>
+            </div>
+          </div>
+        </section>
+      </section>
+
+      <section class="insight-grid reveal">
+        <aside class="side-panel">
+          <section class="insight-block">
+            <div class="panel-head">
+              <p class="panel-kicker">Digest</p>
+              <h2 id="digest-title">Top signals right now</h2>
+            </div>
+            <ul id="digest-list" class="digest-list"></ul>
+          </section>
+
+          <section class="insight-block">
+            <div class="panel-head">
+              <p class="panel-kicker">Profile memory</p>
+              <h2>What this user leans toward</h2>
+            </div>
+            <div id="profile-summary" class="profile-summary"></div>
+          </section>
+
+          <section class="insight-block">
+            <div class="panel-head">
+              <p class="panel-kicker">Coverage clusters</p>
+              <h2>Shared events and franchises</h2>
+            </div>
+            <div id="entity-summary" class="entity-summary"></div>
+          </section>
+
+          <section class="insight-block">
+            <div class="panel-head">
+              <p class="panel-kicker">Live mix</p>
+              <h2>Source balance</h2>
+            </div>
+            <div id="source-breakdown" class="source-breakdown"></div>
+          </section>
+
+          <section class="insight-block">
+            <div class="panel-head">
+              <p class="panel-kicker">Source monitor</p>
+              <h2>Health and recent runs</h2>
+            </div>
+            <p id="source-health-meta" class="profile-empty source-health-meta">Loading source health...</p>
+            <div id="source-health-summary" class="source-health-summary"></div>
+            <div id="source-health-rollups" class="source-health-rollups"></div>
+            <div id="source-health-runs" class="source-health-runs"></div>
+          </section>
+        </aside>
+      </section>
+    </main>
+
+    <template id="article-card-template">
+      <article class="news-card reveal-card">
+        <div class="card-topline">
+          <span class="source-pill"></span>
+          <span class="time-pill"></span>
+        </div>
+        <h3 class="card-title"></h3>
+        <p class="card-summary"></p>
+        <div class="chip-row entities"></div>
+        <div class="chip-row tags"></div>
+        <div class="chip-row regions"></div>
+        <div class="card-actions">
+          <button class="signal-button" data-action="like" type="button">Boost Like This</button>
+          <button class="signal-button" data-action="dismiss" type="button">Hide Similar</button>
+        </div>
+        <div class="card-footer">
+          <div class="score-meter">
+            <span class="score-label">SG Relevance</span>
+            <div class="score-bar"><span class="score-fill"></span></div>
+          </div>
+          <a class="read-link" target="_blank" rel="noreferrer">Open story</a>
+        </div>
+      </article>
+    </template>
+
+    <dialog id="cluster-detail-modal" class="cluster-detail-modal">
+      <section class="cluster-detail-panel">
+        <div class="cluster-detail-head">
+          <div>
+            <p class="panel-kicker">Cluster detail</p>
+            <h2 id="cluster-detail-title">Coverage detail</h2>
+          </div>
+          <button id="cluster-detail-close" class="secondary-button cluster-detail-close" type="button">Close</button>
+        </div>
+        <p id="cluster-detail-meta" class="feed-meta cluster-detail-meta"></p>
+        <div id="cluster-detail-controls" class="chip-row"></div>
+        <p id="cluster-detail-status" class="profile-empty cluster-detail-status"></p>
+        <div id="cluster-detail-sources" class="chip-row"></div>
+        <div id="cluster-detail-list" class="cluster-detail-list"></div>
+      </section>
+    </dialog>
+
+    <dialog id="source-health-modal" class="source-health-modal">
+      <section class="source-health-modal-panel">
+        <div class="source-health-modal-head">
+          <div>
+            <p class="panel-kicker">Source history</p>
+            <h2 id="source-health-modal-title">Source run history</h2>
+          </div>
+          <button id="source-health-modal-close" class="secondary-button source-health-modal-close" type="button">Close</button>
+        </div>
+        <p id="source-health-modal-meta" class="feed-meta source-health-modal-meta"></p>
+        <p id="source-health-modal-status" class="profile-empty source-health-modal-status"></p>
+        <div id="source-health-modal-list" class="source-health-modal-list"></div>
+      </section>
+    </dialog>
+
+    <script type="module" src="/static/app.js"></script>
+  </body>
+</html>

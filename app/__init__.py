@@ -1,0 +1,1 @@
+"""ACG Search prototype package."""

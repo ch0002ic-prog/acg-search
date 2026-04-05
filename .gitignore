@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.vercel/
+data/articles.db
+data/vector-store/

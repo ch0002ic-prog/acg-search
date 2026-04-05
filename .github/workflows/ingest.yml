@@ -1,0 +1,27 @@
+name: Prototype Ingest
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run ingestion
+        run: python scripts/ingest_news.py
+      - name: Upload prototype data artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: acg-search-data
+          path: |
+            data/articles.db
+            data/vector-store
+          if-no-files-found: warn
