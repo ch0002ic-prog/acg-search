@@ -221,13 +221,14 @@ Important deployment note: this app still stores articles, user profiles, intera
 The bundled seed dataset continues to load on Vercel even though the writable runtime state lives under `/tmp`, so cold starts still have baseline feed and search content.
 
 For better production parity, the app will prefer a bundled deployment snapshot at `data/deploy_articles.json` when it exists, then fall back to the smaller sample seed set.
+It will also bootstrap the source monitor from `data/deploy_source_health.json` when that snapshot is available.
 You can refresh that bundled snapshot from your local SQLite store before deploying with:
 
 ```bash
 .venv/bin/python scripts/export_deploy_snapshot.py --limit 60
 ```
 
-The export intentionally keeps the stored article body empty and replaces summaries with lightweight generated metadata so the bundled snapshot stays compact and focused on bootstrap relevance.
+The export keeps the original article summaries when available, clears the heavier article body field to keep the bundle compact, and also writes a source-health snapshot for the production monitor UI.
 
 
 ## Notes

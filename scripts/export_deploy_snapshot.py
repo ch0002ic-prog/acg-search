@@ -32,9 +32,20 @@ def _build_summary(article: ArticleRecord) -> str:
 
 def _to_snapshot_record(article: ArticleRecord) -> dict[str, object]:
     record = article.model_dump(mode="json")
-    record["summary"] = _build_summary(article)
+    record["summary"] = (article.summary or "").strip() or _build_summary(article)
     record["content"] = ""
     return record
+
+
+def export_source_health_snapshot(db_path: Path, output_path: Path, stale_after_hours: int) -> int:
+    repository = ArticleRepository(db_path)
+    items = repository.list_source_health(stale_after_hours=stale_after_hours)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(
+        json.dumps([item.model_dump(mode="json") for item in items], indent=2),
+        encoding="utf-8",
+    )
+    return len(items)
 
 
 def export_snapshot(db_path: Path, output_path: Path, limit: int) -> int:
@@ -53,11 +64,28 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Export a bundled deployment snapshot from the local article store.")
     parser.add_argument("--db-path", type=Path, default=ROOT_DIR / "data" / "articles.db")
     parser.add_argument("--output", type=Path, default=ROOT_DIR / "data" / "deploy_articles.json")
+    parser.add_argument("--source-health-output", type=Path, default=ROOT_DIR / "data" / "deploy_source_health.json")
     parser.add_argument("--limit", type=int, default=60)
+    parser.add_argument("--stale-after-hours", type=int, default=24)
     args = parser.parse_args()
 
     count = export_snapshot(db_path=args.db_path, output_path=args.output, limit=args.limit)
-    print(json.dumps({"exported": count, "output": str(args.output)}, indent=2))
+    source_health_count = export_source_health_snapshot(
+        db_path=args.db_path,
+        output_path=args.source_health_output,
+        stale_after_hours=args.stale_after_hours,
+    )
+    print(
+        json.dumps(
+            {
+                "exported": count,
+                "output": str(args.output),
+                "source_health_exported": source_health_count,
+                "source_health_output": str(args.source_health_output),
+            },
+            indent=2,
+        )
+    )
 
 
 if __name__ == "__main__":

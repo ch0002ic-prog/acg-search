@@ -11,7 +11,7 @@ import unittest
 
 from app.config import settings
 from app.database import ArticleRepository
-from app.schemas import ArticleRecord
+from app.schemas import ArticleRecord, SourceHealthEntry
 from app.services.ingestion import IngestionService
 from app.services.llm import LLMService
 from app.services.ranking import compute_home_score, score_freshness
@@ -185,6 +185,53 @@ class SourceHealthTests(unittest.TestCase):
         self.assertEqual(rollups[0].failing_runs, 2)
         self.assertEqual(rollups[0].failure_rate, 1.0)
         self.assertEqual(rollups[0].recent_statuses, ["error", "error"])
+
+    def test_bootstrap_source_health_snapshot_seeds_entries_and_runs(self) -> None:
+        now = datetime(2026, 4, 5, 11, 0, tzinfo=timezone.utc)
+        entries = [
+            SourceHealthEntry(
+                source_name="Anime Festival Asia",
+                status="ok",
+                fetched_count=4,
+                persisted_count=3,
+                error_count=0,
+                consecutive_failures=0,
+                last_run_at=now,
+                last_success_at=now,
+                last_error=None,
+                stale=False,
+            ),
+            SourceHealthEntry(
+                source_name="Bandwagon Asia",
+                status="error",
+                fetched_count=0,
+                persisted_count=0,
+                error_count=1,
+                consecutive_failures=2,
+                last_run_at=now - timedelta(hours=1),
+                last_success_at=now - timedelta(hours=4),
+                last_error="upstream timeout",
+                stale=False,
+            ),
+        ]
+
+        self.repository.bootstrap_source_health(entries, request_id="deploy-snapshot")
+
+        items = {item.source_name: item for item in self.repository.list_source_health(stale_after_hours=24, now=now)}
+        runs = self.repository.list_source_health_runs(limit=10)
+
+        self.assertEqual(len(items), 2)
+        self.assertEqual(items["Anime Festival Asia"].status, "ok")
+        self.assertEqual(items["Bandwagon Asia"].consecutive_failures, 2)
+        self.assertEqual(items["Bandwagon Asia"].last_error, "upstream timeout")
+        self.assertEqual(len(runs), 2)
+        self.assertEqual(runs[0].request_id, "deploy-snapshot")
+        self.assertEqual(runs[1].request_id, "deploy-snapshot")
+        rollups = self.repository.list_source_health_rollups(window_hours=24, limit=5, now=now)
+        by_name = {rollup.source_name: rollup for rollup in rollups}
+        self.assertEqual(len(rollups), 2)
+        self.assertEqual(by_name["Anime Festival Asia"].healthy_runs, 1)
+        self.assertEqual(by_name["Bandwagon Asia"].failing_runs, 1)
 
     def test_concurrent_source_health_failures_do_not_lose_counts(self) -> None:
         worker_count = 6

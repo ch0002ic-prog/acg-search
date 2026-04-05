@@ -214,6 +214,11 @@ class ArticleRepository:
             row = connection.execute("SELECT COUNT(*) AS count FROM articles").fetchone()
         return int(row["count"])
 
+    def count_source_health(self) -> int:
+        with self.connect() as connection:
+            row = connection.execute("SELECT COUNT(*) AS count FROM source_health").fetchone()
+        return int(row["count"])
+
     def upsert_articles(self, articles: list[ArticleRecord]) -> None:
         if not articles:
             return
@@ -383,6 +388,52 @@ class ArticleRepository:
                     request_id=str(request_id_value) if request_id_value is not None else None,
                 )
             self._prune_source_health_runs(connection, retention_days=retention_days)
+            connection.commit()
+
+    def bootstrap_source_health(self, entries: list[SourceHealthEntry], request_id: str | None = None) -> None:
+        if not entries:
+            return
+
+        with self.connect() as connection:
+            for entry in entries:
+                connection.execute(
+                    """
+                    INSERT OR IGNORE INTO source_health (
+                        source_name,
+                        status,
+                        fetched_count,
+                        persisted_count,
+                        error_count,
+                        consecutive_failures,
+                        last_run_at,
+                        last_success_at,
+                        last_error
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        entry.source_name,
+                        entry.status,
+                        entry.fetched_count,
+                        entry.persisted_count,
+                        entry.error_count,
+                        entry.consecutive_failures,
+                        entry.last_run_at.astimezone(timezone.utc).isoformat(),
+                        entry.last_success_at.astimezone(timezone.utc).isoformat() if entry.last_success_at else None,
+                        entry.last_error,
+                    ),
+                )
+                self._insert_source_health_run(
+                    connection,
+                    source_name=entry.source_name,
+                    request_id=strip_text(request_id)[:128] if request_id else None,
+                    status=entry.status,
+                    fetched_count=entry.fetched_count,
+                    persisted_count=entry.persisted_count,
+                    error_count=entry.error_count,
+                    consecutive_failures=entry.consecutive_failures,
+                    last_error=entry.last_error,
+                    ran_at=entry.last_run_at.astimezone(timezone.utc),
+                )
             connection.commit()
 
     def list_source_health(

@@ -5,7 +5,7 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
 
-from app.services.sample_data import load_sample_articles
+from app.services.sample_data import load_sample_articles, load_source_health_snapshot
 
 
 class SampleDataTests(unittest.TestCase):
@@ -109,6 +109,34 @@ class SampleDataTests(unittest.TestCase):
 
         self.assertEqual(len(articles), 1)
         self.assertEqual(articles[0].id, "deploy-seed")
+
+    def test_load_source_health_snapshot_prefers_runtime_snapshot(self) -> None:
+        with TemporaryDirectory() as temp_dir:
+            snapshot_path = Path(temp_dir) / "deploy_source_health.json"
+            snapshot_path.write_text(
+                json.dumps(
+                    [
+                        {
+                            "source_name": "Anime Festival Asia",
+                            "status": "ok",
+                            "fetched_count": 4,
+                            "persisted_count": 3,
+                            "error_count": 0,
+                            "consecutive_failures": 0,
+                            "last_run_at": "2026-04-05T00:00:00+00:00",
+                            "last_success_at": "2026-04-05T00:00:00+00:00",
+                            "last_error": None,
+                            "stale": False,
+                        }
+                    ]
+                ),
+                encoding="utf-8",
+            )
+
+            items = load_source_health_snapshot(Path(temp_dir))
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].source_name, "Anime Festival Asia")
 
 
 if __name__ == "__main__":

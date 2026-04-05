@@ -24,7 +24,7 @@ from app.services.ranking import (
     score_singapore_relevance,
     strip_text,
 )
-from app.services.sample_data import load_sample_articles
+from app.services.sample_data import load_sample_articles, load_source_health_snapshot
 from app.services.vector_store import VectorStore
 from app.sources.base import BaseSource, SourceArticle
 
@@ -48,11 +48,14 @@ class IngestionService:
         self.sources = sources
 
     def bootstrap_if_empty(self) -> None:
-        if self.repository.count_articles() > 0:
-            return
-        articles = load_sample_articles(self.settings.data_dir)
-        self.repository.upsert_articles(articles)
-        self.vector_store.upsert_articles(articles)
+        if self.repository.count_articles() == 0:
+            articles = load_sample_articles(self.settings.data_dir)
+            self.repository.upsert_articles(articles)
+            self.vector_store.upsert_articles(articles)
+
+        if self.repository.count_source_health() == 0:
+            source_health_entries = load_source_health_snapshot(self.settings.data_dir)
+            self.repository.bootstrap_source_health(source_health_entries, request_id="deploy-snapshot")
 
     def ingest(self, limit_per_source: int | None = None, request_id: str | None = None) -> dict[str, Any]:
         limit = limit_per_source or self.settings.source_limit_per_feed
