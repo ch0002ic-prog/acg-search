@@ -218,6 +218,8 @@ The repository also pins Python with `.python-version` because Vercel reads Pyth
 
 Important deployment note: this app still stores articles, user profiles, interactions, and source-health history in SQLite plus local files. On Vercel, those writable paths must live under `/tmp`, which this repo now defaults to automatically. That makes the app boot successfully on Vercel, but `/tmp` is ephemeral and is not durable production storage. Automatic deploys will work once Vercel secrets are set, but long-lived persistence still requires moving state off local disk before this backend can be considered fully production-safe on Vercel.
 
+The bundled seed dataset continues to load on Vercel even though the writable runtime state lives under `/tmp`, so cold starts still have baseline feed and search content.
+
 
 ## Notes
 
