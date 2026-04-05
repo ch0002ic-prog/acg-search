@@ -230,6 +230,8 @@ You can refresh that bundled snapshot from your local SQLite store before deploy
 
 The export keeps the original article summaries when available, clears the heavier article body field to keep the bundle compact, and also writes a source-health snapshot for the production monitor UI.
 
+The scheduled GitHub Actions ingest workflow now runs this export automatically after each ingest cycle and commits refreshed deploy snapshots back to `main` when they change. That push then flows through the normal regression and Vercel deploy workflows.
+
 
 ## Notes
 
