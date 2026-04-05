@@ -7,8 +7,17 @@ from app.schemas import ArticleRecord
 
 
 def _candidate_sample_paths(data_dir: Path) -> list[Path]:
-    repo_sample_path = Path(__file__).resolve().parents[2] / "data" / "sample_articles.json"
-    return list(dict.fromkeys([data_dir / "sample_articles.json", repo_sample_path]))
+    repo_data_dir = Path(__file__).resolve().parents[2] / "data"
+    return list(
+        dict.fromkeys(
+            [
+                data_dir / "deploy_articles.json",
+                data_dir / "sample_articles.json",
+                repo_data_dir / "deploy_articles.json",
+                repo_data_dir / "sample_articles.json",
+            ]
+        )
+    )
 
 
 def load_sample_articles(data_dir: Path) -> list[ArticleRecord]:
