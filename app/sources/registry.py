@@ -4,6 +4,7 @@ from urllib.parse import quote_plus
 
 from app.config import Settings
 from app.sources.base import BaseSource
+from app.sources.curated import CuratedSource
 from app.sources.eventbrite import EventbriteSource
 from app.sources.rss import RssSource
 
@@ -13,7 +14,7 @@ def build_sources(settings: Settings) -> list[BaseSource]:
         "(anime OR gaming OR esports OR manga OR cosplay) Singapore"
     )
     event_query = quote_plus(
-        '"Anime Festival Asia" OR "Singapore Comic Con" OR "HoyoFest Singapore" OR "MLBB Singapore"'
+        '"Anime Festival Asia" OR "Singapore Comic Con" OR "HoyoFest Singapore" OR "MLBB Singapore" OR "POPPA" OR "Moe Moe Q" OR "Ani-Idol"'
     )
     jrpg_query = quote_plus(
         'JRPG OR "turn-based RPG" OR Persona OR Atlus OR Falcom OR "Final Fantasy"'
@@ -37,6 +38,8 @@ def build_sources(settings: Settings) -> list[BaseSource]:
         "anime",
         "manga",
         "cosplay",
+        "idol",
+        "anisong",
         "gacha",
         "jrpg",
         "playstation",
@@ -54,6 +57,13 @@ def build_sources(settings: Settings) -> list[BaseSource]:
         "manga",
         "doujin",
         "cosplay",
+        "idol",
+        "anisong",
+        "ani-idol",
+        "ani idol",
+        "poppa",
+        "moe moe q",
+        "mmq",
         "otaku",
         "artist alley",
         "tcg",
@@ -79,6 +89,15 @@ def build_sources(settings: Settings) -> list[BaseSource]:
     ]
 
     return [
+        CuratedSource(
+            name="Curated SG Idol Watch",
+            feed_url="local://curated-sg-idol-watch",
+            file_path=settings.root_dir / "data" / "curated_articles.json",
+            quality=0.8,
+            source_type="curated",
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore"],
+        ),
         RssSource(
             name="Siliconera",
             feed_url="https://www.siliconera.com/feed",

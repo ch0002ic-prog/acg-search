@@ -21,6 +21,8 @@ class EntityRule:
     name: str
     kind: str
     aliases: tuple[str, ...]
+    ambiguous_aliases: tuple[str, ...] = ()
+    context_terms: tuple[str, ...] = ()
 
 
 ENTITY_RULES: tuple[EntityRule, ...] = (
@@ -28,6 +30,14 @@ ENTITY_RULES: tuple[EntityRule, ...] = (
     EntityRule("SGCC", "event", ("singapore comic con", "sgcc")),
     EntityRule("HoyoFest Singapore", "event", ("hoyofest singapore", "hoyofest", "hoyo fest singapore", "hoyo fest")),
     EntityRule("Doujin Market", "event", ("doujin market",)),
+    EntityRule(
+        "POPPA",
+        "event",
+        ("poppa", "moe moe q", "mmq", "poppa singapore", "poppa by moe moe q"),
+        ambiguous_aliases=("poppa",),
+        context_terms=("moe moe q", "mmq", "idol", "anisong", "cosplay", "live", "stage", "merch signing"),
+    ),
+    EntityRule("Ani-Idol", "event", ("ani-idol", "ani idol")),
     EntityRule("Otaket", "event", ("otaket",)),
     EntityRule("Grand Archive TCG", "franchise", ("grand archive tcg", "grand archive")),
     EntityRule("MLBB", "esports", ("mobile legends bang bang", "mobile legends", "mlbb")),
@@ -51,27 +61,37 @@ ENTITY_NAME_LOOKUP = {
     }
     if normalized_alias
 }
-_NORMALIZED_ENTITY_RULES: tuple[tuple[str, str, tuple[str, ...]], ...] = tuple(
+_NORMALIZED_ENTITY_RULES: tuple[tuple[str, str, tuple[str, ...], tuple[str, ...], tuple[str, ...]], ...] = tuple(
     (
         rule.name,
         rule.kind,
         tuple(sorted({_normalize_text(alias) for alias in rule.aliases if _normalize_text(alias)}, key=len, reverse=True)),
+        tuple(sorted({_normalize_text(alias) for alias in rule.ambiguous_aliases if _normalize_text(alias)}, key=len, reverse=True)),
+        tuple(sorted({_normalize_text(term) for term in rule.context_terms if _normalize_text(term)}, key=len, reverse=True)),
     )
     for rule in sorted(ENTITY_RULES, key=lambda rule: max(len(alias) for alias in rule.aliases), reverse=True)
 )
 
 
-def infer_entity_tags(*parts: str) -> list[str]:
+def infer_entity_tags(*parts: str, for_query: bool = False) -> list[str]:
     normalized_text = _normalize_text(" ".join(_strip_text(part) for part in parts if _strip_text(part)))
     if not normalized_text:
         return []
 
     matches: list[str] = []
     seen: set[str] = set()
-    for entity_name, _kind, aliases in _NORMALIZED_ENTITY_RULES:
+    for entity_name, _kind, aliases, ambiguous_aliases, context_terms in _NORMALIZED_ENTITY_RULES:
         if entity_name in seen:
             continue
-        if any(alias in normalized_text for alias in aliases):
+        matched = False
+        for alias in aliases:
+            if alias not in normalized_text:
+                continue
+            if not for_query and alias in ambiguous_aliases and context_terms and not any(term in normalized_text for term in context_terms):
+                continue
+            matched = True
+            break
+        if matched:
             seen.add(entity_name)
             matches.append(entity_name)
     return matches
@@ -95,11 +115,17 @@ def display_entity_name(value: str) -> str:
 
 
 def entity_overlap_score(query: str, expanded_query: str, article: "ArticleRecord") -> float:
-    query_entities = infer_entity_tags(query, expanded_query)
-    if not query_entities or not article.entity_tags:
+    query_entities = infer_entity_tags(query, expanded_query, for_query=True)
+    if not query_entities:
         return 0.0
 
-    article_entities = {entity.lower() for entity in article.entity_tags}
+    article_entities = {
+        entity.lower()
+        for entity in (article.entity_tags or infer_entity_tags(article.title, article.summary))
+    }
+    if not article_entities:
+        return 0.0
+
     overlap = [entity for entity in query_entities if entity.lower() in article_entities]
     return len(overlap) / len(query_entities)
 

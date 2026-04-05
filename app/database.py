@@ -738,7 +738,7 @@ class ArticleRepository:
                 return profile
 
             categories, tags, regions = infer_query_preferences(cleaned_query)
-            entities = infer_entity_tags(cleaned_query)
+            entities = infer_entity_tags(cleaned_query, for_query=True)
             category_affinities = dict(profile.category_affinities)
             tag_affinities = dict(profile.tag_affinities)
             entity_affinities = dict(profile.entity_affinities)

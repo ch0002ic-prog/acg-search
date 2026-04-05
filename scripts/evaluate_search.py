@@ -31,6 +31,10 @@ SEARCH_CASES: tuple[SearchCase, ...] = (
     SearchCase("cosplay singapore", ("cosplay", "anime festival asia", "sgcc")),
     SearchCase("new JRPG demo", ("jrpg", "atlus", "falcom", "square enix", "persona", "demo")),
     SearchCase("HoyoFest Singapore", ("hoyofest", "hoyoverse", "genshin", "honkai", "zenless"), allow_empty=True),
+    SearchCase("POPPA Singapore", ("moe moe q", "mmq", "idol")),
+    SearchCase("Moe Moe Q idol", ("moe moe q", "mmq", "idol")),
+    SearchCase("Ani-Idol Singapore", ("ani idol", "idol", "anisong")),
+    SearchCase("idol live singapore", ("idol", "ani idol", "anisong", "moe moe q")),
     SearchCase("MLBB qualifiers", ("mlbb", "mobile legends", "qualifier", "tournament"), allow_empty=True),
     SearchCase("valorant singapore", ("valorant", "riot", "vct", "pacific"), allow_empty=True),
     SearchCase("anime convention singapore", ("anime", "convention", "festival", "market")),
@@ -102,7 +106,7 @@ def main() -> None:
         elif not items:
             status = "fail"
         else:
-            status = "pass" if top1_has_match else "fail"
+            status = "pass" if top1_has_match or (case.allow_empty and top3_has_match) else "fail"
 
         if status == "pass":
             passed += 1

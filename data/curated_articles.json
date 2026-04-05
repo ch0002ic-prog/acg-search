@@ -1,0 +1,20 @@
+[
+  {
+    "title": "POPPA by Moe Moe Q Singapore idol live watch",
+    "url": "https://example.com/curated/poppa-mmq-singapore-idol-live",
+    "published_at": "2026-04-01T12:00:00+00:00",
+    "summary": "Curated Singapore watch entry for POPPA, the idol organization managed under the Moe Moe Q (MMQ) brand, covering idol live appearances, stage segments, and merch-signing updates.",
+    "content": "POPPA by Moe Moe Q is tracked here as a Singapore-relevant idol event signal. This curated entry exists so fans searching for POPPA, Moe Moe Q, MMQ, or idol live Singapore can find at least one relevant result while upstream coverage remains sparse.",
+    "category_hints": ["events", "anime", "merch"],
+    "region_hints": ["Singapore"]
+  },
+  {
+    "title": "Ani-Idol Singapore anisong stage watch",
+    "url": "https://example.com/curated/ani-idol-singapore-stage-watch",
+    "published_at": "2026-04-01T12:00:00+00:00",
+    "summary": "Curated Singapore watch entry for Ani-Idol coverage, including anisong stage appearances, cosplay idol showcases, and community idol live updates.",
+    "content": "Ani-Idol Singapore is tracked here as a long-tail ACG event query. This curated entry gives the search system a relevant result for Ani-Idol Singapore and idol live Singapore while live source coverage is still inconsistent.",
+    "category_hints": ["events", "anime"],
+    "region_hints": ["Singapore"]
+  }
+]

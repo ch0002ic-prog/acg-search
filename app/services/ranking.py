@@ -6,7 +6,7 @@ import math
 import re
 
 from app.schemas import ArticleRecord, UserProfile
-from app.services.entities import entity_overlap_score
+from app.services.entities import entity_overlap_score, infer_entity_tags
 
 
 CATEGORY_KEYWORDS: dict[str, set[str]] = {
@@ -36,6 +36,7 @@ TAG_KEYWORDS: dict[str, set[str]] = {
     "singapore": {"singapore", "sg", "suntec", "marina bay", "orchard", "bugis"},
     "sgcc": {"singapore comic con", "sgcc"},
     "hoyofest": {"hoyofest", "hoyo fest"},
+    "idol": {"idol", "anisong", "ani-idol", "ani idol", "poppa", "moe moe q", "mmq"},
     "jrpg": {"jrpg", "turn-based", "atlus", "falcom", "square enix", "persona"},
     "hoyoverse": {"hoyoverse", "genshin", "honkai", "zenless"},
     "mlbb": {"mobile legends", "mlbb"},
@@ -52,6 +53,10 @@ SG_SIGNALS: dict[str, float] = {
     "hoyofest": 0.22,
     "singapore comic con": 0.26,
     "doujin market": 0.22,
+    "poppa": 0.14,
+    "moe moe q": 0.14,
+    "ani-idol": 0.14,
+    "ani idol": 0.14,
     "artist alley": 0.12,
     "mlbb": 0.12,
     "mobile legends": 0.12,
@@ -68,6 +73,12 @@ QUERY_EXPANSIONS: dict[str, list[str]] = {
     "cyberpunk": ["Cyberpunk 2077", "Edgerunners", "Phantom Liberty"],
     "mlbb": ["Mobile Legends", "M7", "Singapore qualifiers"],
     "jrpg": ["turn-based RPG", "Atlus", "Falcom", "Square Enix"],
+    "idol": ["Ani-Idol", "POPPA", "Moe Moe Q", "anisong live", "idol showcase"],
+    "ani idol": ["Ani-Idol", "idol showcase", "anisong live", "cosplay idol"],
+    "ani-idol": ["Ani-Idol", "idol showcase", "anisong live", "cosplay idol"],
+    "poppa": ["POPPA", "Moe Moe Q", "MMQ", "idol live", "merch signing"],
+    "mmq": ["Moe Moe Q", "POPPA", "idol live", "idol"],
+    "moe moe q": ["Moe Moe Q", "POPPA", "MMQ", "idol live", "merch signing"],
     "hoyoverse": ["Genshin Impact", "Honkai Star Rail", "Zenless Zone Zero", "HoyoFest Singapore"],
     "hoyofest": ["HoyoFest Singapore", "HoYoVerse", "Genshin Impact", "Honkai Star Rail", "Zenless Zone Zero"],
     "afa": ["Anime Festival Asia", "AFA Singapore", "artist alley", "ticketing"],
@@ -95,6 +106,7 @@ STOPWORDS = {
 }
 
 GENERIC_QUERY_TOKENS = {"singapore", "sg", "sea", "news", "latest", "today"}
+MEANINGFUL_SHORT_QUERY_TOKENS = {"afa", "sgcc", "mlbb", "tcg", "ff14", "ffxiv", "sf6", "vct"}
 
 
 def strip_text(value: str) -> str:
@@ -213,13 +225,19 @@ def expand_query_heuristically(query: str) -> str:
     return ", ".join(dict.fromkeys(term for term in expanded_terms if term))
 
 
+def _meaningful_query_tokens(query: str) -> list[str]:
+    tokens = [token for token in re.findall(r"[a-z0-9]+", query.lower()) if token not in STOPWORDS]
+    return [token for token in tokens if len(token) > 3 or token in MEANINGFUL_SHORT_QUERY_TOKENS]
+
+
 def query_anchor_tokens(query: str) -> list[str]:
-    original_tokens = [token for token in re.findall(r"[a-z0-9]+", query.lower()) if token not in STOPWORDS]
+    original_tokens = _meaningful_query_tokens(query)
     return [token for token in original_tokens if token not in GENERIC_QUERY_TOKENS]
 
 
 def has_meaningful_query_match(query: str, expanded_query: str, article: ArticleRecord) -> bool:
     anchor_tokens = query_anchor_tokens(query)
+    query_entities = infer_entity_tags(query, expanded_query, for_query=True)
     entity_score = entity_overlap_score(query=query, expanded_query=expanded_query, article=article)
     if entity_score > 0:
         return True
@@ -233,6 +251,13 @@ def has_meaningful_query_match(query: str, expanded_query: str, article: Article
     anchor_hits = sum(1 for token in anchor_tokens if token in text)
     title_hits = sum(1 for token in anchor_tokens if token in title)
     phrase_hits = sum(1 for phrase in phrase_candidates[:6] if len(phrase) > 2 and phrase in text)
+    specific_phrase_hits = sum(
+        1
+        for phrase in phrase_candidates[:6]
+        if len(phrase) > 2 and len(re.findall(r"[a-z0-9]+", phrase)) >= 2 and phrase in text
+    )
+    if query_entities and entity_score == 0:
+        return specific_phrase_hits > 0
     if phrase_hits > 0:
         return True
     if len(anchor_tokens) == 1:
@@ -244,7 +269,7 @@ def query_signal_score(query: str, expanded_query: str, article: ArticleRecord) 
     text = article.search_text().lower()
     title = article.title.lower()
     entity_score = entity_overlap_score(query=query, expanded_query=expanded_query, article=article)
-    original_tokens = [token for token in re.findall(r"[a-z0-9]+", query.lower()) if token not in STOPWORDS]
+    original_tokens = _meaningful_query_tokens(query)
     anchor_tokens = [token for token in original_tokens if token not in GENERIC_QUERY_TOKENS]
     phrase_candidates = [strip_text(part).lower() for part in expanded_query.split(",") if strip_text(part)]
 

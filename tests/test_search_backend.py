@@ -134,6 +134,42 @@ class SearchBackendTests(unittest.TestCase):
                     source_name="Google News Merch And Deals",
                 ),
                 cls.make_article(
+                    article_id="poppa-live",
+                    title="POPPA by Moe Moe Q announces Singapore idol live and merch signing",
+                    summary="Moe Moe Q's POPPA project schedules a Singapore idol live with fan benefits, merch, and stage appearances.",
+                    content="POPPA, the idol organization managed under the Moe Moe Q (MMQ) brand, confirms a Singapore live set, fan perks, and merch signing plans.",
+                    categories=["events", "anime", "merch"],
+                    tags=["idol", "mmq", "poppa", "singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.73,
+                    published_at=now - timedelta(hours=4),
+                    source_name="Bandwagon Asia",
+                ),
+                cls.make_article(
+                    article_id="lil-poppa-distractor",
+                    title="Lil Poppa tribute merch chatter spreads through Singapore resale groups",
+                    summary="An unrelated rapper merch rumor circulates through Singapore resale chats and collector groups.",
+                    content="This unrelated entertainment story has nothing to do with Moe Moe Q, MMQ, POPPA idol activities, or Ani-Idol events.",
+                    categories=["merch"],
+                    tags=["singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.49,
+                    published_at=now - timedelta(hours=1),
+                    source_name="Google News SG Events",
+                ),
+                cls.make_article(
+                    article_id="ani-idol-night",
+                    title="Ani-Idol Singapore night adds anisong stage and cosplay idol showcase",
+                    summary="Ani-Idol returns with anisong performances, idol stage acts, and fan meetups in Singapore.",
+                    content="Ani-Idol Singapore brings idol performances, anime songs, cosplay showcases, and community meetup programming.",
+                    categories=["events", "anime"],
+                    tags=["idol", "anisong", "singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.69,
+                    published_at=now - timedelta(hours=3),
+                    source_name="Eventbrite SG Anime",
+                ),
+                cls.make_article(
                     article_id="boardgames",
                     title="Boardgames",
                     summary="Singapore meetup night for boardgames, social deduction, and tabletop sessions.",
@@ -303,6 +339,10 @@ class SearchBackendTests(unittest.TestCase):
             "sgcc guests": ("singapore comic con", "sgcc"),
             "mlbb qualifiers": ("mobile legends", "mlbb"),
             "hoyofest singapore": ("hoyofest",),
+            "poppa singapore": ("moe moe q", "mmq", "idol"),
+            "moe moe q idol": ("moe moe q", "mmq", "idol"),
+            "ani-idol singapore": ("ani-idol", "ani idol", "idol"),
+            "idol live singapore": ("idol live", "ani-idol", "anisong", "moe moe q"),
             "board games singapore": ("boardgames", "mahjong"),
             "new jrpg demo": ("jrpg demo", "playable jrpg demo", "atlus reveals a playable jrpg demo"),
             "manga workshop singapore": ("manga", "workshop"),
@@ -326,6 +366,16 @@ class SearchBackendTests(unittest.TestCase):
     def test_exact_match_beats_partial_market_overlap(self) -> None:
         response = self.news_service.search(query="doujin market", limit=5, rerank=False, user_id=None)
         self.assertEqual(response.items[0].title, "Doujin Market 2026")
+
+    def test_poppa_query_excludes_lil_poppa_false_positive(self) -> None:
+        response = self.news_service.search(query="POPPA Singapore", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertEqual(response.items[0].title, "POPPA by Moe Moe Q announces Singapore idol live and merch signing")
+        self.assertNotIn(
+            "Lil Poppa tribute merch rumor spreads through Singapore resale groups",
+            [item.title for item in response.items],
+        )
 
     def test_broad_search_surfaces_multiple_sources(self) -> None:
         response = self.news_service.search(query="anime singapore", limit=3, rerank=False, user_id=None)

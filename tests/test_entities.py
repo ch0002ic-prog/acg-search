@@ -89,6 +89,22 @@ class EntityNormalizationTests(unittest.TestCase):
         self.assertIn("AFA Singapore", from_acronym)
         self.assertEqual(from_acronym, from_full_name)
 
+    def test_infer_entity_tags_normalizes_poppa_mmq_and_ani_idol_aliases(self) -> None:
+        from_poppa = infer_entity_tags("POPPA by Moe Moe Q confirms a new Singapore idol live")
+        from_mmq = infer_entity_tags("MMQ previews POPPA fan benefits for the next Singapore stage")
+        from_ani_idol = infer_entity_tags("Ani-Idol Singapore unveils a fresh anisong stage lineup")
+
+        self.assertEqual(from_poppa, from_mmq)
+        self.assertIn("POPPA", from_poppa)
+        self.assertIn("Ani-Idol", from_ani_idol)
+
+    def test_infer_entity_tags_skips_ambiguous_poppa_without_idol_context(self) -> None:
+        from_article = infer_entity_tags("Lil Poppa tribute merch rumor spreads")
+        from_query = infer_entity_tags("POPPA Singapore", for_query=True)
+
+        self.assertNotIn("POPPA", from_article)
+        self.assertIn("POPPA", from_query)
+
     def test_feed_response_builds_cross_source_entity_groups(self) -> None:
         now = datetime.now(timezone.utc)
         articles = [
