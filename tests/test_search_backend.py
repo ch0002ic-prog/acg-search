@@ -377,6 +377,18 @@ class SearchBackendTests(unittest.TestCase):
             [item.title for item in response.items],
         )
 
+    def test_ani_idol_query_prefers_ani_idol_result(self) -> None:
+        response = self.news_service.search(query="Ani-Idol Singapore", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertEqual(response.items[0].title, "Ani-Idol Singapore night adds anisong stage and cosplay idol showcase")
+
+    def test_moe_moe_q_query_prefers_poppa_result(self) -> None:
+        response = self.news_service.search(query="Moe Moe Q idol", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertEqual(response.items[0].title, "POPPA by Moe Moe Q announces Singapore idol live and merch signing")
+
     def test_broad_search_surfaces_multiple_sources(self) -> None:
         response = self.news_service.search(query="anime singapore", limit=3, rerank=False, user_id=None)
         self.assertEqual(len(response.items), 3)

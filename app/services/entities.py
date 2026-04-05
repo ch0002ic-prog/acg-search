@@ -115,7 +115,7 @@ def display_entity_name(value: str) -> str:
 
 
 def entity_overlap_score(query: str, expanded_query: str, article: "ArticleRecord") -> float:
-    query_entities = infer_entity_tags(query, expanded_query, for_query=True)
+    query_entities = infer_entity_tags(query, for_query=True)
     if not query_entities:
         return 0.0
 

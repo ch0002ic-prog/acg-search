@@ -73,7 +73,7 @@ QUERY_EXPANSIONS: dict[str, list[str]] = {
     "cyberpunk": ["Cyberpunk 2077", "Edgerunners", "Phantom Liberty"],
     "mlbb": ["Mobile Legends", "M7", "Singapore qualifiers"],
     "jrpg": ["turn-based RPG", "Atlus", "Falcom", "Square Enix"],
-    "idol": ["Ani-Idol", "POPPA", "Moe Moe Q", "anisong live", "idol showcase"],
+    "idol": ["Ani-Idol", "anisong live", "idol showcase"],
     "ani idol": ["Ani-Idol", "idol showcase", "anisong live", "cosplay idol"],
     "ani-idol": ["Ani-Idol", "idol showcase", "anisong live", "cosplay idol"],
     "poppa": ["POPPA", "Moe Moe Q", "MMQ", "idol live", "merch signing"],
@@ -237,7 +237,7 @@ def query_anchor_tokens(query: str) -> list[str]:
 
 def has_meaningful_query_match(query: str, expanded_query: str, article: ArticleRecord) -> bool:
     anchor_tokens = query_anchor_tokens(query)
-    query_entities = infer_entity_tags(query, expanded_query, for_query=True)
+    query_entities = infer_entity_tags(query, for_query=True)
     entity_score = entity_overlap_score(query=query, expanded_query=expanded_query, article=article)
     if entity_score > 0:
         return True
@@ -272,11 +272,14 @@ def query_signal_score(query: str, expanded_query: str, article: ArticleRecord) 
     original_tokens = _meaningful_query_tokens(query)
     anchor_tokens = [token for token in original_tokens if token not in GENERIC_QUERY_TOKENS]
     phrase_candidates = [strip_text(part).lower() for part in expanded_query.split(",") if strip_text(part)]
+    original_phrase = strip_text(query).lower()
 
     token_hits = sum(1 for token in original_tokens if token in text)
     title_hits = sum(1 for token in anchor_tokens if token in title)
     anchor_hits = sum(1 for token in anchor_tokens if token in text)
     phrase_hits = sum(1 for phrase in phrase_candidates[:6] if len(phrase) > 2 and phrase in text)
+    original_phrase_in_text = bool(original_phrase and len(original_phrase) > 2 and original_phrase in text)
+    original_phrase_in_title = bool(original_phrase and len(original_phrase) > 2 and original_phrase in title)
 
     token_score = token_hits / len(original_tokens) if original_tokens else 0.0
     title_score = title_hits / len(anchor_tokens) if anchor_tokens else 0.0
@@ -284,6 +287,10 @@ def query_signal_score(query: str, expanded_query: str, article: ArticleRecord) 
     phrase_score = phrase_hits / max(min(len(phrase_candidates[:6]), 3), 1)
 
     score = (0.35 * token_score) + (0.3 * anchor_score) + (0.2 * phrase_score) + (0.15 * title_score)
+    if original_phrase_in_text:
+        score += 0.18
+    if original_phrase_in_title:
+        score += 0.22
     if anchor_tokens and anchor_hits == 0 and phrase_hits == 0:
         score *= 0.15
     elif len(anchor_tokens) >= 2 and phrase_hits == 0 and anchor_hits < len(anchor_tokens):
