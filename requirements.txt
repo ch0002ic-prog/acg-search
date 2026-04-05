@@ -3,5 +3,3 @@ uvicorn[standard]>=0.34,<1.0
 httpx>=0.28,<1.0
 pydantic>=2.11,<3.0
 beautifulsoup4>=4.13,<5.0
-chromadb>=0.5,<1.0
-playwright>=1.52,<2.0

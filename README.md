@@ -55,6 +55,18 @@ cp .env.example .env
 /opt/homebrew/bin/python3 -m uvicorn app.main:app --reload
 ```
 
+For browser regressions, install the dev-only test dependency set instead:
+
+```bash
+pip install -r requirements-dev.txt
+```
+
+If you explicitly want the optional ChromaDB backend, install its extra dependency set as well:
+
+```bash
+pip install -r requirements-chromadb.txt
+```
+
 Open `http://127.0.0.1:8000` in your browser.
 
 ## Automated tests
@@ -202,6 +214,7 @@ To make pushes to `main` deploy automatically, the GitHub repository must have t
 - `VERCEL_PROJECT_ID`
 
 The Vercel Python runtime uses `api/requirements.txt` so production installs stay limited to runtime dependencies instead of browser-test packages.
+The repository also pins Python with `.python-version` because Vercel reads Python versions from `.python-version`, `pyproject.toml`, or `Pipfile.lock` rather than from a `runtime` string in `vercel.json`.
 
 Important deployment note: this app still stores articles, user profiles, interactions, and source-health history in SQLite plus local files. On Vercel, those writable paths must live under `/tmp`, which this repo now defaults to automatically. That makes the app boot successfully on Vercel, but `/tmp` is ephemeral and is not durable production storage. Automatic deploys will work once Vercel secrets are set, but long-lived persistence still requires moving state off local disk before this backend can be considered fully production-safe on Vercel.
 
