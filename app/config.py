@@ -12,6 +12,13 @@ def _as_bool(value: str | None, default: bool = False) -> bool:
     return value.strip().lower() in {"1", "true", "yes", "on"}
 
 
+def _clean_optional(value: str | None) -> str | None:
+    if value is None:
+        return None
+    cleaned = value.strip()
+    return cleaned or None
+
+
 def _default_data_dir(root_dir: Path) -> Path:
     # Vercel functions can only write under /tmp; local defaults stay under the repo.
     if _as_bool(os.getenv("VERCEL"), False) or os.getenv("VERCEL_ENV"):
@@ -24,6 +31,9 @@ class Settings:
     root_dir: Path
     data_dir: Path
     db_path: Path
+    database_url: str | None
+    state_snapshot_key: str
+    state_store_connect_timeout_seconds: int
     vector_dir: Path
     static_dir: Path
     project_name: str
@@ -57,6 +67,9 @@ class Settings:
             root_dir=root_dir,
             data_dir=data_dir,
             db_path=db_path,
+            database_url=_clean_optional(os.getenv("DATABASE_URL")),
+            state_snapshot_key=os.getenv("STATE_SNAPSHOT_KEY", "acg-search-runtime").strip() or "acg-search-runtime",
+            state_store_connect_timeout_seconds=int(os.getenv("STATE_STORE_CONNECT_TIMEOUT_SECONDS", "10")),
             vector_dir=vector_dir,
             static_dir=static_dir,
             project_name=os.getenv("PROJECT_NAME", "ACG Search SG"),

@@ -8,7 +8,7 @@ import time
 from typing import Annotated
 import uuid
 
-from fastapi import FastAPI, HTTPException, Query, Request
+from fastapi import BackgroundTasks, FastAPI, HTTPException, Query, Request
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
@@ -18,6 +18,7 @@ from app.schemas import FeedResponse, InteractionRequest, ProfileUpdateRequest, 
 from app.services.ingestion import IngestionService
 from app.services.llm import LLMService
 from app.services.news import NewsService
+from app.services.state_store import SqliteSnapshotStateStore, build_state_store
 from app.services.vector_store import VectorStore
 from app.sources.registry import build_sources
 
@@ -48,7 +49,10 @@ class CacheControlledStaticFiles(StaticFiles):
         return super().file_response(full_path, stat_result, scope, status_code=status_code)
 
 
-def build_runtime() -> tuple[ArticleRepository, NewsService, IngestionService]:
+def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[ArticleRepository, NewsService, IngestionService]:
+    if state_store is not None:
+        state_store.restore_to(settings.db_path)
+
     repository = ArticleRepository(settings.db_path)
     repository.init_database()
     vector_store = VectorStore(settings=settings, repository=repository)
@@ -68,11 +72,32 @@ def build_runtime() -> tuple[ArticleRepository, NewsService, IngestionService]:
         sources=build_sources(settings),
     )
     ingestion_service.bootstrap_if_empty()
+    if state_store is not None:
+        state_store.persist_from(settings.db_path)
     news_service = NewsService(repository=repository, vector_store=vector_store, llm_service=llm_service)
     logger.info("Runtime initialized with db=%s and vector backend=%s", settings.db_path, vector_store.backend)
     if orphan_interactions:
         logger.info("Removed %s orphan interaction rows during startup maintenance", orphan_interactions)
     return repository, news_service, ingestion_service
+
+
+def _persist_runtime_state(app: FastAPI, reason: str) -> None:
+    state_store = getattr(app.state, "state_store", None)
+    if state_store is None:
+        return
+    try:
+        changed = state_store.persist_from(settings.db_path)
+    except Exception:
+        logger.exception("Failed to persist runtime state: reason=%s", reason)
+        return
+    if changed:
+        logger.info("Persisted runtime state snapshot: reason=%s", reason)
+
+
+def _schedule_state_persist(background_tasks: BackgroundTasks, app: FastAPI, reason: str) -> None:
+    if getattr(app.state, "state_store", None) is None:
+        return
+    background_tasks.add_task(_persist_runtime_state, app, reason)
 
 
 def _normalized_default_feed_limit() -> int:
@@ -174,10 +199,12 @@ def install_request_timing_middleware(app: FastAPI) -> None:
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    repository, news_service, ingestion_service = build_runtime()
+    state_store = build_state_store(settings)
+    repository, news_service, ingestion_service = build_runtime(state_store=state_store)
     app.state.repository = repository
     app.state.news_service = news_service
     app.state.ingestion_service = ingestion_service
+    app.state.state_store = state_store
     yield
 
 
@@ -200,15 +227,19 @@ def health() -> dict[str, str]:
 @app.get("/api/news", response_model=FeedResponse)
 def news(
     request: Request,
+    background_tasks: BackgroundTasks,
     limit: Annotated[int | None, Query(ge=1, le=MAX_FEED_LIMIT)] = None,
     user_id: Annotated[str | None, Query(min_length=1, max_length=64)] = None,
 ) -> FeedResponse:
     news_service: NewsService = request.app.state.news_service
-    return news_service.home_feed(limit=limit or _normalized_default_feed_limit(), user_id=user_id)
+    response = news_service.home_feed(limit=limit or _normalized_default_feed_limit(), user_id=user_id)
+    if user_id:
+        _schedule_state_persist(background_tasks, request.app, f"news:{user_id}")
+    return response
 
 
 @app.post("/api/search", response_model=FeedResponse)
-def search(request: Request, payload: SearchRequest) -> FeedResponse:
+def search(request: Request, background_tasks: BackgroundTasks, payload: SearchRequest) -> FeedResponse:
     news_service: NewsService = request.app.state.news_service
     response = news_service.search(
         query=payload.query,
@@ -227,13 +258,17 @@ def search(request: Request, payload: SearchRequest) -> FeedResponse:
         bool(payload.user_id),
         payload.track_profile,
     )
+    if payload.user_id:
+        _schedule_state_persist(background_tasks, request.app, f"search:{payload.user_id}")
     return response
 
 
 @app.get("/api/profile", response_model=UserProfile)
-def get_profile(request: Request, user_id: Annotated[str, Query(min_length=1, max_length=64)]) -> UserProfile:
+def get_profile(request: Request, background_tasks: BackgroundTasks, user_id: Annotated[str, Query(min_length=1, max_length=64)]) -> UserProfile:
     repository: ArticleRepository = request.app.state.repository
-    return repository.get_or_create_user_profile(user_id=user_id)
+    profile = repository.get_or_create_user_profile(user_id=user_id)
+    _schedule_state_persist(background_tasks, request.app, f"profile:{user_id}")
+    return profile
 
 
 @app.get("/api/source-health", response_model=SourceHealthResponse)
@@ -269,9 +304,9 @@ def source_health_rollups(
 
 
 @app.post("/api/profile", response_model=UserProfile)
-def update_profile(request: Request, payload: ProfileUpdateRequest) -> UserProfile:
+def update_profile(request: Request, background_tasks: BackgroundTasks, payload: ProfileUpdateRequest) -> UserProfile:
     repository: ArticleRepository = request.app.state.repository
-    return repository.update_user_profile(
+    profile = repository.update_user_profile(
         user_id=payload.user_id,
         display_name=payload.display_name,
         pinned_categories=payload.pinned_categories,
@@ -279,26 +314,32 @@ def update_profile(request: Request, payload: ProfileUpdateRequest) -> UserProfi
         pinned_entities=payload.pinned_entities,
         pinned_regions=payload.pinned_regions,
     )
+    _schedule_state_persist(background_tasks, request.app, f"profile-update:{payload.user_id}")
+    return profile
 
 
 @app.post("/api/interactions", response_model=UserProfile)
-def record_interaction(request: Request, payload: InteractionRequest) -> UserProfile:
+def record_interaction(request: Request, background_tasks: BackgroundTasks, payload: InteractionRequest) -> UserProfile:
     repository: ArticleRepository = request.app.state.repository
     try:
-        return repository.record_interaction(
+        profile = repository.record_interaction(
             user_id=payload.user_id,
             article_id=payload.article_id,
             action=payload.action,
         )
     except LookupError as exc:
         raise HTTPException(status_code=404, detail="Article not found.") from exc
+    _schedule_state_persist(background_tasks, request.app, f"interaction:{payload.user_id}:{payload.action}")
+    return profile
 
 
 @app.post("/api/refresh", response_model=RefreshResponse)
-def refresh(request: Request) -> RefreshResponse:
+def refresh(request: Request, background_tasks: BackgroundTasks) -> RefreshResponse:
     if not settings.allow_remote_refresh and not _is_loopback_client(request):
         host = request.client.host if request.client else "unknown"
         logger.warning("Rejected refresh request from non-local client %s request_id=%s", host, _request_id(request))
         raise HTTPException(status_code=403, detail="Refresh is limited to local requests unless ALLOW_REMOTE_REFRESH=true.")
     ingestion_service: IngestionService = request.app.state.ingestion_service
-    return RefreshResponse(**ingestion_service.ingest(request_id=_request_id(request)))
+    response = RefreshResponse(**ingestion_service.ingest(request_id=_request_id(request)))
+    _schedule_state_persist(background_tasks, request.app, f"refresh:{_request_id(request)}")
+    return response

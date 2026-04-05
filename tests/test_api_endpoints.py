@@ -169,7 +169,16 @@ class FakeIngestionService:
         return RefreshResponse(fetched=0, persisted=0, seed_used=False, errors=[]).model_dump()
 
 
-def build_test_app() -> tuple[FastAPI, FakeNewsService, FakeRepository, FakeIngestionService]:
+class FakeStateStore:
+    def __init__(self) -> None:
+        self.persist_paths: list[str] = []
+
+    def persist_from(self, db_path) -> bool:
+        self.persist_paths.append(str(db_path))
+        return True
+
+
+def build_test_app(state_store: FakeStateStore | None = None) -> tuple[FastAPI, FakeNewsService, FakeRepository, FakeIngestionService]:
     app = FastAPI()
     main_module.install_request_timing_middleware(app)
     news_service = FakeNewsService()
@@ -179,6 +188,7 @@ def build_test_app() -> tuple[FastAPI, FakeNewsService, FakeRepository, FakeInge
     app.state.news_service = news_service
     app.state.repository = repository
     app.state.ingestion_service = ingestion_service
+    app.state.state_store = state_store
 
     app.add_api_route("/api/news", main_module.news, methods=["GET"], response_model=FeedResponse)
     app.add_api_route("/api/search", main_module.search, methods=["POST"], response_model=FeedResponse)
@@ -288,6 +298,28 @@ class ApiEndpointTests(unittest.TestCase):
         self.assertTrue(any("API request completed" in message and "/api/search" in message for message in captured.output))
         self.assertTrue(any("Search response ready" in message and response.headers["X-Request-ID"] in message for message in captured.output))
 
+    def test_personalized_search_persists_runtime_state(self) -> None:
+        state_store = FakeStateStore()
+        app, _, _, _ = build_test_app(state_store=state_store)
+        with TestClient(app) as client:
+            response = client.post(
+                "/api/search",
+                json={"query": "AFA Singapore", "limit": 9, "rerank": False, "user_id": "sg-fan-1", "track_profile": True},
+            )
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(len(state_store.persist_paths), 1)
+        self.assertEqual(state_store.persist_paths[0], str(main_module.settings.db_path))
+
+    def test_anonymous_search_skips_runtime_state_persistence(self) -> None:
+        state_store = FakeStateStore()
+        app, _, _, _ = build_test_app(state_store=state_store)
+        with TestClient(app) as client:
+            response = client.post("/api/search", json={"query": "AFA Singapore", "limit": 9, "rerank": False})
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(state_store.persist_paths, [])
+
     def test_request_id_header_is_preserved_when_supplied(self) -> None:
         app, _, _, ingestion_service = build_test_app()
         with self.assertLogs("app.main", level="INFO") as captured:
@@ -368,6 +400,16 @@ class ApiEndpointTests(unittest.TestCase):
         self.assertEqual(ingestion_service.called, 1)
         self.assertEqual(ingestion_service.last_request_id, response.headers.get("X-Request-ID"))
         self.assertTrue(any("API request completed" in message and "/api/refresh" in message for message in captured.output))
+
+    def test_refresh_persists_runtime_state_after_ingest(self) -> None:
+        state_store = FakeStateStore()
+        app, _, _, ingestion_service = build_test_app(state_store=state_store)
+        with TestClient(app, client=("127.0.0.1", 50000)) as client:
+            response = client.post("/api/refresh")
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(ingestion_service.called, 1)
+        self.assertEqual(len(state_store.persist_paths), 1)
 
     def test_refresh_rejects_non_local_clients_by_default(self) -> None:
         app, _, _, ingestion_service = build_test_app()

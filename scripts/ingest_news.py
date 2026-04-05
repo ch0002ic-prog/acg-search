@@ -15,6 +15,7 @@ from app.database import ArticleRepository
 from app.schemas import SourceHealthResponse
 from app.services.ingestion import IngestionService
 from app.services.llm import LLMService
+from app.services.state_store import build_state_store
 from app.services.vector_store import VectorStore
 from app.sources.registry import build_sources
 
@@ -33,6 +34,9 @@ def main() -> None:
     )
     request_id = f"cli-ingest-{uuid.uuid4().hex[:12]}"
     result = ingestion_service.ingest(request_id=request_id)
+    state_store = build_state_store(settings)
+    if state_store is not None:
+        state_store.persist_from(settings.db_path)
     health_items = repository.list_source_health(stale_after_hours=settings.source_health_stale_hours)
     health_summary = SourceHealthResponse(
         items=health_items,

@@ -216,9 +216,17 @@ To make pushes to `main` deploy automatically, the GitHub repository must have t
 The Vercel deployment now installs from the repo-level `requirements.txt`, which is already limited to runtime dependencies instead of browser-test packages.
 The repository also pins Python with `.python-version` because Vercel reads Python versions from `.python-version`, `pyproject.toml`, or `Pipfile.lock` rather than from a `runtime` string in `vercel.json`.
 
-Important deployment note: this app still stores articles, user profiles, interactions, and source-health history in SQLite plus local files. On Vercel, those writable paths must live under `/tmp`, which this repo now defaults to automatically. That makes the app boot successfully on Vercel, but `/tmp` is ephemeral and is not durable production storage. Automatic deploys will work once Vercel secrets are set, but long-lived persistence still requires moving state off local disk before this backend can be considered fully production-safe on Vercel.
+Important deployment note: the app still uses SQLite as its operational store, and on Vercel that writable database lives under `/tmp`. To make that durable without rewriting the repository layer yet, set `DATABASE_URL` to a Neon or other Postgres database. When configured, the app restores the SQLite file from Postgres on startup and persists updated snapshots back after profile writes, personalized searches, interactions, refresh runs, and CLI ingests.
 
-The bundled seed dataset continues to load on Vercel even though the writable runtime state lives under `/tmp`, so cold starts still have baseline feed and search content.
+The relevant environment variables are:
+
+- `DATABASE_URL`
+- `STATE_SNAPSHOT_KEY` (optional, defaults to `acg-search-runtime`)
+- `STATE_STORE_CONNECT_TIMEOUT_SECONDS` (optional, defaults to `10`)
+
+This is a low-risk durability bridge rather than a full native Postgres migration. The current SQLite and FTS5 logic stays intact, while Neon stores the latest runtime snapshot across cold starts.
+
+The bundled seed dataset continues to load on Vercel even though the writable runtime state lives under `/tmp`, so cold starts still have baseline feed and search content. It also serves as the first bootstrap source when the durable snapshot store is empty.
 
 For better production parity, the app will prefer a bundled deployment snapshot at `data/deploy_articles.json` when it exists, then fall back to the smaller sample seed set.
 It will also bootstrap the source monitor from `data/deploy_source_health.json` when that snapshot is available.
