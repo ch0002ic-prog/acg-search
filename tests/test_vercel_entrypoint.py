@@ -4,7 +4,7 @@ import unittest
 
 from fastapi.testclient import TestClient
 
-from api.index import app
+from app.index import app
 
 
 class VercelEntrypointTests(unittest.TestCase):
