@@ -105,6 +105,10 @@ class DigestTimings(BaseModel):
     digest_ms: float = 0.0
     article_count: int = 0
     cache_hit: bool = False
+    llm_requested: bool = False
+    llm_skipped: bool = False
+    llm_timed_out: bool = False
+    llm_upgrade_recommended: bool = False
 
 
 class FeedResponse(BaseModel):
@@ -161,6 +165,7 @@ class SearchRequest(BaseModel):
 class DigestRequest(BaseModel):
     query: str | None = Field(default=None, max_length=200)
     article_ids: list[str] = Field(min_length=1, max_length=12)
+    prefer_llm: bool = False
 
 
 class DigestResponse(BaseModel):

@@ -15,7 +15,7 @@ class FakeNewsService:
     def __init__(self) -> None:
         self.last_home_args: tuple[int, str | None] | None = None
         self.last_search_args: tuple[str, int, bool, str | None, bool, bool] | None = None
-        self.last_digest_args: tuple[str | None, list[str]] | None = None
+        self.last_digest_args: tuple[str | None, list[str], bool] | None = None
 
     def home_feed(self, limit: int, user_id: str | None = None) -> FeedResponse:
         self.last_home_args = (limit, user_id)
@@ -38,9 +38,18 @@ class FakeNewsService:
             timings=SearchTimings(total_ms=12.5, expand_ms=1.4, lexical_ms=2.1, vector_ms=3.2, vector_cache_hit=False, rerank_ms=4.5, rerank_cache_hit=False),
         )
 
-    def search_digest(self, query: str | None, article_ids: list[str]) -> tuple[list[str], DigestTimings]:
-        self.last_digest_args = (query, article_ids)
-        return [f"Digest for {query or 'feed'}"], DigestTimings(total_ms=6.2, lookup_ms=0.4, digest_ms=5.8, article_count=len(article_ids), cache_hit=True)
+    def search_digest(self, query: str | None, article_ids: list[str], prefer_llm: bool = False) -> tuple[list[str], DigestTimings]:
+        self.last_digest_args = (query, article_ids, prefer_llm)
+        return [f"Digest for {query or 'feed'}"], DigestTimings(
+            total_ms=6.2,
+            lookup_ms=0.4,
+            digest_ms=5.8,
+            article_count=len(article_ids),
+            cache_hit=True,
+            llm_requested=prefer_llm,
+            llm_skipped=not prefer_llm,
+            llm_upgrade_recommended=not prefer_llm,
+        )
 
 
 class FakeRepository:
@@ -331,9 +340,23 @@ class ApiEndpointTests(unittest.TestCase):
             )
 
         self.assertEqual(response.status_code, 200)
-        self.assertEqual(news_service.last_digest_args, ("AFA Singapore", ["a1", "a2", "a1"]))
+        self.assertEqual(news_service.last_digest_args, ("AFA Singapore", ["a1", "a2", "a1"], False))
         self.assertEqual(response.json()["digest"], ["Digest for AFA Singapore"])
         self.assertTrue(response.json()["timings"]["cache_hit"])
+        self.assertTrue(response.json()["timings"]["llm_upgrade_recommended"])
+
+    def test_search_digest_endpoint_can_request_llm_upgrade(self) -> None:
+        app, news_service, _, _ = build_test_app()
+        with TestClient(app) as client:
+            response = client.post(
+                "/api/search/digest",
+                json={"query": "AFA Singapore", "article_ids": ["a1", "a2"], "prefer_llm": True},
+            )
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(news_service.last_digest_args, ("AFA Singapore", ["a1", "a2"], True))
+        self.assertTrue(response.json()["timings"]["llm_requested"])
+        self.assertFalse(response.json()["timings"]["llm_skipped"])
 
     def test_personalized_search_persists_runtime_state(self) -> None:
         state_store = FakeStateStore()

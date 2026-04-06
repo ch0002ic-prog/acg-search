@@ -97,6 +97,10 @@ class LLMService:
     def is_enabled(self) -> bool:
         return self.settings.llm_provider.strip().lower() != "none" and bool(self.settings.llm_model)
 
+    def should_recommend_digest_upgrade(self) -> bool:
+        provider = self.settings.llm_provider.strip().lower().replace("-", "_")
+        return self.is_enabled() and provider not in {"", "none", "ollama"}
+
     def should_skip_inline_search_llm(self, query: str, heuristic_expansion: str | None = None) -> bool:
         provider = self.settings.llm_provider.strip().lower().replace("-", "_")
         if provider != "ollama" or not self.is_enabled():
@@ -308,7 +312,7 @@ class LLMService:
 
         digest_items = [_compact_digest_item(item) for item in items[:DIGEST_ITEM_LIMIT]]
         cache_key = self._cache_key(
-            "digest",
+            "digest-llm" if allow_llm else "digest-fast",
             {
                 "provider": self.settings.llm_provider,
                 "model": self.settings.llm_model,

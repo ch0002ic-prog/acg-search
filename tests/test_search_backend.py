@@ -730,6 +730,44 @@ class SearchBackendTests(unittest.TestCase):
         self.assertFalse(mocked_digest.call_args.kwargs["allow_llm"])
         self.assertFalse(timings.cache_hit)
 
+    def test_search_digest_can_prefer_llm_for_specific_local_queries(self) -> None:
+        response = self.news_service.search(query="latest hoyofest singapore artist alley", limit=5, rerank=False, include_digest=False)
+        article_ids = [item.id for item in response.items[:3]]
+
+        with (
+            patch.object(
+                self.llm_service,
+                "should_skip_inline_search_llm",
+                return_value=True,
+            ),
+            patch.object(
+                self.llm_service,
+                "generate_digest_with_metadata",
+                return_value=(["enhanced digest"], CallMetrics(duration_ms=2100.0, cache_hit=False)),
+            ) as mocked_digest,
+        ):
+            digest, timings = self.news_service.search_digest(
+                query="latest hoyofest singapore artist alley",
+                article_ids=article_ids,
+                prefer_llm=True,
+            )
+
+        self.assertEqual(digest, ["enhanced digest"])
+        self.assertTrue(mocked_digest.call_args.kwargs["allow_llm"])
+        self.assertTrue(timings.llm_requested)
+        self.assertFalse(timings.llm_skipped)
+
+    def test_search_digest_does_not_recommend_llm_upgrade_for_local_ollama(self) -> None:
+        response = self.news_service.search(query="latest hoyofest singapore artist alley", limit=5, rerank=False, include_digest=False)
+        article_ids = [item.id for item in response.items[:3]]
+
+        with patch.object(self.llm_service, "should_skip_inline_search_llm", return_value=True):
+            _digest, timings = self.news_service.search_digest(query="latest hoyofest singapore artist alley", article_ids=article_ids)
+
+        self.assertFalse(timings.llm_requested)
+        self.assertTrue(timings.llm_skipped)
+        self.assertFalse(timings.llm_upgrade_recommended)
+
     def test_search_excludes_internal_link_results(self) -> None:
         now = datetime.now(timezone.utc)
         self.repository.upsert_articles(

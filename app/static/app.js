@@ -533,7 +533,21 @@ function formatDigestTitle(title, timings) {
   if (!timings) {
     return title;
   }
-  return `${title} · ${formatLatencyMs(timings.total_ms)}${timings.cache_hit ? " cached" : ""}`;
+  const suffixes = [];
+  if (timings.cache_hit) {
+    suffixes.push("cached");
+  }
+  if (timings.llm_requested && !timings.llm_skipped && !timings.llm_timed_out) {
+    suffixes.push("enhanced");
+  }
+  return `${title} · ${formatLatencyMs(timings.total_ms)}${suffixes.length ? ` ${suffixes.join(" ")}` : ""}`;
+}
+
+function digestLinesEqual(left, right) {
+  if (!Array.isArray(left) || !Array.isArray(right) || left.length !== right.length) {
+    return false;
+  }
+  return left.every((value, index) => value === right[index]);
 }
 
 function cancelPendingSearchDigest() {
@@ -562,7 +576,25 @@ async function loadDeferredSearchDigest(query, items) {
     if (requestId !== state.searchDigestRequestId || state.currentMode !== "search" || state.currentQuery !== query) {
       return;
     }
-    renderDigest(payload.digest || [], formatDigestTitle("Why these headlines", payload.timings));
+    const initialDigest = payload.digest || [];
+    renderDigest(initialDigest, formatDigestTitle("Why these headlines", payload.timings));
+
+    if (!payload.timings?.llm_upgrade_recommended) {
+      return;
+    }
+
+    const enhancedPayload = await apiRequest("/api/search/digest", {
+      method: "POST",
+      body: JSON.stringify({ query, article_ids: articleIds, prefer_llm: true }),
+    });
+    if (requestId !== state.searchDigestRequestId || state.currentMode !== "search" || state.currentQuery !== query) {
+      return;
+    }
+    const enhancedDigest = enhancedPayload.digest || [];
+    if (digestLinesEqual(initialDigest, enhancedDigest)) {
+      return;
+    }
+    renderDigest(enhancedDigest, formatDigestTitle("Why these headlines", enhancedPayload.timings));
   } catch (error) {
     if (requestId !== state.searchDigestRequestId || state.currentMode !== "search" || state.currentQuery !== query) {
       return;

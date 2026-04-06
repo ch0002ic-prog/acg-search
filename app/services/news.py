@@ -214,7 +214,7 @@ class NewsService:
             timings=timings,
         )
 
-    def search_digest(self, query: str | None, article_ids: list[str]) -> tuple[list[str], DigestTimings]:
+    def search_digest(self, query: str | None, article_ids: list[str], prefer_llm: bool = False) -> tuple[list[str], DigestTimings]:
         started_at = time.perf_counter()
         if not article_ids:
             return [], DigestTimings(total_ms=_elapsed_ms(started_at), lookup_ms=0.0, digest_ms=0.0, article_count=0, cache_hit=False)
@@ -230,11 +230,13 @@ class NewsService:
         if not ordered_articles:
             return [], DigestTimings(total_ms=_elapsed_ms(started_at), lookup_ms=lookup_ms, digest_ms=0.0, article_count=0, cache_hit=False)
 
-        skip_digest_llm = bool(query) and self.llm_service.should_skip_inline_search_llm(query)
+        skip_digest_llm = bool(query) and not prefer_llm and self.llm_service.should_skip_inline_search_llm(query)
+        allow_llm = prefer_llm or not skip_digest_llm
+        llm_upgrade_recommended = bool(query) and skip_digest_llm and self.llm_service.should_recommend_digest_upgrade()
         digest, digest_metrics = self.llm_service.generate_digest_with_metadata(
             ordered_articles,
             query=query,
-            allow_llm=not skip_digest_llm,
+            allow_llm=allow_llm,
         )
         return digest, DigestTimings(
             total_ms=_elapsed_ms(started_at),
@@ -242,6 +244,10 @@ class NewsService:
             digest_ms=digest_metrics.duration_ms,
             article_count=len(ordered_articles),
             cache_hit=digest_metrics.cache_hit,
+            llm_requested=allow_llm,
+            llm_skipped=skip_digest_llm,
+            llm_timed_out=digest_metrics.timed_out,
+            llm_upgrade_recommended=llm_upgrade_recommended,
         )
 
 

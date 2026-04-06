@@ -324,16 +324,21 @@ def search(request: Request, background_tasks: BackgroundTasks, payload: SearchR
 @app.post("/api/search/digest", response_model=DigestResponse)
 def search_digest(request: Request, payload: DigestRequest) -> DigestResponse:
     news_service: NewsService = request.app.state.news_service
-    digest, timings = news_service.search_digest(query=payload.query, article_ids=payload.article_ids)
+    digest, timings = news_service.search_digest(query=payload.query, article_ids=payload.article_ids, prefer_llm=payload.prefer_llm)
     logger.info(
-        "Search digest ready: request_id=%s query=%r article_count=%s total_ms=%.1f lookup_ms=%.1f digest_ms=%.1f cache_hit=%s",
+        "Search digest ready: request_id=%s query=%r article_count=%s prefer_llm=%s total_ms=%.1f lookup_ms=%.1f digest_ms=%.1f cache_hit=%s llm_requested=%s llm_skipped=%s llm_timed_out=%s llm_upgrade_recommended=%s",
         _request_id(request),
         payload.query,
         timings.article_count,
+        payload.prefer_llm,
         timings.total_ms,
         timings.lookup_ms,
         timings.digest_ms,
         timings.cache_hit,
+        timings.llm_requested,
+        timings.llm_skipped,
+        timings.llm_timed_out,
+        timings.llm_upgrade_recommended,
     )
     return DigestResponse(digest=digest, query=payload.query, article_count=timings.article_count, timings=timings)
 

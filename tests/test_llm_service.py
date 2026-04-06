@@ -186,6 +186,16 @@ class LLMServiceTests(unittest.TestCase):
         self.assertEqual(mocked_chat.call_count, 0)
         self.assertEqual(first, second)
 
+    def test_fast_digest_cache_does_not_block_later_llm_digest(self) -> None:
+        with patch.object(self.service, "_chat", return_value="- First line\n- Second line\n- Third line") as mocked_chat:
+            fast_digest, fast_metrics = self.service.generate_digest_with_metadata(self.articles, query="HoyoFest Singapore", allow_llm=False)
+            enhanced_digest, enhanced_metrics = self.service.generate_digest_with_metadata(self.articles, query="HoyoFest Singapore", allow_llm=True)
+
+        self.assertFalse(fast_metrics.cache_hit)
+        self.assertFalse(enhanced_metrics.cache_hit)
+        self.assertEqual(mocked_chat.call_count, 1)
+        self.assertNotEqual(fast_digest, enhanced_digest)
+
 
 if __name__ == "__main__":
     unittest.main()
