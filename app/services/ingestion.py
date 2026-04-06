@@ -114,12 +114,10 @@ class IngestionService:
 
         self.repository.upsert_articles(collected)
         self.vector_store.upsert_articles(collected)
-        canonicalized_articles, canonicalized_old_ids = self._canonicalize_google_news_wrapper_articles()
-        if canonicalized_articles:
-            self.vector_store.upsert_articles(canonicalized_articles)
+        canonicalized_articles, canonicalized_old_ids = self.canonicalize_google_news_wrapper_articles()
         duplicate_ids = self.repository.prune_duplicate_articles()
         mismatch_ids = self._prune_source_mismatches()
-        self.vector_store.delete_articles(canonicalized_old_ids + duplicate_ids + mismatch_ids)
+        self.vector_store.delete_articles(duplicate_ids + mismatch_ids)
         persisted_by_source = Counter(article.source_name for article in collected)
         self.repository.record_source_health_batch(
             [
@@ -155,6 +153,14 @@ class IngestionService:
             len(mismatch_ids),
         )
         return result
+
+    def canonicalize_google_news_wrapper_articles(self) -> tuple[list[ArticleRecord], list[str]]:
+        canonicalized_articles, deleted_ids = self._canonicalize_google_news_wrapper_articles()
+        if canonicalized_articles:
+            self.vector_store.upsert_articles(canonicalized_articles)
+        if deleted_ids:
+            self.vector_store.delete_articles(deleted_ids)
+        return canonicalized_articles, deleted_ids
 
     def _canonicalize_google_news_wrapper_articles(self) -> tuple[list[ArticleRecord], list[str]]:
         wrapper_articles = self.repository.list_google_news_wrapper_articles()

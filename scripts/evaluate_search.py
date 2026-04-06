@@ -74,10 +74,19 @@ def main() -> None:
 
     report: list[dict[str, object]] = []
     passed = 0
+    wrapper_url_failures: list[str] = []
+    source_page_top1_queries: list[str] = []
+    top1_type_counts = {"article": 0, "event": 0, "source_page": 0}
 
     for case in SEARCH_CASES:
         response = news_service.search(query=case.query, limit=5, rerank=True, user_id=None)
         items = response.items
+        wrapper_hits = [item.url for item in items[:5] if "news.google.com" in item.url.lower()]
+        top1_result_type = items[0].result_type if items else None
+        if top1_result_type in top1_type_counts:
+            top1_type_counts[top1_result_type] += 1
+        if top1_result_type == "source_page":
+            source_page_top1_queries.append(case.query)
 
         result_rows: list[dict[str, object]] = []
         top1_has_match = False
@@ -108,6 +117,10 @@ def main() -> None:
         else:
             status = "pass" if top1_has_match or (case.allow_empty and top3_has_match) else "fail"
 
+        if wrapper_hits:
+            status = "fail"
+            wrapper_url_failures.append(case.query)
+
         if status == "pass":
             passed += 1
 
@@ -119,6 +132,8 @@ def main() -> None:
                 "result_count": len(items),
                 "top1_has_expected_keyword": top1_has_match,
                 "top3_has_expected_keyword": top3_has_match,
+                "top1_result_type": top1_result_type,
+                "wrapper_url_hits": wrapper_hits,
                 "results": result_rows,
             }
         )
@@ -129,6 +144,9 @@ def main() -> None:
                 "passed": passed,
                 "total": len(report),
                 "pass_rate": round(passed / len(report), 3),
+                "wrapper_url_failures": wrapper_url_failures,
+                "top1_type_counts": top1_type_counts,
+                "source_page_top1_queries": source_page_top1_queries,
                 "cases": report,
             },
             indent=2,

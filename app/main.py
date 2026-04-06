@@ -74,6 +74,7 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
         sources=build_sources(settings),
     )
     ingestion_service.bootstrap_if_empty()
+    canonicalized_articles, canonicalized_old_ids = ingestion_service.canonicalize_google_news_wrapper_articles()
     if state_store is not None:
         state_store.persist_from(settings.db_path)
     news_service = NewsService(repository=repository, vector_store=vector_store, llm_service=llm_service)
@@ -82,6 +83,8 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
         logger.info("Removed %s orphan interaction rows during startup maintenance", orphan_interactions)
     if invalid_url_ids:
         logger.info("Removed %s non-external article rows during startup maintenance", len(invalid_url_ids))
+    if canonicalized_old_ids:
+        logger.info("Canonicalized %s stored Google News wrapper rows during startup maintenance", len(canonicalized_old_ids))
     return repository, news_service, ingestion_service
 
 
