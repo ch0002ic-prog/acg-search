@@ -173,9 +173,12 @@ You can run a backend-only query suite to inspect search quality across a wider 
 
 ```bash
 .venv/bin/python scripts/evaluate_search.py
+.venv/bin/python scripts/evaluate_search.py --summary-only
 ```
 
-The script currently evaluates 31 queries against the current article store, checks the top results for expected keywords, and prints a JSON report with per-query pass/fail status. It intentionally runs without a `user_id` so profile learning does not contaminate baseline search evaluation.
+The script currently evaluates 35 queries against the current article store, checks the top results for expected keywords, and prints a JSON report with per-query pass/fail status. It intentionally runs without a `user_id` so profile learning does not contaminate baseline search evaluation.
+
+By default it matches the interactive product path and excludes inline digest generation from the search call. Use `--include-digest` only when you explicitly want to measure the inline-digest path, and use `--summary-only` when you only need the aggregate pass-rate and top-result mix.
 
 This live-store evaluation is intentionally separate from the deterministic CI suite. The CI tests run against a controlled fixture, while `scripts/evaluate_search.py` checks relevance against whatever has actually been ingested locally.
 

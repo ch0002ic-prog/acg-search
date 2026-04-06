@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 from dataclasses import dataclass
 import json
 from pathlib import Path
@@ -70,6 +71,19 @@ def keyword_hits(text: str, keywords: tuple[str, ...]) -> list[str]:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Evaluate current search ranking behavior against representative ACG queries.")
+    parser.add_argument(
+        "--include-digest",
+        action="store_true",
+        help="Include inline digest generation during benchmark searches. Disabled by default to match interactive search.",
+    )
+    parser.add_argument(
+        "--summary-only",
+        action="store_true",
+        help="Print only the aggregate benchmark summary instead of the full case report.",
+    )
+    args = parser.parse_args()
+
     _, news_service, _ = build_runtime()
 
     report: list[dict[str, object]] = []
@@ -79,7 +93,13 @@ def main() -> None:
     top1_type_counts = {"article": 0, "event": 0, "source_page": 0}
 
     for case in SEARCH_CASES:
-        response = news_service.search(query=case.query, limit=5, rerank=True, user_id=None)
+        response = news_service.search(
+            query=case.query,
+            limit=5,
+            rerank=True,
+            user_id=None,
+            include_digest=args.include_digest,
+        )
         items = response.items
         wrapper_hits = [item.url for item in items[:5] if "news.google.com" in item.url.lower()]
         top1_result_type = items[0].result_type if items else None
@@ -124,31 +144,36 @@ def main() -> None:
         if status == "pass":
             passed += 1
 
-        report.append(
-            {
-                "query": case.query,
-                "status": status,
-                "allow_empty": case.allow_empty,
-                "result_count": len(items),
-                "top1_has_expected_keyword": top1_has_match,
-                "top3_has_expected_keyword": top3_has_match,
-                "top1_result_type": top1_result_type,
-                "wrapper_url_hits": wrapper_hits,
-                "results": result_rows,
-            }
-        )
+        if not args.summary_only:
+            report.append(
+                {
+                    "query": case.query,
+                    "status": status,
+                    "allow_empty": case.allow_empty,
+                    "result_count": len(items),
+                    "top1_has_expected_keyword": top1_has_match,
+                    "top3_has_expected_keyword": top3_has_match,
+                    "top1_result_type": top1_result_type,
+                    "wrapper_url_hits": wrapper_hits,
+                    "results": result_rows,
+                }
+            )
+
+    summary: dict[str, object] = {
+        "passed": passed,
+        "total": len(SEARCH_CASES),
+        "pass_rate": round(passed / len(SEARCH_CASES), 3),
+        "wrapper_url_failures": wrapper_url_failures,
+        "top1_type_counts": top1_type_counts,
+        "source_page_top1_queries": source_page_top1_queries,
+        "include_digest": args.include_digest,
+    }
+    if not args.summary_only:
+        summary["cases"] = report
 
     print(
         json.dumps(
-            {
-                "passed": passed,
-                "total": len(report),
-                "pass_rate": round(passed / len(report), 3),
-                "wrapper_url_failures": wrapper_url_failures,
-                "top1_type_counts": top1_type_counts,
-                "source_page_top1_queries": source_page_top1_queries,
-                "cases": report,
-            },
+            summary,
             indent=2,
             ensure_ascii=False,
         )
