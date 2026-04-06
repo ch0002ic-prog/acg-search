@@ -28,6 +28,7 @@ from app.services.sample_data import load_sample_articles, load_source_health_sn
 from app.services.vector_store import VectorStore
 from app.url_utils import is_external_http_url
 from app.sources.base import BaseSource, SourceArticle
+from app.sources.rss import RSS_REQUEST_HEADERS, resolve_google_news_url
 
 
 logger = logging.getLogger(__name__)
@@ -113,9 +114,12 @@ class IngestionService:
 
         self.repository.upsert_articles(collected)
         self.vector_store.upsert_articles(collected)
+        canonicalized_articles, canonicalized_old_ids = self._canonicalize_google_news_wrapper_articles()
+        if canonicalized_articles:
+            self.vector_store.upsert_articles(canonicalized_articles)
         duplicate_ids = self.repository.prune_duplicate_articles()
         mismatch_ids = self._prune_source_mismatches()
-        self.vector_store.delete_articles(duplicate_ids + mismatch_ids)
+        self.vector_store.delete_articles(canonicalized_old_ids + duplicate_ids + mismatch_ids)
         persisted_by_source = Counter(article.source_name for article in collected)
         self.repository.record_source_health_batch(
             [
@@ -140,16 +144,51 @@ class IngestionService:
             "errors": errors,
         }
         logger.info(
-            "Refresh ingest completed: request_id=%s fetched=%s persisted=%s seed_used=%s errors=%s duplicates_pruned=%s mismatches_pruned=%s",
+            "Refresh ingest completed: request_id=%s fetched=%s persisted=%s seed_used=%s errors=%s canonicalized=%s duplicates_pruned=%s mismatches_pruned=%s",
             request_id or "none",
             result["fetched"],
             result["persisted"],
             seed_used,
             len(errors),
+            len(canonicalized_old_ids),
             len(duplicate_ids),
             len(mismatch_ids),
         )
         return result
+
+    def _canonicalize_google_news_wrapper_articles(self) -> tuple[list[ArticleRecord], list[str]]:
+        wrapper_articles = self.repository.list_google_news_wrapper_articles()
+        if not wrapper_articles:
+            return [], []
+
+        replacements: list[tuple[str, ArticleRecord]] = []
+        with httpx.Client(
+            headers=RSS_REQUEST_HEADERS,
+            timeout=self.settings.request_timeout_seconds,
+            follow_redirects=True,
+        ) as client:
+            for article in wrapper_articles:
+                resolved_url = resolve_google_news_url(article.url, client=client)
+                if resolved_url == article.url or not is_external_http_url(resolved_url):
+                    continue
+
+                replacements.append(
+                    (
+                        article.id,
+                        article.model_copy(
+                            update={
+                                "id": hashlib.sha1(resolved_url.encode("utf-8")).hexdigest(),
+                                "url": resolved_url,
+                            }
+                        ),
+                    )
+                )
+
+        if not replacements:
+            return [], []
+
+        deleted_ids = self.repository.replace_articles(replacements)
+        return [article for _, article in replacements], deleted_ids
 
     def _to_article(self, source: BaseSource, item: SourceArticle) -> ArticleRecord:
         content = item.content or item.summary

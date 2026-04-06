@@ -358,6 +358,7 @@ class SearchBackendTests(unittest.TestCase):
         published_at: datetime,
         source_name: str,
         url: str | None = None,
+        source_type: str = "test",
     ) -> ArticleRecord:
         freshness = score_freshness(published_at)
         return ArticleRecord(
@@ -365,7 +366,7 @@ class SearchBackendTests(unittest.TestCase):
             title=title,
             url=url or f"https://example.com/{article_id}",
             source_name=source_name,
-            source_type="test",
+            source_type=source_type,
             published_at=published_at,
             summary=summary,
             content=content,
@@ -428,6 +429,127 @@ class SearchBackendTests(unittest.TestCase):
     def test_exact_match_beats_partial_market_overlap(self) -> None:
         response = self.news_service.search(query="doujin market", limit=5, rerank=False, user_id=None)
         self.assertEqual(response.items[0].title, "Doujin Market 2026")
+
+    def test_result_types_distinguish_stories_events_and_source_pages(self) -> None:
+        now = datetime.now(timezone.utc)
+        story = self.make_article(
+            article_id="story-record",
+            title="AFA story",
+            summary="News coverage",
+            content="News coverage",
+            categories=["anime"],
+            tags=["afa"],
+            region_tags=["Singapore"],
+            sg_relevance=0.7,
+            published_at=now,
+            source_name="Anime Festival Asia",
+            source_type="rss",
+        )
+        event = self.make_article(
+            article_id="event-record",
+            title="AFA ticket page",
+            summary="Official event listing",
+            content="Official event listing",
+            categories=["events"],
+            tags=["afa"],
+            region_tags=["Singapore"],
+            sg_relevance=0.7,
+            published_at=now,
+            source_name="Eventbrite SG Anime",
+            source_type="event_listing",
+        )
+        source_page = self.make_article(
+            article_id="source-page-record",
+            title="AFA source page",
+            summary="Keyword source page",
+            content="Keyword source page",
+            categories=["events"],
+            tags=["afa"],
+            region_tags=["Singapore"],
+            sg_relevance=0.7,
+            published_at=now,
+            source_name="SG Source Pages",
+            source_type="curated",
+        )
+
+        self.assertEqual(story.result_type, "article")
+        self.assertEqual(event.result_type, "event")
+        self.assertEqual(source_page.result_type, "source_page")
+        self.assertEqual(source_page.model_dump(mode="json")["result_type"], "source_page")
+
+    def test_recent_event_story_beats_stale_exact_phrase_match(self) -> None:
+        now = datetime.now(timezone.utc)
+        self.repository.upsert_articles(
+            [
+                self.make_article(
+                    article_id="neo-tokyo-festival-archive-2013",
+                    title="Neo Tokyo Festival 2013 archive overview",
+                    summary="Archive recap of Neo Tokyo Festival 2013.",
+                    content="An old retrospective for Neo Tokyo Festival 2013.",
+                    categories=["events", "anime"],
+                    tags=["festival"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.83,
+                    published_at=now - timedelta(days=365 * 10),
+                    source_name="Archive Desk",
+                ),
+                self.make_article(
+                    article_id="neo-tokyo-festival-current-2026",
+                    title="Neo Tokyo Festival Singapore 2026 is back with new guests",
+                    summary="Fresh Neo Tokyo Festival Singapore coverage for the current season.",
+                    content="Current Neo Tokyo Festival Singapore coverage with guests, merch, and event highlights.",
+                    categories=["events", "anime"],
+                    tags=["festival"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.83,
+                    published_at=now - timedelta(days=2),
+                    source_name="Current Desk",
+                ),
+            ]
+        )
+
+        response = self.news_service.search(query="Neo Tokyo Festival", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertEqual(response.items[0].id, "neo-tokyo-festival-current-2026")
+
+    def test_article_url_beats_media_viewer_url_for_same_query(self) -> None:
+        now = datetime.now(timezone.utc)
+        self.repository.upsert_articles(
+            [
+                self.make_article(
+                    article_id="afa-media-viewer",
+                    title="AFA 2025 highlights photo gallery",
+                    summary="A media-viewer page for AFA 2025 highlights.",
+                    content="A media-viewer page for AFA 2025 highlights.",
+                    categories=["events", "anime"],
+                    tags=["afa"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.74,
+                    published_at=now - timedelta(days=1),
+                    source_name="Google News SG Events",
+                    url="https://www.imdb.com/title/tt0973277/mediaviewer/rm625850625/",
+                ),
+                self.make_article(
+                    article_id="afa-article-url",
+                    title="AFA 2025 highlights from this year's Anime Festival Asia",
+                    summary="A proper article page for AFA 2025 highlights.",
+                    content="A proper article page for AFA 2025 highlights.",
+                    categories=["events", "anime"],
+                    tags=["afa"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.74,
+                    published_at=now - timedelta(days=1),
+                    source_name="Google News SG Events",
+                    url="https://danamic.org/2025/11/29/afa-2025-highlights-from-this-years-anime-festival-asia/",
+                ),
+            ]
+        )
+
+        response = self.news_service.search(query="AFA 2025 highlights", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertEqual(response.items[0].id, "afa-article-url")
 
     def test_poppa_query_excludes_lil_poppa_false_positive(self) -> None:
         response = self.news_service.search(query="POPPA Singapore", limit=5, rerank=False, user_id=None)

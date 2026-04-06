@@ -610,6 +610,44 @@ class ArticleRepository:
             ).fetchall()
         return [self._row_to_article(row) for row in rows]
 
+    def list_google_news_wrapper_articles(self) -> list[ArticleRecord]:
+        with self.connect() as connection:
+            rows = connection.execute(
+                """
+                SELECT *
+                FROM articles
+                WHERE source_name LIKE 'Google News%'
+                  AND LOWER(url) LIKE 'https://news.google.com/%'
+                ORDER BY published_at DESC
+                """
+            ).fetchall()
+        return [self._row_to_article(row) for row in rows]
+
+    def replace_articles(self, replacements: list[tuple[str, ArticleRecord]]) -> list[str]:
+        normalized_replacements = [
+            (str(old_id), article)
+            for old_id, article in replacements
+            if old_id and article.id and old_id != article.id
+        ]
+        if not normalized_replacements:
+            return []
+
+        self.upsert_articles([article for _, article in normalized_replacements])
+
+        delete_ids = sorted({old_id for old_id, _ in normalized_replacements})
+        interaction_remap = {old_id: article.id for old_id, article in normalized_replacements}
+        placeholders = ", ".join("?" for _ in delete_ids)
+
+        with self.connect() as connection:
+            self._begin_immediate(connection)
+            self._remap_user_interactions(connection, self._collapse_article_remap(interaction_remap))
+            connection.execute(f"DELETE FROM articles_fts WHERE article_id IN ({placeholders})", delete_ids)
+            connection.execute(f"DELETE FROM articles WHERE id IN ({placeholders})", delete_ids)
+            self._delete_orphan_user_interactions(connection)
+            connection.commit()
+
+        return delete_ids
+
     def delete_articles(self, article_ids: list[str]) -> None:
         if not article_ids:
             return

@@ -7,6 +7,7 @@ import re
 
 from app.schemas import ArticleRecord, UserProfile
 from app.services.entities import entity_overlap_score, infer_entity_tags
+from app.url_utils import score_external_url_quality
 
 
 CATEGORY_KEYWORDS: dict[str, set[str]] = {
@@ -107,6 +108,28 @@ STOPWORDS = {
 
 GENERIC_QUERY_TOKENS = {"singapore", "sg", "sea", "news", "latest", "today"}
 MEANINGFUL_SHORT_QUERY_TOKENS = {"afa", "sgcc", "mlbb", "tcg", "ff14", "ffxiv", "sf6", "vct"}
+EVENT_QUERY_TERMS = {
+    "afa",
+    "ani-idol",
+    "ani idol",
+    "anime festival asia",
+    "artist alley",
+    "comic con",
+    "convention",
+    "cosplay",
+    "doujin market",
+    "event",
+    "festival",
+    "guest",
+    "hoyofest",
+    "idol",
+    "market",
+    "moe moe q",
+    "otaket",
+    "poppa",
+    "sgcc",
+    "ticket",
+}
 
 
 def strip_text(value: str) -> str:
@@ -315,6 +338,58 @@ def exact_query_phrase_boost(query: str, article: ArticleRecord) -> float:
     if cleaned_query in text:
         return 0.07
     return 0.0
+
+
+def _query_looks_event_like(query: str) -> bool:
+    lowered = query.lower()
+    return any(term in lowered for term in EVENT_QUERY_TERMS)
+
+
+def score_temporal_query_fit(query: str | None, article: ArticleRecord, now: datetime | None = None) -> float:
+    if not query:
+        return 1.0
+
+    if now is None:
+        now = datetime.now(timezone.utc)
+
+    score = 1.0
+    age_days = max((now - article.published_at).total_seconds() / 86400, 0.0)
+    event_like = _query_looks_event_like(query)
+    query_years = {int(year) for year in re.findall(r"\b(20\d{2})\b", query)}
+    title_years = [int(year) for year in re.findall(r"\b(20\d{2})\b", article.title)]
+
+    if event_like:
+        if age_days > 365 * 3:
+            score = min(score, 0.26)
+        elif age_days > 365:
+            score = min(score, 0.42)
+        elif age_days > 180:
+            score = min(score, 0.68)
+        elif age_days > 90:
+            score = min(score, 0.84)
+
+    if title_years and not query_years:
+        newest_title_year = max(title_years)
+        if newest_title_year <= now.year - 3:
+            score = min(score, 0.38 if event_like else 0.58)
+        elif newest_title_year <= now.year - 1 and event_like:
+            score = min(score, 0.72)
+
+    if query_years and title_years and query_years.isdisjoint(title_years):
+        score = min(score, 0.56)
+
+    return max(min(score, 1.0), 0.2)
+
+
+def score_result_quality(article: ArticleRecord, query: str | None = None) -> float:
+    score = score_external_url_quality(article.url)
+    if article.result_type == "event":
+        score *= 0.97
+    elif article.result_type == "source_page":
+        score *= 0.93
+
+    score *= score_temporal_query_fit(query=query, article=article)
+    return max(min(score, 1.0), 0.2)
 
 
 def _scale_affinity(value: float) -> float:

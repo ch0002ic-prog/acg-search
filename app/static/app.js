@@ -332,8 +332,38 @@ function isExternalArticleHref(href) {
   }
 }
 
+function resultTypeValue(item) {
+  if (item?.result_type === "source_page" || item?.source_type === "curated") {
+    return "source_page";
+  }
+  if (item?.result_type === "event" || item?.source_type === "event_listing") {
+    return "event";
+  }
+  return "article";
+}
+
+function resultTypeLabel(item) {
+  const resultType = resultTypeValue(item);
+  if (resultType === "source_page") {
+    return "Source page";
+  }
+  if (resultType === "event") {
+    return "Event";
+  }
+  return "Story";
+}
+
+function decorateResultTypePill(pill, item) {
+  if (!pill) {
+    return;
+  }
+  const resultType = resultTypeValue(item);
+  pill.dataset.resultType = resultType;
+  pill.textContent = resultTypeLabel(item);
+}
+
 function resolveArticleHref(item) {
-  if (isExternalArticleHref(item.event_metadata?.ticket_url)) {
+  if (resultTypeValue(item) === "event" && isExternalArticleHref(item.event_metadata?.ticket_url)) {
     return item.event_metadata.ticket_url;
   }
   if (isExternalArticleHref(item.url)) {
@@ -372,13 +402,14 @@ function articleLinkLabel(item) {
   if (!href) {
     return "Source unavailable";
   }
-  if (item.source_type === "curated") {
+  const resultType = resultTypeValue(item);
+  if (resultType === "source_page") {
     return "Open source";
   }
-  if (isExternalArticleHref(item.event_metadata?.ticket_url)) {
+  if (resultType === "event" && isExternalArticleHref(item.event_metadata?.ticket_url)) {
     return "Open tickets";
   }
-  if (item.source_type === "event_listing") {
+  if (resultType === "event") {
     return "Open event";
   }
   return "Open story";
@@ -1118,11 +1149,15 @@ function renderClusterDetail(entityName, items, group, statusText = "") {
     source.className = "source-pill";
     source.textContent = item.source_name;
 
+    const resultType = document.createElement("span");
+    resultType.className = "result-type-pill";
+    decorateResultTypePill(resultType, item);
+
     const time = document.createElement("span");
     time.className = "time-pill";
     time.textContent = new Date(item.published_at).getTime() > Date.now() ? `Starts ${relativeTime(item.published_at)}` : relativeTime(item.published_at);
 
-    topline.append(source, time);
+    topline.append(source, resultType, time);
 
     const title = document.createElement("h3");
     title.className = "card-title";
@@ -1371,6 +1406,7 @@ function renderCards(items, groups = []) {
 
     card.dataset.articleId = item.id;
     fragment.querySelector(".source-pill").textContent = item.source_name;
+    decorateResultTypePill(fragment.querySelector(".result-type-pill"), item);
     timeLabel.textContent = new Date(item.published_at).getTime() > Date.now() ? `Starts ${relativeTime(item.published_at)}` : relativeTime(item.published_at);
     fragment.querySelector(".card-title").textContent = item.title;
     fragment.querySelector(".card-summary").textContent = item.summary || item.content || "No summary available.";

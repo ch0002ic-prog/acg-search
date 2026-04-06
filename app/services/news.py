@@ -12,6 +12,7 @@ from app.services.ranking import (
     has_meaningful_query_match,
     query_anchor_tokens,
     query_signal_score,
+    score_result_quality,
     score_profile_match,
 )
 from app.services.vector_store import VectorStore
@@ -34,11 +35,15 @@ class NewsService:
         candidates = self.repository.latest_articles(max(limit * 4, 36), exclude_ids=hidden_ids)
 
         if profile is None:
-            ranked = [(article, article.home_score) for article in candidates]
+            ranked = [(article, article.home_score * score_result_quality(article)) for article in candidates]
         else:
             ranked = sorted(
                 [
-                    (article, article.home_score + (0.22 * score_profile_match(article, profile)))
+                    (
+                        article,
+                        (article.home_score + (0.22 * score_profile_match(article, profile)))
+                        * score_result_quality(article),
+                    )
                     for article in candidates
                 ],
                 key=lambda item: item[1],
@@ -106,6 +111,7 @@ class NewsService:
                 + (0.12 * profile_score)
             )
             final_score += exact_query_phrase_boost(query=query, article=article)
+            final_score *= score_result_quality(article=article, query=query)
             if strict_query and final_score < 0.16:
                 continue
             ranked.append((article, final_score))

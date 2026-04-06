@@ -3,13 +3,14 @@ from __future__ import annotations
 from datetime import datetime, timezone
 from typing import Annotated, Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, computed_field
 
 
 CategoryValue = Annotated[str, Field(min_length=1, max_length=32)]
 TagValue = Annotated[str, Field(min_length=1, max_length=48)]
 EntityValue = Annotated[str, Field(min_length=1, max_length=80)]
 RegionValue = Annotated[str, Field(min_length=1, max_length=32)]
+ResultType = Literal["article", "event", "source_page"]
 
 
 class EventMetadata(BaseModel):
@@ -42,6 +43,15 @@ class ArticleRecord(BaseModel):
     source_quality: float = 0.5
     image_url: str | None = None
     event_metadata: EventMetadata | None = None
+
+    @computed_field(return_type=ResultType)
+    @property
+    def result_type(self) -> ResultType:
+        if self.source_type == "curated":
+            return "source_page"
+        if self.source_type == "event_listing":
+            return "event"
+        return "article"
 
     def combined_text(self) -> str:
         return " ".join(

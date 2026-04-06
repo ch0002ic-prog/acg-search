@@ -289,6 +289,7 @@ button:hover,
 .chip,
 .source-chip,
 .source-pill,
+.result-type-pill,
 .time-pill {
   display: inline-flex;
   align-items: center;
@@ -852,10 +853,23 @@ button:hover,
 }
 
 .source-pill,
+.result-type-pill,
 .time-pill {
   padding: 0.38rem 0.7rem;
   background: rgba(17, 33, 43, 0.06);
   font-size: 0.78rem;
+}
+
+.result-type-pill[data-result-type="article"] {
+  background: rgba(17, 33, 43, 0.08);
+}
+
+.result-type-pill[data-result-type="event"] {
+  background: rgba(28, 136, 117, 0.14);
+}
+
+.result-type-pill[data-result-type="source_page"] {
+  background: rgba(243, 139, 74, 0.16);
 }
 
 .card-title {

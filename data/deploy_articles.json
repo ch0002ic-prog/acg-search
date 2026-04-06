@@ -38,7 +38,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "ba5c5d7b4f747aa25f5be7458edd6b9ee62005d3",
@@ -70,7 +71,8 @@
     "home_score": 0.8975,
     "source_quality": 0.8,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "source_page"
   },
   {
     "id": "3aec9a9ee6dd6b29313b90ec599812530cf1c392",
@@ -102,7 +104,8 @@
     "home_score": 0.8975,
     "source_quality": 0.8,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "source_page"
   },
   {
     "id": "40b7678bc461c49cd596be0950a45cd13cb1b768",
@@ -136,7 +139,8 @@
     "home_score": 0.8825,
     "source_quality": 0.8,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "source_page"
   },
   {
     "id": "0203b5646219f1963f93c1cfb379a2a34cd0a40e",
@@ -174,7 +178,8 @@
       "guest_status": "Lineup details mentioned",
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "source_page"
   },
   {
     "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
@@ -214,7 +219,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "d958943683b299952c291ef741715e325d40f62e",
@@ -256,7 +262,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "49c9342dbe832bb03cfc96556667f6912c58088b",
@@ -296,7 +303,8 @@
         "ACG related activities"
       ],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "0f637a0fe9ada1805159964cd586bb9327217164",
@@ -332,7 +340,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "7369c053744c0591d2fa5eddcad2dac10b36d1a7",
@@ -368,7 +377,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "66bb7d8ad791aee88298675b092cf4fbaa2416c0",
@@ -404,7 +414,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "02d35ca650622a7eaf55a1f496765be40b8dafee",
@@ -440,7 +451,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
@@ -476,7 +488,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "11e3a7c864980a3ae9137aae53fdd89a7b3bb94a",
@@ -513,7 +526,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "f84a48a40c6e15bf74b1c9d1356ebe26bb055283",
@@ -548,7 +562,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "088f8ec4265422747e65dcb27be6af7e98168123",
@@ -583,7 +598,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "b7544f41be393ace9b2964189199aa433ec475ad",
@@ -620,7 +636,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
     "id": "0d9d5fe4042985fe88809d11ff38b49f2570e999",
@@ -655,12 +672,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "event"
   },
   {
-    "id": "689c3d146f89b95b0b4b4354a1280130b9ae7e12",
+    "id": "8a0e515b99ee00a4349825f1c70564cb83a8d0ef",
     "title": "Rising Sun Esports Organization Overview - Esports Charts",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzcktUUC1meUppWkpOd3dpNkROM09xUXF0Rmx0NGtWX1hIYW8wdnpTNEY3YVVOc3JkZXJWcGFja082RnlFc3NzbGR0cE9XTDRwMWFzZEVVMFM5YzBmWk5EdHJhRQ?oc=5",
+    "url": "https://escharts.com/organizations/rising-sun-esports",
     "source_name": "Google News SEA Esports",
     "source_type": "rss",
     "published_at": "2026-04-05T03:46:40Z",
@@ -681,7 +699,8 @@
     "home_score": 0.6975,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "1a175d0d41b3be9fd2ab1ffac85147abb0fc5d85",
@@ -707,16 +726,17 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9280996288972151,
-    "home_score": 0.6906,
+    "freshness_score": 0.9123016513471351,
+    "home_score": 0.6835,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "c323fe37584923710b02dde377db592ad20e5993",
+    "id": "ecc5ece6c61f3668d14fd74ce5065c75764d9efa",
     "title": "Every Free Final Fantasy Game On Xbox Game Pass, Ranked - ScreenRant",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JSElKM1B5Q0QzUXY0NXBZai1LcDY3MU4wTVpPaDIyWFdXdGRYWDc1TlZHTTM5Nk9GWVdKUk1fMTRNcmNLczVrNkh4SnNWYndxaUJnYk40ZEFpTmRmZlYwREJSZmE4eUJHZjRN?oc=5",
+    "url": "https://screenrant.com/final-fantasy-xbox-game-pass-ranked/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-05T22:00:19Z",
@@ -735,12 +755,13 @@
     "home_score": 0.6754,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "fd65750f8383b47b8a62eb82f1c54b57b2ed26e8",
+    "id": "d8fb16fcc99547fa8016cf92bdd110859846ac65",
     "title": "6 Hardest Bosses in Final Fantasy Games - ComicBook.com",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ucWNEUHpuQTgwdUlUT21ZUWNXZWFDN1BsOFBWTmF0YmxNSV9Qay10RHNNZEI5alVMOXRLMnQ5WTdOOEljYTRXakZ4dzBhanNHX3RORFhRdkVreGhXSHQ3aHR1WTZISGNsQ012X3B5TDNmZWU0Ykd3WVR1VFhibTA?oc=5",
+    "url": "https://comicbook.com/gaming/list/6-hardest-bosses-in-final-fantasy-games/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-05T20:00:00Z",
@@ -760,7 +781,8 @@
     "home_score": 0.6635,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "299febbea7104c2d0be656db30d5afd0f0305139",
@@ -781,16 +803,17 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8538928663817619,
-    "home_score": 0.6573,
+    "freshness_score": 0.8393580198449103,
+    "home_score": 0.6507,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "9ec6d49668c1673d6351680034d548b32a7b0fb8",
+    "id": "abb6877c028c394c65a2c467b6400021f68d4566",
     "title": "Another Eden Begins: Time-Traveling JRPG Launches September 2026 - Bleeding Cool News",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWxkYUpHUVVaTlJnRW9JVDlDY01Qa3pyT2Y3R2l2Nl9JeGxCSDFKWTR1VzFMRGp2Z1gzdkJJWXlUQnJVWDZlaTByODdQODY2dmItTkFfdWRhRUVlTzdWYUwzMUtlUzZ1eWh2aWh0c0ZkVjN3bm1MdlNPTFlnNjdIeEJ6ZTFZMElKb3FtR3Q1OVNFemY4X1dmc3p5cw?oc=5",
+    "url": "https://bleedingcool.com/games/another-eden-begins-time-traveling-jrpg-launches-september-2026/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-05T17:42:07Z",
@@ -809,12 +832,13 @@
     "home_score": 0.6502,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "d540d6291670c4484f9db4a5f7a1d29b3af2deb9",
+    "id": "23f73c1ba86e173ef1a6383f02d097ebaa889c49",
     "title": "10 Biggest Final Fantasy Plot Twists Of All Time - ScreenRant",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uelhnaTlLUUFINUVFSUo3ZmVJNGM5X2ZjeHpGb3NpWF9nbEhWeWxJdXBKa0xfcWZsM2JsR0Z3RVgwaGl4YUZUeHkwWl91YldIMkJGeU1NbXBJbUF0XzZDeGZESXhlT0hi?oc=5",
+    "url": "https://screenrant.com/final-fantasy-biggest-plot-twists/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-05T02:00:00Z",
@@ -833,12 +857,13 @@
     "home_score": 0.637,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "d543b3ae4f429146648a7b1962319f6463dbfed8",
+    "id": "cf7babc4c18d785767325fbb579bb6c557144003",
     "title": "Streamer Support, Mental Health Gaming, Final Fantasy for Good, and the UVW: Good in Gaming Vol. 3 - superjumpmagazine.com",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazM0SlRuNWt1M3pmMlJISmJOTk95S2RqaDhKY292Rmo0QzAyMXI4cVcwcnNINDhwbE9QNTBobHZoM0N5clVQSk5JTGVVcXNFZ2FFb0dYSHBPZFNONGxNX2xTUXVhcVJKXzZfcHh5RWdfdkJ0T2p3VzR2SUFnbm1oaWZ1VnJOUnd6dnd6RDR0bk41eVhlc1kwSFV2dEFtVGczLXR5SlA1VlpWRmItSUp3NmV3VHBBcEJMLVk0dzh3OHpJOFRsTkFn?oc=5",
+    "url": "https://www.superjumpmagazine.com/streamer-support-mental-health-gaming-final-fantasy-for-good-and-the-uvw-good-in-gaming-vol-3/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-05T15:01:24Z",
@@ -857,12 +882,13 @@
     "home_score": 0.6352,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "ba15f58d89db09457904cba8c652a8c8b3da5b15",
+    "id": "7089c72cf155bff5620066f9d490738baa617542",
     "title": "The Best Deals Today: Final Fantasy VII Remake Intergrade, Super Mario Galaxy + Super Mario Galaxy 2, and More - ign.com",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZRk50NmNDZE1RcVJPX3NFUmdNcUR6T0RydERsSE5SVi1zZlhlbTcwWmF3bHVXUVJwVWpmc1h6U2R3ZFZaZzV5UGt3RU5aenVzMkZvYU0yXzJsbXN1RlRoU1hqbnpZMmc?oc=5",
+    "url": "https://www.ign.com/articles/best-deals-for-april-4-2026",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-04T19:55:33Z",
@@ -881,12 +907,13 @@
     "home_score": 0.6048,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "769473fe6ef3c5748c656d1e132c7c495f5a9664",
+    "id": "cb033c57fc8a64a03f7444e59af477af8eab18a1",
     "title": "Southeast Asia launches national team-level esports competition - VnExpress International",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZE84ZFVWRU5CUFZVZFd1eV96ZXNRMmVRMXA0WFlUdzNYOW5JNHNGU3U5NEhqVUpLWXZKUW1QNGNRWXFhN2szbTItNDZyV1BSeUo5RTUxc2JlZG05eXRlTVJ6Z244UGhkYXdscUxQNjdSWDZiN0VtT0JIWkZvVlJfVDdPMHpZa1RtWFRSd24wbk85MnJnSFNNN0RHRkNvZkQwUTdQVWw5REtCVVg0aWo1VXlCb1lrN0oyblM2ZERYVmcwM1U?oc=5",
+    "url": "https://e.vnexpress.net/news/sports/other-sports/southeast-asia-launches-national-team-level-esports-competition-5057970.html",
     "source_name": "Google News SEA Esports",
     "source_type": "rss",
     "published_at": "2026-04-03T02:57:42Z",
@@ -907,12 +934,13 @@
     "home_score": 0.596,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "d4d73f9e85a64e3800d09db5dbc8a162de5b2e36",
+    "id": "1f6702210058a5e809bbb21c988dcfdd98f327ab",
     "title": "Dissidia Duellum Final Fantasy Gift Codes Available Right Now - games.gg",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LV1d2Q0VlQVdEZkpYNnUyMEZNTXNBVWxaYnMwZ1ZOUEFlejd6U19vOFRpSUg5TUJWZC15b2htNDlLay0yOEl1dWdUdy1Wc0h1SzhYdk91NHZ3YVM1ZVJNcUF2cGV6cW5zbHF4UlEzTHhtQQ?oc=5",
+    "url": "https://games.gg/news/dissidia-duellum-final-fantasy-gift-codes/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-04T17:15:11Z",
@@ -931,12 +959,13 @@
     "home_score": 0.5916,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "2221a22bb4230c3c17af16a179349c47cb4a2f9a",
+    "id": "381b9b45dbd23bffc9796c68c1a14ea961a48699",
     "title": "Final Fantasy Isn\u2019t Appealing to Younger Players, and There\u2019s Only One Way to Fix That - ComicBook.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0JOYU5lVnVQWTBBeVBRZHY1TDlXNGNsYThRTi1RX3F6dVo3emxSdnNiRF9zdHJmWGFGaFdYLWNsOU9lTnF2T2p3REFHSXdnY0IyTFNoY3VZdlN5eVhxVVlDWFFCZHZjYVN1SmJtZFhveEhydi1kZDIycjZBWUdYLXlmOUd4aFBjMm85NlZhc1htaHhrdGpqZXRwakpwSFBPcm84TTZzRGRqX1J3cU15c0RQQWZiVmlraDZIdWZR?oc=5",
+    "url": "https://comicbook.com/gaming/feature/final-fantasy-isnt-appealing-to-younger-players-and-theres-only-one-way-to-fix-that/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-04T17:00:00Z",
@@ -956,12 +985,13 @@
     "home_score": 0.5903,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "9788f10c009cf0ce23824ec6ef66c438e59f75f2",
+    "id": "b6f4a08aa5a3906bb0d9aa2ada99b3dffd3d681c",
     "title": "JRPG Akuma Rise coming to Switch May 7th, 2026 - GoNintendo",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTmpKY2xIVXh3SUVEU1NSdm1ZUFBHQmRHY1JVT2RTa0Q2UF8zNTV4NFRfRFJOdjZMVFhvcE1BRjU5WEltelRNd0xvUnZQREZVZ2JuY1NNc24yYmJZdW1ZR25OaXI2QXpSdDZUNUNpekE0bXpydVZ6T0tWem1ES0djdHl2V2xzaXZlbFlN?oc=5",
+    "url": "https://gonintendo.com/contents/59606-jrpg-akuma-rise-coming-to-switch-may-7th-2026",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-04T16:39:09Z",
@@ -980,12 +1010,13 @@
     "home_score": 0.5886,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "9b5e235714b9870322cb160932c75740ae8e1819",
+    "id": "1baac99e514395c95e881b0c625067831e30d16b",
     "title": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool - Esports Charts",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KNlpuYi1abGtPaEV0MExLX1N3Nk5hWXQtNVNPWWstVWxzZkowSTZnS1BkeHIyZFFKMDN6ay10Qld5WmMwOFN4TXNEd2t4ZVktWE1yOTZqXzlySXNzaXlLV19PMFlkOWFrVmNoUUhIRlNaVUxHNlJOS2dPNHVEQQ?oc=5",
+    "url": "https://escharts.com/tournaments/aov/sea-games-2025-vietnam-men-qualifier",
     "source_name": "Google News SEA Esports",
     "source_type": "rss",
     "published_at": "2026-04-03T06:03:18Z",
@@ -1015,7 +1046,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
     "id": "38030bad54ea70f710ddd3acfe153cf5d5bbfacf",
@@ -1039,11 +1071,12 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6650124227013119,
-    "home_score": 0.5723,
+    "freshness_score": 0.6536926680914956,
+    "home_score": 0.5672,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "5b259cdc8f58fa350f576867bb8723895889f719",
@@ -1070,8 +1103,8 @@
       "SEA"
     ],
     "sg_relevance": 0.51,
-    "freshness_score": 0.42304845587543277,
-    "home_score": 0.5684,
+    "freshness_score": 0.4158474504333919,
+    "home_score": 0.5651,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C41%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/jMhM5eu2TiKjih2yA2qi",
     "event_metadata": {
@@ -1083,7 +1116,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
     "id": "4b409ef8ead41f6c869a73f436e577fe4ed98fa3",
@@ -1104,16 +1138,17 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6118409556809775,
-    "home_score": 0.5483,
+    "freshness_score": 0.6014262768896185,
+    "home_score": 0.5436,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "c4fc9b227aee340ff1d27daa9ea15a34e3868d4a",
+    "id": "e91ff5faaa59f1a2661058c4f8e8f445c768b65e",
     "title": "Inaugural SEA Esports Nations Cup set for Vietnam - english.vov.vn",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXpFekxDZ0VIY2RlbVRicUtLT25MbTh5ZUlEcENhVWVxZ0phU3lrTzZLRHMzZlc0SFhOMkZ5NEdic0RYZnkyZUllLTdtc3BCa3kySm5aRzdva191REh4c1F6cXAxYVBnZXU0VXQ5WXpRcWRpRmRyQ1VGZVRoMks2NG1PdnlER2R1dmxUX2xWbjB1RGVWYTVaM3FUMS02Nlk?oc=5",
+    "url": "https://english.vov.vn/en/sports/inaugural-sea-esports-nations-cup-set-for-vietnam-post1280927.vov",
     "source_name": "Google News SEA Esports",
     "source_type": "rss",
     "published_at": "2026-04-03T04:27:03Z",
@@ -1134,7 +1169,8 @@
     "home_score": 0.5347,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "dfe46f0ae3f892466033e065ed122a04e05f5df3",
@@ -1161,12 +1197,13 @@
     "home_score": 0.5305,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "b92a1e332106f1d8da1e19921f7c865720aadc99",
+    "id": "d39603ea776f94885282729ba3964e89e9b02235",
     "title": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted - PC Gamer",
-    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbi1rR2hSNUZ6WUNlSmVHWmlXV3lGTlJrVUtqZ0F0amFWMG9sZjV3cFg4YXI0RjdNWXppNjVzaEpTMks1bzNzQ2d4clVvclk1SkZDVkFHbGtNLUVqbXkyejQweW95VDgwaGVJMVh1bDdRaF9wRGNodEp4d3ZvemlBOE0zcnA3dWIyd1VmeEk0Z0ZNa3RxRlpqaXN3M0h6T05EaHIwZGpMNmE4TnNYUnJPLXE3OFdPQURzMDVNT2xjU3BUNUhqNi1KS3hmRjIxWUJaMkhSU1dGd21DemwtVjk0VWkyRjdmSEg4alhBVU1VU1pBengyWDhqTnFranVYZUlTZWJUVGNUMldEZVMz?oc=5",
+    "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-variant-dungeon-is-so-good-it-deserves-better-the-mmo-needs-to-figure-out-its-rewards-so-all-this-great-work-isnt-wasted/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-04T15:00:00Z",
@@ -1186,7 +1223,8 @@
     "home_score": 0.5291,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "db84fc58eba10726dc26aa5d655cad9666dc3a56",
@@ -1211,11 +1249,12 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.45705587968541506,
-    "home_score": 0.4987,
+    "freshness_score": 0.44927593283488376,
+    "home_score": 0.4952,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "9b219ab492444a4e38273ad8b3150367a86782d0",
@@ -1237,8 +1276,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.45075175775825826,
-    "home_score": 0.4958,
+    "freshness_score": 0.4430791188306862,
+    "home_score": 0.4924,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1250,7 +1289,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
     "id": "c5d2ecbc2e29fe029ef6c0ddf1b5699f7e39ab56",
@@ -1271,8 +1311,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4899239315200494,
-    "home_score": 0.4935,
+    "freshness_score": 0.48158450838630507,
+    "home_score": 0.4897,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1284,7 +1324,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
     "id": "12f7e8d4579e52f0784c0798c5fc74607b3f723d",
@@ -1309,54 +1350,17 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4831664642858427,
-    "home_score": 0.4904,
+    "freshness_score": 0.4749420661639974,
+    "home_score": 0.4867,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "206b068cafb4986b4f010c488d4f5a74f1105a5d",
-    "title": "US FFXIV Fan Festival 2026 Schedule Shared",
-    "url": "https://www.siliconera.com/us-ffxiv-fan-festival-2026-schedule-shared/?utm_source=rss&utm_medium=rss&utm_campaign=us-ffxiv-fan-festival-2026-schedule-shared",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-03T19:00:00Z",
-    "summary": "Square Enix announced the full stage and stream schedule for the US installment of the FFXIV Fan Festival 2026, and as usual it involves a keynote with Director and Producer Naoki",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "FFXIV Fan Festival"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4765022019427266,
-    "home_score": 0.4874,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": "April 24, 2026",
-      "venue": null,
-      "ticket_status": "Sold out",
-      "ticket_url": null,
-      "guest_status": "Guest lineup mentioned",
-      "guest_names": [],
-      "merch_status": null
-    }
-  },
-  {
-    "id": "2c50ff9bf6fd6ab68f4e1e9c56698bd2c129c506",
+    "id": "aabff789209ecaf436a40cb987f86eba85354458",
     "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeVNlOFdxS0dWcF96ZUFOQWVnZGFaeEhmeVpXZlBmaUVrWl9mQXBqVlpCM3hjUE1keGRGSnFQdlJNeU1SV2xpMXVZZEZJTkQ0czI5TXVnZjg5cmpEaC1weGtuYzU2ZzhtZWVkczhUNzNOa2ZuR0lOQlFUYzVCMnY2QnVSUENZcGZM?oc=5",
+    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
     "source_name": "Google News SG ACG",
     "source_type": "rss",
     "published_at": "2025-11-24T08:00:00Z",
@@ -1392,7 +1396,47 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "206b068cafb4986b4f010c488d4f5a74f1105a5d",
+    "title": "US FFXIV Fan Festival 2026 Schedule Shared",
+    "url": "https://www.siliconera.com/us-ffxiv-fan-festival-2026-schedule-shared/?utm_source=rss&utm_medium=rss&utm_campaign=us-ffxiv-fan-festival-2026-schedule-shared",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-03T19:00:00Z",
+    "summary": "Square Enix announced the full stage and stream schedule for the US installment of the FFXIV Fan Festival 2026, and as usual it involves a keynote with Director and Producer Naoki",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "FFXIV Fan Festival"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.4683912421194266,
+    "home_score": 0.4838,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": "April 24, 2026",
+      "venue": null,
+      "ticket_status": "Sold out",
+      "ticket_url": null,
+      "guest_status": "Guest lineup mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
   },
   {
     "id": "74dd0524e0c1c0629f78f203c0a1234000198df5",
@@ -1413,8 +1457,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4699298599787492,
-    "home_score": 0.4845,
+    "freshness_score": 0.46193077374865865,
+    "home_score": 0.4809,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1426,7 +1470,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
     "id": "51933eb61e6aa9b7dbf80ee63898a70660179e03",
@@ -1447,11 +1492,12 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4634481689522688,
-    "home_score": 0.4816,
+    "freshness_score": 0.4555594133169503,
+    "home_score": 0.478,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "22603e98687f4e52c94dfa05f7969e62082b7bd3",
@@ -1474,16 +1520,17 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4445860414507806,
-    "home_score": 0.4731,
+    "freshness_score": 0.4370183545563907,
+    "home_score": 0.4697,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "81370e8c1afbfc5d783b1ffb0056823a4aad1099",
+    "id": "5d1286a9c1aef293db7daea28607eb4964cccb35",
     "title": "Anime Festival Asia 2013 - whiteboardjournal.com",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wTkVJUlZDd085bEhJbnc1TlJxbkt1QWxvaEhWTG1DYkFBU2FDVm5mcGpVOU9OTjhndHlYNG80dzZfb0p2Ul9SWVdCcTM2b3NZSnEzSVdmWEtMU1lQ?oc=5",
+    "url": "https://whiteboardjournal.com/events/event/9496/",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-02T22:24:07Z",
@@ -1518,12 +1565,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "26e440f7d011c7b7a9701b5f88138dbcc7ff6c5b",
+    "id": "b6ef38ea8def4349fff2e1ed734c98a4b359846e",
     "title": "AFA 2025: Highlights from this year\u2019s Anime Festival Asia - DANAMIC",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbW5oaUNVdTN5MkFaU3FLUGNwQzAxRWJIVFZTUUdncjdFZkE0cHNtdklkQ0ZmQUJrc2FYWjIwMG0xcVNfenFpT3A4dlgtZ2tpaloxcWpkRXJQSGhGb3JsQWtWQ0lXNDJnMUx1UU9yem1GWjFMenNIS18xRzltR3p3S0hncFFpbG9Ram1nYzVDT0g?oc=5",
+    "url": "https://danamic.org/2025/11/29/afa-2025-highlights-from-this-years-anime-festival-asia/",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-11-29T08:00:00Z",
@@ -1558,12 +1606,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "1b69358943e5e0218b6763f061f98790e82ace7b",
+    "id": "8675ef13c9e961813a766da964228f1a89e7029c",
     "title": "Anime Festival Asia is back for 2025, and here\u2019s what to expect - HardwareZone",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDFGUmU4ZmhWaUxJVnU4cDFUT1NPYU0xdE5YTzJkd3VNbkxFQTNzVTZtU2ZRRmYyWXloZ2RYMVJlODVFZnhPRGd4eUt5dmJLQm53UU41UEtqR0FNY0tWVmV3ZnYxM3AzQzJDam1sVTdKcU9XcmM1a3V5RkJaLTJfTFFDZHRhY0hsUjhtY3FrVC1vVUlGOWc?oc=5",
+    "url": "https://www.hardwarezone.com.sg/entertainment/anime-festival-asia-afa-2025-singapore-events",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-11-04T08:00:00Z",
@@ -1598,12 +1647,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "0d2b1b219adf3e47ad6d4aaa92741baff1d16b28",
+    "id": "c8d3b0ba24323fa667edba98a7e5da1f22ec0eda",
     "title": "Anime Festival Asia Singapore 2025 brings anime premieres, cosplay icons, gaming zones & anisong concerts - bandwagon.asia",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZDFaekRsX1d6SVRNQ0hMWjJackRLYnV6QjRSa1JobEdZaFFENDNGRm1CWUJiMXE0emRMYmpySzVUZHRuTDlnNWtfZzZDckRPdU4zOEdxRDNCUmtRVDNLaXhjTk9OMFR6c0JSU0xDMm1ncmJ6bkR3TnJUeEVfcGhMTHZHNGtOSVNvZVpPaFBPdEljRnVNNnp3dzlYWGcwNklYbVdBZmVZVEszSXkyRUlZdHZQX0R4bTlEV0R0VWRBcFdWT0d4VmJ0Q1ZiRmt4bE5EaEJF?oc=5",
+    "url": "https://www.bandwagon.asia/articles/anime-festival-asia-singapore-2025-brings-anime-premieres-cosplay-icons-gaming-zones-anisong-concerts",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-09-24T07:00:00Z",
@@ -1641,12 +1691,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "3989c8f8a9adffcfe3e26d8ebd73685a6f4e799e",
+    "id": "c0d91ee3ae1fd1638243b320b7533c6881a4facd",
     "title": "Ado celebrates 5th anniversary with special pop-up store at Anime Festival Asia Singapore 2025 - bandwagon.asia",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRzJqdVJVcEZfR3ZqekFMZFJyRjRNR0Y2MzUwNl9KOEhUekFjcEZlcV9fN2YwVVBkejctZnh5ejBEOW0ycFY5SW1Ua0RQSHl0WEFkWXBGdmV5czNvNXFWemtqT0lwWWF3UFFReDc2dHFTRjAyb1JWakU5ajBOYmh6M25UaEJvLXNFOEI5Z09NY3h2ekp2ajQzSXFxQ2pDUzEteFVUOXdsOGxCeUQ0MldwQU9QZEtydF9VTkUzbFRVS3BIT1k?oc=5",
+    "url": "https://www.bandwagon.asia/articles/ado-celebrates-5th-anniversary-with-special-pop-up-store-at-anime-festival-asia-singapore",
     "source_name": "Google News Merch And Deals",
     "source_type": "rss",
     "published_at": "2025-11-25T08:00:00Z",
@@ -1681,7 +1732,8 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
     "id": "0288e1c88a8a2edf75eac99738b9f937e09266cc",
@@ -1715,12 +1767,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "c520fe3feae75091212b83bfe260fb91ee0f6373",
+    "id": "a99b3ef0e20fc1d4b90d711595ba76dc141d2cb3",
     "title": "SEGA / Atlus hosting new Nintendo Switch 2 and Switch sale with Shinobi: Art of Vengeance, Yakuza, and more at new low prices - Nintendo Everything",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLU1YSE1TMk96MEVOX2ZOUWVGdTZNcVFaTGhIc3VUUjJ4em1oQmhIdmlrcTN4emdzYjE4WmY4Tnd0T0ZUTld5a2pFWmw4cFJualN6SUpFUnFZMUtzSVJsSUJta3owd3BoeWJsRkZrUU9ZaWxfQWhxTzl5SnR6WjQ2TDA1cFphLURWT25vNGNyWnpYWmRPQWtUOG85eUZtRk1sQ0pITWp0eTdaaG1NcEFQZEU5X2ZaQ2o2bGRnM3BqcG41UVVQTEtFLTZaRlJJcE85RWRET3k5dWttbTJGbjdER2xwbzBHYk0?oc=5",
+    "url": "https://nintendoeverything.com/sega-atlus-hosting-new-nintendo-switch-2-and-switch-sale-with-shinobi-art-of-vengeance-yakuza-and-more-at-new-low-prices/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-03T17:29:02Z",
@@ -1742,12 +1795,13 @@
     "home_score": 0.456,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "6ee60ee1976f7b3aa18417734055a47333ae85e8",
+    "id": "dc008a6954e6d23a5135326acb30c9ef55a8bb2c",
     "title": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network - ANTARA News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmhvYXpwTGR3c2NjZTczRlRjdDllVDVtUk1nZjdRdjdXLU5BempnNDdHRkVwQkJZN1A0cklrTWlLQ3ZfYmMtY2hQNXRvRzFZeXpSemJueUx3XzlFc19iSG1odGI1c0I5OVhYS2JKNmpZUk1rSDBJVWZyeDYxSTg3UU85bFRtZnl4WVJ6QVpfWjdGeXE4Z0x3LXpwRjgxV0gwUWw1TjR6UThzcXdveVHSAbMBQVVfeXFMTV9pWnh5eWRSVURpaUtROUxIbEFNR0N4Y3lyM0FvdXZSYVdSeElqXzdodEFVYm9WZThmamlqQ1dCQ2pVU0pfd2RPQkJyWTZUMUJ4aG14SkQ0N3BOM2hYbkpBWThFdzVFcmJKTFFfbmZWU2ZEUGctY1VGd1FFNXRIbXJxb0FFTTdwY2tCNHVhcWdEUXJ1UVlwd0NtNDRNT1ZTS0ZnQVlxNkxpUE9SR2N1bldGYnM?oc=5",
+    "url": "https://en.antaranews.com/news/396685/kayou-debuts-at-singapore-comic-con-2025-deepening-distribution-network",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-16T08:00:00Z",
@@ -1783,12 +1837,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "a3e2f503ff752b3aab8fbc127eeae6ca039ba33a",
+    "id": "e56e5fbfa312f2965b0d1238d0517bb83dd10607",
     "title": "Asia Album: Singapore Comic Con celebrates pop culture - Xinhua",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WTGg5RURoYU9NUVcycUhmUVV5dWJJcHZYbnF0cFoybzJMV05nVENXRjAxSVBDTXpyLVcwSDRfQjlpdzlOSGxVVlNZVnBhemNVRlpWMW83dlJONm42My1JTU9wdEtCNUU3ODUxUnRBTFVZMFpsLTU0bzdUMXM?oc=5",
+    "url": "https://english.news.cn/20251208/d7fb5ffad1fd4c75b2341eae261ad28c/c.html",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-08T08:00:00Z",
@@ -1824,12 +1879,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "4f9b7f779020ba550f21965067601dd0feb5ff36",
+    "id": "3ee2087f55c44b1cf81f1fca1944dce272df2635",
     "title": "Mediacorp's Bloomr.sg runs booth on burnout, work-life balance at Singapore Comic Con - CNA",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOekl0MGFmbUNOQndIc3g3aFBfUnVpb00yTHNxWUw0UzRldGljcE5YQ21VcW1pRFFhQWNDbmhlWXJEUjY5cGJsQ3VHZ3JySDBqajFhbV90dWFyRDRvTkU0VDhvQU94T0huQ2V2akpSb1VIdTNxek9NbUVmdmQtVjJaY0lYMDcxbmgtTmttMGRNVmp4TE5RMWdpdFBMWnBkeFo5Z281eU5DZnUyYjY5RGctQjZIV3huck40cm03V3h1VQ?oc=5",
+    "url": "https://www.channelnewsasia.com/watch/mediacorps-bloomrsg-runs-booth-burnout-work-life-balance-singapore-comic-con-5565646",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-07T08:00:00Z",
@@ -1865,12 +1921,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "d0882f39b8584bcc0b8dcf9b7177eb2fa43ae32e",
+    "id": "9adaeabe93c6ba9821df6f4acd97c15894548dfe",
     "title": "Singapore Comic Con (SGCC) 2025 Showfloor Highlights! - Geek Culture",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iM3BXWEg2V0F2bE1DSU1WWkdubWlSLXh0OXRBWjNiYWVMSXQya2dnc1ZNaWY3X2JEVnZKcjFYUGM0WU82U2tIZkN4V08xSjNpMDZXUml0ajBpazZ1NWxYTm42My1VUENDQy1OUzJMMkdfLTBwNkRBQ240UUczYUE?oc=5",
+    "url": "https://geekculture.co/singapore-comic-con-sgcc-2025-showfloor-highlights/",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-07T08:00:00Z",
@@ -1906,12 +1963,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "7182b1effbd0c167722b30c4624421811ae7f6d6",
+    "id": "c3850432331999f88f3c8e66e8c8c9a87933e5da",
     "title": "Things to do at Anime Fest Asia and Singapore Comic Con 2025, Digital News - AsiaOne",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOOE1peXJFR3E2TjlBOTgtN0U5OUx4T2czdlFrQmNZSHF4SFFyTm1GTDlBMjNIX05PQlBUTDdVQ1h4UkdTSVpwLW1oS2h1NmpZOXZXTTJSaTMwTGMzNGRselYzUHlhSXRMb19uM3c5cUhEeXJiQ0sxTHdaTUs?oc=5",
+    "url": "https://www.asiaone.com/digital/anime-fest-asia-singapore-comic-con-2025",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-11-28T08:00:00Z",
@@ -1948,12 +2006,13 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    }
+    },
+    "result_type": "article"
   },
   {
-    "id": "a0bde3d15e00c2b65c4296e5043ec2abe4c3cc0b",
+    "id": "77684143cbf9551ab1d99fcfdc88bace786dbdf5",
     "title": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss - TheSmartLocal",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XNVNIVlRBY250RzdPMDRabU1yNEVsWFQ4blZ5ZV9ERGVTRzFoekt0YjZBY2RicEcwQTRJb2tqSEd2eXNSdklHR29HZEo2Nkdadl80MUJ3WTliNmlseDg4Q2pNNm52UHPSAWxBVV95cUxPaEdicFNhcXA4TGl0RXZrbTJHTnpYbDVwOXNJWERfYm5fZ2pUN2JMWnE4MDg4UTJpQkFJbmVaSk53bGMzZDBPQTJHQS1fX2tJN3UtSTJiU1NMWU1wZzZDZ0F2aEdlTUNVRlJrWWU?oc=5",
+    "url": "https://thesmartlocal.com/read/singapore-comic-con-2025/",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-11-12T08:00:00Z",
@@ -1989,6 +2048,7 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
-    }
+    },
+    "result_type": "article"
   }
 ]

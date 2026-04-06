@@ -8,6 +8,7 @@ import shutil
 from tempfile import TemporaryDirectory
 import threading
 import unittest
+from unittest.mock import patch
 
 from app.config import settings
 from app.database import ArticleRepository
@@ -278,6 +279,49 @@ class SourceHealthTests(unittest.TestCase):
         self.assertEqual(rollups[0].failing_runs, 2)
         self.assertEqual(rollups[0].failure_rate, 1.0)
         self.assertEqual(rollups[0].recent_statuses, ["error", "error"])
+
+    def test_ingest_canonicalizes_existing_google_news_wrapper_articles(self) -> None:
+        now = datetime.now(timezone.utc)
+        wrapper_url = (
+            "https://news.google.com/rss/articles/"
+            "CBMikAFBVV95cUxQbW5oaUNVdTN5MkFaU3FLUGNwQzAxRWJIVFZTUUdncjdFZkE0cHNtdklkQ0ZmQUJrc2FYWjIwMG0xcVNfenFpT3A4dlgtZ2tpaloxcWpkRXJQSGhGb3JsQWtWQ0lXNDJnMUx1UU9yem1GWjFMenNIS18xRzltR3p3S0hncFFpbG9Ram1nYzVDT0g?oc=5"
+        )
+        canonical_url = "https://danamic.org/2025/11/29/afa-2025-highlights-from-this-years-anime-festival-asia/"
+        source = SuccessSource(
+            name="Google News SG Events",
+            feed_url="https://example.com/google-events",
+            quality=0.74,
+            source_type="rss",
+            category_hints=["events", "anime"],
+            region_hints=["Singapore"],
+            articles=[],
+        )
+        ingestion_service = IngestionService(
+            settings=self.test_settings,
+            repository=self.repository,
+            vector_store=self.vector_store,
+            llm_service=self.llm_service,
+            sources=[source],
+        )
+        wrapper_article = ingestion_service._to_article(
+            source,
+            SourceArticle(
+                title="AFA 2025: Highlights from this year’s Anime Festival Asia - DANAMIC",
+                url=wrapper_url,
+                published_at=now - timedelta(hours=2),
+                summary="AFA highlights story.",
+            ),
+        )
+        self.repository.upsert_articles([wrapper_article])
+
+        with patch("app.services.ingestion.resolve_google_news_url", return_value=canonical_url):
+            ingestion_service.ingest(limit_per_source=10, request_id="test-google-canonicalize")
+
+        items = self.repository.latest_articles(limit=10)
+
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].url, canonical_url)
+        self.assertNotEqual(items[0].id, wrapper_article.id)
 
     def test_bootstrap_source_health_snapshot_seeds_entries_and_runs(self) -> None:
         now = datetime(2026, 4, 5, 11, 0, tzinfo=timezone.utc)
