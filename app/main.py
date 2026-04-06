@@ -4,6 +4,7 @@ from contextlib import asynccontextmanager
 import ipaddress
 import logging
 import re
+import threading
 import time
 from typing import Annotated
 import uuid
@@ -50,6 +51,15 @@ class CacheControlledStaticFiles(StaticFiles):
         return super().file_response(full_path, stat_result, scope, status_code=status_code)
 
 
+def _start_background_llm_warmup(llm_service: LLMService) -> None:
+    def _run() -> None:
+        llm_warmup_ms = llm_service.warmup()
+        if llm_warmup_ms is not None:
+            logger.info("Warmed local LLM in background after startup in %.1f ms", llm_warmup_ms)
+
+    threading.Thread(target=_run, name="llm-warmup", daemon=True).start()
+
+
 def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[ArticleRepository, NewsService, IngestionService]:
     if state_store is not None:
         state_store.restore_to(settings.db_path)
@@ -84,10 +94,9 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
     canonicalized_articles, canonicalized_old_ids = ingestion_service.canonicalize_google_news_wrapper_articles()
     semantic_embedding_sync_count = ingestion_service.synchronize_semantic_embeddings()
     embedding_warmup_ms: float | None = None
-    llm_warmup_ms: float | None = None
     if settings.warm_local_models_on_startup:
         embedding_warmup_ms = semantic_embedding_service.warmup()
-        llm_warmup_ms = llm_service.warmup()
+        _start_background_llm_warmup(llm_service)
     if state_store is not None:
         state_store.persist_from(settings.db_path)
     news_service = NewsService(repository=repository, vector_store=vector_store, llm_service=llm_service)
@@ -113,8 +122,6 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
         )
     if embedding_warmup_ms is not None:
         logger.info("Warmed local embedding model during startup in %.1f ms", embedding_warmup_ms)
-    if llm_warmup_ms is not None:
-        logger.info("Warmed local LLM during startup in %.1f ms", llm_warmup_ms)
     return repository, news_service, ingestion_service
 
 

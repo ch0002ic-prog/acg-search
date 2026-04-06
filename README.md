@@ -133,7 +133,7 @@ Actual semantic retrieval is configured separately from chat generation:
 - When query expansion, reranking, or deferred digest hit their task-specific timeout budget, the service now falls back immediately to the deterministic path and caches that fallback result too, so repeated requests do not keep paying the timeout.
 - Search requests also short-circuit later inline LLM steps after the first search-time timeout, so a slow query expansion will not make the same request wait again for reranking or inline digest generation.
 - Semantic query embeddings now use the same TTL cache too, so warm semantic searches can skip the repeat embedding call and spend their time mostly on candidate scoring.
-- `WARM_LOCAL_MODELS_ON_STARTUP=true` now best-effort warms local Ollama embedding and chat models during runtime initialization so the first interactive search pays less of the model-load penalty.
+- `WARM_LOCAL_MODELS_ON_STARTUP=true` now warms local embeddings during runtime initialization and kicks LLM warmup off in the background, so startup stays fast while the chat model is still nudged warm for the next search or deferred digest.
 - `POST /api/search` now accepts `include_digest`; the static frontend sends `false` so interactive search renders results first and fetches the digest afterward through `POST /api/search/digest`.
 - Search and deferred-digest responses now include timing breakdowns. `FeedResponse.timings` reports query expansion, lexical retrieval, semantic retrieval, reranking, and optional inline digest cost; `DigestResponse.timings` reports deferred digest lookup and generation time.
 

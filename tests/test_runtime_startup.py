@@ -5,6 +5,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
+from unittest.mock import ANY
 from unittest.mock import patch
 
 import app.main as main_module
@@ -32,6 +33,33 @@ class StaticSource(BaseSource):
 
 
 class RuntimeStartupTests(unittest.TestCase):
+    def test_start_background_llm_warmup_runs_in_daemon_thread(self) -> None:
+        test_settings = replace(
+            settings,
+            llm_provider="ollama",
+            llm_base_url="http://127.0.0.1:11434",
+            llm_model="qwen2.5:3b",
+        )
+        llm_service = LLMService(test_settings)
+
+        class InlineThread:
+            def __init__(self, target, name: str, daemon: bool) -> None:
+                self._target = target
+                self.name = name
+                self.daemon = daemon
+
+            def start(self) -> None:
+                self._target()
+
+        with (
+            patch("app.main.threading.Thread", side_effect=InlineThread) as thread_factory,
+            patch.object(llm_service, "warmup", return_value=234.5) as llm_warmup,
+        ):
+            main_module._start_background_llm_warmup(llm_service)
+
+        thread_factory.assert_called_once_with(target=ANY, name="llm-warmup", daemon=True)
+        llm_warmup.assert_called_once()
+
     def test_build_runtime_canonicalizes_stored_google_news_wrapper_articles(self) -> None:
         with TemporaryDirectory() as temp_dir:
             base_path = Path(temp_dir)
@@ -254,7 +282,7 @@ class RuntimeStartupTests(unittest.TestCase):
                 patch.object(main_module, "settings", test_settings),
                 patch.object(main_module, "build_sources", return_value=[]),
                 patch("app.main.SemanticEmbeddingService.warmup", return_value=123.4) as embedding_warmup,
-                patch("app.main.LLMService.warmup", return_value=234.5) as llm_warmup,
+                patch("app.main._start_background_llm_warmup") as llm_warmup,
             ):
                 _runtime_repository, _news_service, _ingestion_service = main_module.build_runtime()
 
