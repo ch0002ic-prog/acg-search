@@ -1,8 +1,13 @@
 from __future__ import annotations
 
-from collections import Counter
+from collections import Counter, OrderedDict
+from dataclasses import dataclass
+import hashlib
 import json
 import logging
+import re
+import threading
+import time
 from typing import Any
 
 import httpx
@@ -13,11 +18,59 @@ from app.services.ranking import build_digest_lines, expand_query_heuristically,
 
 
 logger = logging.getLogger(__name__)
+JSON_BLOCK_PATTERN = re.compile(r"```(?:json)?\s*(.+?)```", re.DOTALL | re.IGNORECASE)
+RERANK_LABEL_PATTERN = re.compile(r"\bR[1-8]\b", re.IGNORECASE)
+
+
+@dataclass
+class _CacheEntry:
+    value: Any
+    expires_at: float
+
+
+class _LocalResultCache:
+    def __init__(self, ttl_seconds: int, max_entries: int) -> None:
+        self.ttl_seconds = max(ttl_seconds, 0)
+        self.max_entries = max(max_entries, 1)
+        self._entries: OrderedDict[str, _CacheEntry] = OrderedDict()
+        self._lock = threading.Lock()
+
+    def get(self, key: str) -> Any | None:
+        if self.ttl_seconds <= 0:
+            return None
+        now = time.monotonic()
+        with self._lock:
+            entry = self._entries.get(key)
+            if entry is None:
+                return None
+            if entry.expires_at <= now:
+                self._entries.pop(key, None)
+                return None
+            self._entries.move_to_end(key)
+            return entry.value
+
+    def set(self, key: str, value: Any) -> None:
+        if self.ttl_seconds <= 0:
+            return
+        now = time.monotonic()
+        with self._lock:
+            self._entries[key] = _CacheEntry(value=value, expires_at=now + self.ttl_seconds)
+            self._entries.move_to_end(key)
+            while len(self._entries) > self.max_entries:
+                self._entries.popitem(last=False)
 
 
 class LLMService:
     def __init__(self, settings: Settings) -> None:
         self.settings = settings
+        self._query_expansion_cache = _LocalResultCache(
+            ttl_seconds=settings.llm_cache_ttl_seconds,
+            max_entries=settings.llm_cache_max_entries,
+        )
+        self._digest_cache = _LocalResultCache(
+            ttl_seconds=settings.llm_cache_ttl_seconds,
+            max_entries=settings.llm_cache_max_entries,
+        )
 
     def is_enabled(self) -> bool:
         return self.settings.llm_provider.strip().lower() != "none" and bool(self.settings.llm_model)
@@ -37,8 +90,8 @@ class LLMService:
             f"Content: {content[:2000]}"
         )
         try:
-            raw = self._chat(prompt)
-            payload = json.loads(raw)
+            raw = self._chat(prompt, json_mode=True)
+            payload = self._load_json_response(raw)
             summary = strip_text(payload.get("summary", fallback_summary))
             categories = [strip_text(value).lower() for value in payload.get("categories", fallback_categories)]
             tags = [strip_text(value).lower() for value in payload.get("tags", fallback_tags)]
@@ -52,6 +105,18 @@ class LLMService:
         if not self.is_enabled():
             return fallback
 
+        cache_key = self._cache_key(
+            "expand-query",
+            {
+                "provider": self.settings.llm_provider,
+                "model": self.settings.llm_model,
+                "query": strip_text(query),
+            },
+        )
+        cached = self._query_expansion_cache.get(cache_key)
+        if isinstance(cached, str) and cached:
+            return cached
+
         prompt = (
             "Expand this user query for an ACG news searcher in Singapore. Include close synonyms, game titles, events, or fandom terms, "
             "but keep the answer to a single comma-separated line.\n\n"
@@ -59,7 +124,9 @@ class LLMService:
         )
         try:
             response = strip_text(self._chat(prompt))
-            return response or fallback
+            resolved = response or fallback
+            self._query_expansion_cache.set(cache_key, resolved)
+            return resolved
         except Exception as exc:
             logger.warning("LLM query expansion failed; using heuristic expansion instead.", exc_info=exc)
             return fallback
@@ -68,20 +135,21 @@ class LLMService:
         if not self.is_enabled() or len(articles) < 3:
             return articles
 
+        labeled_articles = [(f"R{index}", article) for index, article in enumerate(articles[:8], start=1)]
+        article_by_label = {label: article for label, article in labeled_articles}
         prompt_lines = [
-            "Rank these article ids from most to least relevant for the search query.",
-            "Return JSON with a single key ids whose value is an ordered list of ids.",
+            "Rank these labels from most to least relevant for the search query.",
+            "Return only JSON with a single key labels whose value is an ordered list of labels.",
             f"Query: {query}",
         ]
-        for article in articles[:8]:
+        for label, article in labeled_articles:
             prompt_lines.append(
-                f"ID={article.id} | TITLE={article.title} | SUMMARY={article.summary} | TAGS={', '.join(article.tags)}"
+                f"LABEL={label} | TITLE={article.title[:180]} | SUMMARY={article.summary[:220]} | TAGS={', '.join(article.tags[:6])}"
             )
         try:
-            payload = json.loads(self._chat("\n".join(prompt_lines)))
-            ordered_ids = payload.get("ids", [])
-            ordered_map = {article.id: article for article in articles}
-            reranked = [ordered_map[article_id] for article_id in ordered_ids if article_id in ordered_map]
+            raw = self._chat("\n".join(prompt_lines), json_mode=True)
+            ordered_labels = self._parse_rerank_labels(raw)
+            reranked = [article_by_label[label] for label in ordered_labels if label in article_by_label]
             seen = {article.id for article in reranked}
             reranked.extend(article for article in articles if article.id not in seen)
             return reranked
@@ -96,6 +164,26 @@ class LLMService:
         if not self.is_enabled():
             return build_digest_lines(items, query=query)
 
+        cache_key = self._cache_key(
+            "digest",
+            {
+                "provider": self.settings.llm_provider,
+                "model": self.settings.llm_model,
+                "query": strip_text(query or ""),
+                "items": [
+                    {
+                        "id": item.id,
+                        "title": item.title[:180],
+                        "summary": item.summary[:220],
+                    }
+                    for item in items[:5]
+                ],
+            },
+        )
+        cached = self._digest_cache.get(cache_key)
+        if isinstance(cached, list) and cached:
+            return [str(value) for value in cached]
+
         prompt_lines = [
             "Turn these ACG headlines into 3 bullet points for a Singapore-based fan app.",
             "Keep each bullet to one sentence and focus on what matters immediately.",
@@ -108,22 +196,31 @@ class LLMService:
         try:
             raw = self._chat("\n".join(prompt_lines))
             lines = [strip_text(line.lstrip("-*• ")) for line in raw.splitlines() if strip_text(line)]
-            return lines[:3] or build_digest_lines(items, query=query)
+            resolved = lines[:3] or build_digest_lines(items, query=query)
+            self._digest_cache.set(cache_key, resolved)
+            return resolved
         except Exception as exc:
             logger.warning("LLM digest generation failed; using deterministic digest lines instead.", exc_info=exc)
             return build_digest_lines(items, query=query)
 
-    def _chat(self, prompt: str) -> str:
+    def _chat(self, prompt: str, json_mode: bool = False) -> str:
         provider = self.settings.llm_provider.strip().lower().replace("-", "_")
-        timeout = self.settings.request_timeout_seconds
+        timeout = self.settings.llm_timeout_seconds
         if provider == "ollama":
+            payload: dict[str, Any] = {
+                "model": self.settings.llm_model,
+                "messages": [{"role": "user", "content": prompt}],
+                "stream": False,
+                "options": {
+                    "temperature": 0.2,
+                    "num_predict": self.settings.llm_max_tokens,
+                },
+            }
+            if json_mode:
+                payload["format"] = "json"
             response = httpx.post(
                 f"{self.settings.llm_base_url.rstrip('/')}/api/chat",
-                json={
-                    "model": self.settings.llm_model,
-                    "messages": [{"role": "user", "content": prompt}],
-                    "stream": False,
-                },
+                json=payload,
                 timeout=timeout,
             )
             response.raise_for_status()
@@ -135,14 +232,18 @@ class LLMService:
         headers = {"Content-Type": "application/json"}
         if self.settings.llm_api_key:
             headers["Authorization"] = f"Bearer {self.settings.llm_api_key}"
+        openai_payload: dict[str, Any] = {
+            "model": self.settings.llm_model,
+            "temperature": 0.2,
+            "max_tokens": self.settings.llm_max_tokens,
+            "messages": [{"role": "user", "content": prompt}],
+        }
+        if json_mode:
+            openai_payload["response_format"] = {"type": "json_object"}
         response = httpx.post(
             self._resolve_chat_completions_url(),
             headers=headers,
-            json={
-                "model": self.settings.llm_model,
-                "temperature": 0.2,
-                "messages": [{"role": "user", "content": prompt}],
-            },
+            json=openai_payload,
             timeout=timeout,
         )
         response.raise_for_status()
@@ -178,6 +279,70 @@ class LLMService:
             text = content.get("text") or content.get("content") or content.get("value")
             return text if isinstance(text, str) else json.dumps(content)
         return str(content)
+
+    def _load_json_response(self, raw: str) -> dict[str, Any]:
+        cleaned = strip_text(raw)
+        if not cleaned:
+            raise ValueError("LLM returned an empty response")
+
+        fenced_match = JSON_BLOCK_PATTERN.search(cleaned)
+        if fenced_match:
+            cleaned = strip_text(fenced_match.group(1))
+
+        try:
+            payload = json.loads(cleaned)
+        except json.JSONDecodeError:
+            payload = json.loads(self._extract_json_substring(cleaned))
+
+        if not isinstance(payload, dict):
+            raise ValueError("LLM JSON response was not an object")
+        return payload
+
+    def _parse_rerank_labels(self, raw: str) -> list[str]:
+        cleaned = strip_text(raw)
+        if not cleaned:
+            raise ValueError("LLM rerank response was empty")
+
+        try:
+            payload = self._load_json_response(cleaned)
+            candidate_lists = [
+                payload.get("labels"),
+                payload.get("ids"),
+                payload.get("order"),
+            ]
+            for candidate in candidate_lists:
+                if isinstance(candidate, list):
+                    parsed = [strip_text(str(value)).upper() for value in candidate if strip_text(str(value))]
+                    if parsed:
+                        return parsed
+        except Exception:
+            pass
+
+        labels = [match.group(0).upper() for match in RERANK_LABEL_PATTERN.finditer(cleaned)]
+        ordered: list[str] = []
+        seen: set[str] = set()
+        for label in labels:
+            if label in seen:
+                continue
+            seen.add(label)
+            ordered.append(label)
+        if ordered:
+            return ordered
+        raise ValueError("No rerank labels found in LLM response")
+
+    def _extract_json_substring(self, value: str) -> str:
+        start_candidates = [index for index in (value.find("{"), value.find("[")) if index >= 0]
+        if not start_candidates:
+            raise ValueError("No JSON payload found in LLM response")
+        start = min(start_candidates)
+        end = max(value.rfind("}"), value.rfind("]"))
+        if end < start:
+            raise ValueError("Incomplete JSON payload found in LLM response")
+        return value[start : end + 1]
+
+    def _cache_key(self, namespace: str, payload: dict[str, Any]) -> str:
+        serialized = json.dumps(payload, sort_keys=True, ensure_ascii=False, separators=(",", ":"))
+        return f"{namespace}:{hashlib.sha1(serialized.encode('utf-8')).hexdigest()}"
 
     def _fallback_summary(self, title: str, content: str) -> str:
         cleaned = strip_text(content)

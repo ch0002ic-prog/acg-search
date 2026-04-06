@@ -13,6 +13,7 @@ if str(ROOT_DIR) not in sys.path:
 from app.config import settings
 from app.database import ArticleRepository
 from app.schemas import SourceHealthResponse
+from app.services.embeddings import SemanticEmbeddingService
 from app.services.ingestion import IngestionService
 from app.services.llm import LLMService
 from app.services.state_store import build_state_store
@@ -23,7 +24,11 @@ from app.sources.registry import build_sources
 def main() -> None:
     repository = ArticleRepository(settings.db_path)
     repository.init_database()
-    vector_store = VectorStore(settings=settings, repository=repository)
+    vector_store = VectorStore(
+        settings=settings,
+        repository=repository,
+        semantic_embedding_service=SemanticEmbeddingService(settings),
+    )
     llm_service = LLMService(settings)
     ingestion_service = IngestionService(
         settings=settings,

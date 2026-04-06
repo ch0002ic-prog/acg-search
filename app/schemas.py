@@ -126,6 +126,19 @@ class SearchRequest(BaseModel):
     rerank: bool = True
     user_id: str | None = Field(default=None, min_length=1, max_length=64)
     track_profile: bool = True
+    include_digest: bool = False
+
+
+class DigestRequest(BaseModel):
+    query: str | None = Field(default=None, max_length=200)
+    article_ids: list[str] = Field(min_length=1, max_length=12)
+
+
+class DigestResponse(BaseModel):
+    digest: list[str] = Field(default_factory=list)
+    generated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+    query: str | None = None
+    article_count: int = 0
 
 
 class ProfileUpdateRequest(BaseModel):

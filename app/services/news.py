@@ -59,7 +59,15 @@ class NewsService:
             profile=profile,
         )
 
-    def search(self, query: str, limit: int, rerank: bool = True, user_id: str | None = None, track_profile: bool = True) -> FeedResponse:
+    def search(
+        self,
+        query: str,
+        limit: int,
+        rerank: bool = True,
+        user_id: str | None = None,
+        track_profile: bool = True,
+        include_digest: bool = True,
+    ) -> FeedResponse:
         profile: UserProfile | None = None
         hidden_ids: set[str] = set()
         if user_id:
@@ -147,10 +155,25 @@ class NewsService:
 
         return FeedResponse(
             items=items,
-            digest=self.llm_service.generate_digest(items, query=query),
+            digest=self.llm_service.generate_digest(items, query=query) if include_digest else [],
             source_breakdown=dict(Counter(article.source_name for article in items)),
             entity_groups=build_entity_groups(items),
             query=query,
             expanded_query=expanded_query,
             profile=profile,
         )
+
+    def search_digest(self, query: str | None, article_ids: list[str]) -> list[str]:
+        if not article_ids:
+            return []
+
+        ordered_ids = list(dict.fromkeys(str(article_id) for article_id in article_ids if article_id))[:12]
+        if not ordered_ids:
+            return []
+
+        article_map = self.repository.get_articles_by_ids(ordered_ids)
+        ordered_articles = [article_map[article_id] for article_id in ordered_ids if article_id in article_map]
+        if not ordered_articles:
+            return []
+
+        return self.llm_service.generate_digest(ordered_articles, query=query)

@@ -52,8 +52,9 @@ class IngestionService:
     def bootstrap_if_empty(self) -> None:
         if self.repository.count_articles() == 0:
             articles = load_sample_articles(self.settings.data_dir)
-            self.repository.upsert_articles(articles)
-            self.vector_store.upsert_articles(articles)
+            semantic_embeddings = self.vector_store.build_semantic_embeddings(articles)
+            self.repository.upsert_articles(articles, semantic_embeddings=semantic_embeddings)
+            self.vector_store.upsert_articles(articles, semantic_embeddings=semantic_embeddings)
 
         if self.repository.count_source_health() == 0:
             source_health_entries = load_source_health_snapshot(self.settings.data_dir)
@@ -117,8 +118,9 @@ class IngestionService:
             collected = load_sample_articles(self.settings.data_dir)
             seed_used = True
 
-        self.repository.upsert_articles(collected)
-        self.vector_store.upsert_articles(collected)
+        semantic_embeddings = self.vector_store.build_semantic_embeddings(collected)
+        self.repository.upsert_articles(collected, semantic_embeddings=semantic_embeddings)
+        self.vector_store.upsert_articles(collected, semantic_embeddings=semantic_embeddings)
         stale_curated_ids = self.synchronize_curated_source_articles(curated_urls_by_source=curated_urls_by_source)
         canonicalized_articles, canonicalized_old_ids = self.canonicalize_google_news_wrapper_articles()
         duplicate_ids = self.repository.prune_duplicate_articles()
@@ -186,8 +188,9 @@ class IngestionService:
                 curated_urls_by_source[source.name] = current_urls
 
             if current_articles:
-                self.repository.upsert_articles(current_articles)
-                self.vector_store.upsert_articles(current_articles)
+                semantic_embeddings = self.vector_store.build_semantic_embeddings(current_articles)
+                self.repository.upsert_articles(current_articles, semantic_embeddings=semantic_embeddings)
+                self.vector_store.upsert_articles(current_articles, semantic_embeddings=semantic_embeddings)
 
         deleted_ids = self._prune_stale_curated_source_articles(curated_urls_by_source)
         if deleted_ids:
@@ -197,10 +200,30 @@ class IngestionService:
     def canonicalize_google_news_wrapper_articles(self) -> tuple[list[ArticleRecord], list[str]]:
         canonicalized_articles, deleted_ids = self._canonicalize_google_news_wrapper_articles()
         if canonicalized_articles:
-            self.vector_store.upsert_articles(canonicalized_articles)
+            semantic_embeddings = self.vector_store.build_semantic_embeddings(canonicalized_articles)
+            if semantic_embeddings:
+                self.repository.update_semantic_embeddings(semantic_embeddings)
+            self.vector_store.upsert_articles(canonicalized_articles, semantic_embeddings=semantic_embeddings)
         if deleted_ids:
             self.vector_store.delete_articles(deleted_ids)
         return canonicalized_articles, deleted_ids
+
+    def synchronize_semantic_embeddings(self) -> int:
+        signature = self.vector_store.current_semantic_signature()
+        if not signature:
+            return 0
+
+        articles = self.repository.list_articles_missing_semantic_embeddings(signature)
+        if not articles:
+            return 0
+
+        semantic_embeddings = self.vector_store.build_semantic_embeddings(articles)
+        if not semantic_embeddings:
+            return 0
+
+        updated = self.repository.update_semantic_embeddings(semantic_embeddings)
+        self.vector_store.upsert_articles(articles, semantic_embeddings=semantic_embeddings)
+        return updated
 
     def _canonicalize_google_news_wrapper_articles(self) -> tuple[list[ArticleRecord], list[str]]:
         wrapper_articles = self.repository.list_google_news_wrapper_articles()

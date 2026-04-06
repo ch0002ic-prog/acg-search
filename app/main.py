@@ -14,7 +14,8 @@ from fastapi.staticfiles import StaticFiles
 
 from app.config import settings
 from app.database import ArticleRepository
-from app.schemas import FeedResponse, InteractionRequest, ProfileUpdateRequest, RefreshResponse, SearchRequest, SourceHealthResponse, SourceHealthRollupsResponse, SourceHealthRunsResponse, UserProfile
+from app.schemas import DigestRequest, DigestResponse, FeedResponse, InteractionRequest, ProfileUpdateRequest, RefreshResponse, SearchRequest, SourceHealthResponse, SourceHealthRollupsResponse, SourceHealthRunsResponse, UserProfile
+from app.services.embeddings import SemanticEmbeddingService
 from app.services.ingestion import IngestionService
 from app.services.llm import LLMService
 from app.services.news import NewsService
@@ -55,7 +56,12 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
 
     repository = ArticleRepository(settings.db_path)
     repository.init_database()
-    vector_store = VectorStore(settings=settings, repository=repository)
+    semantic_embedding_service = SemanticEmbeddingService(settings)
+    vector_store = VectorStore(
+        settings=settings,
+        repository=repository,
+        semantic_embedding_service=semantic_embedding_service,
+    )
     duplicate_ids = repository.prune_duplicate_articles()
     invalid_url_ids = repository.prune_non_external_articles()
     deleted_ids = duplicate_ids + invalid_url_ids
@@ -76,10 +82,17 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
     ingestion_service.bootstrap_if_empty()
     stale_curated_ids = ingestion_service.synchronize_curated_source_articles()
     canonicalized_articles, canonicalized_old_ids = ingestion_service.canonicalize_google_news_wrapper_articles()
+    semantic_embedding_sync_count = ingestion_service.synchronize_semantic_embeddings()
     if state_store is not None:
         state_store.persist_from(settings.db_path)
     news_service = NewsService(repository=repository, vector_store=vector_store, llm_service=llm_service)
-    logger.info("Runtime initialized with db=%s and vector backend=%s", settings.db_path, vector_store.backend)
+    logger.info(
+        "Runtime initialized with db=%s vector_backend=%s semantic_embeddings_enabled=%s llm_enabled=%s",
+        settings.db_path,
+        vector_store.backend,
+        vector_store.semantic_search_enabled(),
+        llm_service.is_enabled(),
+    )
     if orphan_interactions:
         logger.info("Removed %s orphan interaction rows during startup maintenance", orphan_interactions)
     if invalid_url_ids:
@@ -88,6 +101,11 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
         logger.info("Removed %s stale curated source rows during startup maintenance", len(stale_curated_ids))
     if canonicalized_old_ids:
         logger.info("Canonicalized %s stored Google News wrapper rows during startup maintenance", len(canonicalized_old_ids))
+    if semantic_embedding_sync_count:
+        logger.info(
+            "Refreshed %s semantic embedding rows during startup maintenance",
+            semantic_embedding_sync_count,
+        )
     return repository, news_service, ingestion_service
 
 
@@ -257,20 +275,29 @@ def search(request: Request, background_tasks: BackgroundTasks, payload: SearchR
         rerank=payload.rerank,
         user_id=payload.user_id,
         track_profile=payload.track_profile,
+        include_digest=payload.include_digest,
     )
     logger.info(
-        "Search response ready: request_id=%s query=%r limit=%s result_count=%s rerank=%s user_id_present=%s track_profile=%s",
+        "Search response ready: request_id=%s query=%r limit=%s result_count=%s rerank=%s include_digest=%s user_id_present=%s track_profile=%s",
         _request_id(request),
         payload.query,
         payload.limit,
         len(response.items),
         payload.rerank,
+        payload.include_digest,
         bool(payload.user_id),
         payload.track_profile,
     )
     if payload.user_id:
         _schedule_state_persist(background_tasks, request.app, f"search:{payload.user_id}")
     return response
+
+
+@app.post("/api/search/digest", response_model=DigestResponse)
+def search_digest(request: Request, payload: DigestRequest) -> DigestResponse:
+    news_service: NewsService = request.app.state.news_service
+    digest = news_service.search_digest(query=payload.query, article_ids=payload.article_ids)
+    return DigestResponse(digest=digest, query=payload.query, article_count=len(payload.article_ids))
 
 
 @app.get("/api/profile", response_model=UserProfile)

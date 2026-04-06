@@ -43,6 +43,7 @@ const state = {
   currentQuery: "",
   currentItems: [],
   currentGroups: [],
+  searchDigestRequestId: 0,
   userId: "",
   displayName: "",
   profile: null,
@@ -499,6 +500,42 @@ function renderDigest(items, title) {
     listItem.textContent = item;
     elements.digestList.appendChild(listItem);
   });
+}
+
+function cancelPendingSearchDigest() {
+  state.searchDigestRequestId += 1;
+}
+
+async function loadDeferredSearchDigest(query, items) {
+  const articleIds = (items || [])
+    .map((item) => item.id)
+    .filter((value) => typeof value === "string" && value)
+    .slice(0, 12);
+
+  const requestId = ++state.searchDigestRequestId;
+  if (!articleIds.length) {
+    renderDigest([], "Why these headlines");
+    return;
+  }
+
+  renderDigest(["Generating a quick rationale..."], "Why these headlines");
+
+  try {
+    const payload = await apiRequest("/api/search/digest", {
+      method: "POST",
+      body: JSON.stringify({ query, article_ids: articleIds }),
+    });
+    if (requestId !== state.searchDigestRequestId || state.currentMode !== "search" || state.currentQuery !== query) {
+      return;
+    }
+    renderDigest(payload.digest || [], "Why these headlines");
+  } catch (error) {
+    if (requestId !== state.searchDigestRequestId || state.currentMode !== "search" || state.currentQuery !== query) {
+      return;
+    }
+    console.error(error);
+    renderDigest([], "Why these headlines");
+  }
 }
 
 function renderSourceBreakdown(sourceBreakdown) {
@@ -1243,7 +1280,7 @@ async function openClusterDetail(entityName, options = {}) {
   try {
     const payload = await apiRequest("/api/search", {
       method: "POST",
-      body: JSON.stringify({ query: entityName, limit: 18, rerank: true }),
+      body: JSON.stringify({ query: entityName, limit: 18, rerank: true, include_digest: false }),
     });
     if (requestId !== state.clusterDetailRequestId) {
       return;
@@ -1441,7 +1478,7 @@ function renderFeed(payload, mode) {
     applyProfileState(payload.profile);
   }
 
-  renderDigest(payload.digest, mode === "search" ? "Why these headlines" : "Top signals right now");
+  renderDigest(payload.digest || [], mode === "search" ? "Why these headlines" : "Top signals right now");
   renderSourceBreakdown(payload.source_breakdown || {});
   renderEntityGroups(payload.entity_groups || [], payload.items || []);
   renderCards(payload.items || [], payload.entity_groups || []);
@@ -1476,6 +1513,7 @@ async function syncProfile(options = {}) {
 
 async function loadHomeFeed(options = {}) {
   const { updateRoute = true, routeMode = "replace", announce = true } = options;
+  cancelPendingSearchDigest();
   state.currentMode = "home";
   state.currentQuery = "";
   elements.queryInput.value = "";
@@ -1494,15 +1532,17 @@ async function loadHomeFeed(options = {}) {
 
 async function runSearch(query, options = {}) {
   const { updateRoute = true, routeMode = "replace", trackProfile = true } = options;
+  cancelPendingSearchDigest();
   state.currentMode = "search";
   state.currentQuery = query;
   elements.queryInput.value = query;
   setStatus(`Searching for ${query}...`);
   const payload = await apiRequest("/api/search", {
     method: "POST",
-    body: JSON.stringify({ query, limit: 12, rerank: true, user_id: state.userId, track_profile: trackProfile }),
+    body: JSON.stringify({ query, limit: 12, rerank: true, user_id: state.userId, track_profile: trackProfile, include_digest: false }),
   });
   renderFeed(payload, "search");
+  void loadDeferredSearchDigest(query, payload.items || []);
   if (updateRoute) {
     writeRouteState({ query }, { mode: routeMode });
   }

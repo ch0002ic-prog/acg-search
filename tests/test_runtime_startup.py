@@ -10,6 +10,7 @@ from unittest.mock import patch
 import app.main as main_module
 from app.config import settings
 from app.database import ArticleRepository
+from app.services.embeddings import EmbeddingRecord, SemanticEmbeddingService
 from app.services.ingestion import IngestionService
 from app.services.llm import LLMService
 from app.services.vector_store import VectorStore
@@ -163,6 +164,72 @@ class RuntimeStartupTests(unittest.TestCase):
 
             self.assertIn("https://animefestival.asia/afasg25/", urls)
             self.assertNotIn("https://www.eventbrite.sg/d/singapore--singapore/artist-alley/", urls)
+
+    def test_build_runtime_backfills_semantic_embeddings_when_configured(self) -> None:
+        with TemporaryDirectory() as temp_dir:
+            base_path = Path(temp_dir)
+            test_settings = replace(
+                settings,
+                db_path=base_path / "test-runtime.db",
+                vector_dir=base_path / "vector-store",
+                data_dir=base_path,
+                vector_backend="local",
+                llm_provider="none",
+                llm_model=None,
+                enable_llm_enrichment=False,
+                embedding_provider="openai_compatible",
+                embedding_base_url="https://embeddings.example",
+                embedding_model="text-embedding-3-small",
+            )
+            repository = ArticleRepository(test_settings.db_path)
+            repository.init_database()
+            vector_store = VectorStore(settings=test_settings, repository=repository)
+            llm_service = LLMService(test_settings)
+            source = EmptySource(
+                name="Bandwagon Asia",
+                feed_url="https://example.com/bandwagon",
+                quality=0.78,
+                source_type="rss",
+                category_hints=["events", "anime"],
+                region_hints=["Singapore"],
+            )
+            article = IngestionService(
+                settings=test_settings,
+                repository=repository,
+                vector_store=vector_store,
+                llm_service=llm_service,
+                sources=[source],
+            )._to_article(
+                source,
+                SourceArticle(
+                    title="AFA Singapore creator stage schedule announced",
+                    url="https://example.com/afa-stage",
+                    published_at=datetime.now(timezone.utc) - timedelta(hours=3),
+                    summary="AFA Singapore confirms creator stage segments and headline guests.",
+                ),
+            )
+            repository.upsert_articles([article])
+            signature = SemanticEmbeddingService(test_settings).current_signature()
+
+            with (
+                patch.object(main_module, "settings", test_settings),
+                patch.object(main_module, "build_sources", return_value=[]),
+                patch(
+                    "app.services.embeddings.SemanticEmbeddingService.embed_documents",
+                    return_value=[EmbeddingRecord(vector=[1.0, 0.0], signature=signature)],
+                ),
+            ):
+                runtime_repository, _news_service, _ingestion_service = main_module.build_runtime()
+
+            with runtime_repository.connect() as connection:
+                row = connection.execute(
+                    "SELECT semantic_embedding, semantic_embedding_signature FROM articles WHERE id = ?",
+                    (article.id,),
+                ).fetchone()
+
+            self.assertIsNotNone(row)
+            self.assertEqual(row["semantic_embedding_signature"], signature)
+            self.assertNotEqual(row["semantic_embedding"], "[]")
 
 
 if __name__ == "__main__":

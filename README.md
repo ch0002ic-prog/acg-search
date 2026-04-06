@@ -8,10 +8,9 @@ This is a FastAPI-based prototype for a Singapore-first ACG news aggregator. It 
 
 ## What is included
 
-- FastAPI backend with `GET /api/news`, `POST /api/search`, `GET/POST /api/profile`, `POST /api/interactions`, and `POST /api/refresh`
-- FastAPI backend with `GET /api/news`, `POST /api/search`, `GET/POST /api/profile`, `POST /api/interactions`, `POST /api/refresh`, and `GET /api/source-health`
+- FastAPI backend with `GET /api/news`, `POST /api/search`, `POST /api/search/digest`, `GET/POST /api/profile`, `POST /api/interactions`, `POST /api/refresh`, and `GET /api/source-health`
 - SQLite article store with FTS5 for lexical search
-- Local hashed-vector retrieval by default, with optional ChromaDB persistence when you want a vector database backing store
+- Local hash vectors only when no embedding provider is configured, with provider-backed semantic embeddings available through `EMBEDDING_*` settings and optional ChromaDB persistence when you want a vector database backing store
 - RSS ingestion adapters for ACG-heavy sources and Singapore-oriented Google News queries
 - Direct Singapore event ingestion from Eventbrite plus curated Singapore/SEA feeds such as Anime Festival Asia and Bandwagon Asia
 - Optional LLM hooks for query expansion, summarization, digest generation, and reranking
@@ -119,10 +118,23 @@ The prototype also runs without ChromaDB enabled. `VECTOR_BACKEND=local` is the 
 
 When `VECTOR_BACKEND=local`, vector search now scores a bounded candidate pool instead of scanning the full article table. The pool is seeded by lexical hits and then filled from the strongest stored headlines. You can tune its size with `LOCAL_VECTOR_PREFILTER_LIMIT`.
 
+Actual semantic retrieval is configured separately from chat generation:
+
+- Set `EMBEDDING_PROVIDER`, `EMBEDDING_BASE_URL`, and `EMBEDDING_MODEL` to enable provider-backed semantic vectors.
+- Existing articles are backfilled on startup when the active semantic embedding signature changes, so you do not need a full re-ingest to switch models.
+- When an embedding provider is configured, vector search stays strict: it uses semantic vectors or contributes no vector score. It does not silently fall back to the hash-vector path.
+- For local Ollama, `EMBEDDING_MODEL=nomic-embed-text` and `LLM_MODEL=qwen2.5:3b` are the lightest practical defaults for this app on consumer hardware.
+- Local model calls use dedicated timeouts now: `EMBEDDING_TIMEOUT_SECONDS` and `LLM_TIMEOUT_SECONDS` can be raised without slowing down feed ingestion HTTP requests.
+- Startup backfill batches semantic embedding requests with `EMBEDDING_BATCH_SIZE`, which matters for local Ollama because sending the entire corpus in one request can time out on smaller machines.
+- `LLM_MAX_TOKENS` now caps local model output, which helps smaller Ollama models stay responsive for query expansion, reranking, and digest generation.
+- Query expansion and digest generation now use a small in-process TTL cache. Tune it with `LLM_CACHE_TTL_SECONDS` and `LLM_CACHE_MAX_ENTRIES` if you want shorter reuse windows or a larger cache.
+- `POST /api/search` now accepts `include_digest`; the static frontend sends `false` so interactive search renders results first and fetches the digest afterward through `POST /api/search/digest`.
+
 If you want a model in the loop:
 
 - For Ollama, set `LLM_PROVIDER=ollama`, `LLM_BASE_URL=http://localhost:11434`, and `LLM_MODEL` to a local model.
 - For OpenAI-compatible servers such as LM Studio or an API gateway, set `LLM_PROVIDER=openai_compatible`, `LLM_BASE_URL`, `LLM_MODEL`, and optionally `LLM_API_KEY`.
+- Search-time query expansion and reranking are enabled whenever a valid LLM provider/model is configured; `ENABLE_LLM_ENRICHMENT` only gates ingest-time summarization and tagging.
 - The chat client now tolerates both base URLs that already end in `/v1` and URLs that point at the API root.
 
 ## How the ranking works

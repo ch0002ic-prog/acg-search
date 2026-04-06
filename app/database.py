@@ -10,7 +10,7 @@ from typing import Literal, cast
 from app.schemas import ArticleRecord, SourceHealthEntry, SourceHealthRollupEntry, SourceHealthRunEntry, UserProfile
 from app.services.dedupe import article_dedupe_key, article_preference_signature
 from app.services.entities import display_entity_name, infer_entity_tags
-from app.services.embeddings import build_hash_embedding, cosine_similarity
+from app.services.embeddings import EmbeddingRecord, build_hash_embedding, cosine_similarity
 from app.services.event_metadata import coerce_event_metadata, infer_event_metadata, merge_event_metadata
 from app.services.ranking import build_fts_query, infer_query_preferences, strip_text
 from app.url_utils import is_external_http_url
@@ -72,6 +72,8 @@ class ArticleRepository:
                     image_url TEXT,
                     event_metadata TEXT NOT NULL DEFAULT '{}',
                     embedding TEXT NOT NULL DEFAULT '[]',
+                    semantic_embedding TEXT NOT NULL DEFAULT '[]',
+                    semantic_embedding_signature TEXT NOT NULL DEFAULT '',
                     created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
                     updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
                 );
@@ -154,6 +156,8 @@ class ArticleRepository:
                 {
                     "entity_tags": "TEXT NOT NULL DEFAULT '[]'",
                     "event_metadata": "TEXT NOT NULL DEFAULT '{}'",
+                    "semantic_embedding": "TEXT NOT NULL DEFAULT '[]'",
+                    "semantic_embedding_signature": "TEXT NOT NULL DEFAULT ''",
                 },
             )
             self._ensure_table_columns(
@@ -224,20 +228,28 @@ class ArticleRepository:
             row = connection.execute("SELECT COUNT(*) AS count FROM source_health").fetchone()
         return int(row["count"])
 
-    def upsert_articles(self, articles: list[ArticleRecord]) -> None:
+    def upsert_articles(
+        self,
+        articles: list[ArticleRecord],
+        semantic_embeddings: dict[str, EmbeddingRecord] | None = None,
+    ) -> None:
         if not articles:
             return
 
         with self.connect() as connection:
             for article in articles:
                 embedding = json.dumps(build_hash_embedding(article.combined_text()))
+                semantic_embedding_record = semantic_embeddings.get(article.id) if semantic_embeddings else None
+                semantic_embedding = json.dumps(semantic_embedding_record.vector if semantic_embedding_record else [])
+                semantic_embedding_signature = semantic_embedding_record.signature if semantic_embedding_record else ""
                 connection.execute(
                     """
                     INSERT INTO articles (
                         id, title, url, source_name, source_type, published_at, summary, content,
                         categories, tags, entity_tags, region_tags, sg_relevance, freshness_score, home_score,
-                        source_quality, image_url, event_metadata, embedding, updated_at
-                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+                        source_quality, image_url, event_metadata, embedding, semantic_embedding,
+                        semantic_embedding_signature, updated_at
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
                     ON CONFLICT(url) DO UPDATE SET
                         id = excluded.id,
                         title = excluded.title,
@@ -257,6 +269,14 @@ class ArticleRepository:
                         image_url = excluded.image_url,
                         event_metadata = excluded.event_metadata,
                         embedding = excluded.embedding,
+                        semantic_embedding = CASE
+                            WHEN excluded.semantic_embedding_signature != '' THEN excluded.semantic_embedding
+                            ELSE articles.semantic_embedding
+                        END,
+                        semantic_embedding_signature = CASE
+                            WHEN excluded.semantic_embedding_signature != '' THEN excluded.semantic_embedding_signature
+                            ELSE articles.semantic_embedding_signature
+                        END,
                         updated_at = CURRENT_TIMESTAMP
                     """,
                     (
@@ -279,6 +299,8 @@ class ArticleRepository:
                         article.image_url,
                         json.dumps(article.event_metadata.model_dump() if article.event_metadata else {}),
                         embedding,
+                        semantic_embedding,
+                        semantic_embedding_signature,
                     ),
                 )
 
@@ -299,6 +321,27 @@ class ArticleRepository:
                     ),
                 )
             connection.commit()
+
+    def update_semantic_embeddings(self, semantic_embeddings: dict[str, EmbeddingRecord]) -> int:
+        if not semantic_embeddings:
+            return 0
+
+        updated = 0
+        with self.connect() as connection:
+            for article_id, embedding_record in semantic_embeddings.items():
+                cursor = connection.execute(
+                    """
+                    UPDATE articles
+                    SET semantic_embedding = ?,
+                        semantic_embedding_signature = ?,
+                        updated_at = CURRENT_TIMESTAMP
+                    WHERE id = ?
+                    """,
+                    (json.dumps(embedding_record.vector), embedding_record.signature, article_id),
+                )
+                updated += int(cursor.rowcount or 0)
+            connection.commit()
+        return updated
 
     def prune_duplicate_articles(self) -> list[str]:
         with self.connect() as connection:
@@ -578,6 +621,24 @@ class ArticleRepository:
             self.upsert_articles(updated_articles)
         return updated_articles
 
+    def list_articles_missing_semantic_embeddings(self, expected_signature: str) -> list[ArticleRecord]:
+        if not expected_signature:
+            return []
+
+        with self.connect() as connection:
+            rows = connection.execute(
+                """
+                SELECT *
+                FROM articles
+                WHERE semantic_embedding_signature != ?
+                   OR semantic_embedding IS NULL
+                   OR semantic_embedding = '[]'
+                ORDER BY published_at DESC
+                """,
+                (expected_signature,),
+            ).fetchall()
+        return [self._row_to_article(row) for row in rows]
+
     def latest_articles(self, limit: int, exclude_ids: set[str] | None = None) -> list[ArticleRecord]:
         query = """
             SELECT *
@@ -721,6 +782,43 @@ class ArticleRepository:
         scored: list[tuple[str, float]] = []
         for row in rows:
             embedding = json.loads(row["embedding"] or "[]")
+            if not embedding:
+                continue
+            score = cosine_similarity(query_embedding, embedding)
+            scored.append((str(row["id"]), max(score, 0.0)))
+
+        scored.sort(key=lambda item: item[1], reverse=True)
+        return scored[:limit]
+
+    def semantic_vector_search_with_candidates(
+        self,
+        query_embedding: list[float],
+        embedding_signature: str,
+        limit: int,
+        candidate_ids: list[str] | None = None,
+    ) -> list[tuple[str, float]]:
+        if limit <= 0 or not query_embedding or not embedding_signature:
+            return []
+
+        with self.connect() as connection:
+            if candidate_ids is None:
+                rows = connection.execute(
+                    f"SELECT id, semantic_embedding FROM articles WHERE semantic_embedding_signature = ? AND {_external_url_sql('url')} ORDER BY home_score DESC, published_at DESC LIMIT ?",
+                    (embedding_signature, limit),
+                ).fetchall()
+            else:
+                filtered_candidate_ids = list(dict.fromkeys(str(article_id) for article_id in candidate_ids if article_id))
+                if not filtered_candidate_ids:
+                    return []
+                placeholders = ", ".join("?" for _ in filtered_candidate_ids)
+                rows = connection.execute(
+                    f"SELECT id, semantic_embedding FROM articles WHERE id IN ({placeholders}) AND semantic_embedding_signature = ? AND {_external_url_sql('url')}",
+                    [*filtered_candidate_ids, embedding_signature],
+                ).fetchall()
+
+        scored: list[tuple[str, float]] = []
+        for row in rows:
+            embedding = json.loads(row["semantic_embedding"] or "[]")
             if not embedding:
                 continue
             score = cosine_similarity(query_embedding, embedding)

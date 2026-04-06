@@ -8,13 +8,14 @@ from fastapi import FastAPI
 from fastapi.testclient import TestClient
 
 import app.main as main_module
-from app.schemas import FeedResponse, RefreshResponse, SourceHealthEntry, SourceHealthRollupEntry, SourceHealthRunEntry, UserProfile
+from app.schemas import DigestResponse, FeedResponse, RefreshResponse, SourceHealthEntry, SourceHealthRollupEntry, SourceHealthRunEntry, UserProfile
 
 
 class FakeNewsService:
     def __init__(self) -> None:
         self.last_home_args: tuple[int, str | None] | None = None
-        self.last_search_args: tuple[str, int, bool, str | None, bool] | None = None
+        self.last_search_args: tuple[str, int, bool, str | None, bool, bool] | None = None
+        self.last_digest_args: tuple[str | None, list[str]] | None = None
 
     def home_feed(self, limit: int, user_id: str | None = None) -> FeedResponse:
         self.last_home_args = (limit, user_id)
@@ -27,9 +28,14 @@ class FakeNewsService:
         rerank: bool = True,
         user_id: str | None = None,
         track_profile: bool = True,
+        include_digest: bool = False,
     ) -> FeedResponse:
-        self.last_search_args = (query, limit, rerank, user_id, track_profile)
+        self.last_search_args = (query, limit, rerank, user_id, track_profile, include_digest)
         return FeedResponse(items=[], query=query, expanded_query=query)
+
+    def search_digest(self, query: str | None, article_ids: list[str]) -> list[str]:
+        self.last_digest_args = (query, article_ids)
+        return [f"Digest for {query or 'feed'}"]
 
 
 class FakeRepository:
@@ -192,6 +198,7 @@ def build_test_app(state_store: FakeStateStore | None = None) -> tuple[FastAPI, 
 
     app.add_api_route("/api/news", main_module.news, methods=["GET"], response_model=FeedResponse)
     app.add_api_route("/api/search", main_module.search, methods=["POST"], response_model=FeedResponse)
+    app.add_api_route("/api/search/digest", main_module.search_digest, methods=["POST"], response_model=DigestResponse)
     app.add_api_route("/api/profile", main_module.get_profile, methods=["GET"], response_model=UserProfile)
     app.add_api_route("/api/source-health", main_module.source_health, methods=["GET"])
     app.add_api_route("/api/source-health/runs", main_module.source_health_runs, methods=["GET"])
@@ -293,10 +300,33 @@ class ApiEndpointTests(unittest.TestCase):
                 )
 
         self.assertEqual(response.status_code, 200)
-        self.assertEqual(news_service.last_search_args, ("AFA Singapore", 9, False, "sg-fan-1", False))
+        self.assertEqual(news_service.last_search_args, ("AFA Singapore", 9, False, "sg-fan-1", False, False))
         self.assertTrue(response.headers.get("X-Request-ID"))
         self.assertTrue(any("API request completed" in message and "/api/search" in message for message in captured.output))
         self.assertTrue(any("Search response ready" in message and response.headers["X-Request-ID"] in message for message in captured.output))
+
+    def test_search_can_request_inline_digest(self) -> None:
+        app, news_service, _, _ = build_test_app()
+        with TestClient(app) as client:
+            response = client.post(
+                "/api/search",
+                json={"query": "AFA Singapore", "limit": 9, "rerank": False, "include_digest": True},
+            )
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(news_service.last_search_args, ("AFA Singapore", 9, False, None, True, True))
+
+    def test_search_digest_endpoint_forwards_article_ids(self) -> None:
+        app, news_service, _, _ = build_test_app()
+        with TestClient(app) as client:
+            response = client.post(
+                "/api/search/digest",
+                json={"query": "AFA Singapore", "article_ids": ["a1", "a2", "a1"]},
+            )
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(news_service.last_digest_args, ("AFA Singapore", ["a1", "a2", "a1"]))
+        self.assertEqual(response.json()["digest"], ["Digest for AFA Singapore"])
 
     def test_personalized_search_persists_runtime_state(self) -> None:
         state_store = FakeStateStore()

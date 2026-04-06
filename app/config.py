@@ -38,6 +38,11 @@ class Settings:
     static_dir: Path
     project_name: str
     request_timeout_seconds: float
+    llm_timeout_seconds: float
+    llm_max_tokens: int
+    llm_cache_ttl_seconds: int
+    llm_cache_max_entries: int
+    embedding_timeout_seconds: float
     request_slow_log_ms: int
     source_health_stale_hours: int
     source_health_runs_retention_days: int
@@ -54,6 +59,11 @@ class Settings:
     enable_full_text_fetch: bool
     disable_http_cache: bool
     allow_remote_refresh: bool
+    embedding_provider: str = "none"
+    embedding_base_url: str = "http://localhost:11434"
+    embedding_api_key: str | None = None
+    embedding_model: str | None = None
+    embedding_batch_size: int = 12
 
     @classmethod
     def from_env(cls) -> "Settings":
@@ -74,6 +84,11 @@ class Settings:
             static_dir=static_dir,
             project_name=os.getenv("PROJECT_NAME", "ACG Search SG"),
             request_timeout_seconds=float(os.getenv("REQUEST_TIMEOUT_SECONDS", "10")),
+            llm_timeout_seconds=float(os.getenv("LLM_TIMEOUT_SECONDS", os.getenv("REQUEST_TIMEOUT_SECONDS", "60"))),
+            llm_max_tokens=max(int(os.getenv("LLM_MAX_TOKENS", "256")), 32),
+            llm_cache_ttl_seconds=max(int(os.getenv("LLM_CACHE_TTL_SECONDS", "900")), 0),
+            llm_cache_max_entries=max(int(os.getenv("LLM_CACHE_MAX_ENTRIES", "256")), 1),
+            embedding_timeout_seconds=float(os.getenv("EMBEDDING_TIMEOUT_SECONDS", os.getenv("REQUEST_TIMEOUT_SECONDS", "45"))),
             request_slow_log_ms=int(os.getenv("REQUEST_SLOW_LOG_MS", "750")),
             source_health_stale_hours=int(os.getenv("SOURCE_HEALTH_STALE_HOURS", "24")),
             source_health_runs_retention_days=int(os.getenv("SOURCE_HEALTH_RUNS_RETENTION_DAYS", "30")),
@@ -90,6 +105,11 @@ class Settings:
             enable_full_text_fetch=_as_bool(os.getenv("ENABLE_FULL_TEXT_FETCH"), False),
             disable_http_cache=_as_bool(os.getenv("DISABLE_HTTP_CACHE"), True),
             allow_remote_refresh=_as_bool(os.getenv("ALLOW_REMOTE_REFRESH"), False),
+            embedding_provider=os.getenv("EMBEDDING_PROVIDER", "none").strip().lower(),
+            embedding_base_url=os.getenv("EMBEDDING_BASE_URL", os.getenv("LLM_BASE_URL", "http://localhost:11434")),
+            embedding_api_key=_clean_optional(os.getenv("EMBEDDING_API_KEY") or os.getenv("LLM_API_KEY")),
+            embedding_model=_clean_optional(os.getenv("EMBEDDING_MODEL")),
+            embedding_batch_size=max(int(os.getenv("EMBEDDING_BATCH_SIZE", "12")), 1),
         )
 
 
