@@ -654,6 +654,11 @@ class SearchBackendTests(unittest.TestCase):
         with (
             patch.object(
                 self.llm_service,
+                "should_skip_inline_search_llm",
+                return_value=False,
+            ),
+            patch.object(
+                self.llm_service,
                 "expand_query_with_metadata",
                 return_value=("HoyoFest Singapore", CallMetrics(duration_ms=2500.0, cache_hit=False, timed_out=True)),
             ),
@@ -669,6 +674,35 @@ class SearchBackendTests(unittest.TestCase):
             ) as mocked_digest,
         ):
             response = self.news_service.search(query="HoyoFest Singapore", limit=5, rerank=True, include_digest=True)
+
+        self.assertTrue(response.items)
+        self.assertFalse(mocked_rerank.call_args.kwargs["allow_llm"])
+        self.assertFalse(mocked_digest.call_args.kwargs["allow_llm"])
+
+    def test_search_skips_inline_llm_for_specific_local_queries(self) -> None:
+        with (
+            patch.object(
+                self.llm_service,
+                "should_skip_inline_search_llm",
+                return_value=True,
+            ),
+            patch.object(
+                self.llm_service,
+                "expand_query_with_metadata",
+                return_value=("latest hoyofest singapore artist alley, HoyoFest Singapore", CallMetrics(duration_ms=0.2, cache_hit=False)),
+            ),
+            patch.object(
+                self.llm_service,
+                "rerank_articles_with_metadata",
+                return_value=(self.repository.latest_articles(8), CallMetrics(duration_ms=0.1, cache_hit=False)),
+            ) as mocked_rerank,
+            patch.object(
+                self.llm_service,
+                "generate_digest_with_metadata",
+                return_value=([], CallMetrics(duration_ms=0.0, cache_hit=False)),
+            ) as mocked_digest,
+        ):
+            response = self.news_service.search(query="latest hoyofest singapore artist alley", limit=5, rerank=True, include_digest=True)
 
         self.assertTrue(response.items)
         self.assertFalse(mocked_rerank.call_args.kwargs["allow_llm"])

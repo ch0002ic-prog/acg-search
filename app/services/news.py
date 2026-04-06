@@ -82,6 +82,7 @@ class NewsService:
             hidden_ids = self.repository.get_hidden_article_ids(user_id)
         profile_ms = _elapsed_ms(profile_started_at)
 
+        skip_inline_search_llm = self.llm_service.should_skip_inline_search_llm(query)
         expanded_query, expand_metrics = self.llm_service.expand_query_with_metadata(query)
         strict_query = bool(query_anchor_tokens(query))
         retrieval_limit = max(limit * 5, 20)
@@ -146,7 +147,7 @@ class NewsService:
         ranked.sort(key=lambda item: item[1], reverse=True)
         rank_ms = _elapsed_ms(rank_started_at)
         candidate_pool = ranked[: max(limit * 4, 18)]
-        short_circuit_llm = expand_metrics.timed_out
+        short_circuit_llm = skip_inline_search_llm or expand_metrics.timed_out
         rerank_ms = 0.0
         rerank_cache_hit = False
         if rerank:

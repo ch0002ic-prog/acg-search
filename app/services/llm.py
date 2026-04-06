@@ -14,7 +14,7 @@ import httpx
 
 from app.config import Settings
 from app.schemas import ArticleRecord
-from app.services.ranking import build_digest_lines, expand_query_heuristically, infer_categories, infer_tags, strip_text
+from app.services.ranking import build_digest_lines, expand_query_heuristically, infer_categories, infer_tags, query_anchor_tokens, strip_text
 
 
 logger = logging.getLogger(__name__)
@@ -97,6 +97,22 @@ class LLMService:
     def is_enabled(self) -> bool:
         return self.settings.llm_provider.strip().lower() != "none" and bool(self.settings.llm_model)
 
+    def should_skip_inline_search_llm(self, query: str, heuristic_expansion: str | None = None) -> bool:
+        provider = self.settings.llm_provider.strip().lower().replace("-", "_")
+        if provider != "ollama" or not self.is_enabled():
+            return False
+
+        normalized_query = strip_text(query)
+        fallback = strip_text(heuristic_expansion or expand_query_heuristically(query))
+        anchor_count = len(query_anchor_tokens(query))
+        if fallback and fallback != normalized_query:
+            return True
+        if anchor_count >= 2:
+            return True
+        if anchor_count >= 1 and any(character.isdigit() for character in normalized_query):
+            return True
+        return False
+
     def warmup(self) -> float | None:
         provider = self.settings.llm_provider.strip().lower().replace("-", "_")
         if provider != "ollama" or not self.is_enabled():
@@ -157,6 +173,10 @@ class LLMService:
         cached = self._query_expansion_cache.get(cache_key)
         if isinstance(cached, str) and cached:
             return cached, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=True)
+
+        if self.should_skip_inline_search_llm(query, heuristic_expansion=fallback):
+            self._query_expansion_cache.set(cache_key, fallback)
+            return fallback, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
         prompt = (
             "Expand this user query for an ACG news searcher in Singapore. Include close synonyms, game titles, events, or fandom terms, "
