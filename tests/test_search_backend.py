@@ -708,6 +708,28 @@ class SearchBackendTests(unittest.TestCase):
         self.assertFalse(mocked_rerank.call_args.kwargs["allow_llm"])
         self.assertFalse(mocked_digest.call_args.kwargs["allow_llm"])
 
+    def test_search_digest_skips_llm_for_specific_local_queries(self) -> None:
+        response = self.news_service.search(query="latest hoyofest singapore artist alley", limit=5, rerank=False, include_digest=False)
+        article_ids = [item.id for item in response.items[:3]]
+
+        with (
+            patch.object(
+                self.llm_service,
+                "should_skip_inline_search_llm",
+                return_value=True,
+            ),
+            patch.object(
+                self.llm_service,
+                "generate_digest_with_metadata",
+                return_value=(["fallback digest"], CallMetrics(duration_ms=0.2, cache_hit=False)),
+            ) as mocked_digest,
+        ):
+            digest, timings = self.news_service.search_digest(query="latest hoyofest singapore artist alley", article_ids=article_ids)
+
+        self.assertEqual(digest, ["fallback digest"])
+        self.assertFalse(mocked_digest.call_args.kwargs["allow_llm"])
+        self.assertFalse(timings.cache_hit)
+
     def test_search_excludes_internal_link_results(self) -> None:
         now = datetime.now(timezone.utc)
         self.repository.upsert_articles(

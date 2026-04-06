@@ -230,7 +230,12 @@ class NewsService:
         if not ordered_articles:
             return [], DigestTimings(total_ms=_elapsed_ms(started_at), lookup_ms=lookup_ms, digest_ms=0.0, article_count=0, cache_hit=False)
 
-        digest, digest_metrics = self.llm_service.generate_digest_with_metadata(ordered_articles, query=query)
+        skip_digest_llm = bool(query) and self.llm_service.should_skip_inline_search_llm(query)
+        digest, digest_metrics = self.llm_service.generate_digest_with_metadata(
+            ordered_articles,
+            query=query,
+            allow_llm=not skip_digest_llm,
+        )
         return digest, DigestTimings(
             total_ms=_elapsed_ms(started_at),
             lookup_ms=lookup_ms,
