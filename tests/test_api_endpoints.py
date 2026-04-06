@@ -8,7 +8,7 @@ from fastapi import FastAPI
 from fastapi.testclient import TestClient
 
 import app.main as main_module
-from app.schemas import DigestResponse, FeedResponse, RefreshResponse, SourceHealthEntry, SourceHealthRollupEntry, SourceHealthRunEntry, UserProfile
+from app.schemas import DigestResponse, DigestTimings, FeedResponse, RefreshResponse, SearchTimings, SourceHealthEntry, SourceHealthRollupEntry, SourceHealthRunEntry, UserProfile
 
 
 class FakeNewsService:
@@ -31,11 +31,16 @@ class FakeNewsService:
         include_digest: bool = False,
     ) -> FeedResponse:
         self.last_search_args = (query, limit, rerank, user_id, track_profile, include_digest)
-        return FeedResponse(items=[], query=query, expanded_query=query)
+        return FeedResponse(
+            items=[],
+            query=query,
+            expanded_query=query,
+            timings=SearchTimings(total_ms=12.5, expand_ms=1.4, lexical_ms=2.1, vector_ms=3.2, vector_cache_hit=False, rerank_ms=4.5, rerank_cache_hit=False),
+        )
 
-    def search_digest(self, query: str | None, article_ids: list[str]) -> list[str]:
+    def search_digest(self, query: str | None, article_ids: list[str]) -> tuple[list[str], DigestTimings]:
         self.last_digest_args = (query, article_ids)
-        return [f"Digest for {query or 'feed'}"]
+        return [f"Digest for {query or 'feed'}"], DigestTimings(total_ms=6.2, lookup_ms=0.4, digest_ms=5.8, article_count=len(article_ids), cache_hit=True)
 
 
 class FakeRepository:
@@ -301,6 +306,7 @@ class ApiEndpointTests(unittest.TestCase):
 
         self.assertEqual(response.status_code, 200)
         self.assertEqual(news_service.last_search_args, ("AFA Singapore", 9, False, "sg-fan-1", False, False))
+        self.assertEqual(response.json()["timings"]["total_ms"], 12.5)
         self.assertTrue(response.headers.get("X-Request-ID"))
         self.assertTrue(any("API request completed" in message and "/api/search" in message for message in captured.output))
         self.assertTrue(any("Search response ready" in message and response.headers["X-Request-ID"] in message for message in captured.output))
@@ -327,6 +333,7 @@ class ApiEndpointTests(unittest.TestCase):
         self.assertEqual(response.status_code, 200)
         self.assertEqual(news_service.last_digest_args, ("AFA Singapore", ["a1", "a2", "a1"]))
         self.assertEqual(response.json()["digest"], ["Digest for AFA Singapore"])
+        self.assertTrue(response.json()["timings"]["cache_hit"])
 
     def test_personalized_search_persists_runtime_state(self) -> None:
         state_store = FakeStateStore()

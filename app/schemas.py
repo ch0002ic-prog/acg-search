@@ -79,6 +79,34 @@ class ArticleRecord(BaseModel):
         )
 
 
+class SearchTimings(BaseModel):
+    total_ms: float = 0.0
+    profile_ms: float = 0.0
+    expand_ms: float = 0.0
+    lexical_ms: float = 0.0
+    vector_ms: float = 0.0
+    hydrate_ms: float = 0.0
+    rank_ms: float = 0.0
+    rerank_ms: float = 0.0
+    digest_ms: float = 0.0
+    lexical_candidates: int = 0
+    vector_candidates: int = 0
+    result_count: int = 0
+    query_expansion_cache_hit: bool = False
+    vector_cache_hit: bool = False
+    rerank_cache_hit: bool = False
+    digest_cache_hit: bool = False
+    semantic_search_enabled: bool = False
+
+
+class DigestTimings(BaseModel):
+    total_ms: float = 0.0
+    lookup_ms: float = 0.0
+    digest_ms: float = 0.0
+    article_count: int = 0
+    cache_hit: bool = False
+
+
 class FeedResponse(BaseModel):
     items: list[ArticleRecord]
     digest: list[str] = Field(default_factory=list)
@@ -88,6 +116,7 @@ class FeedResponse(BaseModel):
     query: str | None = None
     expanded_query: str | None = None
     profile: "UserProfile | None" = None
+    timings: SearchTimings | None = None
 
 
 class EntityGroup(BaseModel):
@@ -139,6 +168,7 @@ class DigestResponse(BaseModel):
     generated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
     query: str | None = None
     article_count: int = 0
+    timings: DigestTimings | None = None
 
 
 class ProfileUpdateRequest(BaseModel):

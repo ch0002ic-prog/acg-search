@@ -1,11 +1,13 @@
 from __future__ import annotations
 
-from collections import Counter
+from collections import Counter, OrderedDict
 from dataclasses import dataclass
 import hashlib
 import logging
 import math
 import re
+import threading
+import time
 from typing import Any
 
 import httpx
@@ -61,9 +63,57 @@ class EmbeddingRecord:
     signature: str
 
 
+@dataclass(frozen=True)
+class EmbeddingCallMetrics:
+    duration_ms: float
+    cache_hit: bool
+
+
+@dataclass
+class _CacheEntry:
+    value: EmbeddingRecord
+    expires_at: float
+
+
+class _LocalEmbeddingCache:
+    def __init__(self, ttl_seconds: int, max_entries: int) -> None:
+        self.ttl_seconds = max(ttl_seconds, 0)
+        self.max_entries = max(max_entries, 1)
+        self._entries: OrderedDict[str, _CacheEntry] = OrderedDict()
+        self._lock = threading.Lock()
+
+    def get(self, key: str) -> EmbeddingRecord | None:
+        if self.ttl_seconds <= 0:
+            return None
+        now = time.monotonic()
+        with self._lock:
+            entry = self._entries.get(key)
+            if entry is None:
+                return None
+            if entry.expires_at <= now:
+                self._entries.pop(key, None)
+                return None
+            self._entries.move_to_end(key)
+            return entry.value
+
+    def set(self, key: str, value: EmbeddingRecord) -> None:
+        if self.ttl_seconds <= 0:
+            return
+        now = time.monotonic()
+        with self._lock:
+            self._entries[key] = _CacheEntry(value=value, expires_at=now + self.ttl_seconds)
+            self._entries.move_to_end(key)
+            while len(self._entries) > self.max_entries:
+                self._entries.popitem(last=False)
+
+
 class SemanticEmbeddingService:
     def __init__(self, settings: Settings) -> None:
         self.settings = settings
+        self._query_cache = _LocalEmbeddingCache(
+            ttl_seconds=settings.llm_cache_ttl_seconds,
+            max_entries=settings.llm_cache_max_entries,
+        )
 
     def is_enabled(self) -> bool:
         provider = self.settings.embedding_provider.strip().lower().replace("-", "_")
@@ -84,8 +134,26 @@ class SemanticEmbeddingService:
         return self._embed_texts(texts, reason="document")
 
     def embed_query(self, text: str) -> EmbeddingRecord | None:
+        embedding, _metrics = self.embed_query_with_metadata(text)
+        return embedding
+
+    def embed_query_with_metadata(self, text: str) -> tuple[EmbeddingRecord | None, EmbeddingCallMetrics]:
+        started_at = time.perf_counter()
+        if not self.is_enabled():
+            return None, EmbeddingCallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+
+        cache_key = self._cache_key(text)
+        cached = self._query_cache.get(cache_key)
+        if cached is not None:
+            return cached, EmbeddingCallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=True)
+
         embeddings = self._embed_texts([text], reason="query")
-        return embeddings[0] if embeddings else None
+        if not embeddings:
+            return None, EmbeddingCallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+
+        embedding = embeddings[0]
+        self._query_cache.set(cache_key, embedding)
+        return embedding, EmbeddingCallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
     def _embed_texts(self, texts: list[str], reason: str) -> list[EmbeddingRecord]:
         if not texts or not self.is_enabled():
@@ -182,6 +250,14 @@ class SemanticEmbeddingService:
         if not isinstance(value, list):
             raise ValueError("Embedding payload was not a list")
         return [float(item) for item in value]
+
+    def _cache_key(self, text: str) -> str:
+        normalized = " ".join(text.split())
+        return f"{self.current_signature()}:{hashlib.sha1(normalized.encode('utf-8')).hexdigest()}"
+
+
+def _elapsed_ms(started_at: float) -> float:
+    return round((time.perf_counter() - started_at) * 1000, 1)
 
 
 def cosine_similarity(left: list[float], right: list[float]) -> float:

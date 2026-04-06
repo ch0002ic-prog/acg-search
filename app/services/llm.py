@@ -28,6 +28,12 @@ class _CacheEntry:
     expires_at: float
 
 
+@dataclass(frozen=True)
+class CallMetrics:
+    duration_ms: float
+    cache_hit: bool
+
+
 class _LocalResultCache:
     def __init__(self, ttl_seconds: int, max_entries: int) -> None:
         self.ttl_seconds = max(ttl_seconds, 0)
@@ -67,6 +73,10 @@ class LLMService:
             ttl_seconds=settings.llm_cache_ttl_seconds,
             max_entries=settings.llm_cache_max_entries,
         )
+        self._rerank_cache = _LocalResultCache(
+            ttl_seconds=settings.llm_cache_ttl_seconds,
+            max_entries=settings.llm_cache_max_entries,
+        )
         self._digest_cache = _LocalResultCache(
             ttl_seconds=settings.llm_cache_ttl_seconds,
             max_entries=settings.llm_cache_max_entries,
@@ -101,9 +111,14 @@ class LLMService:
             return fallback_summary, fallback_categories, fallback_tags
 
     def expand_query(self, query: str) -> str:
+        expanded_query, _metrics = self.expand_query_with_metadata(query)
+        return expanded_query
+
+    def expand_query_with_metadata(self, query: str) -> tuple[str, CallMetrics]:
+        started_at = time.perf_counter()
         fallback = expand_query_heuristically(query)
         if not self.is_enabled():
-            return fallback
+            return fallback, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
         cache_key = self._cache_key(
             "expand-query",
@@ -115,7 +130,7 @@ class LLMService:
         )
         cached = self._query_expansion_cache.get(cache_key)
         if isinstance(cached, str) and cached:
-            return cached
+            return cached, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=True)
 
         prompt = (
             "Expand this user query for an ACG news searcher in Singapore. Include close synonyms, game titles, events, or fandom terms, "
@@ -126,16 +141,46 @@ class LLMService:
             response = strip_text(self._chat(prompt))
             resolved = response or fallback
             self._query_expansion_cache.set(cache_key, resolved)
-            return resolved
+            return resolved, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
         except Exception as exc:
             logger.warning("LLM query expansion failed; using heuristic expansion instead.", exc_info=exc)
-            return fallback
+            return fallback, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
     def rerank_articles(self, query: str, articles: list[ArticleRecord]) -> list[ArticleRecord]:
-        if not self.is_enabled() or len(articles) < 3:
-            return articles
+        reranked_articles, _metrics = self.rerank_articles_with_metadata(query, articles)
+        return reranked_articles
 
-        labeled_articles = [(f"R{index}", article) for index, article in enumerate(articles[:8], start=1)]
+    def rerank_articles_with_metadata(self, query: str, articles: list[ArticleRecord]) -> tuple[list[ArticleRecord], CallMetrics]:
+        started_at = time.perf_counter()
+        if not self.is_enabled() or len(articles) < 3:
+            return articles, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+
+        rerank_candidates = articles[:8]
+        cache_key = self._cache_key(
+            "rerank",
+            {
+                "provider": self.settings.llm_provider,
+                "model": self.settings.llm_model,
+                "query": strip_text(query),
+                "items": [
+                    {
+                        "id": article.id,
+                        "title": article.title[:180],
+                        "summary": article.summary[:220],
+                    }
+                    for article in rerank_candidates
+                ],
+            },
+        )
+        cached = self._rerank_cache.get(cache_key)
+        if isinstance(cached, list) and cached:
+            article_by_id = {article.id: article for article in articles}
+            reranked = [article_by_id[article_id] for article_id in cached if article_id in article_by_id]
+            seen = {article.id for article in reranked}
+            reranked.extend(article for article in articles if article.id not in seen)
+            return reranked, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=True)
+
+        labeled_articles = [(f"R{index}", article) for index, article in enumerate(rerank_candidates, start=1)]
         article_by_label = {label: article for label, article in labeled_articles}
         prompt_lines = [
             "Rank these labels from most to least relevant for the search query.",
@@ -152,17 +197,23 @@ class LLMService:
             reranked = [article_by_label[label] for label in ordered_labels if label in article_by_label]
             seen = {article.id for article in reranked}
             reranked.extend(article for article in articles if article.id not in seen)
-            return reranked
+            self._rerank_cache.set(cache_key, [article.id for article in reranked])
+            return reranked, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
         except Exception as exc:
             logger.warning("LLM reranking failed; using score-based ordering instead.", exc_info=exc)
-            return articles
+            return articles, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
     def generate_digest(self, items: list[ArticleRecord], query: str | None = None) -> list[str]:
+        digest_lines, _metrics = self.generate_digest_with_metadata(items, query=query)
+        return digest_lines
+
+    def generate_digest_with_metadata(self, items: list[ArticleRecord], query: str | None = None) -> tuple[list[str], CallMetrics]:
+        started_at = time.perf_counter()
         if not items:
-            return build_digest_lines(items, query=query)
+            return build_digest_lines(items, query=query), CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
         if not self.is_enabled():
-            return build_digest_lines(items, query=query)
+            return build_digest_lines(items, query=query), CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
         cache_key = self._cache_key(
             "digest",
@@ -182,7 +233,7 @@ class LLMService:
         )
         cached = self._digest_cache.get(cache_key)
         if isinstance(cached, list) and cached:
-            return [str(value) for value in cached]
+            return [str(value) for value in cached], CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=True)
 
         prompt_lines = [
             "Turn these ACG headlines into 3 bullet points for a Singapore-based fan app.",
@@ -198,10 +249,10 @@ class LLMService:
             lines = [strip_text(line.lstrip("-*• ")) for line in raw.splitlines() if strip_text(line)]
             resolved = lines[:3] or build_digest_lines(items, query=query)
             self._digest_cache.set(cache_key, resolved)
-            return resolved
+            return resolved, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
         except Exception as exc:
             logger.warning("LLM digest generation failed; using deterministic digest lines instead.", exc_info=exc)
-            return build_digest_lines(items, query=query)
+            return build_digest_lines(items, query=query), CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
     def _chat(self, prompt: str, json_mode: bool = False) -> str:
         provider = self.settings.llm_provider.strip().lower().replace("-", "_")
@@ -355,3 +406,7 @@ class LLMService:
         if keywords:
             return f"{title} is trending around {', '.join(keywords)}." 
         return title
+
+
+def _elapsed_ms(started_at: float) -> float:
+    return round((time.perf_counter() - started_at) * 1000, 1)

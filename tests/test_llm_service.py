@@ -51,21 +51,36 @@ class LLMServiceTests(unittest.TestCase):
 
         self.assertEqual([article.id for article in reranked[:3]], ["a2", "a1", "a3"])
 
+    def test_rerank_articles_uses_local_cache(self) -> None:
+        with patch.object(self.service, "_chat", return_value='{"labels": ["R3", "R1", "R2"]}') as mocked_chat:
+            first, first_metrics = self.service.rerank_articles_with_metadata("HoyoFest Singapore", self.articles)
+            second, second_metrics = self.service.rerank_articles_with_metadata("HoyoFest Singapore", self.articles)
+
+        self.assertEqual([article.id for article in first[:3]], ["a3", "a1", "a2"])
+        self.assertEqual([article.id for article in second[:3]], ["a3", "a1", "a2"])
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
+        self.assertEqual(mocked_chat.call_count, 1)
+
     def test_expand_query_uses_local_cache(self) -> None:
         with patch.object(self.service, "_chat", return_value="HoyoFest Singapore, Artist Alley") as mocked_chat:
-            first = self.service.expand_query("HoyoFest Singapore")
-            second = self.service.expand_query("HoyoFest Singapore")
+            first, first_metrics = self.service.expand_query_with_metadata("HoyoFest Singapore")
+            second, second_metrics = self.service.expand_query_with_metadata("HoyoFest Singapore")
 
         self.assertEqual(first, second)
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
         self.assertEqual(mocked_chat.call_count, 1)
 
     def test_generate_digest_uses_local_cache(self) -> None:
         with patch.object(self.service, "_chat", return_value="- First line\n- Second line\n- Third line") as mocked_chat:
-            first = self.service.generate_digest(self.articles, query="HoyoFest Singapore")
-            second = self.service.generate_digest(self.articles, query="HoyoFest Singapore")
+            first, first_metrics = self.service.generate_digest_with_metadata(self.articles, query="HoyoFest Singapore")
+            second, second_metrics = self.service.generate_digest_with_metadata(self.articles, query="HoyoFest Singapore")
 
         self.assertEqual(first, ["First line", "Second line", "Third line"])
         self.assertEqual(second, first)
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
         self.assertEqual(mocked_chat.call_count, 1)
 
 

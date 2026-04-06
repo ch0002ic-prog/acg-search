@@ -635,6 +635,20 @@ class SearchBackendTests(unittest.TestCase):
         self.assertEqual(len(response.items), 3)
         self.assertGreaterEqual(len({item.source_name for item in response.items}), 2)
 
+    def test_search_exposes_timing_breakdown(self) -> None:
+        response = self.news_service.search(query="AFA Singapore", limit=6, rerank=False, include_digest=False)
+
+        self.assertIsNotNone(response.timings)
+        assert response.timings is not None
+        self.assertGreaterEqual(response.timings.total_ms, 0.0)
+        self.assertGreaterEqual(response.timings.expand_ms, 0.0)
+        self.assertGreaterEqual(response.timings.lexical_ms, 0.0)
+        self.assertGreaterEqual(response.timings.vector_ms, 0.0)
+        self.assertEqual(response.timings.digest_ms, 0.0)
+        self.assertFalse(response.timings.vector_cache_hit)
+        self.assertFalse(response.timings.rerank_cache_hit)
+        self.assertEqual(response.timings.result_count, len(response.items))
+
     def test_search_excludes_internal_link_results(self) -> None:
         now = datetime.now(timezone.utc)
         self.repository.upsert_articles(

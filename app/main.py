@@ -277,8 +277,9 @@ def search(request: Request, background_tasks: BackgroundTasks, payload: SearchR
         track_profile=payload.track_profile,
         include_digest=payload.include_digest,
     )
+    timings = response.timings
     logger.info(
-        "Search response ready: request_id=%s query=%r limit=%s result_count=%s rerank=%s include_digest=%s user_id_present=%s track_profile=%s",
+        "Search response ready: request_id=%s query=%r limit=%s result_count=%s rerank=%s include_digest=%s user_id_present=%s track_profile=%s total_ms=%.1f expand_ms=%.1f lexical_ms=%.1f vector_ms=%.1f rerank_ms=%.1f digest_ms=%.1f expand_cached=%s vector_cached=%s rerank_cached=%s digest_cached=%s semantic=%s",
         _request_id(request),
         payload.query,
         payload.limit,
@@ -287,6 +288,17 @@ def search(request: Request, background_tasks: BackgroundTasks, payload: SearchR
         payload.include_digest,
         bool(payload.user_id),
         payload.track_profile,
+        timings.total_ms if timings else 0.0,
+        timings.expand_ms if timings else 0.0,
+        timings.lexical_ms if timings else 0.0,
+        timings.vector_ms if timings else 0.0,
+        timings.rerank_ms if timings else 0.0,
+        timings.digest_ms if timings else 0.0,
+        timings.query_expansion_cache_hit if timings else False,
+        timings.vector_cache_hit if timings else False,
+        timings.rerank_cache_hit if timings else False,
+        timings.digest_cache_hit if timings else False,
+        timings.semantic_search_enabled if timings else False,
     )
     if payload.user_id:
         _schedule_state_persist(background_tasks, request.app, f"search:{payload.user_id}")
@@ -296,8 +308,18 @@ def search(request: Request, background_tasks: BackgroundTasks, payload: SearchR
 @app.post("/api/search/digest", response_model=DigestResponse)
 def search_digest(request: Request, payload: DigestRequest) -> DigestResponse:
     news_service: NewsService = request.app.state.news_service
-    digest = news_service.search_digest(query=payload.query, article_ids=payload.article_ids)
-    return DigestResponse(digest=digest, query=payload.query, article_count=len(payload.article_ids))
+    digest, timings = news_service.search_digest(query=payload.query, article_ids=payload.article_ids)
+    logger.info(
+        "Search digest ready: request_id=%s query=%r article_count=%s total_ms=%.1f lookup_ms=%.1f digest_ms=%.1f cache_hit=%s",
+        _request_id(request),
+        payload.query,
+        timings.article_count,
+        timings.total_ms,
+        timings.lookup_ms,
+        timings.digest_ms,
+        timings.cache_hit,
+    )
+    return DigestResponse(digest=digest, query=payload.query, article_count=timings.article_count, timings=timings)
 
 
 @app.get("/api/profile", response_model=UserProfile)

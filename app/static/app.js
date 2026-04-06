@@ -502,6 +502,40 @@ function renderDigest(items, title) {
   });
 }
 
+function formatLatencyMs(value) {
+  const numericValue = Number(value || 0);
+  if (!Number.isFinite(numericValue) || numericValue <= 0) {
+    return "0 ms";
+  }
+  if (numericValue >= 1000) {
+    return `${(numericValue / 1000).toFixed(1)} s`;
+  }
+  return `${Math.round(numericValue)} ms`;
+}
+
+function formatSearchTimingSummary(timings) {
+  if (!timings) {
+    return "";
+  }
+  const retrievalMs = (timings.lexical_ms || 0) + (timings.vector_ms || 0) + (timings.hydrate_ms || 0) + (timings.rank_ms || 0);
+  const segments = [
+    `search ${formatLatencyMs(timings.total_ms)}`,
+    `expand ${formatLatencyMs(timings.expand_ms)}${timings.query_expansion_cache_hit ? " cached" : ""}`,
+    `retrieve ${formatLatencyMs(retrievalMs)}${timings.semantic_search_enabled ? " semantic" : ""}${timings.vector_cache_hit ? " cached" : ""}`,
+  ];
+  if ((timings.rerank_ms || 0) > 0) {
+    segments.push(`rerank ${formatLatencyMs(timings.rerank_ms)}${timings.rerank_cache_hit ? " cached" : ""}`);
+  }
+  return segments.join(" · ");
+}
+
+function formatDigestTitle(title, timings) {
+  if (!timings) {
+    return title;
+  }
+  return `${title} · ${formatLatencyMs(timings.total_ms)}${timings.cache_hit ? " cached" : ""}`;
+}
+
 function cancelPendingSearchDigest() {
   state.searchDigestRequestId += 1;
 }
@@ -528,7 +562,7 @@ async function loadDeferredSearchDigest(query, items) {
     if (requestId !== state.searchDigestRequestId || state.currentMode !== "search" || state.currentQuery !== query) {
       return;
     }
-    renderDigest(payload.digest || [], "Why these headlines");
+    renderDigest(payload.digest || [], formatDigestTitle("Why these headlines", payload.timings));
   } catch (error) {
     if (requestId !== state.searchDigestRequestId || state.currentMode !== "search" || state.currentQuery !== query) {
       return;
@@ -1485,7 +1519,8 @@ function renderFeed(payload, mode) {
 
   if (mode === "search") {
     elements.feedTitle.textContent = `Prompt-ranked results for “${payload.query}”`;
-    elements.feedMeta.textContent = `Expanded to: ${payload.expanded_query || payload.query} · ${itemCount} stories · ${generatedAt}`;
+    const timingSummary = formatSearchTimingSummary(payload.timings);
+    elements.feedMeta.textContent = `Expanded to: ${payload.expanded_query || payload.query} · ${itemCount} stories · ${generatedAt}${timingSummary ? ` · ${timingSummary}` : ""}`;
   } else {
     elements.feedTitle.textContent = "Singapore-weighted headline stack";
     elements.feedMeta.textContent = `${itemCount} stories · refreshed ${generatedAt}`;

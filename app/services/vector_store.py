@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from dataclasses import dataclass
 import hashlib
 import logging
 from typing import Any
@@ -11,6 +12,12 @@ from app.services.embeddings import EmbeddingRecord, SemanticEmbeddingService, b
 
 
 logger = logging.getLogger(__name__)
+
+
+@dataclass(frozen=True)
+class VectorSearchMetrics:
+    duration_ms: float
+    cache_hit: bool
 
 
 class VectorStore:
@@ -122,8 +129,16 @@ class VectorStore:
         self.collection.delete(ids=sorted(set(article_ids)))
 
     def search(self, query: str, limit: int, candidate_ids: list[str] | None = None) -> list[tuple[str, float]]:
+        scores, _metrics = self.search_with_metadata(query=query, limit=limit, candidate_ids=candidate_ids)
+        return scores
+
+    def search_with_metadata(self, query: str, limit: int, candidate_ids: list[str] | None = None) -> tuple[list[tuple[str, float]], VectorSearchMetrics]:
+        import time
+
+        started_at = time.perf_counter()
         if self.semantic_search_enabled():
-            return self._search_semantic(query=query, limit=limit, candidate_ids=candidate_ids)
+            scores, cache_hit = self._search_semantic(query=query, limit=limit, candidate_ids=candidate_ids)
+            return scores, VectorSearchMetrics(duration_ms=round((time.perf_counter() - started_at) * 1000, 1), cache_hit=cache_hit)
 
         if self.backend == "chromadb" and self.collection is not None and not self.semantic_search_enabled():
             result = self.collection.query(query_embeddings=[build_hash_embedding(query)], n_results=limit)
@@ -132,23 +147,24 @@ class VectorStore:
             scores: list[tuple[str, float]] = []
             for article_id, distance in zip(ids, distances, strict=False):
                 scores.append((str(article_id), max(1.0 - float(distance), 0.0)))
-            return scores
+            return scores, VectorSearchMetrics(duration_ms=round((time.perf_counter() - started_at) * 1000, 1), cache_hit=False)
 
         prefilter_limit = max(self.settings.local_vector_prefilter_limit, limit * 12)
         prefiltered_ids = self.repository.prefilter_vector_search_ids(
             limit=prefilter_limit,
             seeded_ids=candidate_ids,
         )
-        return self.repository.vector_search_with_candidates(
+        scores = self.repository.vector_search_with_candidates(
             query=query,
             limit=limit,
             candidate_ids=prefiltered_ids,
         )
+        return scores, VectorSearchMetrics(duration_ms=round((time.perf_counter() - started_at) * 1000, 1), cache_hit=False)
 
-    def _search_semantic(self, query: str, limit: int, candidate_ids: list[str] | None = None) -> list[tuple[str, float]]:
-        query_embedding = self.semantic_embedding_service.embed_query(query)
+    def _search_semantic(self, query: str, limit: int, candidate_ids: list[str] | None = None) -> tuple[list[tuple[str, float]], bool]:
+        query_embedding, embedding_metrics = self.semantic_embedding_service.embed_query_with_metadata(query)
         if query_embedding is None or not query_embedding.vector:
-            return []
+            return [], embedding_metrics.cache_hit
 
         if self.backend == "chromadb" and self.collection is not None:
             result = self.collection.query(query_embeddings=[query_embedding.vector], n_results=limit)
@@ -157,19 +173,20 @@ class VectorStore:
             scores: list[tuple[str, float]] = []
             for article_id, distance in zip(ids, distances, strict=False):
                 scores.append((str(article_id), max(1.0 - float(distance), 0.0)))
-            return scores
+            return scores, embedding_metrics.cache_hit
 
         prefilter_limit = max(self.settings.local_vector_prefilter_limit, limit * 12)
         prefiltered_ids = self.repository.prefilter_vector_search_ids(
             limit=prefilter_limit,
             seeded_ids=candidate_ids,
         )
-        return self.repository.semantic_vector_search_with_candidates(
+        scores = self.repository.semantic_vector_search_with_candidates(
             query_embedding=query_embedding.vector,
             embedding_signature=query_embedding.signature,
             limit=limit,
             candidate_ids=prefiltered_ids,
         )
+        return scores, embedding_metrics.cache_hit
 
     def _resolve_collection_name(self) -> str:
         signature = self.current_semantic_signature() if self.semantic_search_enabled() else hash_embedding_signature()

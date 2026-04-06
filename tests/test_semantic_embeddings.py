@@ -10,7 +10,7 @@ from unittest.mock import patch
 from app.config import settings
 from app.database import ArticleRepository
 from app.schemas import ArticleRecord
-from app.services.embeddings import EmbeddingRecord, SemanticEmbeddingService
+from app.services.embeddings import EmbeddingCallMetrics, EmbeddingRecord, SemanticEmbeddingService
 from app.services.ranking import compute_home_score, score_freshness
 from app.services.vector_store import VectorStore
 
@@ -131,6 +131,28 @@ class SemanticEmbeddingTests(unittest.TestCase):
         self.assertEqual(len(records), 3)
         self.assertEqual(mock_post.call_count, 2)
 
+    def test_query_embeddings_use_local_cache(self) -> None:
+        service = SemanticEmbeddingService(self.test_settings)
+
+        with patch(
+            "app.services.embeddings.httpx.post",
+            return_value=SemanticEmbeddingResponse(
+                {
+                    "data": [
+                        {"index": 0, "embedding": [3.0, 4.0]},
+                    ]
+                }
+            ),
+        ) as mock_post:
+            first, first_metrics = service.embed_query_with_metadata("AFA Singapore")
+            second, second_metrics = service.embed_query_with_metadata("AFA Singapore")
+
+        self.assertIsNotNone(first)
+        self.assertIsNotNone(second)
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
+        self.assertEqual(mock_post.call_count, 1)
+
     def test_vector_store_uses_semantic_embeddings_when_available(self) -> None:
         now = datetime.now(timezone.utc)
         article_a = self.make_article(
@@ -158,8 +180,8 @@ class SemanticEmbeddingTests(unittest.TestCase):
 
         with patch.object(
             self.vector_store.semantic_embedding_service,
-            "embed_query",
-            return_value=EmbeddingRecord(vector=[1.0, 0.0], signature=signature),
+            "embed_query_with_metadata",
+            return_value=(EmbeddingRecord(vector=[1.0, 0.0], signature=signature), EmbeddingCallMetrics(duration_ms=0.2, cache_hit=False)),
         ):
             scores = self.vector_store.search(query="virtual idol stage", limit=2)
 
@@ -178,7 +200,11 @@ class SemanticEmbeddingTests(unittest.TestCase):
         self.repository.upsert_articles([article])
 
         with (
-            patch.object(self.vector_store.semantic_embedding_service, "embed_query", return_value=None),
+            patch.object(
+                self.vector_store.semantic_embedding_service,
+                "embed_query_with_metadata",
+                return_value=(None, EmbeddingCallMetrics(duration_ms=0.2, cache_hit=False)),
+            ),
             patch.object(
                 self.repository,
                 "vector_search_with_candidates",
