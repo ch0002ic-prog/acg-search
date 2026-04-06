@@ -14,7 +14,7 @@ import httpx
 
 from app.config import Settings
 from app.schemas import ArticleRecord
-from app.services.ranking import build_digest_lines, expand_query_heuristically, infer_categories, infer_tags, query_anchor_tokens, strip_text
+from app.services.ranking import GENERIC_QUERY_TOKENS, build_digest_lines, expand_query_heuristically, infer_categories, infer_tags, query_anchor_tokens, strip_text
 
 
 logger = logging.getLogger(__name__)
@@ -105,9 +105,13 @@ class LLMService:
         normalized_query = strip_text(query)
         fallback = strip_text(heuristic_expansion or expand_query_heuristically(query))
         anchor_count = len(query_anchor_tokens(query))
+        query_tokens = set(re.findall(r"[a-z0-9]+", normalized_query.lower()))
+        has_generic_context = any(token in query_tokens for token in GENERIC_QUERY_TOKENS)
         if fallback and fallback != normalized_query:
             return True
         if anchor_count >= 2:
+            return True
+        if anchor_count >= 1 and has_generic_context:
             return True
         if anchor_count >= 1 and any(character.isdigit() for character in normalized_query):
             return True

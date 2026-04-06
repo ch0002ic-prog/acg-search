@@ -89,9 +89,9 @@ class LLMServiceTests(unittest.TestCase):
         self.assertEqual(mocked_chat.call_count, 0)
 
     def test_expand_query_uses_local_cache(self) -> None:
-        with patch.object(self.service, "_chat", return_value="cosplay singapore, anime festival asia") as mocked_chat:
-            first, first_metrics = self.service.expand_query_with_metadata("cosplay singapore")
-            second, second_metrics = self.service.expand_query_with_metadata("cosplay singapore")
+        with patch.object(self.service, "_chat", return_value="cosplay, anime festival asia") as mocked_chat:
+            first, first_metrics = self.service.expand_query_with_metadata("cosplay")
+            second, second_metrics = self.service.expand_query_with_metadata("cosplay")
 
         self.assertEqual(first, second)
         self.assertFalse(first_metrics.cache_hit)
@@ -103,7 +103,8 @@ class LLMServiceTests(unittest.TestCase):
     def test_should_skip_inline_search_llm_for_specific_ollama_queries(self) -> None:
         self.assertTrue(self.service.should_skip_inline_search_llm("latest hoyofest singapore artist alley"))
         self.assertTrue(self.service.should_skip_inline_search_llm("street fighter 6 ingrid"))
-        self.assertFalse(self.service.should_skip_inline_search_llm("cosplay singapore"))
+        self.assertTrue(self.service.should_skip_inline_search_llm("cosplay singapore"))
+        self.assertFalse(self.service.should_skip_inline_search_llm("cosplay"))
 
     def test_expand_query_skips_llm_for_specific_ollama_queries(self) -> None:
         with patch.object(self.service, "_chat") as mocked_chat:
@@ -118,15 +119,15 @@ class LLMServiceTests(unittest.TestCase):
 
     def test_expand_query_falls_back_after_timeout_and_caches_result(self) -> None:
         with patch.object(self.service, "_chat", side_effect=TimeoutError("expand timed out")) as mocked_chat:
-            first, first_metrics = self.service.expand_query_with_metadata("cosplay singapore")
-            second, second_metrics = self.service.expand_query_with_metadata("cosplay singapore")
+            first, first_metrics = self.service.expand_query_with_metadata("cosplay")
+            second, second_metrics = self.service.expand_query_with_metadata("cosplay")
 
         self.assertFalse(first_metrics.cache_hit)
         self.assertTrue(second_metrics.cache_hit)
         self.assertTrue(first_metrics.timed_out)
         self.assertEqual(mocked_chat.call_count, 1)
         self.assertEqual(first, second)
-        self.assertEqual(first, "cosplay singapore")
+        self.assertEqual(first, "cosplay")
 
     def test_generate_digest_uses_local_cache(self) -> None:
         with patch.object(self.service, "_chat", return_value="- First line\n- Second line\n- Third line") as mocked_chat:
