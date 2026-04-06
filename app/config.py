@@ -39,6 +39,9 @@ class Settings:
     project_name: str
     request_timeout_seconds: float
     llm_timeout_seconds: float
+    llm_expand_timeout_seconds: float
+    llm_rerank_timeout_seconds: float
+    llm_digest_timeout_seconds: float
     llm_max_tokens: int
     llm_expand_max_tokens: int
     llm_rerank_max_tokens: int
@@ -89,10 +92,13 @@ class Settings:
             project_name=os.getenv("PROJECT_NAME", "ACG Search SG"),
             request_timeout_seconds=float(os.getenv("REQUEST_TIMEOUT_SECONDS", "10")),
             llm_timeout_seconds=float(os.getenv("LLM_TIMEOUT_SECONDS", os.getenv("REQUEST_TIMEOUT_SECONDS", "60"))),
+            llm_expand_timeout_seconds=float(os.getenv("LLM_EXPAND_TIMEOUT_SECONDS", "2.5")),
+            llm_rerank_timeout_seconds=float(os.getenv("LLM_RERANK_TIMEOUT_SECONDS", "4.5")),
+            llm_digest_timeout_seconds=float(os.getenv("LLM_DIGEST_TIMEOUT_SECONDS", "3.5")),
             llm_max_tokens=max(int(os.getenv("LLM_MAX_TOKENS", "256")), 32),
             llm_expand_max_tokens=max(int(os.getenv("LLM_EXPAND_MAX_TOKENS", "64")), 16),
             llm_rerank_max_tokens=max(int(os.getenv("LLM_RERANK_MAX_TOKENS", "96")), 16),
-            llm_digest_max_tokens=max(int(os.getenv("LLM_DIGEST_MAX_TOKENS", "160")), 32),
+            llm_digest_max_tokens=max(int(os.getenv("LLM_DIGEST_MAX_TOKENS", "96")), 32),
             llm_cache_ttl_seconds=max(int(os.getenv("LLM_CACHE_TTL_SECONDS", "900")), 0),
             llm_cache_max_entries=max(int(os.getenv("LLM_CACHE_MAX_ENTRIES", "256")), 1),
             embedding_timeout_seconds=float(os.getenv("EMBEDDING_TIMEOUT_SECONDS", os.getenv("REQUEST_TIMEOUT_SECONDS", "45"))),

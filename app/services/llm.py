@@ -20,6 +20,9 @@ from app.services.ranking import build_digest_lines, expand_query_heuristically,
 logger = logging.getLogger(__name__)
 JSON_BLOCK_PATTERN = re.compile(r"```(?:json)?\s*(.+?)```", re.DOTALL | re.IGNORECASE)
 RERANK_LABEL_PATTERN = re.compile(r"\bR[1-8]\b", re.IGNORECASE)
+DIGEST_ITEM_LIMIT = 4
+DIGEST_TITLE_MAX_CHARS = 140
+DIGEST_SUMMARY_MAX_CHARS = 180
 
 
 @dataclass
@@ -64,6 +67,14 @@ class _LocalResultCache:
             self._entries.move_to_end(key)
             while len(self._entries) > self.max_entries:
                 self._entries.popitem(last=False)
+
+
+def _compact_digest_item(article: ArticleRecord) -> dict[str, str]:
+    return {
+        "id": article.id,
+        "title": strip_text(article.title)[:DIGEST_TITLE_MAX_CHARS],
+        "summary": strip_text(article.summary)[:DIGEST_SUMMARY_MAX_CHARS],
+    }
 
 
 class LLMService:
@@ -152,12 +163,26 @@ class LLMService:
             f"Query: {query}"
         )
         try:
-            response = strip_text(self._chat(prompt, max_tokens=self.settings.llm_expand_max_tokens))
+            response = strip_text(
+                self._chat(
+                    prompt,
+                    max_tokens=self.settings.llm_expand_max_tokens,
+                    timeout_seconds=self.settings.llm_expand_timeout_seconds,
+                )
+            )
             resolved = response or fallback
             self._query_expansion_cache.set(cache_key, resolved)
             return resolved, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+        except (TimeoutError, httpx.TimeoutException):
+            logger.warning(
+                "LLM query expansion timed out after %.1f s; using heuristic expansion instead.",
+                self.settings.llm_expand_timeout_seconds,
+            )
+            self._query_expansion_cache.set(cache_key, fallback)
+            return fallback, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
         except Exception as exc:
             logger.warning("LLM query expansion failed; using heuristic expansion instead.", exc_info=exc)
+            self._query_expansion_cache.set(cache_key, fallback)
             return fallback, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
     def rerank_articles(self, query: str, articles: list[ArticleRecord]) -> list[ArticleRecord]:
@@ -206,15 +231,28 @@ class LLMService:
                 f"LABEL={label} | TITLE={article.title[:180]} | SUMMARY={article.summary[:220]} | TAGS={', '.join(article.tags[:6])}"
             )
         try:
-            raw = self._chat("\n".join(prompt_lines), json_mode=True, max_tokens=self.settings.llm_rerank_max_tokens)
+            raw = self._chat(
+                "\n".join(prompt_lines),
+                json_mode=True,
+                max_tokens=self.settings.llm_rerank_max_tokens,
+                timeout_seconds=self.settings.llm_rerank_timeout_seconds,
+            )
             ordered_labels = self._parse_rerank_labels(raw)
             reranked = [article_by_label[label] for label in ordered_labels if label in article_by_label]
             seen = {article.id for article in reranked}
             reranked.extend(article for article in articles if article.id not in seen)
             self._rerank_cache.set(cache_key, [article.id for article in reranked])
             return reranked, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+        except (TimeoutError, httpx.TimeoutException):
+            logger.warning(
+                "LLM reranking timed out after %.1f s; using score-based ordering instead.",
+                self.settings.llm_rerank_timeout_seconds,
+            )
+            self._rerank_cache.set(cache_key, [article.id for article in articles])
+            return articles, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
         except Exception as exc:
             logger.warning("LLM reranking failed; using score-based ordering instead.", exc_info=exc)
+            self._rerank_cache.set(cache_key, [article.id for article in articles])
             return articles, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
     def generate_digest(self, items: list[ArticleRecord], query: str | None = None) -> list[str]:
@@ -229,20 +267,14 @@ class LLMService:
         if not self.is_enabled():
             return build_digest_lines(items, query=query), CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
+        digest_items = [_compact_digest_item(item) for item in items[:DIGEST_ITEM_LIMIT]]
         cache_key = self._cache_key(
             "digest",
             {
                 "provider": self.settings.llm_provider,
                 "model": self.settings.llm_model,
                 "query": strip_text(query or ""),
-                "items": [
-                    {
-                        "id": item.id,
-                        "title": item.title[:180],
-                        "summary": item.summary[:220],
-                    }
-                    for item in items[:5]
-                ],
+                "items": digest_items,
             },
         )
         cached = self._digest_cache.get(cache_key)
@@ -250,27 +282,47 @@ class LLMService:
             return [str(value) for value in cached], CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=True)
 
         prompt_lines = [
-            "Turn these ACG headlines into 3 bullet points for a Singapore-based fan app.",
-            "Keep each bullet to one sentence and focus on what matters immediately.",
+            "Turn these ACG headlines into exactly 3 short bullet points for a Singapore-based fan app.",
+            "Use plain text only, one bullet per line, and focus on what matters immediately.",
         ]
         if query:
             prompt_lines.append(f"Search context: {query}")
-        for article in items[:5]:
-            prompt_lines.append(f"- {article.title}: {article.summary}")
+        for article in digest_items:
+            prompt_lines.append(f"- {article['title']}: {article['summary']}")
 
         try:
-            raw = self._chat("\n".join(prompt_lines), max_tokens=self.settings.llm_digest_max_tokens)
+            raw = self._chat(
+                "\n".join(prompt_lines),
+                max_tokens=self.settings.llm_digest_max_tokens,
+                timeout_seconds=self.settings.llm_digest_timeout_seconds,
+            )
             lines = [strip_text(line.lstrip("-*• ")) for line in raw.splitlines() if strip_text(line)]
             resolved = lines[:3] or build_digest_lines(items, query=query)
             self._digest_cache.set(cache_key, resolved)
             return resolved, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+        except (TimeoutError, httpx.TimeoutException):
+            logger.warning(
+                "LLM digest generation timed out after %.1f s; using deterministic digest lines instead.",
+                self.settings.llm_digest_timeout_seconds,
+            )
+            fallback_lines = build_digest_lines(items, query=query)
+            self._digest_cache.set(cache_key, fallback_lines)
+            return fallback_lines, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
         except Exception as exc:
             logger.warning("LLM digest generation failed; using deterministic digest lines instead.", exc_info=exc)
-            return build_digest_lines(items, query=query), CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+            fallback_lines = build_digest_lines(items, query=query)
+            self._digest_cache.set(cache_key, fallback_lines)
+            return fallback_lines, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
-    def _chat(self, prompt: str, json_mode: bool = False, max_tokens: int | None = None) -> str:
+    def _chat(
+        self,
+        prompt: str,
+        json_mode: bool = False,
+        max_tokens: int | None = None,
+        timeout_seconds: float | None = None,
+    ) -> str:
         provider = self.settings.llm_provider.strip().lower().replace("-", "_")
-        timeout = self.settings.llm_timeout_seconds
+        timeout = timeout_seconds or self.settings.llm_timeout_seconds
         token_budget = max_tokens or self.settings.llm_max_tokens
         if provider == "ollama":
             payload: dict[str, Any] = {

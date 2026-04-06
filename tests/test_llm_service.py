@@ -62,6 +62,18 @@ class LLMServiceTests(unittest.TestCase):
         self.assertTrue(second_metrics.cache_hit)
         self.assertEqual(mocked_chat.call_count, 1)
         self.assertEqual(mocked_chat.call_args.kwargs["max_tokens"], self.service.settings.llm_rerank_max_tokens)
+        self.assertEqual(mocked_chat.call_args.kwargs["timeout_seconds"], self.service.settings.llm_rerank_timeout_seconds)
+
+    def test_rerank_articles_falls_back_after_timeout_and_caches_result(self) -> None:
+        with patch.object(self.service, "_chat", side_effect=TimeoutError("rerank timed out")) as mocked_chat:
+            first, first_metrics = self.service.rerank_articles_with_metadata("HoyoFest Singapore", self.articles)
+            second, second_metrics = self.service.rerank_articles_with_metadata("HoyoFest Singapore", self.articles)
+
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
+        self.assertEqual(mocked_chat.call_count, 1)
+        self.assertEqual([article.id for article in first], ["a1", "a2", "a3"])
+        self.assertEqual([article.id for article in second], ["a1", "a2", "a3"])
 
     def test_expand_query_uses_local_cache(self) -> None:
         with patch.object(self.service, "_chat", return_value="HoyoFest Singapore, Artist Alley") as mocked_chat:
@@ -73,6 +85,18 @@ class LLMServiceTests(unittest.TestCase):
         self.assertTrue(second_metrics.cache_hit)
         self.assertEqual(mocked_chat.call_count, 1)
         self.assertEqual(mocked_chat.call_args.kwargs["max_tokens"], self.service.settings.llm_expand_max_tokens)
+        self.assertEqual(mocked_chat.call_args.kwargs["timeout_seconds"], self.service.settings.llm_expand_timeout_seconds)
+
+    def test_expand_query_falls_back_after_timeout_and_caches_result(self) -> None:
+        with patch.object(self.service, "_chat", side_effect=TimeoutError("expand timed out")) as mocked_chat:
+            first, first_metrics = self.service.expand_query_with_metadata("HoyoFest Singapore")
+            second, second_metrics = self.service.expand_query_with_metadata("HoyoFest Singapore")
+
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
+        self.assertEqual(mocked_chat.call_count, 1)
+        self.assertEqual(first, second)
+        self.assertIn("HoyoFest Singapore", first)
 
     def test_generate_digest_uses_local_cache(self) -> None:
         with patch.object(self.service, "_chat", return_value="- First line\n- Second line\n- Third line") as mocked_chat:
@@ -85,6 +109,39 @@ class LLMServiceTests(unittest.TestCase):
         self.assertTrue(second_metrics.cache_hit)
         self.assertEqual(mocked_chat.call_count, 1)
         self.assertEqual(mocked_chat.call_args.kwargs["max_tokens"], self.service.settings.llm_digest_max_tokens)
+        self.assertEqual(mocked_chat.call_args.kwargs["timeout_seconds"], self.service.settings.llm_digest_timeout_seconds)
+
+    def test_generate_digest_trims_prompt_payload(self) -> None:
+        long_summary = "A" * 500
+        articles = [
+            self.make_article("a1", "Title 1", long_summary),
+            self.make_article("a2", "Title 2", long_summary),
+            self.make_article("a3", "Title 3", long_summary),
+            self.make_article("a4", "Title 4", long_summary),
+            self.make_article("a5", "Title 5", long_summary),
+        ]
+
+        with patch.object(self.service, "_chat", return_value="- First line\n- Second line\n- Third line") as mocked_chat:
+            digest, _metrics = self.service.generate_digest_with_metadata(articles, query="HoyoFest Singapore")
+
+        prompt = mocked_chat.call_args.args[0]
+        self.assertEqual(digest, ["First line", "Second line", "Third line"])
+        self.assertNotIn(("A" * 181), prompt)
+        self.assertIn("Title 4", prompt)
+        self.assertNotIn("Title 5", prompt)
+
+    def test_generate_digest_falls_back_after_timeout_and_caches_result(self) -> None:
+        with patch.object(self.service, "_chat", side_effect=TimeoutError("digest timed out")) as mocked_chat:
+            first, first_metrics = self.service.generate_digest_with_metadata(self.articles, query="HoyoFest Singapore")
+            second, second_metrics = self.service.generate_digest_with_metadata(self.articles, query="HoyoFest Singapore")
+
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
+        self.assertGreaterEqual(first_metrics.duration_ms, 0)
+        self.assertEqual(mocked_chat.call_count, 1)
+        self.assertEqual(len(first), 4)
+        self.assertEqual(second, first)
+        self.assertTrue(first[0].startswith("For this search"))
 
 
 if __name__ == "__main__":

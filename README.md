@@ -124,12 +124,13 @@ Actual semantic retrieval is configured separately from chat generation:
 - Existing articles are backfilled on startup when the active semantic embedding signature changes, so you do not need a full re-ingest to switch models.
 - When an embedding provider is configured, vector search stays strict: it uses semantic vectors or contributes no vector score. It does not silently fall back to the hash-vector path.
 - For local Ollama, `EMBEDDING_MODEL=nomic-embed-text` and `LLM_MODEL=qwen2.5:3b` are the lightest practical defaults for this app on consumer hardware.
-- Local model calls use dedicated timeouts now: `EMBEDDING_TIMEOUT_SECONDS` and `LLM_TIMEOUT_SECONDS` can be raised without slowing down feed ingestion HTTP requests.
+- Local model calls use dedicated timeouts now: `EMBEDDING_TIMEOUT_SECONDS`, `LLM_TIMEOUT_SECONDS`, `LLM_EXPAND_TIMEOUT_SECONDS`, `LLM_RERANK_TIMEOUT_SECONDS`, and `LLM_DIGEST_TIMEOUT_SECONDS` can be tuned separately so search-time model steps fall back quickly without stalling the whole request.
 - Startup backfill batches semantic embedding requests with `EMBEDDING_BATCH_SIZE`, which matters for local Ollama because sending the entire corpus in one request can time out on smaller machines.
 - `LLM_MAX_TOKENS` now caps local model output, which helps smaller Ollama models stay responsive for query expansion, reranking, and digest generation.
 - You can tune cold-path latency more precisely now with `LLM_EXPAND_MAX_TOKENS`, `LLM_RERANK_MAX_TOKENS`, and `LLM_DIGEST_MAX_TOKENS` instead of relying only on the single global `LLM_MAX_TOKENS` cap.
 - Query expansion and digest generation now use a small in-process TTL cache. Tune it with `LLM_CACHE_TTL_SECONDS` and `LLM_CACHE_MAX_ENTRIES` if you want shorter reuse windows or a larger cache.
 - Rerank outputs now use the same in-process TTL cache, keyed by query plus the active candidate set, so repeated interactive searches can avoid paying the full rerank cost again.
+- When query expansion, reranking, or deferred digest hit their task-specific timeout budget, the service now falls back immediately to the deterministic path and caches that fallback result too, so repeated requests do not keep paying the timeout.
 - Semantic query embeddings now use the same TTL cache too, so warm semantic searches can skip the repeat embedding call and spend their time mostly on candidate scoring.
 - `WARM_LOCAL_MODELS_ON_STARTUP=true` now best-effort warms local Ollama embedding and chat models during runtime initialization so the first interactive search pays less of the model-load penalty.
 - `POST /api/search` now accepts `include_digest`; the static frontend sends `false` so interactive search renders results first and fetches the digest afterward through `POST /api/search/digest`.
