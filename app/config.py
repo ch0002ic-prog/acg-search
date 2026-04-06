@@ -40,6 +40,9 @@ class Settings:
     request_timeout_seconds: float
     llm_timeout_seconds: float
     llm_max_tokens: int
+    llm_expand_max_tokens: int
+    llm_rerank_max_tokens: int
+    llm_digest_max_tokens: int
     llm_cache_ttl_seconds: int
     llm_cache_max_entries: int
     embedding_timeout_seconds: float
@@ -57,6 +60,7 @@ class Settings:
     llm_model: str | None
     enable_llm_enrichment: bool
     enable_full_text_fetch: bool
+    warm_local_models_on_startup: bool
     disable_http_cache: bool
     allow_remote_refresh: bool
     embedding_provider: str = "none"
@@ -86,6 +90,9 @@ class Settings:
             request_timeout_seconds=float(os.getenv("REQUEST_TIMEOUT_SECONDS", "10")),
             llm_timeout_seconds=float(os.getenv("LLM_TIMEOUT_SECONDS", os.getenv("REQUEST_TIMEOUT_SECONDS", "60"))),
             llm_max_tokens=max(int(os.getenv("LLM_MAX_TOKENS", "256")), 32),
+            llm_expand_max_tokens=max(int(os.getenv("LLM_EXPAND_MAX_TOKENS", "64")), 16),
+            llm_rerank_max_tokens=max(int(os.getenv("LLM_RERANK_MAX_TOKENS", "96")), 16),
+            llm_digest_max_tokens=max(int(os.getenv("LLM_DIGEST_MAX_TOKENS", "160")), 32),
             llm_cache_ttl_seconds=max(int(os.getenv("LLM_CACHE_TTL_SECONDS", "900")), 0),
             llm_cache_max_entries=max(int(os.getenv("LLM_CACHE_MAX_ENTRIES", "256")), 1),
             embedding_timeout_seconds=float(os.getenv("EMBEDDING_TIMEOUT_SECONDS", os.getenv("REQUEST_TIMEOUT_SECONDS", "45"))),
@@ -103,6 +110,7 @@ class Settings:
             llm_model=os.getenv("LLM_MODEL"),
             enable_llm_enrichment=_as_bool(os.getenv("ENABLE_LLM_ENRICHMENT"), False),
             enable_full_text_fetch=_as_bool(os.getenv("ENABLE_FULL_TEXT_FETCH"), False),
+            warm_local_models_on_startup=_as_bool(os.getenv("WARM_LOCAL_MODELS_ON_STARTUP"), True),
             disable_http_cache=_as_bool(os.getenv("DISABLE_HTTP_CACHE"), True),
             allow_remote_refresh=_as_bool(os.getenv("ALLOW_REMOTE_REFRESH"), False),
             embedding_provider=os.getenv("EMBEDDING_PROVIDER", "none").strip().lower(),

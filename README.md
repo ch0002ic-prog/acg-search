@@ -127,9 +127,11 @@ Actual semantic retrieval is configured separately from chat generation:
 - Local model calls use dedicated timeouts now: `EMBEDDING_TIMEOUT_SECONDS` and `LLM_TIMEOUT_SECONDS` can be raised without slowing down feed ingestion HTTP requests.
 - Startup backfill batches semantic embedding requests with `EMBEDDING_BATCH_SIZE`, which matters for local Ollama because sending the entire corpus in one request can time out on smaller machines.
 - `LLM_MAX_TOKENS` now caps local model output, which helps smaller Ollama models stay responsive for query expansion, reranking, and digest generation.
+- You can tune cold-path latency more precisely now with `LLM_EXPAND_MAX_TOKENS`, `LLM_RERANK_MAX_TOKENS`, and `LLM_DIGEST_MAX_TOKENS` instead of relying only on the single global `LLM_MAX_TOKENS` cap.
 - Query expansion and digest generation now use a small in-process TTL cache. Tune it with `LLM_CACHE_TTL_SECONDS` and `LLM_CACHE_MAX_ENTRIES` if you want shorter reuse windows or a larger cache.
 - Rerank outputs now use the same in-process TTL cache, keyed by query plus the active candidate set, so repeated interactive searches can avoid paying the full rerank cost again.
 - Semantic query embeddings now use the same TTL cache too, so warm semantic searches can skip the repeat embedding call and spend their time mostly on candidate scoring.
+- `WARM_LOCAL_MODELS_ON_STARTUP=true` now best-effort warms local Ollama embedding and chat models during runtime initialization so the first interactive search pays less of the model-load penalty.
 - `POST /api/search` now accepts `include_digest`; the static frontend sends `false` so interactive search renders results first and fetches the digest afterward through `POST /api/search/digest`.
 - Search and deferred-digest responses now include timing breakdowns. `FeedResponse.timings` reports query expansion, lexical retrieval, semantic retrieval, reranking, and optional inline digest cost; `DigestResponse.timings` reports deferred digest lookup and generation time.
 

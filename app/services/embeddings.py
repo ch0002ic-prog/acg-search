@@ -130,6 +130,13 @@ class SemanticEmbeddingService:
         ).hexdigest()[:12]
         return f"{provider}:{sanitized_model}:{digest}"
 
+    def warmup(self) -> float | None:
+        provider = self.settings.embedding_provider.strip().lower().replace("-", "_")
+        if provider != "ollama" or not self.is_enabled():
+            return None
+        _embedding, metrics = self.embed_query_with_metadata("singapore anime games warmup")
+        return metrics.duration_ms
+
     def embed_documents(self, texts: list[str]) -> list[EmbeddingRecord]:
         return self._embed_texts(texts, reason="document")
 

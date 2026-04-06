@@ -61,6 +61,7 @@ class LLMServiceTests(unittest.TestCase):
         self.assertFalse(first_metrics.cache_hit)
         self.assertTrue(second_metrics.cache_hit)
         self.assertEqual(mocked_chat.call_count, 1)
+        self.assertEqual(mocked_chat.call_args.kwargs["max_tokens"], self.service.settings.llm_rerank_max_tokens)
 
     def test_expand_query_uses_local_cache(self) -> None:
         with patch.object(self.service, "_chat", return_value="HoyoFest Singapore, Artist Alley") as mocked_chat:
@@ -71,6 +72,7 @@ class LLMServiceTests(unittest.TestCase):
         self.assertFalse(first_metrics.cache_hit)
         self.assertTrue(second_metrics.cache_hit)
         self.assertEqual(mocked_chat.call_count, 1)
+        self.assertEqual(mocked_chat.call_args.kwargs["max_tokens"], self.service.settings.llm_expand_max_tokens)
 
     def test_generate_digest_uses_local_cache(self) -> None:
         with patch.object(self.service, "_chat", return_value="- First line\n- Second line\n- Third line") as mocked_chat:
@@ -82,6 +84,7 @@ class LLMServiceTests(unittest.TestCase):
         self.assertFalse(first_metrics.cache_hit)
         self.assertTrue(second_metrics.cache_hit)
         self.assertEqual(mocked_chat.call_count, 1)
+        self.assertEqual(mocked_chat.call_args.kwargs["max_tokens"], self.service.settings.llm_digest_max_tokens)
 
 
 if __name__ == "__main__":

@@ -231,6 +231,36 @@ class RuntimeStartupTests(unittest.TestCase):
             self.assertEqual(row["semantic_embedding_signature"], signature)
             self.assertNotEqual(row["semantic_embedding"], "[]")
 
+    def test_build_runtime_warms_local_ollama_models_when_enabled(self) -> None:
+        with TemporaryDirectory() as temp_dir:
+            base_path = Path(temp_dir)
+            test_settings = replace(
+                settings,
+                db_path=base_path / "test-runtime.db",
+                vector_dir=base_path / "vector-store",
+                data_dir=base_path,
+                vector_backend="local",
+                llm_provider="ollama",
+                llm_base_url="http://127.0.0.1:11434",
+                llm_model="qwen2.5:3b",
+                enable_llm_enrichment=False,
+                embedding_provider="ollama",
+                embedding_base_url="http://127.0.0.1:11434",
+                embedding_model="nomic-embed-text",
+                warm_local_models_on_startup=True,
+            )
+
+            with (
+                patch.object(main_module, "settings", test_settings),
+                patch.object(main_module, "build_sources", return_value=[]),
+                patch("app.main.SemanticEmbeddingService.warmup", return_value=123.4) as embedding_warmup,
+                patch("app.main.LLMService.warmup", return_value=234.5) as llm_warmup,
+            ):
+                _runtime_repository, _news_service, _ingestion_service = main_module.build_runtime()
+
+            embedding_warmup.assert_called_once()
+            llm_warmup.assert_called_once()
+
 
 if __name__ == "__main__":
     unittest.main()

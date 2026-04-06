@@ -85,6 +85,20 @@ class LLMService:
     def is_enabled(self) -> bool:
         return self.settings.llm_provider.strip().lower() != "none" and bool(self.settings.llm_model)
 
+    def warmup(self) -> float | None:
+        provider = self.settings.llm_provider.strip().lower().replace("-", "_")
+        if provider != "ollama" or not self.is_enabled():
+            return None
+
+        started_at = time.perf_counter()
+        try:
+            self._chat("Reply with OK only.", max_tokens=8)
+            self._chat('Return JSON with a single key ok set to true.', json_mode=True, max_tokens=16)
+        except Exception as exc:
+            logger.warning("LLM warmup failed; cold-path search may stay slower.", exc_info=exc)
+            return None
+        return _elapsed_ms(started_at)
+
     def summarize_and_tag(self, title: str, content: str) -> tuple[str, list[str], list[str]]:
         fallback_categories = infer_categories(title, content)
         fallback_tags = infer_tags(title, content)
@@ -138,7 +152,7 @@ class LLMService:
             f"Query: {query}"
         )
         try:
-            response = strip_text(self._chat(prompt))
+            response = strip_text(self._chat(prompt, max_tokens=self.settings.llm_expand_max_tokens))
             resolved = response or fallback
             self._query_expansion_cache.set(cache_key, resolved)
             return resolved, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
@@ -192,7 +206,7 @@ class LLMService:
                 f"LABEL={label} | TITLE={article.title[:180]} | SUMMARY={article.summary[:220]} | TAGS={', '.join(article.tags[:6])}"
             )
         try:
-            raw = self._chat("\n".join(prompt_lines), json_mode=True)
+            raw = self._chat("\n".join(prompt_lines), json_mode=True, max_tokens=self.settings.llm_rerank_max_tokens)
             ordered_labels = self._parse_rerank_labels(raw)
             reranked = [article_by_label[label] for label in ordered_labels if label in article_by_label]
             seen = {article.id for article in reranked}
@@ -245,7 +259,7 @@ class LLMService:
             prompt_lines.append(f"- {article.title}: {article.summary}")
 
         try:
-            raw = self._chat("\n".join(prompt_lines))
+            raw = self._chat("\n".join(prompt_lines), max_tokens=self.settings.llm_digest_max_tokens)
             lines = [strip_text(line.lstrip("-*• ")) for line in raw.splitlines() if strip_text(line)]
             resolved = lines[:3] or build_digest_lines(items, query=query)
             self._digest_cache.set(cache_key, resolved)
@@ -254,9 +268,10 @@ class LLMService:
             logger.warning("LLM digest generation failed; using deterministic digest lines instead.", exc_info=exc)
             return build_digest_lines(items, query=query), CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
-    def _chat(self, prompt: str, json_mode: bool = False) -> str:
+    def _chat(self, prompt: str, json_mode: bool = False, max_tokens: int | None = None) -> str:
         provider = self.settings.llm_provider.strip().lower().replace("-", "_")
         timeout = self.settings.llm_timeout_seconds
+        token_budget = max_tokens or self.settings.llm_max_tokens
         if provider == "ollama":
             payload: dict[str, Any] = {
                 "model": self.settings.llm_model,
@@ -264,7 +279,7 @@ class LLMService:
                 "stream": False,
                 "options": {
                     "temperature": 0.2,
-                    "num_predict": self.settings.llm_max_tokens,
+                    "num_predict": token_budget,
                 },
             }
             if json_mode:
@@ -286,7 +301,7 @@ class LLMService:
         openai_payload: dict[str, Any] = {
             "model": self.settings.llm_model,
             "temperature": 0.2,
-            "max_tokens": self.settings.llm_max_tokens,
+            "max_tokens": token_budget,
             "messages": [{"role": "user", "content": prompt}],
         }
         if json_mode:

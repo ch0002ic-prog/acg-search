@@ -83,6 +83,11 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
     stale_curated_ids = ingestion_service.synchronize_curated_source_articles()
     canonicalized_articles, canonicalized_old_ids = ingestion_service.canonicalize_google_news_wrapper_articles()
     semantic_embedding_sync_count = ingestion_service.synchronize_semantic_embeddings()
+    embedding_warmup_ms: float | None = None
+    llm_warmup_ms: float | None = None
+    if settings.warm_local_models_on_startup:
+        embedding_warmup_ms = semantic_embedding_service.warmup()
+        llm_warmup_ms = llm_service.warmup()
     if state_store is not None:
         state_store.persist_from(settings.db_path)
     news_service = NewsService(repository=repository, vector_store=vector_store, llm_service=llm_service)
@@ -106,6 +111,10 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
             "Refreshed %s semantic embedding rows during startup maintenance",
             semantic_embedding_sync_count,
         )
+    if embedding_warmup_ms is not None:
+        logger.info("Warmed local embedding model during startup in %.1f ms", embedding_warmup_ms)
+    if llm_warmup_ms is not None:
+        logger.info("Warmed local LLM during startup in %.1f ms", llm_warmup_ms)
     return repository, news_service, ingestion_service
 
 
