@@ -551,6 +551,43 @@ class SearchBackendTests(unittest.TestCase):
         self.assertTrue(response.items)
         self.assertEqual(response.items[0].id, "afa-article-url")
 
+    def test_article_beats_source_page_when_strong_story_exists(self) -> None:
+        now = datetime.now(timezone.utc)
+        self.repository.upsert_articles(
+            [
+                self.make_article(
+                    article_id="artist-alley-source-page",
+                    title="Lantern Lane Artist Alley official creator update page",
+                    summary="Official creator-booth updates for Lantern Lane Artist Alley Singapore.",
+                    content="Official creator-booth updates for Lantern Lane Artist Alley Singapore and creator booths.",
+                    categories=["events", "anime", "merch"],
+                    tags=["afa", "singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.82,
+                    published_at=now,
+                    source_name="SG Source Pages",
+                    source_type="curated",
+                ),
+                self.make_article(
+                    article_id="artist-alley-story",
+                    title="Lantern Lane Artist Alley kicks off with sold-out creator showcase",
+                    summary="A strong Lantern Lane Artist Alley story covering creator booths and fan turnout in Singapore.",
+                    content="Lantern Lane Artist Alley coverage follows creator booths, fan turnout, and convention floor highlights in Singapore.",
+                    categories=["events", "anime", "merch"],
+                    tags=["hoyofest", "singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.82,
+                    published_at=now - timedelta(days=1),
+                    source_name="Google News HoyoFest",
+                ),
+            ]
+        )
+
+        response = self.news_service.search(query="Lantern Lane artist alley singapore", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertEqual(response.items[0].id, "artist-alley-story")
+
     def test_poppa_query_excludes_lil_poppa_false_positive(self) -> None:
         response = self.news_service.search(query="POPPA Singapore", limit=5, rerank=False, user_id=None)
 

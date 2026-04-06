@@ -89,7 +89,8 @@ class NewsService:
         max_vector = max(vector_scores.values(), default=0.0)
         lexical_denominator = max_lexical if max_lexical > 0 else 1.0
         vector_denominator = max_vector if max_vector > 0 else 1.0
-        ranked: list[tuple[ArticleRecord, float]] = []
+        ranked_candidates: list[tuple[ArticleRecord, float]] = []
+        has_strong_non_source_page = False
         for article_id in candidate_ids:
             if article_id in hidden_ids:
                 continue
@@ -102,6 +103,7 @@ class NewsService:
             if strict_query and not has_meaningful_query_match(query=query, expanded_query=expanded_query, article=article):
                 continue
             profile_score = score_profile_match(article, profile)
+            phrase_boost = exact_query_phrase_boost(query=query, article=article)
             final_score = (
                 (0.3 * lexical_score)
                 + (0.22 * vector_score)
@@ -110,10 +112,18 @@ class NewsService:
                 + (0.1 * article.freshness_score)
                 + (0.12 * profile_score)
             )
-            final_score += exact_query_phrase_boost(query=query, article=article)
+            final_score += phrase_boost
             final_score *= score_result_quality(article=article, query=query)
             if strict_query and final_score < 0.16:
                 continue
+            if article.result_type != "source_page" and (intent_score >= 0.45 or phrase_boost > 0):
+                has_strong_non_source_page = True
+            ranked_candidates.append((article, final_score))
+
+        ranked: list[tuple[ArticleRecord, float]] = []
+        for article, final_score in ranked_candidates:
+            if has_strong_non_source_page and article.result_type == "source_page":
+                final_score *= 0.72
             ranked.append((article, final_score))
 
         ranked.sort(key=lambda item: item[1], reverse=True)

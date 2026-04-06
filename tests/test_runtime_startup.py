@@ -21,6 +21,15 @@ class EmptySource(BaseSource):
         return []
 
 
+class StaticSource(BaseSource):
+    def __init__(self, articles: list[SourceArticle], **kwargs) -> None:
+        super().__init__(**kwargs)
+        self._articles = articles
+
+    def fetch(self, limit: int) -> list[SourceArticle]:
+        return self._articles[:limit]
+
+
 class RuntimeStartupTests(unittest.TestCase):
     def test_build_runtime_canonicalizes_stored_google_news_wrapper_articles(self) -> None:
         with TemporaryDirectory() as temp_dir:
@@ -82,6 +91,78 @@ class RuntimeStartupTests(unittest.TestCase):
             self.assertEqual(len(items), 1)
             self.assertEqual(items[0].url, canonical_url)
             self.assertNotEqual(items[0].id, wrapper_article.id)
+
+    def test_build_runtime_synchronizes_curated_source_rows(self) -> None:
+        with TemporaryDirectory() as temp_dir:
+            base_path = Path(temp_dir)
+            test_settings = replace(
+                settings,
+                db_path=base_path / "test-runtime.db",
+                vector_dir=base_path / "vector-store",
+                data_dir=base_path,
+                vector_backend="local",
+                llm_provider="none",
+                llm_model=None,
+                enable_llm_enrichment=False,
+            )
+            repository = ArticleRepository(test_settings.db_path)
+            repository.init_database()
+            vector_store = VectorStore(settings=test_settings, repository=repository)
+            llm_service = LLMService(test_settings)
+            stale_source = StaticSource(
+                name="SG Source Pages",
+                feed_url="local://curated-sg-search-watch",
+                quality=0.8,
+                source_type="curated",
+                category_hints=["events", "anime"],
+                region_hints=["Singapore"],
+                articles=[],
+            )
+            stale_article = IngestionService(
+                settings=test_settings,
+                repository=repository,
+                vector_store=vector_store,
+                llm_service=llm_service,
+                sources=[stale_source],
+            )._to_article(
+                stale_source,
+                SourceArticle(
+                    title="Old curated artist alley fallback",
+                    url="https://www.eventbrite.sg/d/singapore--singapore/artist-alley/",
+                    published_at=datetime.now(timezone.utc) - timedelta(days=30),
+                    summary="Old fallback row.",
+                ),
+            )
+            repository.upsert_articles([stale_article])
+
+            current_source = StaticSource(
+                name="SG Source Pages",
+                feed_url="local://curated-sg-search-watch",
+                quality=0.8,
+                source_type="curated",
+                category_hints=["events", "anime"],
+                region_hints=["Singapore"],
+                articles=[
+                    SourceArticle(
+                        title="AFA Singapore 2025 official event page with creator and artist alley updates",
+                        url="https://animefestival.asia/afasg25/",
+                        published_at=datetime.now(timezone.utc) - timedelta(days=5),
+                        summary="Current curated fallback row.",
+                    )
+                ],
+            )
+
+            with (
+                patch.object(main_module, "settings", test_settings),
+                patch.object(main_module, "build_sources", return_value=[current_source]),
+            ):
+                runtime_repository, _news_service, _ingestion_service = main_module.build_runtime()
+
+            items = runtime_repository.latest_articles(limit=10)
+            urls = [item.url for item in items]
+
+            self.assertIn("https://animefestival.asia/afasg25/", urls)
+            self.assertNotIn("https://www.eventbrite.sg/d/singapore--singapore/artist-alley/", urls)
 
 
 if __name__ == "__main__":

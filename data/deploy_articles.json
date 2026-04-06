@@ -42,146 +42,6 @@
     "result_type": "event"
   },
   {
-    "id": "ba5c5d7b4f747aa25f5be7458edd6b9ee62005d3",
-    "title": "Discover Poppa Events & Activities in Singapore, Singapore | Eventbrite",
-    "url": "https://www.eventbrite.sg/d/singapore--singapore/poppa/",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-06T12:00:00Z",
-    "summary": "This source-backed Eventbrite Singapore page is used for POPPA and Moe Moe Q discovery when users search for specific Singapore event coverage",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore",
-      "idol"
-    ],
-    "entity_tags": [
-      "POPPA"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.71,
-    "freshness_score": 1.0,
-    "home_score": 0.8975,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "source_page"
-  },
-  {
-    "id": "3aec9a9ee6dd6b29313b90ec599812530cf1c392",
-    "title": "Discover Ani Idol Events & Activities in Singapore, Singapore | Eventbrite",
-    "url": "https://www.eventbrite.sg/d/singapore--singapore/ani-idol/",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-06T12:00:00Z",
-    "summary": "This source-backed Eventbrite Singapore page covers Ani-Idol and anisong event discovery for Singapore searches",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore",
-      "idol"
-    ],
-    "entity_tags": [
-      "Ani-Idol"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.71,
-    "freshness_score": 1.0,
-    "home_score": 0.8975,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "source_page"
-  },
-  {
-    "id": "40b7678bc461c49cd596be0950a45cd13cb1b768",
-    "title": "Discover Hoyofest Events & Activities in Singapore, Singapore | Eventbrite",
-    "url": "https://www.eventbrite.sg/d/singapore--singapore/hoyofest/",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-06T12:00:00Z",
-    "summary": "This source-backed Eventbrite Singapore page is used for HoyoFest searches and related HoYoVerse event discovery in Singapore",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyofest",
-      "hoyoverse"
-    ],
-    "entity_tags": [
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.0,
-    "home_score": 0.8825,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "source_page"
-  },
-  {
-    "id": "0203b5646219f1963f93c1cfb379a2a34cd0a40e",
-    "title": "Discover Artist Alley Events & Activities in Singapore, Singapore | Eventbrite",
-    "url": "https://www.eventbrite.sg/d/singapore--singapore/artist-alley/",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-06T12:00:00Z",
-    "summary": "This source-backed Eventbrite Singapore page is used for artist alley searches and related Singapore creator-market discovery",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.5499999999999999,
-    "freshness_score": 1.0,
-    "home_score": 0.8575,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Lineup details mentioned",
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "source_page"
-  },
-  {
     "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
     "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
     "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
@@ -216,6 +76,44 @@
       "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
       "ticket_status": null,
       "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
+    "title": "TableCon Quest 2026",
+    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-08-01T00:00:00Z",
+    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.55,
+    "freshness_score": 1.0,
+    "home_score": 0.8515,
+    "source_quality": 0.76,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": "1 Aug 2026 to 2 Aug 2026",
+      "venue": "Suntec Singapore Convention & Exhibition Centre",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
@@ -726,8 +624,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9123016513471351,
-    "home_score": 0.6835,
+    "freshness_score": 0.8855149140636788,
+    "home_score": 0.6715,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -751,8 +649,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9676297316124111,
-    "home_score": 0.6754,
+    "freshness_score": 0.9231006422241821,
+    "home_score": 0.6554,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -777,8 +675,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9410520215902161,
-    "home_score": 0.6635,
+    "freshness_score": 0.8977460071135143,
+    "home_score": 0.644,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -803,34 +701,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8393580198449103,
-    "home_score": 0.6507,
+    "freshness_score": 0.8147130364663427,
+    "home_score": 0.6396,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "abb6877c028c394c65a2c467b6400021f68d4566",
-    "title": "Another Eden Begins: Time-Traveling JRPG Launches September 2026 - Bleeding Cool News",
-    "url": "https://bleedingcool.com/games/another-eden-begins-time-traveling-jrpg-launches-september-2026/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-05T17:42:07Z",
-    "summary": "Another Eden Begins: Time-Traveling JRPG Launches September 2026 Bleeding Cool News",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.911490335638977,
-    "home_score": 0.6502,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -861,6 +734,31 @@
     "result_type": "article"
   },
   {
+    "id": "abb6877c028c394c65a2c467b6400021f68d4566",
+    "title": "Another Eden Begins: Time-Traveling JRPG Launches September 2026 - Bleeding Cool News",
+    "url": "https://bleedingcool.com/games/another-eden-begins-time-traveling-jrpg-launches-september-2026/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-05T17:42:07Z",
+    "summary": "Another Eden Begins: Time-Traveling JRPG Launches September 2026 Bleeding Cool News",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8695447189568587,
+    "home_score": 0.6313,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "cf7babc4c18d785767325fbb579bb6c557144003",
     "title": "Streamer Support, Mental Health Gaming, Final Fantasy for Good, and the UVW: Good in Gaming Vol. 3 - superjumpmagazine.com",
     "url": "https://www.superjumpmagazine.com/streamer-support-mental-health-gaming-final-fantasy-for-good-and-the-uvw-good-in-gaming-vol-3/",
@@ -878,8 +776,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8782032455089257,
-    "home_score": 0.6352,
+    "freshness_score": 0.8377894612489108,
+    "home_score": 0.617,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1014,32 +912,37 @@
     "result_type": "article"
   },
   {
-    "id": "1baac99e514395c95e881b0c625067831e30d16b",
-    "title": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool - Esports Charts",
-    "url": "https://escharts.com/tournaments/aov/sea-games-2025-vietnam-men-qualifier",
-    "source_name": "Google News SEA Esports",
+    "id": "5b259cdc8f58fa350f576867bb8723895889f719",
+    "title": "Mark Lee announces departure from NCT & SM Entertainment after 10 years",
+    "url": "https://www.bandwagon.asia/articles/mark-lee-announces-departure-from-nct-sm-entertainment-after-10-years",
+    "source_name": "Bandwagon Asia",
     "source_type": "rss",
-    "published_at": "2026-04-03T06:03:18Z",
-    "summary": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool Esports Charts",
+    "published_at": "2026-04-03T10:26:00Z",
+    "summary": "After a decade of defining moments, Mark Lee is officially stepping into a new chapter",
     "content": "",
     "categories": [
+      "games",
       "esports",
-      "games"
+      "anime",
+      "events"
     ],
-    "tags": [],
+    "tags": [
+      "idol",
+      "jrpg"
+    ],
     "entity_tags": [],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.4903342399363879,
-    "home_score": 0.5802,
-    "source_quality": 0.76,
-    "image_url": null,
+    "sg_relevance": 0.51,
+    "freshness_score": 0.403636921305885,
+    "home_score": 0.5596,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C41%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/jMhM5eu2TiKjih2yA2qi",
     "event_metadata": {
-      "event_type": "qualifier",
-      "date_label": null,
+      "event_type": "festival",
+      "date_label": "3 April",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1071,52 +974,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6536926680914956,
-    "home_score": 0.5672,
+    "freshness_score": 0.6344991395033808,
+    "home_score": 0.5585,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5b259cdc8f58fa350f576867bb8723895889f719",
-    "title": "Mark Lee announces departure from NCT & SM Entertainment after 10 years",
-    "url": "https://www.bandwagon.asia/articles/mark-lee-announces-departure-from-nct-sm-entertainment-after-10-years",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-03T10:26:00Z",
-    "summary": "After a decade of defining moments, Mark Lee is officially stepping into a new chapter",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "idol",
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.51,
-    "freshness_score": 0.4158474504333919,
-    "home_score": 0.5651,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C41%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/jMhM5eu2TiKjih2yA2qi",
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "3 April",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1138,36 +1000,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6014262768896185,
-    "home_score": 0.5436,
+    "freshness_score": 0.583767380409972,
+    "home_score": 0.5357,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e91ff5faaa59f1a2661058c4f8e8f445c768b65e",
-    "title": "Inaugural SEA Esports Nations Cup set for Vietnam - english.vov.vn",
-    "url": "https://english.vov.vn/en/sports/inaugural-sea-esports-nations-cup-set-for-vietnam-post1280927.vov",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-04-03T04:27:03Z",
-    "summary": "Inaugural SEA Esports Nations Cup set for Vietnam english",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.38930796096240167,
-    "home_score": 0.5347,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1201,6 +1036,201 @@
     "result_type": "article"
   },
   {
+    "id": "1baac99e514395c95e881b0c625067831e30d16b",
+    "title": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool - Esports Charts",
+    "url": "https://escharts.com/tournaments/aov/sea-games-2025-vietnam-men-qualifier",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-04-03T06:03:18Z",
+    "summary": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool Esports Charts",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.37971765754918496,
+    "home_score": 0.5304,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "qualifier",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e91ff5faaa59f1a2661058c4f8e8f445c768b65e",
+    "title": "Inaugural SEA Esports Nations Cup set for Vietnam - VOV",
+    "url": "https://english.vov.vn/en/sports/inaugural-sea-esports-nations-cup-set-for-vietnam-post1280927.vov",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-04-03T04:27:03Z",
+    "summary": "Inaugural SEA Esports Nations Cup set for Vietnam VOV",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.3713510645173939,
+    "home_score": 0.5266,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a5f777e4d49e37135c6572ac5c4c7e21da88c1ac",
+    "title": "What to expect with HoYo Fest 2023 at Anime Festival Asia Singapore 2023 - HardwareZone",
+    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/feature-what-to-expect-hoyo-fest-2023-afa-singapore-anime-festival-asia-suntec",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2023-11-25T08:00:00Z",
+    "summary": "What to expect with HoYo Fest 2023 at Anime Festival Asia Singapore 2023 HardwareZone",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "anime"
+    ],
+    "tags": [
+      "afa",
+      "singapore",
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "AFA Singapore",
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 1.0,
+    "freshness_score": 1.239930399367815e-125,
+    "home_score": 0.5185,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "0820ae5f09e2fc923b33bbf5f4cd43f860c3dc24",
+    "title": "HoYo FEST 2023 in Singapore to take place at Anime Festival Asia in November - Yahoo News Singapore",
+    "url": "https://sg.news.yahoo.com/hoyo-fest-2023-in-singapore-to-take-place-at-anime-festival-asia-in-november-054746186.html",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2023-09-11T07:00:00Z",
+    "summary": "HoYo FEST 2023 in Singapore to take place at Anime Festival Asia in November Yahoo News Singapore",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "anime"
+    ],
+    "tags": [
+      "afa",
+      "singapore",
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "AFA Singapore",
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 1.0,
+    "freshness_score": 1.6982569151528962e-136,
+    "home_score": 0.5185,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c16532a1c3c284be91caaaec4c5489c08df002a1",
+    "title": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! - Geek Culture",
+    "url": "https://geekculture.co/anime-festival-asia-singapore-afa-sg-2022-artist-alley-highlights/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2022-11-26T08:00:00Z",
+    "summary": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 1.0,
+    "freshness_score": 2.506036907193863e-178,
+    "home_score": 0.517,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "d39603ea776f94885282729ba3964e89e9b02235",
     "title": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted - PC Gamer",
     "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-variant-dungeon-is-so-good-it-deserves-better-the-mmo-needs-to-figure-out-its-rewards-so-all-this-great-work-isnt-wasted/",
@@ -1219,11 +1249,168 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6290562333527412,
-    "home_score": 0.5291,
+    "freshness_score": 0.6001078732611883,
+    "home_score": 0.516,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7eab4b5bd68e4139229e5fbd5123510061c3e6bc",
+    "title": "AFA Singapore 2025 official event page with creator and artist alley updates",
+    "url": "https://animefestival.asia/afasg25/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2025-11-24T12:00:00Z",
+    "summary": "Official Anime Festival Asia Singapore event page for creator booths, artist alley activity, guests, and related event information",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.9500000000000001,
+    "freshness_score": 6.24826173744283e-20,
+    "home_score": 0.5075,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "0b3ad17a0b4ef122d5774c89c5f79a7fb7133d0d",
+    "title": "Kadokawa Acquires SOZO, Owner of Anime Festival Asia | Outlook Respawn - Outlook Respawn",
+    "url": "https://respawn.outlookindia.com/pop-culture/pop-culture-news/kadokawa-acquires-sozo-owner-of-anime-festival-asia",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Kadokawa Acquires SOZO, Owner of Anime Festival Asia | Outlook Respawn Outlook Respawn",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.91,
+    "freshness_score": 4.504219007197781e-18,
+    "home_score": 0.496,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "73bffc4bf3282f2bf858116556dc4b18d07426d7",
+    "title": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones - The Straits Times",
+    "url": "https://www.straitstimes.com/life/home-design/design-news-anime-festival-asia-returns-oppo-s-new-foldable-phones",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2023-10-20T07:00:00Z",
+    "summary": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones The Straits Times",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.91,
+    "freshness_score": 7.512541662329297e-131,
+    "home_score": 0.496,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7340afc59dfb95c9f051ee2017fbee8ba66b5d16",
+    "title": "New Turn-Based RPGs To Play \u2013 April 4, 2026 - turnbasedlovers.com",
+    "url": "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-april-4-2026/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-04T11:03:26Z",
+    "summary": "New Turn-Based RPGs To Play \u2013 April 4, 2026 turnbasedlovers",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5681290546951129,
+    "home_score": 0.4957,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 4, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1249,8 +1436,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.44927593283488376,
-    "home_score": 0.4952,
+    "freshness_score": 0.43608442823454296,
+    "home_score": 0.4892,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1276,8 +1463,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.4430791188306862,
-    "home_score": 0.4924,
+    "freshness_score": 0.4300695633259214,
+    "home_score": 0.4865,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1311,8 +1498,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.48158450838630507,
-    "home_score": 0.4897,
+    "freshness_score": 0.46744437011330847,
+    "home_score": 0.4833,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1350,42 +1537,44 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4749420661639974,
-    "home_score": 0.4867,
+    "freshness_score": 0.46099696151568553,
+    "home_score": 0.4804,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "aabff789209ecaf436a40cb987f86eba85354458",
-    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
-    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
-    "source_name": "Google News SG ACG",
+    "id": "072195d1909965e66c8a900f58fa255250c0d550",
+    "title": "9 Anime Conventions & Events In Singapore In 2025 \u2013 Doujin Market, AFA Singapore & Doki Doki - TheSmartLocal",
+    "url": "https://thesmartlocal.com/read/anime-conventions-singapore/",
+    "source_name": "Google News Artist Alley",
     "source_type": "rss",
-    "published_at": "2025-11-24T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
+    "published_at": "2025-04-23T07:00:00Z",
+    "summary": "9 Anime Conventions & Events In Singapore In 2025 \u2013 Doujin Market, AFA Singapore & Doki Doki TheSmartLocal",
     "content": "",
     "categories": [
       "events",
-      "games",
-      "anime"
+      "anime",
+      "merch",
+      "comics"
     ],
     "tags": [
       "afa",
       "singapore"
     ],
     "entity_tags": [
-      "AFA Singapore"
+      "AFA Singapore",
+      "Doujin Market"
     ],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.91,
-    "freshness_score": 6.198322951391475e-20,
-    "home_score": 0.4855,
-    "source_quality": 0.72,
+    "sg_relevance": 0.85,
+    "freshness_score": 4.377627414510712e-51,
+    "home_score": 0.4795,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
@@ -1422,8 +1611,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4683912421194266,
-    "home_score": 0.4838,
+    "freshness_score": 0.45463848077466557,
+    "home_score": 0.4776,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1433,6 +1622,179 @@
       "ticket_status": "Sold out",
       "ticket_url": null,
       "guest_status": "Guest lineup mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e5ac75f66540c03bb5f9714a4720c85c425c0e3e",
+    "title": "I attended Singapore Comic Con's Preview Night so you know what to catch, Digital News - AsiaOne",
+    "url": "https://www.asiaone.com/digital/singapore-comic-con-sgcc-preview-2025-kpop-demon-hunters-power-rangers",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2025-12-05T08:00:00Z",
+    "summary": "I attended Singapore Comic Con's Preview Night so you know what to catch, Digital News AsiaOne",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 2.312712444895527e-18,
+    "home_score": 0.477,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3c7e836a9ca2fa54959d18e7e6630262a6ca0dfa",
+    "title": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend - Geek Culture",
+    "url": "https://geekculture.co/singapore-comic-con-sgcc-2025-the-ultimate-event-guide/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2025-12-03T08:00:00Z",
+    "summary": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 1.1873861467333367e-18,
+    "home_score": 0.477,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "d72b5ccd9efed7237d0e3ada0f9bec672fe23b31",
+    "title": "Singapore Comic Con: Toys, Games, Art & Cosplay At Sands Expo - Little Day Out",
+    "url": "https://www.littledayout.com/singapore-comic-con-toys-games-art-cosplay/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2022-12-11T08:00:00Z",
+    "summary": "Singapore Comic Con: Toys, Games, Art & Cosplay At Sands Expo Little Day Out",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "games",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 3.719288549819471e-176,
+    "home_score": 0.477,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": "Sands Expo and Convention Centre",
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "f0ada785e9315a55907abca7f5dea6adcaac18b3",
+    "title": "Singapore Comic Con (SGCC) 2022 Event Highlights - Geek Culture",
+    "url": "https://geekculture.co/singapore-comic-con-sgcc-2022-event-highlights/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2022-12-11T08:00:00Z",
+    "summary": "Singapore Comic Con (SGCC) 2022 Event Highlights Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 3.7192885361589686e-176,
+    "home_score": 0.477,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
@@ -1457,8 +1819,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.46193077374865865,
-    "home_score": 0.4809,
+    "freshness_score": 0.4483677026684092,
+    "home_score": 0.4748,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1492,36 +1854,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4555594133169503,
-    "home_score": 0.478,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "22603e98687f4e52c94dfa05f7969e62082b7bd3",
-    "title": "Macross Frontier Top Gun Maverick Crossover Figure Announced",
-    "url": "https://www.siliconera.com/macross-frontier-top-gun-maverick-crossover-figure-announced/?utm_source=rss&utm_medium=rss&utm_campaign=macross-frontier-top-gun-maverick-crossover-figure-announced",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-03T14:00:30Z",
-    "summary": "Bandai Spirits has announced that it will release a new DX Chogokin action figure that features a crossover between Macross Frontier and Top Gun: Maverick",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Macross"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4370183545563907,
-    "home_score": 0.4697,
+    "freshness_score": 0.442183415137412,
+    "home_score": 0.472,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1593,7 +1927,49 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.281695153921229e-19,
+    "freshness_score": 3.130825576805604e-19,
+    "home_score": 0.4685,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "aabff789209ecaf436a40cb987f86eba85354458",
+    "title": "Anime Festival Asia Singapore 2025 Is Back - timeout.com",
+    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-11-24T08:00:00Z",
+    "summary": "Anime Festival Asia Singapore 2025 Is Back timeout",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "anime"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 5.913365651413533e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1634,7 +2010,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 7.888193441331401e-23,
+    "freshness_score": 7.525549037807737e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1719,7 +2095,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 8.650447945023692e-20,
+    "freshness_score": 8.251019976053511e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1732,322 +2108,6 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0288e1c88a8a2edf75eac99738b9f937e09266cc",
-    "title": "Tomak: Save the Earth Regeneration Temporarily Free",
-    "url": "https://www.siliconera.com/tomak-save-the-earth-regeneration-temporarily-free/?utm_source=rss&utm_medium=rss&utm_campaign=tomak-save-the-earth-regeneration-temporarily-free",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-02T21:00:00Z",
-    "summary": "In honor of the 25th anniversary of the simulation game Tomak: Save the Earth , a Regeneration version launched on Epic Game Store and is temporarily free",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.42254064094887644,
-    "home_score": 0.4631,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 16, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a99b3ef0e20fc1d4b90d711595ba76dc141d2cb3",
-    "title": "SEGA / Atlus hosting new Nintendo Switch 2 and Switch sale with Shinobi: Art of Vengeance, Yakuza, and more at new low prices - Nintendo Everything",
-    "url": "https://nintendoeverything.com/sega-atlus-hosting-new-nintendo-switch-2-and-switch-sale-with-shinobi-art-of-vengeance-yakuza-and-more-at-new-low-prices/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-03T17:29:02Z",
-    "summary": "SEGA / Atlus hosting new Nintendo Switch 2 and Switch sale with Shinobi: Art of Vengeance, Yakuza, and more at new low prices Nintendo Everything",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4665595982902347,
-    "home_score": 0.456,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dc008a6954e6d23a5135326acb30c9ef55a8bb2c",
-    "title": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network - ANTARA News",
-    "url": "https://en.antaranews.com/news/396685/kayou-debuts-at-singapore-comic-con-2025-deepening-distribution-network",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-16T08:00:00Z",
-    "summary": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network ANTARA News",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 9.486375165013891e-17,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e56e5fbfa312f2965b0d1238d0517bb83dd10607",
-    "title": "Asia Album: Singapore Comic Con celebrates pop culture - Xinhua",
-    "url": "https://english.news.cn/20251208/d7fb5ffad1fd4c75b2341eae261ad28c/c.html",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-08T08:00:00Z",
-    "summary": "Asia Album: Singapore Comic Con celebrates pop culture Xinhua",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 6.591460896654139e-18,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3ee2087f55c44b1cf81f1fca1944dce272df2635",
-    "title": "Mediacorp's Bloomr.sg runs booth on burnout, work-life balance at Singapore Comic Con - CNA",
-    "url": "https://www.channelnewsasia.com/watch/mediacorps-bloomrsg-runs-booth-burnout-work-life-balance-singapore-comic-con-5565646",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Mediacorp's Bloomr.sg runs booth on burnout, work-life balance at Singapore Comic Con - CNA is trending around singapore, sgcc.",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 4.722988136959803e-18,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "9adaeabe93c6ba9821df6f4acd97c15894548dfe",
-    "title": "Singapore Comic Con (SGCC) 2025 Showfloor Highlights! - Geek Culture",
-    "url": "https://geekculture.co/singapore-comic-con-sgcc-2025-showfloor-highlights/",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Singapore Comic Con (SGCC) 2025 Showfloor Highlights! Geek Culture",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 4.722988110994315e-18,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c3850432331999f88f3c8e66e8c8c9a87933e5da",
-    "title": "Things to do at Anime Fest Asia and Singapore Comic Con 2025, Digital News - AsiaOne",
-    "url": "https://www.asiaone.com/digital/anime-fest-asia-singapore-comic-con-2025",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-11-28T08:00:00Z",
-    "summary": "Things to do at Anime Fest Asia and Singapore Comic Con 2025, Digital News AsiaOne",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "anime",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 2.3514373113808647e-19,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "77684143cbf9551ab1d99fcfdc88bace786dbdf5",
-    "title": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss - TheSmartLocal",
-    "url": "https://thesmartlocal.com/read/singapore-comic-con-2025/",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-11-12T08:00:00Z",
-    "summary": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss TheSmartLocal",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 1.1352621781664503e-21,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "article"
   }

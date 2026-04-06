@@ -105,6 +105,18 @@ def build_sources(settings: Settings) -> list[BaseSource]:
     merch_query = quote_plus(
         '(anime merch OR pop-up OR collab cafe OR collectibles) Singapore'
     )
+    jrpg_demo_query = quote_plus(
+        'JRPG demo OR "playable demo" OR Atlus demo OR "turn-based RPG demo"'
+    )
+    hoyofest_query = quote_plus(
+        '"HoyoFest Singapore" OR "HoYo FEST" OR "Hoyo Fest" Singapore'
+    )
+    artist_alley_query = quote_plus(
+        '"artist alley" Singapore anime OR comic con creator booth'
+    )
+    anime_convention_query = quote_plus(
+        '"anime convention" Singapore OR "anime festival asia" OR "singapore comic con" OR "doujin market"'
+    )
     bandwagon_keywords = [
         "gaming",
         "esports",
@@ -244,6 +256,15 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             cleanup_mismatches=True,
         ),
         RssSource(
+            name="Google News JRPG Demo",
+            feed_url=f"https://news.google.com/rss/search?q={jrpg_demo_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.8,
+            category_hints=["games"],
+            include_keywords=["demo", "playable demo", "prologue demo", "trial", "jrpg"],
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
             name="Google News Anime And Manga",
             feed_url=f"https://news.google.com/rss/search?q={anime_query}&hl=en-SG&gl=SG&ceid=SG:en",
             quality=0.75,
@@ -270,6 +291,36 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             category_hints=["merch", "events"],
             region_hints=["Singapore"],
             include_keywords=google_news_include_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News HoyoFest",
+            feed_url=f"https://news.google.com/rss/search?q={hoyofest_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.79,
+            category_hints=["events", "gacha", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=["hoyo fest", "hoyofest", "artist alley"],
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News Artist Alley",
+            feed_url=f"https://news.google.com/rss/search?q={artist_alley_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.78,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=["artist alley", "anime festival asia", "afa", "singapore comic con", "sgcc", "hoyo fest", "hoyofest"],
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News Anime Conventions",
+            feed_url=f"https://news.google.com/rss/search?q={anime_convention_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.79,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=["anime convention", "anime conventions", "anime festival asia", "afa", "singapore comic con", "sgcc", "doujin market"],
             exclude_keywords=google_news_exclude_keywords,
             cleanup_mismatches=True,
         ),

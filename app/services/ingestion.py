@@ -64,6 +64,7 @@ class IngestionService:
         collected_by_key: dict[str, ArticleRecord] = {}
         errors: list[str] = []
         seen_urls: set[str] = set()
+        curated_urls_by_source: dict[str, set[str]] = {}
         source_runs: dict[str, dict[str, Any]] = {}
         logger.info(
             "Refresh ingest started: request_id=%s limit_per_source=%s source_count=%s",
@@ -83,11 +84,15 @@ class IngestionService:
             try:
                 fetched_items = source.fetch(limit=limit)[:limit]
                 source_runs[source.name]["fetched_count"] = len(fetched_items)
+                if source.source_type == "curated":
+                    curated_urls_by_source[source.name] = set()
                 for item in fetched_items:
                     if not source.matches(item):
                         continue
                     if not is_external_http_url(item.url):
                         continue
+                    if source.source_type == "curated":
+                        curated_urls_by_source[source.name].add(item.url)
                     if item.url in seen_urls:
                         continue
                     seen_urls.add(item.url)
@@ -114,6 +119,7 @@ class IngestionService:
 
         self.repository.upsert_articles(collected)
         self.vector_store.upsert_articles(collected)
+        stale_curated_ids = self.synchronize_curated_source_articles(curated_urls_by_source=curated_urls_by_source)
         canonicalized_articles, canonicalized_old_ids = self.canonicalize_google_news_wrapper_articles()
         duplicate_ids = self.repository.prune_duplicate_articles()
         mismatch_ids = self._prune_source_mismatches()
@@ -142,17 +148,51 @@ class IngestionService:
             "errors": errors,
         }
         logger.info(
-            "Refresh ingest completed: request_id=%s fetched=%s persisted=%s seed_used=%s errors=%s canonicalized=%s duplicates_pruned=%s mismatches_pruned=%s",
+            "Refresh ingest completed: request_id=%s fetched=%s persisted=%s seed_used=%s errors=%s canonicalized=%s stale_curated_pruned=%s duplicates_pruned=%s mismatches_pruned=%s",
             request_id or "none",
             result["fetched"],
             result["persisted"],
             seed_used,
             len(errors),
             len(canonicalized_old_ids),
+            len(stale_curated_ids),
             len(duplicate_ids),
             len(mismatch_ids),
         )
         return result
+
+    def synchronize_curated_source_articles(
+        self,
+        curated_urls_by_source: dict[str, set[str]] | None = None,
+        limit_per_source: int | None = None,
+    ) -> list[str]:
+        authoritative_sources = [source for source in self.sources if source.source_type == "curated"]
+        if not authoritative_sources:
+            return []
+
+        if curated_urls_by_source is None:
+            curated_urls_by_source = {}
+            current_articles: list[ArticleRecord] = []
+            fetch_limit = max(limit_per_source or self.settings.source_limit_per_feed, 200)
+            for source in authoritative_sources:
+                current_urls: set[str] = set()
+                for item in source.fetch(limit=fetch_limit)[:fetch_limit]:
+                    if not source.matches(item):
+                        continue
+                    if not is_external_http_url(item.url):
+                        continue
+                    current_urls.add(item.url)
+                    current_articles.append(self._to_article(source, item))
+                curated_urls_by_source[source.name] = current_urls
+
+            if current_articles:
+                self.repository.upsert_articles(current_articles)
+                self.vector_store.upsert_articles(current_articles)
+
+        deleted_ids = self._prune_stale_curated_source_articles(curated_urls_by_source)
+        if deleted_ids:
+            self.vector_store.delete_articles(deleted_ids)
+        return deleted_ids
 
     def canonicalize_google_news_wrapper_articles(self) -> tuple[list[ArticleRecord], list[str]]:
         canonicalized_articles, deleted_ids = self._canonicalize_google_news_wrapper_articles()
@@ -275,6 +315,19 @@ class IngestionService:
             if not source.matches(source_article):
                 delete_ids.append(article.id)
 
+        self.repository.delete_articles(delete_ids)
+        return delete_ids
+
+    def _prune_stale_curated_source_articles(self, curated_urls_by_source: dict[str, set[str]]) -> list[str]:
+        if not curated_urls_by_source:
+            return []
+
+        stored_articles = self.repository.list_articles_by_source_names(list(curated_urls_by_source))
+        delete_ids = [
+            article.id
+            for article in stored_articles
+            if article.url not in curated_urls_by_source.get(article.source_name, set())
+        ]
         self.repository.delete_articles(delete_ids)
         return delete_ids
 

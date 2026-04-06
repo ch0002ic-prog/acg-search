@@ -1,37 +1,37 @@
 [
 	{
-		"title": "Discover Poppa Events & Activities in Singapore, Singapore | Eventbrite",
-		"url": "https://www.eventbrite.sg/d/singapore--singapore/poppa/",
-		"published_at": "2026-04-06T12:00:00+00:00",
-		"summary": "External Eventbrite Singapore source page for POPPA searches, including POPPA, Moe Moe Q, and related Singapore event discovery.",
-		"content": "This source-backed Eventbrite Singapore page is used for POPPA and Moe Moe Q discovery when users search for specific Singapore event coverage.",
+		"title": "Moe Moe Q Singapore official profile for POPPA idol live updates",
+		"url": "https://www.instagram.com/moemoeq_sg/",
+		"published_at": "2025-01-15T12:00:00+00:00",
+		"summary": "Official Moe Moe Q Singapore profile covering POPPA idol live announcements, merch notices, and MMQ community updates.",
+		"content": "Official Moe Moe Q Singapore page for POPPA and MMQ updates, including idol live announcements, merch signing notes, and related Singapore event posts.",
 		"category_hints": ["events", "anime"],
 		"region_hints": ["Singapore"]
 	},
 	{
-		"title": "Discover Ani Idol Events & Activities in Singapore, Singapore | Eventbrite",
-		"url": "https://www.eventbrite.sg/d/singapore--singapore/ani-idol/",
-		"published_at": "2026-04-06T12:00:00+00:00",
-		"summary": "External Eventbrite Singapore source page for Ani-Idol and anisong-related event discovery in Singapore.",
-		"content": "This source-backed Eventbrite Singapore page covers Ani-Idol and anisong event discovery for Singapore searches.",
+		"title": "Ani-Idol Singapore official Instagram updates",
+		"url": "https://www.instagram.com/ani_idol_sg/",
+		"published_at": "2025-01-15T12:00:00+00:00",
+		"summary": "Official Ani-Idol Singapore page for anisong stage posts, cosplay idol showcases, and community event updates.",
+		"content": "Official Ani-Idol Singapore page covering anisong performances, idol showcases, cosplay stage posts, and related Singapore community updates.",
 		"category_hints": ["events", "anime"],
 		"region_hints": ["Singapore"]
 	},
 	{
-		"title": "Discover Hoyofest Events & Activities in Singapore, Singapore | Eventbrite",
-		"url": "https://www.eventbrite.sg/d/singapore--singapore/hoyofest/",
-		"published_at": "2026-04-06T12:00:00+00:00",
-		"summary": "External Eventbrite Singapore source page for HoyoFest and HoYoVerse-related event discovery in Singapore.",
-		"content": "This source-backed Eventbrite Singapore page is used for HoyoFest searches and related HoYoVerse event discovery in Singapore.",
+		"title": "HoYo FEST 2025 official Singapore event page",
+		"url": "https://act.hoyoverse.com/common/event/e20250528hoyofest-lfhecu/index.html?game_biz=hk4e_global",
+		"published_at": "2025-06-23T12:00:00+00:00",
+		"summary": "Official HoYo FEST page for Singapore fan activities, merch, artist alley participation, and HoYoVerse event details.",
+		"content": "Official HoYo FEST page for Singapore coverage, including merch, artist alley participation, themed activities, and HoYoVerse event details.",
 		"category_hints": ["events", "gacha", "merch"],
 		"region_hints": ["Singapore"]
 	},
 	{
-		"title": "Discover Artist Alley Events & Activities in Singapore, Singapore | Eventbrite",
-		"url": "https://www.eventbrite.sg/d/singapore--singapore/artist-alley/",
-		"published_at": "2026-04-06T12:00:00+00:00",
-		"summary": "External Eventbrite Singapore source page for artist alley and creator-booth event discovery in Singapore.",
-		"content": "This source-backed Eventbrite Singapore page is used for artist alley searches and related Singapore creator-market discovery.",
+		"title": "AFA Singapore 2025 official event page with creator and artist alley updates",
+		"url": "https://animefestival.asia/afasg25/",
+		"published_at": "2025-11-24T12:00:00+00:00",
+		"summary": "Official Anime Festival Asia Singapore page covering creator booths, artist alley activity, guests, and ticket information.",
+		"content": "Official Anime Festival Asia Singapore event page for creator booths, artist alley activity, guests, and related event information.",
 		"category_hints": ["events", "anime", "merch"],
 		"region_hints": ["Singapore"]
 	}
