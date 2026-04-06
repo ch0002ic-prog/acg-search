@@ -121,49 +121,6 @@
     "result_type": "event"
   },
   {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
     "id": "49c9342dbe832bb03cfc96556667f6912c58088b",
     "title": "Otaket 2026: Jumpstart",
     "url": "https://www.eventbrite.com/e/otaket-2026-jumpstart-tickets-1983777800804",
@@ -538,40 +495,83 @@
     "result_type": "event"
   },
   {
-    "id": "0d9d5fe4042985fe88809d11ff38b49f2570e999",
-    "title": "Boardgames",
-    "url": "https://www.eventbrite.sg/e/boardgames-tickets-1983709763302",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-05T00:00:00Z",
-    "summary": "Boardgames",
+    "id": "ab4b408e59e2411b2ecdf53ecf4c906181c769f1",
+    "title": "OT13 is here to stay: SEVENTEEN announce all 13 members have renewed contracts with PLEDIS Entertainment",
+    "url": "https://www.bandwagon.asia/articles/ot13-is-here-to-stay-seventeen-announce-all-13-members-have-renewed-contracts-with-pledis-entertainmen",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-06T04:05:00Z",
+    "summary": "As 2026 began with many idols leaving their groups, leaving fans in disappointment and desperation to get all their favourites on stage once again, SEVENTEEN has given fans a ray o",
     "content": "",
     "categories": [
-      "events",
       "games",
-      "esports"
+      "esports",
+      "anime",
+      "events"
     ],
-    "tags": [],
+    "tags": [
+      "idol"
+    ],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "Singapore",
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.8579847846498726,
-    "home_score": 0.7376,
-    "source_quality": 0.76,
-    "image_url": null,
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9670562109287067,
+    "home_score": 0.7932,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C332%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/OwVRN3oSasm7Aozhkxzg",
     "event_metadata": {
-      "event_type": "event",
-      "date_label": "5 Apr 2026",
-      "venue": "CT Hub 2",
+      "event_type": "concert",
+      "date_label": "5 April",
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/boardgames-tickets-1983709763302",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
+  },
+  {
+    "id": "d1e54f7a71df3ba8494f48a38e0239ce1c6b1368",
+    "title": "AiNA THE END unveils 'Luminous' music video, new opening theme for 'ONE PIECE' anime \u2014 watch",
+    "url": "https://www.bandwagon.asia/articles/aina-the-end-unveils-luminous-music-video-new-opening-theme-for-one-piece-anime-watch",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-06T02:58:00Z",
+    "summary": "AiNA THE END has unveiled the official music video for 'Luminous' , her latest single and the new opening theme for the Elbaf Arc of ONE PIECE",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9521735876713635,
+    "home_score": 0.7865,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C277%2C1094%2C547%5D/resize=w:1920/pjpg=q:90/compress/VrbrZ4WsR6Kpmufxffgt",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "5 April",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
   },
   {
     "id": "8a0e515b99ee00a4349825f1c70564cb83a8d0ef",
@@ -593,8 +593,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7512131110729974,
-    "home_score": 0.6975,
+    "freshness_score": 0.6899481327847765,
+    "home_score": 0.67,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -624,8 +624,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8855149140636788,
-    "home_score": 0.6715,
+    "freshness_score": 0.8524380242744654,
+    "home_score": 0.6566,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -649,8 +649,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9231006422241821,
-    "home_score": 0.6554,
+    "freshness_score": 0.8887329398789595,
+    "home_score": 0.6399,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -658,12 +658,12 @@
   },
   {
     "id": "d8fb16fcc99547fa8016cf92bdd110859846ac65",
-    "title": "6 Hardest Bosses in Final Fantasy Games - ComicBook.com",
+    "title": "6 Hardest Bosses in Final Fantasy Games - comicbook.com",
     "url": "https://comicbook.com/gaming/list/6-hardest-bosses-in-final-fantasy-games/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-05T20:00:00Z",
-    "summary": "6 Hardest Bosses in Final Fantasy Games ComicBook",
+    "summary": "6 Hardest Bosses in Final Fantasy Games comicbook",
     "content": "",
     "categories": [
       "games",
@@ -675,8 +675,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8977460071135143,
-    "home_score": 0.644,
+    "freshness_score": 0.8643222751004714,
+    "home_score": 0.6289,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -701,34 +701,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8147130364663427,
-    "home_score": 0.6396,
+    "freshness_score": 0.7842808301434219,
+    "home_score": 0.6259,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "23f73c1ba86e173ef1a6383f02d097ebaa889c49",
-    "title": "10 Biggest Final Fantasy Plot Twists Of All Time - ScreenRant",
-    "url": "https://screenrant.com/final-fantasy-biggest-plot-twists/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-05T02:00:00Z",
-    "summary": "10 Biggest Final Fantasy Plot Twists Of All Time ScreenRant",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8821449617656686,
-    "home_score": 0.637,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -751,8 +726,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8695447189568587,
-    "home_score": 0.6313,
+    "freshness_score": 0.8371709354881506,
+    "home_score": 0.6167,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -776,136 +751,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8377894612489108,
-    "home_score": 0.617,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7089c72cf155bff5620066f9d490738baa617542",
-    "title": "The Best Deals Today: Final Fantasy VII Remake Intergrade, Super Mario Galaxy + Super Mario Galaxy 2, and More - ign.com",
-    "url": "https://www.ign.com/articles/best-deals-for-april-4-2026",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T19:55:33Z",
-    "summary": "The Best Deals Today: Final Fantasy VII Remake Intergrade, Super Mario Galaxy + Super Mario Galaxy 2, and More ign",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8107769383031217,
-    "home_score": 0.6048,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "cb033c57fc8a64a03f7444e59af477af8eab18a1",
-    "title": "Southeast Asia launches national team-level esports competition - VnExpress International",
-    "url": "https://e.vnexpress.net/news/sports/other-sports/southeast-asia-launches-national-team-level-esports-competition-5057970.html",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-04-03T02:57:42Z",
-    "summary": "Southeast Asia launches national team-level esports competition VnExpress International",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 0.45899614077446393,
-    "home_score": 0.596,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1f6702210058a5e809bbb21c988dcfdd98f327ab",
-    "title": "Dissidia Duellum Final Fantasy Gift Codes Available Right Now - games.gg",
-    "url": "https://games.gg/news/dissidia-duellum-final-fantasy-gift-codes/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T17:15:11Z",
-    "summary": "Dissidia Duellum Final Fantasy Gift Codes Available Right Now games",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7812311356228776,
-    "home_score": 0.5916,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "381b9b45dbd23bffc9796c68c1a14ea961a48699",
-    "title": "Final Fantasy Isn\u2019t Appealing to Younger Players, and There\u2019s Only One Way to Fix That - ComicBook.com",
-    "url": "https://comicbook.com/gaming/feature/final-fantasy-isnt-appealing-to-younger-players-and-theres-only-one-way-to-fix-that/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T17:00:00Z",
-    "summary": "Final Fantasy Isn\u2019t Appealing to Younger Players, and There\u2019s Only One Way to Fix That ComicBook",
-    "content": "",
-    "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7784901914421525,
-    "home_score": 0.5903,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b6f4a08aa5a3906bb0d9aa2ada99b3dffd3d681c",
-    "title": "JRPG Akuma Rise coming to Switch May 7th, 2026 - GoNintendo",
-    "url": "https://gonintendo.com/contents/59606-jrpg-akuma-rise-coming-to-switch-may-7th-2026",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T16:39:09Z",
-    "summary": "JRPG Akuma Rise coming to Switch May 7th, 2026 GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7747419506160651,
-    "home_score": 0.5886,
+    "freshness_score": 0.8065979495267961,
+    "home_score": 0.603,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -936,8 +783,8 @@
       "SEA"
     ],
     "sg_relevance": 0.51,
-    "freshness_score": 0.403636921305885,
-    "home_score": 0.5596,
+    "freshness_score": 0.38856134361619854,
+    "home_score": 0.5529,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C41%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/jMhM5eu2TiKjih2yA2qi",
     "event_metadata": {
@@ -974,8 +821,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6344991395033808,
-    "home_score": 0.5585,
+    "freshness_score": 0.6107985147121913,
+    "home_score": 0.5479,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1000,36 +847,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.583767380409972,
-    "home_score": 0.5357,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dfe46f0ae3f892466033e065ed122a04e05f5df3",
-    "title": "Review: Homura: The Crimson Warriors Is Another IFI Historical Otome",
-    "url": "https://www.siliconera.com/review-homura-the-crimson-warriors-is-another-ifi-historical-otome/?utm_source=rss&utm_medium=rss&utm_campaign=review-homura-the-crimson-warriors-is-another-ifi-historical-otome",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-03T13:00:00Z",
-    "summary": "Idea Factory and Otomate are pretty great about releasing different types of otome visual novels that cover various themes, and they\u2019re well known for their historical ones",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.5276894079956083,
-    "home_score": 0.5305,
+    "freshness_score": 0.5619617528363207,
+    "home_score": 0.5259,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1055,8 +874,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.37971765754918496,
-    "home_score": 0.5304,
+    "freshness_score": 0.36561389726180543,
+    "home_score": 0.524,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -1069,33 +888,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "e91ff5faaa59f1a2661058c4f8e8f445c768b65e",
-    "title": "Inaugural SEA Esports Nations Cup set for Vietnam - VOV",
-    "url": "https://english.vov.vn/en/sports/inaugural-sea-esports-nations-cup-set-for-vietnam-post1280927.vov",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-04-03T04:27:03Z",
-    "summary": "Inaugural SEA Esports Nations Cup set for Vietnam VOV",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.3713510645173939,
-    "home_score": 0.5266,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1127,7 +919,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.239930399367815e-125,
+    "freshness_score": 1.1939771350809356e-125,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -1172,7 +964,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.6982569151528962e-136,
+    "freshness_score": 1.6353175369080456e-136,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -1214,7 +1006,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 2.506036907193863e-178,
+    "freshness_score": 2.4132171039989788e-178,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -1228,32 +1020,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "d39603ea776f94885282729ba3964e89e9b02235",
-    "title": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted - PC Gamer",
-    "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-variant-dungeon-is-so-good-it-deserves-better-the-mmo-needs-to-figure-out-its-rewards-so-all-this-great-work-isnt-wasted/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T15:00:00Z",
-    "summary": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted PC Gamer",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6001078732611883,
-    "home_score": 0.516,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1281,7 +1047,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 6.24826173744283e-20,
+    "freshness_score": 6.018425530193704e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -1296,6 +1062,57 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "b6f4a08aa5a3906bb0d9aa2ada99b3dffd3d681c",
+    "title": "JRPG Akuma Rise coming to Switch May 7th, 2026 - GoNintendo",
+    "url": "https://gonintendo.com/contents/59606-jrpg-akuma-rise-coming-to-switch-may-7th-2026",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-04T16:39:09Z",
+    "summary": "JRPG Akuma Rise coming to Switch May 7th, 2026 GoNintendo",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.591179274136746,
+    "home_score": 0.506,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d39603ea776f94885282729ba3964e89e9b02235",
+    "title": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted - PC Gamer",
+    "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-variant-dungeon-is-so-good-it-deserves-better-the-mmo-needs-to-figure-out-its-rewards-so-all-this-great-work-isnt-wasted/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-04T15:00:00Z",
+    "summary": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted PC Gamer",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5777654194713134,
+    "home_score": 0.506,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0b3ad17a0b4ef122d5774c89c5f79a7fb7133d0d",
@@ -1322,7 +1139,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 4.504219007197781e-18,
+    "freshness_score": 4.337674354759693e-18,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1363,7 +1180,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 7.512541662329297e-131,
+    "freshness_score": 7.234767989322694e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1381,12 +1198,12 @@
   },
   {
     "id": "7340afc59dfb95c9f051ee2017fbee8ba66b5d16",
-    "title": "New Turn-Based RPGs To Play \u2013 April 4, 2026 - turnbasedlovers.com",
+    "title": "New Turn-Based RPGs To Play \u2013 April 4, 2026 - Turn Based Lovers",
     "url": "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-april-4-2026/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-04T11:03:26Z",
-    "summary": "New Turn-Based RPGs To Play \u2013 April 4, 2026 turnbasedlovers",
+    "summary": "New Turn-Based RPGs To Play \u2013 April 4, 2026 Turn Based Lovers",
     "content": "",
     "categories": [
       "games"
@@ -1397,8 +1214,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.5681290546951129,
-    "home_score": 0.4957,
+    "freshness_score": 0.5469772010052709,
+    "home_score": 0.4861,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -1436,109 +1253,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.43608442823454296,
-    "home_score": 0.4892,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9b219ab492444a4e38273ad8b3150367a86782d0",
-    "title": "Cover Will Pull Back and End Some Holostars Male Vtubers Support",
-    "url": "https://www.siliconera.com/cover-will-pull-back-and-end-some-holostars-male-vtubers-support/?utm_source=rss&utm_medium=rss&utm_campaign=cover-will-pull-back-and-end-some-holostars-male-vtubers-support",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-03T15:00:00Z",
-    "summary": "Cover announced that, while it will support \u201cindividual activities,\u201d it will be pulling back on support of its Holostars male Vtubers",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.4300695633259214,
-    "home_score": 0.4865,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c5d2ecbc2e29fe029ef6c0ddf1b5699f7e39ab56",
-    "title": "New Huzzle Legend of Zelda Puzzle Features Addison and Hudson\u2019s Sign",
-    "url": "https://www.siliconera.com/new-huzzle-legend-of-zelda-puzzle-features-addison-and-hudsons-sign/?utm_source=rss&utm_medium=rss&utm_campaign=new-huzzle-legend-of-zelda-puzzle-features-addison-and-hudsons-sign",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-03T21:00:00Z",
-    "summary": "Hanayama announced two new The Legend of Zelda Huzzle metal puzzles, and they feature the Hylian Shield and Addison holding up the Hudson Construction sign",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.46744437011330847,
-    "home_score": 0.4833,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 25, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "12f7e8d4579e52f0784c0798c5fc74607b3f723d",
-    "title": "Dragon Quest Metal Slime Computer Mouse Returns With Bubble Slime",
-    "url": "https://www.siliconera.com/dragon-quest-metal-slime-computer-mouse-returns-with-bubble-slime/?utm_source=rss&utm_medium=rss&utm_campaign=dragon-quest-metal-slime-computer-mouse-returns-with-bubble-slime",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-03T20:00:00Z",
-    "summary": "Square Enix and Taito announced that the Dragon Quest Bubble Slime computer mouse will come back again in Japan, and this time it will be joined by a Bubble Slime variant",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Dragon Quest"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.46099696151568553,
-    "home_score": 0.4804,
+    "freshness_score": 0.41979524297155213,
+    "home_score": 0.4819,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1572,7 +1288,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 4.377627414510712e-51,
+    "freshness_score": 4.215486745325049e-51,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -1589,39 +1305,79 @@
     "result_type": "article"
   },
   {
-    "id": "206b068cafb4986b4f010c488d4f5a74f1105a5d",
-    "title": "US FFXIV Fan Festival 2026 Schedule Shared",
-    "url": "https://www.siliconera.com/us-ffxiv-fan-festival-2026-schedule-shared/?utm_source=rss&utm_medium=rss&utm_campaign=us-ffxiv-fan-festival-2026-schedule-shared",
+    "id": "9b219ab492444a4e38273ad8b3150367a86782d0",
+    "title": "Cover Will Pull Back and End Some Holostars Male Vtubers Support",
+    "url": "https://www.siliconera.com/cover-will-pull-back-and-end-some-holostars-male-vtubers-support/?utm_source=rss&utm_medium=rss&utm_campaign=cover-will-pull-back-and-end-some-holostars-male-vtubers-support",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-03T19:00:00Z",
-    "summary": "Square Enix announced the full stage and stream schedule for the US installment of the FFXIV Fan Festival 2026, and as usual it involves a keynote with Director and Producer Naoki",
+    "published_at": "2026-04-03T15:00:00Z",
+    "summary": "Cover announced that, while it will support \u201cindividual activities,\u201d it will be pulling back on support of its Holostars male Vtubers",
     "content": "",
     "categories": [
       "games",
       "anime",
       "merch",
-      "events"
+      "events",
+      "gacha"
     ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "FFXIV Fan Festival"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.45463848077466557,
-    "home_score": 0.4776,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.4140050527325634,
+    "home_score": 0.4793,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": "concert",
-      "date_label": "April 24, 2026",
+      "date_label": null,
       "venue": null,
-      "ticket_status": "Sold out",
+      "ticket_status": null,
       "ticket_url": null,
-      "guest_status": "Guest lineup mentioned",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
+    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - alvinology.com",
+    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup alvinology",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 4.337707048697621e-18,
+    "home_score": 0.477,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
@@ -1654,7 +1410,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.312712444895527e-18,
+    "freshness_score": 2.2270530724917305e-18,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1697,7 +1453,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.1873861467333367e-18,
+    "freshness_score": 1.1434071684765248e-18,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1741,7 +1497,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.719288549819471e-176,
+    "freshness_score": 3.581531756698918e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1784,7 +1540,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.7192885361589686e-176,
+    "freshness_score": 3.581531732905152e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1801,13 +1557,13 @@
     "result_type": "article"
   },
   {
-    "id": "74dd0524e0c1c0629f78f203c0a1234000198df5",
-    "title": "Ufotable and Production IG Working on Tales of Character Illustrations",
-    "url": "https://www.siliconera.com/ufotable-and-production-ig-working-on-tales-of-character-illustrations/?utm_source=rss&utm_medium=rss&utm_campaign=ufotable-and-production-ig-working-on-tales-of-character-illustrations",
+    "id": "c5d2ecbc2e29fe029ef6c0ddf1b5699f7e39ab56",
+    "title": "New Huzzle Legend of Zelda Puzzle Features Addison and Hudson\u2019s Sign",
+    "url": "https://www.siliconera.com/new-huzzle-legend-of-zelda-puzzle-features-addison-and-hudsons-sign/?utm_source=rss&utm_medium=rss&utm_campaign=new-huzzle-legend-of-zelda-puzzle-features-addison-and-hudsons-sign",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-03T18:00:00Z",
-    "summary": "Back in February 2026 , Ufotable teased an announcement related to the Tales of series and its 30th anniversary, however it turns out it is working with Production IG on 188 charac",
+    "published_at": "2026-04-03T21:00:00Z",
+    "summary": "Hanayama announced two new The Legend of Zelda Huzzle metal puzzles, and they feature the Hylian Shield and Addison holding up the Hudson Construction sign",
     "content": "",
     "categories": [
       "games",
@@ -1819,13 +1575,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4483677026684092,
-    "home_score": 0.4748,
+    "freshness_score": 0.4499837881369065,
+    "home_score": 0.4755,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "April 3, 2026",
+      "date_label": "April 25, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1836,13 +1592,13 @@
     "result_type": "article"
   },
   {
-    "id": "51933eb61e6aa9b7dbf80ee63898a70660179e03",
-    "title": "Here\u2019s How to Unlock Royal Monsters in Monster Hunter Stories 3",
-    "url": "https://www.siliconera.com/heres-how-to-unlock-royal-monsters-in-monster-hunter-stories-3/?utm_source=rss&utm_medium=rss&utm_campaign=heres-how-to-unlock-royal-monsters-in-monster-hunter-stories-3",
+    "id": "12f7e8d4579e52f0784c0798c5fc74607b3f723d",
+    "title": "Dragon Quest Metal Slime Computer Mouse Returns With Bubble Slime",
+    "url": "https://www.siliconera.com/dragon-quest-metal-slime-computer-mouse-returns-with-bubble-slime/?utm_source=rss&utm_medium=rss&utm_campaign=dragon-quest-metal-slime-computer-mouse-returns-with-bubble-slime",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-03T17:00:00Z",
-    "summary": "While there\u2019s still some time before the Monster Hunter Stories 3 free update with post-game Royal Monsters, Capcom already explained how to unlock them in-game",
+    "published_at": "2026-04-03T20:00:00Z",
+    "summary": "Square Enix and Taito announced that the Dragon Quest Bubble Slime computer mouse will come back again in Japan, and this time it will be joined by a Bubble Slime variant",
     "content": "",
     "categories": [
       "games",
@@ -1850,53 +1606,55 @@
       "merch",
       "events"
     ],
-    "tags": [],
-    "entity_tags": [],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.442183415137412,
-    "home_score": 0.472,
+    "freshness_score": 0.44377721122561126,
+    "home_score": 0.4727,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "5d1286a9c1aef293db7daea28607eb4964cccb35",
-    "title": "Anime Festival Asia 2013 - whiteboardjournal.com",
-    "url": "https://whiteboardjournal.com/events/event/9496/",
-    "source_name": "Google News SG Events",
+    "id": "206b068cafb4986b4f010c488d4f5a74f1105a5d",
+    "title": "US FFXIV Fan Festival 2026 Schedule Shared",
+    "url": "https://www.siliconera.com/us-ffxiv-fan-festival-2026-schedule-shared/?utm_source=rss&utm_medium=rss&utm_campaign=us-ffxiv-fan-festival-2026-schedule-shared",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2025-12-02T22:24:07Z",
-    "summary": "Anime Festival Asia 2013 whiteboardjournal",
+    "published_at": "2026-04-03T19:00:00Z",
+    "summary": "Square Enix announced the full stage and stream schedule for the US installment of the FFXIV Fan Festival 2026, and as usual it involves a keynote with Director and Producer Naoki",
     "content": "",
     "categories": [
-      "events",
+      "games",
+      "anime",
       "merch",
-      "esports",
-      "anime"
+      "events"
     ],
     "tags": [
-      "afa"
+      "jrpg"
     ],
     "entity_tags": [
-      "AFA Singapore"
+      "FFXIV Fan Festival"
     ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.3114882556805543e-18,
-    "home_score": 0.4685,
-    "source_quality": 0.74,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.43765624040519746,
+    "home_score": 0.4699,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
+      "event_type": "concert",
+      "date_label": "April 24, 2026",
       "venue": null,
-      "ticket_status": null,
+      "ticket_status": "Sold out",
       "ticket_url": null,
-      "guest_status": null,
+      "guest_status": "Guest lineup mentioned",
       "guest_names": [],
       "merch_status": null
     },
@@ -1927,7 +1685,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.130825576805604e-19,
+    "freshness_score": 3.01414288677927e-19,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1945,12 +1703,12 @@
   },
   {
     "id": "aabff789209ecaf436a40cb987f86eba85354458",
-    "title": "Anime Festival Asia Singapore 2025 Is Back - timeout.com",
+    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
     "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-11-24T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 Is Back timeout",
+    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
     "content": "",
     "categories": [
       "events",
@@ -1969,7 +1727,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 5.913365651413533e-20,
+    "freshness_score": 5.692980520950246e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -2010,7 +1768,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 7.525549037807737e-23,
+    "freshness_score": 7.245079466067595e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -2054,13 +1812,48 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 9.027921272784881e-29,
+    "freshness_score": 8.291886778541302e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
       "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "74dd0524e0c1c0629f78f203c0a1234000198df5",
+    "title": "Ufotable and Production IG Working on Tales of Character Illustrations",
+    "url": "https://www.siliconera.com/ufotable-and-production-ig-working-on-tales-of-character-illustrations/?utm_source=rss&utm_medium=rss&utm_campaign=ufotable-and-production-ig-working-on-tales-of-character-illustrations",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-03T18:00:00Z",
+    "summary": "Back in February 2026 , Ufotable teased an announcement related to the Tales of series and its 30th anniversary, however it turns out it is working with Production IG on 188 charac",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.43161969624906055,
+    "home_score": 0.4672,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 3, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -2095,7 +1888,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 8.251019976053511e-20,
+    "freshness_score": 7.944900697410185e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -2109,6 +1902,288 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "51933eb61e6aa9b7dbf80ee63898a70660179e03",
+    "title": "Here\u2019s How to Unlock Royal Monsters in Monster Hunter Stories 3",
+    "url": "https://www.siliconera.com/heres-how-to-unlock-royal-monsters-in-monster-hunter-stories-3/?utm_source=rss&utm_medium=rss&utm_campaign=heres-how-to-unlock-royal-monsters-in-monster-hunter-stories-3",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-03T17:00:00Z",
+    "summary": "While there\u2019s still some time before the Monster Hunter Stories 3 free update with post-game Royal Monsters, Capcom already explained how to unlock them in-game",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.42566641278303174,
+    "home_score": 0.4645,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6dd131396e46fb2de1be7a5caa9616001b821018",
+    "title": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 - THE MAGIC RAIN",
+    "url": "https://themagicrain.com/2025/11/muse-brings-exclusive-anime-deals-and-merchandise-to-afasg-2025/",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2025-11-29T08:00:00Z",
+    "summary": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 THE MAGIC RAIN",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7799999999999999,
+    "freshness_score": 3.013965848086482e-19,
+    "home_score": 0.4635,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6b7de4371ec4c9f86ae4ac822aff2f6cf9b50e49",
+    "title": "Hoyo Fest 2026 dates and venue announced for Southeast Asia - GosuGamers",
+    "url": "https://www.gosugamers.net/entertainment/news/78149-hoyo-fest-2026-dates-and-venue-announced-for-southeast-asia",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2026-03-19T05:32:16Z",
+    "summary": "Hoyo Fest 2026 dates and venue announced for Southeast Asia GosuGamers",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "games"
+    ],
+    "tags": [
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 0.002445813197281533,
+    "home_score": 0.4621,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "09702cde187ac313193d9a4c72cb5dfce7ba6195",
+    "title": "HoYo FEST 2025 Returns Across Southeast Asia | Outlook Respawn - Outlook Respawn",
+    "url": "https://respawn.outlookindia.com/gaming/gaming-news/hoyo-fest-2025-returns-across-southeast-asia",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-08-13T07:00:00Z",
+    "summary": "HoYo FEST 2025 Returns Across Southeast Asia | Outlook Respawn Outlook Respawn",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "games"
+    ],
+    "tags": [
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 6.894628344942948e-35,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "acf63b8f1147e951d7371bc0759991793c5eb583",
+    "title": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention - The Straits Times",
+    "url": "https://www.straitstimes.com/life/entertainment/from-passion-to-product-artist-alley-kicks-off-at-sold-out-hoyo-fest-convention",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-07-26T07:00:00Z",
+    "summary": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention The Straits Times",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 1.7090075221925908e-37,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5580feb3dbd688be1d9ee15682340476816cc749",
+    "title": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out - Geek Culture",
+    "url": "https://geekculture.co/3-day-hoyofest-singapore-2025-debuts-artist-alley-tickets-all-sold-out/",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-07-26T07:00:00Z",
+    "summary": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 1.7090075037047194e-37,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": "Sold out",
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "de80fabb60503609dd9bcd007a68314f9b043406",
+    "title": "HoYo FEST 2025 returns for its 5th year with new Artist Alley, immersive activities, exclusive merch and more - Confirm Good",
+    "url": "https://confirmgood.com/post/hoyo-fest-suntec-city/",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-06-30T07:00:00Z",
+    "summary": "HoYo FEST 2025 returns for its 5th year with new Artist Alley, immersive activities, exclusive merch and more Confirm Good",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 2.9434622050497043e-41,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "628a36a8ce260e2b21df6551772f4303e4f832c9",
+    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - SME & Entrepreneurship Magazine",
+    "url": "https://sme.asia/hoyo-fest-2025-southeast-asias-most-anticipated-hoyoverse-event-returns-this-july/",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-05-30T07:00:00Z",
+    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! SME & Entrepreneurship Magazine",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "hoyofest",
+      "hoyoverse"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 9.57522116799947e-46,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   }
 ]
