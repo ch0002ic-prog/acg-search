@@ -50,9 +50,11 @@ def article_preference_signature(article: "ArticleRecord") -> tuple[float, ...]:
     normalized_title = normalize_title(strip_text(unicodedata.normalize("NFKC", article.title)))
     canonical_title = article_dedupe_key(article)
     is_title_variant = 1.0 if normalized_title != canonical_title else 0.0
+    prefers_non_placeholder_url = 0.0 if "example.com" in strip_text(article.url).lower() else 1.0
     prefers_direct_source = 0.0 if article.source_name.lower().startswith("google news") else 1.0
 
     return (
+        prefers_non_placeholder_url,
         prefers_direct_source,
         1.0 - is_title_variant,
         float(article.source_quality),

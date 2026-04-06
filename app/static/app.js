@@ -316,6 +316,62 @@ function writeRouteState({ query = currentRouteQuery(), entity = currentRouteEnt
   }
 }
 
+function coverageQueryFromHref(href) {
+  if (!href) {
+    return "";
+  }
+
+  try {
+    const url = new URL(href, window.location.origin);
+    if (url.origin !== window.location.origin || url.pathname !== "/") {
+      return "";
+    }
+    return url.searchParams.get("query")?.trim() || "";
+  } catch {
+    return "";
+  }
+}
+
+function resolveArticleHref(item) {
+  return item.event_metadata?.ticket_url || item.url;
+}
+
+function configureArticleLink(link, item, label = "") {
+  const href = resolveArticleHref(item);
+  const coverageQuery = coverageQueryFromHref(href);
+
+  link.href = href;
+  link.dataset.articleId = item.id;
+
+  if (coverageQuery) {
+    link.dataset.coverageQuery = coverageQuery;
+    link.target = "_self";
+    link.removeAttribute("rel");
+  } else {
+    delete link.dataset.coverageQuery;
+    link.target = "_blank";
+    link.rel = "noreferrer";
+  }
+
+  if (label) {
+    link.textContent = label;
+  }
+}
+
+function articleLinkLabel(item) {
+  const href = resolveArticleHref(item);
+  if (coverageQueryFromHref(href) || item.source_type === "curated" || item.source_type === "seed") {
+    return "Open coverage";
+  }
+  if (item.event_metadata?.ticket_url) {
+    return "Open tickets";
+  }
+  if (item.source_type === "event_listing") {
+    return "Open event";
+  }
+  return "Open story";
+}
+
 function groupFeedEntries(items, groups) {
   const groupMap = new Map((groups || []).map((group) => [group.name, group]));
   const collapsibleEntities = new Set((groups || []).filter((group) => group.count >= 2).map((group) => group.name));
@@ -862,10 +918,7 @@ function renderEntityGroups(groups, items) {
     relatedItems.forEach((item) => {
       const link = document.createElement("a");
       link.className = "cluster-link";
-      link.href = item.url;
-      link.target = "_blank";
-      link.rel = "noreferrer";
-      link.dataset.articleId = item.id;
+      configureArticleLink(link, item);
       link.textContent = item.title;
       relatedList.appendChild(link);
     });
@@ -1091,11 +1144,7 @@ function renderClusterDetail(entityName, items, group, statusText = "") {
 
     const readLink = document.createElement("a");
     readLink.className = "read-link cluster-detail-link";
-    readLink.href = item.event_metadata?.ticket_url || item.url;
-    readLink.target = "_blank";
-    readLink.rel = "noreferrer";
-    readLink.dataset.articleId = item.id;
-    readLink.textContent = item.event_metadata?.ticket_url ? "Open tickets" : item.source_type === "event_listing" ? "Open event" : "Open story";
+    configureArticleLink(readLink, item, articleLinkLabel(item));
 
     footer.append(scoreMeter, readLink);
     article.append(topline, title, summary);
@@ -1234,10 +1283,7 @@ function renderClusterCard(entry) {
   items.forEach((item) => {
     const link = document.createElement("a");
     link.className = "cluster-link";
-    link.href = item.url;
-    link.target = "_blank";
-    link.rel = "noreferrer";
-    link.dataset.articleId = item.id;
+    configureArticleLink(link, item);
     link.textContent = `${item.title} · ${item.source_name}`;
     links.appendChild(link);
   });
@@ -1282,11 +1328,7 @@ function renderClusterCard(entry) {
 
   const readLink = document.createElement("a");
   readLink.className = "read-link";
-  readLink.href = leadItem.url;
-  readLink.target = "_blank";
-  readLink.rel = "noreferrer";
-  readLink.dataset.articleId = leadItem.id;
-  readLink.textContent = "Open lead story";
+  configureArticleLink(readLink, leadItem, articleLinkLabel(leadItem));
 
   footer.append(scoreMeter, readLink);
   body.append(leadSummary, links, actions, footer);
@@ -1328,9 +1370,7 @@ function renderCards(items, groups = []) {
     const scoreFill = fragment.querySelector(".score-fill");
     scoreFill.style.width = `${Math.max(0.12, Math.min(item.sg_relevance || 0, 1)) * 100}%`;
 
-    link.href = item.url;
-    link.dataset.articleId = item.id;
-    link.textContent = item.source_type === "event_listing" ? "Open event" : "Open story";
+    configureArticleLink(link, item, articleLinkLabel(item));
 
     fragment.querySelectorAll(".signal-button").forEach((button) => {
       button.dataset.articleId = item.id;

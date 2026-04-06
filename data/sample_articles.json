@@ -2,7 +2,7 @@
   {
     "id": "sample-afa-watchlist",
     "title": "Sample: AFA Singapore watchlist points fans toward ticket timing, merch lines, and artist alley planning",
-    "url": "https://example.com/afa-singapore-watchlist",
+    "url": "/?query=AFA%20Singapore",
     "source_name": "Prototype Seed",
     "source_type": "seed",
     "published_at": "2026-04-05T08:00:00+00:00",
@@ -20,7 +20,7 @@
   {
     "id": "sample-mlbb-qualifier",
     "title": "Sample: MLBB weekend qualifiers gain traction with Singapore campus teams and community brackets",
-    "url": "https://example.com/mlbb-singapore-qualifiers",
+    "url": "/?query=MLBB%20qualifiers",
     "source_name": "Prototype Seed",
     "source_type": "seed",
     "published_at": "2026-04-05T07:10:00+00:00",
@@ -38,7 +38,7 @@
   {
     "id": "sample-hoyofest-merch",
     "title": "Sample: HoyoFest-style merch drop guide focuses on budgeting, queue time, and bundle picks in SGD",
-    "url": "https://example.com/hoyofest-merch-guide",
+    "url": "/?query=HoyoFest%20Singapore",
     "source_name": "Prototype Seed",
     "source_type": "seed",
     "published_at": "2026-04-05T06:40:00+00:00",
@@ -56,7 +56,7 @@
   {
     "id": "sample-jrpg-demo",
     "title": "Sample: New JRPG demo roundup filters upcoming releases by story tone, combat feel, and console availability",
-    "url": "https://example.com/jrpg-demo-roundup",
+    "url": "/?query=new%20JRPG%20demo",
     "source_name": "Prototype Seed",
     "source_type": "seed",
     "published_at": "2026-04-05T05:50:00+00:00",
@@ -74,7 +74,7 @@
   {
     "id": "sample-donghua-screening",
     "title": "Sample: Donghua screening night concept highlights growing crossover demand among Singapore anime communities",
-    "url": "https://example.com/donghua-screening-night",
+    "url": "/?query=donghua%20singapore",
     "source_name": "Prototype Seed",
     "source_type": "seed",
     "published_at": "2026-04-05T04:55:00+00:00",
@@ -92,7 +92,7 @@
   {
     "id": "sample-comic-con-indie",
     "title": "Sample: Singapore comic convention prototype spotlights indie creators, zines, and small press pickups",
-    "url": "https://example.com/singapore-comic-con-indie",
+    "url": "/?query=SGCC%20guests",
     "source_name": "Prototype Seed",
     "source_type": "seed",
     "published_at": "2026-04-05T03:45:00+00:00",

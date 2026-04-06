@@ -147,6 +147,38 @@ class DeduplicationTests(unittest.TestCase):
         self.assertEqual(len(items), 1)
         self.assertEqual(items[0].title, "Manga Drawing - Art Workshop Experience 动漫绘画工作坊")
 
+    def test_prune_duplicate_articles_prefers_non_placeholder_url(self) -> None:
+        now = datetime.now(timezone.utc)
+        self.repository.upsert_articles(
+            [
+                self.make_article(
+                    article_id="placeholder-curated",
+                    title="HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
+                    url="https://example.com/curated/hoyofest-singapore-watch",
+                    source_name="Curated SG Search Watch",
+                    source_type="curated",
+                    published_at=now,
+                    summary="Curated Singapore watch entry for HoyoFest coverage.",
+                ),
+                self.make_article(
+                    article_id="internal-curated",
+                    title="HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
+                    url="/?query=HoyoFest%20Singapore",
+                    source_name="Curated SG Search Watch",
+                    source_type="curated",
+                    published_at=now,
+                    summary="Curated Singapore watch entry for HoyoFest coverage.",
+                ),
+            ]
+        )
+
+        deleted_ids = self.repository.prune_duplicate_articles()
+        items = self.repository.latest_articles(limit=10)
+
+        self.assertEqual(deleted_ids, ["placeholder-curated"])
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].url, "/?query=HoyoFest%20Singapore")
+
     def test_prune_duplicate_articles_remaps_interactions_to_keeper(self) -> None:
         now = datetime.now(timezone.utc)
         self.repository.upsert_articles(

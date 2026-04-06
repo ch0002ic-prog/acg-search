@@ -1,8 +1,8 @@
 [
   {
-    "id": "b70d8f49fb1fbe396303c01af8bbaa8d095b208e",
+    "id": "4a74252d9b4573461920d143d9a1c05ad4e38136",
     "title": "Artist Alley Singapore watch for Anime Festival Asia and SGCC creator booths",
-    "url": "https://example.com/curated/artist-alley-singapore-watch",
+    "url": "/?query=artist%20alley%20singapore",
     "source_name": "Curated SG Search Watch",
     "source_type": "curated",
     "published_at": "2026-04-06T12:00:00Z",
@@ -84,9 +84,9 @@
     }
   },
   {
-    "id": "018384c84c7f8fc82a61ee4c54f0a004dea3c470",
+    "id": "c1e6a30dc54a98420e522f7ff6c80bd6396a76f1",
     "title": "HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
-    "url": "https://example.com/curated/hoyofest-singapore-watch",
+    "url": "/?query=HoyoFest%20Singapore",
     "source_name": "Curated SG Search Watch",
     "source_type": "curated",
     "published_at": "2026-04-06T12:00:00Z",
@@ -627,8 +627,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7531262568858058,
-    "home_score": 0.6984,
+    "freshness_score": 0.7512131110729974,
+    "home_score": 0.6975,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null
@@ -657,8 +657,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9304560753972676,
-    "home_score": 0.6917,
+    "freshness_score": 0.9280996288972151,
+    "home_score": 0.6906,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null
@@ -681,8 +681,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9700940003762,
-    "home_score": 0.6765,
+    "freshness_score": 0.9676297316124111,
+    "home_score": 0.6754,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null
@@ -706,8 +706,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9434486060783654,
-    "home_score": 0.6646,
+    "freshness_score": 0.9410520215902161,
+    "home_score": 0.6635,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null
@@ -731,8 +731,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.856060902340025,
-    "home_score": 0.6582,
+    "freshness_score": 0.8538928663817619,
+    "home_score": 0.6573,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null
@@ -755,8 +755,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9138116328428388,
-    "home_score": 0.6512,
+    "freshness_score": 0.911490335638977,
+    "home_score": 0.6502,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null
@@ -803,8 +803,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8804397732275108,
-    "home_score": 0.6362,
+    "freshness_score": 0.8782032455089257,
+    "home_score": 0.6352,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null
@@ -989,8 +989,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6667008911398659,
-    "home_score": 0.573,
+    "freshness_score": 0.6650124227013119,
+    "home_score": 0.5723,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null
@@ -1020,8 +1020,8 @@
       "SEA"
     ],
     "sg_relevance": 0.51,
-    "freshness_score": 0.42412270248004513,
-    "home_score": 0.5689,
+    "freshness_score": 0.42304845587543277,
+    "home_score": 0.5684,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C41%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/jMhM5eu2TiKjih2yA2qi",
     "event_metadata": {
@@ -1054,16 +1054,16 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6133944219846049,
-    "home_score": 0.549,
+    "freshness_score": 0.6118409556809775,
+    "home_score": 0.5483,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null
   },
   {
-    "id": "e4b47ac2074ba0c649513c4d37109dbc7243541d",
+    "id": "d56be2a3d7b173a5585311959b690caa38d6b6eb",
     "title": "POPPA by Moe Moe Q Singapore idol live watch",
-    "url": "https://example.com/curated/poppa-mmq-singapore-idol-live",
+    "url": "/?query=POPPA%20Singapore",
     "source_name": "Curated SG Search Watch",
     "source_type": "curated",
     "published_at": "2026-04-01T12:00:00Z",
@@ -1086,8 +1086,8 @@
       "SEA"
     ],
     "sg_relevance": 0.71,
-    "freshness_score": 0.22254349757848463,
-    "home_score": 0.5476,
+    "freshness_score": 0.22197978783291253,
+    "home_score": 0.5474,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null
@@ -1112,8 +1112,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.3902994278269605,
-    "home_score": 0.5351,
+    "freshness_score": 0.38930796096240167,
+    "home_score": 0.5347,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null
@@ -1164,16 +1164,16 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6306582554702291,
-    "home_score": 0.5298,
+    "freshness_score": 0.6290562333527412,
+    "home_score": 0.5291,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null
   },
   {
-    "id": "d1013d172e0bf98ea5935c80e2558cc7b8cab31e",
+    "id": "358a3fbcd27b445c476413a561e65e14b9094358",
     "title": "Ani-Idol Singapore anisong stage watch",
-    "url": "https://example.com/curated/ani-idol-singapore-stage-watch",
+    "url": "/?query=Ani-Idol%20Singapore",
     "source_name": "Curated SG Search Watch",
     "source_type": "curated",
     "published_at": "2026-04-01T12:00:00Z",
@@ -1196,8 +1196,8 @@
       "SEA"
     ],
     "sg_relevance": 0.57,
-    "freshness_score": 0.22254349717237706,
-    "home_score": 0.5126,
+    "freshness_score": 0.22197978742612087,
+    "home_score": 0.5124,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null
@@ -1225,8 +1225,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.4582163471831914,
-    "home_score": 0.4992,
+    "freshness_score": 0.45705587968541506,
+    "home_score": 0.4987,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null
@@ -1251,8 +1251,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.45189621915894007,
-    "home_score": 0.4964,
+    "freshness_score": 0.45075175775825826,
+    "home_score": 0.4958,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1285,8 +1285,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4911678502309527,
-    "home_score": 0.494,
+    "freshness_score": 0.4899239315200494,
+    "home_score": 0.4935,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1323,8 +1323,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4843932263375291,
-    "home_score": 0.491,
+    "freshness_score": 0.4831664642858427,
+    "home_score": 0.4904,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null
@@ -1352,8 +1352,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.47771204357801,
-    "home_score": 0.488,
+    "freshness_score": 0.4765022019427266,
+    "home_score": 0.4874,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1393,7 +1393,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 6.214107733029994e-20,
+    "freshness_score": 6.198322951391475e-20,
     "home_score": 0.4855,
     "source_quality": 0.72,
     "image_url": null,
@@ -1427,8 +1427,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.47112301432998516,
-    "home_score": 0.485,
+    "freshness_score": 0.4699298599787492,
+    "home_score": 0.4845,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1461,8 +1461,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4646248664302545,
-    "home_score": 0.4821,
+    "freshness_score": 0.4634481689522688,
+    "home_score": 0.4816,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null
@@ -1488,8 +1488,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4457148481744851,
-    "home_score": 0.4736,
+    "freshness_score": 0.4445860414507806,
+    "home_score": 0.4731,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null
@@ -1559,7 +1559,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.2900526419037396e-19,
+    "freshness_score": 3.281695153921229e-19,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1599,7 +1599,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 7.908282290140427e-23,
+    "freshness_score": 7.888193441331401e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1642,7 +1642,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 9.050912664033359e-29,
+    "freshness_score": 9.027921272784881e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1682,7 +1682,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 8.672478450569399e-20,
+    "freshness_score": 8.650447945023692e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1752,8 +1752,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.467747789217335,
-    "home_score": 0.4565,
+    "freshness_score": 0.4665595982902347,
+    "home_score": 0.456,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null
@@ -1784,7 +1784,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 9.51053410005772e-17,
+    "freshness_score": 9.486375165013891e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1825,7 +1825,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 6.608247358593146e-18,
+    "freshness_score": 6.591460896654139e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1866,7 +1866,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 4.735016163356358e-18,
+    "freshness_score": 4.722988136959803e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1907,7 +1907,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 4.735016136557485e-18,
+    "freshness_score": 4.722988110994315e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1949,7 +1949,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.3574257126243337e-19,
+    "freshness_score": 2.3514373113808647e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1990,7 +1990,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.138153348365952e-21,
+    "freshness_score": 1.1352621781664503e-21,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,

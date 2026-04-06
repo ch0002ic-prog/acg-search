@@ -1,7 +1,7 @@
 [
   {
     "title": "POPPA by Moe Moe Q Singapore idol live watch",
-    "url": "https://example.com/curated/poppa-mmq-singapore-idol-live",
+    "url": "/?query=POPPA%20Singapore",
     "published_at": "2026-04-01T12:00:00+00:00",
     "summary": "Curated Singapore watch entry for POPPA, the idol organization managed under the Moe Moe Q (MMQ) brand, covering idol live appearances, stage segments, and merch-signing updates.",
     "content": "POPPA by Moe Moe Q is tracked here as a Singapore-relevant idol event signal. This curated entry exists so fans searching for POPPA, Moe Moe Q, MMQ, or idol live Singapore can find at least one relevant result while upstream coverage remains sparse.",
@@ -10,7 +10,7 @@
   },
   {
     "title": "Ani-Idol Singapore anisong stage watch",
-    "url": "https://example.com/curated/ani-idol-singapore-stage-watch",
+    "url": "/?query=Ani-Idol%20Singapore",
     "published_at": "2026-04-01T12:00:00+00:00",
     "summary": "Curated Singapore watch entry for Ani-Idol coverage, including anisong stage appearances, cosplay idol showcases, and community idol live updates.",
     "content": "Ani-Idol Singapore is tracked here as a long-tail ACG event query. This curated entry gives the search system a relevant result for Ani-Idol Singapore and idol live Singapore while live source coverage is still inconsistent.",
@@ -19,7 +19,7 @@
   },
   {
     "title": "HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
-    "url": "https://example.com/curated/hoyofest-singapore-watch",
+    "url": "/?query=HoyoFest%20Singapore",
     "published_at": "2026-04-06T12:00:00+00:00",
     "summary": "Curated Singapore watch entry for HoyoFest coverage, including HoYoVerse merch booths, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and collab cafe updates.",
     "content": "HoyoFest Singapore is tracked here as a Singapore-relevant ACG event signal. This curated entry exists so fans searching for HoyoFest Singapore, HoYoVerse Singapore, Genshin merch booths, or Honkai and Zenless event updates can find at least one relevant result while upstream coverage remains inconsistent.",
@@ -28,7 +28,7 @@
   },
   {
     "title": "Artist Alley Singapore watch for Anime Festival Asia and SGCC creator booths",
-    "url": "https://example.com/curated/artist-alley-singapore-watch",
+    "url": "/?query=artist%20alley%20singapore",
     "published_at": "2026-04-06T12:00:00+00:00",
     "summary": "Curated Singapore watch entry for artist alley coverage across Anime Festival Asia, SGCC, and other creator-booth market events in Singapore.",
     "content": "Artist alley Singapore is tracked here as a long-tail creator-market query. This curated entry gives the search system a relevant result for artist alley Singapore, Anime Festival Asia creator booths, SGCC artist alley, and related market-floor discovery while live source coverage is uneven.",
