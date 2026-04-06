@@ -316,41 +316,50 @@ function writeRouteState({ query = currentRouteQuery(), entity = currentRouteEnt
   }
 }
 
-function coverageQueryFromHref(href) {
+function isExternalArticleHref(href) {
   if (!href) {
-    return "";
+    return false;
   }
 
   try {
-    const url = new URL(href, window.location.origin);
-    if (url.origin !== window.location.origin || url.pathname !== "/") {
-      return "";
+    const url = new URL(href);
+    if (!["http:", "https:"].includes(url.protocol)) {
+      return false;
     }
-    return url.searchParams.get("query")?.trim() || "";
+    return url.origin !== window.location.origin;
   } catch {
-    return "";
+    return false;
   }
 }
 
 function resolveArticleHref(item) {
-  return item.event_metadata?.ticket_url || item.url;
+  if (isExternalArticleHref(item.event_metadata?.ticket_url)) {
+    return item.event_metadata.ticket_url;
+  }
+  if (isExternalArticleHref(item.url)) {
+    return item.url;
+  }
+  return "";
 }
 
 function configureArticleLink(link, item, label = "") {
   const href = resolveArticleHref(item);
-  const coverageQuery = coverageQueryFromHref(href);
-
-  link.href = href;
   link.dataset.articleId = item.id;
 
-  if (coverageQuery) {
-    link.dataset.coverageQuery = coverageQuery;
-    link.target = "_self";
-    link.removeAttribute("rel");
-  } else {
-    delete link.dataset.coverageQuery;
+  if (href) {
+    link.href = href;
     link.target = "_blank";
     link.rel = "noreferrer";
+    link.dataset.linkDisabled = "false";
+    link.removeAttribute("aria-disabled");
+    link.classList.remove("disabled-link");
+  } else {
+    link.href = "#";
+    link.target = "_self";
+    link.removeAttribute("rel");
+    link.dataset.linkDisabled = "true";
+    link.setAttribute("aria-disabled", "true");
+    link.classList.add("disabled-link");
   }
 
   if (label) {
@@ -360,10 +369,13 @@ function configureArticleLink(link, item, label = "") {
 
 function articleLinkLabel(item) {
   const href = resolveArticleHref(item);
-  if (coverageQueryFromHref(href) || item.source_type === "curated" || item.source_type === "seed") {
-    return "Open coverage";
+  if (!href) {
+    return "Source unavailable";
   }
-  if (item.event_metadata?.ticket_url) {
+  if (item.source_type === "curated") {
+    return "Open source";
+  }
+  if (isExternalArticleHref(item.event_metadata?.ticket_url)) {
     return "Open tickets";
   }
   if (item.source_type === "event_listing") {
@@ -1649,6 +1661,12 @@ elements.cardsContainer.addEventListener("click", async (event) => {
     return;
   }
 
+  if (openTarget.dataset.linkDisabled === "true") {
+    event.preventDefault();
+    setStatus("Original source link is unavailable for this item.", true);
+    return;
+  }
+
   noteOpen(openTarget.dataset.articleId);
 });
 
@@ -1691,6 +1709,12 @@ elements.entitySummary.addEventListener("click", async (event) => {
 
   const clusterLink = event.target.closest(".cluster-link");
   if (!clusterLink) {
+    return;
+  }
+
+  if (clusterLink.dataset.linkDisabled === "true") {
+    event.preventDefault();
+    setStatus("Original source link is unavailable for this item.", true);
     return;
   }
 
@@ -1858,6 +1882,12 @@ elements.clusterDetailModal.addEventListener("click", async (event) => {
 
   const detailLink = event.target.closest(".cluster-detail-link");
   if (!detailLink) {
+    return;
+  }
+
+  if (detailLink.dataset.linkDisabled === "true") {
+    event.preventDefault();
+    setStatus("Original source link is unavailable for this item.", true);
     return;
   }
 

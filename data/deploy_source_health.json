@@ -24,18 +24,6 @@
     "stale": false
   },
   {
-    "source_name": "Curated SG Search Watch",
-    "status": "ok",
-    "fetched_count": 4,
-    "persisted_count": 4,
-    "error_count": 0,
-    "consecutive_failures": 0,
-    "last_run_at": "2026-04-06T00:22:19.790249Z",
-    "last_success_at": "2026-04-06T00:22:19.790249Z",
-    "last_error": null,
-    "stale": false
-  },
-  {
     "source_name": "Eventbrite SG Anime",
     "status": "ok",
     "fetched_count": 12,
@@ -128,6 +116,18 @@
     "consecutive_failures": 0,
     "last_run_at": "2026-04-06T00:22:28.066654Z",
     "last_success_at": "2026-04-06T00:22:28.066654Z",
+    "last_error": null,
+    "stale": false
+  },
+  {
+    "source_name": "SG Source Pages",
+    "status": "ok",
+    "fetched_count": 4,
+    "persisted_count": 4,
+    "error_count": 0,
+    "consecutive_failures": 0,
+    "last_run_at": "2026-04-06T01:02:15.464945Z",
+    "last_success_at": "2026-04-06T01:02:15.464945Z",
     "last_error": null,
     "stale": false
   },

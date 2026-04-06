@@ -147,7 +147,7 @@ class DeduplicationTests(unittest.TestCase):
         self.assertEqual(len(items), 1)
         self.assertEqual(items[0].title, "Manga Drawing - Art Workshop Experience 动漫绘画工作坊")
 
-    def test_prune_duplicate_articles_prefers_non_placeholder_url(self) -> None:
+    def test_prune_duplicate_articles_prefers_external_url_over_internal_relative_url(self) -> None:
         now = datetime.now(timezone.utc)
         self.repository.upsert_articles(
             [
@@ -155,7 +155,7 @@ class DeduplicationTests(unittest.TestCase):
                     article_id="placeholder-curated",
                     title="HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
                     url="https://example.com/curated/hoyofest-singapore-watch",
-                    source_name="Curated SG Search Watch",
+                    source_name="SG Source Pages",
                     source_type="curated",
                     published_at=now,
                     summary="Curated Singapore watch entry for HoyoFest coverage.",
@@ -164,7 +164,7 @@ class DeduplicationTests(unittest.TestCase):
                     article_id="internal-curated",
                     title="HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
                     url="/?query=HoyoFest%20Singapore",
-                    source_name="Curated SG Search Watch",
+                    source_name="SG Source Pages",
                     source_type="curated",
                     published_at=now,
                     summary="Curated Singapore watch entry for HoyoFest coverage.",
@@ -175,9 +175,41 @@ class DeduplicationTests(unittest.TestCase):
         deleted_ids = self.repository.prune_duplicate_articles()
         items = self.repository.latest_articles(limit=10)
 
-        self.assertEqual(deleted_ids, ["placeholder-curated"])
+        self.assertEqual(deleted_ids, ["internal-curated"])
         self.assertEqual(len(items), 1)
-        self.assertEqual(items[0].url, "/?query=HoyoFest%20Singapore")
+        self.assertEqual(items[0].url, "https://example.com/curated/hoyofest-singapore-watch")
+
+    def test_prune_non_external_articles_removes_internal_relative_urls(self) -> None:
+        now = datetime.now(timezone.utc)
+        self.repository.upsert_articles(
+            [
+                self.make_article(
+                    article_id="external-story",
+                    title="Official HoyoFest Singapore story",
+                    url="https://example.com/hoyofest-official",
+                    source_name="Bandwagon Asia",
+                    source_type="rss",
+                    published_at=now,
+                    summary="Official HoyoFest story.",
+                ),
+                self.make_article(
+                    article_id="internal-story",
+                    title="Internal HoyoFest watch note",
+                    url="/?query=HoyoFest%20Singapore",
+                    source_name="Prototype Seed",
+                    source_type="seed",
+                    published_at=now,
+                    summary="Internal watch note.",
+                ),
+            ]
+        )
+
+        deleted_ids = self.repository.prune_non_external_articles()
+        items = self.repository.latest_articles(limit=10)
+
+        self.assertEqual(deleted_ids, ["internal-story"])
+        self.assertEqual(len(items), 1)
+        self.assertEqual(items[0].id, "external-story")
 
     def test_prune_duplicate_articles_remaps_interactions_to_keeper(self) -> None:
         now = datetime.now(timezone.utc)

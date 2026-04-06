@@ -57,8 +57,10 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
     repository.init_database()
     vector_store = VectorStore(settings=settings, repository=repository)
     duplicate_ids = repository.prune_duplicate_articles()
-    if duplicate_ids:
-        vector_store.delete_articles(duplicate_ids)
+    invalid_url_ids = repository.prune_non_external_articles()
+    deleted_ids = duplicate_ids + invalid_url_ids
+    if deleted_ids:
+        vector_store.delete_articles(deleted_ids)
     orphan_interactions = repository.cleanup_orphan_user_interactions()
     updated_articles = repository.refresh_article_entities()
     if updated_articles:
@@ -78,6 +80,8 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
     logger.info("Runtime initialized with db=%s and vector backend=%s", settings.db_path, vector_store.backend)
     if orphan_interactions:
         logger.info("Removed %s orphan interaction rows during startup maintenance", orphan_interactions)
+    if invalid_url_ids:
+        logger.info("Removed %s non-external article rows during startup maintenance", len(invalid_url_ids))
     return repository, news_service, ingestion_service
 
 

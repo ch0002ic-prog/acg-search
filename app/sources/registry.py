@@ -167,7 +167,7 @@ def build_sources(settings: Settings) -> list[BaseSource]:
 
     return [
         CuratedSource(
-            name="Curated SG Search Watch",
+            name="SG Source Pages",
             feed_url="local://curated-sg-search-watch",
             file_path=settings.root_dir / "data" / "curated_articles.json",
             quality=0.8,

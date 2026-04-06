@@ -357,12 +357,13 @@ class SearchBackendTests(unittest.TestCase):
         sg_relevance: float,
         published_at: datetime,
         source_name: str,
+        url: str | None = None,
     ) -> ArticleRecord:
         freshness = score_freshness(published_at)
         return ArticleRecord(
             id=article_id,
             title=title,
-            url=f"https://example.com/{article_id}",
+            url=url or f"https://example.com/{article_id}",
             source_name=source_name,
             source_type="test",
             published_at=published_at,
@@ -474,6 +475,58 @@ class SearchBackendTests(unittest.TestCase):
         response = self.news_service.search(query="anime singapore", limit=3, rerank=False, user_id=None)
         self.assertEqual(len(response.items), 3)
         self.assertGreaterEqual(len({item.source_name for item in response.items}), 2)
+
+    def test_search_excludes_internal_link_results(self) -> None:
+        now = datetime.now(timezone.utc)
+        self.repository.upsert_articles(
+            [
+                self.make_article(
+                    article_id="afa-internal-watch",
+                    title="AFA Singapore internal watchlist",
+                    summary="Internal fallback note for AFA Singapore.",
+                    content="This internal watch note should never be returned as a search result.",
+                    categories=["events", "anime"],
+                    tags=["afa", "singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.99,
+                    published_at=now,
+                    source_name="Prototype Seed",
+                    url="/?query=AFA%20Singapore",
+                )
+            ]
+        )
+
+        response = self.news_service.search(query="afa singapore", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertNotIn("AFA Singapore internal watchlist", [item.title for item in response.items])
+        self.assertTrue(all(item.url.startswith("http") for item in response.items))
+
+    def test_home_feed_excludes_internal_link_articles(self) -> None:
+        now = datetime.now(timezone.utc)
+        self.repository.upsert_articles(
+            [
+                self.make_article(
+                    article_id="hoyofest-internal-seed",
+                    title="Internal HoyoFest seed note",
+                    summary="Internal fallback note for HoyoFest Singapore.",
+                    content="This internal seed note should never appear in the home feed.",
+                    categories=["events", "gacha", "merch"],
+                    tags=["hoyofest", "singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.99,
+                    published_at=now,
+                    source_name="Prototype Seed",
+                    url="/?query=HoyoFest%20Singapore",
+                )
+            ]
+        )
+
+        response = self.news_service.home_feed(limit=12)
+
+        self.assertTrue(response.items)
+        self.assertNotIn("Internal HoyoFest seed note", [item.title for item in response.items])
+        self.assertTrue(all(item.url.startswith("http") for item in response.items))
 
     def test_diversify_scored_articles_reduces_same_source_stacking(self) -> None:
         now = datetime.now(timezone.utc)

@@ -51,13 +51,22 @@ class CuratedSourceTests(unittest.TestCase):
                             "category_hints": ["events", "anime", "merch"],
                             "region_hints": ["Singapore"],
                         },
+                        {
+                            "title": "Internal curated watch that should be skipped",
+                            "url": "/?query=internal-watch",
+                            "published_at": "2026-04-06T12:00:00+00:00",
+                            "summary": "This should never be returned.",
+                            "content": "This should never be returned.",
+                            "category_hints": ["events"],
+                            "region_hints": ["Singapore"],
+                        },
                     ]
                 ),
                 encoding="utf-8",
             )
 
             source = CuratedSource(
-                name="Curated SG Search Watch",
+                name="SG Source Pages",
                 feed_url="local://curated-sg-search-watch",
                 file_path=file_path,
                 region_hints=["Singapore"],

@@ -26,6 +26,7 @@ from app.services.ranking import (
 )
 from app.services.sample_data import load_sample_articles, load_source_health_snapshot
 from app.services.vector_store import VectorStore
+from app.url_utils import is_external_http_url
 from app.sources.base import BaseSource, SourceArticle
 
 
@@ -83,6 +84,8 @@ class IngestionService:
                 source_runs[source.name]["fetched_count"] = len(fetched_items)
                 for item in fetched_items:
                     if not source.matches(item):
+                        continue
+                    if not is_external_http_url(item.url):
                         continue
                     if item.url in seen_urls:
                         continue

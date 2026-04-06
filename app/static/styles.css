@@ -746,6 +746,17 @@ button:hover,
   border: 1px solid rgba(17, 33, 43, 0.08);
 }
 
+.cluster-link.disabled-link,
+.read-link.disabled-link {
+  opacity: 0.58;
+  cursor: not-allowed;
+}
+
+.cluster-link.disabled-link:hover,
+.read-link.disabled-link:hover {
+  transform: none;
+}
+
 .side-panel {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));

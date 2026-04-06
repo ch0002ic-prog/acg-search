@@ -13,6 +13,7 @@ from app.services.entities import display_entity_name, infer_entity_tags
 from app.services.embeddings import build_hash_embedding, cosine_similarity
 from app.services.event_metadata import coerce_event_metadata, infer_event_metadata, merge_event_metadata
 from app.services.ranking import build_fts_query, infer_query_preferences, strip_text
+from app.url_utils import is_external_http_url
 
 
 INTERACTION_WEIGHTS: dict[str, float] = {
@@ -24,6 +25,10 @@ SEARCH_WEIGHT = 0.38
 MAX_RECENT_QUERIES = 8
 MAX_AFFINITY = 3.0
 MIN_AFFINITY = -2.0
+
+
+def _external_url_sql(column_name: str = "url") -> str:
+    return f"(LOWER({column_name}) LIKE 'http://%' OR LOWER({column_name}) LIKE 'https://%')"
 
 
 class ArticleRepository:
@@ -335,6 +340,25 @@ class ArticleRepository:
             connection.commit()
         return deleted
 
+    def prune_non_external_articles(self) -> list[str]:
+        with self.connect() as connection:
+            rows = connection.execute("SELECT id, url FROM articles").fetchall()
+            delete_ids = sorted(
+                str(row["id"])
+                for row in rows
+                if not is_external_http_url(str(row["url"] or ""))
+            )
+            if not delete_ids:
+                return []
+
+            placeholders = ", ".join("?" for _ in delete_ids)
+            connection.execute(f"DELETE FROM articles_fts WHERE article_id IN ({placeholders})", delete_ids)
+            connection.execute(f"DELETE FROM articles WHERE id IN ({placeholders})", delete_ids)
+            self._delete_orphan_user_interactions(connection)
+            connection.commit()
+
+        return delete_ids
+
     def record_source_health(
         self,
         source_name: str,
@@ -560,10 +584,13 @@ class ArticleRepository:
             FROM articles
         """
         params: list[object] = []
+        conditions = [_external_url_sql("url")]
         if exclude_ids:
             placeholders = ", ".join("?" for _ in exclude_ids)
-            query += f" WHERE id NOT IN ({placeholders})"
+            conditions.append(f"id NOT IN ({placeholders})")
             params.extend(sorted(exclude_ids))
+        if conditions:
+            query += f" WHERE {' AND '.join(conditions)}"
         query += " ORDER BY home_score DESC, published_at DESC LIMIT ?"
         params.append(limit)
 
@@ -606,9 +633,12 @@ class ArticleRepository:
         with self.connect() as connection:
             rows = connection.execute(
                 """
-                SELECT article_id, bm25(articles_fts, 4.0, 2.0, 1.0, 0.8, 0.3, 0.3) AS rank
+                SELECT articles_fts.article_id, bm25(articles_fts, 4.0, 2.0, 1.0, 0.8, 0.3, 0.3) AS rank
                 FROM articles_fts
-                WHERE articles_fts MATCH ?
+                JOIN articles ON articles.id = articles_fts.article_id
+                WHERE articles_fts MATCH ? AND """
+                + _external_url_sql("articles.url")
+                + """
                 ORDER BY rank
                 LIMIT ?
                 """,
@@ -637,7 +667,7 @@ class ArticleRepository:
         with self.connect() as connection:
             if candidate_ids is None:
                 rows = connection.execute(
-                    "SELECT id, embedding FROM articles ORDER BY home_score DESC, published_at DESC LIMIT ?",
+                    f"SELECT id, embedding FROM articles WHERE {_external_url_sql('url')} ORDER BY home_score DESC, published_at DESC LIMIT ?",
                     (limit,),
                 ).fetchall()
             else:
@@ -646,7 +676,7 @@ class ArticleRepository:
                     return []
                 placeholders = ", ".join("?" for _ in filtered_candidate_ids)
                 rows = connection.execute(
-                    f"SELECT id, embedding FROM articles WHERE id IN ({placeholders})",
+                    f"SELECT id, embedding FROM articles WHERE id IN ({placeholders}) AND {_external_url_sql('url')}",
                     filtered_candidate_ids,
                 ).fetchall()
 
@@ -672,10 +702,13 @@ class ArticleRepository:
 
         query = "SELECT id FROM articles"
         params: list[object] = []
+        conditions = [_external_url_sql("url")]
         if selected_ids:
             placeholders = ", ".join("?" for _ in selected_ids)
-            query += f" WHERE id NOT IN ({placeholders})"
+            conditions.append(f"id NOT IN ({placeholders})")
             params.extend(selected_ids)
+        if conditions:
+            query += f" WHERE {' AND '.join(conditions)}"
         query += " ORDER BY home_score DESC, published_at DESC LIMIT ?"
         params.append(remaining)
 
@@ -692,7 +725,7 @@ class ArticleRepository:
         placeholders = ", ".join("?" for _ in article_ids)
         with self.connect() as connection:
             rows = connection.execute(
-                f"SELECT * FROM articles WHERE id IN ({placeholders})",
+                f"SELECT * FROM articles WHERE id IN ({placeholders}) AND {_external_url_sql('url')}",
                 article_ids,
             ).fetchall()
         return {article.id: article for article in (self._row_to_article(row) for row in rows)}

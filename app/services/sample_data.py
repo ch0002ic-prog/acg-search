@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 
 from app.schemas import ArticleRecord, SourceHealthEntry
+from app.url_utils import is_external_http_url
 
 
 def _repo_data_dir() -> Path:
@@ -30,7 +31,13 @@ def load_sample_articles(data_dir: Path) -> list[ArticleRecord]:
         if not sample_path.exists():
             continue
         records = json.loads(sample_path.read_text(encoding="utf-8"))
-        return [ArticleRecord.model_validate(record) for record in records]
+        articles = [
+            ArticleRecord.model_validate(record)
+            for record in records
+            if is_external_http_url(str(record.get("url") or ""))
+        ]
+        if articles:
+            return articles
     return []
 
 

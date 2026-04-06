@@ -110,6 +110,65 @@ class SampleDataTests(unittest.TestCase):
         self.assertEqual(len(articles), 1)
         self.assertEqual(articles[0].id, "deploy-seed")
 
+    def test_load_sample_articles_skips_internal_links_and_falls_back_to_external_snapshot(self) -> None:
+        with TemporaryDirectory() as temp_dir:
+            temp_path = Path(temp_dir)
+            (temp_path / "sample_articles.json").write_text(
+                json.dumps(
+                    [
+                        {
+                            "id": "internal-seed",
+                            "title": "Internal Seed",
+                            "url": "/?query=internal-seed",
+                            "source_name": "Internal Seed",
+                            "source_type": "seed",
+                            "published_at": "2026-04-05T00:00:00+00:00",
+                            "summary": "internal summary",
+                            "content": "internal content",
+                            "categories": ["anime"],
+                            "tags": ["internal"],
+                            "region_tags": ["Singapore"],
+                            "sg_relevance": 1.0,
+                            "freshness_score": 1.0,
+                            "home_score": 1.0,
+                            "source_quality": 0.7,
+                            "image_url": None,
+                        }
+                    ]
+                ),
+                encoding="utf-8",
+            )
+            (temp_path / "deploy_articles.json").write_text(
+                json.dumps(
+                    [
+                        {
+                            "id": "external-snapshot",
+                            "title": "External Snapshot",
+                            "url": "https://example.com/external-snapshot",
+                            "source_name": "Deploy Snapshot",
+                            "source_type": "rss",
+                            "published_at": "2026-04-05T00:00:00+00:00",
+                            "summary": "deploy summary",
+                            "content": "deploy content",
+                            "categories": ["events"],
+                            "tags": ["deploy"],
+                            "region_tags": ["Singapore"],
+                            "sg_relevance": 0.9,
+                            "freshness_score": 0.9,
+                            "home_score": 0.9,
+                            "source_quality": 0.7,
+                            "image_url": None,
+                        }
+                    ]
+                ),
+                encoding="utf-8",
+            )
+
+            articles = load_sample_articles(temp_path)
+
+        self.assertEqual(len(articles), 1)
+        self.assertEqual(articles[0].id, "external-snapshot")
+
     def test_load_source_health_snapshot_prefers_runtime_snapshot(self) -> None:
         with TemporaryDirectory() as temp_dir:
             snapshot_path = Path(temp_dir) / "deploy_source_health.json"

@@ -1,38 +1,38 @@
 [
-  {
-    "title": "POPPA by Moe Moe Q Singapore idol live watch",
-    "url": "/?query=POPPA%20Singapore",
-    "published_at": "2026-04-01T12:00:00+00:00",
-    "summary": "Curated Singapore watch entry for POPPA, the idol organization managed under the Moe Moe Q (MMQ) brand, covering idol live appearances, stage segments, and merch-signing updates.",
-    "content": "POPPA by Moe Moe Q is tracked here as a Singapore-relevant idol event signal. This curated entry exists so fans searching for POPPA, Moe Moe Q, MMQ, or idol live Singapore can find at least one relevant result while upstream coverage remains sparse.",
-    "category_hints": ["events", "anime", "merch"],
-    "region_hints": ["Singapore"]
-  },
-  {
-    "title": "Ani-Idol Singapore anisong stage watch",
-    "url": "/?query=Ani-Idol%20Singapore",
-    "published_at": "2026-04-01T12:00:00+00:00",
-    "summary": "Curated Singapore watch entry for Ani-Idol coverage, including anisong stage appearances, cosplay idol showcases, and community idol live updates.",
-    "content": "Ani-Idol Singapore is tracked here as a long-tail ACG event query. This curated entry gives the search system a relevant result for Ani-Idol Singapore and idol live Singapore while live source coverage is still inconsistent.",
-    "category_hints": ["events", "anime"],
-    "region_hints": ["Singapore"]
-  },
-  {
-    "title": "HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
-    "url": "/?query=HoyoFest%20Singapore",
-    "published_at": "2026-04-06T12:00:00+00:00",
-    "summary": "Curated Singapore watch entry for HoyoFest coverage, including HoYoVerse merch booths, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and collab cafe updates.",
-    "content": "HoyoFest Singapore is tracked here as a Singapore-relevant ACG event signal. This curated entry exists so fans searching for HoyoFest Singapore, HoYoVerse Singapore, Genshin merch booths, or Honkai and Zenless event updates can find at least one relevant result while upstream coverage remains inconsistent.",
-    "category_hints": ["events", "gacha", "merch"],
-    "region_hints": ["Singapore"]
-  },
-  {
-    "title": "Artist Alley Singapore watch for Anime Festival Asia and SGCC creator booths",
-    "url": "/?query=artist%20alley%20singapore",
-    "published_at": "2026-04-06T12:00:00+00:00",
-    "summary": "Curated Singapore watch entry for artist alley coverage across Anime Festival Asia, SGCC, and other creator-booth market events in Singapore.",
-    "content": "Artist alley Singapore is tracked here as a long-tail creator-market query. This curated entry gives the search system a relevant result for artist alley Singapore, Anime Festival Asia creator booths, SGCC artist alley, and related market-floor discovery while live source coverage is uneven.",
-    "category_hints": ["events", "anime", "merch"],
-    "region_hints": ["Singapore"]
-  }
+	{
+		"title": "Discover Poppa Events & Activities in Singapore, Singapore | Eventbrite",
+		"url": "https://www.eventbrite.sg/d/singapore--singapore/poppa/",
+		"published_at": "2026-04-06T12:00:00+00:00",
+		"summary": "External Eventbrite Singapore source page for POPPA searches, including POPPA, Moe Moe Q, and related Singapore event discovery.",
+		"content": "This source-backed Eventbrite Singapore page is used for POPPA and Moe Moe Q discovery when users search for specific Singapore event coverage.",
+		"category_hints": ["events", "anime"],
+		"region_hints": ["Singapore"]
+	},
+	{
+		"title": "Discover Ani Idol Events & Activities in Singapore, Singapore | Eventbrite",
+		"url": "https://www.eventbrite.sg/d/singapore--singapore/ani-idol/",
+		"published_at": "2026-04-06T12:00:00+00:00",
+		"summary": "External Eventbrite Singapore source page for Ani-Idol and anisong-related event discovery in Singapore.",
+		"content": "This source-backed Eventbrite Singapore page covers Ani-Idol and anisong event discovery for Singapore searches.",
+		"category_hints": ["events", "anime"],
+		"region_hints": ["Singapore"]
+	},
+	{
+		"title": "Discover Hoyofest Events & Activities in Singapore, Singapore | Eventbrite",
+		"url": "https://www.eventbrite.sg/d/singapore--singapore/hoyofest/",
+		"published_at": "2026-04-06T12:00:00+00:00",
+		"summary": "External Eventbrite Singapore source page for HoyoFest and HoYoVerse-related event discovery in Singapore.",
+		"content": "This source-backed Eventbrite Singapore page is used for HoyoFest searches and related HoYoVerse event discovery in Singapore.",
+		"category_hints": ["events", "gacha", "merch"],
+		"region_hints": ["Singapore"]
+	},
+	{
+		"title": "Discover Artist Alley Events & Activities in Singapore, Singapore | Eventbrite",
+		"url": "https://www.eventbrite.sg/d/singapore--singapore/artist-alley/",
+		"published_at": "2026-04-06T12:00:00+00:00",
+		"summary": "External Eventbrite Singapore source page for artist alley and creator-booth event discovery in Singapore.",
+		"content": "This source-backed Eventbrite Singapore page is used for artist alley searches and related Singapore creator-market discovery.",
+		"category_hints": ["events", "anime", "merch"],
+		"region_hints": ["Singapore"]
+	}
 ]

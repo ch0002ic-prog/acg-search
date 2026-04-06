@@ -1,48 +1,5 @@
 [
   {
-    "id": "4a74252d9b4573461920d143d9a1c05ad4e38136",
-    "title": "Artist Alley Singapore watch for Anime Festival Asia and SGCC creator booths",
-    "url": "/?query=artist%20alley%20singapore",
-    "source_name": "Curated SG Search Watch",
-    "source_type": "curated",
-    "published_at": "2026-04-06T12:00:00Z",
-    "summary": "Artist alley Singapore is tracked here as a long-tail creator-market query",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "afa",
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "AFA Singapore",
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 1.0,
-    "freshness_score": 1.0,
-    "home_score": 0.97,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Lineup details mentioned",
-      "guest_names": [],
-      "merch_status": null
-    }
-  },
-  {
     "id": "31b6ab4cb03993bca38cd15adac130c1685a41a1",
     "title": "Doujin Market 2026",
     "url": "https://www.eventbrite.sg/e/doujin-market-2026-tickets-1984953521416",
@@ -84,13 +41,77 @@
     }
   },
   {
-    "id": "c1e6a30dc54a98420e522f7ff6c80bd6396a76f1",
-    "title": "HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
-    "url": "/?query=HoyoFest%20Singapore",
-    "source_name": "Curated SG Search Watch",
+    "id": "ba5c5d7b4f747aa25f5be7458edd6b9ee62005d3",
+    "title": "Discover Poppa Events & Activities in Singapore, Singapore | Eventbrite",
+    "url": "https://www.eventbrite.sg/d/singapore--singapore/poppa/",
+    "source_name": "SG Source Pages",
     "source_type": "curated",
     "published_at": "2026-04-06T12:00:00Z",
-    "summary": "HoyoFest Singapore is tracked here as a Singapore-relevant ACG event signal",
+    "summary": "This source-backed Eventbrite Singapore page is used for POPPA and Moe Moe Q discovery when users search for specific Singapore event coverage",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "idol"
+    ],
+    "entity_tags": [
+      "POPPA"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.71,
+    "freshness_score": 1.0,
+    "home_score": 0.8975,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null
+  },
+  {
+    "id": "3aec9a9ee6dd6b29313b90ec599812530cf1c392",
+    "title": "Discover Ani Idol Events & Activities in Singapore, Singapore | Eventbrite",
+    "url": "https://www.eventbrite.sg/d/singapore--singapore/ani-idol/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-06T12:00:00Z",
+    "summary": "This source-backed Eventbrite Singapore page covers Ani-Idol and anisong event discovery for Singapore searches",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "idol"
+    ],
+    "entity_tags": [
+      "Ani-Idol"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.71,
+    "freshness_score": 1.0,
+    "home_score": 0.8975,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null
+  },
+  {
+    "id": "40b7678bc461c49cd596be0950a45cd13cb1b768",
+    "title": "Discover Hoyofest Events & Activities in Singapore, Singapore | Eventbrite",
+    "url": "https://www.eventbrite.sg/d/singapore--singapore/hoyofest/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-06T12:00:00Z",
+    "summary": "This source-backed Eventbrite Singapore page is used for HoyoFest searches and related HoYoVerse event discovery in Singapore",
     "content": "",
     "categories": [
       "events",
@@ -115,15 +136,44 @@
     "home_score": 0.8825,
     "source_quality": 0.8,
     "image_url": null,
+    "event_metadata": null
+  },
+  {
+    "id": "0203b5646219f1963f93c1cfb379a2a34cd0a40e",
+    "title": "Discover Artist Alley Events & Activities in Singapore, Singapore | Eventbrite",
+    "url": "https://www.eventbrite.sg/d/singapore--singapore/artist-alley/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-06T12:00:00Z",
+    "summary": "This source-backed Eventbrite Singapore page is used for artist alley searches and related Singapore creator-market discovery",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.5499999999999999,
+    "freshness_score": 1.0,
+    "home_score": 0.8575,
+    "source_quality": 0.8,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "cafe",
+      "event_type": null,
       "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
-      "guest_status": null,
+      "guest_status": "Lineup details mentioned",
       "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
+      "merch_status": null
     }
   },
   {
@@ -1061,38 +1111,6 @@
     "event_metadata": null
   },
   {
-    "id": "d56be2a3d7b173a5585311959b690caa38d6b6eb",
-    "title": "POPPA by Moe Moe Q Singapore idol live watch",
-    "url": "/?query=POPPA%20Singapore",
-    "source_name": "Curated SG Search Watch",
-    "source_type": "curated",
-    "published_at": "2026-04-01T12:00:00Z",
-    "summary": "POPPA by Moe Moe Q is tracked here as a Singapore-relevant idol event signal",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore",
-      "idol"
-    ],
-    "entity_tags": [
-      "POPPA"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.71,
-    "freshness_score": 0.22197978783291253,
-    "home_score": 0.5474,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null
-  },
-  {
     "id": "c4fc9b227aee340ff1d27daa9ea15a34e3868d4a",
     "title": "Inaugural SEA Esports Nations Cup set for Vietnam - english.vov.vn",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbXpFekxDZ0VIY2RlbVRicUtLT25MbTh5ZUlEcENhVWVxZ0phU3lrTzZLRHMzZlc0SFhOMkZ5NEdic0RYZnkyZUllLTdtc3BCa3kySm5aRzdva191REh4c1F6cXAxYVBnZXU0VXQ5WXpRcWRpRmRyQ1VGZVRoMks2NG1PdnlER2R1dmxUX2xWbjB1RGVWYTVaM3FUMS02Nlk?oc=5",
@@ -1167,38 +1185,6 @@
     "freshness_score": 0.6290562333527412,
     "home_score": 0.5291,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null
-  },
-  {
-    "id": "358a3fbcd27b445c476413a561e65e14b9094358",
-    "title": "Ani-Idol Singapore anisong stage watch",
-    "url": "/?query=Ani-Idol%20Singapore",
-    "source_name": "Curated SG Search Watch",
-    "source_type": "curated",
-    "published_at": "2026-04-01T12:00:00Z",
-    "summary": "Ani-Idol Singapore is tracked here as a long-tail ACG event query",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore",
-      "idol"
-    ],
-    "entity_tags": [
-      "Ani-Idol"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.57,
-    "freshness_score": 0.22197978742612087,
-    "home_score": 0.5124,
-    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null
   },

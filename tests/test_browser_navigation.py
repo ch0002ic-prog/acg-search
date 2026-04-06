@@ -47,6 +47,7 @@ class BrowserNavigationTests(unittest.TestCase):
             **dict(**__import__("os").environ),
             "DATA_DIR": str(cls.data_dir),
             "DB_PATH": str(cls.db_path),
+            "DATABASE_URL": "",
             "VECTOR_DIR": str(cls.data_dir / "browser-vector-store"),
             "VECTOR_BACKEND": "local",
             "LLM_PROVIDER": "none",

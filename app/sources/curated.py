@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 
 from app.sources.base import BaseSource, SourceArticle
+from app.url_utils import is_external_http_url
 
 
 def _parse_datetime(value: str | None) -> datetime:
@@ -38,7 +39,7 @@ class CuratedSource(BaseSource):
                 continue
             title = str(item.get("title") or "").strip()
             url = str(item.get("url") or "").strip()
-            if not title or not url:
+            if not title or not url or not is_external_http_url(url):
                 continue
 
             article = SourceArticle(
