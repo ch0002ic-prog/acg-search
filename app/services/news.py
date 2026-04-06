@@ -146,6 +146,7 @@ class NewsService:
         ranked.sort(key=lambda item: item[1], reverse=True)
         rank_ms = _elapsed_ms(rank_started_at)
         candidate_pool = ranked[: max(limit * 4, 18)]
+        short_circuit_llm = expand_metrics.timed_out
         rerank_ms = 0.0
         rerank_cache_hit = False
         if rerank:
@@ -153,6 +154,7 @@ class NewsService:
             reranked_articles, rerank_metrics = self.llm_service.rerank_articles_with_metadata(
                 query=query,
                 articles=[article for article, _ in candidate_pool],
+                allow_llm=not short_circuit_llm,
             )
             score_map = {article.id: score for article, score in candidate_pool}
             rerank_count = max(len(reranked_articles) - 1, 1)
@@ -165,13 +167,18 @@ class NewsService:
             ]
             rerank_ms = rerank_metrics.duration_ms or _elapsed_ms(rerank_started_at)
             rerank_cache_hit = rerank_metrics.cache_hit
+            short_circuit_llm = short_circuit_llm or rerank_metrics.timed_out
 
         items = diversify_scored_articles(candidate_pool, limit)
         digest_lines: list[str] = []
         digest_ms = 0.0
         digest_cache_hit = False
         if include_digest:
-            digest_lines, digest_metrics = self.llm_service.generate_digest_with_metadata(items, query=query)
+            digest_lines, digest_metrics = self.llm_service.generate_digest_with_metadata(
+                items,
+                query=query,
+                allow_llm=not short_circuit_llm,
+            )
             digest_ms = digest_metrics.duration_ms
             digest_cache_hit = digest_metrics.cache_hit
 

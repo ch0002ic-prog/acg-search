@@ -35,6 +35,7 @@ class _CacheEntry:
 class CallMetrics:
     duration_ms: float
     cache_hit: bool
+    timed_out: bool = False
 
 
 class _LocalResultCache:
@@ -179,7 +180,7 @@ class LLMService:
                 self.settings.llm_expand_timeout_seconds,
             )
             self._query_expansion_cache.set(cache_key, fallback)
-            return fallback, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+            return fallback, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False, timed_out=True)
         except Exception as exc:
             logger.warning("LLM query expansion failed; using heuristic expansion instead.", exc_info=exc)
             self._query_expansion_cache.set(cache_key, fallback)
@@ -189,7 +190,12 @@ class LLMService:
         reranked_articles, _metrics = self.rerank_articles_with_metadata(query, articles)
         return reranked_articles
 
-    def rerank_articles_with_metadata(self, query: str, articles: list[ArticleRecord]) -> tuple[list[ArticleRecord], CallMetrics]:
+    def rerank_articles_with_metadata(
+        self,
+        query: str,
+        articles: list[ArticleRecord],
+        allow_llm: bool = True,
+    ) -> tuple[list[ArticleRecord], CallMetrics]:
         started_at = time.perf_counter()
         if not self.is_enabled() or len(articles) < 3:
             return articles, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
@@ -218,6 +224,10 @@ class LLMService:
             seen = {article.id for article in reranked}
             reranked.extend(article for article in articles if article.id not in seen)
             return reranked, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=True)
+
+        if not allow_llm:
+            self._rerank_cache.set(cache_key, [article.id for article in articles])
+            return articles, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
         labeled_articles = [(f"R{index}", article) for index, article in enumerate(rerank_candidates, start=1)]
         article_by_label = {label: article for label, article in labeled_articles}
@@ -249,7 +259,7 @@ class LLMService:
                 self.settings.llm_rerank_timeout_seconds,
             )
             self._rerank_cache.set(cache_key, [article.id for article in articles])
-            return articles, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+            return articles, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False, timed_out=True)
         except Exception as exc:
             logger.warning("LLM reranking failed; using score-based ordering instead.", exc_info=exc)
             self._rerank_cache.set(cache_key, [article.id for article in articles])
@@ -259,7 +269,12 @@ class LLMService:
         digest_lines, _metrics = self.generate_digest_with_metadata(items, query=query)
         return digest_lines
 
-    def generate_digest_with_metadata(self, items: list[ArticleRecord], query: str | None = None) -> tuple[list[str], CallMetrics]:
+    def generate_digest_with_metadata(
+        self,
+        items: list[ArticleRecord],
+        query: str | None = None,
+        allow_llm: bool = True,
+    ) -> tuple[list[str], CallMetrics]:
         started_at = time.perf_counter()
         if not items:
             return build_digest_lines(items, query=query), CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
@@ -280,6 +295,11 @@ class LLMService:
         cached = self._digest_cache.get(cache_key)
         if isinstance(cached, list) and cached:
             return [str(value) for value in cached], CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=True)
+
+        if not allow_llm:
+            fallback_lines = build_digest_lines(items, query=query)
+            self._digest_cache.set(cache_key, fallback_lines)
+            return fallback_lines, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
 
         prompt_lines = [
             "Turn these ACG headlines into exactly 3 short bullet points for a Singapore-based fan app.",
@@ -307,7 +327,7 @@ class LLMService:
             )
             fallback_lines = build_digest_lines(items, query=query)
             self._digest_cache.set(cache_key, fallback_lines)
-            return fallback_lines, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False)
+            return fallback_lines, CallMetrics(duration_ms=_elapsed_ms(started_at), cache_hit=False, timed_out=True)
         except Exception as exc:
             logger.warning("LLM digest generation failed; using deterministic digest lines instead.", exc_info=exc)
             fallback_lines = build_digest_lines(items, query=query)

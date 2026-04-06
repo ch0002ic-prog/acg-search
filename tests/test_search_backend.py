@@ -7,11 +7,12 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 import threading
 import unittest
+from unittest.mock import patch
 
 from app.config import settings
 from app.database import ArticleRepository
 from app.schemas import ArticleRecord
-from app.services.llm import LLMService
+from app.services.llm import CallMetrics, LLMService
 from app.services.news import NewsService
 from app.services.ranking import compute_home_score, diversify_scored_articles, score_freshness
 from app.services.vector_store import VectorStore
@@ -648,6 +649,30 @@ class SearchBackendTests(unittest.TestCase):
         self.assertFalse(response.timings.vector_cache_hit)
         self.assertFalse(response.timings.rerank_cache_hit)
         self.assertEqual(response.timings.result_count, len(response.items))
+
+    def test_search_short_circuits_inline_llm_after_expand_timeout(self) -> None:
+        with (
+            patch.object(
+                self.llm_service,
+                "expand_query_with_metadata",
+                return_value=("HoyoFest Singapore", CallMetrics(duration_ms=2500.0, cache_hit=False, timed_out=True)),
+            ),
+            patch.object(
+                self.llm_service,
+                "rerank_articles_with_metadata",
+                return_value=(self.repository.latest_articles(8), CallMetrics(duration_ms=0.3, cache_hit=False)),
+            ) as mocked_rerank,
+            patch.object(
+                self.llm_service,
+                "generate_digest_with_metadata",
+                return_value=(["fallback digest"], CallMetrics(duration_ms=0.2, cache_hit=False)),
+            ) as mocked_digest,
+        ):
+            response = self.news_service.search(query="HoyoFest Singapore", limit=5, rerank=True, include_digest=True)
+
+        self.assertTrue(response.items)
+        self.assertFalse(mocked_rerank.call_args.kwargs["allow_llm"])
+        self.assertFalse(mocked_digest.call_args.kwargs["allow_llm"])
 
     def test_search_excludes_internal_link_results(self) -> None:
         now = datetime.now(timezone.utc)

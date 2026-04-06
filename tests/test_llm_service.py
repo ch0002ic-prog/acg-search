@@ -71,9 +71,22 @@ class LLMServiceTests(unittest.TestCase):
 
         self.assertFalse(first_metrics.cache_hit)
         self.assertTrue(second_metrics.cache_hit)
+        self.assertTrue(first_metrics.timed_out)
         self.assertEqual(mocked_chat.call_count, 1)
         self.assertEqual([article.id for article in first], ["a1", "a2", "a3"])
         self.assertEqual([article.id for article in second], ["a1", "a2", "a3"])
+
+    def test_rerank_articles_can_skip_llm_and_cache_fallback(self) -> None:
+        with patch.object(self.service, "_chat") as mocked_chat:
+            first, first_metrics = self.service.rerank_articles_with_metadata("HoyoFest Singapore", self.articles, allow_llm=False)
+            second, second_metrics = self.service.rerank_articles_with_metadata("HoyoFest Singapore", self.articles, allow_llm=False)
+
+        self.assertEqual([article.id for article in first], ["a1", "a2", "a3"])
+        self.assertEqual([article.id for article in second], ["a1", "a2", "a3"])
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
+        self.assertFalse(first_metrics.timed_out)
+        self.assertEqual(mocked_chat.call_count, 0)
 
     def test_expand_query_uses_local_cache(self) -> None:
         with patch.object(self.service, "_chat", return_value="HoyoFest Singapore, Artist Alley") as mocked_chat:
@@ -94,6 +107,7 @@ class LLMServiceTests(unittest.TestCase):
 
         self.assertFalse(first_metrics.cache_hit)
         self.assertTrue(second_metrics.cache_hit)
+        self.assertTrue(first_metrics.timed_out)
         self.assertEqual(mocked_chat.call_count, 1)
         self.assertEqual(first, second)
         self.assertIn("HoyoFest Singapore", first)
@@ -137,11 +151,23 @@ class LLMServiceTests(unittest.TestCase):
 
         self.assertFalse(first_metrics.cache_hit)
         self.assertTrue(second_metrics.cache_hit)
+        self.assertTrue(first_metrics.timed_out)
         self.assertGreaterEqual(first_metrics.duration_ms, 0)
         self.assertEqual(mocked_chat.call_count, 1)
         self.assertEqual(len(first), 4)
         self.assertEqual(second, first)
         self.assertTrue(first[0].startswith("For this search"))
+
+    def test_generate_digest_can_skip_llm_and_cache_fallback(self) -> None:
+        with patch.object(self.service, "_chat") as mocked_chat:
+            first, first_metrics = self.service.generate_digest_with_metadata(self.articles, query="HoyoFest Singapore", allow_llm=False)
+            second, second_metrics = self.service.generate_digest_with_metadata(self.articles, query="HoyoFest Singapore", allow_llm=False)
+
+        self.assertFalse(first_metrics.cache_hit)
+        self.assertTrue(second_metrics.cache_hit)
+        self.assertFalse(first_metrics.timed_out)
+        self.assertEqual(mocked_chat.call_count, 0)
+        self.assertEqual(first, second)
 
 
 if __name__ == "__main__":
