@@ -134,6 +134,18 @@ class SearchBackendTests(unittest.TestCase):
                     source_name="Google News Merch And Deals",
                 ),
                 cls.make_article(
+                    article_id="artist-alley",
+                    title="Artist Alley Singapore guide highlights AFA and SGCC creator booths",
+                    summary="A Singapore artist alley guide maps Anime Festival Asia creator booths, SGCC tables, and merch lanes.",
+                    content="Artist Alley Singapore coverage follows Anime Festival Asia and SGCC creator booths, merch lanes, and market-floor discoveries for local fans.",
+                    categories=["events", "anime", "merch"],
+                    tags=["afa", "sgcc", "singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.72,
+                    published_at=now - timedelta(hours=4),
+                    source_name="Bandwagon Asia",
+                ),
+                cls.make_article(
                     article_id="poppa-live",
                     title="POPPA by Moe Moe Q announces Singapore idol live and merch signing",
                     summary="Moe Moe Q's POPPA project schedules a Singapore idol live with fan benefits, merch, and stage appearances.",
@@ -216,6 +228,54 @@ class SearchBackendTests(unittest.TestCase):
                     sg_relevance=0.0,
                     published_at=now - timedelta(hours=1),
                     source_name="Google News JRPG",
+                ),
+                cls.make_article(
+                    article_id="persona-revival",
+                    title="Persona 4 Revival release date surfaces after merch listing",
+                    summary="A fresh Persona 4 Revival report points to an Atlus reveal window after a new merch listing surfaced.",
+                    content="Persona 4 Revival chatter grows after an Atlus-adjacent merch listing hinted at a release date window for the JRPG.",
+                    categories=["games", "merch"],
+                    tags=["jrpg", "atlus"],
+                    region_tags=[],
+                    sg_relevance=0.1,
+                    published_at=now - timedelta(hours=6),
+                    source_name="Google News JRPG",
+                ),
+                cls.make_article(
+                    article_id="persona-cafe",
+                    title="Persona 5 Royale collab cafe returns to Singapore's ANIPLUS Cafe",
+                    summary="A Singapore cafe collaboration brings Persona menu items, merch, and reservation perks back to ANIPLUS.",
+                    content="Persona fans in Singapore can book a returning ANIPLUS collab cafe with themed drinks, merch bundles, and cafe bonuses.",
+                    categories=["anime", "events", "merch"],
+                    tags=["jrpg", "singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.66,
+                    published_at=now - timedelta(hours=5),
+                    source_name="Google News Anime And Manga",
+                ),
+                cls.make_article(
+                    article_id="persona-ai-distractor",
+                    title="Persona AI announces manufacturing expansion in Singapore",
+                    summary="A corporate software company named Persona AI announces a manufacturing leadership hire and expansion plan.",
+                    content="This business update is unrelated to Atlus, Persona 4 Revival, JRPGs, or franchise merch and events.",
+                    categories=["games"],
+                    tags=["singapore"],
+                    region_tags=["Singapore"],
+                    sg_relevance=0.61,
+                    published_at=now - timedelta(hours=2),
+                    source_name="Yahoo Finance Singapore",
+                ),
+                cls.make_article(
+                    article_id="persona-non-grata-distractor",
+                    title="Argentina declares Iranian envoy persona non grata",
+                    summary="A diplomacy update uses the phrase persona non grata and has no connection to ACG coverage.",
+                    content="This foreign affairs report is unrelated to Atlus, Persona 4 Revival, JRPG releases, or franchise merchandise.",
+                    categories=["games"],
+                    tags=[],
+                    region_tags=[],
+                    sg_relevance=0.0,
+                    published_at=now - timedelta(hours=1),
+                    source_name="Reuters World",
                 ),
                 cls.make_article(
                     article_id="manga-workshop",
@@ -339,6 +399,7 @@ class SearchBackendTests(unittest.TestCase):
             "sgcc guests": ("singapore comic con", "sgcc"),
             "mlbb qualifiers": ("mobile legends", "mlbb"),
             "hoyofest singapore": ("hoyofest",),
+            "artist alley singapore": ("artist alley", "anime festival asia", "sgcc"),
             "poppa singapore": ("moe moe q", "mmq", "idol"),
             "moe moe q idol": ("moe moe q", "mmq", "idol"),
             "ani-idol singapore": ("ani-idol", "ani idol", "idol"),
@@ -388,6 +449,26 @@ class SearchBackendTests(unittest.TestCase):
 
         self.assertTrue(response.items)
         self.assertEqual(response.items[0].title, "POPPA by Moe Moe Q announces Singapore idol live and merch signing")
+
+    def test_artist_alley_query_prefers_artist_alley_result(self) -> None:
+        response = self.news_service.search(query="artist alley singapore", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertEqual(response.items[0].title, "Artist Alley Singapore guide highlights AFA and SGCC creator booths")
+
+    def test_persona_query_excludes_non_franchise_false_positives(self) -> None:
+        response = self.news_service.search(query="persona 4 revival", limit=5, rerank=False, user_id=None)
+
+        self.assertTrue(response.items)
+        self.assertEqual(response.items[0].title, "Persona 4 Revival release date surfaces after merch listing")
+        self.assertNotIn(
+            "Persona AI announces manufacturing expansion in Singapore",
+            [item.title for item in response.items],
+        )
+        self.assertNotIn(
+            "Argentina declares Iranian envoy persona non grata",
+            [item.title for item in response.items],
+        )
 
     def test_broad_search_surfaces_multiple_sources(self) -> None:
         response = self.news_service.search(query="anime singapore", limit=3, rerank=False, user_id=None)

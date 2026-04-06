@@ -302,6 +302,21 @@ def query_signal_score(query: str, expanded_query: str, article: ArticleRecord) 
     return min(score, 1.0)
 
 
+def exact_query_phrase_boost(query: str, article: ArticleRecord) -> float:
+    cleaned_query = strip_text(query).lower()
+    query_tokens = [token for token in re.findall(r"[a-z0-9]+", cleaned_query) if token not in STOPWORDS]
+    if len(query_tokens) < 2 or len(cleaned_query) <= 2:
+        return 0.0
+
+    title = article.title.lower()
+    text = article.search_text().lower()
+    if cleaned_query in title:
+        return 0.12
+    if cleaned_query in text:
+        return 0.07
+    return 0.0
+
+
 def _scale_affinity(value: float) -> float:
     return max(min(value / 1.2, 1.0), -1.0)
 

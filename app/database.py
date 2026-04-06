@@ -571,6 +571,33 @@ class ArticleRepository:
             rows = connection.execute(query, params).fetchall()
         return [self._row_to_article(row) for row in rows]
 
+    def list_articles_by_source_names(self, source_names: list[str]) -> list[ArticleRecord]:
+        if not source_names:
+            return []
+
+        placeholders = ", ".join("?" for _ in source_names)
+        with self.connect() as connection:
+            rows = connection.execute(
+                f"SELECT * FROM articles WHERE source_name IN ({placeholders}) ORDER BY published_at DESC",
+                source_names,
+            ).fetchall()
+        return [self._row_to_article(row) for row in rows]
+
+    def delete_articles(self, article_ids: list[str]) -> None:
+        if not article_ids:
+            return
+
+        ordered_ids = sorted(set(str(article_id) for article_id in article_ids if article_id))
+        if not ordered_ids:
+            return
+
+        placeholders = ", ".join("?" for _ in ordered_ids)
+        with self.connect() as connection:
+            connection.execute(f"DELETE FROM articles_fts WHERE article_id IN ({placeholders})", ordered_ids)
+            connection.execute(f"DELETE FROM articles WHERE id IN ({placeholders})", ordered_ids)
+            self._delete_orphan_user_interactions(connection)
+            connection.commit()
+
     def lexical_search(self, query: str, limit: int) -> list[tuple[str, float]]:
         fts_query = build_fts_query(query)
         if not fts_query:

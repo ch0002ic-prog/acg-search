@@ -105,6 +105,17 @@ class EntityNormalizationTests(unittest.TestCase):
         self.assertNotIn("POPPA", from_article)
         self.assertIn("POPPA", from_query)
 
+    def test_infer_entity_tags_skips_ambiguous_persona_without_franchise_context(self) -> None:
+        from_company = infer_entity_tags("Persona AI announces Brian Davis as head of manufacturing")
+        from_diplomacy = infer_entity_tags("Argentina declares Iranian envoy persona non grata")
+        from_merch = infer_entity_tags("'Persona' Funko POP! Vinyls celebrate 30 years")
+        from_query = infer_entity_tags("persona 4 revival", for_query=True)
+
+        self.assertNotIn("Persona", from_company)
+        self.assertNotIn("Persona", from_diplomacy)
+        self.assertIn("Persona", from_merch)
+        self.assertIn("Persona", from_query)
+
     def test_feed_response_builds_cross_source_entity_groups(self) -> None:
         now = datetime.now(timezone.utc)
         articles = [

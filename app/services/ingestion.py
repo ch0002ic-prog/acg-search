@@ -82,6 +82,8 @@ class IngestionService:
                 fetched_items = source.fetch(limit=limit)[:limit]
                 source_runs[source.name]["fetched_count"] = len(fetched_items)
                 for item in fetched_items:
+                    if not source.matches(item):
+                        continue
                     if item.url in seen_urls:
                         continue
                     seen_urls.add(item.url)
@@ -109,7 +111,8 @@ class IngestionService:
         self.repository.upsert_articles(collected)
         self.vector_store.upsert_articles(collected)
         duplicate_ids = self.repository.prune_duplicate_articles()
-        self.vector_store.delete_articles(duplicate_ids)
+        mismatch_ids = self._prune_source_mismatches()
+        self.vector_store.delete_articles(duplicate_ids + mismatch_ids)
         persisted_by_source = Counter(article.source_name for article in collected)
         self.repository.record_source_health_batch(
             [
@@ -134,13 +137,14 @@ class IngestionService:
             "errors": errors,
         }
         logger.info(
-            "Refresh ingest completed: request_id=%s fetched=%s persisted=%s seed_used=%s errors=%s duplicates_pruned=%s",
+            "Refresh ingest completed: request_id=%s fetched=%s persisted=%s seed_used=%s errors=%s duplicates_pruned=%s mismatches_pruned=%s",
             request_id or "none",
             result["fetched"],
             result["persisted"],
             seed_used,
             len(errors),
             len(duplicate_ids),
+            len(mismatch_ids),
         )
         return result
 
@@ -193,6 +197,38 @@ class IngestionService:
             image_url=item.image_url,
             event_metadata=merge_event_metadata(item.event_metadata, inferred_event_metadata),
         )
+
+    def _prune_source_mismatches(self) -> list[str]:
+        cleanup_sources = {
+            source.name: source
+            for source in self.sources
+            if source.cleanup_mismatches and (source.include_keywords or source.exclude_keywords)
+        }
+        if not cleanup_sources:
+            return []
+
+        stored_articles = self.repository.list_articles_by_source_names(list(cleanup_sources))
+        delete_ids: list[str] = []
+        for article in stored_articles:
+            source = cleanup_sources.get(article.source_name)
+            if source is None:
+                continue
+            source_article = SourceArticle(
+                title=article.title,
+                url=article.url,
+                published_at=article.published_at,
+                summary=article.summary,
+                content=article.content,
+                category_hints=list(article.categories),
+                region_hints=list(article.region_tags),
+                image_url=article.image_url,
+                event_metadata=article.event_metadata,
+            )
+            if not source.matches(source_article):
+                delete_ids.append(article.id)
+
+        self.repository.delete_articles(delete_ids)
+        return delete_ids
 
     def _fetch_article_text(self, url: str) -> str:
         try:

@@ -8,6 +8,7 @@ from app.services.entities import build_entity_groups
 from app.services.llm import LLMService
 from app.services.ranking import (
     diversify_scored_articles,
+    exact_query_phrase_boost,
     has_meaningful_query_match,
     query_anchor_tokens,
     query_signal_score,
@@ -104,6 +105,7 @@ class NewsService:
                 + (0.1 * article.freshness_score)
                 + (0.12 * profile_score)
             )
+            final_score += exact_query_phrase_boost(query=query, article=article)
             if strict_query and final_score < 0.16:
                 continue
             ranked.append((article, final_score))

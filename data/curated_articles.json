@@ -16,5 +16,23 @@
     "content": "Ani-Idol Singapore is tracked here as a long-tail ACG event query. This curated entry gives the search system a relevant result for Ani-Idol Singapore and idol live Singapore while live source coverage is still inconsistent.",
     "category_hints": ["events", "anime"],
     "region_hints": ["Singapore"]
+  },
+  {
+    "title": "HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
+    "url": "https://example.com/curated/hoyofest-singapore-watch",
+    "published_at": "2026-04-06T12:00:00+00:00",
+    "summary": "Curated Singapore watch entry for HoyoFest coverage, including HoYoVerse merch booths, Genshin Impact, Honkai: Star Rail, Zenless Zone Zero, and collab cafe updates.",
+    "content": "HoyoFest Singapore is tracked here as a Singapore-relevant ACG event signal. This curated entry exists so fans searching for HoyoFest Singapore, HoYoVerse Singapore, Genshin merch booths, or Honkai and Zenless event updates can find at least one relevant result while upstream coverage remains inconsistent.",
+    "category_hints": ["events", "gacha", "merch"],
+    "region_hints": ["Singapore"]
+  },
+  {
+    "title": "Artist Alley Singapore watch for Anime Festival Asia and SGCC creator booths",
+    "url": "https://example.com/curated/artist-alley-singapore-watch",
+    "published_at": "2026-04-06T12:00:00+00:00",
+    "summary": "Curated Singapore watch entry for artist alley coverage across Anime Festival Asia, SGCC, and other creator-booth market events in Singapore.",
+    "content": "Artist alley Singapore is tracked here as a long-tail creator-market query. This curated entry gives the search system a relevant result for artist alley Singapore, Anime Festival Asia creator booths, SGCC artist alley, and related market-floor discovery while live source coverage is uneven.",
+    "category_hints": ["events", "anime", "merch"],
+    "region_hints": ["Singapore"]
   }
 ]

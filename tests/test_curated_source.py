@@ -33,22 +33,42 @@ class CuratedSourceTests(unittest.TestCase):
                             "category_hints": ["events", "anime"],
                             "region_hints": ["Singapore"],
                         },
+                        {
+                            "title": "HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops",
+                            "url": "https://example.com/hoyofest",
+                            "published_at": "2026-04-06T12:00:00+00:00",
+                            "summary": "Curated HoyoFest coverage.",
+                            "content": "Curated HoyoFest coverage.",
+                            "category_hints": ["events", "gacha", "merch"],
+                            "region_hints": ["Singapore"],
+                        },
+                        {
+                            "title": "Artist Alley Singapore watch for Anime Festival Asia and SGCC creator booths",
+                            "url": "https://example.com/artist-alley",
+                            "published_at": "2026-04-06T12:00:00+00:00",
+                            "summary": "Curated artist alley coverage.",
+                            "content": "Curated artist alley coverage.",
+                            "category_hints": ["events", "anime", "merch"],
+                            "region_hints": ["Singapore"],
+                        },
                     ]
                 ),
                 encoding="utf-8",
             )
 
             source = CuratedSource(
-                name="Curated SG Idol Watch",
-                feed_url="local://curated-sg-idol-watch",
+                name="Curated SG Search Watch",
+                feed_url="local://curated-sg-search-watch",
                 file_path=file_path,
                 region_hints=["Singapore"],
             )
             articles = source.fetch(limit=5)
 
-        self.assertEqual(len(articles), 2)
+        self.assertEqual(len(articles), 4)
         self.assertEqual(articles[0].title, "POPPA by Moe Moe Q Singapore idol live watch")
         self.assertEqual(articles[1].title, "Ani-Idol Singapore anisong stage watch")
+        self.assertEqual(articles[2].title, "HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops")
+        self.assertEqual(articles[3].title, "Artist Alley Singapore watch for Anime Festival Asia and SGCC creator booths")
 
 
 if __name__ == "__main__":

@@ -29,11 +29,15 @@ class BaseSource(ABC):
     category_hints: list[str] = field(default_factory=list)
     region_hints: list[str] = field(default_factory=list)
     include_keywords: list[str] = field(default_factory=list)
+    exclude_keywords: list[str] = field(default_factory=list)
+    cleanup_mismatches: bool = False
 
     def matches(self, article: SourceArticle) -> bool:
+        haystack = " ".join([article.title, article.summary, article.content]).lower()
+        if self.exclude_keywords and any(keyword.lower() in haystack for keyword in self.exclude_keywords):
+            return False
         if not self.include_keywords:
             return True
-        haystack = " ".join([article.title, article.summary, article.content]).lower()
         return any(keyword.lower() in haystack for keyword in self.include_keywords)
 
     @abstractmethod

@@ -128,6 +128,99 @@ class SourceHealthTests(unittest.TestCase):
         self.assertEqual(runs[0].source_name, "Anime Festival Asia")
         self.assertEqual(runs[1].source_name, "Bandwagon Asia")
 
+    def test_ingest_filters_and_prunes_broad_source_false_positives(self) -> None:
+        now = datetime.now(timezone.utc)
+        source = SuccessSource(
+            name="Google News JRPG",
+            feed_url="https://example.com/google-jrpg",
+            quality=0.76,
+            source_type="rss",
+            include_keywords=["persona", "jrpg", "atlus"],
+            exclude_keywords=["manufacturing", "persona non grata"],
+            cleanup_mismatches=True,
+            articles=[
+                SourceArticle(
+                    title="Persona 4 Revival release date surfaces after merch listing",
+                    url="https://example.com/persona-revival",
+                    published_at=now - timedelta(hours=2),
+                    summary="A Persona 4 Revival report points to an Atlus reveal window.",
+                ),
+                SourceArticle(
+                    title="Persona AI announces manufacturing expansion in Singapore",
+                    url="https://example.com/persona-ai",
+                    published_at=now - timedelta(hours=1),
+                    summary="A corporate software company named Persona AI announces a manufacturing expansion.",
+                ),
+            ],
+        )
+        stale_false_positive = SourceArticle(
+            title="Argentina declares Iranian envoy persona non grata",
+            url="https://example.com/persona-non-grata",
+            published_at=now - timedelta(days=1),
+            summary="A diplomacy report unrelated to games or Persona releases.",
+        )
+        ingestion_service = IngestionService(
+            settings=self.test_settings,
+            repository=self.repository,
+            vector_store=self.vector_store,
+            llm_service=self.llm_service,
+            sources=[source],
+        )
+
+        self.repository.upsert_articles([ingestion_service._to_article(source, stale_false_positive)])
+
+        ingestion_service.ingest(limit_per_source=10, request_id="test-ingest-filter")
+
+        items = self.repository.latest_articles(limit=10)
+        titles = [item.title for item in items]
+        source_health = self.repository.list_source_health(stale_after_hours=24, now=now)
+
+        self.assertIn("Persona 4 Revival release date surfaces after merch listing", titles)
+        self.assertNotIn("Persona AI announces manufacturing expansion in Singapore", titles)
+        self.assertNotIn("Argentina declares Iranian envoy persona non grata", titles)
+        self.assertEqual(len(items), 1)
+        self.assertEqual(source_health[0].fetched_count, 2)
+        self.assertEqual(source_health[0].persisted_count, 1)
+
+    def test_ingest_filters_ambiguous_poppa_without_mmq_context(self) -> None:
+        now = datetime.now(timezone.utc)
+        source = SuccessSource(
+            name="Google News SG Events",
+            feed_url="https://example.com/google-events",
+            quality=0.74,
+            source_type="rss",
+            include_keywords=["poppa by moe moe q", "moe moe q", "mmq", "idol live"],
+            cleanup_mismatches=True,
+            articles=[
+                SourceArticle(
+                    title="POPPA by Moe Moe Q announces Singapore idol live",
+                    url="https://example.com/poppa-mmq",
+                    published_at=now - timedelta(hours=2),
+                    summary="Moe Moe Q confirms a POPPA idol live in Singapore.",
+                ),
+                SourceArticle(
+                    title="Poppa Wheely/A Mom Cartoon/The Mock Side of the Moon (2001) - IMDb",
+                    url="https://example.com/poppa-wheely",
+                    published_at=now - timedelta(hours=1),
+                    summary="An unrelated movie listing with no stage, performer, or franchise context.",
+                ),
+            ],
+        )
+        ingestion_service = IngestionService(
+            settings=self.test_settings,
+            repository=self.repository,
+            vector_store=self.vector_store,
+            llm_service=self.llm_service,
+            sources=[source],
+        )
+
+        ingestion_service.ingest(limit_per_source=10, request_id="test-poppa-filter")
+
+        titles = [item.title for item in self.repository.latest_articles(limit=10)]
+
+        self.assertIn("POPPA by Moe Moe Q announces Singapore idol live", titles)
+        self.assertNotIn("Poppa Wheely/A Mom Cartoon/The Mock Side of the Moon (2001) - IMDb", titles)
+
     def test_source_health_preserves_last_success_and_marks_stale_after_repeated_failures(self) -> None:
         first_success = datetime(2026, 4, 1, 12, 0, tzinfo=timezone.utc)
         first_failure = first_success + timedelta(hours=6)
