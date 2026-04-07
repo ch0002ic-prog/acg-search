@@ -21,8 +21,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9370432109681271,
-    "home_score": 0.7797,
+    "freshness_score": 0.8648432690707434,
+    "home_score": 0.7472,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C503%2C3952%2C1976%5D/resize=w:1920/pjpg=q:90/compress/f6snGT2LRJq1ywkpYtZ2",
     "event_metadata": {
@@ -38,29 +38,84 @@
     "result_type": "article"
   },
   {
-    "id": "fa18e89990baaf1b559143672812968b366bb96d",
-    "title": "Crunchyroll Anime Nights Opens Ticketing for 'That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond' - Animation Magazine",
-    "url": "https://www.animationmagazine.net/2026/04/crunchyroll-anime-nights-opens-ticketing-for-that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond/",
-    "source_name": "Google News Anime And Manga",
+    "id": "aa749177a94bc632ae11839d8f3c895f0cec1919",
+    "title": "Rumour: Persona 1 and 2 Re-Release Hinted at by New Merchandise - Push Square",
+    "url": "https://www.pushsquare.com/news/2026/04/rumour-persona-1-and-2-re-release-hinted-at-by-new-merchandise",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-06T17:34:27Z",
-    "summary": "Crunchyroll Anime Nights Opens Ticketing for 'That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond' Animation Magazine",
+    "published_at": "2026-04-07T11:30:00Z",
+    "summary": "Rumour: Persona 1 and 2 Re-Release Hinted at by New Merchandise Push Square",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "events"
+      "games",
+      "merch"
     ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
+    "tags": [
+      "jrpg"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.836605902486451,
-    "home_score": 0.7465,
-    "source_quality": 0.75,
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9904453117670621,
+    "home_score": 0.6917,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "82b4827d45a7aed65c1fb1c1533a64a4a03990af",
+    "title": "OG Persona fans doolally after Atlus sneaks out a surprise rebrand - PC Gamer",
+    "url": "https://www.pcgamer.com/games/rpg/og-persona-fans-beg-atlus-for-a-remake-atlus-says-best-i-can-do-is-a-surprise-rebrand-and-a-phone-case/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T11:19:59Z",
+    "summary": "OG Persona fans doolally after Atlus sneaks out a surprise rebrand PC Gamer",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.988151457907993,
+    "home_score": 0.6847,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f4f7602e52474ca04a22bb9cbe473768947954b0",
+    "title": "Square Enix Is Looking Into Bringing DISSIDIA DUELLUM FINAL FANTASY to PC - gamerbraves.com",
+    "url": "https://www.gamerbraves.com/square-enix-is-looking-into-bringing-dissidia-duellum-final-fantasy-to-pc/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T07:53:51Z",
+    "summary": "Square Enix Is Looking Into Bringing DISSIDIA DUELLUM FINAL FANTASY to PC gamerbraves",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9421080202594214,
+    "home_score": 0.6639,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -87,8 +142,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.877426226225956,
-    "home_score": 0.6878,
+    "freshness_score": 0.8098172557332655,
+    "home_score": 0.6574,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -122,80 +177,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.16,
-    "freshness_score": 0.8185613942729422,
-    "home_score": 0.6814,
+    "freshness_score": 0.7554881788965304,
+    "home_score": 0.653,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 12, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "f4f7602e52474ca04a22bb9cbe473768947954b0",
-    "title": "Square Enix Is Looking Into Bringing DISSIDIA DUELLUM FINAL FANTASY to PC - GamerBraves",
-    "url": "https://www.gamerbraves.com/square-enix-is-looking-into-bringing-dissidia-duellum-final-fantasy-to-pc/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T04:41:19Z",
-    "summary": "Square Enix Is Looking Into Bringing DISSIDIA DUELLUM FINAL FANTASY to PC GamerBraves",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.976267477962012,
-    "home_score": 0.6793,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ab4b408e59e2411b2ecdf53ecf4c906181c769f1",
-    "title": "OT13 is here to stay: SEVENTEEN announce all 13 members have renewed contracts with PLEDIS Entertainment",
-    "url": "https://www.bandwagon.asia/articles/ot13-is-here-to-stay-seventeen-announce-all-13-members-have-renewed-contracts-with-pledis-entertainmen",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-06T04:05:00Z",
-    "summary": "As 2026 began with many idols leaving their groups, leaving fans in disappointment and desperation to get all their favourites on stage once again, SEVENTEEN has given fans a ray o",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "idol"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6936967781530426,
-    "home_score": 0.6702,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C332%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/OwVRN3oSasm7Aozhkxzg",
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": "5 April",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -226,8 +214,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8300096257702263,
-    "home_score": 0.6665,
+    "freshness_score": 0.7660542815266548,
+    "home_score": 0.6377,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -255,8 +243,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8653239830931831,
-    "home_score": 0.6624,
+    "freshness_score": 0.7986475357544605,
+    "home_score": 0.6324,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -290,8 +278,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8533886648186187,
-    "home_score": 0.657,
+    "freshness_score": 0.78763187842298,
+    "home_score": 0.6274,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -304,58 +292,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "54ffce9724a4c2376b46161f39a91dfa3002031c",
-    "title": "\u2018Final Fantasy VII\u2019 remake is a game for a new audience - theonlineclarion.com",
-    "url": "https://www.theonlineclarion.com/arts-culture/2026/04/06/final-fantasy-vii-remake-is-a-game-for-a-new-audience/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T00:24:44Z",
-    "summary": "\u2018Final Fantasy VII\u2019 remake is a game for a new audience theonlineclarion",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9199711482621425,
-    "home_score": 0.654,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ebbad9d08a55c4db1272312d4be748e49783957a",
-    "title": "First Sakura Wars 30th Anniversary Figure Is Sakura Shinguji",
-    "url": "https://www.siliconera.com/first-sakura-wars-30th-anniversary-figure-is-sakura-shinguji/?utm_source=rss&utm_medium=rss&utm_campaign=first-sakura-wars-30th-anniversary-figure-is-sakura-shinguji",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-06T18:00:00Z",
-    "summary": "When April 2026 started , Sega confirmed it would celebrate the 30th anniversary of the Sakura Wars ( Sakura Taisen ) series in various ways, with merchandise being one, and now it",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.841617969504688,
-    "home_score": 0.6517,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -384,9 +320,61 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7961364654875756,
-    "home_score": 0.6513,
+    "freshness_score": 0.7347911746746372,
+    "home_score": 0.6237,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ebbad9d08a55c4db1272312d4be748e49783957a",
+    "title": "First Sakura Wars 30th Anniversary Figure Is Sakura Shinguji",
+    "url": "https://www.siliconera.com/first-sakura-wars-30th-anniversary-figure-is-sakura-shinguji/?utm_source=rss&utm_medium=rss&utm_campaign=first-sakura-wars-30th-anniversary-figure-is-sakura-shinguji",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-06T18:00:00Z",
+    "summary": "When April 2026 started , Sega confirmed it would celebrate the 30th anniversary of the Sakura Wars ( Sakura Taisen ) series in various ways, with merchandise being one, and now it",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7767681589663786,
+    "home_score": 0.6225,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "54ffce9724a4c2376b46161f39a91dfa3002031c",
+    "title": "\u2018Final Fantasy VII\u2019 remake is a game for a new audience - theonlineclarion.com",
+    "url": "https://www.theonlineclarion.com/arts-culture/2026/04/06/final-fantasy-vii-remake-is-a-game-for-a-new-audience/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T00:24:44Z",
+    "summary": "\u2018Final Fantasy VII\u2019 remake is a game for a new audience theonlineclarion",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8490836690413108,
+    "home_score": 0.6221,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -411,8 +399,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9018623563838576,
-    "home_score": 0.6458,
+    "freshness_score": 0.8323702328861295,
+    "home_score": 0.6146,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -440,8 +428,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8864564323141941,
-    "home_score": 0.6449,
+    "freshness_score": 0.8181514000881454,
+    "home_score": 0.6142,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -454,31 +442,6 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "article"
-  },
-  {
-    "id": "0c5a59c984050948405e4f08489862a46dc35257",
-    "title": "10 Final Fantasy X Moments that Quietly Set It Apart from Other Final Fantasy Games - DualShockers",
-    "url": "https://www.dualshockers.com/final-fantasy-x-moments-that-quietly-set-it-apart/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T21:30:13Z",
-    "summary": "10 Final Fantasy X Moments that Quietly Set It Apart from Other Final Fantasy Games DualShockers",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8835473962164709,
-    "home_score": 0.6376,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -500,8 +463,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8074112305542248,
-    "home_score": 0.6363,
+    "freshness_score": 0.7451971771090269,
+    "home_score": 0.6083,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -514,6 +477,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "0c5a59c984050948405e4f08489862a46dc35257",
+    "title": "10 Final Fantasy X Moments that Quietly Set It Apart from Other Final Fantasy Games - DualShockers",
+    "url": "https://www.dualshockers.com/final-fantasy-x-moments-that-quietly-set-it-apart/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T21:30:13Z",
+    "summary": "10 Final Fantasy X Moments that Quietly Set It Apart from Other Final Fantasy Games DualShockers",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8154665149988042,
+    "home_score": 0.607,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -535,8 +523,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7851554361768514,
-    "home_score": 0.6263,
+    "freshness_score": 0.7246562747471604,
+    "home_score": 0.5991,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -569,35 +557,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8185266049876748,
-    "home_score": 0.6083,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "440083704eb1ecf1e0add4b25236758578849e6a",
-    "title": "Square Enix is currently exploring the possibility of a Dissidia Duellum Final Fantasy PC version. - RPG Site",
-    "url": "https://www.rpgsite.net/news/20052-dissidia-duellum-final-fantasy-pc-version-being-explored",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T15:02:40Z",
-    "summary": "Square Enix is currently exploring the possibility of a Dissidia Duellum Final Fantasy PC version",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8077351992129731,
-    "home_score": 0.6035,
+    "freshness_score": 0.7554558384193671,
+    "home_score": 0.58,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -621,8 +582,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8001023810618616,
-    "home_score": 0.6,
+    "freshness_score": 0.7384512725147309,
+    "home_score": 0.5723,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -652,34 +613,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6114796635307208,
-    "home_score": 0.5482,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "299febbea7104c2d0be656db30d5afd0f0305139",
-    "title": "Review: Easy Delivery Co Pairs Dredge and PS1 Vibes",
-    "url": "https://www.siliconera.com/review-easy-delivery-co-pairs-dredge-and-ps1-vibes/?utm_source=rss&utm_medium=rss&utm_campaign=review-easy-delivery-co-pairs-dredge-and-ps1-vibes",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-05T13:00:00Z",
-    "summary": "There\u2019s an endeavor as of late to pair unsettling themes suited to horror games with cozy kinds of gameplay",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5625884399270905,
-    "home_score": 0.5262,
+    "freshness_score": 0.5643628695472678,
+    "home_score": 0.527,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -714,7 +649,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.1730592185302675e-136,
+    "freshness_score": 1.0826606852233416e-136,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -756,7 +691,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.7310673593060876e-178,
+    "freshness_score": 1.5976661073900729e-178,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -797,7 +732,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 4.317207111765948e-20,
+    "freshness_score": 3.9845503032118465e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -814,28 +749,27 @@
     "result_type": "source_page"
   },
   {
-    "id": "cb033c57fc8a64a03f7444e59af477af8eab18a1",
-    "title": "Southeast Asia launches national team-level esports competition - VnExpress International",
-    "url": "https://e.vnexpress.net/news/sports/other-sports/southeast-asia-launches-national-team-level-esports-competition-5057970.html",
-    "source_name": "Google News SEA Esports",
+    "id": "299febbea7104c2d0be656db30d5afd0f0305139",
+    "title": "Review: Easy Delivery Co Pairs Dredge and PS1 Vibes",
+    "url": "https://www.siliconera.com/review-easy-delivery-co-pairs-dredge-and-ps1-vibes/?utm_source=rss&utm_medium=rss&utm_campaign=review-easy-delivery-co-pairs-dredge-and-ps1-vibes",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-03T02:57:42Z",
-    "summary": "Southeast Asia launches national team-level esports competition VnExpress International",
+    "published_at": "2026-04-05T13:00:00Z",
+    "summary": "There\u2019s an endeavor as of late to pair unsettling themes suited to horror games with cozy kinds of gameplay",
     "content": "",
     "categories": [
-      "esports",
-      "games"
+      "games",
+      "anime",
+      "merch",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 0.25123649831439837,
-    "home_score": 0.5026,
-    "source_quality": 0.76,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5192388973352209,
+    "home_score": 0.5067,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -865,7 +799,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 3.1115308264984824e-18,
+    "freshness_score": 2.8717430309157548e-18,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -883,12 +817,12 @@
   },
   {
     "id": "73bffc4bf3282f2bf858116556dc4b18d07426d7",
-    "title": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones - The Straits Times",
+    "title": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones - straitstimes.com",
     "url": "https://www.straitstimes.com/life/home-design/design-news-anime-festival-asia-returns-oppo-s-new-foldable-phones",
     "source_name": "Google News Anime Conventions",
     "source_type": "rss",
     "published_at": "2023-10-20T07:00:00Z",
-    "summary": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones The Straits Times",
+    "summary": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones straitstimes",
     "content": "",
     "categories": [
       "events",
@@ -906,7 +840,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 5.189694241857688e-131,
+    "freshness_score": 4.789754336839469e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -950,7 +884,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 3.02388519793311e-51,
+    "freshness_score": 2.790855518993839e-51,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -993,7 +927,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.5975267399439635e-18,
+    "freshness_score": 1.4744165293840817e-18,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1036,7 +970,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 8.201975792063309e-19,
+    "freshness_score": 7.569906894660206e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1054,12 +988,12 @@
   },
   {
     "id": "d72b5ccd9efed7237d0e3ada0f9bec672fe23b31",
-    "title": "Singapore Comic Con: Toys, Games, Art & Cosplay At Sands Expo - Little Day Out",
+    "title": "Singapore Comic Con: Toys, Games, Art & Cosplay At Sands Expo - littledayout.com",
     "url": "https://www.littledayout.com/singapore-comic-con-toys-games-art-cosplay/",
     "source_name": "Google News Artist Alley",
     "source_type": "rss",
     "published_at": "2022-12-11T08:00:00Z",
-    "summary": "Singapore Comic Con: Toys, Games, Art & Cosplay At Sands Expo Little Day Out",
+    "summary": "Singapore Comic Con: Toys, Games, Art & Cosplay At Sands Expo littledayout",
     "content": "",
     "categories": [
       "events",
@@ -1080,7 +1014,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.569131757053762e-176,
+    "freshness_score": 2.3711467445690878e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1123,7 +1057,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.5691317511859458e-176,
+    "freshness_score": 2.371146739125967e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1137,35 +1071,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "38030bad54ea70f710ddd3acfe153cf5d5bbfacf",
-    "title": "On and Off Work-Life Imbalance Handles Its Reveal Well",
-    "url": "https://www.siliconera.com/on-and-off-work-life-imbalance-handles-its-reveal-well/?utm_source=rss&utm_medium=rss&utm_campaign=on-and-off-work-life-imbalance-handles-its-reveal-well",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-04T19:00:00Z",
-    "summary": "On and Off Work-Life Imbalance has, so far, been a heartening manga about people getting a chance to be true to themselves and end up accepted by others",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.43814431033748996,
-    "home_score": 0.4702,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1193,7 +1098,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 2.1621421239082483e-19,
+    "freshness_score": 1.9955444352428802e-19,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1235,7 +1140,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.083758955327932e-20,
+    "freshness_score": 3.769096568563888e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1276,7 +1181,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 5.1971296953254374e-23,
+    "freshness_score": 4.796679704808765e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1320,7 +1225,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 5.948038423861397e-29,
+    "freshness_score": 5.489729299634713e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1361,7 +1266,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 5.699103465252358e-20,
+    "freshness_score": 5.25992930044643e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1379,12 +1284,12 @@
   },
   {
     "id": "6dd131396e46fb2de1be7a5caa9616001b821018",
-    "title": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 - THE MAGIC RAIN",
+    "title": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 - themagicrain.com",
     "url": "https://themagicrain.com/2025/11/muse-brings-exclusive-anime-deals-and-merchandise-to-afasg-2025/",
     "source_name": "Google News Anime Conventions",
     "source_type": "rss",
     "published_at": "2025-11-29T08:00:00Z",
-    "summary": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 THE MAGIC RAIN",
+    "summary": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 themagicrain",
     "content": "",
     "categories": [
       "events",
@@ -1403,7 +1308,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7799999999999999,
-    "freshness_score": 2.1619990069818278e-19,
+    "freshness_score": 1.9953861704246384e-19,
     "home_score": 0.4635,
     "source_quality": 0.79,
     "image_url": null,
@@ -1436,8 +1341,8 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.0017544505291266807,
-    "home_score": 0.4618,
+    "freshness_score": 0.0016192486971440005,
+    "home_score": 0.4617,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1469,7 +1374,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 4.945710637534328e-35,
+    "freshness_score": 4.564583255887168e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1478,12 +1383,12 @@
   },
   {
     "id": "acf63b8f1147e951d7371bc0759991793c5eb583",
-    "title": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention - The Straits Times",
+    "title": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention - straitstimes.com",
     "url": "https://www.straitstimes.com/life/entertainment/from-passion-to-product-artist-alley-kicks-off-at-sold-out-hoyo-fest-convention",
     "source_name": "Google News HoyoFest",
     "source_type": "rss",
     "published_at": "2025-07-26T07:00:00Z",
-    "summary": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention The Straits Times",
+    "summary": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention straitstimes",
     "content": "",
     "categories": [
       "events",
@@ -1501,7 +1406,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.2259191153575487e-37,
+    "freshness_score": 1.1314470815988344e-37,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1543,7 +1448,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.2259191021524379e-37,
+    "freshness_score": 1.1314470694418884e-37,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1584,7 +1489,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.1114281452219502e-41,
+    "freshness_score": 1.9487168302797904e-41,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1626,9 +1531,38 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 6.868575188689043e-46,
+    "freshness_score": 6.339267618882339e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "38030bad54ea70f710ddd3acfe153cf5d5bbfacf",
+    "title": "On and Off Work-Life Imbalance Handles Its Reveal Well",
+    "url": "https://www.siliconera.com/on-and-off-work-life-imbalance-handles-its-reveal-well/?utm_source=rss&utm_medium=rss&utm_campaign=on-and-off-work-life-imbalance-handles-its-reveal-well",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-04T19:00:00Z",
+    "summary": "On and Off Work-Life Imbalance has, so far, been a heartening manga about people getting a chance to be true to themselves and end up accepted by others",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.40438365306551205,
+    "home_score": 0.455,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1659,7 +1593,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 6.250090387357888e-17,
+    "freshness_score": 5.768507518303658e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1701,7 +1635,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 6.250090380630372e-17,
+    "freshness_score": 5.768507511471334e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1743,7 +1677,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 4.342778534632664e-18,
+    "freshness_score": 4.008158133139876e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1785,7 +1719,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.111736809958527e-18,
+    "freshness_score": 2.871970816202984e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1828,7 +1762,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.5492425170434128e-19,
+    "freshness_score": 1.4298700604126985e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1870,7 +1804,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 7.4796654235442285e-22,
+    "freshness_score": 6.903341160508574e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1913,7 +1847,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 2.1949239635153654e-42,
+    "freshness_score": 2.0257969369759344e-42,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -1928,32 +1862,6 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "d39603ea776f94885282729ba3964e89e9b02235",
-    "title": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted - PC Gamer",
-    "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-variant-dungeon-is-so-good-it-deserves-better-the-mmo-needs-to-figure-out-its-rewards-so-all-this-great-work-isnt-wasted/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T15:00:00Z",
-    "summary": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted PC Gamer",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4144491713845488,
-    "home_score": 0.4325,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
   },
   {
     "id": "cb2eede0a24cb952afb5694716ab3eb3c847c480",
@@ -1981,7 +1889,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.7109079390879907e-37,
+    "freshness_score": 1.5790615954279593e-37,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2014,7 +1922,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 2.9467353364700846e-41,
+    "freshness_score": 2.719653404797678e-41,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2048,7 +1956,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 2.0474934189257654e-42,
+    "freshness_score": 1.889709055532842e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2081,7 +1989,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.9469787867815508e-87,
+    "freshness_score": 1.7969403026396416e-87,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2122,7 +2030,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 2.1077152627819443e-65,
+    "freshness_score": 1.945307990234922e-65,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2166,7 +2074,7 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 1.9222527468256443e-283,
+    "freshness_score": 1.7741157770328272e-283,
     "home_score": 0.426,
     "source_quality": 0.79,
     "image_url": null,
@@ -2177,6 +2085,125 @@
       "ticket_status": null,
       "ticket_url": null,
       "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5c686bc16d5f83a94eaea3c20099dbb73f16bbc8",
+    "title": "Inside The New Demon Slayer Exhibition In SG \u2013 Iconic Anime Scenes & SG-Exclusive Merch - TheSmartLocal",
+    "url": "https://thesmartlocal.com/read/demon-slayer-exhibition-singapore/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-03-10T07:00:00Z",
+    "summary": "Inside The New Demon Slayer Exhibition In SG \u2013 Iconic Anime Scenes & SG-Exclusive Merch TheSmartLocal",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 8.227423026496971e-05,
+    "home_score": 0.4075,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "0f2cff20dc654c3b473926f561ac2712f4bc63b7",
+    "title": "Kadokawa acquires company behind Southeast Asia\u2019s largest anime convention amidst continuous efforts for global expansion - AUTOMATON",
+    "url": "https://automaton-media.com/en/news/kadokawa-acquires-company-behind-southeast-asias-largest-anime-convention-amidst-continuous-efforts-for-global-expansion/",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2025-12-05T08:00:00Z",
+    "summary": "Kadokawa acquires company behind Southeast Asia\u2019s largest anime convention amidst continuous efforts for global expansion AUTOMATON",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.55,
+    "freshness_score": 1.474402038164948e-18,
+    "home_score": 0.406,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "bfbde9b9949a23c84dd1002530bf5e0ce34f47fc",
+    "title": "Singapore Toy, Game & Comic Convention (STGCC) 2016: Artist Alley Edition - Geek Culture",
+    "url": "https://geekculture.co/singapore-toy-game-comic-convention-stgcc-2016-artist-alley/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2016-09-10T07:00:00Z",
+    "summary": "Singapore Toy, Game & Comic Convention (STGCC) 2016: Artist Alley Edition Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "games",
+      "comics"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.5499999999999999,
+    "freshness_score": 0.0,
+    "home_score": 0.4045,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
       "guest_names": [],
       "merch_status": null
     },
