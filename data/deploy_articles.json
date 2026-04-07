@@ -1,5 +1,33 @@
 [
   {
+    "id": "fa18e89990baaf1b559143672812968b366bb96d",
+    "title": "Crunchyroll Anime Nights Opens Ticketing for 'That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond' - Animation Magazine",
+    "url": "https://www.animationmagazine.net/2026/04/crunchyroll-anime-nights-opens-ticketing-for-that-time-i-got-reincarnated-as-a-slime-the-movie-scarlet-bond/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-06T17:34:27Z",
+    "summary": "Crunchyroll Anime Nights Opens Ticketing for 'That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond' Animation Magazine",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9131731708861386,
+    "home_score": 0.7809,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "ab0a80c4ce268a6718f832bb95a28b4790e9cda0",
     "title": "Shadow Esports Becomes the Champion of FFNS 2026 Spring in Palembang, Secure Tickets to FFWS SEA - VOI.id",
     "url": "https://voi.id/en/technology/568367",
@@ -20,11 +48,49 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9610490800092103,
-    "home_score": 0.804,
+    "freshness_score": 0.8855939144036686,
+    "home_score": 0.77,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a63f5cbbd4c18b3db33974c73540bfc6a4ab4d4f",
+    "title": "More Steel Ball Run JoJo\u2019s Bizarre Adventure Anime Episodes Air in Fall",
+    "url": "https://www.siliconera.com/more-steel-ball-run-jojos-bizarre-adventure-anime-episodes-air-in-fall/?utm_source=rss&utm_medium=rss&utm_campaign=more-steel-ball-run-jojos-bizarre-adventure-anime-episodes-air-in-fall",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-06T21:00:00Z",
+    "summary": "Following the March 19, 2026 release of the first episode of the Steel Ball Run: JoJo\u2019s Bizarre Adventure anime adaptation, Netflix explained on social media why the rest of the ep",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9577249090006897,
+    "home_score": 0.724,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "March 19, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -46,49 +112,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.16,
-    "freshness_score": 0.9696251708378752,
-    "home_score": 0.7493,
+    "freshness_score": 0.8934729933054338,
+    "home_score": 0.7151,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 12, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "1baac99e514395c95e881b0c625067831e30d16b",
-    "title": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool - Esports Charts",
-    "url": "https://escharts.com/tournaments/aov/sea-games-2025-vietnam-men-qualifier",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-04-06T05:59:16Z",
-    "summary": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool Esports Charts",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8436714474145298,
-    "home_score": 0.7392,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "qualifier",
-      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -119,8 +149,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9831861493635163,
-    "home_score": 0.7354,
+    "freshness_score": 0.9059689233866771,
+    "home_score": 0.7007,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -150,13 +180,51 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.821718391403481,
-    "home_score": 0.7278,
+    "freshness_score": 0.7571834738214633,
+    "home_score": 0.6987,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C332%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/OwVRN3oSasm7Aozhkxzg",
     "event_metadata": {
       "event_type": "concert",
       "date_label": "5 April",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "309672bfaa8ca75c462a3bc042ff16b3723ebb6a",
+    "title": "4.2 Honkai: Star Rail Special Program Stream Airs This Week",
+    "url": "https://www.siliconera.com/4-2-honkai-star-rail-special-program-stream-airs-this-week/?utm_source=rss&utm_medium=rss&utm_campaign=4-2-honkai-star-rail-special-program-stream-airs-this-week",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-06T20:00:00Z",
+    "summary": "HoYoVerse is about to tell us more about the 4",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9445151150430503,
+    "home_score": 0.698,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 10, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -189,13 +257,48 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8090724610696522,
-    "home_score": 0.7221,
+    "freshness_score": 0.7455307112527907,
+    "home_score": 0.6935,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C277%2C1094%2C547%5D/resize=w:1920/pjpg=q:90/compress/VrbrZ4WsR6Kpmufxffgt",
     "event_metadata": {
       "event_type": null,
       "date_label": "5 April",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7b610c7b676fe299485730324653b22d39242f2e",
+    "title": "Level-5 Vision 2026 Craftsmanship Stream Will Cover New Games This Week",
+    "url": "https://www.siliconera.com/level-5-vision-2026-craftsmanship-stream-will-cover-new-games-this-week/?utm_source=rss&utm_medium=rss&utm_campaign=level-5-vision-2026-craftsmanship-stream-will-cover-new-games-this-week",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-06T19:00:00Z",
+    "summary": "Level-5 announced another video showcase going over new games, with its Vision 2026 Craftmanship stream airing on April 10, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9314875222471114,
+    "home_score": 0.6922,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 10, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -225,8 +328,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9969367885038937,
-    "home_score": 0.7216,
+    "freshness_score": 0.9186396181473796,
+    "home_score": 0.6864,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -258,9 +361,72 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9430617685031689,
-    "home_score": 0.7174,
+    "freshness_score": 0.8689958208153173,
+    "home_score": 0.684,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a94d7d16757b8700cb6a6a684a2c4fa355da4567",
+    "title": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback - Yahoo Tech",
+    "url": "https://tech.yahoo.com/gaming/articles/im-staring-persona-1-origins-214425665.html",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T21:44:25Z",
+    "summary": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback Yahoo Tech",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9675863598323424,
+    "home_score": 0.6814,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "0c5a59c984050948405e4f08489862a46dc35257",
+    "title": "10 Final Fantasy X Moments that Quietly Set It Apart from Other Final Fantasy Games - DualShockers",
+    "url": "https://www.dualshockers.com/final-fantasy-x-moments-that-quietly-set-it-apart/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T21:30:13Z",
+    "summary": "10 Final Fantasy X Moments that Quietly Set It Apart from Other Final Fantasy Games DualShockers",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9644110942631654,
+    "home_score": 0.674,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -284,8 +450,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9564172679864942,
-    "home_score": 0.7034,
+    "freshness_score": 0.8813024093312716,
+    "home_score": 0.6696,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -319,8 +485,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9300542136689391,
-    "home_score": 0.6915,
+    "freshness_score": 0.857009850314842,
+    "home_score": 0.6587,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -333,56 +499,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "c2f2ef9a6090b786209e6bc42386661849ffb50b",
-    "title": "Final Fantasy VII Remake devs say Rebirth features over 600 music tracks, and he hopes to win Best Score at The Game Awards with Part 3 - GoNintendo",
-    "url": "https://www.gonintendo.com/contents/59628-final-fantasy-vii-remake-devs-say-rebirth-features-over-600-music-tracks-and-he",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T17:24:59Z",
-    "summary": "Final Fantasy VII Remake devs say Rebirth features over 600 music tracks, and he hopes to win Best Score at The Game Awards with Part 3 GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9888345683718363,
-    "home_score": 0.685,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e17ad99abd85628cbe6975199c82eb05fcfab8be",
-    "title": "JRPG fans crushed again as latest Tales announcement turns out to be another bust: \"The way they hype things up is just terrible\" - GamesRadar+",
-    "url": "https://www.gamesradar.com/games/jrpg/jrpg-fans-crushed-again-as-latest-tales-announcement-turns-out-to-be-another-bust-the-way-they-hype-things-up-is-just-terrible/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T17:05:10Z",
-    "summary": "JRPG fans crushed again as latest Tales announcement turns out to be another bust: \"The way they hype things up is just terrible\" GamesRadar+",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9843089844782467,
-    "home_score": 0.6829,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -403,31 +519,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9695722482886563,
-    "home_score": 0.6763,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bb047204aaba628dcd5bfb77d3420fab90b76334",
-    "title": "FF14 Variant Dungeon Rewards Are Wasting Great Design - games.gg",
-    "url": "https://games.gg/news/ff14-merchants-tale-rewards-problem/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T15:19:34Z",
-    "summary": "FF14 Variant Dungeon Rewards Are Wasting Great Design games",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9605397896392774,
-    "home_score": 0.6722,
+    "freshness_score": 0.8934394929498892,
+    "home_score": 0.642,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -453,8 +546,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9567894728720826,
-    "home_score": 0.6706,
+    "freshness_score": 0.8816604403203987,
+    "home_score": 0.6367,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -478,8 +571,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9477481360664842,
-    "home_score": 0.6665,
+    "freshness_score": 0.8733290538925951,
+    "home_score": 0.633,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -503,8 +596,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9300752252052358,
-    "home_score": 0.6585,
+    "freshness_score": 0.8570438547266511,
+    "home_score": 0.6257,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -528,8 +621,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8809479140955623,
-    "home_score": 0.6364,
+    "freshness_score": 0.8117741130673954,
+    "home_score": 0.6053,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -542,6 +635,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "a131f74f62796058c5b3865b64e116a37034b265",
+    "title": "Boy band KickFlip translates viral flirty persona into sound with latest EP 'My First Kick' - Korea JoongAng Daily",
+    "url": "https://koreajoongangdaily.joins.com/news/2026-04-06/entertainment/kpop/Boy-band-KickFlip-translates-viral-flirty-persona-into-sound-with-latest-EP-My-First-Kick/2562177",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T07:33:22Z",
+    "summary": "Boy band KickFlip translates viral flirty persona into sound with latest EP 'My First Kick' Korea JoongAng Daily",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7945710176221521,
+    "home_score": 0.5976,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -568,8 +686,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7243269439408279,
-    "home_score": 0.5989,
+    "freshness_score": 0.6674399371691069,
+    "home_score": 0.5733,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -594,83 +712,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6664129481470997,
-    "home_score": 0.5729,
+    "freshness_score": 0.6140743763758715,
+    "home_score": 0.5493,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "cb033c57fc8a64a03f7444e59af477af8eab18a1",
-    "title": "Southeast Asia launches national team-level esports competition - VnExpress International",
-    "url": "https://e.vnexpress.net/news/sports/other-sports/southeast-asia-launches-national-team-level-esports-competition-5057970.html",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-04-03T02:57:42Z",
-    "summary": "Southeast Asia launches national team-level esports competition VnExpress International",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 0.29759509306332893,
-    "home_score": 0.5234,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a5f777e4d49e37135c6572ac5c4c7e21da88c1ac",
-    "title": "What to expect with HoYo Fest 2023 at Anime Festival Asia Singapore 2023 - HardwareZone",
-    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/feature-what-to-expect-hoyo-fest-2023-afa-singapore-anime-festival-asia-suntec",
-    "source_name": "Google News HoyoFest",
-    "source_type": "rss",
-    "published_at": "2023-11-25T08:00:00Z",
-    "summary": "What to expect with HoYo Fest 2023 at Anime Festival Asia Singapore 2023 HardwareZone",
-    "content": "",
-    "categories": [
-      "events",
-      "gacha",
-      "merch",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore",
-      "hoyofest"
-    ],
-    "entity_tags": [
-      "AFA Singapore",
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 1.0,
-    "freshness_score": 1.0145046758793922e-125,
-    "home_score": 0.5185,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -702,7 +748,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.389505074309703e-136,
+    "freshness_score": 1.2804193363371458e-136,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -744,7 +790,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 2.0504683635508386e-178,
+    "freshness_score": 1.889496061199906e-178,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -758,6 +804,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "cb033c57fc8a64a03f7444e59af477af8eab18a1",
+    "title": "Southeast Asia launches national team-level esports competition - VnExpress International",
+    "url": "https://e.vnexpress.net/news/sports/other-sports/southeast-asia-launches-national-team-level-esports-competition-5057970.html",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-04-03T02:57:42Z",
+    "summary": "Southeast Asia launches national team-level esports competition VnExpress International",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.55,
+    "freshness_score": 0.27422991148110876,
+    "home_score": 0.5129,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -785,7 +858,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 5.113954581857964e-20,
+    "freshness_score": 4.712292829401498e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -800,78 +873,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "38030bad54ea70f710ddd3acfe153cf5d5bbfacf",
-    "title": "On and Off Work-Life Imbalance Handles Its Reveal Well",
-    "url": "https://www.siliconera.com/on-and-off-work-life-imbalance-handles-its-reveal-well/?utm_source=rss&utm_medium=rss&utm_campaign=on-and-off-work-life-imbalance-handles-its-reveal-well",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-04T19:00:00Z",
-    "summary": "On and Off Work-Life Imbalance has, so far, been a heartening manga about people getting a chance to be true to themselves and end up accepted by others",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5190029171978152,
-    "home_score": 0.5066,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ffb9baa3d754a731b726be29750aaed0bf34cf94",
-    "title": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network and Fan Community Building Across Southeast Asia - PR Newswire",
-    "url": "https://www.prnewswire.com/apac/news-releases/kayou-debuts-at-singapore-comic-con-2025-deepening-distribution-network-and-fan-community-building-across-southeast-asia-302633880.html",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-05T08:00:00Z",
-    "summary": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network and Fan Community Building Across Southeast Asia PR Newswire",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.96,
-    "freshness_score": 1.892440458224208e-18,
-    "home_score": 0.501,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
   },
   {
     "id": "0b3ad17a0b4ef122d5774c89c5f79a7fb7133d0d",
@@ -898,7 +899,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 3.685629454423936e-18,
+    "freshness_score": 3.3962998660194446e-18,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -939,7 +940,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 6.147228171940957e-131,
+    "freshness_score": 5.664657957325102e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -956,70 +957,29 @@
     "result_type": "article"
   },
   {
-    "id": "c8d3b0ba24323fa667edba98a7e5da1f22ec0eda",
-    "title": "Anime Festival Asia Singapore 2025 brings anime premieres, cosplay icons, gaming zones & anisong concerts - bandwagon.asia",
-    "url": "https://www.bandwagon.asia/articles/anime-festival-asia-singapore-2025-brings-anime-premieres-cosplay-icons-gaming-zones-anisong-concerts",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2025-09-24T07:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 brings anime premieres, cosplay icons, gaming zones & anisong concerts bandwagon",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [
-      "afa",
-      "singapore",
-      "idol"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.91,
-    "freshness_score": 7.045422670489058e-29,
-    "home_score": 0.49,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4b409ef8ead41f6c869a73f436e577fe4ed98fa3",
-    "title": "Review: Bubblegum Galaxy Features a Fantastic Aesthetic",
-    "url": "https://www.siliconera.com/review-bubblegum-galaxy-features-a-fantastic-aesthetic/?utm_source=rss&utm_medium=rss&utm_campaign=review-bubblegum-galaxy-features-a-fantastic-aesthetic",
+    "id": "38030bad54ea70f710ddd3acfe153cf5d5bbfacf",
+    "title": "On and Off Work-Life Imbalance Handles Its Reveal Well",
+    "url": "https://www.siliconera.com/on-and-off-work-life-imbalance-handles-its-reveal-well/?utm_source=rss&utm_medium=rss&utm_campaign=on-and-off-work-life-imbalance-handles-its-reveal-well",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-04T13:00:00Z",
-    "summary": "There are some games where, after I play them, I find I remember more about the ambiance and aesthetic than the actual gameplay",
+    "published_at": "2026-04-04T19:00:00Z",
+    "summary": "On and Off Work-Life Imbalance has, so far, been a heartening manga about people getting a chance to be true to themselves and end up accepted by others",
     "content": "",
     "categories": [
       "games",
       "anime",
       "merch",
-      "events"
+      "events",
+      "manga"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.47750572732759783,
-    "home_score": 0.4879,
+    "freshness_score": 0.4782415974861449,
+    "home_score": 0.4882,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1027,12 +987,12 @@
   },
   {
     "id": "072195d1909965e66c8a900f58fa255250c0d550",
-    "title": "9 Anime Conventions & Events In Singapore In 2025 \u2013 Doujin Market, AFA Singapore & Doki Doki - TheSmartLocal",
+    "title": "9 Anime Conventions & Events In Singapore In 2025 \u2013 Doujin Market, AFA Singapore & Doki Doki - thesmartlocal.com",
     "url": "https://thesmartlocal.com/read/anime-conventions-singapore/",
     "source_name": "Google News Artist Alley",
     "source_type": "rss",
     "published_at": "2025-04-23T07:00:00Z",
-    "summary": "9 Anime Conventions & Events In Singapore In 2025 \u2013 Doujin Market, AFA Singapore & Doki Doki TheSmartLocal",
+    "summary": "9 Anime Conventions & Events In Singapore In 2025 \u2013 Doujin Market, AFA Singapore & Doki Doki thesmartlocal",
     "content": "",
     "categories": [
       "events",
@@ -1053,7 +1013,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 3.581825341651277e-51,
+    "freshness_score": 3.300633646858249e-51,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -1067,6 +1027,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "9718256009d1351308b046100985f1bec95514e2",
+    "title": "The Best Deals Today: Final Fantasy VII Remake Intergrade, Super Mario Galaxy + Super Mario Galaxy 2, and More - sea.ign.com",
+    "url": "https://sea.ign.com/final-fantasy-vii-remake-intergrade/240941/deal/the-best-deals-today-final-fantasy-vii-remake-intergrade-super-mario-galaxy-super-mario-galaxy-2-and",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-04T20:16:19Z",
+    "summary": "The Best Deals Today: Final Fantasy VII Remake Intergrade, Super Mario Galaxy + Super Mario Galaxy 2, and More sea",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.48674701092094125,
+    "home_score": 0.479,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1096,7 +1083,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.8922880357090966e-18,
+    "freshness_score": 1.7437337009215425e-18,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1139,7 +1126,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 9.715330668721664e-19,
+    "freshness_score": 8.952627290184264e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1183,7 +1170,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.0431648829162912e-176,
+    "freshness_score": 2.8042608028592982e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1226,7 +1213,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.043164871433793e-176,
+    "freshness_score": 2.80426079261378e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1267,7 +1254,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 2.561139673598513e-19,
+    "freshness_score": 2.360026426817476e-19,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1309,7 +1296,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.8373679811314256e-20,
+    "freshness_score": 4.457514120484627e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1350,7 +1337,51 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 6.156198015630934e-23,
+    "freshness_score": 5.672783158434266e-23,
+    "home_score": 0.4685,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c8d3b0ba24323fa667edba98a7e5da1f22ec0eda",
+    "title": "Anime Festival Asia Singapore 2025 brings anime premieres, cosplay icons, gaming zones & anisong concerts - bandwagon.asia",
+    "url": "https://www.bandwagon.asia/articles/anime-festival-asia-singapore-2025-brings-anime-premieres-cosplay-icons-gaming-zones-anisong-concerts",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-09-24T07:00:00Z",
+    "summary": "Anime Festival Asia Singapore 2025 brings anime premieres, cosplay icons, gaming zones & anisong concerts bandwagon",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "anime",
+      "games"
+    ],
+    "tags": [
+      "afa",
+      "singapore",
+      "idol"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 6.492416805208398e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1391,7 +1422,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 6.750691760316442e-20,
+    "freshness_score": 6.220690309840383e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1408,39 +1439,13 @@
     "result_type": "article"
   },
   {
-    "id": "d39603ea776f94885282729ba3964e89e9b02235",
-    "title": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted - PC Gamer",
-    "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-variant-dungeon-is-so-good-it-deserves-better-the-mmo-needs-to-figure-out-its-rewards-so-all-this-great-work-isnt-wasted/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T15:00:00Z",
-    "summary": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted PC Gamer",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4909289595477714,
-    "home_score": 0.4669,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
     "id": "6dd131396e46fb2de1be7a5caa9616001b821018",
-    "title": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 - THE MAGIC RAIN",
+    "title": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 - themagicrain.com",
     "url": "https://themagicrain.com/2025/11/muse-brings-exclusive-anime-deals-and-merchandise-to-afasg-2025/",
     "source_name": "Google News Anime Conventions",
     "source_type": "rss",
     "published_at": "2025-11-29T08:00:00Z",
-    "summary": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 THE MAGIC RAIN",
+    "summary": "MUSE Brings Exclusive Anime Deals And Merchandise To AFASG 2025 themagicrain",
     "content": "",
     "categories": [
       "events",
@@ -1459,7 +1464,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7799999999999999,
-    "freshness_score": 2.5609025475178043e-19,
+    "freshness_score": 2.359866363680906e-19,
     "home_score": 0.4635,
     "source_quality": 0.79,
     "image_url": null,
@@ -1492,7 +1497,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.002078171223777968,
+    "freshness_score": 0.0019150204403831717,
     "home_score": 0.4619,
     "source_quality": 0.79,
     "image_url": null,
@@ -1525,7 +1530,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 5.858263520085071e-35,
+    "freshness_score": 5.398349403183322e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1557,7 +1562,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.4521183620077288e-37,
+    "freshness_score": 1.3381170489505124e-37,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1599,7 +1604,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.4521183467582534e-37,
+    "freshness_score": 1.338117034841445e-37,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1640,7 +1645,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.501016209765054e-41,
+    "freshness_score": 2.3046691765179996e-41,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1658,12 +1663,12 @@
   },
   {
     "id": "628a36a8ce260e2b21df6551772f4303e4f832c9",
-    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - sme.asia",
+    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - SME & Entrepreneurship Magazine",
     "url": "https://sme.asia/hoyo-fest-2025-southeast-asias-most-anticipated-hoyoverse-event-returns-this-july/",
     "source_name": "Google News HoyoFest",
     "source_type": "rss",
     "published_at": "2025-05-30T07:00:00Z",
-    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! sme",
+    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! SME & Entrepreneurship Magazine",
     "content": "",
     "categories": [
       "events",
@@ -1682,7 +1687,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 8.135923511462281e-46,
+    "freshness_score": 7.497197366461722e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1690,13 +1695,13 @@
     "result_type": "article"
   },
   {
-    "id": "e56e5fbfa312f2965b0d1238d0517bb83dd10607",
-    "title": "Asia Album: Singapore Comic Con celebrates pop culture - Xinhua",
-    "url": "https://english.news.cn/20251208/d7fb5ffad1fd4c75b2341eae261ad28c/c.html",
+    "id": "dc008a6954e6d23a5135326acb30c9ef55a8bb2c",
+    "title": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network - ANTARA News",
+    "url": "https://en.antaranews.com/news/396685/kayou-debuts-at-singapore-comic-con-2025-deepening-distribution-network",
     "source_name": "Google News SG Events",
     "source_type": "rss",
-    "published_at": "2025-12-08T08:00:00Z",
-    "summary": "Asia Album: Singapore Comic Con celebrates pop culture Xinhua",
+    "published_at": "2025-12-16T08:00:00Z",
+    "summary": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network ANTARA News",
     "content": "",
     "categories": [
       "events",
@@ -1715,7 +1720,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 5.144186534812032e-18,
+    "freshness_score": 6.822113270619587e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1732,19 +1737,18 @@
     "result_type": "article"
   },
   {
-    "id": "eda5f6ecd166bdc1ca433f067447081aa2b82319",
-    "title": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend - CNA",
-    "url": "https://www.channelnewsasia.com/watch/local-games-featured-singapore-comic-con-see-up-1000-potential-downloads-over-weekend-5566586",
+    "id": "e56e5fbfa312f2965b0d1238d0517bb83dd10607",
+    "title": "Asia Album: Singapore Comic Con celebrates pop culture - english.news.cn",
+    "url": "https://english.news.cn/20251208/d7fb5ffad1fd4c75b2341eae261ad28c/c.html",
     "source_name": "Google News SG Events",
     "source_type": "rss",
-    "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend CNA",
+    "published_at": "2025-12-08T08:00:00Z",
+    "summary": "Asia Album: Singapore Comic Con celebrates pop culture english",
     "content": "",
     "categories": [
       "events",
       "merch",
       "esports",
-      "games",
       "comics"
     ],
     "tags": [
@@ -1758,7 +1762,91 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.685970739718588e-18,
+    "freshness_score": 4.740239781849844e-18,
+    "home_score": 0.451,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3ee2087f55c44b1cf81f1fca1944dce272df2635",
+    "title": "Mediacorp's Bloomr.sg runs booth on burnout, work-life balance at Singapore Comic Con - CNA",
+    "url": "https://www.channelnewsasia.com/watch/mediacorps-bloomrsg-runs-booth-burnout-work-life-balance-singapore-comic-con-5565646",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Mediacorp's Bloomr.sg runs booth on burnout, work-life balance at Singapore Comic Con - CNA is trending around singapore, sgcc.",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 3.3965302377895655e-18,
+    "home_score": 0.451,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9adaeabe93c6ba9821df6f4acd97c15894548dfe",
+    "title": "Singapore Comic Con (SGCC) 2025 Showfloor Highlights! - Geek Culture",
+    "url": "https://geekculture.co/singapore-comic-con-sgcc-2025-showfloor-highlights/",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Singapore Comic Con (SGCC) 2025 Showfloor Highlights! Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 3.39653021957516e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1801,7 +1889,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.8351367553881427e-19,
+    "freshness_score": 1.691032813936775e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1819,12 +1907,12 @@
   },
   {
     "id": "77684143cbf9551ab1d99fcfdc88bace786dbdf5",
-    "title": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss - TheSmartLocal",
+    "title": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss - thesmartlocal.com",
     "url": "https://thesmartlocal.com/read/singapore-comic-con-2025/",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-11-12T08:00:00Z",
-    "summary": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss TheSmartLocal",
+    "summary": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss thesmartlocal",
     "content": "",
     "categories": [
       "events",
@@ -1843,7 +1931,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 8.859948500255333e-22,
+    "freshness_score": 8.164221887584587e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1860,66 +1948,27 @@
     "result_type": "article"
   },
   {
-    "id": "c5d2ecbc2e29fe029ef6c0ddf1b5699f7e39ab56",
-    "title": "New Huzzle Legend of Zelda Puzzle Features Addison and Hudson\u2019s Sign",
-    "url": "https://www.siliconera.com/new-huzzle-legend-of-zelda-puzzle-features-addison-and-hudsons-sign/?utm_source=rss&utm_medium=rss&utm_campaign=new-huzzle-legend-of-zelda-puzzle-features-addison-and-hudsons-sign",
-    "source_name": "Siliconera",
+    "id": "d39603ea776f94885282729ba3964e89e9b02235",
+    "title": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted - PC Gamer",
+    "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14s-latest-variant-dungeon-is-so-good-it-deserves-better-the-mmo-needs-to-figure-out-its-rewards-so-all-this-great-work-isnt-wasted/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-03T21:00:00Z",
-    "summary": "Hanayama announced two new The Legend of Zelda Huzzle metal puzzles, and they feature the Hylian Shield and Addison holding up the Hudson Construction sign",
+    "published_at": "2026-04-04T15:00:00Z",
+    "summary": "Final Fantasy 14's latest variant dungeon is so good, it deserves better\u2014the MMO needs to figure out its rewards so all this great work isn't wasted PC Gamer",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch",
-      "events"
+      "merch"
     ],
     "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.3823566904257693,
-    "home_score": 0.4451,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 25, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "12f7e8d4579e52f0784c0798c5fc74607b3f723d",
-    "title": "Dragon Quest Metal Slime Computer Mouse Returns With Bubble Slime",
-    "url": "https://www.siliconera.com/dragon-quest-metal-slime-computer-mouse-returns-with-bubble-slime/?utm_source=rss&utm_medium=rss&utm_campaign=dragon-quest-metal-slime-computer-mouse-returns-with-bubble-slime",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-03T20:00:00Z",
-    "summary": "Square Enix and Taito announced that the Dragon Quest Bubble Slime computer mouse will come back again in Japan, and this time it will be joined by a Bubble Slime variant",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
     "entity_tags": [
-      "Dragon Quest"
+      "Final Fantasy"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.3770828864451567,
-    "home_score": 0.4427,
-    "source_quality": 0.82,
+    "freshness_score": 0.452380235328229,
+    "home_score": 0.4496,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1951,7 +2000,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 2.6000006880899935e-42,
+    "freshness_score": 2.39579065482603e-42,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -1993,7 +2042,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 2.0265944160865503e-37,
+    "freshness_score": 1.8674927682431626e-37,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2026,7 +2075,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 3.490449276803684e-41,
+    "freshness_score": 3.2164249199471176e-41,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2060,7 +2109,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 2.4252846309970015e-42,
+    "freshness_score": 2.2348830496987648e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2068,72 +2117,45 @@
     "result_type": "article"
   },
   {
-    "id": "53b5ea67cb8f541d8889b0321198f08cdedabdf9",
-    "title": "Moe Moe Q Singapore official profile for POPPA idol live updates",
-    "url": "https://www.instagram.com/moemoeq_sg/",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2025-01-15T12:00:00Z",
-    "summary": "Official Moe Moe Q Singapore page for POPPA and MMQ updates, including idol live announcements, merch signing notes, and related Singapore event posts",
+    "id": "0c1ef2cfec436069d39f432edb3d1342bf657178",
+    "title": "HoYo Fest 2024 in pictures: One of the biggest gaming festivals is back - HardwareZone",
+    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/feature-hoyo-fest-2024-gallery-hoyoverse-genshin-impact-honkai",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2024-08-16T07:00:00Z",
+    "summary": "HoYo Fest 2024 in pictures: One of the biggest gaming festivals is back HardwareZone",
     "content": "",
     "categories": [
       "events",
-      "anime",
-      "merch"
+      "gacha",
+      "merch",
+      "games"
     ],
     "tags": [
-      "singapore",
-      "idol"
+      "hoyofest"
     ],
     "entity_tags": [
-      "POPPA"
+      "HoyoFest Singapore"
     ],
     "region_tags": [
-      "Singapore"
+      "Singapore",
+      "SEA"
     ],
-    "sg_relevance": 0.63,
-    "freshness_score": 2.4966974834284114e-65,
-    "home_score": 0.4275,
-    "source_quality": 0.8,
+    "sg_relevance": 0.6499999999999999,
+    "freshness_score": 2.125169170014447e-87,
+    "home_score": 0.431,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
-      "event_type": null,
+      "event_type": "festival",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
+      "merch_status": null
     },
-    "result_type": "source_page"
-  },
-  {
-    "id": "a99b3ef0e20fc1d4b90d711595ba76dc141d2cb3",
-    "title": "SEGA / Atlus hosting new Nintendo Switch 2 and Switch sale with Shinobi: Art of Vengeance, Yakuza, and more at new low prices - Nintendo Everything",
-    "url": "https://nintendoeverything.com/sega-atlus-hosting-new-nintendo-switch-2-and-switch-sale-with-shinobi-art-of-vengeance-yakuza-and-more-at-new-low-prices/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-03T17:29:02Z",
-    "summary": "SEGA / Atlus hosting new Nintendo Switch 2 and Switch sale with Shinobi: Art of Vengeance, Yakuza, and more at new low prices Nintendo Everything",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.3641131057725678,
-    "home_score": 0.4099,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   }
 ]
