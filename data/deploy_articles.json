@@ -1,5 +1,34 @@
 [
   {
+    "id": "2f646e817ad1adb706780b15007883a2973f3eed",
+    "title": "VCT 2026: Game Changers SEA Split 1 - GosuGamers",
+    "url": "https://www.gosugamers.net/valorant/tournaments/62842-vct-2026-game-changers-sea-split-1",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-04-08T05:35:25Z",
+    "summary": "VCT 2026: Game Changers SEA Split 1 GosuGamers",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9883253500528003,
+    "home_score": 0.8042,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "58463b320559072907d019372345d69da1517593",
     "title": "Uma Musume Pretty Derby: Beginning of a New Era Anime Film Opens in Singapore, Indonesia, Malaysia, Philippines - Anime News Network",
     "url": "https://www.animenewsnetwork.com/news/2026-04-07/uma-musume-pretty-derby-beginning-of-a-new-era-anime-film-opens-in-singapore-indonesia-malaysia-/.236180",
@@ -22,8 +51,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8160890420948387,
-    "home_score": 0.7327,
+    "freshness_score": 0.7477201433844717,
+    "home_score": 0.702,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -49,8 +78,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9574459223030856,
-    "home_score": 0.7039,
+    "freshness_score": 0.8772323709153674,
+    "home_score": 0.6678,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -90,8 +119,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9057050098676882,
-    "home_score": 0.7006,
+    "freshness_score": 0.8298262402493469,
+    "home_score": 0.6664,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -130,13 +159,51 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9442399745312212,
-    "home_score": 0.6979,
+    "freshness_score": 0.8651327991676444,
+    "home_score": 0.6623,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 10, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b829e77899ba293040f00bf54939ede76d945cfc",
+    "title": "ASIAN KUNG-FU GENERATION unveils opening theme 'Skins' for 'Dr. STONE SCIENCE FUTURE' with epic MV \u2014 watch",
+    "url": "https://www.bandwagon.asia/articles/asian-kung-fu-generation-unveils-opening-theme-skins-for-dr-stone-science-future-with-epic-mv-watch",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-07T01:44:00Z",
+    "summary": "Amidst joyous 30th anniversary celebrations, ASIAN KUNG-FU GENERATION has unveiled the opening theme for Dr",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.6712737849397651,
+    "home_score": 0.6601,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C503%2C3952%2C1976%5D/resize=w:1920/pjpg=q:90/compress/f6snGT2LRJq1ywkpYtZ2",
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": "5 April",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -167,8 +234,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.931216176980276,
-    "home_score": 0.692,
+    "freshness_score": 0.8532001171575901,
+    "home_score": 0.6569,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -195,76 +262,13 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8808927371343964,
-    "home_score": 0.6894,
+    "freshness_score": 0.8070927059798941,
+    "home_score": 0.6562,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 9, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "7783c89e7cbb95a87d22423554aba43ff0603614",
-    "title": "'Euphoria' Star Jacob Elordi Says This 2002 JRPG Classic Is His Favorite Video Game of All Time - Men's Journal",
-    "url": "https://www.mensjournal.com/entertainment/euphoria-star-jacob-elordi-says-this-2002-jrpg-classic-is-his-favorite-video-game-of-all-time",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T23:53:36Z",
-    "summary": "'Euphoria' Star Jacob Elordi Says This 2002 JRPG Classic Is His Favorite Video Game of All Time Men's Journal",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9966535006178581,
-    "home_score": 0.6885,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b829e77899ba293040f00bf54939ede76d945cfc",
-    "title": "ASIAN KUNG-FU GENERATION unveils opening theme 'Skins' for 'Dr. STONE SCIENCE FUTURE' with epic MV \u2014 watch",
-    "url": "https://www.bandwagon.asia/articles/asian-kung-fu-generation-unveils-opening-theme-skins-for-dr-stone-science-future-with-epic-mv-watch",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-07T01:44:00Z",
-    "summary": "Amidst joyous 30th anniversary celebrations, ASIAN KUNG-FU GENERATION has unveiled the opening theme for Dr",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7326553239844775,
-    "home_score": 0.6877,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C503%2C3952%2C1976%5D/resize=w:1920/pjpg=q:90/compress/f6snGT2LRJq1ywkpYtZ2",
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": "5 April",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -294,8 +298,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9183720143996426,
-    "home_score": 0.6863,
+    "freshness_score": 0.8414320208862217,
+    "home_score": 0.6516,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -311,6 +315,31 @@
       ],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "7783c89e7cbb95a87d22423554aba43ff0603614",
+    "title": "'Euphoria' Star Jacob Elordi Says This 2002 JRPG Classic Is His Favorite Video Game of All Time - Men's Journal",
+    "url": "https://www.mensjournal.com/entertainment/euphoria-star-jacob-elordi-says-this-2002-jrpg-classic-is-his-favorite-video-game-of-all-time",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T23:53:36Z",
+    "summary": "'Euphoria' Star Jacob Elordi Says This 2002 JRPG Classic Is His Favorite Video Game of All Time Men's Journal",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9131627866618885,
+    "home_score": 0.6509,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -333,8 +362,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8932127206989422,
-    "home_score": 0.6749,
+    "freshness_score": 0.8183805382062745,
+    "home_score": 0.6413,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -345,6 +374,46 @@
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "2ed018e9e7993398b546d0c10291f76500373b54",
+    "title": "Evangelion Sapporo Beer Features Eva 01 and 13 on the Cans",
+    "url": "https://www.siliconera.com/evangelion-sapporo-beer-features-eva-01-and-13-on-the-cans/?utm_source=rss&utm_medium=rss&utm_campaign=evangelion-sapporo-beer-features-eva-01-and-13-on-the-cans",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-07T14:00:25Z",
+    "summary": "Sapporo Breweries has launched a crossover campaign between its Kuro Label Beer and the Evangelion franchise",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7960373397841258,
+    "home_score": 0.6312,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Sapporo",
+        "Evangelion logos"
+      ],
       "merch_status": null
     },
     "result_type": "article"
@@ -369,73 +438,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9431285146536929,
-    "home_score": 0.6644,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2ed018e9e7993398b546d0c10291f76500373b54",
-    "title": "Evangelion Sapporo Beer Features Eva 01 and 13 on the Cans",
-    "url": "https://www.siliconera.com/evangelion-sapporo-beer-features-eva-01-and-13-on-the-cans/?utm_source=rss&utm_medium=rss&utm_campaign=evangelion-sapporo-beer-features-eva-01-and-13-on-the-cans",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-07T14:00:25Z",
-    "summary": "Sapporo Breweries has launched a crossover campaign between its Kuro Label Beer and the Evangelion franchise",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8688264759229933,
-    "home_score": 0.664,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Sapporo",
-        "Evangelion logos"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c8eefc632b3023ea19c4f8b410563ed2af55e143",
-    "title": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 - Nintendo Everything",
-    "url": "https://nintendoeverything.com/people-of-note-launch-trailer/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T19:03:05Z",
-    "summary": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 Nintendo Everything",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9318333072153083,
-    "home_score": 0.6593,
+    "freshness_score": 0.8641216411825595,
+    "home_score": 0.6289,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -460,8 +464,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8567602083545625,
-    "home_score": 0.6585,
+    "freshness_score": 0.7849819674335521,
+    "home_score": 0.6262,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -474,6 +478,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "c8eefc632b3023ea19c4f8b410563ed2af55e143",
+    "title": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 - Nintendo Everything",
+    "url": "https://nintendoeverything.com/people-of-note-launch-trailer/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T19:03:05Z",
+    "summary": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 Nintendo Everything",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8537726476356533,
+    "home_score": 0.6242,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -497,8 +526,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8858334404259763,
-    "home_score": 0.6446,
+    "freshness_score": 0.8116262358546369,
+    "home_score": 0.6112,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -522,8 +551,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8985725981519856,
-    "home_score": 0.6444,
+    "freshness_score": 0.8232982207034786,
+    "home_score": 0.6105,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -549,8 +578,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8688222154725354,
-    "home_score": 0.631,
+    "freshness_score": 0.7960400614042038,
+    "home_score": 0.5982,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -574,8 +603,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8569047662027661,
-    "home_score": 0.6256,
+    "freshness_score": 0.7851209406640699,
+    "home_score": 0.5933,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -603,8 +632,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6860399367361366,
-    "home_score": 0.6017,
+    "freshness_score": 0.6285644139633878,
+    "home_score": 0.5759,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -641,8 +670,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6765774643827959,
-    "home_score": 0.5775,
+    "freshness_score": 0.6198946944533141,
+    "home_score": 0.552,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -676,8 +705,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6672455066599078,
-    "home_score": 0.5733,
+    "freshness_score": 0.6113445553864071,
+    "home_score": 0.5481,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -714,8 +743,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6930944598510579,
-    "home_score": 0.5579,
+    "freshness_score": 0.6350332075714616,
+    "home_score": 0.5318,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -728,56 +757,6 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "article"
-  },
-  {
-    "id": "6ef5cd87b7ada18257a6494c62b4b3ba207ea102",
-    "title": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? - Massively Overpowered",
-    "url": "https://massivelyop.com/2026/04/06/wisdom-of-nym-is-it-time-to-bring-elemental-damage-back-to-final-fantasy-xiv/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T16:00:00Z",
-    "summary": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? Massively Overpowered",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6399820996065985,
-    "home_score": 0.528,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "01b340871f0596d01f7edb84bebfa3d8fc0469a1",
-    "title": "Treasuries are becoming persona non gratis - FXStreet",
-    "url": "https://www.fxstreet.com/analysis/treasuries-are-becoming-persona-non-gratis-202604061421",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T14:21:39Z",
-    "summary": "Treasuries are becoming persona non gratis FXStreet",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6255767359674885,
-    "home_score": 0.5215,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -809,7 +788,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 9.171656712402344e-137,
+    "freshness_score": 8.403431994509731e-137,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -827,12 +806,12 @@
   },
   {
     "id": "c16532a1c3c284be91caaaec4c5489c08df002a1",
-    "title": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! - Geek Culture",
+    "title": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! - geekculture.co",
     "url": "https://geekculture.co/anime-festival-asia-singapore-afa-sg-2022-artist-alley-highlights/",
     "source_name": "Google News Artist Alley",
     "source_type": "rss",
     "published_at": "2022-11-26T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! Geek Culture",
+    "summary": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! geekculture",
     "content": "",
     "categories": [
       "events",
@@ -851,7 +830,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.3534451312371246e-178,
+    "freshness_score": 1.240083033219964e-178,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -892,7 +871,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 3.37552649952912e-20,
+    "freshness_score": 3.092728528544688e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -907,6 +886,56 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "6ef5cd87b7ada18257a6494c62b4b3ba207ea102",
+    "title": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? - massivelyop.com",
+    "url": "https://massivelyop.com/2026/04/06/wisdom-of-nym-is-it-time-to-bring-elemental-damage-back-to-final-fantasy-xiv/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T16:00:00Z",
+    "summary": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? massivelyop",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5863701265808169,
+    "home_score": 0.5039,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "01b340871f0596d01f7edb84bebfa3d8fc0469a1",
+    "title": "Treasuries are becoming persona non gratis - FXStreet",
+    "url": "https://www.fxstreet.com/analysis/treasuries-are-becoming-persona-non-gratis-202604061421",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T14:21:39Z",
+    "summary": "Treasuries are becoming persona non gratis FXStreet",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5731715153256646,
+    "home_score": 0.4979,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0b3ad17a0b4ef122d5774c89c5f79a7fb7133d0d",
@@ -933,7 +962,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 2.4327621294627434e-18,
+    "freshness_score": 2.2290031010775285e-18,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -974,7 +1003,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 4.057582044841829e-131,
+    "freshness_score": 3.717734195281274e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1018,7 +1047,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 2.3642423133442236e-51,
+    "freshness_score": 2.1662176865365598e-51,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -1061,7 +1090,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.249035617499917e-18,
+    "freshness_score": 1.14441867044394e-18,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1079,12 +1108,12 @@
   },
   {
     "id": "3c7e836a9ca2fa54959d18e7e6630262a6ca0dfa",
-    "title": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend - Geek Culture",
+    "title": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend - geekculture.co",
     "url": "https://geekculture.co/singapore-comic-con-sgcc-2025-the-ultimate-event-guide/",
     "source_name": "Google News Artist Alley",
     "source_type": "rss",
     "published_at": "2025-12-03T08:00:00Z",
-    "summary": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend Geek Culture",
+    "summary": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend geekculture",
     "content": "",
     "categories": [
       "events",
@@ -1104,7 +1133,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 6.41276270416275e-19,
+    "freshness_score": 5.875641389362039e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1148,7 +1177,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.008690678298338e-176,
+    "freshness_score": 1.840446407581986e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1166,12 +1195,12 @@
   },
   {
     "id": "f0ada785e9315a55907abca7f5dea6adcaac18b3",
-    "title": "Singapore Comic Con (SGCC) 2022 Event Highlights - Geek Culture",
+    "title": "Singapore Comic Con (SGCC) 2022 Event Highlights - geekculture.co",
     "url": "https://geekculture.co/singapore-comic-con-sgcc-2022-event-highlights/",
     "source_name": "Google News Artist Alley",
     "source_type": "rss",
     "published_at": "2022-12-11T08:00:00Z",
-    "summary": "Singapore Comic Con (SGCC) 2022 Event Highlights Geek Culture",
+    "summary": "Singapore Comic Con (SGCC) 2022 Event Highlights geekculture",
     "content": "",
     "categories": [
       "events",
@@ -1191,7 +1220,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.0086906740360815e-176,
+    "freshness_score": 1.8404464031299984e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1232,7 +1261,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.6905234746892502e-19,
+    "freshness_score": 1.5489008276442055e-19,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1274,7 +1303,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.1929863937300104e-20,
+    "freshness_score": 2.925495764564505e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1315,7 +1344,49 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.063502420125054e-23,
+    "freshness_score": 3.723084805012057e-23,
+    "home_score": 0.4685,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "774667ca57d30ca271e8e604427c0a0f321dc949",
+    "title": "Anime Festival Asia 2025 \u2014 A preview of what\u2019s to come - Yahoo Lifestyle Singapore",
+    "url": "https://sg.style.yahoo.com/anime-festival-asia-2025-preview-040057940.html",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-10-31T07:00:00Z",
+    "summary": "Anime Festival Asia 2025 \u2014 A preview of what\u2019s to come Yahoo Lifestyle Singapore",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "anime"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 9.678582296088077e-24,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1359,7 +1430,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.650618695069014e-29,
+    "freshness_score": 4.2610157483470334e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1400,7 +1471,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.455905977015067e-20,
+    "freshness_score": 4.08266371661333e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1442,7 +1513,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.001371731085581567,
+    "freshness_score": 0.0012568338809099662,
     "home_score": 0.4616,
     "source_quality": 0.79,
     "image_url": null,
@@ -1475,7 +1546,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 3.8668431600558237e-35,
+    "freshness_score": 3.5429535313176185e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1507,7 +1578,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 9.58494600180378e-38,
+    "freshness_score": 8.782103878378996e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1525,12 +1596,12 @@
   },
   {
     "id": "5580feb3dbd688be1d9ee15682340476816cc749",
-    "title": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out - Geek Culture",
+    "title": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out - geekculture.co",
     "url": "https://geekculture.co/3-day-hoyofest-singapore-2025-debuts-artist-alley-tickets-all-sold-out/",
     "source_name": "Google News HoyoFest",
     "source_type": "rss",
     "published_at": "2025-07-26T07:00:00Z",
-    "summary": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out Geek Culture",
+    "summary": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out geekculture",
     "content": "",
     "categories": [
       "events",
@@ -1549,7 +1620,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 9.584945909504157e-38,
+    "freshness_score": 8.782103786797128e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1590,7 +1661,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.650836870490962e-41,
+    "freshness_score": 1.5125615603185407e-41,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1608,12 +1679,12 @@
   },
   {
     "id": "628a36a8ce260e2b21df6551772f4303e4f832c9",
-    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - SME & Entrepreneurship Magazine",
+    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - sme.asia",
     "url": "https://sme.asia/hoyo-fest-2025-southeast-asias-most-anticipated-hoyoverse-event-returns-this-july/",
     "source_name": "Google News HoyoFest",
     "source_type": "rss",
     "published_at": "2025-05-30T07:00:00Z",
-    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! SME & Entrepreneurship Magazine",
+    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! sme",
     "content": "",
     "categories": [
       "events",
@@ -1632,7 +1703,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 5.370250086516427e-46,
+    "freshness_score": 4.920433987510156e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1665,49 +1736,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 4.8867853852580505e-17,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "6d9c1f0db9cedb653e847b6289fc5a758e3b874a",
-    "title": "In Review and in Pictures: Singapore Comic Con 2025 - downthetubes.net",
-    "url": "https://downthetubes.net/in-review-and-in-pictures-singapore-comic-con-2025/",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-16T08:00:00Z",
-    "summary": "In Review and in Pictures: Singapore Comic Con 2025 downthetubes",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 4.886785380393852e-17,
+    "freshness_score": 4.477397701508377e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1749,7 +1778,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.3955071591917807e-18,
+    "freshness_score": 3.111050467998586e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1767,12 +1796,12 @@
   },
   {
     "id": "eda5f6ecd166bdc1ca433f067447081aa2b82319",
-    "title": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend - channelnewsasia.com",
+    "title": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend - CNA",
     "url": "https://www.channelnewsasia.com/watch/local-games-featured-singapore-comic-con-see-up-1000-potential-downloads-over-weekend-5566586",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend channelnewsasia",
+    "summary": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend CNA",
     "content": "",
     "categories": [
       "events",
@@ -1792,7 +1821,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.4329872077166754e-18,
+    "freshness_score": 2.229165081987897e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1834,7 +1863,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.432987175783728e-18,
+    "freshness_score": 2.2291650521366995e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1877,7 +1906,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.2113129939630734e-19,
+    "freshness_score": 1.1098359311645576e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1919,7 +1948,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 5.848158569854403e-22,
+    "freshness_score": 5.358232393061457e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1962,7 +1991,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 1.7161613538640554e-42,
+    "freshness_score": 1.5723832059658373e-42,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -2004,7 +2033,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.3376869658754704e-37,
+    "freshness_score": 1.225641321531095e-37,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2037,7 +2066,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 2.303928435856724e-41,
+    "freshness_score": 2.1109496949661256e-41,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2071,7 +2100,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.6008489970758017e-42,
+    "freshness_score": 1.4667607078982966e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2104,7 +2133,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.5222608350700529e-87,
+    "freshness_score": 1.3947551470557392e-87,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2145,7 +2174,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 1.647974845196156e-65,
+    "freshness_score": 1.5099092898846682e-65,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2189,49 +2218,12 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 1.5029205709971906e-283,
+    "freshness_score": 1.3770415819463668e-283,
     "home_score": 0.426,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0f2cff20dc654c3b473926f561ac2712f4bc63b7",
-    "title": "Kadokawa acquires company behind Southeast Asia\u2019s largest anime convention amidst continuous efforts for global expansion - AUTOMATON",
-    "url": "https://automaton-media.com/en/news/kadokawa-acquires-company-behind-southeast-asias-largest-anime-convention-amidst-continuous-efforts-for-global-expansion/",
-    "source_name": "Google News Anime Conventions",
-    "source_type": "rss",
-    "published_at": "2025-12-05T08:00:00Z",
-    "summary": "Kadokawa acquires company behind Southeast Asia\u2019s largest anime convention amidst continuous efforts for global expansion AUTOMATON",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.2490217258675998e-18,
-    "home_score": 0.406,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
