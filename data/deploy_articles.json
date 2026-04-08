@@ -21,8 +21,33 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9883253500528003,
-    "home_score": 0.8042,
+    "freshness_score": 0.912298220110348,
+    "home_score": 0.77,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6561be37158d4782e8257eea8058f719640cb13c",
+    "title": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah - Daily Sabah",
+    "url": "https://www.dailysabah.com/sports/niemann-vows-stone-cold-killer-persona-beat-carlsen-in-netflix-doc/news",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-08T11:03:26Z",
+    "summary": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah Daily Sabah",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9842944560671344,
+    "home_score": 0.6829,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -51,50 +76,11 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7477201433844717,
-    "home_score": 0.702,
+    "freshness_score": 0.690204883736372,
+    "home_score": 0.6761,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6f8c94054777f14d461eadb3af564244bbd293bc",
-    "title": "Even More New Hatsune Miku Cinnamoroll Items Appear",
-    "url": "https://www.siliconera.com/even-more-new-hatsune-miku-cinnamoroll-items-appear/?utm_source=rss&utm_medium=rss&utm_campaign=even-more-new-hatsune-miku-cinnamoroll-items-appear",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-07T21:00:00Z",
-    "summary": "Anicraft will release Dream Sakura versions of new Hatsune Miku and Cinnamoroll crossover merchandise",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8772323709153674,
-    "home_score": 0.6678,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "ones like Kagamine Rin",
-        "Len"
-      ],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -119,8 +105,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8298262402493469,
-    "home_score": 0.6664,
+    "freshness_score": 0.7659965700251987,
+    "home_score": 0.6377,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -132,6 +118,45 @@
       "guest_status": "Named guests mentioned",
       "guest_names": [
         "Usopp"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "6f8c94054777f14d461eadb3af564244bbd293bc",
+    "title": "Even More New Hatsune Miku Cinnamoroll Items Appear",
+    "url": "https://www.siliconera.com/even-more-new-hatsune-miku-cinnamoroll-items-appear/?utm_source=rss&utm_medium=rss&utm_campaign=even-more-new-hatsune-miku-cinnamoroll-items-appear",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-07T21:00:00Z",
+    "summary": "Anicraft will release Dream Sakura versions of new Hatsune Miku and Cinnamoroll crossover merchandise",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8097562531911746,
+    "home_score": 0.6374,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "ones like Kagamine Rin",
+        "Len"
       ],
       "merch_status": null
     },
@@ -159,8 +184,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8651327991676444,
-    "home_score": 0.6623,
+    "freshness_score": 0.7985873723029686,
+    "home_score": 0.6324,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -176,34 +201,33 @@
     "result_type": "article"
   },
   {
-    "id": "b829e77899ba293040f00bf54939ede76d945cfc",
-    "title": "ASIAN KUNG-FU GENERATION unveils opening theme 'Skins' for 'Dr. STONE SCIENCE FUTURE' with epic MV \u2014 watch",
-    "url": "https://www.bandwagon.asia/articles/asian-kung-fu-generation-unveils-opening-theme-skins-for-dr-stone-science-future-with-epic-mv-watch",
-    "source_name": "Bandwagon Asia",
+    "id": "1b75a77a83893c0933b021a93978d50de0783c02",
+    "title": "See the Guilty Gear Strive Jam Kuradoberi Moveset in Her Starter Guide",
+    "url": "https://www.siliconera.com/see-the-guilty-gear-strive-jam-kuradoberi-moveset-in-her-starter-guide/?utm_source=rss&utm_medium=rss&utm_campaign=see-the-guilty-gear-strive-jam-kuradoberi-moveset-in-her-starter-guide",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-07T01:44:00Z",
-    "summary": "Amidst joyous 30th anniversary celebrations, ASIAN KUNG-FU GENERATION has unveiled the opening theme for Dr",
+    "published_at": "2026-04-07T15:00:00Z",
+    "summary": "Jam Kuradoberi has been a Guilty Gear staple since the second game, and she\u2019ll return as Strive DLC on April 9, 2026",
     "content": "",
     "categories": [
       "games",
-      "esports",
       "anime",
+      "merch",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6712737849397651,
-    "home_score": 0.6601,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C503%2C3952%2C1976%5D/resize=w:1920/pjpg=q:90/compress/f6snGT2LRJq1ywkpYtZ2",
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7450116839139382,
+    "home_score": 0.6283,
+    "source_quality": 0.82,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "concert",
-      "date_label": "5 April",
+      "event_type": null,
+      "date_label": "April 9, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -234,48 +258,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8532001171575901,
-    "home_score": 0.6569,
+    "freshness_score": 0.7875725441703715,
+    "home_score": 0.6274,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1b75a77a83893c0933b021a93978d50de0783c02",
-    "title": "See the Guilty Gear Strive Jam Kuradoberi Moveset in Her Starter Guide",
-    "url": "https://www.siliconera.com/see-the-guilty-gear-strive-jam-kuradoberi-moveset-in-her-starter-guide/?utm_source=rss&utm_medium=rss&utm_campaign=see-the-guilty-gear-strive-jam-kuradoberi-moveset-in-her-starter-guide",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-07T15:00:00Z",
-    "summary": "Jam Kuradoberi has been a Guilty Gear staple since the second game, and she\u2019ll return as Strive DLC on April 9, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8070927059798941,
-    "home_score": 0.6562,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 9, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -298,8 +285,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8414320208862217,
-    "home_score": 0.6516,
+    "freshness_score": 0.7767096416901806,
+    "home_score": 0.6225,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -315,6 +302,34 @@
       ],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "aa749177a94bc632ae11839d8f3c895f0cec1919",
+    "title": "Rumour: Persona 1 and 2 Re-Release Hinted at by New Merchandise - Push Square",
+    "url": "https://www.pushsquare.com/news/2026/04/rumour-persona-1-and-2-re-release-hinted-at-by-new-merchandise",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T23:16:37Z",
+    "summary": "Rumour: Persona 1 and 2 Re-Release Hinted at by New Merchandise Push Square",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8357337755072168,
+    "home_score": 0.6221,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -335,8 +350,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9131627866618885,
-    "home_score": 0.6509,
+    "freshness_score": 0.8429191728366684,
+    "home_score": 0.6193,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -362,8 +377,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8183805382062745,
-    "home_score": 0.6413,
+    "freshness_score": 0.7554312636278946,
+    "home_score": 0.6129,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -399,8 +414,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7960373397841258,
-    "home_score": 0.6312,
+    "freshness_score": 0.7348066886557071,
+    "home_score": 0.6037,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -416,33 +431,6 @@
       ],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "7d103493380cb96eac01a01f824bf98fbd8af769",
-    "title": "Bebop vs. Persona Grata Odds & Predictions (Apr. 7, 2026) - Polymarket",
-    "url": "https://polymarket.com/esports/cs2/nodwin-clutch-series/cs2-pg-bbp-2026-04-07",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T19:55:08Z",
-    "summary": "Bebop vs. Persona Grata Odds & Predictions (Apr. 7, 2026) - Polymarket is trending around jrpg.",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8641216411825595,
-    "home_score": 0.6289,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -464,8 +452,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7849819674335521,
-    "home_score": 0.6262,
+    "freshness_score": 0.7246016880658104,
+    "home_score": 0.5991,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -481,13 +469,40 @@
     "result_type": "article"
   },
   {
+    "id": "7d103493380cb96eac01a01f824bf98fbd8af769",
+    "title": "Bebop vs. Persona Grata Odds & Predictions (Apr. 7, 2026) - polymarket.com",
+    "url": "https://polymarket.com/esports/cs2/nodwin-clutch-series/cs2-pg-bbp-2026-04-07",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T19:55:08Z",
+    "summary": "Bebop vs. Persona Grata Odds & Predictions (Apr. 7, 2026) - polymarket.com is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7976504351094104,
+    "home_score": 0.5989,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "c8eefc632b3023ea19c4f8b410563ed2af55e143",
-    "title": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 - Nintendo Everything",
+    "title": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 - nintendoeverything.com",
     "url": "https://nintendoeverything.com/people-of-note-launch-trailer/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-07T19:03:05Z",
-    "summary": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 Nintendo Everything",
+    "summary": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 nintendoeverything",
     "content": "",
     "categories": [
       "games"
@@ -498,36 +513,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8537726476356533,
-    "home_score": 0.6242,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d88bb7dda37468161787f16d559ba75831d96e70",
-    "title": "Official Persona 30th Anniversary Merchandise Appears To Be Hinting At Persona 1 & 2 Remasters - TwistedVoxel",
-    "url": "https://twistedvoxel.com/official-persona-30th-anniversary-merchandise-hints-at-persona-1-2-remasters/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T15:24:23Z",
-    "summary": "Official Persona 30th Anniversary Merchandise Appears To Be Hinting At Persona 1 & 2 Remasters TwistedVoxel",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8116262358546369,
-    "home_score": 0.6112,
+    "freshness_score": 0.7880975225937892,
+    "home_score": 0.5946,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -551,8 +538,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8232982207034786,
-    "home_score": 0.6105,
+    "freshness_score": 0.7599672945842936,
+    "home_score": 0.582,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -578,33 +565,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7960400614042038,
-    "home_score": 0.5982,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3f5b8dc7f1b8ec5da44d497ef7fa11c50092be1a",
-    "title": "People Of Note Review: The Musical RPG That Screams Final Fantasy - Noisy Pixel",
-    "url": "https://noisypixel.net/people-of-note-review-musical-rpg/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T13:00:57Z",
-    "summary": "People Of Note Review: The Musical RPG That Screams Final Fantasy Noisy Pixel",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7851209406640699,
-    "home_score": 0.5933,
+    "freshness_score": 0.7348059245081765,
+    "home_score": 0.5707,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -632,8 +594,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6285644139633878,
-    "home_score": 0.5759,
+    "freshness_score": 0.580215666555725,
+    "home_score": 0.5541,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -670,8 +632,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6198946944533141,
-    "home_score": 0.552,
+    "freshness_score": 0.5722128161817737,
+    "home_score": 0.5305,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -705,8 +667,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6113445553864071,
-    "home_score": 0.5481,
+    "freshness_score": 0.5643203479986321,
+    "home_score": 0.5269,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -718,44 +680,6 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "cd25ae0456bc3c80d3ee86f11e308042ebd4e915",
-    "title": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback - GamesRadar+",
-    "url": "https://www.gamesradar.com/games/persona/im-staring-at-persona-1-origins-and-persona-2-duality-merch-from-atlus-and-willing-myself-to-believe-that-the-og-ps1-jrpgs-are-finally-making-a-comeback/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T21:44:25Z",
-    "summary": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback GamesRadar+",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6350332075714616,
-    "home_score": 0.5318,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "article"
   },
@@ -788,7 +712,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 8.403431994509731e-137,
+    "freshness_score": 7.756977466148073e-137,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -806,12 +730,12 @@
   },
   {
     "id": "c16532a1c3c284be91caaaec4c5489c08df002a1",
-    "title": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! - geekculture.co",
+    "title": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! - Geek Culture",
     "url": "https://geekculture.co/anime-festival-asia-singapore-afa-sg-2022-artist-alley-highlights/",
     "source_name": "Google News Artist Alley",
     "source_type": "rss",
     "published_at": "2022-11-26T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! geekculture",
+    "summary": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! Geek Culture",
     "content": "",
     "categories": [
       "events",
@@ -830,7 +754,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.240083033219964e-178,
+    "freshness_score": 1.1446844644827292e-178,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -843,6 +767,44 @@
       "guest_status": "Lineup details mentioned",
       "guest_names": [],
       "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "cd25ae0456bc3c80d3ee86f11e308042ebd4e915",
+    "title": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback - GamesRadar+",
+    "url": "https://www.gamesradar.com/games/persona/im-staring-at-persona-1-origins-and-persona-2-duality-merch-from-atlus-and-willing-myself-to-believe-that-the-og-ps1-jrpgs-are-finally-making-a-comeback/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T21:44:25Z",
+    "summary": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback GamesRadar+",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5861842731566141,
+    "home_score": 0.5098,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "article"
   },
@@ -871,7 +833,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 3.092728528544688e-20,
+    "freshness_score": 2.85484086566173e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -886,56 +848,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "6ef5cd87b7ada18257a6494c62b4b3ba207ea102",
-    "title": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? - massivelyop.com",
-    "url": "https://massivelyop.com/2026/04/06/wisdom-of-nym-is-it-time-to-bring-elemental-damage-back-to-final-fantasy-xiv/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T16:00:00Z",
-    "summary": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? massivelyop",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5863701265808169,
-    "home_score": 0.5039,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "01b340871f0596d01f7edb84bebfa3d8fc0469a1",
-    "title": "Treasuries are becoming persona non gratis - FXStreet",
-    "url": "https://www.fxstreet.com/analysis/treasuries-are-becoming-persona-non-gratis-202604061421",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T14:21:39Z",
-    "summary": "Treasuries are becoming persona non gratis FXStreet",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5731715153256646,
-    "home_score": 0.4979,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
   },
   {
     "id": "0b3ad17a0b4ef122d5774c89c5f79a7fb7133d0d",
@@ -962,7 +874,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 2.2290031010775285e-18,
+    "freshness_score": 2.0575245548683813e-18,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -980,12 +892,12 @@
   },
   {
     "id": "73bffc4bf3282f2bf858116556dc4b18d07426d7",
-    "title": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones - The Straits Times",
+    "title": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones - straitstimes.com",
     "url": "https://www.straitstimes.com/life/home-design/design-news-anime-festival-asia-returns-oppo-s-new-foldable-phones",
     "source_name": "Google News Anime Conventions",
     "source_type": "rss",
     "published_at": "2023-10-20T07:00:00Z",
-    "summary": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones The Straits Times",
+    "summary": "Design News: Anime Festival Asia returns, Oppo\u2019s new foldable phones straitstimes",
     "content": "",
     "categories": [
       "events",
@@ -1003,7 +915,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 3.717734195281274e-131,
+    "freshness_score": 3.431726673985253e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1017,6 +929,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "6ef5cd87b7ada18257a6494c62b4b3ba207ea102",
+    "title": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? - Massively Overpowered",
+    "url": "https://massivelyop.com/2026/04/06/wisdom-of-nym-is-it-time-to-bring-elemental-damage-back-to-final-fantasy-xiv/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T16:00:00Z",
+    "summary": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? Massively Overpowered",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5412645235825858,
+    "home_score": 0.4836,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1047,12 +984,80 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 2.1662176865365598e-51,
+    "freshness_score": 1.9995723419774666e-51,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "01b340871f0596d01f7edb84bebfa3d8fc0469a1",
+    "title": "Treasuries are becoming persona non gratis - FXStreet",
+    "url": "https://www.fxstreet.com/analysis/treasuries-are-becoming-persona-non-gratis-202604061421",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T14:21:39Z",
+    "summary": "Treasuries are becoming persona non gratis FXStreet",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5290811947800439,
+    "home_score": 0.4781,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
+    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
+    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 2.0575462757267923e-18,
+    "home_score": 0.477,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
@@ -1090,7 +1095,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.14441867044394e-18,
+    "freshness_score": 1.0563794839353351e-18,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1108,12 +1113,12 @@
   },
   {
     "id": "3c7e836a9ca2fa54959d18e7e6630262a6ca0dfa",
-    "title": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend - geekculture.co",
+    "title": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend - Geek Culture",
     "url": "https://geekculture.co/singapore-comic-con-sgcc-2025-the-ultimate-event-guide/",
     "source_name": "Google News Artist Alley",
     "source_type": "rss",
     "published_at": "2025-12-03T08:00:00Z",
-    "summary": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend geekculture",
+    "summary": "Singapore Comic Con (SGCC) 2025: The Ultimate Event Guide To Plan Your Geek Season Weekend Geek Culture",
     "content": "",
     "categories": [
       "events",
@@ -1133,7 +1138,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 5.875641389362039e-19,
+    "freshness_score": 5.423633130404434e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1177,7 +1182,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.840446407581986e-176,
+    "freshness_score": 1.6988623800504932e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1195,12 +1200,12 @@
   },
   {
     "id": "f0ada785e9315a55907abca7f5dea6adcaac18b3",
-    "title": "Singapore Comic Con (SGCC) 2022 Event Highlights - geekculture.co",
+    "title": "Singapore Comic Con (SGCC) 2022 Event Highlights - Geek Culture",
     "url": "https://geekculture.co/singapore-comic-con-sgcc-2022-event-highlights/",
     "source_name": "Google News Artist Alley",
     "source_type": "rss",
     "published_at": "2022-12-11T08:00:00Z",
-    "summary": "Singapore Comic Con (SGCC) 2022 Event Highlights geekculture",
+    "summary": "Singapore Comic Con (SGCC) 2022 Event Highlights Geek Culture",
     "content": "",
     "categories": [
       "events",
@@ -1220,7 +1225,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.8404464031299984e-176,
+    "freshness_score": 1.6988623736403297e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1261,7 +1266,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.5489008276442055e-19,
+    "freshness_score": 1.4297576626844137e-19,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1303,7 +1308,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 2.925495764564505e-20,
+    "freshness_score": 2.7004633915196135e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1344,49 +1349,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.723084805012057e-23,
-    "home_score": 0.4685,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "774667ca57d30ca271e8e604427c0a0f321dc949",
-    "title": "Anime Festival Asia 2025 \u2014 A preview of what\u2019s to come - Yahoo Lifestyle Singapore",
-    "url": "https://sg.style.yahoo.com/anime-festival-asia-2025-preview-040057940.html",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-10-31T07:00:00Z",
-    "summary": "Anime Festival Asia 2025 \u2014 A preview of what\u2019s to come Yahoo Lifestyle Singapore",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.8300000000000001,
-    "freshness_score": 9.678582296088077e-24,
+    "freshness_score": 3.4367009988994207e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1430,7 +1393,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.2610157483470334e-29,
+    "freshness_score": 3.9332536895869945e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1471,7 +1434,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.08266371661333e-20,
+    "freshness_score": 3.7685993016934725e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1513,8 +1476,8 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.0012568338809099662,
-    "home_score": 0.4616,
+    "freshness_score": 0.001160148865390015,
+    "home_score": 0.4615,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1546,7 +1509,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 3.5429535313176185e-35,
+    "freshness_score": 3.2704031744165885e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1555,12 +1518,12 @@
   },
   {
     "id": "acf63b8f1147e951d7371bc0759991793c5eb583",
-    "title": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention - The Straits Times",
+    "title": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention - straitstimes.com",
     "url": "https://www.straitstimes.com/life/entertainment/from-passion-to-product-artist-alley-kicks-off-at-sold-out-hoyo-fest-convention",
     "source_name": "Google News HoyoFest",
     "source_type": "rss",
     "published_at": "2025-07-26T07:00:00Z",
-    "summary": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention The Straits Times",
+    "summary": "From passion to product: Artist Alley kicks off at sold-out Hoyo Fest convention straitstimes",
     "content": "",
     "categories": [
       "events",
@@ -1578,7 +1541,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 8.782103878378996e-38,
+    "freshness_score": 8.106519089462669e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1596,12 +1559,12 @@
   },
   {
     "id": "5580feb3dbd688be1d9ee15682340476816cc749",
-    "title": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out - geekculture.co",
+    "title": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out - Geek Culture",
     "url": "https://geekculture.co/3-day-hoyofest-singapore-2025-debuts-artist-alley-tickets-all-sold-out/",
     "source_name": "Google News HoyoFest",
     "source_type": "rss",
     "published_at": "2025-07-26T07:00:00Z",
-    "summary": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out geekculture",
+    "summary": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out Geek Culture",
     "content": "",
     "categories": [
       "events",
@@ -1620,7 +1583,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 8.782103786797128e-38,
+    "freshness_score": 8.106518995699892e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1661,7 +1624,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.5125615603185407e-41,
+    "freshness_score": 1.396204068580558e-41,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1678,13 +1641,46 @@
     "result_type": "article"
   },
   {
+    "id": "d9df7c70d4d5e3fa197bfe3c697eaa2b3f9e542e",
+    "title": "HoYo FEST comes to Southeast Asia for the first time this November - HardwareZone",
+    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/tech-news-hoyo-fest-comes-southeast-asia-first-time-november",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-06-27T15:23:34Z",
+    "summary": "HoYo FEST comes to Southeast Asia for the first time this November HardwareZone",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "games"
+    ],
+    "tags": [
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 5.771364975402052e-42,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "628a36a8ce260e2b21df6551772f4303e4f832c9",
-    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - sme.asia",
+    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - SME & Entrepreneurship Magazine",
     "url": "https://sme.asia/hoyo-fest-2025-southeast-asias-most-anticipated-hoyoverse-event-returns-this-july/",
     "source_name": "Google News HoyoFest",
     "source_type": "rss",
     "published_at": "2025-05-30T07:00:00Z",
-    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! sme",
+    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! SME & Entrepreneurship Magazine",
     "content": "",
     "categories": [
       "events",
@@ -1703,7 +1699,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 4.920433987510156e-46,
+    "freshness_score": 4.5419175869791515e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1712,12 +1708,12 @@
   },
   {
     "id": "dc008a6954e6d23a5135326acb30c9ef55a8bb2c",
-    "title": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network - ANTARA News",
+    "title": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network - en.antaranews.com",
     "url": "https://en.antaranews.com/news/396685/kayou-debuts-at-singapore-comic-con-2025-deepening-distribution-network",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-16T08:00:00Z",
-    "summary": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network ANTARA News",
+    "summary": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network en",
     "content": "",
     "categories": [
       "events",
@@ -1736,7 +1732,49 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 4.477397701508377e-17,
+    "freshness_score": 4.132991318918325e-17,
+    "home_score": 0.451,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "6d9c1f0db9cedb653e847b6289fc5a758e3b874a",
+    "title": "In Review and in Pictures: Singapore Comic Con 2025 - downthetubes.net",
+    "url": "https://downthetubes.net/in-review-and-in-pictures-singapore-comic-con-2025/",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-12-16T08:00:00Z",
+    "summary": "In Review and in Pictures: Singapore Comic Con 2025 downthetubes",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 4.132991308314814e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1778,7 +1816,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.111050467998586e-18,
+    "freshness_score": 2.8717450214930595e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1821,49 +1859,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.229165081987897e-18,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
-    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
-    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 2.2291650521366995e-18,
+    "freshness_score": 2.057695235133228e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1906,7 +1902,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.1098359311645576e-19,
+    "freshness_score": 1.0244661240362062e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1948,7 +1944,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 5.358232393061457e-22,
+    "freshness_score": 4.946071224720406e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1991,7 +1987,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 1.5723832059658373e-42,
+    "freshness_score": 1.4514380397918532e-42,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -2033,7 +2029,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.225641321531095e-37,
+    "freshness_score": 1.131355869897584e-37,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2066,7 +2062,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 2.1109496949661256e-41,
+    "freshness_score": 1.9485597345348105e-41,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2100,53 +2096,11 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.4667607078982966e-42,
+    "freshness_score": 1.3539265584332599e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0c1ef2cfec436069d39f432edb3d1342bf657178",
-    "title": "HoYo Fest 2024 in pictures: One of the biggest gaming festivals is back - HardwareZone",
-    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/feature-hoyo-fest-2024-gallery-hoyoverse-genshin-impact-honkai",
-    "source_name": "Google News HoyoFest",
-    "source_type": "rss",
-    "published_at": "2024-08-16T07:00:00Z",
-    "summary": "HoYo Fest 2024 in pictures: One of the biggest gaming festivals is back HardwareZone",
-    "content": "",
-    "categories": [
-      "events",
-      "gacha",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "hoyofest"
-    ],
-    "entity_tags": [
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.3947551470557392e-87,
-    "home_score": 0.431,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -2174,7 +2128,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 1.5099092898846682e-65,
+    "freshness_score": 1.3937695166846723e-65,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2218,12 +2172,51 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 1.3770415819463668e-283,
+    "freshness_score": 1.2711049471636243e-283,
     "home_score": 0.426,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9e65f2a23b3454ac88abf3ad58f288f5dd8d40b8",
+    "title": "Key visuals in largest US anime convention were created by S'poreans - mothership.sg",
+    "url": "https://mothership.sg/2019/06/anime-expo-access-pass-merchandise-singaporeans/",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2019-06-26T07:00:00Z",
+    "summary": "Key visuals in largest US anime convention were created by S'poreans mothership",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 0.0,
+    "home_score": 0.4135,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
