@@ -22,11 +22,50 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8856154405355281,
-    "home_score": 0.764,
+    "freshness_score": 0.8160890420948387,
+    "home_score": 0.7327,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6f8c94054777f14d461eadb3af564244bbd293bc",
+    "title": "Even More New Hatsune Miku Cinnamoroll Items Appear",
+    "url": "https://www.siliconera.com/even-more-new-hatsune-miku-cinnamoroll-items-appear/?utm_source=rss&utm_medium=rss&utm_campaign=even-more-new-hatsune-miku-cinnamoroll-items-appear",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-07T21:00:00Z",
+    "summary": "Anicraft will release Dream Sakura versions of new Hatsune Miku and Cinnamoroll crossover merchandise",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9574459223030856,
+    "home_score": 0.7039,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "ones like Kagamine Rin",
+        "Len"
+      ],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -51,8 +90,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9828631531035525,
-    "home_score": 0.7353,
+    "freshness_score": 0.9057050098676882,
+    "home_score": 0.7006,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -67,6 +106,72 @@
       ],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "74ba707e283a534be6365cadb222936039f96493",
+    "title": "New Mortenax Blade Alt Debuts in Honkai: Star Rail 4.3",
+    "url": "https://www.siliconera.com/new-mortenax-blade-alt-debuts-in-honkai-star-rail-4-3/?utm_source=rss&utm_medium=rss&utm_campaign=new-mortenax-blade-alt-debuts-in-honkai-star-rail-4-3",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-07T20:00:00Z",
+    "summary": "We knew a new alt for Blade would appear in Honkai: Star Rail , and now we know the Mortenax version of him will appear in the 4",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9442399745312212,
+    "home_score": 0.6979,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 10, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "a08084f9a22f5b9548da6d123b8fc522dc36def3",
+    "title": "Princess Maker-Like Machine Child Features 3 Daughters to Raise",
+    "url": "https://www.siliconera.com/princess-maker-like-machine-child-features-3-daughters-to-raise/?utm_source=rss&utm_medium=rss&utm_campaign=princess-maker-like-machine-child-features-3-daughters-to-raise",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-07T19:00:00Z",
+    "summary": "JAST and Syojo Kishidan released a new Princess Maker style daughter-raising simulation called Machine Child on PCs worldwide",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.931216176980276,
+    "home_score": 0.692,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -90,13 +195,76 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9559370906909889,
-    "home_score": 0.7232,
+    "freshness_score": 0.8808927371343964,
+    "home_score": 0.6894,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 9, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7783c89e7cbb95a87d22423554aba43ff0603614",
+    "title": "'Euphoria' Star Jacob Elordi Says This 2002 JRPG Classic Is His Favorite Video Game of All Time - Men's Journal",
+    "url": "https://www.mensjournal.com/entertainment/euphoria-star-jacob-elordi-says-this-2002-jrpg-classic-is-his-favorite-video-game-of-all-time",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T23:53:36Z",
+    "summary": "'Euphoria' Star Jacob Elordi Says This 2002 JRPG Classic Is His Favorite Video Game of All Time Men's Journal",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9966535006178581,
+    "home_score": 0.6885,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b829e77899ba293040f00bf54939ede76d945cfc",
+    "title": "ASIAN KUNG-FU GENERATION unveils opening theme 'Skins' for 'Dr. STONE SCIENCE FUTURE' with epic MV \u2014 watch",
+    "url": "https://www.bandwagon.asia/articles/asian-kung-fu-generation-unveils-opening-theme-skins-for-dr-stone-science-future-with-epic-mv-watch",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-07T01:44:00Z",
+    "summary": "Amidst joyous 30th anniversary celebrations, ASIAN KUNG-FU GENERATION has unveiled the opening theme for Dr",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7326553239844775,
+    "home_score": 0.6877,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C503%2C3952%2C1976%5D/resize=w:1920/pjpg=q:90/compress/f6snGT2LRJq1ywkpYtZ2",
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": "5 April",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -126,8 +294,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.996609278356696,
-    "home_score": 0.7215,
+    "freshness_score": 0.9183720143996426,
+    "home_score": 0.6863,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -141,44 +309,6 @@
         "Claude",
         "Edelgard"
       ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "b829e77899ba293040f00bf54939ede76d945cfc",
-    "title": "ASIAN KUNG-FU GENERATION unveils opening theme 'Skins' for 'Dr. STONE SCIENCE FUTURE' with epic MV \u2014 watch",
-    "url": "https://www.bandwagon.asia/articles/asian-kung-fu-generation-unveils-opening-theme-skins-for-dr-stone-science-future-with-epic-mv-watch",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-07T01:44:00Z",
-    "summary": "Amidst joyous 30th anniversary celebrations, ASIAN KUNG-FU GENERATION has unveiled the opening theme for Dr",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7950706138941793,
-    "home_score": 0.7158,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C503%2C3952%2C1976%5D/resize=w:1920/pjpg=q:90/compress/f6snGT2LRJq1ywkpYtZ2",
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": "5 April",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
       "merch_status": null
     },
     "result_type": "article"
@@ -203,8 +333,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9693066296896681,
-    "home_score": 0.7092,
+    "freshness_score": 0.8932127206989422,
+    "home_score": 0.6749,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -217,6 +347,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "7d103493380cb96eac01a01f824bf98fbd8af769",
+    "title": "Bebop vs. Persona Grata Odds & Predictions (Apr. 7, 2026) - Polymarket",
+    "url": "https://polymarket.com/esports/cs2/nodwin-clutch-series/cs2-pg-bbp-2026-04-07",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T19:55:08Z",
+    "summary": "Bebop vs. Persona Grata Odds & Predictions (Apr. 7, 2026) - Polymarket is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9431285146536929,
+    "home_score": 0.6644,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -240,8 +397,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9428428892345222,
-    "home_score": 0.6973,
+    "freshness_score": 0.8688264759229933,
+    "home_score": 0.664,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -257,6 +414,31 @@
       ],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "c8eefc632b3023ea19c4f8b410563ed2af55e143",
+    "title": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 - Nintendo Everything",
+    "url": "https://nintendoeverything.com/people-of-note-launch-trailer/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T19:03:05Z",
+    "summary": "People of Note launch trailer \u2013 turn-based RPG musical lands on Nintendo Switch 2 Nintendo Everything",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9318333072153083,
+    "home_score": 0.6593,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -278,8 +460,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9297486805417308,
-    "home_score": 0.6914,
+    "freshness_score": 0.8567602083545625,
+    "home_score": 0.6585,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -292,65 +474,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "c8a70d2d949880f9a3bcc05f4854896ca15c227c",
-    "title": "Final Fantasy XIV sets its next Live Letter for April 17 \u2013 here\u2019s what we think will be in it - Massively Overpowered",
-    "url": "https://massivelyop.com/2026/04/07/final-fantasy-xiv-sets-its-next-live-letter-for-april-17-heres-what-we-think-will-be-in-it/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T18:00:00Z",
-    "summary": "Final Fantasy XIV sets its next Live Letter for April 17 \u2013 here\u2019s what we think will be in it Massively Overpowered",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9965648216734277,
-    "home_score": 0.6885,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 17",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "b6557f392868165183c3824b2c4f7b1ed0f48275",
-    "title": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review - GameSpot",
-    "url": "https://www.gamespot.com/reviews/this-turn-based-rpg-musical-is-fun-but-drags-a-bit-in-act-3-people-of-note-review/1900-6418478/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T16:26:04Z",
-    "summary": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review GameSpot",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9751295811957618,
-    "home_score": 0.6788,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -374,8 +497,33 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9613050747226481,
-    "home_score": 0.6786,
+    "freshness_score": 0.8858334404259763,
+    "home_score": 0.6446,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b6557f392868165183c3824b2c4f7b1ed0f48275",
+    "title": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review - GameSpot",
+    "url": "https://www.gamespot.com/reviews/this-turn-based-rpg-musical-is-fun-but-drags-a-bit-in-act-3-people-of-note-review/1900-6418478/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T16:26:04Z",
+    "summary": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review GameSpot",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8985725981519856,
+    "home_score": 0.6444,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -401,8 +549,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9428445174077423,
-    "home_score": 0.6643,
+    "freshness_score": 0.8688222154725354,
+    "home_score": 0.631,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -426,36 +574,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9299117179980104,
-    "home_score": 0.6585,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "aa749177a94bc632ae11839d8f3c895f0cec1919",
-    "title": "Rumour: Persona 1 and 2 Re-Release Hinted at by New Merchandise - Push Square",
-    "url": "https://www.pushsquare.com/news/2026/04/rumour-persona-1-and-2-re-release-hinted-at-by-new-merchandise",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T11:30:00Z",
-    "summary": "Rumour: Persona 1 and 2 Re-Release Hinted at by New Merchandise Push Square",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9105387005954164,
-    "home_score": 0.6557,
+    "freshness_score": 0.8569047662027661,
+    "home_score": 0.6256,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -483,8 +603,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7444845344128571,
-    "home_score": 0.628,
+    "freshness_score": 0.6860399367361366,
+    "home_score": 0.6017,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -497,96 +617,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "74fd4e5c152d1146bd761f4f44a5e2024efe2044",
-    "title": "New Switch 2 Offer Features Super Mario Galaxy Games",
-    "url": "https://www.siliconera.com/new-switch-2-offer-features-super-mario-galaxy-games/?utm_source=rss&utm_medium=rss&utm_campaign=new-switch-2-offer-features-super-mario-galaxy-games",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-06T16:00:00Z",
-    "summary": "There\u2019s a new way to get more than just a new console when buying a Switch 2 system, as Nintendo confirmed a Super Mario Galaxy \u201c bundle\u201d offer that features the two updated releas",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.6945385044404189,
-    "home_score": 0.6255,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 12, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "f4f7602e52474ca04a22bb9cbe473768947954b0",
-    "title": "Square Enix Is Looking Into Bringing DISSIDIA DUELLUM FINAL FANTASY to PC - GamerBraves",
-    "url": "https://www.gamerbraves.com/square-enix-is-looking-into-bringing-dissidia-duellum-final-fantasy-to-pc/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T04:54:08Z",
-    "summary": "Square Enix Is Looking Into Bringing DISSIDIA DUELLUM FINAL FANTASY to PC GamerBraves",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8308095649486054,
-    "home_score": 0.6139,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "adf8d8c9c3580f944b96b7be068545734f291b98",
-    "title": "Good Smile Company Racing Miku Kyojo Vita 2026 Design Teased",
-    "url": "https://www.siliconera.com/good-smile-company-racing-miku-kyojo-vita-2026-design-teased/?utm_source=rss&utm_medium=rss&utm_campaign=good-smile-company-racing-miku-kyojo-vita-2026-design-teased",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-06T17:00:00Z",
-    "summary": "We know what the next Racing Miku design for Hatsune Miku looks like, as Good Smile Company shared the Kyojo Vita 2026 art on social media",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7042521772386737,
-    "home_score": 0.6099,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -611,8 +641,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7342159415860499,
-    "home_score": 0.6034,
+    "freshness_score": 0.6765774643827959,
+    "home_score": 0.5775,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -646,8 +676,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7240889821314157,
-    "home_score": 0.5988,
+    "freshness_score": 0.6672455066599078,
+    "home_score": 0.5733,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -660,33 +690,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "ebbad9d08a55c4db1272312d4be748e49783957a",
-    "title": "First Sakura Wars 30th Anniversary Figure Is Sakura Shinguji",
-    "url": "https://www.siliconera.com/first-sakura-wars-30th-anniversary-figure-is-sakura-shinguji/?utm_source=rss&utm_medium=rss&utm_campaign=first-sakura-wars-30th-anniversary-figure-is-sakura-shinguji",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-06T18:00:00Z",
-    "summary": "When April 2026 started , Sega confirmed it would celebrate the 30th anniversary of the Sakura Wars ( Sakura Taisen ) series in various ways, with merchandise being one, and now it",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7141017030993917,
-    "home_score": 0.5943,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -711,8 +714,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.752145029826889,
-    "home_score": 0.5845,
+    "freshness_score": 0.6930944598510579,
+    "home_score": 0.5579,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -728,17 +731,16 @@
     "result_type": "article"
   },
   {
-    "id": "4e68537a1f87fb443d60ecd0e00315d7696dcb62",
-    "title": "Interview: Getting Competitive With Dissidia Duellum Final Fantasy - Siliconera",
-    "url": "https://www.siliconera.com/interview-getting-competitive-with-dissidia-duellum-final-fantasy/",
+    "id": "6ef5cd87b7ada18257a6494c62b4b3ba207ea102",
+    "title": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? - Massively Overpowered",
+    "url": "https://massivelyop.com/2026/04/06/wisdom-of-nym-is-it-time-to-bring-elemental-damage-back-to-final-fantasy-xiv/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-06T14:00:00Z",
-    "summary": "Interview: Getting Competitive With Dissidia Duellum Final Fantasy Siliconera",
+    "published_at": "2026-04-06T16:00:00Z",
+    "summary": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? Massively Overpowered",
     "content": "",
     "categories": [
-      "games",
-      "events"
+      "games"
     ],
     "tags": [],
     "entity_tags": [
@@ -746,8 +748,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6754811778457129,
-    "home_score": 0.568,
+    "freshness_score": 0.6399820996065985,
+    "home_score": 0.528,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -771,8 +773,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6788749001120148,
-    "home_score": 0.5455,
+    "freshness_score": 0.6255767359674885,
+    "home_score": 0.5215,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -807,7 +809,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 9.953177782701812e-137,
+    "freshness_score": 9.171656712402344e-137,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -849,7 +851,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.4687767991267647e-178,
+    "freshness_score": 1.3534451312371246e-178,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -890,7 +892,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 3.6630913242369927e-20,
+    "freshness_score": 3.37552649952912e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -931,50 +933,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 2.6400730291810815e-18,
-    "home_score": 0.496,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e6476191b56b2b6877269525a163a4ec55dff5dc",
-    "title": "Anime Festival Asia Singapore 2025 Reveals Concerts and Day Stage Highlights - GamerBraves",
-    "url": "https://www.gamerbraves.com/anime-festival-asia-singapore-2025-reveals-concerts-and-day-stage-highlights/",
-    "source_name": "Google News Anime Conventions",
-    "source_type": "rss",
-    "published_at": "2025-09-23T07:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 Reveals Concerts and Day Stage Highlights GamerBraves",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.91,
-    "freshness_score": 3.615946730502744e-29,
+    "freshness_score": 2.4327621294627434e-18,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1015,7 +974,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 4.403354021643662e-131,
+    "freshness_score": 4.057582044841829e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1059,7 +1018,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 2.56570745213418e-51,
+    "freshness_score": 2.3642423133442236e-51,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -1102,7 +1061,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.3554701957969658e-18,
+    "freshness_score": 1.249035617499917e-18,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1145,7 +1104,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 6.959216055347623e-19,
+    "freshness_score": 6.41276270416275e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1189,7 +1148,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.1798580504493773e-176,
+    "freshness_score": 2.008690678298338e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1232,7 +1191,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.1798580454286445e-176,
+    "freshness_score": 2.0086906740360815e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1273,7 +1232,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.8345512380067715e-19,
+    "freshness_score": 1.6905234746892502e-19,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1315,7 +1274,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.4650196972757624e-20,
+    "freshness_score": 3.1929863937300104e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1356,7 +1315,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.409701198928736e-23,
+    "freshness_score": 4.063502420125054e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1400,7 +1359,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 5.04683809139874e-29,
+    "freshness_score": 4.650618695069014e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1441,7 +1400,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.835579775375253e-20,
+    "freshness_score": 4.455905977015067e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1483,8 +1442,8 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.0014886169208008502,
-    "home_score": 0.4617,
+    "freshness_score": 0.001371731085581567,
+    "home_score": 0.4616,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1516,7 +1475,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 4.1963386379960423e-35,
+    "freshness_score": 3.8668431600558237e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1548,7 +1507,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.0401683653833265e-37,
+    "freshness_score": 9.58494600180378e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1590,7 +1549,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.0401683545081035e-37,
+    "freshness_score": 9.584945909504157e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1631,7 +1590,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.7915054383386505e-41,
+    "freshness_score": 1.650836870490962e-41,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1649,12 +1608,12 @@
   },
   {
     "id": "628a36a8ce260e2b21df6551772f4303e4f832c9",
-    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - sme.asia",
+    "title": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! - SME & Entrepreneurship Magazine",
     "url": "https://sme.asia/hoyo-fest-2025-southeast-asias-most-anticipated-hoyoverse-event-returns-this-july/",
     "source_name": "Google News HoyoFest",
     "source_type": "rss",
     "published_at": "2025-05-30T07:00:00Z",
-    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! sme",
+    "summary": "HoYo FEST 2025: Southeast Asia\u2019s Most Anticipated HoYoverse Event Returns this July! SME & Entrepreneurship Magazine",
     "content": "",
     "categories": [
       "events",
@@ -1673,7 +1632,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 5.827851558654092e-46,
+    "freshness_score": 5.370250086516427e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1706,7 +1665,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 5.303125520410003e-17,
+    "freshness_score": 4.8867853852580505e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1748,7 +1707,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 5.3031255067225405e-17,
+    "freshness_score": 4.886785380393852e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1766,12 +1725,12 @@
   },
   {
     "id": "e56e5fbfa312f2965b0d1238d0517bb83dd10607",
-    "title": "Asia Album: Singapore Comic Con celebrates pop culture - english.news.cn",
+    "title": "Asia Album: Singapore Comic Con celebrates pop culture - Xinhua",
     "url": "https://english.news.cn/20251208/d7fb5ffad1fd4c75b2341eae261ad28c/c.html",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-08T08:00:00Z",
-    "summary": "Asia Album: Singapore Comic Con celebrates pop culture english",
+    "summary": "Asia Album: Singapore Comic Con celebrates pop culture Xinhua",
     "content": "",
     "categories": [
       "events",
@@ -1790,7 +1749,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.684794652809973e-18,
+    "freshness_score": 3.3955071591917807e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1808,12 +1767,12 @@
   },
   {
     "id": "eda5f6ecd166bdc1ca433f067447081aa2b82319",
-    "title": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend - CNA",
+    "title": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend - channelnewsasia.com",
     "url": "https://www.channelnewsasia.com/watch/local-games-featured-singapore-comic-con-see-up-1000-potential-downloads-over-weekend-5566586",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend CNA",
+    "summary": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend channelnewsasia",
     "content": "",
     "categories": [
       "events",
@@ -1833,7 +1792,49 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.6402707582239668e-18,
+    "freshness_score": 2.4329872077166754e-18,
+    "home_score": 0.451,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
+    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
+    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 2.432987175783728e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1876,7 +1877,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.3145133942826186e-19,
+    "freshness_score": 1.2113129939630734e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1918,7 +1919,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 6.346404943660929e-22,
+    "freshness_score": 5.848158569854403e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1961,7 +1962,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 1.8623630343920137e-42,
+    "freshness_score": 1.7161613538640554e-42,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -2003,7 +2004,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.451671885904685e-37,
+    "freshness_score": 1.3376869658754704e-37,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2036,7 +2037,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 2.5002472343454976e-41,
+    "freshness_score": 2.303928435856724e-41,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2070,7 +2071,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.7372580748717318e-42,
+    "freshness_score": 1.6008489970758017e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2103,7 +2104,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.6519733783576667e-87,
+    "freshness_score": 1.5222608350700529e-87,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2144,7 +2145,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 1.7883676459548868e-65,
+    "freshness_score": 1.647974845196156e-65,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2188,7 +2189,7 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 1.6309938447913898e-283,
+    "freshness_score": 1.5029205709971906e-283,
     "home_score": 0.426,
     "source_quality": 0.79,
     "image_url": null,
@@ -2205,43 +2206,39 @@
     "result_type": "article"
   },
   {
-    "id": "5c686bc16d5f83a94eaea3c20099dbb73f16bbc8",
-    "title": "Inside The New Demon Slayer Exhibition In SG \u2013 Iconic Anime Scenes & SG-Exclusive Merch - TheSmartLocal",
-    "url": "https://thesmartlocal.com/read/demon-slayer-exhibition-singapore/",
-    "source_name": "Google News Anime And Manga",
+    "id": "0f2cff20dc654c3b473926f561ac2712f4bc63b7",
+    "title": "Kadokawa acquires company behind Southeast Asia\u2019s largest anime convention amidst continuous efforts for global expansion - AUTOMATON",
+    "url": "https://automaton-media.com/en/news/kadokawa-acquires-company-behind-southeast-asias-largest-anime-convention-amidst-continuous-efforts-for-global-expansion/",
+    "source_name": "Google News Anime Conventions",
     "source_type": "rss",
-    "published_at": "2026-03-10T07:00:00Z",
-    "summary": "Inside The New Demon Slayer Exhibition In SG \u2013 Iconic Anime Scenes & SG-Exclusive Merch TheSmartLocal",
+    "published_at": "2025-12-05T08:00:00Z",
+    "summary": "Kadokawa acquires company behind Southeast Asia\u2019s largest anime convention amidst continuous efforts for global expansion AUTOMATON",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
       "events",
-      "games",
+      "anime",
       "merch"
     ],
-    "tags": [
-      "singapore"
-    ],
+    "tags": [],
     "entity_tags": [],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.58,
-    "freshness_score": 7.563658424035911e-05,
-    "home_score": 0.4075,
-    "source_quality": 0.75,
+    "sg_relevance": 0.55,
+    "freshness_score": 1.2490217258675998e-18,
+    "home_score": 0.406,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
-      "event_type": null,
+      "event_type": "convention",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
+      "merch_status": null
     },
     "result_type": "article"
   }
