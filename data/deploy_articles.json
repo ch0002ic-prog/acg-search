@@ -537,6 +537,143 @@
     "result_type": "event"
   },
   {
+    "id": "5f13ebe305cfb3a4f9aa7e76d5a56925b8a7bf9f",
+    "title": "McDonald\u2019s Gundam Crossover Returns With White Base Crew",
+    "url": "https://www.siliconera.com/mcdonalds-gundam-crossover-returns-with-white-base-crew/?utm_source=rss&utm_medium=rss&utm_campaign=mcdonalds-gundam-crossover-returns-with-white-base-crew",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-09T15:00:15Z",
+    "summary": "McDonald's Japan has revealed a new crossover campaign featuring Mobile Suit Gundam , which primarily promotes new Chicken Tatsuta burgers",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9556657052929358,
+    "home_score": 0.743,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 15, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Mobile Suit Gundam",
+        "Char Aznable in 2022"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c0f746109abe422e3a1cb4c16b37d56f55eb591b",
+    "title": "1000xResist Developer\u2019s New Game Is Prove You\u2019re Human",
+    "url": "https://www.siliconera.com/1000xresist-developers-new-game-is-prove-youre-human/?utm_source=rss&utm_medium=rss&utm_campaign=1000xresist-developers-new-game-is-prove-youre-human",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-09T18:00:00Z",
+    "summary": "During the Triple-i Initiative 2026 showcase, 1000xResist developer Sunset Visitor revealed its new game will be called Prove You\u2019re Human",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9962687103237807,
+    "home_score": 0.7213,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "43faa60568213599bf764dadeddbfb82f3d81206",
+    "title": "Review: Arcadia Fallen II Is a Relevant and Magical Visual Novel",
+    "url": "https://www.siliconera.com/review-arcadia-fallen-ii-is-a-relevant-and-magical-visual-novel/?utm_source=rss&utm_medium=rss&utm_campaign=review-arcadia-fallen-ii-is-a-relevant-and-magical-visual-novel",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-09T17:00:00Z",
+    "summary": "In the original Arcadia Fallen, Galdra Studiosexplored the consequences of an alchemist and spirit being joined together, dealing with political turmoil and demonic influences in a",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9825272798243114,
+    "home_score": 0.7151,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 9, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9e3bbda137b3cce4f6d85bb5856fe1a6508d8238",
+    "title": "Rhythm Heaven Groove Release Date Set",
+    "url": "https://www.siliconera.com/rhythm-heaven-groove-release-date-set/?utm_source=rss&utm_medium=rss&utm_campaign=rhythm-heaven-groove-release-date-set",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-09T16:00:00Z",
+    "summary": "Nintendo confirmed that its July 2026 game will be Rhythm Heaven Groove , sharing its release date on social media",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.968975371877319,
+    "home_score": 0.709,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "meetup",
+      "date_label": "July 2, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "85024d65734517bd04de55c902548f36082ef12a",
     "title": "Revisit techno history as Jeff Mills celebrates 30 years of 'Live at Liquid Room' in Singapore this May",
     "url": "https://www.bandwagon.asia/articles/celebrate-30-years-of-live-at-liquid-room-with-jeff-mills-in-singapore",
@@ -561,8 +698,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8301228498792095,
-    "home_score": 0.7316,
+    "freshness_score": 0.7630694512565281,
+    "home_score": 0.7014,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C170%2C1440%2C720%5D/resize=w:1920/pjpg=q:90/compress/wGaTQ0kMS6aKtp7AvUcD",
     "event_metadata": {
@@ -570,6 +707,41 @@
       "date_label": "30 May",
       "venue": null,
       "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5633ce5f479fa7c08acdb689b830423e66249edc",
+    "title": "Animal Crossing Make-up And Skincare Available Now in Japan",
+    "url": "https://www.siliconera.com/animal-crossing-make-up-and-skincare-available-now-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=animal-crossing-make-up-and-skincare-available-now-in-japan",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-09T14:00:00Z",
+    "summary": "Official Animal Crossing make-up and skincare from Mitea launched in Nintendo Stores in Japan",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.942429771974037,
+    "home_score": 0.6971,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": "Sold out",
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
@@ -598,8 +770,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.2,
-    "freshness_score": 0.894139243400135,
-    "home_score": 0.7254,
+    "freshness_score": 0.8219146407173367,
+    "home_score": 0.6929,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -615,18 +787,56 @@
     "result_type": "article"
   },
   {
-    "id": "1f679bd042ecb2f6d20b90a69726cbd349675cd2",
-    "title": "NYC Otaku Choir Will Present Free Concerts Featuring FINAL FANTASY, HALO & More - BroadwayWorld",
-    "url": "https://www.broadwayworld.com/article/NYC-Otaku-Choir-Will-Present-Free-Concerts-Featuring-FINAL-FANTASY-HALO-More-20260409",
-    "source_name": "Google News JRPG",
+    "id": "6686c90cf199bcde974f7fa876d5418656f15899",
+    "title": "Wuthering Waves Gets Persona 5 Royal Motorbike Livery",
+    "url": "https://www.siliconera.com/wuthering-waves-gets-persona-5-royal-motorbike-livery/?utm_source=rss&utm_medium=rss&utm_campaign=wuthering-waves-gets-persona-5-royal-motorbike-livery",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-09T09:05:17Z",
-    "summary": "NYC Otaku Choir Will Present Free Concerts Featuring FINAL FANTASY, HALO & More BroadwayWorld",
+    "published_at": "2026-04-09T13:00:00Z",
+    "summary": "Wuthering Waves gets a Persona 5 Royal crossover today worldwide , but it involves motorbike livery instead of characters and three songs",
     "content": "",
     "categories": [
       "games",
+      "anime",
+      "merch",
       "events",
-      "anime"
+      "gacha"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9294309426587455,
+    "home_score": 0.6912,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 29, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
+    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
+    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T15:04:24Z",
+    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
+    "content": "",
+    "categories": [
+      "games"
     ],
     "tags": [],
     "entity_tags": [
@@ -634,24 +844,86 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9575826117865871,
-    "home_score": 0.6949,
+    "freshness_score": 0.956533642698182,
+    "home_score": 0.6704,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "FINAL FANTASY",
-        "HALO",
-        "More BroadwayWorld"
-      ],
-      "merch_status": null
-    },
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "17d39b347f113f14c18ab133c4490f1549d7cfe6",
+    "title": "Final Fantasy 7 Officially Returns In New DLC - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-7-dlc-ff-14-event/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T14:11:23Z",
+    "summary": "Final Fantasy 7 Officially Returns In New DLC ScreenRant",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.944866435439015,
+    "home_score": 0.6652,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9ced4d409d447c99a879b564ff07ab96321dcdbe",
+    "title": "Final Fantasy 14 patch 7.5 site teases a potential return to the void for its next expansion - PC Gamer",
+    "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14-patch-7-5-site-teases-a-potential-return-to-the-void-for-its-next-expansion/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T12:37:47Z",
+    "summary": "Final Fantasy 14 patch 7.5 site teases a potential return to the void for its next expansion - PC Gamer",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9246145139344524,
+    "home_score": 0.6561,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8597a382847d1ff57a6c8a8e33648d66708a14ee",
+    "title": "Final Fantasy IV is now available on Xbox Game Pass Premium and Ultimate - RPG Site",
+    "url": "https://www.rpgsite.net/news/20073-final-fantasy-4-xbox-game-pass-download-now-available-cloud",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T12:16:35Z",
+    "summary": "Final Fantasy IV is now available on Xbox Game Pass Premium and Ultimate RPG Site",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9200881716936989,
+    "home_score": 0.654,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -672,48 +944,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9815020194945557,
-    "home_score": 0.6817,
+    "freshness_score": 0.9022206953925496,
+    "home_score": 0.646,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "aff083aff06afc7225620ef650dcb00f740fdcb3",
-    "title": "Exit 8 Movie The Walking Man Will Be in New York",
-    "url": "https://www.siliconera.com/exit-8-movie-the-walking-man-will-be-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=exit-8-movie-the-walking-man-will-be-in-new-york",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-08T15:00:00Z",
-    "summary": "The movie based on Exit 8 opens in North America on April 10, 2026, and in honor of that The Walking Man played by Yamato Kochi will be heading to New York City",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "afa"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.28,
-    "freshness_score": 0.7448939526485495,
-    "home_score": 0.6782,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 10, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -738,8 +973,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6535854370895836,
-    "home_score": 0.6536,
+    "freshness_score": 0.6007906987458868,
+    "home_score": 0.6299,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -767,8 +1002,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7984611756957998,
-    "home_score": 0.6523,
+    "freshness_score": 0.7339650230893167,
+    "home_score": 0.6233,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -802,8 +1037,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7874480884465227,
-    "home_score": 0.6474,
+    "freshness_score": 0.7238415241320603,
+    "home_score": 0.6187,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -832,8 +1067,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8096282912396753,
-    "home_score": 0.6373,
+    "freshness_score": 0.7442301087177648,
+    "home_score": 0.6079,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -844,80 +1079,6 @@
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3cd77c73c065c373ce34b312b12f989693f76d53",
-    "title": "Goddess of Victory: NIKKE Character Global Popularity Poll 4 Opens",
-    "url": "https://www.siliconera.com/goddess-of-victory-nikke-character-global-popularity-poll-4-opens/?utm_source=rss&utm_medium=rss&utm_campaign=goddess-of-victory-nikke-character-global-popularity-poll-4-opens",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-08T16:00:00Z",
-    "summary": "Shift Up kicked off the Goddess of Victory: NIKKE Global Popularity Poll 4 for its characters, with voting now live on the official site",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7553118865607874,
-    "home_score": 0.6329,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 14, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "aa70bd26d9c44015a37c8ddf1ac8fbb535b790e5",
-    "title": "Umamusume Smart Falcon Top Umadol Project Goals Reduced",
-    "url": "https://www.siliconera.com/umamusume-smart-falcon-top-umadol-project-goals-reduced/?utm_source=rss&utm_medium=rss&utm_campaign=umamusume-smart-falcon-top-umadol-project-goals-reduced",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-08T18:00:00Z",
-    "summary": "Cygames altered the Community Fan Total goals in the Umamusume Smart Falcon All Together: Top Umadol Project event in the global version of the game",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7765869035263536,
-    "home_score": 0.6225,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 9, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "SSR card"
-      ],
       "merch_status": null
     },
     "result_type": "article"
@@ -942,11 +1103,49 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6241900230169711,
-    "home_score": 0.6209,
+    "freshness_score": 0.5737698351411822,
+    "home_score": 0.5982,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "aa70bd26d9c44015a37c8ddf1ac8fbb535b790e5",
+    "title": "Umamusume Smart Falcon Top Umadol Project Goals Reduced",
+    "url": "https://www.siliconera.com/umamusume-smart-falcon-top-umadol-project-goals-reduced/?utm_source=rss&utm_medium=rss&utm_campaign=umamusume-smart-falcon-top-umadol-project-goals-reduced",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-08T18:00:00Z",
+    "summary": "Cygames altered the Community Fan Total goals in the Umamusume Smart Falcon All Together: Top Umadol Project event in the global version of the game",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7138576574868827,
+    "home_score": 0.5942,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 9, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "SSR card"
+      ],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -968,8 +1167,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7658755237147635,
-    "home_score": 0.6176,
+    "freshness_score": 0.7040114965279584,
+    "home_score": 0.5898,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -981,106 +1180,6 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "8a2a314acf0748bf4defd8b881b4e50b5b0158e1",
-    "title": "Earthbound and Mother 3 Shirts Will Be Sold",
-    "url": "https://www.siliconera.com/earthbound-and-mother-3-shirts-will-be-sold/?utm_source=rss&utm_medium=rss&utm_campaign=earthbound-and-mother-3-shirts-will-be-sold",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-08T14:00:56Z",
-    "summary": "Hobonichi has revealed that it is working with the apparel brand Warehouse to produce and sell new Border T-shirts designed after the Earthbound and Mother series",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.734778443555477,
-    "home_score": 0.6037,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 10, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "966cb9ee5eacfd12059d94bc36c60dc837ea04fc",
-    "title": "People of Note is an Endearingly Silly Musical RPG Mashup",
-    "url": "https://www.siliconera.com/people-of-note-is-an-endearingly-silly-musical-rpg-mashup/?utm_source=rss&utm_medium=rss&utm_campaign=people-of-note-is-an-endearingly-silly-musical-rpg-mashup",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-08T13:00:00Z",
-    "summary": "It\u2019s a good time to be a pop-based musical or a turn-based RPG",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7244871840655362,
-    "home_score": 0.599,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "84d76cb41e53bf362465428a6184c0331172f610",
-    "title": "Persona 30th Anniversary Merch Hints at Remakes of Classic Games - games.gg",
-    "url": "https://games.gg/news/persona-30th-anniversary-merch-remakes-hints/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-08T15:53:15Z",
-    "summary": "Persona 30th Anniversary Merch Hints at Remakes of Classic Games games",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7540927669562382,
-    "home_score": 0.5853,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "article"
   },
@@ -1106,8 +1205,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.49445168933362676,
-    "home_score": 0.5625,
+    "freshness_score": 0.45451137225569355,
+    "home_score": 0.5445,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -1131,8 +1230,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7001540300310957,
-    "home_score": 0.5611,
+    "freshness_score": 0.6435984305528349,
+    "home_score": 0.5356,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1156,133 +1255,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6764000404703255,
-    "home_score": 0.5444,
+    "freshness_score": 0.6217634860995018,
+    "home_score": 0.5198,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6f8c94054777f14d461eadb3af564244bbd293bc",
-    "title": "Even More New Hatsune Miku Cinnamoroll Items Appear",
-    "url": "https://www.siliconera.com/even-more-new-hatsune-miku-cinnamoroll-items-appear/?utm_source=rss&utm_medium=rss&utm_campaign=even-more-new-hatsune-miku-cinnamoroll-items-appear",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-07T21:00:00Z",
-    "summary": "Anicraft will release Dream Sakura versions of new Hatsune Miku and Cinnamoroll crossover merchandise",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5801239805123869,
-    "home_score": 0.5341,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "ones like Kagamine Rin",
-        "Len"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "74ba707e283a534be6365cadb222936039f96493",
-    "title": "New Mortenax Blade Alt Debuts in Honkai: Star Rail 4.3",
-    "url": "https://www.siliconera.com/new-mortenax-blade-alt-debuts-in-honkai-star-rail-4-3/?utm_source=rss&utm_medium=rss&utm_campaign=new-mortenax-blade-alt-debuts-in-honkai-star-rail-4-3",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-07T20:00:00Z",
-    "summary": "We knew a new alt for Blade would appear in Honkai: Star Rail , and now we know the Mortenax version of him will appear in the 4",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5721223938555126,
-    "home_score": 0.5305,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 10, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0820ae5f09e2fc923b33bbf5f4cd43f860c3dc24",
-    "title": "HoYo FEST 2023 in Singapore to take place at Anime Festival Asia in November - Yahoo News Singapore",
-    "url": "https://sg.news.yahoo.com/hoyo-fest-2023-in-singapore-to-take-place-at-anime-festival-asia-in-november-054746186.html",
-    "source_name": "Google News HoyoFest",
-    "source_type": "rss",
-    "published_at": "2023-09-11T07:00:00Z",
-    "summary": "HoYo FEST 2023 in Singapore to take place at Anime Festival Asia in November Yahoo News Singapore",
-    "content": "",
-    "categories": [
-      "events",
-      "gacha",
-      "merch",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore",
-      "hoyofest"
-    ],
-    "entity_tags": [
-      "AFA Singapore",
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 1.0,
-    "freshness_score": 5.557254097592421e-137,
-    "home_score": 0.5185,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1311,7 +1288,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 8.200764853253123e-179,
+    "freshness_score": 7.538305094606849e-179,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -1352,7 +1329,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 2.04525486309445e-20,
+    "freshness_score": 1.8800520907616178e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -1393,7 +1370,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.4740586876228654e-18,
+    "freshness_score": 1.3549826332731269e-18,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1434,7 +1411,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 2.4585692083139783e-131,
+    "freshness_score": 2.2599633302817914e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1448,31 +1425,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "b6557f392868165183c3824b2c4f7b1ed0f48275",
-    "title": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review - GameSpot",
-    "url": "https://www.gamespot.com/reviews/this-turn-based-rpg-musical-is-fun-but-drags-a-bit-in-act-3-people-of-note-review/1900-6418478/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T16:26:04Z",
-    "summary": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review GameSpot",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5444513060868419,
-    "home_score": 0.485,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1503,7 +1455,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 1.4325364822317208e-51,
+    "freshness_score": 1.3168158403715498e-51,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -1546,7 +1498,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 7.568129061006987e-19,
+    "freshness_score": 6.9567737735483835e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1589,7 +1541,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.8856070052824934e-19,
+    "freshness_score": 3.5717267362024415e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1633,7 +1585,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.2171014204547392e-176,
+    "freshness_score": 1.1187836748112327e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1647,76 +1599,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "f0ada785e9315a55907abca7f5dea6adcaac18b3",
-    "title": "Singapore Comic Con (SGCC) 2022 Event Highlights - Geek Culture",
-    "url": "https://geekculture.co/singapore-comic-con-sgcc-2022-event-highlights/",
-    "source_name": "Google News Artist Alley",
-    "source_type": "rss",
-    "published_at": "2022-12-11T08:00:00Z",
-    "summary": "Singapore Comic Con (SGCC) 2022 Event Highlights Geek Culture",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.84,
-    "freshness_score": 1.2171014176232371e-176,
-    "home_score": 0.477,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "79eb0b10532a1ea68103ae5acbe3ec91d6f5207e",
-    "title": "Mobile-exclusive DISSIDIA DUELLUM FINAL FANTASY could come to PC claims Square Enix - KitGuru",
-    "url": "https://www.kitguru.net/gaming/mustafa-mahmoud/mobile-exclusive-dissidia-duellum-final-fantasy-could-come-to-pc-claims-square-enix/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T14:00:37Z",
-    "summary": "Mobile-exclusive DISSIDIA DUELLUM FINAL FANTASY could come to PC claims Square Enix KitGuru",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5264253470409272,
-    "home_score": 0.4769,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1744,7 +1626,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.0242958203166219e-19,
+    "freshness_score": 9.41558605750976e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1786,7 +1668,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.9346449003800617e-20,
+    "freshness_score": 1.7783744837549285e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1827,49 +1709,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 2.4620944969479402e-23,
-    "home_score": 0.4685,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "774667ca57d30ca271e8e604427c0a0f321dc949",
-    "title": "Anime Festival Asia 2025 \u2014 A preview of what\u2019s to come - Yahoo Lifestyle Singapore",
-    "url": "https://sg.style.yahoo.com/anime-festival-asia-2025-preview-040057940.html",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-10-31T07:00:00Z",
-    "summary": "Anime Festival Asia 2025 \u2014 A preview of what\u2019s to come Yahoo Lifestyle Singapore",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.8300000000000001,
-    "freshness_score": 6.4004946076690096e-24,
+    "freshness_score": 2.2632194847842622e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1913,7 +1753,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 2.817830905194612e-29,
+    "freshness_score": 2.590221378251754e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1927,34 +1767,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "82b4827d45a7aed65c1fb1c1533a64a4a03990af",
-    "title": "OG Persona fans doolally after Atlus sneaks out a surprise rebrand - PC Gamer",
-    "url": "https://www.pcgamer.com/games/rpg/og-persona-fans-beg-atlus-for-a-remake-atlus-says-best-i-can-do-is-a-surprise-rebrand-and-a-phone-case/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T11:19:59Z",
-    "summary": "OG Persona fans doolally after Atlus sneaks out a surprise rebrand PC Gamer",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.507210387495218,
-    "home_score": 0.4682,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1982,7 +1794,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 2.6998938339088533e-20,
+    "freshness_score": 2.481799090300215e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1996,6 +1808,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "b6557f392868165183c3824b2c4f7b1ed0f48275",
+    "title": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review - GameSpot",
+    "url": "https://www.gamespot.com/reviews/this-turn-based-rpg-musical-is-fun-but-drags-a-bit-in-act-3-people-of-note-review/1900-6418478/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T16:26:04Z",
+    "summary": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review GameSpot",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5004729768090198,
+    "home_score": 0.4652,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -2025,7 +1862,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7799999999999999,
-    "freshness_score": 5.329102689323188e-95,
+    "freshness_score": 4.898612012935925e-95,
     "home_score": 0.4635,
     "source_quality": 0.79,
     "image_url": null,
@@ -2058,8 +1895,8 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.0008311538927935911,
-    "home_score": 0.4614,
+    "freshness_score": 0.0007640134500889656,
+    "home_score": 0.4613,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -2091,7 +1928,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.3429823694155712e-35,
+    "freshness_score": 2.1537167271499698e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2123,7 +1960,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 5.807672715320627e-38,
+    "freshness_score": 5.3385300916861e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2132,6 +1969,48 @@
       "date_label": null,
       "venue": null,
       "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5580feb3dbd688be1d9ee15682340476816cc749",
+    "title": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out - Geek Culture",
+    "url": "https://geekculture.co/3-day-hoyofest-singapore-2025-debuts-artist-alley-tickets-all-sold-out/",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-07-26T07:00:00Z",
+    "summary": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 5.338530039207041e-38,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": "Sold out",
       "ticket_url": null,
       "guest_status": "Lineup details mentioned",
       "guest_names": [],
@@ -2164,7 +2043,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.0002685718935473e-41,
+    "freshness_score": 9.194670797549205e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2206,9 +2085,69 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 4.134721522160665e-42,
+    "freshness_score": 3.800719557103203e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "93d9552b4f3ec52ad4b0cae959326c3b145fdc69",
+    "title": "HoYo FEST 2025: Southeast Asia\u2019s most anticipated HoYoverse event returns in July - Malay Mail",
+    "url": "https://www.malaymail.com/news/tech-gadgets/2025/05/29/hoyo-fest-2025-southeast-asias-most-anticipated-hoyoverse-event-returns-in-july/178529",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-05-29T07:00:00Z",
+    "summary": "HoYo FEST 2025: Southeast Asia\u2019s most anticipated HoYoverse event returns in July Malay Mail",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "hoyofest",
+      "hoyoverse"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 2.1431950954797146e-46,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "79eb0b10532a1ea68103ae5acbe3ec91d6f5207e",
+    "title": "Mobile-exclusive DISSIDIA DUELLUM FINAL FANTASY could come to PC claims Square Enix - KitGuru",
+    "url": "https://www.kitguru.net/gaming/mustafa-mahmoud/mobile-exclusive-dissidia-duellum-final-fantasy-could-come-to-pc-claims-square-enix/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-07T14:00:37Z",
+    "summary": "Mobile-exclusive DISSIDIA DUELLUM FINAL FANTASY could come to PC claims Square Enix KitGuru",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.48390307087685236,
+    "home_score": 0.4578,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
