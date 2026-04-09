@@ -1,5 +1,46 @@
 [
   {
+    "id": "85024d65734517bd04de55c902548f36082ef12a",
+    "title": "Revisit techno history as Jeff Mills celebrates 30 years of 'Live at Liquid Room' in Singapore this May",
+    "url": "https://www.bandwagon.asia/articles/celebrate-30-years-of-live-at-liquid-room-with-jeff-mills-in-singapore",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-08T22:48:00Z",
+    "summary": "Techno icon Jeff Mills is headed to Singapore on 30 May for Jeff Mills 30 Year Anniversary: Live at Liquid Room Mix , a special tribute to one of the most enduring recordings in da",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9822151830260211,
+    "home_score": 0.8,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C170%2C1440%2C720%5D/resize=w:1920/pjpg=q:90/compress/wGaTQ0kMS6aKtp7AvUcD",
+    "event_metadata": {
+      "event_type": "screening",
+      "date_label": "30 May",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "aff083aff06afc7225620ef650dcb00f740fdcb3",
     "title": "Exit 8 Movie The Walking Man Will Be in New York",
     "url": "https://www.siliconera.com/exit-8-movie-the-walking-man-will-be-in-new-york/?utm_source=rss&utm_medium=rss&utm_campaign=exit-8-movie-the-walking-man-will-be-in-new-york",
@@ -20,8 +61,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.28,
-    "freshness_score": 0.9548227333695184,
-    "home_score": 0.7727,
+    "freshness_score": 0.8813711724823441,
+    "home_score": 0.7396,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -34,6 +75,70 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "d9f68f9b2e6a8b506bec40636dfb5119421c5852",
+    "title": "Pokemon Champions Has No 6v6 Battles, Is Always Online",
+    "url": "https://www.siliconera.com/pokemon-champions-has-no-6v6-battles-is-always-online/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-champions-has-no-6v6-battles-is-always-online",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-08T20:00:00Z",
+    "summary": "Pokemon Champions is now available to play on the Switch and Switch 2, ahead of a wider 2026 mobile release, and a number of limitations regarding multiplayer battles and online re",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "esports"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9447528165665906,
+    "home_score": 0.7181,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": "May 1, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5f7a8f8427da08831c1584acce20451703365178",
+    "title": "Next Sanrio Nendoroid Will Be Yoshiki Hayashi\u2019s Yoshikitty",
+    "url": "https://www.siliconera.com/next-sanrio-nendoroid-will-be-yoshiki-hayashis-yoshikitty/?utm_source=rss&utm_medium=rss&utm_campaign=next-sanrio-nendoroid-will-be-yoshiki-hayashis-yoshikitty",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-08T19:00:00Z",
+    "summary": "Good Smile Company teased its next Sanrio Nendoroid, and it will be of the Yoshikitty character that essentially looks like a mash-up of Hello Kitty and X Japan\u2019s Yoshiki Hayashi",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9317219454817044,
+    "home_score": 0.7123,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -58,11 +163,50 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8377877281060777,
-    "home_score": 0.7365,
+    "freshness_score": 0.7733322659221784,
+    "home_score": 0.7075,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6fc708084b53e4808c81887fe7cce8d25eab5c12",
+    "title": "FFXIV 2026 Fan Festival Items Include FFVII Red XIII Minion, Hardy-Daytona Motorcycle Mount",
+    "url": "https://www.siliconera.com/ffxiv-2026-fan-festival-items-include-ffvii-red-xiii-minion-hardy-daytona-motorcycle-mount/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-2026-fan-festival-items-include-ffvii-red-xiii-minion-hardy-daytona-motorcycle-mount",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-08T21:00:00Z",
+    "summary": "Square Enix announced that the Final Fantasy XIV 2026 Fan Festival items are now available to buy in the FFXIV Online Store, and two of the more notable items are a Hardy-Daytona m",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9579659366873773,
+    "home_score": 0.7041,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "April 28, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -85,8 +229,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9681766883843331,
-    "home_score": 0.7287,
+    "freshness_score": 0.8936978480583949,
+    "home_score": 0.6952,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -121,8 +265,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9954475102775926,
-    "home_score": 0.721,
+    "freshness_score": 0.9188708077176013,
+    "home_score": 0.6865,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -158,8 +302,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9817174092696501,
-    "home_score": 0.7148,
+    "freshness_score": 0.9061969222058892,
+    "home_score": 0.6808,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -172,33 +316,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "d65c23825a8890649bdd0151f031bb153bf6d661",
-    "title": "Anime Character Cake Sets - Trend Hunter",
-    "url": "https://www.trendhunter.com/amp/trends/pokmon-dessert-set",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2026-04-08T02:16:35Z",
-    "summary": "Anime Character Cake Sets - Trend Hunter",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8001080706249393,
-    "home_score": 0.7,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -220,8 +337,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.941856433699809,
-    "home_score": 0.6968,
+    "freshness_score": 0.8694023311247879,
+    "home_score": 0.6642,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -257,8 +374,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9286648531281883,
-    "home_score": 0.6909,
+    "freshness_score": 0.8572255383500341,
+    "home_score": 0.6588,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -284,8 +401,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9425860642000707,
-    "home_score": 0.6642,
+    "freshness_score": 0.8700715150959264,
+    "home_score": 0.6315,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -295,7 +412,7 @@
     "id": "cfc5502515f6bec14346086012979d7a96ac2449",
     "title": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam - Turn Based Lovers",
     "url": "https://turnbasedlovers.com/news/diorama-break-is-a-new-tactics-jrpg-with-a-free-chapter-1-demo-on-steam/",
-    "source_name": "Google News JRPG",
+    "source_name": "Google News JRPG Demo",
     "source_type": "rss",
     "published_at": "2026-04-08T10:32:41Z",
     "summary": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam Turn Based Lovers",
@@ -309,34 +426,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8974911964588456,
-    "home_score": 0.6439,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6561be37158d4782e8257eea8058f719640cb13c",
-    "title": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah - Daily Sabah",
-    "url": "https://www.dailysabah.com/sports/niemann-vows-stone-cold-killer-persona-beat-carlsen-in-netflix-doc/news",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-08T08:03:32Z",
-    "summary": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah Daily Sabah",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8670337129725691,
-    "home_score": 0.6302,
-    "source_quality": 0.76,
+    "freshness_score": 0.8284357801683702,
+    "home_score": 0.6188,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -363,51 +455,36 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.633805043381361,
-    "home_score": 0.6252,
+    "freshness_score": 0.5850429810112902,
+    "home_score": 0.6033,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "0261be4f70c19d9adf6a6fe00524173fe08aa807",
-    "title": "Lego One Piece Special Heading to Netflix",
-    "url": "https://www.siliconera.com/lego-one-piece-special-heading-to-netflix/?utm_source=rss&utm_medium=rss&utm_campaign=lego-one-piece-special-heading-to-netflix",
-    "source_name": "Siliconera",
+    "id": "6561be37158d4782e8257eea8058f719640cb13c",
+    "title": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah - Daily Sabah",
+    "url": "https://www.dailysabah.com/sports/niemann-vows-stone-cold-killer-persona-beat-carlsen-in-netflix-doc/news",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-07T17:00:00Z",
-    "summary": "Netflix announced Lego One Piece , a two-part special show, and shared a first trailer ahead of its September 29, 2026 debut",
+    "published_at": "2026-04-08T08:03:32Z",
+    "summary": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah Daily Sabah",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
+      "games"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7034312120398527,
-    "home_score": 0.6095,
-    "source_quality": 0.82,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8003315162958804,
+    "home_score": 0.6001,
+    "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "September 29, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Usopp"
-      ],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -430,8 +507,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7436166748619929,
-    "home_score": 0.6076,
+    "freshness_score": 0.6864125451670903,
+    "home_score": 0.5819,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -471,8 +548,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.733360050956575,
-    "home_score": 0.603,
+    "freshness_score": 0.6769449324956663,
+    "home_score": 0.5776,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -508,96 +585,21 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7232448961070237,
-    "home_score": 0.5985,
+    "freshness_score": 0.667607905895831,
+    "home_score": 0.5734,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "6d0be5d0b06087b623af955889aec4cd38a13b63",
-    "title": "Fire Emblem: Three Houses Characters Become Kids in Fire Emblem Heroes",
-    "url": "https://www.siliconera.com/fire-emblem-three-houses-characters-become-kids-in-fire-emblem-heroes/?utm_source=rss&utm_medium=rss&utm_campaign=fire-emblem-three-houses-characters-become-kids-in-fire-emblem-heroes",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-07T18:00:00Z",
-    "summary": "The yearly Fire Emblem Heroes kids banner, which depicts various characters from the series as children, is now live and turned five members of the cast of Fire Emblem: Three House",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.71326925760796,
-    "home_score": 0.594,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 16, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Claude",
-        "Edelgard"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "2da52cf551b2ade869d71fc5d0aec3febead260f",
-    "title": "Nanoblock Pokemon Keychains Cover Kanto Starters",
-    "url": "https://www.siliconera.com/nanoblock-pokemon-keychains-cover-kanto-starters/?utm_source=rss&utm_medium=rss&utm_campaign=nanoblock-pokemon-keychains-cover-kanto-starters",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-07T16:00:00Z",
-    "summary": "Kawada announced a line of Pokemon Nanoblock n-fig keychains that feature completed builds of the Kanto starters Bulbasaur, Charmander, Squirtle, and Pikachu",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.693728862617205,
-    "home_score": 0.5852,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 23, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
     "id": "b6557f392868165183c3824b2c4f7b1ed0f48275",
-    "title": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review - gamespot.com",
+    "title": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review - GameSpot",
     "url": "https://www.gamespot.com/reviews/this-turn-based-rpg-musical-is-fun-but-drags-a-bit-in-act-3-people-of-note-review/1900-6418478/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-07T16:26:04Z",
-    "summary": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review gamespot",
+    "summary": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review GameSpot",
     "content": "",
     "categories": [
       "games"
@@ -608,8 +610,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6978971110364924,
-    "home_score": 0.5541,
+    "freshness_score": 0.6442068454776608,
+    "home_score": 0.5299,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -635,8 +637,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6747907895974741,
-    "home_score": 0.5437,
+    "freshness_score": 0.6228781279554813,
+    "home_score": 0.5203,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -671,7 +673,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 7.123451624876162e-137,
+    "freshness_score": 6.575388275781766e-137,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -713,7 +715,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.0511976196047123e-178,
+    "freshness_score": 9.703200776415929e-179,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -754,7 +756,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 2.621657017489072e-20,
+    "freshness_score": 2.4199853925285312e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -795,7 +797,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.8894876140921016e-18,
+    "freshness_score": 1.7441112309945463e-18,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -836,7 +838,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 3.1514593739364657e-131,
+    "freshness_score": 2.9089874139628604e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -850,70 +852,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "cd25ae0456bc3c80d3ee86f11e308042ebd4e915",
-    "title": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback - GamesRadar+",
-    "url": "https://www.gamesradar.com/games/persona/im-staring-at-persona-1-origins-and-persona-2-duality-merch-from-atlus-and-willing-myself-to-believe-that-the-og-ps1-jrpgs-are-finally-making-a-comeback/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T21:44:25Z",
-    "summary": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback GamesRadar+",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5383077842714172,
-    "home_score": 0.4882,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4e68537a1f87fb443d60ecd0e00315d7696dcb62",
-    "title": "Interview: Getting Competitive With Dissidia Duellum Final Fantasy - Siliconera",
-    "url": "https://www.siliconera.com/interview-getting-competitive-with-dissidia-duellum-final-fantasy/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T14:00:00Z",
-    "summary": "Interview: Getting Competitive With Dissidia Duellum Final Fantasy Siliconera",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4834397113385728,
-    "home_score": 0.4815,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -944,7 +882,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 1.8362664542703382e-51,
+    "freshness_score": 1.694986912872648e-51,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -987,7 +925,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 9.70104541163559e-19,
+    "freshness_score": 8.954661768650896e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1030,7 +968,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 4.980682803813662e-19,
+    "freshness_score": 4.597476662213161e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1074,7 +1012,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.5601155975081937e-176,
+    "freshness_score": 1.4400826822290798e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1117,7 +1055,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.5601155940834605e-176,
+    "freshness_score": 1.4400826791734388e-176,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1130,6 +1068,44 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "cd25ae0456bc3c80d3ee86f11e308042ebd4e915",
+    "title": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback - GamesRadar+",
+    "url": "https://www.gamesradar.com/games/persona/im-staring-at-persona-1-origins-and-persona-2-duality-merch-from-atlus-and-willing-myself-to-believe-that-the-og-ps1-jrpgs-are-finally-making-a-comeback/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T21:44:25Z",
+    "summary": "I'm staring at \"Persona 1 Origins\" and \"Persona 2 Duality\" merch from Atlus and willing myself to believe that the OG PS1 JRPGs are finally making a comeback GamesRadar+",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.4968949635067547,
+    "home_score": 0.4696,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "article"
   },
@@ -1158,7 +1134,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.312980944389761e-19,
+    "freshness_score": 1.2119724566214016e-19,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1200,7 +1176,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 2.4799006618034173e-20,
+    "freshness_score": 2.2891202756675563e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1241,7 +1217,49 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.156005413128437e-23,
+    "freshness_score": 2.9132118413500215e-23,
+    "home_score": 0.4685,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "774667ca57d30ca271e8e604427c0a0f321dc949",
+    "title": "Anime Festival Asia 2025 \u2014 A preview of what\u2019s to come - Yahoo Lifestyle Singapore",
+    "url": "https://sg.style.yahoo.com/anime-festival-asia-2025-preview-040057940.html",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-10-31T07:00:00Z",
+    "summary": "Anime Festival Asia 2025 \u2014 A preview of what\u2019s to come Yahoo Lifestyle Singapore",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "anime"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 7.57322544841692e-24,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1285,7 +1303,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.6120017296475015e-29,
+    "freshness_score": 3.3341280666690424e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1326,7 +1344,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.460809596373418e-20,
+    "freshness_score": 3.194545829268e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1343,16 +1361,17 @@
     "result_type": "article"
   },
   {
-    "id": "6ef5cd87b7ada18257a6494c62b4b3ba207ea102",
-    "title": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? - Massively Overpowered",
-    "url": "https://massivelyop.com/2026/04/06/wisdom-of-nym-is-it-time-to-bring-elemental-damage-back-to-final-fantasy-xiv/",
+    "id": "4e68537a1f87fb443d60ecd0e00315d7696dcb62",
+    "title": "Interview: Getting Competitive With Dissidia Duellum Final Fantasy - Siliconera",
+    "url": "https://www.siliconera.com/interview-getting-competitive-with-dissidia-duellum-final-fantasy/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-06T16:00:00Z",
-    "summary": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? Massively Overpowered",
+    "published_at": "2026-04-06T14:00:00Z",
+    "summary": "Interview: Getting Competitive With Dissidia Duellum Final Fantasy Siliconera",
     "content": "",
     "categories": [
-      "games"
+      "games",
+      "events"
     ],
     "tags": [],
     "entity_tags": [
@@ -1360,43 +1379,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.49705684767562447,
-    "home_score": 0.4637,
+    "freshness_score": 0.4462479731795315,
+    "home_score": 0.4648,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "41454691de525814a22bc587646d295616cb4d0b",
-    "title": "AFA Creators Super Fest 2024: Meet illustrators, Japanese idols, cosplayers and more - SG Magazine",
-    "url": "https://sgmagazine.com/things-to-do/afa-creators-super-fest-2024-meet-illustrators-japanese-idols-cosplayers-and-more/",
-    "source_name": "Google News Anime Conventions",
-    "source_type": "rss",
-    "published_at": "2024-06-27T07:00:00Z",
-    "summary": "AFA Creators Super Fest 2024: Meet illustrators, Japanese idols, cosplayers and more SG Magazine",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "afa",
-      "singapore",
-      "idol"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.7799999999999999,
-    "freshness_score": 6.830985505357034e-95,
-    "home_score": 0.4635,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1427,8 +1412,8 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.0010653974922123638,
-    "home_score": 0.4615,
+    "freshness_score": 0.0009834280524127846,
+    "home_score": 0.4614,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1460,7 +1445,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 3.0033036603818993e-35,
+    "freshness_score": 2.772235807437811e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1492,7 +1477,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 7.44444560282997e-38,
+    "freshness_score": 6.871685622274032e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1534,7 +1519,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 7.444445496677709e-38,
+    "freshness_score": 6.871685548626158e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1575,7 +1560,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.2821736576195866e-41,
+    "freshness_score": 1.1835259150691204e-41,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1617,7 +1602,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 5.3000075657293595e-42,
+    "freshness_score": 4.8922361515264564e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1650,34 +1635,9 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 4.170971282489162e-46,
+    "freshness_score": 3.850065540410851e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "01b340871f0596d01f7edb84bebfa3d8fc0469a1",
-    "title": "Treasuries are becoming persona non gratis - fxstreet.com",
-    "url": "https://www.fxstreet.com/analysis/treasuries-are-becoming-persona-non-gratis-202604061421",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-06T14:21:39Z",
-    "summary": "Treasuries are becoming persona non gratis fxstreet",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.485868589933312,
-    "home_score": 0.4586,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1708,7 +1668,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.7954256024001375e-17,
+    "freshness_score": 3.503441016406213e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1750,49 +1710,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.79542559841727e-17,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e56e5fbfa312f2965b0d1238d0517bb83dd10607",
-    "title": "Asia Album: Singapore Comic Con celebrates pop culture - Xinhua",
-    "url": "https://english.news.cn/20251208/d7fb5ffad1fd4c75b2341eae261ad28c/c.html",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-08T08:00:00Z",
-    "summary": "Asia Album: Singapore Comic Con celebrates pop culture Xinhua",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 2.637192713593351e-18,
+    "freshness_score": 3.503441012797336e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1835,7 +1753,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.8896311618994175e-18,
+    "freshness_score": 1.744260593345689e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1852,13 +1770,13 @@
     "result_type": "article"
   },
   {
-    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
-    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
-    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
+    "id": "9c090b386e8bde1ac0d081aae6a626619c7db3e8",
+    "title": "Singapore Comic Con kicks off - Xinhua",
+    "url": "https://english.news.cn/20251206/74c36f1679cf49fb8be391b8d1d41634/c.html",
     "source_name": "Google News SG Events",
     "source_type": "rss",
-    "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
+    "published_at": "2025-12-06T08:00:00Z",
+    "summary": "Singapore Comic Con kicks off - Xinhua is trending around singapore, sgcc.",
     "content": "",
     "categories": [
       "events",
@@ -1877,7 +1795,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.889631135465001e-18,
+    "freshness_score": 1.2498173193464158e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1920,7 +1838,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 9.407919497497682e-20,
+    "freshness_score": 8.684162055457828e-20,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1962,7 +1880,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 4.542096494895328e-22,
+    "freshness_score": 4.1926700293804336e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1976,6 +1894,31 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
+    "result_type": "article"
+  },
+  {
+    "id": "6ef5cd87b7ada18257a6494c62b4b3ba207ea102",
+    "title": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? - Massively Overpowered",
+    "url": "https://massivelyop.com/2026/04/06/wisdom-of-nym-is-it-time-to-bring-elemental-damage-back-to-final-fantasy-xiv/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T16:00:00Z",
+    "summary": "Wisdom of Nym: Is it time to bring elemental damage back to Final Fantasy XIV? Massively Overpowered",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.45881752314924146,
+    "home_score": 0.4465,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -2005,7 +1948,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 1.3328843537785386e-42,
+    "freshness_score": 1.2303518897334396e-42,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -2020,6 +1963,31 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "01b340871f0596d01f7edb84bebfa3d8fc0469a1",
+    "title": "Treasuries are becoming persona non gratis - FXStreet",
+    "url": "https://www.fxstreet.com/analysis/treasuries-are-becoming-persona-non-gratis-202604061421",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T14:21:39Z",
+    "summary": "Treasuries are becoming persona non gratis FXStreet",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.4484899947975707,
+    "home_score": 0.4418,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "cb2eede0a24cb952afb5694716ab3eb3c847c480",
@@ -2047,7 +2015,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.0389560706311691e-37,
+    "freshness_score": 9.590209781823196e-38,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2080,7 +2048,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.7894174750721372e-41,
+    "freshness_score": 1.6517434636495849e-41,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2114,7 +2082,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.2433490245464769e-42,
+    "freshness_score": 1.1476883683186033e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2146,7 +2114,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 1.279926203943821e-65,
+    "freshness_score": 1.181467558712348e-65,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2161,6 +2129,31 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "a131f74f62796058c5b3865b64e116a37034b265",
+    "title": "Boy band KickFlip translates viral flirty persona into sound with latest EP 'My First Kick' - Korea JoongAng Daily",
+    "url": "https://koreajoongangdaily.joins.com/news/2026-04-06/entertainment/kpop/Boy-band-KickFlip-translates-viral-flirty-persona-into-sound-with-latest-EP-My-First-Kick/2562177",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-06T07:33:22Z",
+    "summary": "Boy band KickFlip translates viral flirty persona into sound with latest EP 'My First Kick' Korea JoongAng Daily",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.4080445392695323,
+    "home_score": 0.4236,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0f2cff20dc654c3b473926f561ac2712f4bc63b7",
@@ -2183,7 +2176,7 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 9.70095289131294e-19,
+    "freshness_score": 8.954565650234993e-19,
     "home_score": 0.406,
     "source_quality": 0.79,
     "image_url": null,
