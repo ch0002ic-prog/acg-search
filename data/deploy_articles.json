@@ -1,30 +1,31 @@
 [
   {
-    "id": "3a79e000add9a673167f5908a90bc5366cb730e6",
-    "title": "Review: Raccoin: Coin Pusher Roguelike Relies Heavily on RNG",
-    "url": "https://www.siliconera.com/review-raccoin-coin-pusher-roguelike-relies-heavily-on-rng/?utm_source=rss&utm_medium=rss&utm_campaign=review-raccoin-coin-pusher-roguelike-relies-heavily-on-rng",
-    "source_name": "Siliconera",
+    "id": "1d40a554974dc90cad95c43f319ef23f5d142d00",
+    "title": "Singapore to host BLAST Premier Open in March 2027 - Esports Charts",
+    "url": "https://escharts.com/news/singapore-host-blast-premier-open-march-2027",
+    "source_name": "Google News SG ACG",
     "source_type": "rss",
-    "published_at": "2026-04-10T13:00:00Z",
-    "summary": "A key element of a roguelike game is knowing that even though it might seem impossible when you first start, you\u2019ll be getting closer to an opportunity to succeed with each run",
+    "published_at": "2026-04-10T15:04:46Z",
+    "summary": "Singapore to host BLAST Premier Open in March 2027 Esports Charts",
     "content": "",
     "categories": [
+      "events",
       "games",
       "anime",
-      "merch",
-      "events"
+      "esports"
     ],
     "tags": [
       "singapore"
     ],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "Singapore",
+      "SEA"
     ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.9303876853831066,
-    "home_score": 0.8167,
-    "source_quality": 0.82,
+    "sg_relevance": 0.43,
+    "freshness_score": 0.8822395700552331,
+    "home_score": 0.7625,
+    "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -52,8 +53,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8740016392817881,
-    "home_score": 0.7588,
+    "freshness_score": 0.8051933738467109,
+    "home_score": 0.7278,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -69,30 +70,41 @@
     "result_type": "article"
   },
   {
-    "id": "3840b3bdf7d9c31c631d9d67a364e913b4d022a4",
-    "title": "The anime movie ChaO asks \"Would you still love me if I were a fish?\" - Polygon.com",
-    "url": "https://www.polygon.com/chao-anime-little-mermaid-review/",
-    "source_name": "Google News Anime And Manga",
+    "id": "df64469e079df4c5969c5664ddb5d31a5a333daa",
+    "title": "Wit Studio Will Remove Ascendance of a Bookworm Anime AI Scenes",
+    "url": "https://www.siliconera.com/wit-studio-will-remove-ascendance-of-a-bookworm-anime-ai-scenes/?utm_source=rss&utm_medium=rss&utm_campaign=wit-studio-will-remove-ascendance-of-a-bookworm-anime-ai-scenes",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-10T11:01:17Z",
-    "summary": "The anime movie ChaO asks \"Would you still love me if I were a fish?\" Polygon",
+    "published_at": "2026-04-10T21:00:00Z",
+    "summary": "Wit Studio confirmed that it used generative AI when creating the opening for season 4 of the anime adaptation of Ascendance of a Bookworm , and it said it will replace the scenes",
     "content": "",
     "categories": [
+      "games",
       "anime",
+      "merch",
+      "events",
       "manga"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.905117015315102,
-    "home_score": 0.7473,
-    "source_quality": 0.75,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9578707115420813,
+    "home_score": 0.724,
+    "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 11, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -117,13 +129,52 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.1,
-    "freshness_score": 0.9835386912748852,
-    "home_score": 0.7406,
+    "freshness_score": 0.9061068433882808,
+    "home_score": 0.7057,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 22, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c7cd9f71f7180ae0f39fa31b36b7552aeed251c8",
+    "title": "FFXIV Fan Festival 2026 US Goody Bag Merchandise Shared",
+    "url": "https://www.siliconera.com/ffxiv-fan-festival-2026-us-goody-bag-merchandise-shared/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-fan-festival-2026-us-goody-bag-merchandise-shared",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T20:00:00Z",
+    "summary": "Every year when Square Enix holds its FFXIV Fan Festival events, it also involves a goody bag with merchandise inspired by the MMORPG, and the 2026 US installment\u2019s contents are re",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "FFXIV Fan Festival"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9446589061014506,
+    "home_score": 0.6981,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "April 24-25, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -155,11 +206,48 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9699728496123289,
-    "home_score": 0.7295,
+    "freshness_score": 0.8936090107674775,
+    "home_score": 0.6951,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "13cee7c1eb96c9fa3d28e793c34db64c2d1ad153",
+    "title": "NieR: Automata 2B Virtuous Contract Sword Replica Heads to US",
+    "url": "https://www.siliconera.com/nier-automata-2b-virtuous-contract-sword-replica-heads-to-us/?utm_source=rss&utm_medium=rss&utm_campaign=nier-automata-2b-virtuous-contract-sword-replica-heads-to-us",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T19:00:00Z",
+    "summary": "Following a Japanese release in November 2025 , Hibino and Square confirmed the 1:1 replica of the 2B Virtuous Contract sword from NieR: Automata will appear in the US",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9316293301263202,
+    "home_score": 0.6922,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 15, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -181,8 +269,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9972942631716137,
-    "home_score": 0.7218,
+    "freshness_score": 0.9187794688633234,
+    "home_score": 0.6865,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -218,8 +306,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8017175747398891,
-    "home_score": 0.7068,
+    "freshness_score": 0.7386013490014279,
+    "home_score": 0.6784,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
     "event_metadata": {
@@ -253,8 +341,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9621460164280875,
-    "home_score": 0.706,
+    "freshness_score": 0.886398366914762,
+    "home_score": 0.6719,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -279,8 +367,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9565941152716023,
-    "home_score": 0.7035,
+    "freshness_score": 0.8812835548227319,
+    "home_score": 0.6696,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -308,8 +396,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9521756686761974,
-    "home_score": 0.7015,
+    "freshness_score": 0.8772129629459701,
+    "home_score": 0.6677,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -334,8 +422,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9488752306639154,
-    "home_score": 0.7,
+    "freshness_score": 0.8741723612498495,
+    "home_score": 0.6664,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -361,8 +449,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9433999063035262,
-    "home_score": 0.6975,
+    "freshness_score": 0.8691280971080383,
+    "home_score": 0.6641,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -387,8 +475,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9401298853083464,
-    "home_score": 0.6961,
+    "freshness_score": 0.8661155177934841,
+    "home_score": 0.6628,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -412,8 +500,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9199253564040222,
-    "home_score": 0.654,
+    "freshness_score": 0.8475012552536354,
+    "home_score": 0.6214,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -437,52 +525,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8923827567677243,
-    "home_score": 0.6416,
+    "freshness_score": 0.8221270362712613,
+    "home_score": 0.61,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "4d7a470edfc64dd70d3007430955be3c073a817e",
-    "title": "Toys of the Week Featuring Goddess of Victory Nikke, Azur Lane, Persona 5 Royal & More! - Playasia Blog",
-    "url": "https://play.asia/blog/2026/04/10/toys-of-the-week-featuring-the-king-of-fighters-xv-alya-sometimes-hides-her-feelings-in-russian-zenless-zone-zero-more-2toys-of-the-week-featuring-goddess-of-victory-nikke-azur-lane-persona-5-royal/",
+    "id": "8d72730cf30838573b49d0f8cc21e06f03448e16",
+    "title": "Melbourne Symphony Orchestra: Distant Worlds: Music from FINAL FANTASY - Limelight magazine",
+    "url": "https://limelight-arts.com.au/event/distant-worlds-music-from-final-fantasy/2026-07-23/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-10T08:00:36Z",
-    "summary": "Toys of the Week Featuring Goddess of Victory Nikke, Azur Lane, Persona 5 Royal & More! Playasia Blog",
+    "published_at": "2026-04-10T08:38:16Z",
+    "summary": "Melbourne Symphony Orchestra: Distant Worlds: Music from FINAL FANTASY Limelight magazine",
     "content": "",
     "categories": [
       "games"
     ],
-    "tags": [
-      "jrpg"
-    ],
+    "tags": [],
     "entity_tags": [
-      "Persona"
+      "Final Fantasy"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8680560229973787,
-    "home_score": 0.6306,
+    "freshness_score": 0.8067188202770803,
+    "home_score": 0.603,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Goddess of Victory Nikke",
-        "Azur Lane",
-        "Persona 5 Royal",
-        "More! Playasia Blog"
-      ],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -503,8 +575,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8577227818585846,
-    "home_score": 0.626,
+    "freshness_score": 0.7901957776710398,
+    "home_score": 0.5956,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -512,12 +584,12 @@
   },
   {
     "id": "94cb2543588538b6440f858ed53cbb699e4339d5",
-    "title": "Prime 1 Studio: Metaphor ReFantazio Hulkenberg and Persona 5 Panther Statues Announced - Persona Central",
+    "title": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced - Persona Central",
     "url": "https://personacentral.com/prime-1-hulkenberg-ann-figures/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-04-10T07:05:51Z",
-    "summary": "Prime 1 Studio: Metaphor ReFantazio Hulkenberg and Persona 5 Panther Statues Announced Persona Central",
+    "summary": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced Persona Central",
     "content": "",
     "categories": [
       "games"
@@ -530,8 +602,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8571240432892361,
-    "home_score": 0.6257,
+    "freshness_score": 0.7896441786937706,
+    "home_score": 0.5953,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -555,97 +627,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8501159708554271,
-    "home_score": 0.6226,
+    "freshness_score": 0.783187839324758,
+    "home_score": 0.5924,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0e74e588ad4a1acd0fb2eca55e45ee1d95aa08fc",
-    "title": "Jackson Wang Redefines Stardom As He Embraces New Global Persona - streamlinefeed.co.ke",
-    "url": "https://streamlinefeed.co.ke/news/jackson-wang-redefines-stardom-as-he-embraces-new-global-persona",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T05:31:11Z",
-    "summary": "Jackson Wang Redefines Stardom As He Embraces New Global Persona streamlinefeed",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8385456805592172,
-    "home_score": 0.6173,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fffef9aa9eab399b4376714882e81b245fc8209d",
-    "title": "SoulChat Higurashi: When They Cry Chatbot Tells Its Story",
-    "url": "https://www.siliconera.com/soulchat-higurashi-when-they-cry-chatbot-tells-its-story/?utm_source=rss&utm_medium=rss&utm_campaign=soulchat-higurashi-when-they-cry-chatbot-tells-its-story",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-09T22:00:00Z",
-    "summary": "A LINE chatbot that will let you interact with characters from Higurashi: When They Cry will come out on April 17, 2026, however this is an AI service and costs money to use",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7554155666404525,
-    "home_score": 0.6129,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "April 17, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "8eed27f3de05ccde8ddeb916f1fe088d53d3491b",
-    "title": "Don\u2019t Starve Elsewhere Is Klei\u2019s Next Game",
-    "url": "https://www.siliconera.com/dont-starve-elsewhere-is-kleis-next-game/?utm_source=rss&utm_medium=rss&utm_campaign=dont-starve-elsewhere-is-kleis-next-game",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-09T21:00:00Z",
-    "summary": "During the Triple-i Initiative stream, Klei Entertainment announced Don\u2019t Starve Elsewhere",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7449962027291224,
-    "home_score": 0.6082,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -668,8 +652,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6861009565642189,
-    "home_score": 0.5487,
+    "freshness_score": 0.6320854379942746,
+    "home_score": 0.5244,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -704,7 +688,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 3.6641201573247223e-137,
+    "freshness_score": 3.3756421479288695e-137,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -746,7 +730,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 5.4070939086090145e-179,
+    "freshness_score": 4.981392267863858e-179,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -787,7 +771,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 1.3485023717525309e-20,
+    "freshness_score": 1.2423358877882748e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -802,49 +786,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "ffb9baa3d754a731b726be29750aaed0bf34cf94",
-    "title": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network and Fan Community Building Across Southeast Asia - PR Newswire",
-    "url": "https://www.prnewswire.com/apac/news-releases/kayou-debuts-at-singapore-comic-con-2025-deepening-distribution-network-and-fan-community-building-across-southeast-asia-302633880.html",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-05T08:00:00Z",
-    "summary": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network and Fan Community Building Across Southeast Asia PR Newswire",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.96,
-    "freshness_score": 4.990267877462885e-19,
-    "home_score": 0.501,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
   },
   {
     "id": "0b3ad17a0b4ef122d5774c89c5f79a7fb7133d0d",
@@ -871,7 +812,50 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 9.71905366250973e-19,
+    "freshness_score": 8.95386834504308e-19,
+    "home_score": 0.496,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e6476191b56b2b6877269525a163a4ec55dff5dc",
+    "title": "Anime Festival Asia Singapore 2025 Reveals Concerts and Day Stage Highlights - GamerBraves",
+    "url": "https://www.gamerbraves.com/anime-festival-asia-singapore-2025-reveals-concerts-and-day-stage-highlights/",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2025-09-23T07:00:00Z",
+    "summary": "Anime Festival Asia Singapore 2025 Reveals Concerts and Day Stage Highlights GamerBraves",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "games"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.91,
+    "freshness_score": 1.2263566412708983e-29,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -912,51 +896,9 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.6210322065987025e-131,
+    "freshness_score": 1.4934076389164099e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "aabff789209ecaf436a40cb987f86eba85354458",
-    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
-    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
-    "source_name": "Google News SG ACG",
-    "source_type": "rss",
-    "published_at": "2025-11-24T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.91,
-    "freshness_score": 1.2756013513988938e-20,
-    "home_score": 0.4855,
-    "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
@@ -998,7 +940,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 9.445288858308671e-52,
+    "freshness_score": 8.701659278812345e-52,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -1041,7 +983,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 4.98997168507221e-19,
+    "freshness_score": 4.597110163570301e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1084,7 +1026,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.5619368972886065e-19,
+    "freshness_score": 2.3602350655713204e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1128,7 +1070,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 8.024838895595662e-177,
+    "freshness_score": 7.393041641383748e-177,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1169,7 +1111,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 6.753593237075085e-20,
+    "freshness_score": 6.221892098524236e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1186,20 +1128,19 @@
     "result_type": "article"
   },
   {
-    "id": "ba7ba732e70b0b508b9f05182e6b8e175d81fee3",
-    "title": "Anime Festival Asia Singapore 2025 Unveils Three-Day Event Lineup - GamerBraves",
-    "url": "https://www.gamerbraves.com/anime-festival-asia-singapore-2025-unveils-three-day-event-lineup/",
+    "id": "aabff789209ecaf436a40cb987f86eba85354458",
+    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
+    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
     "source_name": "Google News SG Events",
     "source_type": "rss",
-    "published_at": "2025-11-28T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 Unveils Three-Day Event Lineup GamerBraves",
+    "published_at": "2025-11-24T08:00:00Z",
+    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
     "content": "",
     "categories": [
       "events",
       "merch",
       "esports",
-      "anime",
-      "games"
+      "anime"
     ],
     "tags": [
       "afa",
@@ -1212,7 +1153,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.839160955778665e-20,
+    "freshness_score": 1.175163616351624e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1253,7 +1194,51 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.6233576645967179e-23,
+    "freshness_score": 1.495552942097088e-23,
+    "home_score": 0.4685,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c8d3b0ba24323fa667edba98a7e5da1f22ec0eda",
+    "title": "Anime Festival Asia Singapore 2025 brings anime premieres, cosplay icons, gaming zones & anisong concerts - bandwagon.asia",
+    "url": "https://www.bandwagon.asia/articles/anime-festival-asia-singapore-2025-brings-anime-premieres-cosplay-icons-gaming-zones-anisong-concerts",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-09-24T07:00:00Z",
+    "summary": "Anime Festival Asia Singapore 2025 brings anime premieres, cosplay icons, gaming zones & anisong concerts bandwagon",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "anime",
+      "games"
+    ],
+    "tags": [
+      "afa",
+      "singapore",
+      "idol"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 1.711638325162835e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1295,7 +1280,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.0005480130443553064,
+    "freshness_score": 0.0005048677036734674,
     "home_score": 0.4612,
     "source_quality": 0.79,
     "image_url": null,
@@ -1328,7 +1313,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.54482209838692e-35,
+    "freshness_score": 1.4231974831005222e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1360,7 +1345,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 3.8292311859325963e-38,
+    "freshness_score": 3.5277538995790077e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1401,7 +1386,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 6.595171245298819e-42,
+    "freshness_score": 6.075930116379464e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1443,7 +1428,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.7261874658689488e-42,
+    "freshness_score": 2.5115533654235417e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1476,7 +1461,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.1454402642438726e-46,
+    "freshness_score": 1.9765286806063925e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1484,28 +1469,45 @@
     "result_type": "article"
   },
   {
-    "id": "cfc5502515f6bec14346086012979d7a96ac2449",
-    "title": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam - Turn Based Lovers",
-    "url": "https://turnbasedlovers.com/news/diorama-break-is-a-new-tactics-jrpg-with-a-free-chapter-1-demo-on-steam/",
-    "source_name": "Google News JRPG Demo",
+    "id": "dc008a6954e6d23a5135326acb30c9ef55a8bb2c",
+    "title": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network - ANTARA News",
+    "url": "https://en.antaranews.com/news/396685/kayou-debuts-at-singapore-comic-con-2025-deepening-distribution-network",
+    "source_name": "Google News SG Events",
     "source_type": "rss",
-    "published_at": "2026-04-08T10:32:41Z",
-    "summary": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam Turn Based Lovers",
+    "published_at": "2025-12-16T08:00:00Z",
+    "summary": "Kayou Debuts at Singapore Comic Con 2025, Deepening Distribution Network ANTARA News",
     "content": "",
     "categories": [
-      "games"
+      "events",
+      "merch",
+      "esports",
+      "comics"
     ],
     "tags": [
-      "jrpg"
+      "singapore",
+      "sgcc"
     ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4616395380375794,
-    "home_score": 0.4537,
-    "source_quality": 0.8,
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 1.7985583615805587e-17,
+    "home_score": 0.451,
+    "source_quality": 0.74,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1534,7 +1536,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.9522568708930223e-17,
+    "freshness_score": 1.798558359575234e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1576,7 +1578,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.356495456303745e-18,
+    "freshness_score": 1.2497004264965132e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1593,19 +1595,18 @@
     "result_type": "article"
   },
   {
-    "id": "eda5f6ecd166bdc1ca433f067447081aa2b82319",
-    "title": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend - CNA",
-    "url": "https://www.channelnewsasia.com/watch/local-games-featured-singapore-comic-con-see-up-1000-potential-downloads-over-weekend-5566586",
+    "id": "3ee2087f55c44b1cf81f1fca1944dce272df2635",
+    "title": "Mediacorp's Bloomr.sg runs booth on burnout, work-life balance at Singapore Comic Con - CNA",
+    "url": "https://www.channelnewsasia.com/watch/mediacorps-bloomrsg-runs-booth-burnout-work-life-balance-singapore-comic-con-5565646",
     "source_name": "Google News SG Events",
     "source_type": "rss",
     "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Local games featured at Singapore Comic Con see up to 1,000 potential downloads over the weekend CNA",
+    "summary": "Mediacorp's Bloomr.sg runs booth on burnout, work-life balance at Singapore Comic Con - CNA is trending around singapore, sgcc.",
     "content": "",
     "categories": [
       "events",
       "merch",
       "esports",
-      "games",
       "comics"
     ],
     "tags": [
@@ -1619,7 +1620,49 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 9.719714739550109e-19,
+    "freshness_score": 8.954494919671613e-19,
+    "home_score": 0.451,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
+    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
+    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 8.954494791261648e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1662,7 +1705,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 4.8391609746349847e-20,
+    "freshness_score": 4.458180459270822e-20,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1704,7 +1747,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.336322723423323e-22,
+    "freshness_score": 2.152387240669915e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1747,7 +1790,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 6.855960564587801e-43,
+    "freshness_score": 6.316196420304579e-43,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -1764,13 +1807,13 @@
     "result_type": "source_page"
   },
   {
-    "id": "6561be37158d4782e8257eea8058f719640cb13c",
-    "title": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah - Daily Sabah",
-    "url": "https://www.dailysabah.com/sports/niemann-vows-stone-cold-killer-persona-beat-carlsen-in-netflix-doc/news",
-    "source_name": "Google News JRPG",
+    "id": "cfc5502515f6bec14346086012979d7a96ac2449",
+    "title": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam - Turn Based Lovers",
+    "url": "https://turnbasedlovers.com/news/diorama-break-is-a-new-tactics-jrpg-with-a-free-chapter-1-demo-on-steam/",
+    "source_name": "Google News JRPG Demo",
     "source_type": "rss",
-    "published_at": "2026-04-08T08:03:32Z",
-    "summary": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah Daily Sabah",
+    "published_at": "2026-04-08T10:32:41Z",
+    "summary": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam Turn Based Lovers",
     "content": "",
     "categories": [
       "games"
@@ -1781,9 +1824,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.44597754106641185,
-    "home_score": 0.4407,
-    "source_quality": 0.76,
+    "freshness_score": 0.4252952439657465,
+    "home_score": 0.4374,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1814,7 +1857,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 5.344122592976642e-38,
+    "freshness_score": 4.923377151421176e-38,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1847,7 +1890,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 9.204302878195752e-42,
+    "freshness_score": 8.479643514876706e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1881,7 +1924,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 6.395467328898232e-43,
+    "freshness_score": 5.891948990849469e-43,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1914,7 +1957,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.1015057553811996e-46,
+    "freshness_score": 1.014783657178604e-46,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1946,7 +1989,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 6.583559600631266e-66,
+    "freshness_score": 6.065241357000985e-66,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -1961,6 +2004,31 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "6561be37158d4782e8257eea8058f719640cb13c",
+    "title": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah - Daily Sabah",
+    "url": "https://www.dailysabah.com/sports/niemann-vows-stone-cold-killer-persona-beat-carlsen-in-netflix-doc/news",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-08T08:03:32Z",
+    "summary": "Niemann vows 'stone cold killer' persona, beat Carlsen in Netflix doc | Daily Sabah Daily Sabah",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.41086651738426544,
+    "home_score": 0.4249,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0f2cff20dc654c3b473926f561ac2712f4bc63b7",
@@ -1983,7 +2051,7 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 4.989928543372721e-19,
+    "freshness_score": 4.597069305321335e-19,
     "home_score": 0.406,
     "source_quality": 0.79,
     "image_url": null,
@@ -1997,31 +2065,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "b6557f392868165183c3824b2c4f7b1ed0f48275",
-    "title": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review - GameSpot",
-    "url": "https://www.gamespot.com/reviews/this-turn-based-rpg-musical-is-fun-but-drags-a-bit-in-act-3-people-of-note-review/1900-6418478/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-07T16:26:04Z",
-    "summary": "This Turn-Based RPG Musical Is Fun But Drags A Bit In Act 3 | People Of Note Review GameSpot",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.35897847629887814,
-    "home_score": 0.4015,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -2049,7 +2092,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.49,
-    "freshness_score": 6.583559587245922e-66,
+    "freshness_score": 6.065241346892185e-66,
     "home_score": 0.3925,
     "source_quality": 0.8,
     "image_url": null,
@@ -2079,7 +2122,7 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 2.4092098530273228e-21,
+    "freshness_score": 2.2195354303831977e-21,
     "home_score": 0.3895,
     "source_quality": 0.75,
     "image_url": null,
