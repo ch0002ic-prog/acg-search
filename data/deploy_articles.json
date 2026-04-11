@@ -23,50 +23,11 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8822395700552331,
-    "home_score": 0.7625,
+    "freshness_score": 0.8095916063698464,
+    "home_score": 0.7298,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "50c59fc254cdf106a95d031b4b3f65cee9a0cc76",
-    "title": "Odex Opens 2nd Gundam Hathaway Film in Singapore on May 8, in Malaysia on May 9 - Anime News Network",
-    "url": "https://www.animenewsnetwork.com/news/2026-04-10/odex-opens-2nd-gundam-hathaway-film-in-singapore-on-may-8-in-malaysia-on-may-9/.236260",
-    "source_name": "Google News SG ACG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T08:30:00Z",
-    "summary": "Odex Opens 2nd Gundam Hathaway Film in Singapore on May 8, in Malaysia on May 9 Anime News Network",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8051933738467109,
-    "home_score": 0.7278,
-    "source_quality": 0.72,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 8",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -91,13 +52,51 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9578707115420813,
-    "home_score": 0.724,
+    "freshness_score": 0.878995098866921,
+    "home_score": 0.6885,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 11, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "50c59fc254cdf106a95d031b4b3f65cee9a0cc76",
+    "title": "Odex Opens 2nd Gundam Hathaway Film in Singapore on May 8, in Malaysia on May 9 - Anime News Network",
+    "url": "https://www.animenewsnetwork.com/news/2026-04-10/odex-opens-2nd-gundam-hathaway-film-in-singapore-on-may-8-in-malaysia-on-may-9/.236260",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-10T08:30:00Z",
+    "summary": "Odex Opens 2nd Gundam Hathaway Film in Singapore on May 8, in Malaysia on May 9 Anime News Network",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7388620813279906,
+    "home_score": 0.6725,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 8",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -129,8 +128,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.1,
-    "freshness_score": 0.9061068433882808,
-    "home_score": 0.7057,
+    "freshness_score": 0.8314937124193474,
+    "home_score": 0.6722,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -143,6 +142,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "0826f253e3b530874b61959c4ac91ec0cd50ba4d",
+    "title": "'Outcome' Movie Review: Keanu Reeves\u2019 Star Persona & Life's Fakery - Deccan Herald",
+    "url": "https://www.deccanherald.com/entertainment/outcome-movie-review-playing-the-performance-game-3964107",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-11T02:49:54Z",
+    "summary": "'Outcome' Movie Review: Keanu Reeves\u2019 Star Persona & Life's Fakery Deccan Herald",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9531145550615346,
+    "home_score": 0.6689,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -168,8 +192,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9446589061014506,
-    "home_score": 0.6981,
+    "freshness_score": 0.8668712158984202,
+    "home_score": 0.6631,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -206,9 +230,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8936090107674775,
-    "home_score": 0.6951,
+    "freshness_score": 0.8200250102175877,
+    "home_score": 0.662,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "93c1a5b41728b52ee4ea6d4a8f7bbbf1dfc4be4b",
+    "title": "An Underrated JRPG Just Offered a Solution to Gaming\u2019s Biggest Problem - ComicBook.com",
+    "url": "https://comicbook.com/gaming/feature/an-underrated-jrpg-just-offered-a-solution-to-gamings-biggest-problem/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-11T01:00:00Z",
+    "summary": "An Underrated JRPG Just Offered a Solution to Gaming\u2019s Biggest Problem ComicBook",
+    "content": "",
+    "categories": [
+      "games",
+      "comics"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9291733236132601,
+    "home_score": 0.6581,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -234,8 +284,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9316293301263202,
-    "home_score": 0.6922,
+    "freshness_score": 0.8549145567563246,
+    "home_score": 0.6577,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -269,8 +319,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9187794688633234,
-    "home_score": 0.6865,
+    "freshness_score": 0.8431228138422093,
+    "home_score": 0.6524,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -306,8 +356,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7386013490014279,
-    "home_score": 0.6784,
+    "freshness_score": 0.6777812769450249,
+    "home_score": 0.651,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
     "event_metadata": {
@@ -341,8 +391,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.886398366914762,
-    "home_score": 0.6719,
+    "freshness_score": 0.8134081250810553,
+    "home_score": 0.639,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -367,8 +417,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8812835548227319,
-    "home_score": 0.6696,
+    "freshness_score": 0.8087144908070154,
+    "home_score": 0.6369,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -396,8 +446,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8772129629459701,
-    "home_score": 0.6677,
+    "freshness_score": 0.8049790907017806,
+    "home_score": 0.6352,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -422,8 +472,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8741723612498495,
-    "home_score": 0.6664,
+    "freshness_score": 0.8021888665424343,
+    "home_score": 0.634,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -449,8 +499,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8691280971080383,
-    "home_score": 0.6641,
+    "freshness_score": 0.7975599710197079,
+    "home_score": 0.6319,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -475,8 +525,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8661155177934841,
-    "home_score": 0.6628,
+    "freshness_score": 0.7947954618200059,
+    "home_score": 0.6307,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -500,33 +550,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8475012552536354,
-    "home_score": 0.6214,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e5bde461f3451d373a68e3c6365b3e4aa2b4fe50",
-    "title": "Ian Veneracion introduces new musical persona \u2018stephn\u2019 - Inquirer.net",
-    "url": "https://entertainment.inquirer.net/663050/ian-veneracion-introduces-new-musical-persona-stephn",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T10:00:00Z",
-    "summary": "Ian Veneracion introduces new musical persona \u2018stephn\u2019 Inquirer",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8221270362712613,
-    "home_score": 0.61,
+    "freshness_score": 0.7777143843531015,
+    "home_score": 0.59,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -550,33 +575,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8067188202770803,
-    "home_score": 0.603,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c1cbabf1c6734181ee7634fa2200bd4ad9398b72",
-    "title": "Ian Veneracion explains reason behind his musical persona \u2018stephn\u2019 - ABS-CBN",
-    "url": "https://www.abs-cbn.com/entertainment/showbiz/music/2026/4/10/ian-veneracion-explains-reason-behind-his-musical-persona-stephn-1508",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T07:08:52Z",
-    "summary": "Ian Veneracion explains reason behind his musical persona \u2018stephn\u2019 ABS-CBN",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7901957776710398,
-    "home_score": 0.5956,
+    "freshness_score": 0.7402901479091769,
+    "home_score": 0.5731,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -602,8 +602,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7896441786937706,
-    "home_score": 0.5953,
+    "freshness_score": 0.7246215042668169,
+    "home_score": 0.5661,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -627,33 +627,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.783187839324758,
-    "home_score": 0.5924,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
-    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
-    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-09T15:04:24Z",
-    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6320854379942746,
-    "home_score": 0.5244,
+    "freshness_score": 0.7186968090245744,
+    "home_score": 0.5634,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -688,7 +663,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 3.3756421479288695e-137,
+    "freshness_score": 3.097680915964119e-137,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -730,7 +705,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 4.981392267863858e-179,
+    "freshness_score": 4.5712059846007174e-179,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -771,7 +746,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 1.2423358877882748e-20,
+    "freshness_score": 1.1400359727898876e-20,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -786,6 +761,31 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
+    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
+    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T15:04:24Z",
+    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5800368268134649,
+    "home_score": 0.501,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0b3ad17a0b4ef122d5774c89c5f79a7fb7133d0d",
@@ -812,7 +812,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 8.95386834504308e-19,
+    "freshness_score": 8.216576548465689e-19,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -855,7 +855,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.2263566412708983e-29,
+    "freshness_score": 1.1253742881758354e-29,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -896,9 +896,51 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.4934076389164099e-131,
+    "freshness_score": 1.3704354038035072e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "aabff789209ecaf436a40cb987f86eba85354458",
+    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
+    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2025-11-24T08:00:00Z",
+    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.91,
+    "freshness_score": 1.0784062134089675e-20,
+    "home_score": 0.4855,
+    "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
@@ -940,12 +982,55 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 8.701659278812345e-52,
+    "freshness_score": 7.985132446151322e-52,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
+    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
+    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 8.21664671908985e-19,
+    "home_score": 0.477,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
@@ -983,7 +1068,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 4.597110163570301e-19,
+    "freshness_score": 4.2185671126805066e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1026,7 +1111,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.3602350655713204e-19,
+    "freshness_score": 2.1658845659594183e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1070,7 +1155,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 7.393041641383748e-177,
+    "freshness_score": 6.784271229336958e-177,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1111,49 +1196,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 6.221892098524236e-20,
-    "home_score": 0.4685,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "aabff789209ecaf436a40cb987f86eba85354458",
-    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
-    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-11-24T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.175163616351624e-20,
+    "freshness_score": 5.709556818904471e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1194,7 +1237,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.495552942097088e-23,
+    "freshness_score": 1.3724031791658726e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1238,9 +1281,50 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.711638325162835e-29,
+    "freshness_score": 1.5706952355151284e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c0d91ee3ae1fd1638243b320b7533c6881a4facd",
+    "title": "Ado celebrates 5th anniversary with special pop-up store at Anime Festival Asia Singapore 2025 - bandwagon.asia",
+    "url": "https://www.bandwagon.asia/articles/ado-celebrates-5th-anniversary-with-special-pop-up-store-at-anime-festival-asia-singapore",
+    "source_name": "Google News Merch And Deals",
+    "source_type": "rss",
+    "published_at": "2025-11-25T08:00:00Z",
+    "summary": "Ado celebrates 5th anniversary with special pop-up store at Anime Festival Asia Singapore 2025 bandwagon",
+    "content": "",
+    "categories": [
+      "merch",
+      "events",
+      "anime"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 1.5049549035392206e-20,
+    "home_score": 0.467,
+    "source_quality": 0.73,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
@@ -1280,7 +1364,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.0005048677036734674,
+    "freshness_score": 0.000463295273152958,
     "home_score": 0.4612,
     "source_quality": 0.79,
     "image_url": null,
@@ -1313,7 +1397,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.4231974831005222e-35,
+    "freshness_score": 1.3060068247977562e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1345,7 +1429,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 3.5277538995790077e-38,
+    "freshness_score": 3.2372672998746663e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1386,7 +1470,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 6.075930116379464e-42,
+    "freshness_score": 5.575618491579987e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1428,7 +1512,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.5115533654235417e-42,
+    "freshness_score": 2.3047439832305993e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1461,7 +1545,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.9765286806063925e-46,
+    "freshness_score": 1.8137749518614884e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1494,49 +1578,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.7985583615805587e-17,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "6d9c1f0db9cedb653e847b6289fc5a758e3b874a",
-    "title": "In Review and in Pictures: Singapore Comic Con 2025 - downthetubes.net",
-    "url": "https://downthetubes.net/in-review-and-in-pictures-singapore-comic-con-2025/",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-16T08:00:00Z",
-    "summary": "In Review and in Pictures: Singapore Comic Con 2025 downthetubes",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 1.798558359575234e-17,
+    "freshness_score": 1.6504579311754887e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1578,7 +1620,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.2497004264965132e-18,
+    "freshness_score": 1.1467951359324456e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1620,7 +1662,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 8.954494919671613e-19,
+    "freshness_score": 8.217146281353144e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1633,48 +1675,6 @@
       "guest_status": null,
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
-    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
-    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 8.954494791261648e-19,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
     },
     "result_type": "article"
   },
@@ -1705,7 +1705,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 4.458180459270822e-20,
+    "freshness_score": 4.091076194858575e-20,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1747,7 +1747,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.152387240669915e-22,
+    "freshness_score": 1.9751511372105642e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1790,7 +1790,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 6.316196420304579e-43,
+    "freshness_score": 5.796090415215068e-43,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -1805,31 +1805,6 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "cfc5502515f6bec14346086012979d7a96ac2449",
-    "title": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam - Turn Based Lovers",
-    "url": "https://turnbasedlovers.com/news/diorama-break-is-a-new-tactics-jrpg-with-a-free-chapter-1-demo-on-steam/",
-    "source_name": "Google News JRPG Demo",
-    "source_type": "rss",
-    "published_at": "2026-04-08T10:32:41Z",
-    "summary": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam Turn Based Lovers",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4252952439657465,
-    "home_score": 0.4374,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
   },
   {
     "id": "cb2eede0a24cb952afb5694716ab3eb3c847c480",
@@ -1857,7 +1832,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 4.923377151421176e-38,
+    "freshness_score": 4.5179704421044674e-38,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1890,7 +1865,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 8.479643514876706e-42,
+    "freshness_score": 7.781402394644281e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1924,7 +1899,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 5.891948990849469e-43,
+    "freshness_score": 5.4067869625517324e-43,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1957,7 +1932,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 1.014783657178604e-46,
+    "freshness_score": 9.312231068912533e-47,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1989,7 +1964,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 6.065241357000985e-66,
+    "freshness_score": 5.565800199438107e-66,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2004,6 +1979,31 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "cfc5502515f6bec14346086012979d7a96ac2449",
+    "title": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam - Turn Based Lovers",
+    "url": "https://turnbasedlovers.com/news/diorama-break-is-a-new-tactics-jrpg-with-a-free-chapter-1-demo-on-steam/",
+    "source_name": "Google News JRPG Demo",
+    "source_type": "rss",
+    "published_at": "2026-04-08T10:32:41Z",
+    "summary": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam Turn Based Lovers",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.39027481017331894,
+    "home_score": 0.4216,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "6561be37158d4782e8257eea8058f719640cb13c",
@@ -2023,8 +2023,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.41086651738426544,
-    "home_score": 0.4249,
+    "freshness_score": 0.37703401433421196,
+    "home_score": 0.4097,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -2051,7 +2051,7 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 4.597069305321335e-19,
+    "freshness_score": 4.218531074308914e-19,
     "home_score": 0.406,
     "source_quality": 0.79,
     "image_url": null,
@@ -2092,7 +2092,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.49,
-    "freshness_score": 6.065241346892185e-66,
+    "freshness_score": 5.565800189560435e-66,
     "home_score": 0.3925,
     "source_quality": 0.8,
     "image_url": null,
@@ -2122,7 +2122,7 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 2.2195354303831977e-21,
+    "freshness_score": 2.0367698872016113e-21,
     "home_score": 0.3895,
     "source_quality": 0.75,
     "image_url": null,
