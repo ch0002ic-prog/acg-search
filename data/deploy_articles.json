@@ -1,468 +1,67 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "27c333a24c72484c9526f468113094e1eca3eb69",
+    "title": "Assassin & Cinderella Gets More Serious in Volume 3",
+    "url": "https://www.siliconera.com/assassin-cinderella-gets-more-serious-in-volume-3/?utm_source=rss&utm_medium=rss&utm_campaign=assassin-cinderella-gets-more-serious-in-volume-3",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-11T13:00:00Z",
+    "summary": "One of Assassin & Cinderella \u2019s flaws in early volumes is that the manga is very much filled with josei fanservice",
     "content": "",
     "categories": [
-      "events",
       "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "31b6ab4cb03993bca38cd15adac130c1685a41a1",
-    "title": "Doujin Market 2026",
-    "url": "https://www.eventbrite.sg/e/doujin-market-2026-tickets-1984953521416",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-05-09T00:00:00Z",
-    "summary": "Singapore's premier pop culture creators convention, featuring over 800 artists, illustrators, & makers from around the world! Venue: Suntec Singapore Convention & Exhibition Centr",
-    "content": "",
-    "categories": [
-      "events",
       "anime",
-      "manga",
       "merch",
-      "comics"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Doujin Market"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.77,
-    "freshness_score": 1.0,
-    "home_score": 0.9095,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179567485%2F1381757747753%2F1%2Foriginal.20260311-091636?w=400&auto=format%2Ccompress&q=75&sharp=10&s=c178d4113e5ae163273404d018805d28",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "9 May 2026 to 10 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doujin-market-2026-tickets-1984953521416",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
       "events",
-      "anime",
       "manga",
-      "merch",
       "gacha"
     ],
     "tags": [
-      "singapore",
-      "hoyoverse"
+      "jrpg"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.931853563571823,
+    "home_score": 0.6923,
+    "source_quality": 0.82,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
+      "event_type": null,
+      "date_label": "October 6, 2026",
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "09d95ae267f3e96e8062ffa0928f37adc78c43de",
+    "title": "10 Most Underrated Final Fantasy Party Members Of All Time - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-underrated-party-members/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-11T16:30:18Z",
+    "summary": "10 Most Underrated Final Fantasy Party Members Of All Time ScreenRant",
     "content": "",
     "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
       "games"
     ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "26c74f12edf5ef9a48ec6369cfc8aca0008f5ead",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537266386",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-04-12T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "12 Apr 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537266386",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "97f9efcd52156af6ced5936095589ad8dc0ed2af",
-    "title": "Celestial Showdown RDO Regionals - Grand Archive TCG 2026",
-    "url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-02T00:00:00Z",
-    "summary": "An exclusive event where one will be able to test their limits in the ultimate showdown of Grand Archive TCG! Venue: Nanyang Technological University (one-north)",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
     "tags": [],
     "entity_tags": [
-      "Grand Archive TCG"
+      "Final Fantasy"
     ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9783037192110138,
+    "home_score": 0.6802,
     "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181516731%2F1240882213933%2F1%2Foriginal.20260406-165156?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.576&fp-y=0.551&s=16507ff9ed9ca88c59d6a0b144a7942c",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "2 May 2026",
-      "venue": "Nanyang Technological University (one-north)",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "44e0d0e2637c3945c47bb1536a066f217557f72e",
-    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 5-12",
-    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "681691",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "11e3a7c864980a3ae9137aae53fdd89a7b3bb94a",
-    "title": "Playtest Party Indie Games in the Making",
-    "url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Playtest indie games in development, meet local devs, share feedback, and connect with fellow game lovers in Singapore! Venue: Toa Payoh Public Library",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180051244%2F2858659952031%2F1%2Foriginal.20260317-153740?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=87f2c313b968739a02f577230ca29320",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "Toa Payoh Public Library",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f84a48a40c6e15bf74b1c9d1356ebe26bb055283",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1985381805425",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-18T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176986544%2F2858659952031%2F1%2Foriginal.20260208-111752?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=40e596026e329c5b754c01dc097c53a7",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "18 Apr 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1985381805425",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "1d40a554974dc90cad95c43f319ef23f5d142d00",
@@ -488,21 +87,21 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7470709351439944,
-    "home_score": 0.7017,
+    "freshness_score": 0.6872557708481979,
+    "home_score": 0.6748,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "f1781b7cda239927883eb491c51964139d231354",
-    "title": "Xbox Game Pass Adds One Of The Best Final Fantasy Games Ever For Free - ScreenRant",
-    "url": "https://screenrant.com/xbox-game-pass-final-fantasy-4/",
+    "id": "2fe25182b0deac812c085b90b4136bd6651459a9",
+    "title": "Final Fantasy XIV Fanfest Digital Items Revealed, Includes Cloud's Bike From Final Fantasy VII - PlayStation Universe",
+    "url": "https://www.psu.com/news/final-fantasy-xiv-fanfest-digital-items-revealed-includes-clouds-bike-from-final-fantasy-vii/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-11T07:00:18Z",
-    "summary": "Xbox Game Pass Adds One Of The Best Final Fantasy Games Ever For Free ScreenRant",
+    "published_at": "2026-04-11T14:28:27Z",
+    "summary": "Final Fantasy XIV Fanfest Digital Items Revealed, Includes Cloud's Bike From Final Fantasy VII PlayStation Universe",
     "content": "",
     "categories": [
       "games"
@@ -513,9 +112,36 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9319942234109401,
-    "home_score": 0.6594,
+    "freshness_score": 0.9510951873353329,
+    "home_score": 0.668,
     "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3840b3bdf7d9c31c631d9d67a364e913b4d022a4",
+    "title": "The anime movie ChaO asks \"Would you still love me if I were a fish?\" - Polygon.com",
+    "url": "https://www.polygon.com/chao-anime-little-mermaid-review/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-10T11:01:17Z",
+    "summary": "The anime movie ChaO asks \"Would you still love me if I were a fish?\" Polygon",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.6495685785125286,
+    "home_score": 0.6323,
+    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -542,8 +168,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8111234623712485,
-    "home_score": 0.658,
+    "freshness_score": 0.7461699908639114,
+    "home_score": 0.6288,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -580,8 +206,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6818012476450173,
-    "home_score": 0.6468,
+    "freshness_score": 0.6272148375714718,
+    "home_score": 0.6222,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -618,8 +244,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.1,
-    "freshness_score": 0.7672898977147051,
-    "home_score": 0.6433,
+    "freshness_score": 0.7058465473659892,
+    "home_score": 0.6156,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -656,11 +282,48 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7567067520800083,
-    "home_score": 0.6335,
+    "freshness_score": 0.6961108828842947,
+    "home_score": 0.6062,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3b85d28d31b52b730b52916772cf70456e9a5549",
+    "title": "The Weeknd to present Anime of the Year at 2026 Crunchyroll Anime Awards in Tokyo",
+    "url": "https://www.bandwagon.asia/articles/the-weeknd-to-present-anime-of-the-year-at-2026-crunchyroll-anime-awards-in-tokyo",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-10T02:17:00Z",
+    "summary": "Global superstar The Weeknd is set to make a special appearance at the 10th Crunchyroll Anime Awards , taking place on 23 May in Tokyo, Japan",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.5753616125783206,
+    "home_score": 0.6049,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "23 May",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -686,8 +349,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7999357255779513,
-    "home_score": 0.633,
+    "freshness_score": 0.7358781500867793,
+    "home_score": 0.6041,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -723,8 +386,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7889023004746493,
-    "home_score": 0.628,
+    "freshness_score": 0.7257282638421405,
+    "home_score": 0.5996,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -740,33 +403,31 @@
     "result_type": "article"
   },
   {
-    "id": "3b85d28d31b52b730b52916772cf70456e9a5549",
-    "title": "The Weeknd to present Anime of the Year at 2026 Crunchyroll Anime Awards in Tokyo",
-    "url": "https://www.bandwagon.asia/articles/the-weeknd-to-present-anime-of-the-year-at-2026-crunchyroll-anime-awards-in-tokyo",
-    "source_name": "Bandwagon Asia",
+    "id": "d74624a227b649c1c7e0d8f61afc10421b0cb3c8",
+    "title": "Amazon Luna Purchased Games Will Be Unplayable After June 2026",
+    "url": "https://www.siliconera.com/amazon-luna-purchased-games-will-be-unplayable-after-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-luna-purchased-games-will-be-unplayable-after-june-2026",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-10T02:17:00Z",
-    "summary": "Global superstar The Weeknd is set to make a special appearance at the 10th Crunchyroll Anime Awards , taking place on 23 May in Tokyo, Japan",
+    "published_at": "2026-04-10T18:00:00Z",
+    "summary": "Amazon issued a statement on the future of its Luna game service, and as part of that it noted that it will discontinue individual game purchases and third-party subscriptions, whi",
     "content": "",
     "categories": [
       "games",
-      "esports",
-      "anime"
+      "anime",
+      "merch",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6254464279617408,
-    "home_score": 0.6275,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7157183732775279,
+    "home_score": 0.5951,
+    "source_quality": 0.82,
+    "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "23 May",
+      "date_label": "June 10, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -795,46 +456,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8574165324783543,
-    "home_score": 0.6258,
+    "freshness_score": 0.7887685588602432,
+    "home_score": 0.5949,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d74624a227b649c1c7e0d8f61afc10421b0cb3c8",
-    "title": "Amazon Luna Purchased Games Will Be Unplayable After June 2026",
-    "url": "https://www.siliconera.com/amazon-luna-purchased-games-will-be-unplayable-after-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-luna-purchased-games-will-be-unplayable-after-june-2026",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T18:00:00Z",
-    "summary": "Amazon issued a statement on the future of its Luna game service, and as part of that it noted that it will discontinue individual game purchases and third-party subscriptions, whi",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7780210575817363,
-    "home_score": 0.6231,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 10, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -856,8 +482,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7506007898484884,
-    "home_score": 0.6108,
+    "freshness_score": 0.6904938761995532,
+    "home_score": 0.5837,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -882,8 +508,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7462695748006469,
-    "home_score": 0.6088,
+    "freshness_score": 0.6865094976058135,
+    "home_score": 0.5819,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -911,8 +537,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7428226040354416,
-    "home_score": 0.6073,
+    "freshness_score": 0.6833385544264976,
+    "home_score": 0.5805,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -937,8 +563,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7402478271367204,
-    "home_score": 0.6061,
+    "freshness_score": 0.680969961361614,
+    "home_score": 0.5794,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -964,34 +590,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7359763521508814,
-    "home_score": 0.6042,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6f5aaeaab4aea7592bb3cf3af3cd85f27a8a93de",
-    "title": "Professor Layton and the New World of Steam Release Window Bumped to Late 2026",
-    "url": "https://www.siliconera.com/professor-layton-and-the-new-world-of-steam-release-window-bumped-to-late-2026/?utm_source=rss&utm_medium=rss&utm_campaign=professor-layton-and-the-new-world-of-steam-release-window-bumped-to-late-2026",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T13:45:00Z",
-    "summary": "As part of Level-5 Vision 2026 Craftmanship stream , the company confirmed a new release window for Professor Layton and the New World of Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7334253046945372,
-    "home_score": 0.603,
+    "freshness_score": 0.6770405389610886,
+    "home_score": 0.5777,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1015,85 +615,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7176542330169157,
-    "home_score": 0.5629,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8d72730cf30838573b49d0f8cc21e06f03448e16",
-    "title": "Melbourne Symphony Orchestra: Distant Worlds: Music from FINAL FANTASY - Limelight magazine",
-    "url": "https://limelight-arts.com.au/event/distant-worlds-music-from-final-fantasy/2026-07-23/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T08:38:16Z",
-    "summary": "Melbourne Symphony Orchestra: Distant Worlds: Music from FINAL FANTASY Limelight magazine",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6831201396627867,
-    "home_score": 0.5474,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "94cb2543588538b6440f858ed53cbb699e4339d5",
-    "title": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced - Persona Central",
-    "url": "https://personacentral.com/prime-1-hulkenberg-ann-figures/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T07:05:51Z",
-    "summary": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced Persona Central",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6686615315097328,
-    "home_score": 0.5409,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "29e2700fade441f87080ca0b65b2bbe4baf2e53d",
-    "title": "How I Built a Persistent AI Persona That Passed Cognitive Testing (And What Broke Along the Way) - HackerNoon",
-    "url": "https://hackernoon.com/how-i-built-a-persistent-ai-persona-that-passed-cognitive-testing-and-what-broke-along-the-way",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T06:30:23Z",
-    "summary": "How I Built a Persistent AI Persona That Passed Cognitive Testing (And What Broke Along the Way) HackerNoon",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6631943814756464,
-    "home_score": 0.5384,
+    "freshness_score": 0.6601961534107726,
+    "home_score": 0.5371,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1128,7 +651,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 2.8584529733467584e-137,
+    "freshness_score": 2.629602261799921e-137,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -1170,7 +693,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 4.218180658336368e-179,
+    "freshness_score": 3.88047024488397e-179,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -1184,6 +707,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "94cb2543588538b6440f858ed53cbb699e4339d5",
+    "title": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced - Persona Central",
+    "url": "https://personacentral.com/prime-1-hulkenberg-ann-figures/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-10T07:05:51Z",
+    "summary": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced Persona Central",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6151259914534878,
+    "home_score": 0.5168,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1211,7 +761,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 1.0520099475615848e-20,
+    "freshness_score": 9.677669610906425e-21,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -1252,7 +802,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 7.582019988023411e-19,
+    "freshness_score": 6.975004539599235e-19,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1295,7 +845,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.0384629534564494e-29,
+    "freshness_score": 9.553237563356406e-30,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1336,7 +886,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.2645982865839172e-131,
+    "freshness_score": 1.1633547266710298e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1378,7 +928,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 9.95126347112824e-21,
+    "freshness_score": 9.154503178759041e-21,
     "home_score": 0.4855,
     "source_quality": 0.72,
     "image_url": null,
@@ -1392,31 +942,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
-    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
-    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-09T15:04:24Z",
-    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5352426211278152,
-    "home_score": 0.4809,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1447,7 +972,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 7.36845623509417e-52,
+    "freshness_score": 6.778532615230664e-52,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -1490,7 +1015,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 7.582091112589486e-19,
+    "freshness_score": 6.9750637383716415e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1533,7 +1058,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.8927754000036545e-19,
+    "freshness_score": 3.581117152115987e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1576,7 +1101,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.9986175236010592e-19,
+    "freshness_score": 1.838606844433052e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1620,7 +1145,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 6.26033518932225e-177,
+    "freshness_score": 5.759128493932354e-177,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1661,7 +1186,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 5.268630658343671e-20,
+    "freshness_score": 4.8467991588834263e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1702,7 +1227,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.2664179892320668e-23,
+    "freshness_score": 1.1650225730704729e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1744,7 +1269,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 7.673816622388313e-29,
+    "freshness_score": 7.059414564935865e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1788,7 +1313,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.4493967443649687e-29,
+    "freshness_score": 1.3333511835410062e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1829,7 +1354,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.388730530520851e-20,
+    "freshness_score": 1.2775470412930304e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1843,6 +1368,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
+    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
+    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T15:04:24Z",
+    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.4923890965134139,
+    "home_score": 0.4616,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1871,7 +1421,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.00042751586978077914,
+    "freshness_score": 0.00039328850543084897,
     "home_score": 0.4612,
     "source_quality": 0.79,
     "image_url": null,
@@ -1904,7 +1454,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.205146428322666e-35,
+    "freshness_score": 1.1086611543357264e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1936,7 +1486,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.9872593683296413e-38,
+    "freshness_score": 2.748096281206381e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1977,7 +1527,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 5.1450241930387305e-42,
+    "freshness_score": 4.733108213098787e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2019,7 +1569,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.126753035736577e-42,
+    "freshness_score": 1.956482980152539e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2052,7 +1602,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.6737005990097095e-46,
+    "freshness_score": 1.5397023916183156e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2085,7 +1635,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.522999689011347e-17,
+    "freshness_score": 1.4010611264369018e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -2127,7 +1677,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.05823274996516e-18,
+    "freshness_score": 9.73505629151777e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -2169,12 +1719,447 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 7.582569049027939e-19,
+    "freshness_score": 6.975472693826001e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
       "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c3850432331999f88f3c8e66e8c8c9a87933e5da",
+    "title": "Things to do at Anime Fest Asia and Singapore Comic Con 2025, Digital News - AsiaOne",
+    "url": "https://www.asiaone.com/digital/anime-fest-asia-singapore-comic-con-2025",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-11-28T08:00:00Z",
+    "summary": "Things to do at Anime Fest Asia and Singapore Comic Con 2025, Digital News AsiaOne",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "anime",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 3.472883330357309e-20,
+    "home_score": 0.451,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "77684143cbf9551ab1d99fcfdc88bace786dbdf5",
+    "title": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss - TheSmartLocal",
+    "url": "https://thesmartlocal.com/read/singapore-comic-con-2025/",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-11-12T08:00:00Z",
+    "summary": "Singapore Comic Con Is Back, With Cosplays, Meet-And-Greets & Exclusive Merch Diehard Fans Won\u2019t Want To Miss TheSmartLocal",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 1.6766907095681407e-22,
+    "home_score": 0.451,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "132d8b6f2fb1ba79b246a550cf22d8a161285d84",
+    "title": "HoYo FEST 2025 official Singapore event page",
+    "url": "https://act.hoyoverse.com/common/event/e20250528hoyofest-lfhecu/index.html?game_biz=hk4e_global",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2025-06-23T12:00:00Z",
+    "summary": "Official HoYo FEST page for Singapore coverage, including merch, artist alley participation, themed activities, and HoYoVerse event details",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "gacha"
+    ],
+    "tags": [
+      "singapore",
+      "hoyofest",
+      "hoyoverse"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.69,
+    "freshness_score": 4.920252465927551e-43,
+    "home_score": 0.4425,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "cb2eede0a24cb952afb5694716ab3eb3c847c480",
+    "title": "Hoyo Fest 2025 in Singapore Ends Today \u2013 Last Chance to Experience the Sold-Out Event - Alvinology - Alvinology",
+    "url": "https://alvinology.com/2025/07/27/hoyo-fest-2025-in-singapore-ends-today-last-chance-to-experience-the-sold-out-event/",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-07-27T07:00:00Z",
+    "summary": "Hoyo Fest 2025 in Singapore Ends Today \u2013 Last Chance to Experience the Sold-Out Event - Alvinology Alvinology",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.6499999999999999,
+    "freshness_score": 3.8352772964004753e-38,
+    "home_score": 0.431,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "28062483179db7d23377ca13dd8fd9f2f2b0a3d5",
+    "title": "'Report 1 shop, another 10 appear': Hoyo Fest artists on copyright struggles, Digital News - AsiaOne",
+    "url": "https://www.asiaone.com/digital/report-1-shop-another-10-appear-hoyofest-artists-copyright-struggles",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-07-01T07:00:00Z",
+    "summary": "'Report 1 shop, another 10 appear': Hoyo Fest artists on copyright struggles, Digital News AsiaOne",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "games"
+    ],
+    "tags": [
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.6499999999999999,
+    "freshness_score": 6.605584593174531e-42,
+    "home_score": 0.431,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f1e1cb5abc92854a714c6ba7895d764d95a05eab",
+    "title": "HoYo FEST 2025 Arrives in Singapore This July: Here\u2019s what fans can experience this year - DANAMIC",
+    "url": "https://danamic.org/2025/06/23/hoyo-fest-2025-arrives-in-singapore-this-july-heres-what-fans-can-experience-this-year/",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-06-23T07:00:00Z",
+    "summary": "HoYo FEST 2025 Arrives in Singapore This July: Here\u2019s what fans can experience this year DANAMIC",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "games"
+    ],
+    "tags": [
+      "singapore",
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.6499999999999999,
+    "freshness_score": 4.589788168222161e-43,
+    "home_score": 0.431,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "65cc819e39d8d9430c3269bcaeef887666083206",
+    "title": "HoYo FEST 2025 locations, dates, and more - esports.gg",
+    "url": "https://esports.gg/news/gaming/hoyo-fest-2025-locations-dates/",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-05-28T07:00:00Z",
+    "summary": "HoYo FEST 2025 locations, dates, and more esports",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "esports"
+    ],
+    "tags": [
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.6499999999999999,
+    "freshness_score": 7.90509563263405e-47,
+    "home_score": 0.431,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "53b5ea67cb8f541d8889b0321198f08cdedabdf9",
+    "title": "Moe Moe Q Singapore official profile for POPPA idol live updates",
+    "url": "https://www.instagram.com/moemoeq_sg/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2025-01-15T12:00:00Z",
+    "summary": "Official Moe Moe Q Singapore page for POPPA and MMQ updates, including idol live announcements, merch signing notes, and related Singapore event posts",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "idol"
+    ],
+    "entity_tags": [
+      "POPPA"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.63,
+    "freshness_score": 4.724761036882075e-66,
+    "home_score": 0.4275,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "0f2cff20dc654c3b473926f561ac2712f4bc63b7",
+    "title": "Kadokawa acquires company behind Southeast Asia\u2019s largest anime convention amidst continuous efforts for global expansion - AUTOMATON",
+    "url": "https://automaton-media.com/en/news/kadokawa-acquires-company-behind-southeast-asias-largest-anime-convention-amidst-continuous-efforts-for-global-expansion/",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2025-12-05T08:00:00Z",
+    "summary": "Kadokawa acquires company behind Southeast Asia\u2019s largest anime convention amidst continuous efforts for global expansion AUTOMATON",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.55,
+    "freshness_score": 3.5810867473860623e-19,
+    "home_score": 0.406,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "cfc5502515f6bec14346086012979d7a96ac2449",
+    "title": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam - Turn Based Lovers",
+    "url": "https://turnbasedlovers.com/news/diorama-break-is-a-new-tactics-jrpg-with-a-free-chapter-1-demo-on-steam/",
+    "source_name": "Google News JRPG Demo",
+    "source_type": "rss",
+    "published_at": "2026-04-08T10:32:41Z",
+    "summary": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam Turn Based Lovers",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.33130147280188904,
+    "home_score": 0.3951,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "741bea2d80a946b3e568ccb45f37354c0bb98ce8",
+    "title": "Ani-Idol Singapore official Instagram updates",
+    "url": "https://www.instagram.com/ani_idol_sg/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2025-01-15T12:00:00Z",
+    "summary": "Official Ani-Idol Singapore page covering anisong performances, idol showcases, cosplay stage posts, and related Singapore community updates",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "idol"
+    ],
+    "entity_tags": [
+      "Ani-Idol"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.49,
+    "freshness_score": 4.7247610283330385e-66,
+    "home_score": 0.3925,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "source_page"
+  },
+  {
+    "id": "54f254cb70a25becf009de4e311e5f6d0dbe9f50",
+    "title": "This Popular Thrift Store From Japan Has A Pop-Up In SG, With Anime Merch & Pok\u00e9mon Cards For Sale - TheSmartLocal",
+    "url": "https://thesmartlocal.com/read/book-off-pop-up-singapore/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2025-11-19T08:00:00Z",
+    "summary": "This Popular Thrift Store From Japan Has A Pop-Up In SG, With Anime Merch & Pok\u00e9mon Cards For Sale TheSmartLocal",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 1.728999672792449e-21,
+    "home_score": 0.3895,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
       "date_label": null,
       "venue": null,
       "ticket_status": null,
