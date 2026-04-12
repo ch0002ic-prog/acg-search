@@ -1,5 +1,59 @@
 [
   {
+    "id": "8a305895f117f35638c6debcf6f0c8af54aa970c",
+    "title": "20 Years Ago, Anime's Best Spring Lineup of All Time Debuted - Comic Book Resources",
+    "url": "https://www.cbr.com/best-anime-season-spring-2006/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-11T18:18:35Z",
+    "summary": "20 Years Ago, Anime's Best Spring Lineup of All Time Debuted Comic Book Resources",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9226612013407819,
+    "home_score": 0.7552,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d45aa877bf02d5ed10aad1acac85c6c72b6c5834",
+    "title": "Homura Hime Could Be Perfect After a Few More Patches",
+    "url": "https://www.siliconera.com/homura-hime-could-be-perfect-after-a-few-more-patches/?utm_source=rss&utm_medium=rss&utm_campaign=homura-hime-could-be-perfect-after-a-few-more-patches",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-11T19:00:00Z",
+    "summary": "There are times when a concept for a game is so goo and the idea behind it is so close to being ready, but isn\u2019t quite there yet",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9316062143351885,
+    "home_score": 0.6922,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "27c333a24c72484c9526f468113094e1eca3eb69",
     "title": "Assassin & Cinderella Gets More Serious in Volume 3",
     "url": "https://www.siliconera.com/assassin-cinderella-gets-more-serious-in-volume-3/?utm_source=rss&utm_medium=rss&utm_campaign=assassin-cinderella-gets-more-serious-in-volume-3",
@@ -22,8 +76,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.931853563571823,
-    "home_score": 0.6923,
+    "freshness_score": 0.8571190796129584,
+    "home_score": 0.6587,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -39,13 +93,13 @@
     "result_type": "article"
   },
   {
-    "id": "09d95ae267f3e96e8062ffa0928f37adc78c43de",
-    "title": "10 Most Underrated Final Fantasy Party Members Of All Time - ScreenRant",
-    "url": "https://screenrant.com/final-fantasy-underrated-party-members/",
+    "id": "021dd2a4533e2a7975d1993be7cbca85fb0ae6bd",
+    "title": "A Kingly Clash Card Puzzle | Costa Del Sol Card Carnival | Final Fantasy 7 Rebirth Gibraltar U19 Armenia U19 (2TQKD1udqP) - Mshale",
+    "url": "https://mshale.com/1a54f89a-News/480f210f-zjTsmyr7QXw",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-11T16:30:18Z",
-    "summary": "10 Most Underrated Final Fantasy Party Members Of All Time ScreenRant",
+    "published_at": "2026-04-11T18:12:34Z",
+    "summary": "A Kingly Clash Card Puzzle | Costa Del Sol Card Carnival | Final Fantasy 7 Rebirth Gibraltar U19 Armenia U19 (2TQKD1udqP) Mshale",
     "content": "",
     "categories": [
       "games"
@@ -56,8 +110,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9783037192110138,
-    "home_score": 0.6802,
+    "freshness_score": 0.9213933001513476,
+    "home_score": 0.6546,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -87,9 +141,34 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6872557708481979,
-    "home_score": 0.6748,
+    "freshness_score": 0.6321353810718475,
+    "home_score": 0.65,
     "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "09d95ae267f3e96e8062ffa0928f37adc78c43de",
+    "title": "10 Most Underrated Final Fantasy Party Members Of All Time - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-underrated-party-members/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-11T16:30:18Z",
+    "summary": "10 Most Underrated Final Fantasy Party Members Of All Time ScreenRant",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8998374564280682,
+    "home_score": 0.6449,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -112,8 +191,32 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9510951873353329,
-    "home_score": 0.668,
+    "freshness_score": 0.874811223673422,
+    "home_score": 0.6337,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "96b962c60478013fb65f132733a8935ec398324e",
+    "title": "Nintendo Switch eShop Cuts Price of Some of Its Best RPGs by $63 - ComicBook.com",
+    "url": "https://comicbook.com/gaming/deals/nintendo-switch-games-rpg-eshop-sale-2026/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-11T12:05:00Z",
+    "summary": "Nintendo Switch eShop Cuts Price of Some of Its Best RPGs by $63 ComicBook",
+    "content": "",
+    "categories": [
+      "games",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8462392281832093,
+    "home_score": 0.6208,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -139,8 +242,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6495685785125286,
-    "home_score": 0.6323,
+    "freshness_score": 0.5974687123507568,
+    "home_score": 0.6089,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -168,8 +271,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7461699908639114,
-    "home_score": 0.6288,
+    "freshness_score": 0.6863272958199119,
+    "home_score": 0.6018,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -206,8 +309,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6272148375714718,
-    "home_score": 0.6222,
+    "freshness_score": 0.5769078951772221,
+    "home_score": 0.5996,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -244,13 +347,50 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.1,
-    "freshness_score": 0.7058465473659892,
-    "home_score": 0.6156,
+    "freshness_score": 0.6492377858173779,
+    "home_score": 0.5902,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 22, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3b85d28d31b52b730b52916772cf70456e9a5549",
+    "title": "The Weeknd to present Anime of the Year at 2026 Crunchyroll Anime Awards in Tokyo",
+    "url": "https://www.bandwagon.asia/articles/the-weeknd-to-present-anime-of-the-year-at-2026-crunchyroll-anime-awards-in-tokyo",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-10T02:17:00Z",
+    "summary": "Global superstar The Weeknd is set to make a special appearance at the 10th Crunchyroll Anime Awards , taking place on 23 May in Tokyo, Japan",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.5292174429876452,
+    "home_score": 0.5841,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "23 May",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -282,48 +422,11 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6961108828842947,
-    "home_score": 0.6062,
+    "freshness_score": 0.6402829199065272,
+    "home_score": 0.5811,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3b85d28d31b52b730b52916772cf70456e9a5549",
-    "title": "The Weeknd to present Anime of the Year at 2026 Crunchyroll Anime Awards in Tokyo",
-    "url": "https://www.bandwagon.asia/articles/the-weeknd-to-present-anime-of-the-year-at-2026-crunchyroll-anime-awards-in-tokyo",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-10T02:17:00Z",
-    "summary": "Global superstar The Weeknd is set to make a special appearance at the 10th Crunchyroll Anime Awards , taking place on 23 May in Tokyo, Japan",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.5753616125783206,
-    "home_score": 0.6049,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "23 May",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -349,8 +452,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7358781500867793,
-    "home_score": 0.6041,
+    "freshness_score": 0.6768608589441787,
+    "home_score": 0.5776,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -386,8 +489,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7257282638421405,
-    "home_score": 0.5996,
+    "freshness_score": 0.6675249919615425,
+    "home_score": 0.5734,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -421,8 +524,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7157183732775279,
-    "home_score": 0.5951,
+    "freshness_score": 0.6583178929122213,
+    "home_score": 0.5692,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -435,32 +538,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "93c1a5b41728b52ee4ea6d4a8f7bbbf1dfc4be4b",
-    "title": "An Underrated JRPG Just Offered a Solution to Gaming\u2019s Biggest Problem - ComicBook.com",
-    "url": "https://comicbook.com/gaming/feature/an-underrated-jrpg-just-offered-a-solution-to-gamings-biggest-problem/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-11T01:00:00Z",
-    "summary": "An Underrated JRPG Just Offered a Solution to Gaming\u2019s Biggest Problem ComicBook",
-    "content": "",
-    "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7887685588602432,
-    "home_score": 0.5949,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -482,8 +559,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6904938761995532,
-    "home_score": 0.5837,
+    "freshness_score": 0.6351163963455192,
+    "home_score": 0.5588,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -508,8 +585,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6865094976058135,
-    "home_score": 0.5819,
+    "freshness_score": 0.6314515644969705,
+    "home_score": 0.5572,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -537,8 +614,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6833385544264976,
-    "home_score": 0.5805,
+    "freshness_score": 0.6285349305654866,
+    "home_score": 0.5558,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -563,108 +640,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.680969961361614,
-    "home_score": 0.5794,
+    "freshness_score": 0.6263562985051719,
+    "home_score": 0.5549,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7b691f274884adfbd312adddc199c4d26810ea97",
-    "title": "New Concept Next Yo-kai Watch Holy Horror Mansion Teaser Appears",
-    "url": "https://www.siliconera.com/new-concept-next-yo-kai-watch-holy-horror-mansion-teaser-appears/?utm_source=rss&utm_medium=rss&utm_campaign=new-concept-next-yo-kai-watch-holy-horror-mansion-teaser-appears",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T14:00:00Z",
-    "summary": "As part of the Level-5 Vision 2026 Craftmanship stream , the company once again teased its \u201cNew Concept Next Yo-kai Watch \u201d game called Holy Horror Mansion",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6770405389610886,
-    "home_score": 0.5777,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a716deaaa3945a4a233797a5477545209b78e421",
-    "title": "Tears Revolude \u2013 A Classic JRPG Journey Rooted In Art, Memory And Destiny - TheXboxHub",
-    "url": "https://www.thexboxhub.com/tears-revolude-a-classic-jrpg-journey-rooted-in-art-memory-and-destiny/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T12:11:19Z",
-    "summary": "Tears Revolude \u2013 A Classic JRPG Journey Rooted In Art, Memory And Destiny TheXboxHub",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6601961534107726,
-    "home_score": 0.5371,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0820ae5f09e2fc923b33bbf5f4cd43f860c3dc24",
-    "title": "HoYo FEST 2023 in Singapore to take place at Anime Festival Asia in November - Yahoo News Singapore",
-    "url": "https://sg.news.yahoo.com/hoyo-fest-2023-in-singapore-to-take-place-at-anime-festival-asia-in-november-054746186.html",
-    "source_name": "Google News HoyoFest",
-    "source_type": "rss",
-    "published_at": "2023-09-11T07:00:00Z",
-    "summary": "HoYo FEST 2023 in Singapore to take place at Anime Festival Asia in November Yahoo News Singapore",
-    "content": "",
-    "categories": [
-      "events",
-      "gacha",
-      "merch",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore",
-      "hoyofest"
-    ],
-    "entity_tags": [
-      "AFA Singapore",
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 1.0,
-    "freshness_score": 2.629602261799921e-137,
-    "home_score": 0.5185,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -693,7 +673,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 3.88047024488397e-179,
+    "freshness_score": 3.569189178463281e-179,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -707,33 +687,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "94cb2543588538b6440f858ed53cbb699e4339d5",
-    "title": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced - Persona Central",
-    "url": "https://personacentral.com/prime-1-hulkenberg-ann-figures/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T07:05:51Z",
-    "summary": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced Persona Central",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6151259914534878,
-    "home_score": 0.5168,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -761,7 +714,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 9.677669610906425e-21,
+    "freshness_score": 8.901507009499846e-21,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -802,7 +755,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 6.975004539599235e-19,
+    "freshness_score": 6.415483519616359e-19,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -845,7 +798,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 9.553237563356406e-30,
+    "freshness_score": 8.786895802166394e-30,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -886,7 +839,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.1633547266710298e-131,
+    "freshness_score": 1.0700327190568909e-131,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -903,45 +856,30 @@
     "result_type": "article"
   },
   {
-    "id": "aabff789209ecaf436a40cb987f86eba85354458",
-    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
-    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
-    "source_name": "Google News SG ACG",
+    "id": "94cb2543588538b6440f858ed53cbb699e4339d5",
+    "title": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced - Persona Central",
+    "url": "https://personacentral.com/prime-1-hulkenberg-ann-figures/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2025-11-24T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
+    "published_at": "2026-04-10T07:05:51Z",
+    "summary": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced Persona Central",
     "content": "",
     "categories": [
-      "events",
-      "games",
-      "anime"
+      "games"
     ],
     "tags": [
-      "afa",
-      "singapore"
+      "jrpg"
     ],
     "entity_tags": [
-      "AFA Singapore"
+      "Persona"
     ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.91,
-    "freshness_score": 9.154503178759041e-21,
-    "home_score": 0.4855,
-    "source_quality": 0.72,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5657889198578877,
+    "home_score": 0.4946,
+    "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -972,55 +910,12 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 6.778532615230664e-52,
+    "freshness_score": 6.234776635966241e-52,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
-    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
-    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
-    "source_name": "Google News Artist Alley",
-    "source_type": "rss",
-    "published_at": "2025-12-07T08:00:00Z",
-    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.84,
-    "freshness_score": 6.9750637383716415e-19,
-    "home_score": 0.477,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
@@ -1058,7 +953,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.581117152115987e-19,
+    "freshness_score": 3.2938493947234384e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1101,7 +996,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.838606844433052e-19,
+    "freshness_score": 1.6911186607702466e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1145,7 +1040,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 5.759128493932354e-177,
+    "freshness_score": 5.2971464206031675e-177,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1186,7 +1081,49 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.8467991588834263e-20,
+    "freshness_score": 4.458058294622656e-20,
+    "home_score": 0.4685,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "aabff789209ecaf436a40cb987f86eba85354458",
+    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
+    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-11-24T08:00:00Z",
+    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "anime"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 8.42018444487133e-21,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1227,7 +1164,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.1650225730704729e-23,
+    "freshness_score": 1.0715811351577681e-23,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1269,7 +1206,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 7.059414564935865e-29,
+    "freshness_score": 6.493209343045709e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1313,7 +1250,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.3333511835410062e-29,
+    "freshness_score": 1.2264088306316852e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1354,7 +1291,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.2775470412930304e-20,
+    "freshness_score": 1.1750763087920356e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1368,31 +1305,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
-    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
-    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-09T15:04:24Z",
-    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4923890965134139,
-    "home_score": 0.4616,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1421,7 +1333,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.00039328850543084897,
+    "freshness_score": 0.00036174316300598776,
     "home_score": 0.4612,
     "source_quality": 0.79,
     "image_url": null,
@@ -1454,7 +1366,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.1086611543357264e-35,
+    "freshness_score": 1.019736364890055e-35,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1486,7 +1398,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.748096281206381e-38,
+    "freshness_score": 2.5276737658880225e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1495,6 +1407,48 @@
       "date_label": null,
       "venue": null,
       "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5580feb3dbd688be1d9ee15682340476816cc749",
+    "title": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out - Geek Culture",
+    "url": "https://geekculture.co/3-day-hoyofest-singapore-2025-debuts-artist-alley-tickets-all-sold-out/",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2025-07-26T07:00:00Z",
+    "summary": "3-Day HoYoFest Singapore 2025 Debuts Artist Alley, Tickets All Sold Out Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7699999999999999,
+    "freshness_score": 2.5276737367885076e-38,
+    "home_score": 0.461,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": "Sold out",
       "ticket_url": null,
       "guest_status": "Lineup details mentioned",
       "guest_names": [],
@@ -1527,7 +1481,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 4.733108213098787e-42,
+    "freshness_score": 4.353469543331404e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1569,7 +1523,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.956482980152539e-42,
+    "freshness_score": 1.7995551089873245e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1602,7 +1556,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.5397023916183156e-46,
+    "freshness_score": 1.4162041444779718e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1635,7 +1589,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.4010611264369018e-17,
+    "freshness_score": 1.2886880508950844e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1677,7 +1631,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 9.73505629151777e-19,
+    "freshness_score": 8.954249387747106e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1719,7 +1673,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 6.975472693826001e-19,
+    "freshness_score": 6.416000102300381e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1762,7 +1716,49 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.472883330357309e-20,
+    "freshness_score": 3.19433832364716e-20,
+    "home_score": 0.451,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "70c37bb1f194ac2a9a6bbac5faaaa98ee81e4fed",
+    "title": "Singapore Comic Con (SGCC) 2025: Ultimate Preview Night Sneak Peek + Exhibitor Highlights - Geek Culture",
+    "url": "https://geekculture.co/singapore-comic-con-sgcc-2025-preview-night-sneak-peek-exhibitor-highlights/",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2025-11-20T08:00:00Z",
+    "summary": "Singapore Comic Con (SGCC) 2025: Ultimate Preview Night Sneak Peek + Exhibitor Highlights Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.76,
+    "freshness_score": 2.219536513751368e-21,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1804,7 +1800,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.6766907095681407e-22,
+    "freshness_score": 1.5422105748792284e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1818,6 +1814,31 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
+    "result_type": "article"
+  },
+  {
+    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
+    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
+    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T15:04:24Z",
+    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.45289631792129137,
+    "home_score": 0.4438,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1847,7 +1868,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 4.920252465927551e-43,
+    "freshness_score": 4.525641355849951e-43,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -1889,7 +1910,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 3.8352772964004753e-38,
+    "freshness_score": 3.5276528934280925e-38,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1922,7 +1943,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 6.605584593174531e-42,
+    "freshness_score": 6.075756151348094e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1956,7 +1977,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 4.589788168222161e-43,
+    "freshness_score": 4.221645075063495e-43,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1989,7 +2010,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 7.90509563263405e-47,
+    "freshness_score": 7.271034484256227e-47,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2021,7 +2042,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 4.724761036882075e-66,
+    "freshness_score": 4.3458286114971474e-66,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2058,7 +2079,7 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 3.5810867473860623e-19,
+    "freshness_score": 3.2938190765677427e-19,
     "home_score": 0.406,
     "source_quality": 0.79,
     "image_url": null,
@@ -2072,31 +2093,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "cfc5502515f6bec14346086012979d7a96ac2449",
-    "title": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam - Turn Based Lovers",
-    "url": "https://turnbasedlovers.com/news/diorama-break-is-a-new-tactics-jrpg-with-a-free-chapter-1-demo-on-steam/",
-    "source_name": "Google News JRPG Demo",
-    "source_type": "rss",
-    "published_at": "2026-04-08T10:32:41Z",
-    "summary": "Diorama Break Is a New Tactics JRPG With a Free Chapter 1 Demo on Steam Turn Based Lovers",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.33130147280188904,
-    "home_score": 0.3951,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -2124,7 +2120,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.49,
-    "freshness_score": 4.7247610283330385e-66,
+    "freshness_score": 4.345828603650431e-66,
     "home_score": 0.3925,
     "source_quality": 0.8,
     "image_url": null,
@@ -2154,7 +2150,7 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 1.728999672792449e-21,
+    "freshness_score": 1.5903220116198094e-21,
     "home_score": 0.3895,
     "source_quality": 0.75,
     "image_url": null,
