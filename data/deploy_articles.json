@@ -5,7 +5,7 @@
     "url": "https://www.cbr.com/best-anime-season-spring-2006/",
     "source_name": "Google News Anime And Manga",
     "source_type": "rss",
-    "published_at": "2026-04-11T18:18:35Z",
+    "published_at": "2026-04-11T22:15:12Z",
     "summary": "20 Years Ago, Anime's Best Spring Lineup of All Time Debuted Comic Book Resources",
     "content": "",
     "categories": [
@@ -20,11 +20,46 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9226612013407819,
-    "home_score": 0.7552,
+    "freshness_score": 0.8923948605449273,
+    "home_score": 0.7416,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "55b6cb863e5367ae63f86b1fb4e3825b7b4ff5ba",
+    "title": "Final Fantasy VII Ever Crisis next story update \"Looming Threat\" arrives April 15, 2026 - Nova Crystallis",
+    "url": "https://novacrystallis.com/2026/04/final-fantasy-vii-ever-crisis-next-story-update-looming-threat-arrives-april-15-2026/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-12T03:48:05Z",
+    "summary": "Final Fantasy VII Ever Crisis next story update \"Looming Threat\" arrives April 15, 2026 Nova Crystallis",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9638981010691211,
+    "home_score": 0.6738,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 15, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -46,8 +81,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9316062143351885,
-    "home_score": 0.6922,
+    "freshness_score": 0.8530203792800204,
+    "home_score": 0.6569,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -76,8 +111,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8571190796129584,
-    "home_score": 0.6587,
+    "freshness_score": 0.7848166220628123,
+    "home_score": 0.6262,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -110,40 +145,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9213933001513476,
-    "home_score": 0.6546,
+    "freshness_score": 0.8436722841599538,
+    "home_score": 0.6197,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1d40a554974dc90cad95c43f319ef23f5d142d00",
-    "title": "Singapore to host BLAST Premier Open in March 2027 - Esports Charts",
-    "url": "https://escharts.com/news/singapore-host-blast-premier-open-march-2027",
-    "source_name": "Google News SG ACG",
-    "source_type": "rss",
-    "published_at": "2026-04-10T15:04:46Z",
-    "summary": "Singapore to host BLAST Premier Open in March 2027 Esports Charts",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "anime",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6321353810718475,
-    "home_score": 0.65,
-    "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -166,8 +170,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8998374564280682,
-    "home_score": 0.6449,
+    "freshness_score": 0.8239347105676705,
+    "home_score": 0.6108,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -191,32 +195,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.874811223673422,
-    "home_score": 0.6337,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "96b962c60478013fb65f132733a8935ec398324e",
-    "title": "Nintendo Switch eShop Cuts Price of Some of Its Best RPGs by $63 - ComicBook.com",
-    "url": "https://comicbook.com/gaming/deals/nintendo-switch-games-rpg-eshop-sale-2026/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-11T12:05:00Z",
-    "summary": "Nintendo Switch eShop Cuts Price of Some of Its Best RPGs by $63 ComicBook",
-    "content": "",
-    "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8462392281832093,
-    "home_score": 0.6208,
+    "freshness_score": 0.8010194805261374,
+    "home_score": 0.6005,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -242,49 +222,11 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5974687123507568,
-    "home_score": 0.6089,
+    "freshness_score": 0.547069658225566,
+    "home_score": 0.5862,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "df64469e079df4c5969c5664ddb5d31a5a333daa",
-    "title": "Wit Studio Will Remove Ascendance of a Bookworm Anime AI Scenes",
-    "url": "https://www.siliconera.com/wit-studio-will-remove-ascendance-of-a-bookworm-anime-ai-scenes/?utm_source=rss&utm_medium=rss&utm_campaign=wit-studio-will-remove-ascendance-of-a-bookworm-anime-ai-scenes",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T21:00:00Z",
-    "summary": "Wit Studio confirmed that it used generative AI when creating the opening for season 4 of the anime adaptation of Ascendance of a Bookworm , and it said it will replace the scenes",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.6863272958199119,
-    "home_score": 0.6018,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 11, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -309,13 +251,51 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5769078951772221,
-    "home_score": 0.5996,
+    "freshness_score": 0.5282432344067859,
+    "home_score": 0.5777,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "May 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "df64469e079df4c5969c5664ddb5d31a5a333daa",
+    "title": "Wit Studio Will Remove Ascendance of a Bookworm Anime AI Scenes",
+    "url": "https://www.siliconera.com/wit-studio-will-remove-ascendance-of-a-bookworm-anime-ai-scenes/?utm_source=rss&utm_medium=rss&utm_campaign=wit-studio-will-remove-ascendance-of-a-bookworm-anime-ai-scenes",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T21:00:00Z",
+    "summary": "Wit Studio confirmed that it used generative AI when creating the opening for season 4 of the anime adaptation of Ascendance of a Bookworm , and it said it will replace the scenes",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.6284320147385718,
+    "home_score": 0.5758,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 11, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -347,8 +327,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.1,
-    "freshness_score": 0.6492377858173779,
-    "home_score": 0.5902,
+    "freshness_score": 0.5944711979939525,
+    "home_score": 0.5655,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -384,8 +364,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5292174429876452,
-    "home_score": 0.5841,
+    "freshness_score": 0.484575099611677,
+    "home_score": 0.5641,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
     "event_metadata": {
@@ -422,8 +402,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6402829199065272,
-    "home_score": 0.5811,
+    "freshness_score": 0.5862717220058978,
+    "home_score": 0.5568,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -452,8 +432,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6768608589441787,
-    "home_score": 0.5776,
+    "freshness_score": 0.6197641211620525,
+    "home_score": 0.5519,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -489,8 +469,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6675249919615425,
-    "home_score": 0.5734,
+    "freshness_score": 0.611215783193679,
+    "home_score": 0.548,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -524,8 +504,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6583178929122213,
-    "home_score": 0.5692,
+    "freshness_score": 0.6027853508588285,
+    "home_score": 0.5443,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -559,8 +539,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6351163963455192,
-    "home_score": 0.5588,
+    "freshness_score": 0.5815410216222571,
+    "home_score": 0.5347,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -585,8 +565,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6314515644969705,
-    "home_score": 0.5572,
+    "freshness_score": 0.5781853374119155,
+    "home_score": 0.5332,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -614,8 +594,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6285349305654866,
-    "home_score": 0.5558,
+    "freshness_score": 0.5755147367933638,
+    "home_score": 0.532,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -640,8 +620,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6263562985051719,
-    "home_score": 0.5549,
+    "freshness_score": 0.5735198835241299,
+    "home_score": 0.5311,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -673,7 +653,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 3.569189178463281e-179,
+    "freshness_score": 3.268150039358083e-179,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -714,7 +694,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 8.901507009499846e-21,
+    "freshness_score": 8.150660826093864e-21,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -755,7 +735,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 6.415483519616359e-19,
+    "freshness_score": 5.8743822343280335e-19,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -798,7 +778,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 8.786895802166394e-30,
+    "freshness_score": 8.045782435728661e-30,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -839,7 +819,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 1.0700327190568909e-131,
+    "freshness_score": 9.79782923364335e-132,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -856,30 +836,45 @@
     "result_type": "article"
   },
   {
-    "id": "94cb2543588538b6440f858ed53cbb699e4339d5",
-    "title": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced - Persona Central",
-    "url": "https://personacentral.com/prime-1-hulkenberg-ann-figures/",
-    "source_name": "Google News JRPG",
+    "id": "aabff789209ecaf436a40cb987f86eba85354458",
+    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
+    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
+    "source_name": "Google News SG ACG",
     "source_type": "rss",
-    "published_at": "2026-04-10T07:05:51Z",
-    "summary": "Prime 1 Studio: Metaphor: ReFantazio Hulkenberg and Persona 5 Panther Statues Announced Persona Central",
+    "published_at": "2025-11-24T08:00:00Z",
+    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
     "content": "",
     "categories": [
-      "games"
+      "events",
+      "games",
+      "anime"
     ],
     "tags": [
-      "jrpg"
+      "afa",
+      "singapore"
     ],
     "entity_tags": [
-      "Persona"
+      "AFA Singapore"
     ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5657889198578877,
-    "home_score": 0.4946,
-    "source_quality": 0.76,
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.91,
+    "freshness_score": 7.710000493020229e-21,
+    "home_score": 0.4855,
+    "source_quality": 0.72,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -910,12 +905,55 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 6.234776635966241e-52,
+    "freshness_score": 5.708911610941554e-52,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4834a4b0abb87000c9dc1f4360e9ef4502ba1f54",
+    "title": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup - Alvinology",
+    "url": "https://alvinology.com/2025/12/07/singapore-comic-con-2025-shines-with-power-rangers-stars-exclusive-collectibles-and-huge-exhibitor-lineup-in-biggest-edition-yet/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Singapore Comic Con 2025 Shines with Power Rangers Stars, Exclusive Collectibles and Huge Exhibitor Lineup Alvinology",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 5.8744310332415e-19,
+    "home_score": 0.477,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
@@ -953,7 +991,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.2938493947234384e-19,
+    "freshness_score": 3.016033476905055e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -996,7 +1034,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.6911186607702466e-19,
+    "freshness_score": 1.5484832126204613e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1040,7 +1078,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 5.2971464206031675e-177,
+    "freshness_score": 4.850364730740949e-177,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1081,49 +1119,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.458058294622656e-20,
-    "home_score": 0.4685,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "aabff789209ecaf436a40cb987f86eba85354458",
-    "title": "Anime Festival Asia Singapore 2025 Is Back - Time Out",
-    "url": "https://www.timeout.com/singapore/things-to-do/anime-festival-asia-singapore-2025",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-11-24T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore 2025 Is Back Time Out",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.8300000000000001,
-    "freshness_score": 8.42018444487133e-21,
+    "freshness_score": 4.0820094698706965e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1164,7 +1160,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.0715811351577681e-23,
+    "freshness_score": 9.811904764647098e-24,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1206,7 +1202,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 6.493209343045709e-29,
+    "freshness_score": 5.945490234421794e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1250,7 +1246,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.2264088306316852e-29,
+    "freshness_score": 1.1229580549943046e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1291,7 +1287,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.1750763087920356e-20,
+    "freshness_score": 1.0759558518130339e-20,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1333,8 +1329,8 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.00036174316300598776,
-    "home_score": 0.4612,
+    "freshness_score": 0.00033122937092665766,
+    "home_score": 0.4611,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1366,7 +1362,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.019736364890055e-35,
+    "freshness_score": 9.337194730200615e-36,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1398,7 +1394,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.5276737658880225e-38,
+    "freshness_score": 2.3144592044052902e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1440,7 +1436,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.5276737367885076e-38,
+    "freshness_score": 2.3144591788587237e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1481,7 +1477,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 4.353469543331404e-42,
+    "freshness_score": 3.98624529362716e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1495,39 +1491,6 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "article"
-  },
-  {
-    "id": "d9df7c70d4d5e3fa197bfe3c697eaa2b3f9e542e",
-    "title": "HoYo FEST comes to Southeast Asia for the first time this November - HardwareZone",
-    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/tech-news-hoyo-fest-comes-southeast-asia-first-time-november",
-    "source_name": "Google News HoyoFest",
-    "source_type": "rss",
-    "published_at": "2025-06-27T15:23:34Z",
-    "summary": "HoYo FEST comes to Southeast Asia for the first time this November HardwareZone",
-    "content": "",
-    "categories": [
-      "events",
-      "gacha",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "hoyofest"
-    ],
-    "entity_tags": [
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.7995551089873245e-42,
-    "home_score": 0.461,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1556,7 +1519,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.4162041444779718e-46,
+    "freshness_score": 1.2967443661045926e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1589,7 +1552,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.2886880508950844e-17,
+    "freshness_score": 1.1799838595294473e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1631,7 +1594,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 8.954249387747106e-19,
+    "freshness_score": 8.198935146005666e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1673,7 +1636,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 6.416000102300381e-19,
+    "freshness_score": 5.874793790557822e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1716,7 +1679,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 3.19433832364716e-20,
+    "freshness_score": 2.9248875675971315e-20,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1758,7 +1721,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.219536513751368e-21,
+    "freshness_score": 2.0323128318259595e-21,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1800,7 +1763,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.5422105748792284e-22,
+    "freshness_score": 1.4121210987922058e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1817,25 +1780,28 @@
     "result_type": "article"
   },
   {
-    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
-    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
-    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
+    "id": "4e41b015c97d9c175430626b8d54634a87cfd14c",
+    "title": "Wuthering Waves Gets Persona 5 Royal Motorbike Livery - Siliconera",
+    "url": "https://www.siliconera.com/wuthering-waves-gets-persona-5-royal-motorbike-livery/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-09T15:04:24Z",
-    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
+    "published_at": "2026-04-09T13:00:00Z",
+    "summary": "Wuthering Waves Gets Persona 5 Royal Motorbike Livery Siliconera",
     "content": "",
     "categories": [
-      "games"
+      "games",
+      "events"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [
-      "Final Fantasy"
+      "Persona"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.45289631792129137,
-    "home_score": 0.4438,
+    "freshness_score": 0.4029224295211349,
+    "home_score": 0.4453,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1868,7 +1834,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 4.525641355849951e-43,
+    "freshness_score": 4.1439014395619785e-43,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -1910,7 +1876,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 3.5276528934280925e-38,
+    "freshness_score": 3.2300880019998897e-38,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1943,7 +1909,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 6.075756151348094e-42,
+    "freshness_score": 5.563253427100636e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1977,7 +1943,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 4.221645075063495e-43,
+    "freshness_score": 3.865540498108326e-43,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2010,11 +1976,53 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 7.271034484256227e-47,
+    "freshness_score": 6.6577075329225275e-47,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0c1ef2cfec436069d39f432edb3d1342bf657178",
+    "title": "HoYo Fest 2024 in pictures: One of the biggest gaming festivals is back - HardwareZone",
+    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/feature-hoyo-fest-2024-gallery-hoyoverse-genshin-impact-honkai",
+    "source_name": "Google News HoyoFest",
+    "source_type": "rss",
+    "published_at": "2024-08-16T07:00:00Z",
+    "summary": "HoYo Fest 2024 in pictures: One of the biggest gaming festivals is back HardwareZone",
+    "content": "",
+    "categories": [
+      "events",
+      "gacha",
+      "merch",
+      "games"
+    ],
+    "tags": [
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.6499999999999999,
+    "freshness_score": 3.675775110791834e-88,
+    "home_score": 0.431,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -2042,7 +2050,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 4.3458286114971474e-66,
+    "freshness_score": 3.9792559830796107e-66,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2057,6 +2065,31 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "de68b51984436fa8ba39d45aabb79533a9ac5d97",
+    "title": "The Spectacular FINAL FANTASY VI - superjumpmagazine.com",
+    "url": "https://www.superjumpmagazine.com/the-spectacular-final-fantasy-vi/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T15:04:24Z",
+    "summary": "The Spectacular FINAL FANTASY VI superjumpmagazine",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.4146937816447041,
+    "home_score": 0.4266,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0f2cff20dc654c3b473926f561ac2712f4bc63b7",
@@ -2079,7 +2112,7 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 3.2938190765677427e-19,
+    "freshness_score": 3.016008413154291e-19,
     "home_score": 0.406,
     "source_quality": 0.79,
     "image_url": null,
@@ -2120,7 +2153,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.49,
-    "freshness_score": 4.345828603650431e-66,
+    "freshness_score": 3.979255975418968e-66,
     "home_score": 0.3925,
     "source_quality": 0.8,
     "image_url": null,
@@ -2150,7 +2183,7 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 1.5903220116198094e-21,
+    "freshness_score": 1.4561715140749365e-21,
     "home_score": 0.3895,
     "source_quality": 0.75,
     "image_url": null,
