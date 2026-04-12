@@ -20,9 +20,34 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8923948605449273,
-    "home_score": 0.7416,
+    "freshness_score": 0.8251745228395719,
+    "home_score": 0.7113,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "319317540b45435aa1e6be2c18d8f6a87dfae1f8",
+    "title": "How to Evaluate an AI Persona: Beyond Benchmarks and Vibes - HackerNoon",
+    "url": "https://hackernoon.com/how-to-evaluate-an-ai-persona-beyond-benchmarks-and-vibes",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-12T09:29:32Z",
+    "summary": "How to Evaluate an AI Persona: Beyond Benchmarks and Vibes HackerNoon",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9645974348380579,
+    "home_score": 0.6741,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -33,7 +58,7 @@
     "url": "https://novacrystallis.com/2026/04/final-fantasy-vii-ever-crisis-next-story-update-looming-threat-arrives-april-15-2026/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-12T03:48:05Z",
+    "published_at": "2026-04-12T06:45:56Z",
     "summary": "Final Fantasy VII Ever Crisis next story update \"Looming Threat\" arrives April 15, 2026 Nova Crystallis",
     "content": "",
     "categories": [
@@ -46,8 +71,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9638981010691211,
-    "home_score": 0.6738,
+    "freshness_score": 0.9287508164177726,
+    "home_score": 0.6579,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -81,8 +106,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8530203792800204,
-    "home_score": 0.6569,
+    "freshness_score": 0.7887711909141073,
+    "home_score": 0.6279,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -111,8 +136,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7848166220628123,
-    "home_score": 0.6262,
+    "freshness_score": 0.725704517763474,
+    "home_score": 0.5996,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -145,8 +170,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8436722841599538,
-    "home_score": 0.6197,
+    "freshness_score": 0.7801217820081058,
+    "home_score": 0.5911,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -170,33 +195,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8239347105676705,
-    "home_score": 0.6108,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2fe25182b0deac812c085b90b4136bd6651459a9",
-    "title": "Final Fantasy XIV Fanfest Digital Items Revealed, Includes Cloud's Bike From Final Fantasy VII - PlayStation Universe",
-    "url": "https://www.psu.com/news/final-fantasy-xiv-fanfest-digital-items-revealed-includes-clouds-bike-from-final-fantasy-vii/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-11T14:28:27Z",
-    "summary": "Final Fantasy XIV Fanfest Digital Items Revealed, Includes Cloud's Bike From Final Fantasy VII PlayStation Universe",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8010194805261374,
-    "home_score": 0.6005,
+    "freshness_score": 0.7618709627231394,
+    "home_score": 0.5828,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -222,8 +222,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.547069658225566,
-    "home_score": 0.5862,
+    "freshness_score": 0.5058612103335864,
+    "home_score": 0.5676,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -251,8 +251,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5282432344067859,
-    "home_score": 0.5777,
+    "freshness_score": 0.48845290156767923,
+    "home_score": 0.5598,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -289,13 +289,50 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6284320147385718,
-    "home_score": 0.5758,
+    "freshness_score": 0.5810987436020872,
+    "home_score": 0.5545,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 11, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3b85d28d31b52b730b52916772cf70456e9a5549",
+    "title": "The Weeknd to present Anime of the Year at 2026 Crunchyroll Anime Awards in Tokyo",
+    "url": "https://www.bandwagon.asia/articles/the-weeknd-to-present-anime-of-the-year-at-2026-crunchyroll-anime-awards-in-tokyo",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-10T02:17:00Z",
+    "summary": "Global superstar The Weeknd is set to make a special appearance at the 10th Crunchyroll Anime Awards , taking place on 23 May in Tokyo, Japan",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.4480769571392982,
+    "home_score": 0.5476,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "23 May",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -327,50 +364,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.1,
-    "freshness_score": 0.5944711979939525,
-    "home_score": 0.5655,
+    "freshness_score": 0.5496958450911664,
+    "home_score": 0.5454,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 22, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3b85d28d31b52b730b52916772cf70456e9a5549",
-    "title": "The Weeknd to present Anime of the Year at 2026 Crunchyroll Anime Awards in Tokyo",
-    "url": "https://www.bandwagon.asia/articles/the-weeknd-to-present-anime-of-the-year-at-2026-crunchyroll-anime-awards-in-tokyo",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-10T02:17:00Z",
-    "summary": "Global superstar The Weeknd is set to make a special appearance at the 10th Crunchyroll Anime Awards , taking place on 23 May in Tokyo, Japan",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.484575099611677,
-    "home_score": 0.5641,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "23 May",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -402,8 +402,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.5862717220058978,
-    "home_score": 0.5568,
+    "freshness_score": 0.5421139509953234,
+    "home_score": 0.537,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -432,8 +432,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6197641211620525,
-    "home_score": 0.5519,
+    "freshness_score": 0.5730837130376885,
+    "home_score": 0.5309,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -469,8 +469,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.611215783193679,
-    "home_score": 0.548,
+    "freshness_score": 0.565179233143551,
+    "home_score": 0.5273,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -504,8 +504,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6027853508588285,
-    "home_score": 0.5443,
+    "freshness_score": 0.557383778433232,
+    "home_score": 0.5238,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -518,113 +518,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "4d4e9b1508145b7d321bad5579c03e13867e4e93",
-    "title": "Inazuma Eleven RE Remake Coming to Switch 2, Not PS4",
-    "url": "https://www.siliconera.com/inazuma-eleven-re-remake-coming-to-switch-2-not-ps4/?utm_source=rss&utm_medium=rss&utm_campaign=inazuma-eleven-re-remake-coming-to-switch-2-not-ps4",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T15:25:00Z",
-    "summary": "As part of the many Level-5 Vision 2026 Craftmanship announcements, there was an update confirming Inazuma Eleven RE will be on the Switch 2, but the remake won\u2019t be on the PS4",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5815410216222571,
-    "home_score": 0.5347,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bce525e5e351f00d8191d26fb62fcd85cc004bd6",
-    "title": "Decapolice Won\u2019t Be on the Switch or PS4, Will Be on Switch 2",
-    "url": "https://www.siliconera.com/decapolice-wont-be-on-the-switch-or-ps4-will-be-on-switch-2/?utm_source=rss&utm_medium=rss&utm_campaign=decapolice-wont-be-on-the-switch-or-ps4-will-be-on-switch-2",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T15:00:00Z",
-    "summary": "Part of the Level-5 Vision 2026 Craftmanship stream involved a brief update on the updated game Decapolice , and this time it involved the Switch and PS4 versions being canceled",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5781853374119155,
-    "home_score": 0.5332,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c62f5e683b20d8025865d175f1bdcb3457a8d6a2",
-    "title": "Snack World Reloaded Remake Heading to Switch 2, PS5, and PC",
-    "url": "https://www.siliconera.com/snack-world-reloaded-remake-heading-to-switch-2-ps5-and-pc/?utm_source=rss&utm_medium=rss&utm_campaign=snack-world-reloaded-remake-heading-to-switch-2-ps5-and-pc",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T14:40:00Z",
-    "summary": "Level-5 is bringing back Snack World once again, as the former 3DS and Switch game is getting a Switch 2, PS5, and PC remake called Snack World Reloaded",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5755147367933638,
-    "home_score": 0.532,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4667f23fa9792bbe4d186d3b635f04271ef29891",
-    "title": "Fantasy Life i Android and iOS Mobile Ports Confirmed",
-    "url": "https://www.siliconera.com/fantasy-life-i-android-and-ios-mobile-ports-confirmed/?utm_source=rss&utm_medium=rss&utm_campaign=fantasy-life-i-android-and-ios-mobile-ports-confirmed",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T14:25:00Z",
-    "summary": "Level-5 confirmed we\u2019ll see Fantasy Life i: The Girl Who Steals Time on mobile platforms, as Android and Apple iOS versions came up during its Level-5 2026 Craftmanship stream",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5735198835241299,
-    "home_score": 0.5311,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -653,7 +546,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 3.268150039358083e-179,
+    "freshness_score": 3.021953983603948e-179,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -667,6 +560,113 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "4d4e9b1508145b7d321bad5579c03e13867e4e93",
+    "title": "Inazuma Eleven RE Remake Coming to Switch 2, Not PS4",
+    "url": "https://www.siliconera.com/inazuma-eleven-re-remake-coming-to-switch-2-not-ps4/?utm_source=rss&utm_medium=rss&utm_campaign=inazuma-eleven-re-remake-coming-to-switch-2-not-ps4",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T15:25:00Z",
+    "summary": "As part of the many Level-5 Vision 2026 Craftmanship announcements, there was an update confirming Inazuma Eleven RE will be on the Switch 2, but the remake won\u2019t be on the PS4",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.537739565405325,
+    "home_score": 0.515,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bce525e5e351f00d8191d26fb62fcd85cc004bd6",
+    "title": "Decapolice Won\u2019t Be on the Switch or PS4, Will Be on Switch 2",
+    "url": "https://www.siliconera.com/decapolice-wont-be-on-the-switch-or-ps4-will-be-on-switch-2/?utm_source=rss&utm_medium=rss&utm_campaign=decapolice-wont-be-on-the-switch-or-ps4-will-be-on-switch-2",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T15:00:00Z",
+    "summary": "Part of the Level-5 Vision 2026 Craftmanship stream involved a brief update on the updated game Decapolice , and this time it involved the Switch and PS4 versions being canceled",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5346366304832718,
+    "home_score": 0.5136,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c62f5e683b20d8025865d175f1bdcb3457a8d6a2",
+    "title": "Snack World Reloaded Remake Heading to Switch 2, PS5, and PC",
+    "url": "https://www.siliconera.com/snack-world-reloaded-remake-heading-to-switch-2-ps5-and-pc/?utm_source=rss&utm_medium=rss&utm_campaign=snack-world-reloaded-remake-heading-to-switch-2-ps5-and-pc",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T14:40:00Z",
+    "summary": "Level-5 is bringing back Snack World once again, as the former 3DS and Switch game is getting a Switch 2, PS5, and PC remake called Snack World Reloaded",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5321671788802254,
+    "home_score": 0.5125,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4667f23fa9792bbe4d186d3b635f04271ef29891",
+    "title": "Fantasy Life i Android and iOS Mobile Ports Confirmed",
+    "url": "https://www.siliconera.com/fantasy-life-i-android-and-ios-mobile-ports-confirmed/?utm_source=rss&utm_medium=rss&utm_campaign=fantasy-life-i-android-and-ios-mobile-ports-confirmed",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T14:25:00Z",
+    "summary": "Level-5 confirmed we\u2019ll see Fantasy Life i: The Girl Who Steals Time on mobile platforms, as Android and Apple iOS versions came up during its Level-5 2026 Craftmanship stream",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5303225776947581,
+    "home_score": 0.5116,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -694,7 +694,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.9500000000000001,
-    "freshness_score": 8.150660826093864e-21,
+    "freshness_score": 7.536731827730452e-21,
     "home_score": 0.5075,
     "source_quality": 0.8,
     "image_url": null,
@@ -735,7 +735,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 5.8743822343280335e-19,
+    "freshness_score": 5.431843612511338e-19,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -778,7 +778,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 8.045782435728661e-30,
+    "freshness_score": 7.439664326658102e-30,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -819,7 +819,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 9.79782923364335e-132,
+    "freshness_score": 9.059723052205344e-132,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -861,7 +861,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 7.710000493020229e-21,
+    "freshness_score": 7.129258504362924e-21,
     "home_score": 0.4855,
     "source_quality": 0.72,
     "image_url": null,
@@ -905,7 +905,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 5.708911610941554e-52,
+    "freshness_score": 5.2788482667112086e-52,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -948,7 +948,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 5.8744310332415e-19,
+    "freshness_score": 5.431898795104594e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -991,7 +991,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 3.016033476905055e-19,
+    "freshness_score": 2.7888298458925953e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1034,7 +1034,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.5484832126204613e-19,
+    "freshness_score": 1.4318329803377069e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1078,7 +1078,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 4.850364730740949e-177,
+    "freshness_score": 4.484977384490059e-177,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1119,7 +1119,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 4.0820094698706965e-20,
+    "freshness_score": 3.774537117506586e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1160,7 +1160,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 9.811904764647098e-24,
+    "freshness_score": 9.072835095129774e-24,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1202,7 +1202,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 5.945490234421794e-29,
+    "freshness_score": 5.497653493026472e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1246,7 +1246,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.1229580549943046e-29,
+    "freshness_score": 1.0383726189533288e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1287,7 +1287,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 1.0759558518130339e-20,
+    "freshness_score": 9.949048593621641e-21,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1329,7 +1329,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.00033122937092665766,
+    "freshness_score": 0.00030627756634761207,
     "home_score": 0.4611,
     "source_quality": 0.79,
     "image_url": null,
@@ -1362,7 +1362,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 9.337194730200615e-36,
+    "freshness_score": 8.633815510915225e-36,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1394,7 +1394,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.3144592044052902e-38,
+    "freshness_score": 2.1401089220810884e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1436,7 +1436,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 2.3144591788587237e-38,
+    "freshness_score": 2.140108901406574e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1477,7 +1477,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 3.98624529362716e-42,
+    "freshness_score": 3.685957870802153e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1519,7 +1519,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.2967443661045926e-46,
+    "freshness_score": 1.1990594544517182e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1552,7 +1552,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.1799838595294473e-17,
+    "freshness_score": 1.0911030264250892e-17,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1594,7 +1594,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 8.198935146005666e-19,
+    "freshness_score": 7.581360434064778e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1636,7 +1636,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 5.874793790557822e-19,
+    "freshness_score": 5.432282158476979e-19,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1679,7 +1679,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.9248875675971315e-20,
+    "freshness_score": 2.7045740112032598e-20,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1721,7 +1721,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 2.0323128318259595e-21,
+    "freshness_score": 1.879231366019502e-21,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1763,7 +1763,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.4121210987922058e-22,
+    "freshness_score": 1.3057548125792155e-22,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
@@ -1777,34 +1777,6 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "article"
-  },
-  {
-    "id": "4e41b015c97d9c175430626b8d54634a87cfd14c",
-    "title": "Wuthering Waves Gets Persona 5 Royal Motorbike Livery - Siliconera",
-    "url": "https://www.siliconera.com/wuthering-waves-gets-persona-5-royal-motorbike-livery/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-09T13:00:00Z",
-    "summary": "Wuthering Waves Gets Persona 5 Royal Motorbike Livery Siliconera",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.4029224295211349,
-    "home_score": 0.4453,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1834,7 +1806,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.69,
-    "freshness_score": 4.1439014395619785e-43,
+    "freshness_score": 3.8317719954695505e-43,
     "home_score": 0.4425,
     "source_quality": 0.8,
     "image_url": null,
@@ -1849,6 +1821,34 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "4e41b015c97d9c175430626b8d54634a87cfd14c",
+    "title": "Wuthering Waves Gets Persona 5 Royal Motorbike Livery - Siliconera",
+    "url": "https://www.siliconera.com/wuthering-waves-gets-persona-5-royal-motorbike-livery/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-09T13:00:00Z",
+    "summary": "Wuthering Waves Gets Persona 5 Royal Motorbike Livery Siliconera",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.3725718749856362,
+    "home_score": 0.4317,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "cb2eede0a24cb952afb5694716ab3eb3c847c480",
@@ -1876,7 +1876,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 3.2300880019998897e-38,
+    "freshness_score": 2.9867625859164664e-38,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1909,7 +1909,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 5.563253427100636e-42,
+    "freshness_score": 5.1441685747726083e-42,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1943,7 +1943,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 3.865540498108326e-43,
+    "freshness_score": 3.5743458763986986e-43,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -1976,7 +1976,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 6.6577075329225275e-47,
+    "freshness_score": 6.156176478959474e-47,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2009,7 +2009,7 @@
       "SEA"
     ],
     "sg_relevance": 0.6499999999999999,
-    "freshness_score": 3.675775110791834e-88,
+    "freshness_score": 3.398875688791089e-88,
     "home_score": 0.431,
     "source_quality": 0.79,
     "image_url": null,
@@ -2050,7 +2050,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 3.9792559830796107e-66,
+    "freshness_score": 3.6795280698154157e-66,
     "home_score": 0.4275,
     "source_quality": 0.8,
     "image_url": null,
@@ -2084,8 +2084,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4146937816447041,
-    "home_score": 0.4266,
+    "freshness_score": 0.38345653692064857,
+    "home_score": 0.4126,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -2112,7 +2112,7 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 3.016008413154291e-19,
+    "freshness_score": 2.7888015069418604e-19,
     "home_score": 0.406,
     "source_quality": 0.79,
     "image_url": null,
@@ -2153,7 +2153,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.49,
-    "freshness_score": 3.979255975418968e-66,
+    "freshness_score": 3.6795280592254853e-66,
     "home_score": 0.3925,
     "source_quality": 0.8,
     "image_url": null,
@@ -2183,7 +2183,7 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 1.4561715140749365e-21,
+    "freshness_score": 1.3464842618016927e-21,
     "home_score": 0.3895,
     "source_quality": 0.75,
     "image_url": null,
