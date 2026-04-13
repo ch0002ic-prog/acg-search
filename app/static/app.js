@@ -2,10 +2,18 @@ const elements = {
   searchForm: document.querySelector("#search-form"),
   profileForm: document.querySelector("#profile-form"),
   queryInput: document.querySelector("#query-input"),
+  quickPromptButtons: [...document.querySelectorAll(".quick-prompt-button")],
   userIdInput: document.querySelector("#user-id-input"),
   displayNameInput: document.querySelector("#display-name-input"),
   homeButton: document.querySelector("#home-button"),
   refreshButton: document.querySelector("#refresh-button"),
+  heroKicker: document.querySelector("#hero-kicker"),
+  heroTitle: document.querySelector("#hero-title"),
+  heroDescription: document.querySelector("#hero-description"),
+  heroProfileNote: document.querySelector("#hero-profile-note"),
+  heroStoryCount: document.querySelector("#hero-story-count"),
+  heroSourceCount: document.querySelector("#hero-source-count"),
+  heroClusterCount: document.querySelector("#hero-cluster-count"),
   digestTitle: document.querySelector("#digest-title"),
   digestList: document.querySelector("#digest-list"),
   feedTitle: document.querySelector("#feed-title"),
@@ -115,7 +123,7 @@ function createEntityActionGroup(
     followClassName = "entity-follow-button",
     includeDetail = false,
     detailClassName = "entity-detail-button",
-    detailLabel = "Details",
+    detailLabel = "View storyline",
   } = {},
 ) {
   const group = document.createElement("div");
@@ -132,11 +140,87 @@ function createEntityActionGroup(
   return group;
 }
 
+function friendlyViewerName() {
+  const value = (state.profile?.display_name || state.displayName || "").trim();
+  return value && value.toLowerCase() !== "sg fan" ? value : "";
+}
+
+function updateHeroProfileNote() {
+  if (!elements.heroProfileNote) {
+    return;
+  }
+
+  const profile = state.profile;
+  if (!profile) {
+    elements.heroProfileNote.textContent = "Save a few interests and the mix starts to feel less like a dashboard and more like a personal briefing.";
+    return;
+  }
+
+  const pinned = uniqueValues([...(profile.pinned_entities || []), ...(profile.pinned_categories || [])]).slice(0, 3);
+  const recentQuery = profile.recent_queries?.[0];
+
+  if (pinned.length && recentQuery) {
+    elements.heroProfileNote.textContent = `You are currently steering the feed toward ${pinned.join(", ")} after searching for ${recentQuery}.`;
+    return;
+  }
+
+  if (pinned.length) {
+    elements.heroProfileNote.textContent = `The feed is leaning into ${pinned.join(", ")} based on the interests you pinned.`;
+    return;
+  }
+
+  if (recentQuery) {
+    elements.heroProfileNote.textContent = `Your latest search was ${recentQuery}. Keep exploring and the briefing will tighten around your taste.`;
+    return;
+  }
+
+  elements.heroProfileNote.textContent = `The system has ${profile.interaction_count} saved signals so far. Like, open, or hide stories to refine the mix.`;
+}
+
+function updateHeroState(payload, mode) {
+  if (!payload) {
+    updateHeroProfileNote();
+    return;
+  }
+
+  const itemCount = payload.items?.length || 0;
+  const sourceCount = Object.keys(payload.source_breakdown || {}).length;
+  const clusterCount = payload.entity_groups?.length || 0;
+  const viewerName = friendlyViewerName();
+
+  if (elements.heroStoryCount) {
+    elements.heroStoryCount.textContent = String(itemCount);
+  }
+  if (elements.heroSourceCount) {
+    elements.heroSourceCount.textContent = String(sourceCount);
+  }
+  if (elements.heroClusterCount) {
+    elements.heroClusterCount.textContent = String(clusterCount);
+  }
+
+  if (mode === "search") {
+    elements.heroKicker.textContent = "Intent-aware search";
+    elements.heroTitle.textContent = `Best live matches for “${payload.query}”`;
+    elements.heroDescription.textContent = payload.expanded_query && payload.expanded_query !== payload.query
+      ? `The assistant expanded that into “${payload.expanded_query}” so the feed can catch related events, franchises, and Singapore-specific angles.`
+      : "These results are ranked around what you appear to mean, not just the exact words you typed.";
+  } else {
+    elements.heroKicker.textContent = "Your personal ACG radar";
+    elements.heroTitle.textContent = viewerName
+      ? `${viewerName}, here is the ACG pulse shaped around your interests.`
+      : "Here is the ACG pulse shaped around your interests.";
+    elements.heroDescription.textContent = "The feed balances freshness, Singapore relevance, and your saved taste profile so you can jump straight to the stories worth opening.";
+  }
+
+  updateHeroProfileNote();
+}
+
 function applyProfileState(profile) {
   state.profile = profile;
   state.pinnedEntities = uniqueValues(profile?.pinned_entities || state.pinnedEntities);
   syncPinnedEntityCheckboxes();
   renderProfileSummary(profile);
+  updateHeroProfileNote();
   if (elements.clusterDetailModal?.open && state.clusterDetailEntity) {
     renderClusterDetailControls(state.clusterDetailEntity);
   }
@@ -495,7 +579,12 @@ function buildEntityGroupSnapshot(entityName, items, existingGroup = null) {
 function renderDigest(items, title) {
   elements.digestTitle.textContent = title;
   elements.digestList.replaceChildren();
-  items.forEach((item) => {
+  const lines = items.length
+    ? items
+    : [
+        "Search for an event, game, franchise, or merch drop to get a quick explanation of why the assistant surfaced it.",
+      ];
+  lines.forEach((item) => {
     const listItem = document.createElement("li");
     listItem.textContent = item;
     elements.digestList.appendChild(listItem);
@@ -606,10 +695,20 @@ async function loadDeferredSearchDigest(query, items) {
 
 function renderSourceBreakdown(sourceBreakdown) {
   elements.sourceBreakdown.replaceChildren();
-  Object.entries(sourceBreakdown).forEach(([sourceName, count]) => {
+  const entries = Object.entries(sourceBreakdown);
+
+  if (!entries.length) {
+    const empty = document.createElement("p");
+    empty.className = "profile-empty";
+    empty.textContent = "Source mix appears here once stories are loaded.";
+    elements.sourceBreakdown.appendChild(empty);
+    return;
+  }
+
+  entries.forEach(([sourceName, count]) => {
     const chip = document.createElement("span");
     chip.className = "source-chip";
-    chip.textContent = `${sourceName} · ${count}`;
+    chip.textContent = `${sourceName} · ${count} ${count === 1 ? "story" : "stories"}`;
     elements.sourceBreakdown.appendChild(chip);
   });
 }
@@ -659,8 +758,8 @@ function renderSourceHealth(summary, rollups, runs) {
   elements.sourceHealthRollups.replaceChildren();
   elements.sourceHealthRuns.replaceChildren();
   elements.sourceHealthMeta.textContent = items.length
-    ? `${items.length} tracked sources · updated ${relativeTime(summary.generated_at)}`
-    : "No tracked sources yet.";
+    ? `${items.length} live sources checked · updated ${relativeTime(summary.generated_at)}`
+    : "No source trust data yet.";
 
   const metrics = document.createElement("div");
   metrics.className = "source-health-metrics";
@@ -772,14 +871,14 @@ function renderSourceHealth(summary, rollups, runs) {
       filterButton.className = "source-health-action";
       filterButton.dataset.action = "filter-source-runs";
       filterButton.dataset.sourceName = rollup.source_name;
-      filterButton.textContent = "Preview runs";
+      filterButton.textContent = "See recent checks";
 
       const historyButton = document.createElement("button");
       historyButton.type = "button";
       historyButton.className = "source-health-action";
       historyButton.dataset.action = "open-source-health-modal";
       historyButton.dataset.sourceName = rollup.source_name;
-      historyButton.textContent = "Full history";
+      historyButton.textContent = "View all checks";
 
       actions.append(filterButton, historyButton);
       card.append(top, detail, bar, sparkline, actions);
@@ -803,14 +902,14 @@ function renderSourceHealth(summary, rollups, runs) {
     modalButton.className = "source-health-clear-filter";
     modalButton.dataset.action = "open-source-health-modal";
     modalButton.dataset.sourceName = state.sourceHealthSelectedSource;
-    modalButton.textContent = "Full history";
+    modalButton.textContent = "View all checks";
     runsHead.appendChild(modalButton);
 
     const clearButton = document.createElement("button");
     clearButton.type = "button";
     clearButton.className = "source-health-clear-filter";
     clearButton.dataset.action = "clear-source-health-filter";
-    clearButton.textContent = "Show all";
+    clearButton.textContent = "All sources";
     runsHead.appendChild(clearButton);
   }
 
@@ -868,7 +967,7 @@ function renderSourceHealth(summary, rollups, runs) {
 }
 
 function renderSourceHealthUnavailable() {
-  elements.sourceHealthMeta.textContent = "Source health is unavailable right now.";
+  elements.sourceHealthMeta.textContent = "Freshness information is unavailable right now.";
   state.sourceHealthRollupItems = [];
   elements.sourceHealthSummary.replaceChildren();
   elements.sourceHealthRollups.replaceChildren();
@@ -876,7 +975,7 @@ function renderSourceHealthUnavailable() {
 
   const summaryEmpty = document.createElement("p");
   summaryEmpty.className = "profile-empty";
-  summaryEmpty.textContent = "The feed is still usable, but the source monitor could not load.";
+  summaryEmpty.textContent = "The feed is still usable, but the trust panel could not load.";
   elements.sourceHealthSummary.appendChild(summaryEmpty);
 }
 
@@ -899,7 +998,7 @@ async function loadSourceHealthPanel(options = {}) {
     console.error(error);
     renderSourceHealthUnavailable();
     if (!silent) {
-      setStatus("Source monitor refresh failed. The feed is still available.", true);
+      setStatus("Trust panel refresh failed. The feed is still available.", true);
     }
   }
 }
@@ -918,8 +1017,8 @@ function closeSourceHealthModal() {
 
 function renderSourceHealthModalSkeleton(sourceName) {
   elements.sourceHealthModalTitle.textContent = sourceName;
-  elements.sourceHealthModalMeta.textContent = "Loading recent source history...";
-  elements.sourceHealthModalStatus.textContent = "Fetching the most recent run details and error history.";
+  elements.sourceHealthModalMeta.textContent = "Loading recent source trust history...";
+  elements.sourceHealthModalStatus.textContent = "Fetching the most recent run details and any recent errors.";
   elements.sourceHealthModalList.replaceChildren();
 }
 
@@ -1002,7 +1101,7 @@ async function openSourceHealthModal(sourceName, options = {}) {
     }
     console.error(error);
     elements.sourceHealthModalMeta.textContent = "Unable to load source run history.";
-    elements.sourceHealthModalStatus.textContent = "The source monitor is still available, but the full history request failed.";
+    elements.sourceHealthModalStatus.textContent = "The trust panel is still available, but the full history request failed.";
     elements.sourceHealthModalList.replaceChildren();
     if (!silent) {
       setStatus(`Unable to load full source history for ${sourceName}.`, true);
@@ -1015,7 +1114,7 @@ function renderEntityGroups(groups, items) {
   if (!groups.length) {
     const empty = document.createElement("p");
     empty.className = "profile-empty";
-    empty.textContent = "As related coverage accumulates, shared events and franchises will cluster here.";
+    empty.textContent = "When related stories start overlapping, they will show up here as followable storylines.";
     elements.entitySummary.appendChild(empty);
     return;
   }
@@ -1035,7 +1134,7 @@ function renderEntityGroups(groups, items) {
 
     const meta = document.createElement("p");
     meta.className = "profile-meta";
-    meta.textContent = `${group.kind} · ${group.count} stories · ${group.source_count} sources`;
+    meta.textContent = `${group.count} stories · ${group.source_count} sources`;
 
     summary.append(summaryTitle, meta);
 
@@ -1143,7 +1242,7 @@ function renderProfileSummary(profile) {
   if (!profile) {
     const empty = document.createElement("p");
     empty.className = "profile-empty";
-    empty.textContent = "Pin a few interests or start searching. The feed will learn from searches, opens, and hides.";
+    empty.textContent = "Pin a few interests or start searching. The feed learns from searches, opens, likes, and hides.";
     elements.profileSummary.appendChild(empty);
     return;
   }
@@ -1151,7 +1250,7 @@ function renderProfileSummary(profile) {
   const intro = document.createElement("p");
   intro.className = "profile-empty";
   const label = profile.display_name || profile.user_id;
-  intro.textContent = `${label} has ${profile.interaction_count} recorded signals. Searches and feedback will keep shifting the ranking.`;
+  intro.textContent = `${label} has ${profile.interaction_count} saved signals. Each search and feedback action reshapes what rises first.`;
   elements.profileSummary.appendChild(intro);
 
   appendProfileBlock("Pinned categories", profile.pinned_categories || []);
@@ -1207,7 +1306,7 @@ function renderClusterDetailControls(entityName) {
   elements.clusterDetailControls.appendChild(
     createEntityActionGroup(entityName, {
       focusClassName: "entity-focus-button entity-filter-button",
-      focusLabel: `Focus ${entityName}`,
+      focusLabel: `Search ${entityName}`,
       followClassName: "entity-follow-button entity-follow-button-wide",
       includeDetail: false,
     }),
@@ -1220,7 +1319,7 @@ function renderClusterDetail(entityName, items, group, statusText = "") {
   const resolvedItems = items || [];
 
   elements.clusterDetailTitle.textContent = entityName;
-  elements.clusterDetailMeta.textContent = `${resolvedGroup.kind} · ${resolvedGroup.count} stories · ${resolvedGroup.source_count} sources`;
+  elements.clusterDetailMeta.textContent = `${resolvedGroup.count} stories across ${resolvedGroup.source_count} sources`;
   elements.clusterDetailStatus.textContent = statusText;
   renderClusterDetailControls(entityName);
 
@@ -1283,7 +1382,7 @@ function renderClusterDetail(entityName, items, group, statusText = "") {
     scoreMeter.className = "score-meter";
     const scoreLabel = document.createElement("span");
     scoreLabel.className = "score-label";
-    scoreLabel.textContent = "SG Relevance";
+    scoreLabel.textContent = "Singapore fit";
     const scoreBar = document.createElement("div");
     scoreBar.className = "score-bar";
     const scoreFill = document.createElement("span");
@@ -1382,7 +1481,7 @@ async function openClusterDetail(entityName, options = {}) {
         ? "Showing the current-feed snapshot only. Live detail lookup failed."
         : "Unable to load a broader cluster snapshot right now.",
     );
-    setStatus("Unable to load the full cluster detail view.", true);
+    setStatus("Unable to load the full storyline view.", true);
   }
 }
 
@@ -1446,17 +1545,17 @@ function renderClusterCard(entry) {
   likeButton.className = "signal-button";
   likeButton.dataset.action = "like";
   likeButton.dataset.articleId = leadItem.id;
-  likeButton.textContent = `Boost ${entityName}`;
+  likeButton.textContent = `More ${entityName}`;
 
   const dismissButton = document.createElement("button");
   dismissButton.type = "button";
   dismissButton.className = "signal-button";
   dismissButton.dataset.action = "dismiss";
   dismissButton.dataset.articleId = leadItem.id;
-  dismissButton.textContent = `Hide ${entityName}`;
+  dismissButton.textContent = `Less ${entityName}`;
 
   const followButton = createEntityFollowButton(entityName, "entity-follow-button entity-follow-button-wide");
-  const detailButton = createEntityDetailButton(entityName, "entity-detail-button entity-detail-button-wide", "Cluster detail");
+  const detailButton = createEntityDetailButton(entityName, "entity-detail-button entity-detail-button-wide", "Open storyline");
 
   actions.append(detailButton, followButton, likeButton, dismissButton);
 
@@ -1467,7 +1566,7 @@ function renderClusterCard(entry) {
   scoreMeter.className = "score-meter";
   const scoreLabel = document.createElement("span");
   scoreLabel.className = "score-label";
-  scoreLabel.textContent = "Lead SG Relevance";
+  scoreLabel.textContent = "Lead Singapore fit";
   const scoreBar = document.createElement("div");
   scoreBar.className = "score-bar";
   const scoreFill = document.createElement("span");
@@ -1490,7 +1589,7 @@ function renderCards(items, groups = []) {
   elements.cardsContainer.replaceChildren();
   if (!items.length) {
     const empty = document.createElement("p");
-    empty.textContent = "No stories matched the current view.";
+    empty.textContent = "No strong matches yet. Try a broader event, franchise, or merch prompt.";
     elements.cardsContainer.appendChild(empty);
     return;
   }
@@ -1544,17 +1643,18 @@ function renderFeed(payload, mode) {
     applyProfileState(payload.profile);
   }
 
-  renderDigest(payload.digest || [], mode === "search" ? "Why these headlines" : "Top signals right now");
+  updateHeroState(payload, mode);
+  renderDigest(payload.digest || [], mode === "search" ? "Why this matches" : "Why this mix fits you");
   renderSourceBreakdown(payload.source_breakdown || {});
   renderEntityGroups(payload.entity_groups || [], payload.items || []);
   renderCards(payload.items || [], payload.entity_groups || []);
 
   if (mode === "search") {
-    elements.feedTitle.textContent = `Prompt-ranked results for “${payload.query}”`;
+    elements.feedTitle.textContent = `Best matches for “${payload.query}”`;
     const timingSummary = formatSearchTimingSummary(payload.timings);
-    elements.feedMeta.textContent = `Expanded to: ${payload.expanded_query || payload.query} · ${itemCount} stories · ${generatedAt}${timingSummary ? ` · ${timingSummary}` : ""}`;
+    elements.feedMeta.textContent = `AI focus: ${payload.expanded_query || payload.query} · ${itemCount} stories · updated ${generatedAt}${timingSummary ? ` · ${timingSummary}` : ""}`;
   } else {
-    elements.feedTitle.textContent = "Singapore-weighted headline stack";
+    elements.feedTitle.textContent = "For you right now";
     elements.feedMeta.textContent = `${itemCount} stories · refreshed ${generatedAt}`;
   }
 }
@@ -1585,7 +1685,7 @@ async function loadHomeFeed(options = {}) {
   state.currentQuery = "";
   elements.queryInput.value = "";
   if (announce) {
-    setStatus("Loading the personalized home feed...");
+    setStatus("Refreshing your ACG briefing...");
   }
   const payload = await apiRequest(`/api/news?limit=12&user_id=${encodeURIComponent(state.userId)}`);
   renderFeed(payload, "home");
@@ -1593,7 +1693,7 @@ async function loadHomeFeed(options = {}) {
     writeRouteState({ query: "" }, { mode: routeMode });
   }
   if (announce) {
-    setStatus("Showing the latest Singapore-weighted headlines for this profile.");
+    setStatus("Showing the latest stories picked for this profile.");
   }
 }
 
@@ -1603,7 +1703,7 @@ async function runSearch(query, options = {}) {
   state.currentMode = "search";
   state.currentQuery = query;
   elements.queryInput.value = query;
-  setStatus(`Searching for ${query}...`);
+  setStatus(`Looking for the strongest matches for ${query}...`);
   const payload = await apiRequest("/api/search", {
     method: "POST",
     body: JSON.stringify({ query, limit: 12, rerank: true, user_id: state.userId, track_profile: trackProfile, include_digest: false }),
@@ -1614,9 +1714,9 @@ async function runSearch(query, options = {}) {
     writeRouteState({ query }, { mode: routeMode });
   }
   if ((payload.items || []).length === 0) {
-    setStatus("No strong matches were found for that query. Try broader SG or SEA terms, or refresh sources.");
+    setStatus("No strong matches yet. Try a franchise, event, creator, or merch phrase instead.");
   } else {
-    setStatus("Search feed updated.");
+    setStatus("Search results updated.");
   }
 }
 
@@ -1631,7 +1731,7 @@ async function restoreCurrentView() {
 async function focusEntity(entityName, options = {}) {
   elements.queryInput.value = entityName;
   await runSearch(entityName, options);
-  setStatus(`Showing clustered coverage for ${entityName}.`);
+  setStatus(`Showing the storyline around ${entityName}.`);
 }
 
 async function togglePinnedEntity(entityName) {
@@ -1683,14 +1783,14 @@ async function recordInteraction(articleId, action, refreshView = false) {
   }
 
   if (action === "like") {
-    setStatus("Preference updated. Similar stories will surface sooner.");
+    setStatus("Preference updated. Similar stories will rise sooner.");
   } else if (action === "dismiss") {
-    setStatus("That signal was hidden and downweighted for this profile.");
+    setStatus("That signal was hidden and will show up less often.");
   }
 }
 
 async function refreshSources() {
-  setStatus("Refreshing sources and updating the article store...");
+  setStatus("Refreshing live sources and rebuilding the briefing...");
   const payload = await apiRequest("/api/refresh", { method: "POST" });
   const message = payload.seed_used
     ? "No live sources responded, so demo seed headlines were loaded instead."
@@ -1768,7 +1868,7 @@ elements.cardsContainer.addEventListener("click", async (event) => {
       await openClusterDetail(detailButton.dataset.entityName);
     } catch (error) {
       console.error(error);
-      setStatus("Unable to open that cluster detail view.", true);
+      setStatus("Unable to open that storyline view.", true);
     }
     return;
   }
@@ -1833,7 +1933,7 @@ elements.entitySummary.addEventListener("click", async (event) => {
       await openClusterDetail(detailButton.dataset.entityName, { routeMode: "push" });
     } catch (error) {
       console.error(error);
-      setStatus("Unable to open that cluster detail view.", true);
+      setStatus("Unable to open that storyline view.", true);
     }
     return;
   }
@@ -1884,7 +1984,7 @@ elements.profileSummary.addEventListener("click", async (event) => {
       await openClusterDetail(detailButton.dataset.entityName, { routeMode: "push" });
     } catch (error) {
       console.error(error);
-      setStatus("Unable to open that cluster detail view.", true);
+      setStatus("Unable to open that storyline view.", true);
     }
     return;
   }
@@ -1909,7 +2009,7 @@ elements.sourceHealthRollups.addEventListener("click", async (event) => {
     event.preventDefault();
     try {
       await openSourceHealthModal(historyButton.dataset.sourceName, { silent: true });
-      setStatus(`Opened full source history for ${historyButton.dataset.sourceName}.`);
+      setStatus(`Opened the full trust history for ${historyButton.dataset.sourceName}.`);
     } catch (error) {
       console.error(error);
       setStatus("Unable to open full source history.", true);
@@ -1925,7 +2025,7 @@ elements.sourceHealthRollups.addEventListener("click", async (event) => {
   event.preventDefault();
   try {
     await loadSourceHealthPanel({ sourceName: rollupButton.dataset.sourceName, silent: true });
-    setStatus(`Showing recent source runs for ${rollupButton.dataset.sourceName}.`);
+    setStatus(`Showing the latest checks for ${rollupButton.dataset.sourceName}.`);
   } catch (error) {
     console.error(error);
     setStatus("Unable to filter source run history.", true);
@@ -1938,7 +2038,7 @@ elements.sourceHealthRuns.addEventListener("click", async (event) => {
     event.preventDefault();
     try {
       await openSourceHealthModal(modalButton.dataset.sourceName, { silent: true });
-      setStatus(`Opened full source history for ${modalButton.dataset.sourceName}.`);
+      setStatus(`Opened the full trust history for ${modalButton.dataset.sourceName}.`);
     } catch (error) {
       console.error(error);
       setStatus("Unable to open full source history.", true);
@@ -1954,7 +2054,7 @@ elements.sourceHealthRuns.addEventListener("click", async (event) => {
   event.preventDefault();
   try {
     await loadSourceHealthPanel({ sourceName: "", silent: true });
-    setStatus("Showing recent runs across all sources.");
+    setStatus("Showing recent checks across all sources.");
   } catch (error) {
     console.error(error);
     setStatus("Unable to clear the source run filter.", true);
@@ -2044,6 +2144,23 @@ window.addEventListener("popstate", () => {
   });
 });
 
+elements.quickPromptButtons.forEach((button) => {
+  button.addEventListener("click", async () => {
+    const query = button.dataset.query?.trim();
+    if (!query) {
+      return;
+    }
+
+    elements.queryInput.value = query;
+    try {
+      await runSearch(query, { routeMode: "push" });
+    } catch (error) {
+      console.error(error);
+      setStatus("Unable to run that suggested prompt right now.", true);
+    }
+  });
+});
+
 elements.homeButton.addEventListener("click", async () => {
   elements.queryInput.value = "";
   try {
@@ -2072,5 +2189,5 @@ async function initializeApp() {
 
 initializeApp().catch((error) => {
   console.error(error);
-  setStatus("Unable to connect to the API. Start the FastAPI server and try again.", true);
+  setStatus("Unable to connect to the live feed. Start the API server and try again.", true);
 });

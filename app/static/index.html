@@ -3,7 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>ACG Search SG</title>
+    <title>ACG Search SG | Personal AI Briefing</title>
+    <link rel="icon" href="/favicon.ico" sizes="any" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -16,139 +17,201 @@
     <div class="orb orb-one"></div>
     <div class="orb orb-two"></div>
     <main class="page-shell">
-      <section class="top-grid reveal">
-        <section class="feed-panel primary-feed-panel">
-          <div class="feed-header">
-            <div>
-              <p class="panel-kicker">Feed</p>
-              <h2 id="feed-title">Singapore-weighted headline stack</h2>
+      <section class="hero-stage reveal">
+        <section class="hero-panel hero-surface">
+          <div class="brand-row">
+            <div class="brand-lockup">
+              <p class="eyebrow">ACG Search SG</p>
+              <p class="brand-title">AI-curated for Singapore fans</p>
             </div>
-            <div id="feed-meta" class="feed-meta">Loading headlines...</div>
+            <span class="trust-pill">Live headlines, events, merch, and esports</span>
           </div>
-          <div id="status-banner" class="status-banner"></div>
-          <div id="cards-container" class="card-grid"></div>
-        </section>
 
-        <section class="hero-panel">
-          <div class="hero-copy">
-            <p class="eyebrow">Singapore-first ACG signal board</p>
-            <h1>Top anime, games, merch, and event headlines for Singapore.</h1>
-            <p class="hero-text">
-              Fresh headlines first. Search pivots the stack around prompts like “AFA Singapore”, “MLBB qualifiers”, or
-              “new JRPG demo” instead of falling back to plain keyword matches.
-            </p>
+          <div class="hero-layout">
+            <div class="hero-copy">
+              <p id="hero-kicker" class="panel-kicker">Your personal ACG radar</p>
+              <h1 id="hero-title">A smarter ACG feed that understands intent, not just keywords.</h1>
+              <p id="hero-description" class="hero-text">
+                Search for whatever you are trying to find, follow the storylines you care about, and let the feed adapt as you click, like,
+                and hide results.
+              </p>
+              <p id="hero-profile-note" class="hero-profile-note">
+                Save a few interests and the mix starts to feel less like a dashboard and more like a personal briefing.
+              </p>
+              <div class="tag-row">
+                <span class="tag-chip">Intent-aware search</span>
+                <span class="tag-chip">Adaptive ranking</span>
+                <span class="tag-chip">Storyline follow-ups</span>
+                <span class="tag-chip">Singapore relevance first</span>
+              </div>
+              <div class="action-row hero-copy-actions">
+                <button id="home-button" class="secondary-button" type="button">Show my home feed</button>
+                <button id="refresh-button" class="secondary-button" type="button">Refresh live sources</button>
+              </div>
+            </div>
+
+            <div class="hero-controls">
+              <form id="search-form" class="search-panel">
+                <label class="search-label" for="query-input">What are you looking for right now?</label>
+                <div class="search-row">
+                  <input
+                    id="query-input"
+                    name="query"
+                    type="search"
+                    placeholder="Try: AFA Singapore tickets, MLBB weekend, new JRPG demo"
+                    autocomplete="off"
+                  />
+                  <button type="submit" class="primary-button">Ask the feed</button>
+                </div>
+                <p class="helper-text">The assistant expands fan-style prompts into events, franchises, merch drops, and Singapore-relevant angles.</p>
+                <div class="quick-prompt-row">
+                  <button class="quick-prompt-button" data-query="AFA Singapore tickets" type="button">AFA Singapore tickets</button>
+                  <button class="quick-prompt-button" data-query="MLBB Singapore weekend" type="button">MLBB Singapore weekend</button>
+                  <button class="quick-prompt-button" data-query="new JRPG demo" type="button">New JRPG demo</button>
+                  <button class="quick-prompt-button" data-query="anime merch pop-up" type="button">Anime merch pop-up</button>
+                </div>
+              </form>
+
+              <form id="profile-form" class="profile-panel">
+                <div class="profile-head">
+                  <div>
+                    <p class="panel-kicker">Tune my feed</p>
+                    <h2>Tell the assistant what you care about</h2>
+                  </div>
+                </div>
+                <div class="profile-fields">
+                  <label class="search-label" for="user-id-input">Profile identity</label>
+                  <div class="profile-row">
+                    <input id="user-id-input" name="user_id" type="text" placeholder="fan-id" autocomplete="off" />
+                    <input id="display-name-input" name="display_name" type="text" placeholder="Display name" autocomplete="off" />
+                  </div>
+                </div>
+                <div class="profile-sections">
+                  <section class="profile-section">
+                    <p class="search-label profile-label">Pinned interests</p>
+                    <div class="preference-grid">
+                      <label class="preference-pill"><input data-preference="category" type="checkbox" value="events" /><span>Events</span></label>
+                      <label class="preference-pill"><input data-preference="category" type="checkbox" value="anime" /><span>Anime</span></label>
+                      <label class="preference-pill"><input data-preference="category" type="checkbox" value="manga" /><span>Manga</span></label>
+                      <label class="preference-pill"><input data-preference="category" type="checkbox" value="games" /><span>Games</span></label>
+                      <label class="preference-pill"><input data-preference="category" type="checkbox" value="gacha" /><span>Gacha</span></label>
+                      <label class="preference-pill"><input data-preference="category" type="checkbox" value="esports" /><span>Esports</span></label>
+                      <label class="preference-pill"><input data-preference="category" type="checkbox" value="merch" /><span>Merch</span></label>
+                      <label class="preference-pill"><input data-preference="region" type="checkbox" value="singapore" /><span>Singapore</span></label>
+                      <label class="preference-pill"><input data-preference="region" type="checkbox" value="sea" /><span>SEA</span></label>
+                    </div>
+                  </section>
+                  <section class="profile-section">
+                    <p class="search-label profile-label">Storylines to keep close</p>
+                    <div class="preference-grid entity-preference-grid">
+                      <label class="preference-pill"><input data-preference="entity" type="checkbox" value="AFA Singapore" /><span>AFA Singapore</span></label>
+                      <label class="preference-pill"><input data-preference="entity" type="checkbox" value="SGCC" /><span>SGCC</span></label>
+                      <label class="preference-pill"><input data-preference="entity" type="checkbox" value="HoyoFest Singapore" /><span>HoyoFest Singapore</span></label>
+                      <label class="preference-pill"><input data-preference="entity" type="checkbox" value="MLBB" /><span>MLBB</span></label>
+                      <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Valorant" /><span>Valorant</span></label>
+                      <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Grand Archive TCG" /><span>Grand Archive TCG</span></label>
+                      <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Final Fantasy" /><span>Final Fantasy</span></label>
+                      <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Persona" /><span>Persona</span></label>
+                    </div>
+                  </section>
+                </div>
+                <button type="submit" class="secondary-button profile-button">Update my taste profile</button>
+              </form>
+            </div>
           </div>
-          <div class="hero-controls">
-            <form id="search-form" class="search-panel">
-              <label class="search-label" for="query-input">Search like a fan, not a database.</label>
-              <div class="search-row">
-                <input
-                  id="query-input"
-                  name="query"
-                  type="search"
-                  placeholder="Try: AFA Singapore, MLBB qualifiers, new JRPG demo"
-                  autocomplete="off"
-                />
-                <button type="submit" class="primary-button">Search Feed</button>
-              </div>
-            </form>
-            <form id="profile-form" class="profile-panel">
-              <div class="profile-fields">
-                <label class="search-label" for="user-id-input">Personalization profile</label>
-                <div class="profile-row">
-                  <input id="user-id-input" name="user_id" type="text" placeholder="fan-id" autocomplete="off" />
-                  <input id="display-name-input" name="display_name" type="text" placeholder="Display name" autocomplete="off" />
-                </div>
-              </div>
-              <div>
-                <p class="search-label profile-label">Pinned interests</p>
-                <div class="preference-grid">
-                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="events" /><span>Events</span></label>
-                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="anime" /><span>Anime</span></label>
-                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="manga" /><span>Manga</span></label>
-                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="games" /><span>Games</span></label>
-                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="gacha" /><span>Gacha</span></label>
-                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="esports" /><span>Esports</span></label>
-                  <label class="preference-pill"><input data-preference="category" type="checkbox" value="merch" /><span>Merch</span></label>
-                  <label class="preference-pill"><input data-preference="region" type="checkbox" value="singapore" /><span>Singapore</span></label>
-                  <label class="preference-pill"><input data-preference="region" type="checkbox" value="sea" /><span>SEA</span></label>
-                </div>
-              </div>
-              <div>
-                <p class="search-label profile-label">Pinned clusters</p>
-                <div class="preference-grid entity-preference-grid">
-                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="AFA Singapore" /><span>AFA Singapore</span></label>
-                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="SGCC" /><span>SGCC</span></label>
-                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="HoyoFest Singapore" /><span>HoyoFest Singapore</span></label>
-                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="MLBB" /><span>MLBB</span></label>
-                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Valorant" /><span>Valorant</span></label>
-                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Grand Archive TCG" /><span>Grand Archive TCG</span></label>
-                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Final Fantasy" /><span>Final Fantasy</span></label>
-                  <label class="preference-pill"><input data-preference="entity" type="checkbox" value="Persona" /><span>Persona</span></label>
-                </div>
-              </div>
-              <button type="submit" class="secondary-button profile-button">Save Preferences</button>
-            </form>
-            <div class="action-row">
-              <button id="home-button" class="secondary-button" type="button">Back To Home Feed</button>
-              <button id="refresh-button" class="secondary-button" type="button">Refresh Sources</button>
-            </div>
-            <div class="tag-row">
-              <span class="tag-chip">Events & conventions</span>
-              <span class="tag-chip">Esports watch</span>
-              <span class="tag-chip">Merch & deals</span>
-              <span class="tag-chip">Anime & manga</span>
-              <span class="tag-chip">Games & gacha</span>
-            </div>
+
+          <div class="hero-metrics">
+            <article class="metric-card">
+              <span class="metric-label">Stories in view</span>
+              <strong id="hero-story-count">--</strong>
+            </article>
+            <article class="metric-card">
+              <span class="metric-label">Storylines</span>
+              <strong id="hero-cluster-count">--</strong>
+            </article>
+            <article class="metric-card">
+              <span class="metric-label">Sources</span>
+              <strong id="hero-source-count">--</strong>
+            </article>
           </div>
         </section>
       </section>
 
-      <section class="insight-grid reveal">
+      <section class="content-grid reveal">
+        <section class="feed-panel primary-feed-panel">
+          <div class="feed-header">
+            <div>
+              <p class="panel-kicker">For you</p>
+              <h2 id="feed-title">Your Singapore ACG briefing</h2>
+            </div>
+            <div id="feed-meta" class="feed-meta">Loading stories...</div>
+          </div>
+          <div id="status-banner" class="status-banner" aria-live="polite"></div>
+          <div id="cards-container" class="card-grid"></div>
+        </section>
+
         <aside class="side-panel">
-          <section class="insight-block">
+          <section class="insight-block insight-wide">
             <div class="panel-head">
-              <p class="panel-kicker">Digest</p>
-              <h2 id="digest-title">Top signals right now</h2>
+              <p class="panel-kicker">AI briefing</p>
+              <h2 id="digest-title">Why this mix fits you</h2>
             </div>
             <ul id="digest-list" class="digest-list"></ul>
           </section>
 
           <section class="insight-block">
             <div class="panel-head">
-              <p class="panel-kicker">Profile memory</p>
-              <h2>What this user leans toward</h2>
+              <p class="panel-kicker">Taste profile</p>
+              <h2>What the feed has learned about you</h2>
             </div>
             <div id="profile-summary" class="profile-summary"></div>
           </section>
 
           <section class="insight-block">
             <div class="panel-head">
-              <p class="panel-kicker">Coverage clusters</p>
-              <h2>Shared events and franchises</h2>
+              <p class="panel-kicker">Storylines</p>
+              <h2>Clusters you can follow next</h2>
             </div>
             <div id="entity-summary" class="entity-summary"></div>
           </section>
 
-          <section class="insight-block">
+          <section class="insight-block insight-wide">
             <div class="panel-head">
-              <p class="panel-kicker">Live mix</p>
-              <h2>Source balance</h2>
+              <p class="panel-kicker">Source mix</p>
+              <h2>Where these stories are coming from</h2>
             </div>
             <div id="source-breakdown" class="source-breakdown"></div>
+          </section>
+        </aside>
+      </section>
+
+      <section class="trust-grid reveal">
+        <section class="trust-panel">
+          <section class="insight-block trust-lead">
+            <div class="panel-head">
+              <p class="panel-kicker">Freshness & trust</p>
+              <h2>How reliable the live pipeline looks right now</h2>
+            </div>
+            <p id="source-health-meta" class="profile-empty source-health-meta">Loading freshness signals...</p>
+            <div id="source-health-summary" class="source-health-summary"></div>
           </section>
 
           <section class="insight-block">
             <div class="panel-head">
-              <p class="panel-kicker">Source monitor</p>
-              <h2>Health and recent runs</h2>
+              <p class="panel-kicker">Recent checks</p>
+              <h2>Quick view of source stability</h2>
             </div>
-            <p id="source-health-meta" class="profile-empty source-health-meta">Loading source health...</p>
-            <div id="source-health-summary" class="source-health-summary"></div>
             <div id="source-health-rollups" class="source-health-rollups"></div>
+          </section>
+
+          <section class="insight-block">
+            <div class="panel-head">
+              <p class="panel-kicker">Run history</p>
+              <h2>What was checked most recently</h2>
+            </div>
             <div id="source-health-runs" class="source-health-runs"></div>
           </section>
-        </aside>
+        </section>
       </section>
     </main>
 
@@ -165,12 +228,12 @@
         <div class="chip-row tags"></div>
         <div class="chip-row regions"></div>
         <div class="card-actions">
-          <button class="signal-button" data-action="like" type="button">Boost Like This</button>
-          <button class="signal-button" data-action="dismiss" type="button">Hide Similar</button>
+          <button class="signal-button" data-action="like" type="button">More like this</button>
+          <button class="signal-button" data-action="dismiss" type="button">Less like this</button>
         </div>
         <div class="card-footer">
           <div class="score-meter">
-            <span class="score-label">SG Relevance</span>
+            <span class="score-label">Singapore fit</span>
             <div class="score-bar"><span class="score-fill"></span></div>
           </div>
           <a class="read-link" target="_blank" rel="noreferrer">Open story</a>
@@ -182,7 +245,7 @@
       <section class="cluster-detail-panel">
         <div class="cluster-detail-head">
           <div>
-            <p class="panel-kicker">Cluster detail</p>
+            <p class="panel-kicker">Storyline detail</p>
             <h2 id="cluster-detail-title">Coverage detail</h2>
           </div>
           <button id="cluster-detail-close" class="secondary-button cluster-detail-close" type="button">Close</button>
@@ -199,7 +262,7 @@
       <section class="source-health-modal-panel">
         <div class="source-health-modal-head">
           <div>
-            <p class="panel-kicker">Source history</p>
+            <p class="panel-kicker">Source trust history</p>
             <h2 id="source-health-modal-title">Source run history</h2>
           </div>
           <button id="source-health-modal-close" class="secondary-button source-health-modal-close" type="button">Close</button>

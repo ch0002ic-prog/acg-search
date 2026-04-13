@@ -51,6 +51,13 @@ class CacheControlledStaticFiles(StaticFiles):
         return super().file_response(full_path, stat_result, scope, status_code=status_code)
 
 
+def _file_response(path) -> FileResponse:
+    if not path.is_file():
+        raise HTTPException(status_code=404, detail="File not found.")
+    headers = NO_CACHE_HEADERS if settings.disable_http_cache else None
+    return FileResponse(path, headers=headers)
+
+
 def _start_background_llm_warmup(llm_service: LLMService) -> None:
     def _run() -> None:
         llm_warmup_ms = llm_service.warmup()
@@ -259,8 +266,12 @@ app.mount("/static", CacheControlledStaticFiles(directory=str(settings.static_di
 
 @app.get("/", include_in_schema=False)
 def index() -> FileResponse:
-    headers = NO_CACHE_HEADERS if settings.disable_http_cache else None
-    return FileResponse(settings.static_dir / "index.html", headers=headers)
+    return _file_response(settings.static_dir / "index.html")
+
+
+@app.get("/favicon.ico", include_in_schema=False)
+def favicon() -> FileResponse:
+    return _file_response(settings.root_dir / "favicon.ico")
 
 
 @app.get("/api/health")

@@ -53,6 +53,7 @@ class Settings:
     source_health_stale_hours: int
     source_health_runs_retention_days: int
     source_limit_per_feed: int
+    source_fetch_max_workers: int
     default_feed_limit: int
     local_vector_prefilter_limit: int
     vector_backend: str
@@ -106,6 +107,7 @@ class Settings:
             source_health_stale_hours=int(os.getenv("SOURCE_HEALTH_STALE_HOURS", "24")),
             source_health_runs_retention_days=int(os.getenv("SOURCE_HEALTH_RUNS_RETENTION_DAYS", "30")),
             source_limit_per_feed=int(os.getenv("SOURCE_LIMIT_PER_FEED", "12")),
+            source_fetch_max_workers=max(int(os.getenv("SOURCE_FETCH_MAX_WORKERS", "8")), 1),
             default_feed_limit=int(os.getenv("DEFAULT_FEED_LIMIT", "12")),
             local_vector_prefilter_limit=int(os.getenv("LOCAL_VECTOR_PREFILTER_LIMIT", "400")),
             vector_backend=os.getenv("VECTOR_BACKEND", "local").strip().lower(),

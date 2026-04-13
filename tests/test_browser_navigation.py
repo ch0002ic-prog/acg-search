@@ -224,11 +224,11 @@ class BrowserNavigationTests(unittest.TestCase):
         try:
             page.goto(self.base_url, wait_until="networkidle")
             page.wait_for_function(
-                "() => document.querySelector('#feed-title')?.textContent?.includes('Singapore-weighted headline stack')"
+                "() => document.querySelector('#feed-title')?.textContent?.includes('For you right now')"
             )
 
             page.locator("#query-input").fill("AFA Singapore")
-            page.get_by_role("button", name="Search Feed").click()
+            page.get_by_role("button", name="Ask the feed").click()
 
             page.wait_for_function(
                 "() => document.querySelector('#feed-title')?.textContent?.includes('AFA Singapore')"
@@ -238,7 +238,7 @@ class BrowserNavigationTests(unittest.TestCase):
 
             page.locator(".cluster-card summary").first.click()
             page.wait_for_function("() => document.querySelector('.cluster-card')?.open === true")
-            page.get_by_role("button", name="Cluster detail").first.click()
+            page.get_by_role("button", name="Open storyline").first.click()
             page.wait_for_function("() => document.querySelector('#cluster-detail-modal')?.open === true")
             page.wait_for_function("() => window.location.search.includes('entity=')")
             self.assertIn("entity=AFA", page.url)
@@ -265,7 +265,7 @@ class BrowserNavigationTests(unittest.TestCase):
 
             page.go_back()
             page.wait_for_function(
-                "() => document.querySelector('#feed-title')?.textContent?.includes('Singapore-weighted headline stack')"
+                "() => document.querySelector('#feed-title')?.textContent?.includes('For you right now')"
             )
             self.assertEqual(page.locator("#query-input").input_value(), "")
             self.assertNotIn("query=", page.url)
@@ -294,13 +294,13 @@ class BrowserNavigationTests(unittest.TestCase):
             afa_rollup = page.locator("#source-health-rollups .source-health-rollup-card").filter(has_text="Anime Festival Asia").first
             self.assertEqual(afa_rollup.locator(".source-health-sparkline-dot").count(), 3)
 
-            afa_rollup.get_by_role("button", name="Preview runs").click()
+            afa_rollup.get_by_role("button", name="See recent checks").click()
             page.wait_for_function(
                 "() => document.querySelector('#source-health-runs')?.textContent?.includes('Recent runs for Anime Festival Asia')"
             )
             self.assertIn("Anime Festival Asia", page.locator("#source-health-runs").text_content() or "")
 
-            page.locator("#source-health-runs").get_by_role("button", name="Full history").click()
+            page.locator("#source-health-runs").get_by_role("button", name="View all checks").click()
             page.wait_for_function("() => document.querySelector('#source-health-modal')?.open === true")
             page.wait_for_function(
                 "() => (document.querySelector('#source-health-modal-list')?.textContent || '').includes('req-browser-afa-error-2')"
@@ -314,7 +314,7 @@ class BrowserNavigationTests(unittest.TestCase):
             page.locator("#source-health-modal-close").click()
             page.wait_for_function("() => document.querySelector('#source-health-modal')?.open === false")
 
-            page.locator("#source-health-runs").get_by_role("button", name="Show all").click()
+            page.locator("#source-health-runs").get_by_role("button", name="All sources").click()
             page.wait_for_function(
                 "() => document.querySelector('#source-health-runs')?.textContent?.includes('Recent ingest runs')"
             )

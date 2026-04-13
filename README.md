@@ -11,7 +11,7 @@ This is a FastAPI-based prototype for a Singapore-first ACG news aggregator. It 
 - FastAPI backend with `GET /api/news`, `POST /api/search`, `POST /api/search/digest`, `GET/POST /api/profile`, `POST /api/interactions`, `POST /api/refresh`, and `GET /api/source-health`
 - SQLite article store with FTS5 for lexical search
 - Local hash vectors only when no embedding provider is configured, with provider-backed semantic embeddings available through `EMBEDDING_*` settings and optional ChromaDB persistence when you want a vector database backing store
-- RSS ingestion adapters for ACG-heavy sources and Singapore-oriented Google News queries
+- A broader live ingest surface across direct publisher feeds, Eventbrite listings, and Singapore/SEA-targeted Google News queries
 - Direct Singapore event ingestion from Eventbrite plus curated Singapore/SEA feeds such as Anime Festival Asia and Bandwagon Asia
 - Optional LLM hooks for query expansion, summarization, digest generation, and reranking
 - Static frontend served by FastAPI for default headlines and prompt-driven search
@@ -101,6 +101,8 @@ The prototype now defaults to `DISABLE_HTTP_CACHE=true` so local development doe
 - Set it to `false` if you want normal HTTP caching behavior.
 
 The refresh endpoint is also local-only by default. `POST /api/refresh` only accepts loopback clients unless you explicitly set `ALLOW_REMOTE_REFRESH=true` in the environment.
+
+Live-source refreshes now fan out across multiple worker threads so the registry can grow without making ingest latency scale linearly with every added source. Tune that with `SOURCE_FETCH_MAX_WORKERS` if you want to trade refresh speed against upstream load.
 
 The app also logs request timings for `POST /api/search` and `POST /api/refresh`, and it warns when any API request takes longer than `REQUEST_SLOW_LOG_MS`.
 Each API response now includes an `X-Request-ID` header as well. If a caller supplies a valid `X-Request-ID`, the app reuses it so request-level logs can be correlated across the API boundary and refresh ingestion flow. The CLI ingest script now generates a unique request id for every run and prints it in the JSON result for the same reason.

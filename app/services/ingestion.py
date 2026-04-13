@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from collections import Counter
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 import hashlib
 import logging
@@ -60,6 +61,27 @@ class IngestionService:
             source_health_entries = load_source_health_snapshot(self.settings.data_dir)
             self.repository.bootstrap_source_health(source_health_entries, request_id="deploy-snapshot")
 
+    def _fetch_source_batches(self, limit: int) -> list[tuple[BaseSource, list[SourceArticle] | None, Exception | None]]:
+        worker_count = min(max(1, self.settings.source_fetch_max_workers), max(1, len(self.sources)))
+        if worker_count <= 1 or len(self.sources) <= 1:
+            results: list[tuple[BaseSource, list[SourceArticle] | None, Exception | None]] = []
+            for source in self.sources:
+                try:
+                    results.append((source, source.fetch(limit=limit)[:limit], None))
+                except Exception as exc:
+                    results.append((source, None, exc))
+            return results
+
+        with ThreadPoolExecutor(max_workers=worker_count, thread_name_prefix="source-fetch") as executor:
+            future_entries = [(source, executor.submit(source.fetch, limit=limit)) for source in self.sources]
+            results: list[tuple[BaseSource, list[SourceArticle] | None, Exception | None]] = []
+            for source, future in future_entries:
+                try:
+                    results.append((source, future.result()[:limit], None))
+                except Exception as exc:
+                    results.append((source, None, exc))
+            return results
+
     def ingest(self, limit_per_source: int | None = None, request_id: str | None = None) -> dict[str, Any]:
         limit = limit_per_source or self.settings.source_limit_per_feed
         collected_by_key: dict[str, ArticleRecord] = {}
@@ -68,13 +90,14 @@ class IngestionService:
         curated_urls_by_source: dict[str, set[str]] = {}
         source_runs: dict[str, dict[str, Any]] = {}
         logger.info(
-            "Refresh ingest started: request_id=%s limit_per_source=%s source_count=%s",
+            "Refresh ingest started: request_id=%s limit_per_source=%s source_count=%s source_fetch_workers=%s",
             request_id or "none",
             limit,
             len(self.sources),
+            min(max(1, self.settings.source_fetch_max_workers), max(1, len(self.sources))),
         )
 
-        for source in self.sources:
+        for source, fetched_items, error in self._fetch_source_batches(limit):
             source_runs[source.name] = {
                 "status": "ok",
                 "fetched_count": 0,
@@ -83,7 +106,9 @@ class IngestionService:
                 "ran_at": datetime.now(timezone.utc),
             }
             try:
-                fetched_items = source.fetch(limit=limit)[:limit]
+                if error is not None:
+                    raise error
+                assert fetched_items is not None
                 source_runs[source.name]["fetched_count"] = len(fetched_items)
                 if source.source_type == "curated":
                     curated_urls_by_source[source.name] = set()
