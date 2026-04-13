@@ -399,6 +399,53 @@ class SourceHealthTests(unittest.TestCase):
         self.assertEqual(by_name["Anime Festival Asia"].healthy_runs, 1)
         self.assertEqual(by_name["Bandwagon Asia"].failing_runs, 1)
 
+    def test_replace_source_health_snapshot_overwrites_existing_rows_and_runs(self) -> None:
+        original_run = datetime(2026, 4, 6, 4, 5, tzinfo=timezone.utc)
+        replacement_run = datetime(2026, 4, 13, 4, 23, tzinfo=timezone.utc)
+
+        self.repository.record_source_health(
+            source_name="Bandwagon Asia",
+            status="ok",
+            fetched_count=5,
+            persisted_count=5,
+            error_count=0,
+            ran_at=original_run,
+        )
+        self.repository.record_source_health(
+            source_name="Eventbrite SG Anime",
+            status="ok",
+            fetched_count=4,
+            persisted_count=4,
+            error_count=0,
+            ran_at=original_run,
+        )
+
+        replacement_entries = [
+            SourceHealthEntry(
+                source_name="Anime Corner",
+                status="ok",
+                fetched_count=12,
+                persisted_count=12,
+                error_count=0,
+                consecutive_failures=0,
+                last_run_at=replacement_run,
+                last_success_at=replacement_run,
+                last_error=None,
+                stale=False,
+            )
+        ]
+
+        self.repository.replace_source_health_snapshot(replacement_entries, request_id="deploy-snapshot")
+
+        items = self.repository.list_source_health(stale_after_hours=24, now=replacement_run + timedelta(hours=1))
+        runs = self.repository.list_source_health_runs(limit=10)
+
+        self.assertEqual([item.source_name for item in items], ["Anime Corner"])
+        self.assertEqual(items[0].last_run_at, replacement_run)
+        self.assertEqual(len(runs), 1)
+        self.assertEqual(runs[0].source_name, "Anime Corner")
+        self.assertEqual(runs[0].request_id, "deploy-snapshot")
+
     def test_concurrent_source_health_failures_do_not_lose_counts(self) -> None:
         worker_count = 6
         barrier = threading.Barrier(worker_count)

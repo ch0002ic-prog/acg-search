@@ -253,6 +253,8 @@ The relevant environment variables are:
 
 This is a low-risk durability bridge rather than a full native Postgres migration. The current SQLite and FTS5 logic stays intact, while Neon stores the latest runtime snapshot across cold starts.
 
+Startup reconciliation note: when a bundled deployment snapshot is newer than the restored durable source-health state, the app now reapplies the bundled snapshot during startup so production can recover from stale persisted monitor data instead of continuing to serve an older source-health view indefinitely.
+
 The bundled seed dataset continues to load on Vercel even though the writable runtime state lives under `/tmp`, so cold starts still have baseline feed and search content. It also serves as the first bootstrap source when the durable snapshot store is empty.
 
 For better production parity, the app will prefer a bundled deployment snapshot at `data/deploy_articles.json` when it exists, then fall back to the smaller sample seed set.
@@ -266,6 +268,8 @@ You can refresh that bundled snapshot from your local SQLite store before deploy
 The export keeps the original article summaries when available, clears the heavier article body field to keep the bundle compact, and also writes a source-health snapshot for the production monitor UI.
 
 The scheduled GitHub Actions ingest workflow now runs this export automatically after each ingest cycle and commits refreshed deploy snapshots back to `main` when they change. That push then flows through the normal regression and Vercel deploy workflows.
+
+Operational caution: for Python deployments on Vercel, prefer a normal remote `vercel deploy --prod` build over `vercel build --prod` plus `vercel deploy --prebuilt --prod` from macOS. Local prebuilt artifacts can bundle platform-specific wheels that do not load in Vercel's Linux runtime.
 
 
 ## Notes

@@ -503,6 +503,55 @@ class ArticleRepository:
                 )
             connection.commit()
 
+    def replace_source_health_snapshot(self, entries: list[SourceHealthEntry], request_id: str | None = None) -> None:
+        if not entries:
+            return
+
+        with self.connect() as connection:
+            self._begin_immediate(connection)
+            connection.execute("DELETE FROM source_health_runs")
+            connection.execute("DELETE FROM source_health")
+            for entry in entries:
+                connection.execute(
+                    """
+                    INSERT INTO source_health (
+                        source_name,
+                        status,
+                        fetched_count,
+                        persisted_count,
+                        error_count,
+                        consecutive_failures,
+                        last_run_at,
+                        last_success_at,
+                        last_error
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        entry.source_name,
+                        entry.status,
+                        entry.fetched_count,
+                        entry.persisted_count,
+                        entry.error_count,
+                        entry.consecutive_failures,
+                        entry.last_run_at.astimezone(timezone.utc).isoformat(),
+                        entry.last_success_at.astimezone(timezone.utc).isoformat() if entry.last_success_at else None,
+                        entry.last_error,
+                    ),
+                )
+                self._insert_source_health_run(
+                    connection,
+                    source_name=entry.source_name,
+                    request_id=strip_text(request_id)[:128] if request_id else None,
+                    status=entry.status,
+                    fetched_count=entry.fetched_count,
+                    persisted_count=entry.persisted_count,
+                    error_count=entry.error_count,
+                    consecutive_failures=entry.consecutive_failures,
+                    last_error=entry.last_error,
+                    ran_at=entry.last_run_at.astimezone(timezone.utc),
+                )
+            connection.commit()
+
     def prune_source_health_sources(self, active_source_names: list[str]) -> tuple[int, int]:
         normalized_names = sorted(
             {

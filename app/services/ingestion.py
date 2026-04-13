@@ -11,7 +11,7 @@ import httpx
 
 from app.config import Settings
 from app.database import ArticleRepository
-from app.schemas import ArticleRecord
+from app.schemas import ArticleRecord, SourceHealthEntry
 from app.services.dedupe import article_dedupe_key, article_preference_signature
 from app.services.entities import infer_entity_tags
 from app.services.event_metadata import infer_event_metadata, merge_event_metadata
@@ -51,15 +51,56 @@ class IngestionService:
         self.sources = sources
 
     def bootstrap_if_empty(self) -> None:
+        deploy_articles = load_sample_articles(self.settings.data_dir)
+        deploy_source_health = load_source_health_snapshot(self.settings.data_dir)
+        should_apply_snapshot, sync_reason = self._should_apply_deploy_snapshot(deploy_source_health)
+
+        if should_apply_snapshot:
+            self._apply_article_snapshot(deploy_articles)
+            self.repository.replace_source_health_snapshot(deploy_source_health, request_id="deploy-snapshot")
+            logger.info(
+                "Applied bundled deploy snapshot during startup: reason=%s articles=%s source_health=%s",
+                sync_reason,
+                len(deploy_articles),
+                len(deploy_source_health),
+            )
+            return
+
         if self.repository.count_articles() == 0:
-            articles = load_sample_articles(self.settings.data_dir)
-            semantic_embeddings = self.vector_store.build_semantic_embeddings(articles)
-            self.repository.upsert_articles(articles, semantic_embeddings=semantic_embeddings)
-            self.vector_store.upsert_articles(articles, semantic_embeddings=semantic_embeddings)
+            self._apply_article_snapshot(deploy_articles)
 
         if self.repository.count_source_health() == 0:
-            source_health_entries = load_source_health_snapshot(self.settings.data_dir)
-            self.repository.bootstrap_source_health(source_health_entries, request_id="deploy-snapshot")
+            self.repository.bootstrap_source_health(deploy_source_health, request_id="deploy-snapshot")
+
+    def _apply_article_snapshot(self, articles: list[ArticleRecord]) -> None:
+        if not articles:
+            return
+
+        semantic_embeddings = self.vector_store.build_semantic_embeddings(articles)
+        self.repository.upsert_articles(articles, semantic_embeddings=semantic_embeddings)
+        self.vector_store.upsert_articles(articles, semantic_embeddings=semantic_embeddings)
+
+    def _should_apply_deploy_snapshot(self, source_health_entries: list[SourceHealthEntry]) -> tuple[bool, str | None]:
+        if not source_health_entries or not self.sources:
+            return False, None
+
+        current_source_health = self.repository.list_source_health(
+            stale_after_hours=self.settings.source_health_stale_hours,
+        )
+        if not current_source_health:
+            return False, None
+
+        snapshot_latest = max(entry.last_run_at.astimezone(timezone.utc) for entry in source_health_entries)
+        current_latest = max(entry.last_run_at.astimezone(timezone.utc) for entry in current_source_health)
+        if snapshot_latest > current_latest:
+            return True, "newer-source-health"
+
+        snapshot_source_names = {entry.source_name for entry in source_health_entries}
+        current_source_names = {entry.source_name for entry in current_source_health}
+        if snapshot_latest == current_latest and snapshot_source_names > current_source_names:
+            return True, "more-complete-source-health"
+
+        return False, None
 
     def synchronize_source_health_sources(self) -> tuple[int, int]:
         return self.repository.prune_source_health_sources([source.name for source in self.sources])
