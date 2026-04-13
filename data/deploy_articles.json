@@ -205,6 +205,36 @@
     "result_type": "event"
   },
   {
+    "id": "3b962cb346ec27ebc8d5dbb79d15a11dc4069a79",
+    "title": "Review: Shinehill Feels a Little Like a Resident Alien Life Sim",
+    "url": "https://www.siliconera.com/review-shinehill-feels-a-little-like-a-resident-alien-life-sim/?utm_source=rss&utm_medium=rss&utm_campaign=review-shinehill-feels-a-little-like-a-resident-alien-life-sim",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-12T19:00:00Z",
+    "summary": "Did you ever hear of the Syfy comedy starring Alan Tudyk called Resident Alien ? The concept is an alien crashes on Earth and starts to get adjusted to life there, hiding who he is",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9314174728867256,
+    "home_score": 0.8171,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "e848606d4b89ffe76ffd287a2d40482b60924a46",
     "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
     "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984536990561",
@@ -465,6 +495,71 @@
     "result_type": "event"
   },
   {
+    "id": "727e612646ac7da6ccf96ab6098e7c33b0632224",
+    "title": "Persona 5 Big Band Concert Gets New Character Illustrations And Ticket Pre-Sales - Noisy Pixel",
+    "url": "https://noisypixel.net/persona-5-big-band-concert-illustrations-ticket-pre-sales/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-12T22:32:34Z",
+    "summary": "Persona 5 Big Band Concert Gets New Character Illustrations And Ticket Pre-Sales Noisy Pixel",
+    "content": "",
+    "categories": [
+      "games",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.978343213721715,
+    "home_score": 0.7043,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "96460702b1947cdb07c9d90743b2fc1a5b13f40f",
+    "title": "10 Classic JRPGs That Are Even Better the Second Time Around - Comic Book Resources",
+    "url": "https://www.cbr.com/best-classic-jrpgs-better-on-replay/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-12T19:00:12Z",
+    "summary": "10 Classic JRPGs That Are Even Better the Second Time Around Comic Book Resources",
+    "content": "",
+    "categories": [
+      "games",
+      "events",
+      "comics"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9314118775532076,
+    "home_score": 0.6831,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "c1e52f6d39625bdec3ebd7065be91103e0401c36",
     "title": "Former Xbox exec regrets not securing Final Fantasy on the console, says Square Enix \"wanted Sony to have competition but couldn't be too overt\" - GamesRadar+",
     "url": "https://www.gamesradar.com/games/final-fantasy/former-xbox-exec-regrets-not-securing-final-fantasy-on-the-console-says-square-enix-wanted-sony-to-have-competition-but-couldnt-be-too-overt/",
@@ -485,26 +580,24 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9709059916307431,
-    "home_score": 0.7009,
+    "freshness_score": 0.8933590991079695,
+    "home_score": 0.666,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "96460702b1947cdb07c9d90743b2fc1a5b13f40f",
-    "title": "10 Classic JRPGs That Are Even Better the Second Time Around - Comic Book Resources",
-    "url": "https://www.cbr.com/best-classic-jrpgs-better-on-replay/",
+    "id": "3338a51e67709ecf0ca0fba0d2a4bab79713c1c6",
+    "title": "Dana White still not a fan of Josh Hokit\u2019s persona, but 'he walked the talk' beating Curtis Blaydes at UFC 327 - MSN",
+    "url": "https://www.msn.com/en-us/sports/mma_ufc/dana-white-still-not-a-fan-of-josh-hokit-s-persona-but-he-walked-the-talk-beating-curtis-blaydes-at-ufc-327/ar-AA20Iaps",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-12T15:05:48Z",
-    "summary": "10 Classic JRPGs That Are Even Better the Second Time Around Comic Book Resources",
+    "published_at": "2026-04-12T19:57:21Z",
+    "summary": "Dana White still not a fan of Josh Hokit\u2019s persona, but 'he walked the talk' beating Curtis Blaydes at UFC 327 MSN",
     "content": "",
     "categories": [
-      "games",
-      "events",
-      "comics"
+      "games"
     ],
     "tags": [
       "jrpg"
@@ -512,8 +605,33 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9588008029567123,
-    "home_score": 0.6955,
+    "freshness_score": 0.9438155471816316,
+    "home_score": 0.6647,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d4f79d99c5514536e91603147a5c8d68e0218a1a",
+    "title": "8 Best Final Fantasy Sequels Of All Time - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-best-sequels-all-time/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-12T19:00:20Z",
+    "summary": "8 Best Final Fantasy Sequels Of All Time ScreenRant",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9314406348573413,
+    "home_score": 0.6591,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -541,8 +659,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.931342555984229,
-    "home_score": 0.6921,
+    "freshness_score": 0.8569454276292109,
+    "home_score": 0.6586,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -578,34 +696,9 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7587912619261314,
-    "home_score": 0.6815,
+    "freshness_score": 0.6981889417456317,
+    "home_score": 0.6542,
     "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "892daaea7b4037d04426d32adf59de349a73c25f",
-    "title": "Dana White still not a fan of Josh Hokit\u2019s persona, but \u2018he walked the talk\u2019 beating Curtis Blaydes at UFC 327 - MMA Fighting",
-    "url": "https://www.mmafighting.com/ufc/482313/dana-white-still-not-a-fan-of-josh-hokits-persona-but-he-walked-the-talk-beating-curtis-blaydes-at-ufc-327",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-12T14:00:00Z",
-    "summary": "Dana White still not a fan of Josh Hokit\u2019s persona, but \u2018he walked the talk\u2019 beating Curtis Blaydes at UFC 327 MMA Fighting",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9443075089054104,
-    "home_score": 0.6649,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -628,8 +721,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.939159236532792,
-    "home_score": 0.6626,
+    "freshness_score": 0.864147975640836,
+    "home_score": 0.6289,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -653,8 +746,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8869989924360792,
-    "home_score": 0.6391,
+    "freshness_score": 0.8161538064494713,
+    "home_score": 0.6073,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -679,8 +772,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8540361072611494,
-    "home_score": 0.6243,
+    "freshness_score": 0.7858236874416862,
+    "home_score": 0.5936,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -714,8 +807,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7253302991030273,
-    "home_score": 0.5994,
+    "freshness_score": 0.6673897598805576,
+    "home_score": 0.5733,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -745,8 +838,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.492160493048097,
-    "home_score": 0.587,
+    "freshness_score": 0.45284839728872633,
+    "home_score": 0.5693,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -775,8 +868,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6673360791229206,
-    "home_score": 0.5733,
+    "freshness_score": 0.6140282118361396,
+    "home_score": 0.5493,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -811,8 +904,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.46516592129774137,
-    "home_score": 0.5493,
+    "freshness_score": 0.42801455470346406,
+    "home_score": 0.5326,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -840,13 +933,92 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4491580675043572,
-    "home_score": 0.5421,
+    "freshness_score": 0.4132851991976104,
+    "home_score": 0.526,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "May 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c16532a1c3c284be91caaaec4c5489c08df002a1",
+    "title": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! - Geek Culture",
+    "url": "https://geekculture.co/anime-festival-asia-singapore-afa-sg-2022-artist-alley-highlights/",
+    "source_name": "Google News Artist Alley",
+    "source_type": "rss",
+    "published_at": "2022-11-26T08:00:00Z",
+    "summary": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! Geek Culture",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 1.0,
+    "freshness_score": 2.5569163828586746e-179,
+    "home_score": 0.517,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3b85d28d31b52b730b52916772cf70456e9a5549",
+    "title": "The Weeknd to present Anime of the Year at 2026 Crunchyroll Anime Awards in Tokyo",
+    "url": "https://www.bandwagon.asia/articles/the-weeknd-to-present-anime-of-the-year-at-2026-crunchyroll-anime-awards-in-tokyo",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-10T02:17:00Z",
+    "summary": "Global superstar The Weeknd is set to make a special appearance at the 10th Crunchyroll Anime Awards , taking place on 23 May in Tokyo, Japan",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.3791238553260899,
+    "home_score": 0.5166,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "23 May",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -878,8 +1050,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.5343609510190849,
-    "home_score": 0.5335,
+    "freshness_score": 0.4916753494111541,
+    "home_score": 0.5143,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -895,75 +1067,45 @@
     "result_type": "article"
   },
   {
-    "id": "99c31b7ea072e93d72b26a1e52eea967a0be97b8",
-    "title": "New Turn-Based RPGs to Play \u2013 April 11, 2026 - Turn Based Lovers",
-    "url": "https://turnbasedlovers.com/news/new-turn-based-rpgs-to-play-april-11-2026/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-11T11:04:39Z",
-    "summary": "New Turn-Based RPGs to Play \u2013 April 11, 2026 Turn Based Lovers",
+    "id": "7eab4b5bd68e4139229e5fbd5123510061c3e6bc",
+    "title": "AFA Singapore 2025 official event page with creator and artist alley updates",
+    "url": "https://animefestival.asia/afasg25/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2025-11-24T12:00:00Z",
+    "summary": "Official Anime Festival Asia Singapore event page for creator booths, artist alley activity, guests, and related event information",
     "content": "",
     "categories": [
-      "games"
+      "events",
+      "anime",
+      "merch"
     ],
     "tags": [
-      "jrpg"
+      "afa",
+      "singapore"
     ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6497113906367231,
-    "home_score": 0.5324,
-    "source_quality": 0.76,
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.9500000000000001,
+    "freshness_score": 6.3769246186577726e-21,
+    "home_score": 0.5075,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
-      "event_type": null,
-      "date_label": "April 11, 2026",
+      "event_type": "festival",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
-      "guest_status": null,
+      "guest_status": "Lineup details mentioned",
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "3b85d28d31b52b730b52916772cf70456e9a5549",
-    "title": "The Weeknd to present Anime of the Year at 2026 Crunchyroll Anime Awards in Tokyo",
-    "url": "https://www.bandwagon.asia/articles/the-weeknd-to-present-anime-of-the-year-at-2026-crunchyroll-anime-awards-in-tokyo",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-10T02:17:00Z",
-    "summary": "Global superstar The Weeknd is set to make a special appearance at the 10th Crunchyroll Anime Awards , taking place on 23 May in Tokyo, Japan",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.41203799470023483,
-    "home_score": 0.5314,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C14%2C1200%2C600%5D/resize=w:1920/pjpg=q:90/compress/IY8MOLacQD6CNNUPM8yk",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "23 May",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
+    "result_type": "source_page"
   },
   {
     "id": "772857507026a7b77743714ac82035ed0b05c8f2",
@@ -987,8 +1129,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.1,
-    "freshness_score": 0.5054837869368719,
-    "home_score": 0.5255,
+    "freshness_score": 0.46510494054083534,
+    "home_score": 0.5073,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1025,205 +1167,11 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.4985117044119783,
-    "home_score": 0.5173,
+    "freshness_score": 0.45868979940167237,
+    "home_score": 0.4994,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c16532a1c3c284be91caaaec4c5489c08df002a1",
-    "title": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! - Geek Culture",
-    "url": "https://geekculture.co/anime-festival-asia-singapore-afa-sg-2022-artist-alley-highlights/",
-    "source_name": "Google News Artist Alley",
-    "source_type": "rss",
-    "published_at": "2022-11-26T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! Geek Culture",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 1.0,
-    "freshness_score": 2.778833122501549e-179,
-    "home_score": 0.517,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Lineup details mentioned",
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c7cd9f71f7180ae0f39fa31b36b7552aeed251c8",
-    "title": "FFXIV Fan Festival 2026 US Goody Bag Merchandise Shared",
-    "url": "https://www.siliconera.com/ffxiv-fan-festival-2026-us-goody-bag-merchandise-shared/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-fan-festival-2026-us-goody-bag-merchandise-shared",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T20:00:00Z",
-    "summary": "Every year when Square Enix holds its FFXIV Fan Festival events, it also involves a goody bag with merchandise inspired by the MMORPG, and the 2026 US installment\u2019s contents are re",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "FFXIV Fan Festival"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5269905692369035,
-    "home_score": 0.5101,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "April 24-25, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "7eab4b5bd68e4139229e5fbd5123510061c3e6bc",
-    "title": "AFA Singapore 2025 official event page with creator and artist alley updates",
-    "url": "https://animefestival.asia/afasg25/",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2025-11-24T12:00:00Z",
-    "summary": "Official Anime Festival Asia Singapore event page for creator booths, artist alley activity, guests, and related event information",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.9500000000000001,
-    "freshness_score": 6.930546517158647e-21,
-    "home_score": 0.5075,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Lineup details mentioned",
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "source_page"
-  },
-  {
-    "id": "13cee7c1eb96c9fa3d28e793c34db64c2d1ad153",
-    "title": "NieR: Automata 2B Virtuous Contract Sword Replica Heads to US",
-    "url": "https://www.siliconera.com/nier-automata-2b-virtuous-contract-sword-replica-heads-to-us/?utm_source=rss&utm_medium=rss&utm_campaign=nier-automata-2b-virtuous-contract-sword-replica-heads-to-us",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T19:00:00Z",
-    "summary": "Following a Japanese release in November 2025 , Hibino and Square confirmed the 1:1 replica of the 2B Virtuous Contract sword from NieR: Automata will appear in the US",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5197218464778145,
-    "home_score": 0.5069,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 15, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "d74624a227b649c1c7e0d8f61afc10421b0cb3c8",
-    "title": "Amazon Luna Purchased Games Will Be Unplayable After June 2026",
-    "url": "https://www.siliconera.com/amazon-luna-purchased-games-will-be-unplayable-after-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-luna-purchased-games-will-be-unplayable-after-june-2026",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T18:00:00Z",
-    "summary": "Amazon issued a statement on the future of its Luna game service, and as part of that it noted that it will discontinue individual game purchases and third-party subscriptions, whi",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.512553380051597,
-    "home_score": 0.5036,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 10, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1251,7 +1199,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 4.994839836844931e-19,
+    "freshness_score": 4.595953271091512e-19,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1294,7 +1242,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 6.841126951531568e-30,
+    "freshness_score": 6.2947963884010375e-30,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1335,7 +1283,7 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 8.330848387173519e-132,
+    "freshness_score": 7.665549068320926e-132,
     "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
@@ -1352,13 +1300,13 @@
     "result_type": "article"
   },
   {
-    "id": "4d4e9b1508145b7d321bad5579c03e13867e4e93",
-    "title": "Inazuma Eleven RE Remake Coming to Switch 2, Not PS4",
-    "url": "https://www.siliconera.com/inazuma-eleven-re-remake-coming-to-switch-2-not-ps4/?utm_source=rss&utm_medium=rss&utm_campaign=inazuma-eleven-re-remake-coming-to-switch-2-not-ps4",
+    "id": "c7cd9f71f7180ae0f39fa31b36b7552aeed251c8",
+    "title": "FFXIV Fan Festival 2026 US Goody Bag Merchandise Shared",
+    "url": "https://www.siliconera.com/ffxiv-fan-festival-2026-us-goody-bag-merchandise-shared/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-fan-festival-2026-us-goody-bag-merchandise-shared",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-10T15:25:00Z",
-    "summary": "As part of the many Level-5 Vision 2026 Craftmanship announcements, there was an update confirming Inazuma Eleven RE will be on the Switch 2, but the remake won\u2019t be on the PS4",
+    "published_at": "2026-04-10T20:00:00Z",
+    "summary": "Every year when Square Enix holds its FFXIV Fan Festival events, it also involves a goody bag with merchandise inspired by the MMORPG, and the 2026 US installment\u2019s contents are re",
     "content": "",
     "categories": [
       "games",
@@ -1366,58 +1314,44 @@
       "merch",
       "events"
     ],
-    "tags": [],
-    "entity_tags": [],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "FFXIV Fan Festival"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.49448915043169595,
-    "home_score": 0.4955,
+    "freshness_score": 0.4848937257816533,
+    "home_score": 0.4912,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "April 24-25, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
-    "id": "bce525e5e351f00d8191d26fb62fcd85cc004bd6",
-    "title": "Decapolice Won\u2019t Be on the Switch or PS4, Will Be on Switch 2",
-    "url": "https://www.siliconera.com/decapolice-wont-be-on-the-switch-or-ps4-will-be-on-switch-2/?utm_source=rss&utm_medium=rss&utm_campaign=decapolice-wont-be-on-the-switch-or-ps4-will-be-on-switch-2",
+    "id": "13cee7c1eb96c9fa3d28e793c34db64c2d1ad153",
+    "title": "NieR: Automata 2B Virtuous Contract Sword Replica Heads to US",
+    "url": "https://www.siliconera.com/nier-automata-2b-virtuous-contract-sword-replica-heads-to-us/?utm_source=rss&utm_medium=rss&utm_campaign=nier-automata-2b-virtuous-contract-sword-replica-heads-to-us",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-10T15:00:00Z",
-    "summary": "Part of the Level-5 Vision 2026 Craftmanship stream involved a brief update on the updated game Decapolice , and this time it involved the Switch and PS4 versions being canceled",
+    "published_at": "2026-04-10T19:00:00Z",
+    "summary": "Following a Japanese release in November 2025 , Hibino and Square confirmed the 1:1 replica of the 2B Virtuous Contract sword from NieR: Automata will appear in the US",
     "content": "",
     "categories": [
       "games",
       "anime",
       "merch",
       "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.49163578408194736,
-    "home_score": 0.4942,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c62f5e683b20d8025865d175f1bdcb3457a8d6a2",
-    "title": "Snack World Reloaded Remake Heading to Switch 2, PS5, and PC",
-    "url": "https://www.siliconera.com/snack-world-reloaded-remake-heading-to-switch-2-ps5-and-pc/?utm_source=rss&utm_medium=rss&utm_campaign=snack-world-reloaded-remake-heading-to-switch-2-ps5-and-pc",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-10T14:40:00Z",
-    "summary": "Level-5 is bringing back Snack World once again, as the former 3DS and Switch game is getting a Switch 2, PS5, and PC remake called Snack World Reloaded",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
     ],
     "tags": [
       "jrpg"
@@ -1425,11 +1359,20 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.4893649502624105,
-    "home_score": 0.4932,
+    "freshness_score": 0.47820564052751824,
+    "home_score": 0.4882,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 15, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1458,13 +1401,48 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 6.555761328148512e-21,
+    "freshness_score": 6.032109551639482e-21,
     "home_score": 0.4855,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
       "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "d74624a227b649c1c7e0d8f61afc10421b0cb3c8",
+    "title": "Amazon Luna Purchased Games Will Be Unplayable After June 2026",
+    "url": "https://www.siliconera.com/amazon-luna-purchased-games-will-be-unplayable-after-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-luna-purchased-games-will-be-unplayable-after-june-2026",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T18:00:00Z",
+    "summary": "Amazon issued a statement on the future of its Luna game service, and as part of that it noted that it will discontinue individual game purchases and third-party subscriptions, whi",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.4716098029586341,
+    "home_score": 0.4852,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 10, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1502,7 +1480,7 @@
       "SEA"
     ],
     "sg_relevance": 0.85,
-    "freshness_score": 4.854156781463016e-52,
+    "freshness_score": 4.4665053437214044e-52,
     "home_score": 0.4795,
     "source_quality": 0.78,
     "image_url": null,
@@ -1516,6 +1494,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "4d4e9b1508145b7d321bad5579c03e13867e4e93",
+    "title": "Inazuma Eleven RE Remake Coming to Switch 2, Not PS4",
+    "url": "https://www.siliconera.com/inazuma-eleven-re-remake-coming-to-switch-2-not-ps4/?utm_source=rss&utm_medium=rss&utm_campaign=inazuma-eleven-re-remake-coming-to-switch-2-not-ps4",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T15:25:00Z",
+    "summary": "As part of the many Level-5 Vision 2026 Craftmanship announcements, there was an update confirming Inazuma Eleven RE will be on the Switch 2, but the remake won\u2019t be on the PS4",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.4549885738033995,
+    "home_score": 0.4777,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1545,7 +1549,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 4.994894156216236e-19,
+    "freshness_score": 4.596003478023852e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1588,7 +1592,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 2.564464174463122e-19,
+    "freshness_score": 2.3596668706954606e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1631,7 +1635,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 1.3166398129376109e-19,
+    "freshness_score": 1.2114933705178538e-19,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1675,7 +1679,7 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 4.124154034638142e-177,
+    "freshness_score": 3.794800388752541e-177,
     "home_score": 0.477,
     "source_quality": 0.78,
     "image_url": null,
@@ -1689,6 +1693,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "bce525e5e351f00d8191d26fb62fcd85cc004bd6",
+    "title": "Decapolice Won\u2019t Be on the Switch or PS4, Will Be on Switch 2",
+    "url": "https://www.siliconera.com/decapolice-wont-be-on-the-switch-or-ps4-will-be-on-switch-2/?utm_source=rss&utm_medium=rss&utm_campaign=decapolice-wont-be-on-the-switch-or-ps4-will-be-on-switch-2",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-10T15:00:00Z",
+    "summary": "Part of the Level-5 Vision 2026 Craftmanship stream involved a brief update on the updated game Decapolice , and this time it involved the Switch and PS4 versions being canceled",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.45236313944123097,
+    "home_score": 0.4766,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1716,7 +1746,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 3.4708968937613665e-20,
+    "freshness_score": 3.193661611431089e-20,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1757,7 +1787,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 8.342976669029796e-24,
+    "freshness_score": 7.67658767481648e-24,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1799,7 +1829,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 5.055398257242405e-29,
+    "freshness_score": 4.6516021276989875e-29,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1843,7 +1873,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 9.548413958961225e-30,
+    "freshness_score": 8.785741581379309e-30,
     "home_score": 0.4685,
     "source_quality": 0.74,
     "image_url": null,
@@ -1884,7 +1914,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 9.148637085987e-21,
+    "freshness_score": 8.418008518549062e-21,
     "home_score": 0.467,
     "source_quality": 0.73,
     "image_url": null,
@@ -1926,7 +1956,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 0.0002816372015878134,
+    "freshness_score": 0.00025914549291455353,
     "home_score": 0.4611,
     "source_quality": 0.79,
     "image_url": null,
@@ -1959,7 +1989,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 7.939215617440588e-36,
+    "freshness_score": 7.30518530177801e-36,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -1991,7 +2021,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.9679348231001813e-38,
+    "freshness_score": 1.8107744165926472e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2033,7 +2063,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.9679348014316494e-38,
+    "freshness_score": 1.810774398680534e-38,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2074,7 +2104,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 3.389418535269455e-42,
+    "freshness_score": 3.1187376228006705e-42,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2116,7 +2146,7 @@
       "SEA"
     ],
     "sg_relevance": 0.7699999999999999,
-    "freshness_score": 1.1025938110974037e-46,
+    "freshness_score": 1.0145400364045192e-46,
     "home_score": 0.461,
     "source_quality": 0.79,
     "image_url": null,
@@ -2149,49 +2179,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.76,
-    "freshness_score": 1.003329940368986e-17,
-    "home_score": 0.451,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e56e5fbfa312f2965b0d1238d0517bb83dd10607",
-    "title": "Asia Album: Singapore Comic Con celebrates pop culture - Xinhua",
-    "url": "https://english.news.cn/20251208/d7fb5ffad1fd4c75b2341eae261ad28c/c.html",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2025-12-08T08:00:00Z",
-    "summary": "Asia Album: Singapore Comic Con celebrates pop culture Xinhua",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.76,
-    "freshness_score": 6.971482732165479e-19,
+    "freshness_score": 9.231897145932702e-18,
     "home_score": 0.451,
     "source_quality": 0.74,
     "image_url": null,
