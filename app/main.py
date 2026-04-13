@@ -97,6 +97,7 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
         sources=build_sources(settings),
     )
     ingestion_service.bootstrap_if_empty()
+    retired_source_health_count, retired_source_run_count = ingestion_service.synchronize_source_health_sources()
     stale_curated_ids = ingestion_service.synchronize_curated_source_articles()
     canonicalized_articles, canonicalized_old_ids = ingestion_service.canonicalize_google_news_wrapper_articles()
     semantic_embedding_sync_count = ingestion_service.synchronize_semantic_embeddings()
@@ -120,6 +121,12 @@ def build_runtime(state_store: SqliteSnapshotStateStore | None = None) -> tuple[
         logger.info("Removed %s non-external article rows during startup maintenance", len(invalid_url_ids))
     if stale_curated_ids:
         logger.info("Removed %s stale curated source rows during startup maintenance", len(stale_curated_ids))
+    if retired_source_health_count or retired_source_run_count:
+        logger.info(
+            "Removed %s retired source-health rows and %s retired source-health run rows during startup maintenance",
+            retired_source_health_count,
+            retired_source_run_count,
+        )
     if canonicalized_old_ids:
         logger.info("Canonicalized %s stored Google News wrapper rows during startup maintenance", len(canonicalized_old_ids))
     if semantic_embedding_sync_count:

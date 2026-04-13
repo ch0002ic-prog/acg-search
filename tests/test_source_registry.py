@@ -13,18 +13,29 @@ class SourceRegistryTests(unittest.TestCase):
         live_sources = [source for source in sources if source.source_type != "curated"]
 
         self.assertEqual(len(names), len(set(names)))
-        self.assertGreaterEqual(len(live_sources), 24)
+        self.assertGreaterEqual(len(live_sources), 40)
         self.assertTrue(
             {
                 "RPG Site",
-                "Automaton West",
-                "Noisy Pixel",
-                "Kakuchopurei",
-                "GamesHub",
-                "Final Weapon",
-                "Google News SEA Gacha",
-                "Google News SEA TCG",
-                "Google News SG Cosplay",
+                "RPGamer",
+                "Niche Gamer",
+                "Anime Corner",
+                "Honey's Anime",
+                "Otaku USA",
+                "Geek Culture",
+                "Esports.gg",
+                "Esports Insider",
+                "Operation Rainfall",
+                "Anime Hunch",
+                "Anime Trending",
+                "NookGaming",
+                "Nintendo Everything",
+                "J-List Blog",
+                "Confirm Good",
+                "Google News SEA VTubers",
+                "Google News SG Figures",
+                "Google News SEA Fighting Games",
+                "Google News SG Anisong",
             }.issubset(set(names))
         )
         self.assertTrue(all(source.feed_url for source in live_sources))

@@ -323,6 +323,35 @@ class SourceHealthTests(unittest.TestCase):
         self.assertEqual(items[0].url, canonical_url)
         self.assertNotEqual(items[0].id, wrapper_article.id)
 
+    def test_prune_source_health_sources_removes_retired_source_rows_and_runs(self) -> None:
+        now = datetime(2026, 4, 1, 12, 0, tzinfo=timezone.utc)
+
+        self.repository.record_source_health(
+            source_name="Bandwagon Asia",
+            status="ok",
+            fetched_count=3,
+            persisted_count=2,
+            error_count=0,
+            ran_at=now,
+        )
+        self.repository.record_source_health(
+            source_name="Legacy Feed",
+            status="ok",
+            fetched_count=5,
+            persisted_count=5,
+            error_count=0,
+            ran_at=now,
+        )
+
+        deleted_health, deleted_runs = self.repository.prune_source_health_sources(["Bandwagon Asia"])
+
+        self.assertEqual(deleted_health, 1)
+        self.assertEqual(deleted_runs, 1)
+        remaining_health = self.repository.list_source_health(stale_after_hours=24, now=now)
+        remaining_runs = self.repository.list_source_health_runs(limit=10)
+        self.assertEqual([entry.source_name for entry in remaining_health], ["Bandwagon Asia"])
+        self.assertEqual([entry.source_name for entry in remaining_runs], ["Bandwagon Asia"])
+
     def test_bootstrap_source_health_snapshot_seeds_entries_and_runs(self) -> None:
         now = datetime(2026, 4, 5, 11, 0, tzinfo=timezone.utc)
         entries = [

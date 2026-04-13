@@ -503,6 +503,34 @@ class ArticleRepository:
                 )
             connection.commit()
 
+    def prune_source_health_sources(self, active_source_names: list[str]) -> tuple[int, int]:
+        normalized_names = sorted(
+            {
+                normalized
+                for name in active_source_names
+                if (normalized := strip_text(name)[:160])
+            }
+        )
+
+        with self.connect() as connection:
+            self._begin_immediate(connection)
+            if normalized_names:
+                placeholders = ", ".join("?" for _ in normalized_names)
+                delete_runs = connection.execute(
+                    f"DELETE FROM source_health_runs WHERE source_name NOT IN ({placeholders})",
+                    normalized_names,
+                )
+                delete_health = connection.execute(
+                    f"DELETE FROM source_health WHERE source_name NOT IN ({placeholders})",
+                    normalized_names,
+                )
+            else:
+                delete_runs = connection.execute("DELETE FROM source_health_runs")
+                delete_health = connection.execute("DELETE FROM source_health")
+            connection.commit()
+
+        return int(delete_health.rowcount or 0), int(delete_runs.rowcount or 0)
+
     def list_source_health(
         self,
         stale_after_hours: int,

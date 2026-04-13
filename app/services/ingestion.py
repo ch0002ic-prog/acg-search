@@ -61,6 +61,9 @@ class IngestionService:
             source_health_entries = load_source_health_snapshot(self.settings.data_dir)
             self.repository.bootstrap_source_health(source_health_entries, request_id="deploy-snapshot")
 
+    def synchronize_source_health_sources(self) -> tuple[int, int]:
+        return self.repository.prune_source_health_sources([source.name for source in self.sources])
+
     def _fetch_source_batches(self, limit: int) -> list[tuple[BaseSource, list[SourceArticle] | None, Exception | None]]:
         worker_count = min(max(1, self.settings.source_fetch_max_workers), max(1, len(self.sources)))
         if worker_count <= 1 or len(self.sources) <= 1:
@@ -89,6 +92,7 @@ class IngestionService:
         seen_urls: set[str] = set()
         curated_urls_by_source: dict[str, set[str]] = {}
         source_runs: dict[str, dict[str, Any]] = {}
+        pruned_source_health, pruned_source_health_runs = self.synchronize_source_health_sources()
         logger.info(
             "Refresh ingest started: request_id=%s limit_per_source=%s source_count=%s source_fetch_workers=%s",
             request_id or "none",
@@ -175,7 +179,7 @@ class IngestionService:
             "errors": errors,
         }
         logger.info(
-            "Refresh ingest completed: request_id=%s fetched=%s persisted=%s seed_used=%s errors=%s canonicalized=%s stale_curated_pruned=%s duplicates_pruned=%s mismatches_pruned=%s",
+            "Refresh ingest completed: request_id=%s fetched=%s persisted=%s seed_used=%s errors=%s canonicalized=%s stale_curated_pruned=%s duplicates_pruned=%s mismatches_pruned=%s retired_source_health_pruned=%s retired_source_runs_pruned=%s",
             request_id or "none",
             result["fetched"],
             result["persisted"],
@@ -185,6 +189,8 @@ class IngestionService:
             len(stale_curated_ids),
             len(duplicate_ids),
             len(mismatch_ids),
+            pruned_source_health,
+            pruned_source_health_runs,
         )
         return result
 

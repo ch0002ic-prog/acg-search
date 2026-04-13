@@ -162,6 +162,49 @@
     "result_type": "event"
   },
   {
+    "id": "d36768b611569d9784644c10457f00d97d01221e",
+    "title": "Centimillimental returns to Singapore this July with intimate 'GIVEN' 7th anniversary show",
+    "url": "https://www.bandwagon.asia/articles/centimillimental-returns-to-singapore-this-july-with-given-7th-anniversary-show",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-13T04:11:00Z",
+    "summary": "Japanese multi-instrumentalist Centimillimental is set to return to Singapore with a deeply immersive show that fans of GIVEN won\u2019t want to miss",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 0.9971006730765926,
+    "home_score": 0.8442,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C251%2C3020%2C1510%5D/resize=w:1920/pjpg=q:90/compress/qIsLYecdSVKkuyMIBUV2",
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": "11 July",
+      "venue": "Esplanade",
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Kizuato",
+        "including \u2018Yuigon\u2019"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "d958943683b299952c291ef741715e325d40f62e",
     "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
     "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
@@ -639,8 +682,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.8916841257933241,
-    "home_score": 0.7993,
+    "freshness_score": 0.8777006498482021,
+    "home_score": 0.793,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -683,6 +726,41 @@
     "result_type": "event"
   },
   {
+    "id": "da83e529bab646f92e2164fbb2c2a709bbcf20ac",
+    "title": "Bocchi the Rock\u2019s Ikuyo Kita Gets Guitars from Gibson and Epiphone",
+    "url": "https://anitrendz.net/news/2026/04/12/bocchi-the-rocks-ikuyo-kita-gets-guitars-from-gibson-and-epiphone/?utm_source=rss&utm_medium=rss&utm_campaign=bocchi-the-rocks-ikuyo-kita-gets-guitars-from-gibson-and-epiphone",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-13T03:22:54Z",
+    "summary": "Guitar maker Gibson and its Epiphone brand have revealed Les Paul Jr",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9860557115825638,
+    "home_score": 0.7107,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 7",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "59740cc883e37bba69f1d7b71e26d1a4fb1555ca",
     "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2 DLC Character Shinobu Kocho (Infinity Castle) Releases on April 17 in Japan",
     "url": "https://finalweapon.net/2026/04/12/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-2-dlc-character-shinobu-kocho-infinity-castle-release-date-japan/",
@@ -701,13 +779,76 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9998781162941632,
-    "home_score": 0.7154,
+    "freshness_score": 0.9841966031285166,
+    "home_score": 0.7084,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "April 17",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "83fc115d82cd096d042eddd9e20fb3941cc84b3b",
+    "title": "AI LIMIT DLC: Eirene\u2019s Furnace of War Impression",
+    "url": "https://rpgamer.com/2026/04/ai-limit-dlc-eirenes-furnace-of-war-impression/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-13T02:18:57Z",
+    "summary": "AI LIMIT DLC: Eirene\u2019s Furnace of War Impression is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9715681323821906,
+    "home_score": 0.7072,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "608aa017710067155e8311404bcc12ebba235c71",
+    "title": "Etrange Overlord Review",
+    "url": "https://rpgamer.com/review/etrange-overlord-review/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-13T02:17:10Z",
+    "summary": "Strange, isn't it? Etrange Overlord bills itself as a \u201cMusical Action-RPG,\u201d and while there are both Action and RPG elements, though I often felt like I was playing something more",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "manga",
+      "gacha"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9711668210364567,
+    "home_score": 0.707,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "expo",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -741,8 +882,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9366568966792858,
-    "home_score": 0.7085,
+    "freshness_score": 0.9219670322679783,
+    "home_score": 0.7019,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -785,70 +926,30 @@
     "result_type": "article"
   },
   {
-    "id": "489a510f2e67583f06efe682ec081365f1c6ba46",
-    "title": "Final Fantasy VII Ever Crisis Chapter 10 \u201cLooming Threat\u201d Arrives April 15",
-    "url": "https://noisypixel.net/final-fantasy-vii-ever-crisis-chapter-10-looming-threat-release/",
-    "source_name": "Noisy Pixel",
+    "id": "30c88739c86f780d048f5a42513ec2b8b7811998",
+    "title": "Famitsu\u2019s most wanted games \u2013 April 12, 2026 Pokemon Winds / Waves is your new #1",
+    "url": "https://nintendoeverything.com/famitsus-most-wanted-games-april-12-2026/",
+    "source_name": "Nintendo Everything",
     "source_type": "rss",
-    "published_at": "2026-04-12T20:37:33Z",
-    "summary": "Square Enix has unveiled a new trailer for Final Fantasy VII Ever Crisis, featuring a continuation of the main Final Fantasy VII narrative",
+    "published_at": "2026-04-13T03:50:58Z",
+    "summary": "It\u2019s time for the latest Famitsu\u2019s most wanted games chart outlining what Japanese gamers are looking forward to based on reader votes",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9120481733722843,
-    "home_score": 0.6774,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 15",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4d4da8e4f28789c1bb8382017a86c0030501189c",
-    "title": "Firion and Balthier join Dissidia Duellum Final Fantasy on April 14, 2026 - Nova Crystallis",
-    "url": "https://novacrystallis.com/2026/04/firion-and-balthier-join-dissidia-duellum-final-fantasy-on-april-14-2026/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-13T00:53:07Z",
-    "summary": "Firion and Balthier join Dissidia Duellum Final Fantasy on April 14, 2026 Nova Crystallis",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
+      "merch"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9676318288513323,
-    "home_score": 0.6754,
-    "source_quality": 0.76,
+    "freshness_score": 0.9924862015363981,
+    "home_score": 0.6941,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "April 14, 2026",
+      "date_label": "April 12, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -890,6 +991,197 @@
     "result_type": "article"
   },
   {
+    "id": "489a510f2e67583f06efe682ec081365f1c6ba46",
+    "title": "Final Fantasy VII Ever Crisis Chapter 10 \u201cLooming Threat\u201d Arrives April 15",
+    "url": "https://noisypixel.net/final-fantasy-vii-ever-crisis-chapter-10-looming-threat-release/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-12T20:37:33Z",
+    "summary": "Square Enix has unveiled a new trailer for Final Fantasy VII Ever Crisis, featuring a continuation of the main Final Fantasy VII narrative",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8977442275624116,
+    "home_score": 0.671,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 15",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4d4da8e4f28789c1bb8382017a86c0030501189c",
+    "title": "Firion and Balthier join Dissidia Duellum Final Fantasy on April 14, 2026 - Nova Crystallis",
+    "url": "https://novacrystallis.com/2026/04/firion-and-balthier-join-dissidia-duellum-final-fantasy-on-april-14-2026/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-13T00:53:07Z",
+    "summary": "Firion and Balthier join Dissidia Duellum Final Fantasy on April 14, 2026 Nova Crystallis",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.952452614162434,
+    "home_score": 0.6686,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 14, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4665ac452089b6bbb4bafe6369b11b32ff481ec2",
+    "title": "Being and Becoming Interview",
+    "url": "https://rpgamer.com/2026/04/being-and-becoming-interview/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-12T19:21:05Z",
+    "summary": "Metroidvanias thrive on interesting visually impressive premises that mix with unique atmosphere and enjoyable gameplay",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8819916032713768,
+    "home_score": 0.6669,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b1aadc04ecb891b0124291e2de45fad60f8bf6cd",
+    "title": "Avowed Works Best When You Stop Expecting a Sandbox RPG",
+    "url": "https://rpgamer.com/2026/04/avowed-works-best-when-you-stop-expecting-a-sandbox-rpg/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-12T19:20:57Z",
+    "summary": "Obsidian Entertainment\u2019s Avowed is a game I liked from the start, even when the wider conversation around it didn\u2019t always reflect that",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8819642216205755,
+    "home_score": 0.6669,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "expo",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b5c4f507cad88e0bb3a298610aea22216ce27cf0",
+    "title": "WIT STUDIO Produces Music Video for Agents of the Four Seasons OP \u201cPetals\u201d",
+    "url": "https://anitrendz.net/news/2026/04/12/wit-studio-produces-music-video-for-agents-of-the-four-seasons-op-petals/?utm_source=rss&utm_medium=rss&utm_campaign=wit-studio-produces-music-video-for-agents-of-the-four-seasons-op-petals",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-12T15:52:51Z",
+    "summary": "A WIT STUDIO-produced music video for Agents of the Four Seasons: Dance of Spring opening song \u201cPetals\u201d has been released on artist Orangestar\u2018s YouTube channel",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.840484949626149,
+    "home_score": 0.6652,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b60a5fbb2ef44c5a11436dac55ea3c0954886f1f",
+    "title": "Seiko Yoshioka Shares the Visual Craft Behind Frieren: Beyond Journey\u2019s End",
+    "url": "https://anitrendz.net/news/2026/04/12/seiko-yoshioka-frieren-interview/?utm_source=rss&utm_medium=rss&utm_campaign=seiko-yoshioka-frieren-interview",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-12T19:00:00Z",
+    "summary": "Frieren: Beyond Journey\u2019s End is a beloved story, filled with lovable characters, engaging plotlines, and fantastic music, but it especially stands out for its remarkable, richly d",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8776964563487667,
+    "home_score": 0.662,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "3e19dd88239426e8a7ac476009778bcd869d0cc8",
     "title": "Dissidia Duellum Adds Balthier and Firion with New Character Trailers",
     "url": "https://noisypixel.net/dissidia-duellum-balthier-firion-trailers-new-characters/",
@@ -911,8 +1203,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9273048042450163,
-    "home_score": 0.6663,
+    "freshness_score": 0.912761586168149,
+    "home_score": 0.6597,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -938,72 +1230,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8917251826587342,
-    "home_score": 0.6653,
+    "freshness_score": 0.877736690906971,
+    "home_score": 0.659,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "561d2d0775e9ca9c830f3bd8ceec92d78830cc4a",
-    "title": "Rascal Does Not Dream of a Dear Friend Reveals Tomoe Koga Key Visual",
-    "url": "https://finalweapon.net/2026/04/12/rascal-does-not-dream-of-a-dear-friend-tomoe-koga-key-visual/",
-    "source_name": "Final Weapon",
-    "source_type": "rss",
-    "published_at": "2026-04-12T21:00:07Z",
-    "summary": "The staff of the upcoming Rascal Does Not Dream of a Dear Friend anime film has revealed a new key visual, showcasing the character of Tomoe Koga",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9168249530649084,
-    "home_score": 0.6601,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "October 16",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "be38b6837880bbc3df3ddc037039a0bdec144cb8",
-    "title": "Dissidia Duellum Final Fantasy Character Preview Trailers Highlight Balthier and Firion",
-    "url": "https://finalweapon.net/2026/04/12/dissidia-duellum-final-fantasy-balthier-firion-character-preview-trailers/",
-    "source_name": "Final Weapon",
-    "source_type": "rss",
-    "published_at": "2026-04-12T20:54:17Z",
-    "summary": "Square Enix has released two new \u201cCharacter Preview\u201d trailers for Dissidia Duellum Final Fantasy to give players a sneak peek at Balthier (VA: Hiroaki Hirata) from Final Fantasy XI",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9155877895778105,
-    "home_score": 0.6595,
-    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1059,17 +1288,80 @@
     "result_type": "article"
   },
   {
-    "id": "c1e52f6d39625bdec3ebd7065be91103e0401c36",
-    "title": "Former Xbox exec regrets not securing Final Fantasy on the console, says Square Enix \"wanted Sony to have competition but couldn't be too overt\" - GamesRadar+",
-    "url": "https://www.gamesradar.com/games/final-fantasy/former-xbox-exec-regrets-not-securing-final-fantasy-on-the-console-says-square-enix-wanted-sony-to-have-competition-but-couldnt-be-too-overt/",
-    "source_name": "Google News JRPG",
+    "id": "561d2d0775e9ca9c830f3bd8ceec92d78830cc4a",
+    "title": "Rascal Does Not Dream of a Dear Friend Reveals Tomoe Koga Key Visual",
+    "url": "https://finalweapon.net/2026/04/12/rascal-does-not-dream-of-a-dear-friend-tomoe-koga-key-visual/",
+    "source_name": "Final Weapon",
     "source_type": "rss",
-    "published_at": "2026-04-12T16:00:00Z",
-    "summary": "Former Xbox exec regrets not securing Final Fantasy on the console, says Square Enix \"wanted Sony to have competition but couldn't be too overt\" GamesRadar+",
+    "published_at": "2026-04-12T21:00:07Z",
+    "summary": "The staff of the upcoming Rascal Does Not Dream of a Dear Friend anime film has revealed a new key visual, showcasing the character of Tomoe Koga",
     "content": "",
     "categories": [
       "games",
-      "events"
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9024459963204821,
+    "home_score": 0.6536,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "October 16",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "46c3e4a0e3cf7f533c32df7eb4fa68d1b8ab50a2",
+    "title": "TH benjyfishy on VCT EMEA 2026 run: \u201cWe are not in our top form right now\u201d",
+    "url": "https://esports.gg/news/valorant/th-benjyfishy-vct-emea-2026-stage-1-interview/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-12T16:30:05Z",
+    "summary": "TH benjyfishy opens up about the disappointing start to Stage 1, Koshmaras\u2019 debut, and his growth since starting his esports career",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8477603395761979,
+    "home_score": 0.6535,
+    "source_quality": 0.76,
+    "image_url": "https://media.esports.gg/uploads/2026/04/TH-benjyfishy-1024x576.avif",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "be38b6837880bbc3df3ddc037039a0bdec144cb8",
+    "title": "Dissidia Duellum Final Fantasy Character Preview Trailers Highlight Balthier and Firion",
+    "url": "https://finalweapon.net/2026/04/12/dissidia-duellum-final-fantasy-balthier-firion-character-preview-trailers/",
+    "source_name": "Final Weapon",
+    "source_type": "rss",
+    "published_at": "2026-04-12T20:54:17Z",
+    "summary": "Square Enix has released two new \u201cCharacter Preview\u201d trailers for Dissidia Duellum Final Fantasy to give players a sneak peek at Balthier (VA: Hiroaki Hirata) from Final Fantasy XI",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
     ],
     "tags": [
       "jrpg"
@@ -1079,44 +1371,123 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8552938000190572,
-    "home_score": 0.6489,
-    "source_quality": 0.76,
+    "freshness_score": 0.9012281123430138,
+    "home_score": 0.6531,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "f70a487a18e2789fe79cabc0a7761b1c35e847bb",
-    "title": "Ghost Concert: missing Songs Release Dates, Schedule and Episodes",
-    "url": "https://finalweapon.net/2026/04/12/ghost-concert-missing-songs-anime-release-dates-schedule-episodes-crunchyroll/",
-    "source_name": "Final Weapon",
+    "id": "28d25fa8e3afa82d8066737b23e2211fc57e5d5a",
+    "title": "RPGamer Round-Up: April 5 \u2013 April 12",
+    "url": "https://rpgamer.com/2026/04/rpgamer-round-up-april-5-april-12-2/",
+    "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-04-12T15:30:18Z",
-    "summary": "studio ENGI\u2019s new Ghost Concert: missing Songs anime is quite a wonderful enigma, and it\u2019s one that Symphogear fans should definitely tune into! Final Weapon has everything you nee",
+    "published_at": "2026-04-12T12:30:19Z",
+    "summary": "Welcome to the latest edition of RPGamer's round-up column, where we look back at some of the articles that we have posted over the intervening period",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "merch",
       "events"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8494338829333816,
-    "home_score": 0.6477,
-    "source_quality": 0.77,
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8019908283258925,
+    "home_score": 0.6509,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
-      "event_type": "concert",
-      "date_label": null,
+      "event_type": null,
+      "date_label": "April 5",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "735857570dbd4ab804370844b1b7f5a5cb1d1d98",
+    "title": "Rascal Does Not Dream of A Dear Friend Releases Tomoe Koga Visual",
+    "url": "https://anitrendz.net/news/2026/04/12/rascal-does-not-dream-of-a-dear-friend-releases-tomoe-koga-visual/?utm_source=rss&utm_medium=rss&utm_campaign=rascal-does-not-dream-of-a-dear-friend-releases-tomoe-koga-visual",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-12T16:35:14Z",
+    "summary": "Rascal Does Not Dream of A Dear Friend\u2018s \u201cmemorial visual\u201d series has gotten a new addition featuring Tomoe Koga and her romantic feelings",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8487714970019787,
+    "home_score": 0.6489,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "screening",
+      "date_label": "October 16",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Tomoe Koga"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "44783380e07f0af613d2d6975914253be474107c",
+    "title": "One Piece Reveals New Opening & Ending Featuring Mural and Holy Knights",
+    "url": "https://animecorner.me/one-piece-reveals-new-opening-ending-featuring-mural-and-holy-knights/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-12T15:33:14Z",
+    "summary": "One Piece Reveals New Opening & Ending Featuring Mural and Holy Knights",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.836677229552945,
+    "home_score": 0.6465,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Mural",
+        "Ending Featuring Mural",
+        "Holy Knights"
+      ],
       "merch_status": null
     },
     "result_type": "article"
@@ -1148,61 +1519,59 @@
     "result_type": "article"
   },
   {
-    "id": "8cc6792e13ef574c59c34f84307b673fe0aad453",
-    "title": "One Piece Elbaph Arc Release Dates, Schedule and Episodes",
-    "url": "https://finalweapon.net/2026/04/12/one-piece-elbaph-arc-release-dates-schedule-episodes-crunchyroll/",
-    "source_name": "Final Weapon",
+    "id": "c1e52f6d39625bdec3ebd7065be91103e0401c36",
+    "title": "Former Xbox exec regrets not securing Final Fantasy on the console, says Square Enix \"wanted Sony to have competition but couldn't be too overt\" - GamesRadar+",
+    "url": "https://www.gamesradar.com/games/final-fantasy/former-xbox-exec-regrets-not-securing-final-fantasy-on-the-console-says-square-enix-wanted-sony-to-have-competition-but-couldnt-be-too-overt/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-12T14:15:01Z",
-    "summary": "After months on hiatus, the One Piece anime finally returns with a new seasonal format in One Piece Elbaph Arc! Final Weapon has everything you need to know about the One Piece Elb",
+    "published_at": "2026-04-12T16:00:00Z",
+    "summary": "Former Xbox exec regrets not securing Final Fantasy on the console, says Square Enix \"wanted Sony to have competition but couldn't be too overt\" GamesRadar+",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch"
+      "events"
     ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
+    "tags": [
+      "jrpg"
     ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8347592874990072,
-    "home_score": 0.6431,
-    "source_quality": 0.77,
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8425574140116349,
+    "home_score": 0.6432,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "ba38ef3c602002e9c42a39a8fd02d53246649d70",
-    "title": "Howl of the Heart Sort of Feels Like a Supernatural Love Triangle",
-    "url": "https://www.siliconera.com/howl-of-the-heart-sort-of-feels-like-a-supernatural-love-triangle/?utm_source=rss&utm_medium=rss&utm_campaign=howl-of-the-heart-sort-of-feels-like-a-supernatural-love-triangle",
-    "source_name": "Siliconera",
+    "id": "f70a487a18e2789fe79cabc0a7761b1c35e847bb",
+    "title": "Ghost Concert: missing Songs Release Dates, Schedule and Episodes",
+    "url": "https://finalweapon.net/2026/04/12/ghost-concert-missing-songs-anime-release-dates-schedule-episodes-crunchyroll/",
+    "source_name": "Final Weapon",
     "source_type": "rss",
-    "published_at": "2026-04-12T13:00:00Z",
-    "summary": "It\u2019s interesting how we\u2019re seeing a number of otherworldly love stories lately with leads that aren\u2019t quite human",
+    "published_at": "2026-04-12T15:30:18Z",
+    "summary": "studio ENGI\u2019s new Ghost Concert: missing Songs anime is quite a wonderful enigma, and it\u2019s one that Symphogear fans should definitely tune into! Final Weapon has everything you nee",
     "content": "",
     "categories": [
       "games",
       "anime",
       "merch",
-      "events",
-      "manga"
+      "events"
     ],
-    "tags": [
-      "jrpg"
-    ],
+    "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8203889838161611,
-    "home_score": 0.6422,
-    "source_quality": 0.82,
+    "freshness_score": 0.8361116343902905,
+    "home_score": 0.6418,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
-      "event_type": null,
-      "date_label": "July 21, 2026",
+      "event_type": "concert",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1213,55 +1582,30 @@
     "result_type": "article"
   },
   {
-    "id": "d4f79d99c5514536e91603147a5c8d68e0218a1a",
-    "title": "8 Best Final Fantasy Sequels Of All Time - ScreenRant",
-    "url": "https://screenrant.com/final-fantasy-best-sequels-all-time/",
-    "source_name": "Google News JRPG",
+    "id": "d63cba15bd30a0ef318fe5d26ec5a0488ddb9d62",
+    "title": "VIT PAL on Sayonara\u2019s debut at the VCT EMEA 2026 Stage 1: \u201cThere\u2019s so much he is capable of\u201d",
+    "url": "https://esports.gg/news/valorant/vit-pal-vct-emea-2026-stage-1-interview/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-04-12T19:00:20Z",
-    "summary": "8 Best Final Fantasy Sequels Of All Time ScreenRant",
+    "published_at": "2026-04-12T13:52:31Z",
+    "summary": "VIT PAL reflected on the team\u2019s overall performance against FNATIC, Sayonara\u2019s Tier 1 debut, the 2027 season, and his IGL\u2019s bee cosplay",
     "content": "",
     "categories": [
+      "esports",
       "games"
     ],
     "tags": [],
     "entity_tags": [
-      "Final Fantasy"
+      "Valorant"
     ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8917527129416454,
-    "home_score": 0.6413,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8a305895f117f35638c6debcf6f0c8af54aa970c",
-    "title": "20 Years Ago, Anime's Best Spring Lineup of All Time Debuted - Comic Book Resources",
-    "url": "https://www.cbr.com/best-anime-season-spring-2006/",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2026-04-11T22:15:12Z",
-    "summary": "20 Years Ago, Anime's Best Spring Lineup of All Time Debuted Comic Book Resources",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
     "region_tags": [
-      "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6684512897903196,
-    "home_score": 0.6408,
-    "source_quality": 0.75,
-    "image_url": null,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8173964222121681,
+    "home_score": 0.6398,
+    "source_quality": 0.76,
+    "image_url": "https://media.esports.gg/uploads/2026/04/VIT-PAL-1024x576.avif",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1292,6 +1636,33 @@
     "result_type": "article"
   },
   {
+    "id": "8cc6792e13ef574c59c34f84307b673fe0aad453",
+    "title": "One Piece Elbaph Arc Release Dates, Schedule and Episodes",
+    "url": "https://finalweapon.net/2026/04/12/one-piece-elbaph-arc-release-dates-schedule-episodes-crunchyroll/",
+    "source_name": "Final Weapon",
+    "source_type": "rss",
+    "published_at": "2026-04-12T14:15:01Z",
+    "summary": "After months on hiatus, the One Piece anime finally returns with a new seasonal format in One Piece Elbaph Arc! Final Weapon has everything you need to know about the One Piece Elb",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8216668574827949,
+    "home_score": 0.6373,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "23f73c1ba86e173ef1a6383f02d097ebaa889c49",
     "title": "10 Biggest Final Fantasy Plot Twists Of All Time - ScreenRant",
     "url": "https://screenrant.com/final-fantasy-biggest-plot-twists/",
@@ -1317,13 +1688,13 @@
     "result_type": "article"
   },
   {
-    "id": "5a758a62645a15b28047fc8de86d4a61a1882409",
-    "title": "Ace of Diamond Act II Second Season Release Dates, Schedule and Episodes",
-    "url": "https://finalweapon.net/2026/04/12/ace-of-diamond-act-ii-second-season-release-dates-schedule-and-episodes/",
-    "source_name": "Final Weapon",
+    "id": "ba38ef3c602002e9c42a39a8fd02d53246649d70",
+    "title": "Howl of the Heart Sort of Feels Like a Supernatural Love Triangle",
+    "url": "https://www.siliconera.com/howl-of-the-heart-sort-of-feels-like-a-supernatural-love-triangle/?utm_source=rss&utm_medium=rss&utm_campaign=howl-of-the-heart-sort-of-feels-like-a-supernatural-love-triangle",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-12T08:30:19Z",
-    "summary": "The stakes at bat have never been higher in Ace of Diamond Act II Second Season, the long awaited sequel to the TV anime adaptation of Y\u016bji Terajima\u2019s Ace of Diamond Act II manga!",
+    "published_at": "2026-04-12T13:00:00Z",
+    "summary": "It\u2019s interesting how we\u2019re seeing a number of otherworldly love stories lately with leads that aren\u2019t quite human",
     "content": "",
     "categories": [
       "games",
@@ -1332,15 +1703,77 @@
       "events",
       "manga"
     ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8075235599352668,
+    "home_score": 0.6364,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 21, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "8a305895f117f35638c6debcf6f0c8af54aa970c",
+    "title": "20 Years Ago, Anime's Best Spring Lineup of All Time Debuted - Comic Book Resources",
+    "url": "https://www.cbr.com/best-anime-season-spring-2006/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-11T22:15:12Z",
+    "summary": "20 Years Ago, Anime's Best Spring Lineup of All Time Debuted Comic Book Resources",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "comics"
+    ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
+      "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7707404959271312,
-    "home_score": 0.6323,
-    "source_quality": 0.77,
+    "sg_relevance": 0.43,
+    "freshness_score": 0.6579652591382082,
+    "home_score": 0.6361,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d4f79d99c5514536e91603147a5c8d68e0218a1a",
+    "title": "8 Best Final Fantasy Sequels Of All Time - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-best-sequels-all-time/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-12T19:00:20Z",
+    "summary": "8 Best Final Fantasy Sequels Of All Time ScreenRant",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8777638271183658,
+    "home_score": 0.635,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1371,13 +1804,121 @@
     "result_type": "article"
   },
   {
-    "id": "556655b0e3481e70c7a263df8eb40a31c84b3b1b",
-    "title": "Wistoria: Wand and Sword Season 2 Release Dates, Schedule and Episodes",
-    "url": "https://finalweapon.net/2026/04/12/wistoria-wand-and-sword-season-2-release-dates-schedule-episodes-crunchyroll/",
+    "id": "644f908e10f3829d528a8ed04e5ead7e91ebf7cb",
+    "title": "Arknights: Endfield Version 1.2 Update Continues Wuling Storyline Next Week",
+    "url": "https://rpgamer.com/2026/04/arknights-endfield-version-1-2-update-continues-wuling-storyline-next-week/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-12T12:30:05Z",
+    "summary": "Arknights: Endfield Version 1.2 Update Continues Wuling Storyline Next Week",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8019473169647899,
+    "home_score": 0.6309,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 17, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "09ae4e4276305642ffa5c59020a115973d9611f4",
+    "title": "Honkai: Star Rail Anniversary Version 4.2 Update Arriving This Month",
+    "url": "https://rpgamer.com/2026/04/honkai-star-rail-anniversary-version-4-2-update-arriving-this-month/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-12T12:29:41Z",
+    "summary": "Honkai: Star Rail Anniversary Version 4.2 Update Arriving This Month is trending around hoyoverse.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8018730492659992,
+    "home_score": 0.6308,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 22, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9e11ab80433058f9fba88b3cd09af87305611ff7",
+    "title": "Pokemon Champions Battle Pass Season M-2 rewards leaked",
+    "url": "https://nintendoeverything.com/pokemon-champions-battle-pass-season-m-2-rewards-leaked/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-12T12:44:09Z",
+    "summary": "Pok\u00e9mon Champions has already leaked details about its Battle Pass Season M-2 rewards",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.804565063678374,
+    "home_score": 0.6296,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 12",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5a758a62645a15b28047fc8de86d4a61a1882409",
+    "title": "Ace of Diamond Act II Second Season Release Dates, Schedule and Episodes",
+    "url": "https://finalweapon.net/2026/04/12/ace-of-diamond-act-ii-second-season-release-dates-schedule-and-episodes/",
     "source_name": "Final Weapon",
     "source_type": "rss",
-    "published_at": "2026-04-12T07:30:19Z",
-    "summary": "Will Serfort and his friends return to rise up to even greater challenges in Wistoria: Wand and Sword Season 2, the continuation of the anime series for Fujino \u014cmori and Toshi Aoi\u2019",
+    "published_at": "2026-04-12T08:30:19Z",
+    "summary": "The stakes at bat have never been higher in Ace of Diamond Act II Second Season, the long awaited sequel to the TV anime adaptation of Y\u016bji Terajima\u2019s Ace of Diamond Act II manga!",
     "content": "",
     "categories": [
       "games",
@@ -1392,491 +1933,25 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7601097603370003,
-    "home_score": 0.6275,
+    "freshness_score": 0.7586520807527408,
+    "home_score": 0.6269,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "4d535bb4aa64be5d31ef39a8f7d54e3d2640fd8b",
-    "title": "The Classroom of a Black Cat and a Witch Release Dates, Schedule and Episodes",
-    "url": "https://finalweapon.net/2026/04/12/the-classroom-of-a-black-cat-and-a-witch-release-dates-schedule-episodes-crunchyroll/",
-    "source_name": "Final Weapon",
+    "id": "89290f31f66164cf65e7dba488bb7544034fbe83",
+    "title": "Five reasons to follow Groups at CS2 IEM Rio 2026, plus match details and results",
+    "url": "https://esports.gg/news/counter-strike-2/groups-rio-2026-details-results/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-04-12T14:30:21Z",
-    "summary": "A magicless girl aims to break a curse with the help of a black cat in the exciting anime adaptation of Y\u014dsuke Kaneda\u2019s The Classroom of a Black Cat and a Witch manga! Final Weapon",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8377274342146385,
-    "home_score": 0.6245,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "cf7babc4c18d785767325fbb579bb6c557144003",
-    "title": "Streamer Support, Mental Health Gaming, Final Fantasy for Good, and the UVW: Good in Gaming Vol. 3 - superjumpmagazine.com",
-    "url": "https://www.superjumpmagazine.com/streamer-support-mental-health-gaming-final-fantasy-for-good-and-the-uvw-good-in-gaming-vol-3/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-05T15:01:24Z",
-    "summary": "Streamer Support, Mental Health Gaming, Final Fantasy for Good, and the UVW: Good in Gaming Vol",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8377894612489108,
-    "home_score": 0.617,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2742b3043987a27aaa7f89fc1faa7f4cf228bd97",
-    "title": "Final Fantasy 7: Ever Crisis - Official Chapter 10 'Looming Threat' Trailer - IGN India",
-    "url": "https://in.ign.com/final-fantasy-vii-ever-crisis/258113/video/final-fantasy-7-ever-crisis-official-chapter-10-looming-threat-trailer",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-12T13:36:23Z",
-    "summary": "Final Fantasy 7: Ever Crisis - Official Chapter 10 'Looming Threat' Trailer IGN India",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8273273410159988,
-    "home_score": 0.6123,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7089c72cf155bff5620066f9d490738baa617542",
-    "title": "The Best Deals Today: Final Fantasy VII Remake Intergrade, Super Mario Galaxy + Super Mario Galaxy 2, and More - ign.com",
-    "url": "https://www.ign.com/articles/best-deals-for-april-4-2026",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T19:55:33Z",
-    "summary": "The Best Deals Today: Final Fantasy VII Remake Intergrade, Super Mario Galaxy + Super Mario Galaxy 2, and More ign",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8107769383031217,
-    "home_score": 0.6048,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "36bae6742e2e9a23f8ee1c275cc3956b6ab98560",
-    "title": "Rose Guns Days Season 1 is Out Now for MangaGamer and Steam",
-    "url": "https://finalweapon.net/2026/04/11/rose-guns-days-season-1-is-out-now-for-mangagamer-and-steam/",
-    "source_name": "Final Weapon",
-    "source_type": "rss",
-    "published_at": "2026-04-12T01:16:22Z",
-    "summary": "MangaGamer has released 07th Expansion-developed visual novel Rose Guns Days Season 1 on PC via the MangaGamer platform and Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.6970801116096413,
-    "home_score": 0.6012,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 23",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "cb033c57fc8a64a03f7444e59af477af8eab18a1",
-    "title": "Southeast Asia launches national team-level esports competition - VnExpress International",
-    "url": "https://e.vnexpress.net/news/sports/other-sports/southeast-asia-launches-national-team-level-esports-competition-5057970.html",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-04-03T02:57:42Z",
-    "summary": "Southeast Asia launches national team-level esports competition VnExpress International",
+    "published_at": "2026-04-12T11:00:00Z",
+    "summary": "Two groups at Intel Extreme Masters Rio 2026 (IEM Rio 2026) feature pretty intriguing matchups",
     "content": "",
     "categories": [
       "esports",
       "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 0.45899614077446393,
-    "home_score": 0.596,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1f6702210058a5e809bbb21c988dcfdd98f327ab",
-    "title": "Dissidia Duellum Final Fantasy Gift Codes Available Right Now - games.gg",
-    "url": "https://games.gg/news/dissidia-duellum-final-fantasy-gift-codes/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T17:15:11Z",
-    "summary": "Dissidia Duellum Final Fantasy Gift Codes Available Right Now games",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7812311356228776,
-    "home_score": 0.5916,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "381b9b45dbd23bffc9796c68c1a14ea961a48699",
-    "title": "Final Fantasy Isn\u2019t Appealing to Younger Players, and There\u2019s Only One Way to Fix That - ComicBook.com",
-    "url": "https://comicbook.com/gaming/feature/final-fantasy-isnt-appealing-to-younger-players-and-theres-only-one-way-to-fix-that/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T17:00:00Z",
-    "summary": "Final Fantasy Isn\u2019t Appealing to Younger Players, and There\u2019s Only One Way to Fix That ComicBook",
-    "content": "",
-    "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7784901914421525,
-    "home_score": 0.5903,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b6f4a08aa5a3906bb0d9aa2ada99b3dffd3d681c",
-    "title": "JRPG Akuma Rise coming to Switch May 7th, 2026 - GoNintendo",
-    "url": "https://gonintendo.com/contents/59606-jrpg-akuma-rise-coming-to-switch-may-7th-2026",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-04T16:39:09Z",
-    "summary": "JRPG Akuma Rise coming to Switch May 7th, 2026 GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7747419506160651,
-    "home_score": 0.5886,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b9cfc428b70ad4ffbf2a8ff7e87979467f61e9f4",
-    "title": "REMOW to Stream Ichijyoma Mankitsu Gurashi! Anime",
-    "url": "https://finalweapon.net/2026/04/11/remow-stream-ichijoma-mankitsu-gurashi-anime/",
-    "source_name": "Final Weapon",
-    "source_type": "rss",
-    "published_at": "2026-04-12T00:43:58Z",
-    "summary": "REMOW has confirmed that the anime adaptation of Kumako Hisama\u2019s Ichij\u014dma Mankitsu Gurashi! (Living Life to the Fullest in a Tiny One-Tatami-Mat-Sized Room) manga will be streaming",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6918715656221321,
-    "home_score": 0.5768,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d45aa877bf02d5ed10aad1acac85c6c72b6c5834",
-    "title": "Homura Hime Could Be Perfect After a Few More Patches",
-    "url": "https://www.siliconera.com/homura-hime-could-be-perfect-after-a-few-more-patches/?utm_source=rss&utm_medium=rss&utm_campaign=homura-hime-could-be-perfect-after-a-few-more-patches",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-11T19:00:00Z",
-    "summary": "There are times when a concept for a game is so goo and the idea behind it is so close to being ready, but isn\u2019t quite there yet",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6389195726342722,
-    "home_score": 0.5605,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5b259cdc8f58fa350f576867bb8723895889f719",
-    "title": "Mark Lee announces departure from NCT & SM Entertainment after 10 years",
-    "url": "https://www.bandwagon.asia/articles/mark-lee-announces-departure-from-nct-sm-entertainment-after-10-years",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-03T10:26:00Z",
-    "summary": "After a decade of defining moments, Mark Lee is officially stepping into a new chapter",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "idol",
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.51,
-    "freshness_score": 0.403636921305885,
-    "home_score": 0.5596,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C41%2C2000%2C1000%5D/resize=w:1920/pjpg=q:90/compress/jMhM5eu2TiKjih2yA2qi",
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "3 April",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "38030bad54ea70f710ddd3acfe153cf5d5bbfacf",
-    "title": "On and Off Work-Life Imbalance Handles Its Reveal Well",
-    "url": "https://www.siliconera.com/on-and-off-work-life-imbalance-handles-its-reveal-well/?utm_source=rss&utm_medium=rss&utm_campaign=on-and-off-work-life-imbalance-handles-its-reveal-well",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-04T19:00:00Z",
-    "summary": "On and Off Work-Life Imbalance has, so far, been a heartening manga about people getting a chance to be true to themselves and end up accepted by others",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6344991395033808,
-    "home_score": 0.5585,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dca8fcb2c1a3b83e85d6088d9c44369aa178c1e1",
-    "title": "Okami 20th Anniversary Collaboration Announced at Monster Hunter Bar",
-    "url": "https://noisypixel.net/okami-20th-anniversary-monster-hunter-bar-collaboration/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-11T14:50:23Z",
-    "summary": "Capcom is celebrating the 20th anniversary of Okami with a themed collaboration event at Monster Hunter Bar locations from April 20 to June 1, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6030480150176319,
-    "home_score": 0.5384,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 20",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "27c333a24c72484c9526f468113094e1eca3eb69",
-    "title": "Assassin & Cinderella Gets More Serious in Volume 3",
-    "url": "https://www.siliconera.com/assassin-cinderella-gets-more-serious-in-volume-3/?utm_source=rss&utm_medium=rss&utm_campaign=assassin-cinderella-gets-more-serious-in-volume-3",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-11T13:00:00Z",
-    "summary": "One of Assassin & Cinderella \u2019s flaws in early volumes is that the manga is very much filled with josei fanservice",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga",
-      "gacha"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.587834374982854,
-    "home_score": 0.5375,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "October 6, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4b409ef8ead41f6c869a73f436e577fe4ed98fa3",
-    "title": "Review: Bubblegum Galaxy Features a Fantastic Aesthetic",
-    "url": "https://www.siliconera.com/review-bubblegum-galaxy-features-a-fantastic-aesthetic/?utm_source=rss&utm_medium=rss&utm_campaign=review-bubblegum-galaxy-features-a-fantastic-aesthetic",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-04T13:00:00Z",
-    "summary": "There are some games where, after I play them, I find I remember more about the ambiance and aesthetic than the actual gameplay",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.583767380409972,
-    "home_score": 0.5357,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dfe46f0ae3f892466033e065ed122a04e05f5df3",
-    "title": "Review: Homura: The Crimson Warriors Is Another IFI Historical Otome",
-    "url": "https://www.siliconera.com/review-homura-the-crimson-warriors-is-another-ifi-historical-otome/?utm_source=rss&utm_medium=rss&utm_campaign=review-homura-the-crimson-warriors-is-another-ifi-historical-otome",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-03T13:00:00Z",
-    "summary": "Idea Factory and Otomate are pretty great about releasing different types of otome visual novels that cover various themes, and they\u2019re well known for their historical ones",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
     ],
     "tags": [],
     "entity_tags": [],
@@ -1884,39 +1959,12 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.5276894079956083,
-    "home_score": 0.5305,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1baac99e514395c95e881b0c625067831e30d16b",
-    "title": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool - Esports Charts",
-    "url": "https://escharts.com/tournaments/aov/sea-games-2025-vietnam-men-qualifier",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-04-03T06:03:18Z",
-    "summary": "SEA Games 2025 Vietnam Men Qualifier - AoV - Viewership, Overview, Prize Pool Esports Charts",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.37971765754918496,
-    "home_score": 0.5304,
+    "freshness_score": 0.7853973576348303,
+    "home_score": 0.6254,
     "source_quality": 0.76,
-    "image_url": null,
+    "image_url": "https://media.esports.gg/uploads/2026/04/CS2-IEM-Rio-2026-Grous-cover-1024x576.avif",
     "event_metadata": {
-      "event_type": "qualifier",
+      "event_type": "tournament",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
@@ -1925,6 +1973,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "defde177517850b7d3e248fbae6ab9beaa6dbead",
+    "title": "Nintendo reveals Europe\u2019s best-selling digital games for March 2026",
+    "url": "https://nintendoeverything.com/nintendo-reveals-europes-best-selling-digital-games-for-march-2026/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-12T12:00:21Z",
+    "summary": "Recently, Nintendo provided a listing of the top 15 European eShop downloads for March 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7964488768827505,
+    "home_score": 0.6239,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   }
 ]
