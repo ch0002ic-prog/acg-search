@@ -1,5 +1,51 @@
 [
   {
+    "id": "4f856daeccb0b3f4207d55e37da99eb466cc9188",
+    "title": "HYBE, SM Entertainment, JYP Entertainment & YG Entertainment to create music festival to outshine Coachella",
+    "url": "https://www.bandwagon.asia/articles/hybe-sm-entertainment-jyp-entertainment-yg-entertainment-to-create-a-music-festival-to-beat-coachella",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-16T06:48:00Z",
+    "summary": "Stunning outfits, amazing artists, and pure summer vibes is what Coachella has brought to the music festival scene since its launch in 1999",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "idol"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.51,
+    "freshness_score": 0.9271639397403222,
+    "home_score": 0.7952,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C60%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/54EFxPjeQbWMCsSpgeQz",
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "16 April",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Sabrina Carpenter",
+        "Major Lazer",
+        "TAEMIN",
+        "BIGBANG",
+        "Fujii Kaze"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "145c09250bb0e6e0edceb1291c3fd5e0c90f40bd",
     "title": "muque unveil 2nd album 'GLHF' & edgy 'Good Luck, Have Fun' MV ahead of Asia tour in Singapore, Seoul & more",
     "url": "https://www.bandwagon.asia/articles/muque-drops-playful-2nd-album-glhf-alongside-edgy-mv-for-title-track-good-luck-have-fun",
@@ -23,8 +69,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9477505314224836,
-    "home_score": 0.7845,
+    "freshness_score": 0.8752341920471877,
+    "home_score": 0.7519,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C77%2C1440%2C720%5D/resize=w:1920/pjpg=q:90/compress/1OSgJX92Rcy5CLKl6UfQ",
     "event_metadata": {
@@ -63,8 +109,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.752255778384533,
-    "home_score": 0.746,
+    "freshness_score": 0.6946974244866227,
+    "home_score": 0.7201,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -80,13 +126,188 @@
     "result_type": "article"
   },
   {
+    "id": "c1a736233d79bc51102de247ecce8b0187963c1e",
+    "title": "Adventure Corner ~ Cthulhu: The Cosmic Abyss",
+    "url": "https://rpgamer.com/2026/04/adventure-corner-cthulhu-the-cosmic-abyss/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-16T08:00:23Z",
+    "summary": "Welcome to Adventure Corner, a column where members of the RPGamer staff can give their thoughts, impressions, and pseudo-reviews for various adventure titles that don't come under",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.942829550291779,
+    "home_score": 0.7143,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "01535e1a9459aa3f6ba6181552d3df72d502299d",
+    "title": "Slideshow: Persona 5 CE - IGN Southeast Asia",
+    "url": "https://sea.ign.com/shin-megami-tensei-persona-5/104297/persona-5-ce",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-16T07:55:48Z",
+    "summary": "Slideshow: Persona 5 CE IGN Southeast Asia",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.2,
+    "freshness_score": 0.9418294994473165,
+    "home_score": 0.7138,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2b1858edc5e8b023d26c4fe15457c71f83f5e28f",
+    "title": "Slideshow: Persona 5 Costume DLC - IGN Southeast Asia",
+    "url": "https://sea.ign.com/playstation-4-gaming-hardware/114051/persona-5-costume-dlc",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-16T07:55:31Z",
+    "summary": "Slideshow: Persona 5 Costume DLC IGN Southeast Asia",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.2,
+    "freshness_score": 0.9417677268944683,
+    "home_score": 0.7138,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "669158c1d93ee791afbc3be7aaf81f056edd10e1",
+    "title": "The Prince of Tennis Otome Dating Sims \u2018Sweet School Festival\u2019 and \u2018Doki Doki Survival\u2019 Get Worldwide Release in July",
+    "url": "https://noisypixel.net/the-prince-of-tennis-otome-dating-sims-sweet-school-festival-and-doki-doki-survival-get-worldwide-release-in-july/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-16T10:24:34Z",
+    "summary": "Konami has announced the release date for its two upcoming The Prince of Tennis otome game rereleases",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9748283164569412,
+    "home_score": 0.7057,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "July 30",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9bc9922f61640326f2ad02c6d44a21953b933f10",
+    "title": "Metal Slug devs\u2019 modern revival of forgotten monster-taming RPG Navinosuke will add togglable quest and objective markers to the game. \u201cIf we don\u2019t add them, people will get angry\u201d",
+    "url": "https://automaton-media.com/en/news/metal-slug-devs-modern-revival-of-forgotten-monster-taming-rpg-navinosuke-will-add-togglable-quest-and-objective-markers-to-the-game-if-we-dont-add-them-people-will-get-an/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-04-16T12:00:00Z",
+    "summary": "Metal Slug artist Akio shares update on the dev progress of Navinosuke: The Yo-Kai Buster, revealing some \"polarizing\" new QOL updates",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9966029344705224,
+    "home_score": 0.699,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "38a6a38137371b71cb6a57e80a793d88a2bca446",
+    "title": "Japan\u2019s biggest \u201cghost developer\u201d known for working for Atlus and Square Enix sees significant growth in console sector following shift away from mobile games",
+    "url": "https://automaton-media.com/en/news/japans-biggest-ghost-developer-known-for-working-for-atlus-and-square-enix-sees-significant-growth-in-console-sector-following-shift-away-from-mobile-games/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-04-16T08:59:59Z",
+    "summary": "Tose recently announced its financial results for the second quarter of the current fiscal year, reporting significant growth in sales",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9559273376339895,
+    "home_score": 0.6987,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "d31c977341b13d6f1ced8911415bce8f71429930",
-    "title": "Sea Witch Costume Accessories Set - Octopus Crown, Purple Gloves, Shell Jewelry For Halloween Cosplay - ruhrkanal.news",
+    "title": "Sea Witch Costume Accessories Set - Octopus Crown, Purple Gloves, Shell Jewelry For Halloween Cosplay - RuhrkanalNEWS",
     "url": "https://ruhrkanal.news/Sea-Witch-Costume-Accessories-Set-Octopus-Crown-Purple-Gloves-1218220",
     "source_name": "Google News SG Cosplay",
     "source_type": "rss",
     "published_at": "2026-04-15T11:45:33Z",
-    "summary": "Sea Witch Costume Accessories Set - Octopus Crown, Purple Gloves, Shell Jewelry For Halloween Cosplay ruhrkanal",
+    "summary": "Sea Witch Costume Accessories Set - Octopus Crown, Purple Gloves, Shell Jewelry For Halloween Cosplay RuhrkanalNEWS",
     "content": "",
     "categories": [
       "events",
@@ -101,11 +322,48 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7706803272284025,
-    "home_score": 0.7183,
+    "freshness_score": 0.7117122326225594,
+    "home_score": 0.6918,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d28d1e000749dfaabf1f5d3c368e88c276754410",
+    "title": "Prime 1 Studio: Persona 5 Panther Figure Image Gallery, Pre-Orders Open April 17, 2026 - Persona Central",
+    "url": "https://personacentral.com/prime-1-panther/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-16T11:15:15Z",
+    "summary": "Prime 1 Studio: Persona 5 Panther Figure Image Gallery, Pre-Orders Open April 17, 2026 Persona Central",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.986332223902303,
+    "home_score": 0.6898,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 17, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -126,8 +384,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9957737079478559,
-    "home_score": 0.7151,
+    "freshness_score": 0.9195827452243414,
+    "home_score": 0.6808,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -152,8 +410,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9917824964613302,
-    "home_score": 0.7133,
+    "freshness_score": 0.9158969186256126,
+    "home_score": 0.6792,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -178,8 +436,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.993080661086391,
-    "home_score": 0.7124,
+    "freshness_score": 0.9170958315187646,
+    "home_score": 0.6782,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -212,8 +470,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9769338540120366,
-    "home_score": 0.7066,
+    "freshness_score": 0.9021844102991078,
+    "home_score": 0.673,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -241,8 +499,8 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.877892921551161,
-    "home_score": 0.7006,
+    "freshness_score": 0.8107215287165176,
+    "home_score": 0.6703,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -255,30 +513,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "50e539b9b765423dbb555545f9b399cb4a71a276",
-    "title": "Delivery service RPG Calamity Angels: Special Delivery is now available on PC Steam",
-    "url": "https://www.rpgsite.net/news/20132-calamity-angels-special-delivery-now-available-pc-steam-launch-discount",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-16T05:05:02Z",
-    "summary": "Idea Factory International has also released a Digital Deluxe Edition for delivery service RPG Calamity Angels: Special Delivery on Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9803358960753252,
-    "home_score": 0.6887,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -306,8 +540,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7220544607232363,
-    "home_score": 0.6829,
+    "freshness_score": 0.6668070673764229,
+    "home_score": 0.6581,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C60%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/BrbFuuBxToCEOdtjSn5S",
     "event_metadata": {
@@ -325,6 +559,30 @@
       ],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "50e539b9b765423dbb555545f9b399cb4a71a276",
+    "title": "Delivery service RPG Calamity Angels: Special Delivery is now available on PC Steam",
+    "url": "https://www.rpgsite.net/news/20132-calamity-angels-special-delivery-now-available-pc-steam-launch-discount",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-16T05:05:02Z",
+    "summary": "Idea Factory International has also released a Digital Deluxe Edition for delivery service RPG Calamity Angels: Special Delivery on Steam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9053262130350086,
+    "home_score": 0.6549,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -347,8 +605,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8751031416981627,
-    "home_score": 0.6793,
+    "freshness_score": 0.8081452070503589,
+    "home_score": 0.6492,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -375,8 +633,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8630229819771765,
-    "home_score": 0.6754,
+    "freshness_score": 0.7969893528575523,
+    "home_score": 0.6456,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -403,8 +661,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8559171401334907,
-    "home_score": 0.6722,
+    "freshness_score": 0.7904272097735608,
+    "home_score": 0.6427,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -430,62 +688,9 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.8366159414205113,
-    "home_score": 0.6685,
+    "freshness_score": 0.7726028320908775,
+    "home_score": 0.6397,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "98436d8a072fa9a588b1e670aab73a2f0bca1197",
-    "title": "Though I Am an Inept Villainess Anime Reveals April Seasonal Visual - AnimeTV \u30c1\u30a7\u30fc\u30f3",
-    "url": "https://animetv-jp.net/though-i-am-an-inept-villainess-anime-reveals-april-seasonal-visual/",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2026-04-15T07:48:10Z",
-    "summary": "Though I Am an Inept Villainess Anime Reveals April Seasonal Visual AnimeTV \u30c1\u30a7\u30fc\u30f3",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7294741431089832,
-    "home_score": 0.6683,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5c98f0cafec0c00717dfce256065f2405dd327a1",
-    "title": "Target Gets Pokemon Pop Tarts, Trapper Keepers, and Lip Smackers",
-    "url": "https://www.siliconera.com/target-gets-pokemon-pop-tarts-trapper-keepers-and-lip-smackers/?utm_source=rss&utm_medium=rss&utm_campaign=target-gets-pokemon-pop-tarts-trapper-keepers-and-lip-smackers",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-15T21:00:00Z",
-    "summary": "For the Pokemon 30th anniversary, a number of themed items like Pop Tarts, Caboodles, Lip Smackers, and Trapper Keepers will be at Target",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8762216749705672,
-    "home_score": 0.6673,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -510,8 +715,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8366643630215634,
-    "home_score": 0.6665,
+    "freshness_score": 0.7726475469211969,
+    "home_score": 0.6377,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -524,6 +729,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "5c98f0cafec0c00717dfce256065f2405dd327a1",
+    "title": "Target Gets Pokemon Pop Tarts, Trapper Keepers, and Lip Smackers",
+    "url": "https://www.siliconera.com/target-gets-pokemon-pop-tarts-trapper-keepers-and-lip-smackers/?utm_source=rss&utm_medium=rss&utm_campaign=target-gets-pokemon-pop-tarts-trapper-keepers-and-lip-smackers",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-15T21:00:00Z",
+    "summary": "For the Pokemon 30th anniversary, a number of themed items like Pop Tarts, Caboodles, Lip Smackers, and Trapper Keepers will be at Target",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8091783168994773,
+    "home_score": 0.6371,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -547,8 +778,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8641360502843582,
-    "home_score": 0.6619,
+    "freshness_score": 0.7980174134433664,
+    "home_score": 0.6321,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -574,8 +805,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8701575892241993,
-    "home_score": 0.6606,
+    "freshness_score": 0.8035780606055044,
+    "home_score": 0.6306,
     "source_quality": 0.78,
     "image_url": "https://bimgs.jlist.com/wp-content/uploads/2026/04/Kanteishi-Kari-Episode-1-Emalia-Disbelieves-Hibikis-Age.mp4",
     "event_metadata": null,
@@ -603,35 +834,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8522171213431416,
-    "home_score": 0.6565,
+    "freshness_score": 0.7870104512240793,
+    "home_score": 0.6272,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2165bd19b21daa7f1bfc716b0f5150e64f25f01f",
-    "title": "10 Darkest JRPG Series Ever - Comic Book Resources",
-    "url": "https://www.cbr.com/darkest-jrpgs-of-all-time-list/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-16T00:45:00Z",
-    "summary": "10 Darkest JRPG Series Ever Comic Book Resources",
-    "content": "",
-    "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9230671934272773,
-    "home_score": 0.6554,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -657,8 +862,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8246468657403863,
-    "home_score": 0.6551,
+    "freshness_score": 0.7615495557809213,
+    "home_score": 0.6267,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -674,40 +879,55 @@
     "result_type": "article"
   },
   {
-    "id": "3a4b28ad0b5a300512f95cfb33027cbf8fa8072b",
-    "title": "Apex Toys: Persona 5 Joker Scale Figure Pre-Orders Open April 17, 2026 - Persona Central",
-    "url": "https://personacentral.com/apex-joker/",
+    "id": "2165bd19b21daa7f1bfc716b0f5150e64f25f01f",
+    "title": "10 Darkest JRPG Series Ever - Comic Book Resources",
+    "url": "https://www.cbr.com/darkest-jrpgs-of-all-time-list/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-15T23:18:44Z",
-    "summary": "Apex Toys: Persona 5 Joker Scale Figure Pre-Orders Open April 17, 2026 Persona Central",
+    "published_at": "2026-04-16T00:45:00Z",
+    "summary": "10 Darkest JRPG Series Ever Comic Book Resources",
     "content": "",
     "categories": [
       "games",
-      "merch"
+      "comics"
     ],
     "tags": [
       "jrpg"
     ],
-    "entity_tags": [
-      "Persona"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9048171689890411,
-    "home_score": 0.6532,
+    "freshness_score": 0.852439322286648,
+    "home_score": 0.6236,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 17, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4568a43620455564c021f2fec23ab0864af2b5f6",
+    "title": "Mametchi Memories Tamagotchi Nano Colorful Virtual Pet Heads to Japan",
+    "url": "https://www.siliconera.com/mametchi-memories-tamagotchi-nano-colorful-virtual-pet-heads-to-japan/?utm_source=rss&utm_medium=rss&utm_campaign=mametchi-memories-tamagotchi-nano-colorful-virtual-pet-heads-to-japan",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-15T18:00:00Z",
+    "summary": "To celebrate the 30th anniversary of the Tamagotchi virtual pet, a Nano Colorful model where you only raise Mametchi will appear",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7761553068261179,
+    "home_score": 0.6223,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -730,8 +950,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8546667218666295,
-    "home_score": 0.6516,
+    "freshness_score": 0.7892725303465118,
+    "home_score": 0.6222,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -744,32 +964,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "4568a43620455564c021f2fec23ab0864af2b5f6",
-    "title": "Mametchi Memories Tamagotchi Nano Colorful Virtual Pet Heads to Japan",
-    "url": "https://www.siliconera.com/mametchi-memories-tamagotchi-nano-colorful-virtual-pet-heads-to-japan/?utm_source=rss&utm_medium=rss&utm_campaign=mametchi-memories-tamagotchi-nano-colorful-virtual-pet-heads-to-japan",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-15T18:00:00Z",
-    "summary": "To celebrate the 30th anniversary of the Tamagotchi virtual pet, a Nano Colorful model where you only raise Mametchi will appear",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8404625886950616,
-    "home_score": 0.6512,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -790,8 +984,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8507615624465864,
-    "home_score": 0.6498,
+    "freshness_score": 0.7856661077095859,
+    "home_score": 0.6205,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -819,8 +1013,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8005836280772082,
-    "home_score": 0.6473,
+    "freshness_score": 0.7393275047871503,
+    "home_score": 0.6197,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -833,31 +1027,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "9ff951fc2bb3fe962bb9f82fd39aaf59f5a7d291",
-    "title": "Furry Adventure Visual Novel \u2018Celsius Strays\u2019 Announced With Time-Limited Demo on Steam",
-    "url": "https://noisypixel.net/celsius-strays-furry-visual-novel-steam-demo/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-15T21:42:05Z",
-    "summary": "Indie developer COWCAT has announced Celsius Strays, a narrative-driven visual novel set in a harsh, futuristic wasteland coming to PC via Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8847990145275341,
-    "home_score": 0.6472,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -880,8 +1049,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8364900659422282,
-    "home_score": 0.6464,
+    "freshness_score": 0.7724865893003137,
+    "home_score": 0.6176,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -906,8 +1075,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8288701850457662,
-    "home_score": 0.646,
+    "freshness_score": 0.7654498860088194,
+    "home_score": 0.6175,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -931,8 +1100,33 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8420234199240686,
-    "home_score": 0.6459,
+    "freshness_score": 0.7775965583346183,
+    "home_score": 0.6169,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9ff951fc2bb3fe962bb9f82fd39aaf59f5a7d291",
+    "title": "Furry Adventure Visual Novel \u2018Celsius Strays\u2019 Announced With Time-Limited Demo on Steam",
+    "url": "https://noisypixel.net/celsius-strays-furry-visual-novel-steam-demo/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-15T21:42:05Z",
+    "summary": "Indie developer COWCAT has announced Celsius Strays, a narrative-driven visual novel set in a harsh, futuristic wasteland coming to PC via Steam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8170992722255902,
+    "home_score": 0.6167,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -956,8 +1150,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8348553229776504,
-    "home_score": 0.6427,
+    "freshness_score": 0.7709769235525468,
+    "home_score": 0.6139,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -984,189 +1178,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8174376740496592,
-    "home_score": 0.6408,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ce625941480197c08852e1ff8ee0a3ad27284e63",
-    "title": "SEGA Genesis game Traysia coming to Nintendo Switch",
-    "url": "https://nintendoeverything.com/sega-genesis-game-traysia-coming-to-nintendo-switch/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-04-15T20:10:38Z",
-    "summary": "Ratalaika Games is bringing back the SEGA Genesis title Traysia for Nintendo Switch, the company has announced",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8662655636729198,
-    "home_score": 0.6373,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 24, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "98d1ec522780455dd91fbcc7a416a49482b7e5b1",
-    "title": "New Hades 2 Patch Adds More Romance and Character Updates",
-    "url": "https://www.siliconera.com/new-hades-2-patch-adds-more-romance-and-character-updates/?utm_source=rss&utm_medium=rss&utm_campaign=new-hades-2-patch-adds-more-romance-and-character-updates",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-15T15:00:00Z",
-    "summary": "The latest Hades 2 post-launch patch offers character related updates to romances, gifts, and prophecies",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8061628504698235,
-    "home_score": 0.6358,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "514c827255d04c5f391aee65430cc7df303b9fbd",
-    "title": "Nitro Gen Omega Fully Launching in May",
-    "url": "https://rpgamer.com/2026/04/nitro-gen-omega-fully-launching-in-may/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-15T15:03:39Z",
-    "summary": "DESTINYbit announced that its sandbox mecha tactical RPG Nitro Gen Omega will fully release on May 12, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8068441559411386,
-    "home_score": 0.6331,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 12, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "55f69d98c443e0169a6b1cd21cfe2338b04d600d",
-    "title": "UDON Announces Dr. Wily #1 and Street Fighter Masters: Ken #1 With Multiple Variant Covers",
-    "url": "https://noisypixel.net/udon-dr-wily-1-street-fighter-masters-ken-1-june-2026/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-15T19:05:15Z",
-    "summary": "UDON Entertainment has announced two new one-shot comic releases based on Mega Man and Street Fighter, with Dr",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8532533371384693,
-    "home_score": 0.633,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c88944c3bd02d9506ddd876df2e68c76b40d5e70",
-    "title": "Beat-\u2019em-up Action RPG The Concrete Sutra #1 Announced",
-    "url": "https://rpgamer.com/2026/04/beat-em-up-action-rpg-the-concrete-sutra-1-announced/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-15T14:58:27Z",
-    "summary": "The Friends of Ringo Ishikawa developer yeo has announced beat-'em-up action RPG The Concrete Sutra #1",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8058735339837247,
-    "home_score": 0.6326,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "422b6ca93d2a71df4f91f26617853b7fbec0f833",
-    "title": "New Pragmata Trailer Introduces Eight",
-    "url": "https://www.siliconera.com/new-pragmata-trailer-introduces-eight/?utm_source=rss&utm_medium=rss&utm_campaign=new-pragmata-trailer-introduces-eight",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-15T14:00:00Z",
-    "summary": "A new Pragmata trailer is out ahead of launch, and it introduces another character named Eight who looks a lot like Diana",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7950435392591361,
-    "home_score": 0.6308,
+    "freshness_score": 0.7548921239889202,
+    "home_score": 0.6127,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1194,9 +1207,190 @@
       "SEA"
     ],
     "sg_relevance": 0.51,
-    "freshness_score": 0.5570160015483804,
-    "home_score": 0.6302,
+    "freshness_score": 0.5143962971597453,
+    "home_score": 0.611,
     "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "98d1ec522780455dd91fbcc7a416a49482b7e5b1",
+    "title": "New Hades 2 Patch Adds More Romance and Character Updates",
+    "url": "https://www.siliconera.com/new-hades-2-patch-adds-more-romance-and-character-updates/?utm_source=rss&utm_medium=rss&utm_campaign=new-hades-2-patch-adds-more-romance-and-character-updates",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-15T15:00:00Z",
+    "summary": "The latest Hades 2 post-launch patch offers character related updates to romances, gifts, and prophecies",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7444799839201485,
+    "home_score": 0.608,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ce625941480197c08852e1ff8ee0a3ad27284e63",
+    "title": "SEGA Genesis game Traysia coming to Nintendo Switch",
+    "url": "https://nintendoeverything.com/sega-genesis-game-traysia-coming-to-nintendo-switch/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-15T20:10:38Z",
+    "summary": "Ratalaika Games is bringing back the SEGA Genesis title Traysia for Nintendo Switch, the company has announced",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7999838972226914,
+    "home_score": 0.6075,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 24, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "514c827255d04c5f391aee65430cc7df303b9fbd",
+    "title": "Nitro Gen Omega Fully Launching in May",
+    "url": "https://rpgamer.com/2026/04/nitro-gen-omega-fully-launching-in-may/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-15T15:03:39Z",
+    "summary": "DESTINYbit announced that its sandbox mecha tactical RPG Nitro Gen Omega will fully release on May 12, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7451090161345136,
+    "home_score": 0.6053,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 12, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c88944c3bd02d9506ddd876df2e68c76b40d5e70",
+    "title": "Beat-\u2019em-up Action RPG The Concrete Sutra #1 Announced",
+    "url": "https://rpgamer.com/2026/04/beat-em-up-action-rpg-the-concrete-sutra-1-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-15T14:58:27Z",
+    "summary": "The Friends of Ringo Ishikawa developer yeo has announced beat-'em-up action RPG The Concrete Sutra #1",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7442126607574927,
+    "home_score": 0.6049,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "55f69d98c443e0169a6b1cd21cfe2338b04d600d",
+    "title": "UDON Announces Dr. Wily #1 and Street Fighter Masters: Ken #1 With Multiple Variant Covers",
+    "url": "https://noisypixel.net/udon-dr-wily-1-street-fighter-masters-ken-1-june-2026/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-15T19:05:15Z",
+    "summary": "UDON Entertainment has announced two new one-shot comic releases based on Mega Man and Street Fighter, with Dr",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7879672897075485,
+    "home_score": 0.6036,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "422b6ca93d2a71df4f91f26617853b7fbec0f833",
+    "title": "New Pragmata Trailer Introduces Eight",
+    "url": "https://www.siliconera.com/new-pragmata-trailer-introduces-eight/?utm_source=rss&utm_medium=rss&utm_campaign=new-pragmata-trailer-introduces-eight",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-15T14:00:00Z",
+    "summary": "A new Pragmata trailer is out ahead of launch, and it introduces another character named Eight who looks a lot like Diana",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.734211457327726,
+    "home_score": 0.6034,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1219,33 +1413,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8641356921280441,
-    "home_score": 0.6289,
+    "freshness_score": 0.7980169231615686,
+    "home_score": 0.5991,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "78b083e0496cd87343e47c9ac8db6e2ccb880d0e",
-    "title": "The RPGs Playable on Switch 2 \u2013 New RPGs, Nintendo Switch 2 Editions, Upgrades, and More",
-    "url": "https://www.rpgsite.net/feature/17163-best-nintendo-switch-2-rpgs-list",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-15T18:21:12Z",
-    "summary": "The Nintendo Switch 2 is set to be home to some fantastic RPGs across ports and new games hitting the platform",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8445971492067843,
-    "home_score": 0.6276,
-    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1269,34 +1439,33 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7842016297366511,
-    "home_score": 0.6259,
+    "freshness_score": 0.7241991074906432,
+    "home_score": 0.5989,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "f5c64a47e2dd03ec3bf0a4194cea8ba16c53195c",
-    "title": "How Final Fantasy XIV's best quote elevated the MMO to new heights - Polygon.com",
-    "url": "https://www.polygon.com/ffxiv-heavensward-death-a-smile-better-suits-a-hero-quote/",
-    "source_name": "Google News JRPG",
+    "id": "78b083e0496cd87343e47c9ac8db6e2ccb880d0e",
+    "title": "The RPGs Playable on Switch 2 \u2013 New RPGs, Nintendo Switch 2 Editions, Upgrades, and More",
+    "url": "https://www.rpgsite.net/feature/17163-best-nintendo-switch-2-rpgs-list",
+    "source_name": "RPG Site",
     "source_type": "rss",
-    "published_at": "2026-04-15T19:00:19Z",
-    "summary": "How Final Fantasy XIV's best quote elevated the MMO to new heights Polygon",
+    "published_at": "2026-04-15T18:21:12Z",
+    "summary": "The Nintendo Switch 2 is set to be home to some fantastic RPGs across ports and new games hitting the platform",
     "content": "",
     "categories": [
-      "games"
+      "games",
+      "anime"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8522792476020786,
-    "home_score": 0.6235,
-    "source_quality": 0.76,
+    "freshness_score": 0.779973418038428,
+    "home_score": 0.5985,
+    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1320,9 +1489,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7734419203185856,
-    "home_score": 0.621,
+    "freshness_score": 0.7142626680531761,
+    "home_score": 0.5944,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f5c64a47e2dd03ec3bf0a4194cea8ba16c53195c",
+    "title": "How Final Fantasy XIV's best quote elevated the MMO to new heights - Polygon.com",
+    "url": "https://www.polygon.com/ffxiv-heavensward-death-a-smile-better-suits-a-hero-quote/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-15T19:00:19Z",
+    "summary": "How Final Fantasy XIV's best quote elevated the MMO to new heights Polygon",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7870676687724217,
+    "home_score": 0.5942,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1348,8 +1542,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7852884424215716,
-    "home_score": 0.6204,
+    "freshness_score": 0.7252026786433222,
+    "home_score": 0.5933,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1386,8 +1580,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8060569928738998,
-    "home_score": 0.6147,
+    "freshness_score": 0.744382082407926,
+    "home_score": 0.587,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1422,8 +1616,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8062218604128528,
-    "home_score": 0.6118,
+    "freshness_score": 0.7445343916982854,
+    "home_score": 0.584,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1436,31 +1630,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "5f51472f063327ab09409c9661587db45e4d37ed",
-    "title": "Waifu Wednesday: Y\u2019shtola from Final Fantasy XIV - Niche Gamer",
-    "url": "https://nichegamer.com/waifu-wednesday-yshtola-from-final-fantasy-xiv/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-15T15:44:00Z",
-    "summary": "Waifu Wednesday: Y\u2019shtola from Final Fantasy XIV Niche Gamer",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8144153898288415,
-    "home_score": 0.6065,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1482,8 +1651,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7538507458583628,
-    "home_score": 0.6062,
+    "freshness_score": 0.6961703577763284,
+    "home_score": 0.5803,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1509,8 +1678,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7446042104183326,
-    "home_score": 0.6056,
+    "freshness_score": 0.6876313647423382,
+    "home_score": 0.5799,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1534,8 +1703,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7503253378937524,
-    "home_score": 0.6046,
+    "freshness_score": 0.6929146940878184,
+    "home_score": 0.5788,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1561,34 +1730,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7840775348590726,
-    "home_score": 0.6033,
+    "freshness_score": 0.7240844156808838,
+    "home_score": 0.5763,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fd2560b1b7f1035f14f6810df19c112c6b8c59f6",
-    "title": "Aria the Scarlet Ammo 15th Anniversary Short Anime Announced",
-    "url": "https://noisypixel.net/aria-the-scarlet-ammo-15th-anniversary-anime-short/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-15T12:55:21Z",
-    "summary": "Kadokawa has announced that Hidan no Aria, known in the West as Aria the Scarlet Ammo, is celebrating its 15th anniversary with a newly produced short anime",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7832339920101508,
-    "home_score": 0.6015,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1614,8 +1758,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 0.535073970299185,
-    "home_score": 0.5908,
+    "freshness_score": 0.49413314203098846,
+    "home_score": 0.5724,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -1628,33 +1772,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "584edcccc8e557cb24f5cdd3cfc5ff1952a12d41",
-    "title": "Lurks Within Walls Interview",
-    "url": "https://rpgamer.com/2026/04/lurks-within-walls-interview/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-15T04:48:24Z",
-    "summary": "At long last players, who are skittish about their reaction time in a survival horror can rejoice",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6997418897475335,
-    "home_score": 0.5849,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1677,92 +1794,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6653428027930016,
-    "home_score": 0.5849,
+    "freshness_score": 0.6144345409505937,
+    "home_score": 0.562,
     "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2d8f394f435885701609d45d6531aff3ce259a1f",
-    "title": "Aether & Iron Review",
-    "url": "https://rpgamer.com/review/aether-iron-review/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-14T20:16:07Z",
-    "summary": "The Big Floating Apple Developer Seismic Squirrel's debut title Aether & Iron does plenty of things to stand out from the RPG crowd",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.6214947166124286,
-    "home_score": 0.5697,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9f40abf97f363c4bf1640a9978f1ea715763ab41",
-    "title": "FFXIII Costumes and Weapons Return to FFVII Ever Crisis",
-    "url": "https://www.siliconera.com/ffxiii-costumes-and-weapons-return-to-ffvii-ever-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiii-costumes-and-weapons-return-to-ffvii-ever-crisis",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-14T22:00:00Z",
-    "summary": "Two FFXIII Cloud and Sephiroth costume and weapon banners are coming back to FFVII Ever Crisis with Reawakened upgrades",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6366210960592111,
-    "home_score": 0.5595,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d09e24a78582a69c95e7ad02ee2f1ca93c0df93d",
-    "title": "Tomodachi Life: Living the Dream Team Made Pikmin Pets and Their Office",
-    "url": "https://www.siliconera.com/tomodachi-life-living-the-dream-team-made-pikmin-pets-and-their-office/?utm_source=rss&utm_medium=rss&utm_campaign=tomodachi-life-living-the-dream-team-made-pikmin-pets-and-their-office",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-14T21:00:00Z",
-    "summary": "When discussing the Tomodachi Life: Living the Dream user-generated content system, the team showed a Red Pikmin pet",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6278402545661947,
-    "home_score": 0.5555,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
