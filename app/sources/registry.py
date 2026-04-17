@@ -162,6 +162,36 @@ def build_sources(settings: Settings) -> list[BaseSource]:
     anisong_query = quote_plus(
         '(anisong OR "anime concert" OR "anime music" OR seiyuu OR vocaloid OR "idol live") Singapore OR SEA'
     )
+    visual_novel_query = quote_plus(
+        '("visual novel" OR otome OR "dating sim" OR "Type-Moon" OR "Fate/Grand Order" OR "Steins;Gate") Singapore OR SEA'
+    )
+    collab_cafe_query = quote_plus(
+        '("collab cafe" OR "collaboration cafe" OR "anime cafe" OR "pop-up cafe" OR "character cafe") Singapore OR SEA'
+    )
+    gunpla_query = quote_plus(
+        '(gunpla OR gundam OR "model kit" OR plamo OR "Bandai Spirits") Singapore OR SEA'
+    )
+    ffxiv_query = quote_plus(
+        '("Final Fantasy XIV" OR FFXIV OR FF14 OR Dawntrail OR "Final Fantasy XIV Fan Festival") Singapore OR SEA'
+    )
+    popup_store_query = quote_plus(
+        '(("pop-up store" OR "popup store" OR exhibition OR showcase) AND (anime OR manga OR gaming OR character OR merch OR gacha OR vtuber)) Singapore OR SEA'
+    )
+    rhythm_game_query = quote_plus(
+        '(("rhythm game" OR arcade OR maimai OR chunithm OR taiko OR "Project Sekai" OR "Hatsune Miku") AND (Singapore OR SEA))'
+    )
+    doujin_market_query = quote_plus(
+        '((doujin OR doujinshi OR "creator market" OR "artist market" OR indie creators) AND (Singapore OR SEA) AND (anime OR manga OR cosplay OR illustration OR merch))'
+    )
+    anime_screening_query = quote_plus(
+        '((anime film OR anime movie OR screening OR theatrical release OR concert film) AND (Singapore OR SEA) AND (anime OR manga OR Japanese))'
+    )
+    convention_guest_query = quote_plus(
+        '(("guest announcement" OR "guest reveal" OR "special guest" OR "featured guest" OR "voice actor appearance" OR "cosplay guest") AND ("anime festival asia" OR "singapore comic con" OR "comic con" OR "anime convention") AND (Singapore OR SEA))'
+    )
+    creator_hub_query = quote_plus(
+        '(("creator hub" OR "creators hub" OR "cosplay hub" OR "creator booth" OR "artist booth" OR "fan merchandise") AND ("anime festival asia" OR "comic con" OR convention OR festival) AND (Singapore OR SEA))'
+    )
     gacha_keywords = [
         "genshin",
         "honkai",
@@ -232,6 +262,105 @@ def build_sources(settings: Settings) -> list[BaseSource]:
         "idol live",
         "love live",
         "bang dream",
+    ]
+    visual_novel_keywords = [
+        "visual novel",
+        "otome",
+        "dating sim",
+        "type-moon",
+        "fate/grand order",
+        "fate/stay night",
+        "steins;gate",
+        "clannad",
+        "umineko",
+        "higurashi",
+        "tsukihime",
+    ]
+    collab_cafe_keywords = [
+        "collab cafe",
+        "collaboration cafe",
+        "anime cafe",
+        "pop-up cafe",
+        "popup cafe",
+        "character cafe",
+        "themed cafe",
+    ]
+    gunpla_keywords = [
+        "gunpla",
+        "gundam",
+        "model kit",
+        "plamo",
+        "bandai spirits",
+    ]
+    ffxiv_keywords = [
+        "final fantasy xiv",
+        "ffxiv",
+        "ff14",
+        "dawntrail",
+        "fan festival",
+        "lodestone",
+        "square enix",
+    ]
+    popup_store_keywords = [
+        "pop-up store",
+        "popup store",
+        "anime pop-up",
+        "themed pop-up",
+        "character pop-up",
+        "exhibition",
+        "showcase",
+        "merch",
+    ]
+    rhythm_game_keywords = [
+        "rhythm game",
+        "arcade",
+        "maimai",
+        "chunithm",
+        "taiko",
+        "project sekai",
+        "hatsune miku",
+        "sound voltex",
+        "sdvx",
+        "ongeki",
+    ]
+    doujin_market_keywords = [
+        "doujin",
+        "doujinshi",
+        "creator market",
+        "artist market",
+        "indie creators",
+        "artist alley",
+        "illustration",
+        "fan merch",
+    ]
+    anime_screening_keywords = [
+        "anime film",
+        "anime movie",
+        "screening",
+        "theatrical release",
+        "concert film",
+        "cinema",
+        "premiere",
+    ]
+    convention_guest_keywords = [
+        "guest announcement",
+        "guest reveal",
+        "special guest",
+        "featured guest",
+        "voice actor",
+        "cosplay guest",
+        "meet and greet",
+        "panel",
+    ]
+    creator_hub_keywords = [
+        "creator hub",
+        "creators hub",
+        "cosplay hub",
+        "creator booth",
+        "artist booth",
+        "fan merchandise",
+        "illustrator",
+        "crafters",
     ]
     bandwagon_keywords = [
         "gaming",
@@ -413,6 +542,49 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             exclude_keywords=google_news_exclude_keywords,
         ),
         RssSource(
+            name="Crunchyroll News",
+            feed_url="https://cr-news-api-service.prd.crunchyrollsvc.com/v1/en-US/rss",
+            quality=0.79,
+            category_hints=["anime", "manga", "games", "events"],
+            include_keywords=publisher_feed_include_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="DualShockers",
+            feed_url="https://www.dualshockers.com/feed/",
+            quality=0.75,
+            category_hints=["games", "anime", "merch"],
+            include_keywords=publisher_feed_include_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Tokyo Otaku Mode",
+            feed_url="https://otakumode.com/news/feed",
+            quality=0.78,
+            category_hints=["merch", "anime", "events"],
+            include_keywords=publisher_feed_include_keywords + figure_keywords + collab_cafe_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Anime Feminist",
+            feed_url="https://www.animefeminist.com/feed/",
+            quality=0.74,
+            category_hints=["anime", "manga", "events"],
+            include_keywords=google_news_include_keywords + visual_novel_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Final Fantasy XIV News",
+            feed_url="https://na.finalfantasyxiv.com/lodestone/news/topics.xml",
+            quality=0.79,
+            category_hints=["games", "events"],
+            exclude_keywords=google_news_exclude_keywords,
+        ),
+        RssSource(
             name="Geek Culture",
             feed_url="https://geekculture.co/feed/",
             quality=0.75,
@@ -456,6 +628,24 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             exclude_keywords=google_news_exclude_keywords,
         ),
         RssSource(
+            name="Rice Digital",
+            feed_url="https://ricedigital.co.uk/feed/",
+            quality=0.76,
+            category_hints=["games", "anime", "manga", "merch"],
+            include_keywords=publisher_feed_include_keywords + visual_novel_keywords + ["vtuber", "hololive"],
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="MonsterVine",
+            feed_url="https://monstervine.com/feed/",
+            quality=0.74,
+            category_hints=["games", "anime", "merch"],
+            include_keywords=publisher_feed_include_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
             name="J-List Blog",
             feed_url="https://blog.jlist.com/feed/",
             quality=0.78,
@@ -471,16 +661,6 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             category_hints=["esports", "games", "events"],
             region_hints=["SEA"],
             include_keywords=publisher_feed_include_keywords + ["counter-strike", "cs2", "street fighter", "tekken", "fgc"],
-            exclude_keywords=google_news_exclude_keywords,
-            cleanup_mismatches=True,
-        ),
-        RssSource(
-            name="Confirm Good",
-            feed_url="https://confirmgood.com/feed/",
-            quality=0.75,
-            category_hints=["events", "anime", "merch"],
-            region_hints=["Singapore"],
-            include_keywords=publisher_feed_include_keywords,
             exclude_keywords=google_news_exclude_keywords,
             cleanup_mismatches=True,
         ),
@@ -667,6 +847,106 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             category_hints=["events", "anime", "merch"],
             region_hints=["Singapore", "SEA"],
             include_keywords=anisong_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Visual Novels",
+            feed_url=f"https://news.google.com/rss/search?q={visual_novel_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.77,
+            category_hints=["games", "anime", "manga"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=visual_novel_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SG Collab Cafes",
+            feed_url=f"https://news.google.com/rss/search?q={collab_cafe_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=collab_cafe_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Gunpla",
+            feed_url=f"https://news.google.com/rss/search?q={gunpla_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.77,
+            category_hints=["merch", "anime", "games"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=gunpla_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA FFXIV",
+            feed_url=f"https://news.google.com/rss/search?q={ffxiv_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.77,
+            category_hints=["games", "events", "anime"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=ffxiv_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SG Pop-Up Stores",
+            feed_url=f"https://news.google.com/rss/search?q={popup_store_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=popup_store_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Rhythm Games",
+            feed_url=f"https://news.google.com/rss/search?q={rhythm_game_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.77,
+            category_hints=["games", "events", "anime"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=rhythm_game_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SG Doujin Markets",
+            feed_url=f"https://news.google.com/rss/search?q={doujin_market_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.77,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=doujin_market_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Anime Screenings",
+            feed_url=f"https://news.google.com/rss/search?q={anime_screening_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["events", "anime", "manga"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=anime_screening_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SG Convention Guests",
+            feed_url=f"https://news.google.com/rss/search?q={convention_guest_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=convention_guest_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SG Creator Hubs",
+            feed_url=f"https://news.google.com/rss/search?q={creator_hub_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=creator_hub_keywords,
             exclude_keywords=google_news_exclude_keywords,
             cleanup_mismatches=True,
         ),

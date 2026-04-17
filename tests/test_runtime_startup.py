@@ -175,8 +175,8 @@ class RuntimeStartupTests(unittest.TestCase):
                 region_hints=["Singapore"],
                 articles=[
                     SourceArticle(
-                        title="AFA Singapore 2025 official event page with creator and artist alley updates",
-                        url="https://animefestival.asia/afasg25/",
+                        title="AFA Singapore 2026 official event page with creator and cosplay hub updates",
+                        url="https://animefestival.asia/afasg26/",
                         published_at=datetime.now(timezone.utc) - timedelta(days=5),
                         summary="Current curated fallback row.",
                     )
@@ -192,7 +192,7 @@ class RuntimeStartupTests(unittest.TestCase):
             items = runtime_repository.latest_articles(limit=10)
             urls = [item.url for item in items]
 
-            self.assertIn("https://animefestival.asia/afasg25/", urls)
+            self.assertIn("https://animefestival.asia/afasg26/", urls)
             self.assertNotIn("https://www.eventbrite.sg/d/singapore--singapore/artist-alley/", urls)
 
     def test_build_runtime_backfills_semantic_embeddings_when_configured(self) -> None:

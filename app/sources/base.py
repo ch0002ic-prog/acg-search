@@ -31,6 +31,8 @@ class BaseSource(ABC):
     include_keywords: list[str] = field(default_factory=list)
     exclude_keywords: list[str] = field(default_factory=list)
     cleanup_mismatches: bool = False
+    request_timeout_seconds: float | None = None
+    max_attempts: int = 1
 
     def matches(self, article: SourceArticle) -> bool:
         haystack = " ".join([article.title, article.summary, article.content]).lower()

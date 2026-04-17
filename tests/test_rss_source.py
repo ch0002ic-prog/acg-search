@@ -22,8 +22,13 @@ class FakeResponse:
 
 
 class FakeClient:
-    def __init__(self, responses: dict[tuple[str, str], FakeResponse]) -> None:
-        self.responses = responses
+    def __init__(
+        self,
+        responses: dict[tuple[str, str], FakeResponse] | None = None,
+        errors: dict[tuple[str, str], Exception] | None = None,
+    ) -> None:
+        self.responses = responses or {}
+        self.errors = errors or {}
         self.calls: list[tuple[str, str]] = []
 
     def __enter__(self) -> "FakeClient":
@@ -34,11 +39,27 @@ class FakeClient:
 
     def get(self, url: str, *args, **kwargs) -> FakeResponse:
         self.calls.append(("GET", url))
+        if ("GET", url) in self.errors:
+            raise self.errors[("GET", url)]
         return self.responses[("GET", url)]
 
     def post(self, url: str, *args, **kwargs) -> FakeResponse:
         self.calls.append(("POST", url))
+        if ("POST", url) in self.errors:
+            raise self.errors[("POST", url)]
         return self.responses[("POST", url)]
+
+
+class FakeClientFactory:
+    def __init__(self, clients: list[FakeClient]) -> None:
+        self.clients = list(clients)
+        self.calls: list[dict[str, object]] = []
+
+    def __call__(self, *args, **kwargs) -> FakeClient:
+        self.calls.append(dict(kwargs))
+        if not self.clients:
+            raise AssertionError("Unexpected extra client creation")
+        return self.clients.pop(0)
 
 
 class RssSourceTests(unittest.TestCase):
@@ -55,6 +76,20 @@ class RssSourceTests(unittest.TestCase):
               <description><![CDATA[Anime Festival Asia returns to Singapore.]]></description>
               <pubDate>Tue, 08 Apr 2025 12:00:00 GMT</pubDate>
               <source url="https://www.timeout.com">Time Out</source>
+            </item>
+          </channel>
+        </rss>
+        """
+
+    def _build_simple_feed(self, article_url: str = "https://example.com/story") -> str:
+        return f"""
+        <rss version="2.0">
+          <channel>
+            <item>
+              <title>Sample Story</title>
+              <link>{article_url}</link>
+              <description><![CDATA[Sample summary.]]></description>
+              <pubDate>Tue, 08 Apr 2025 12:00:00 GMT</pubDate>
             </item>
           </channel>
         </rss>
@@ -106,6 +141,42 @@ class RssSourceTests(unittest.TestCase):
 
         self.assertEqual(len(articles), 1)
         self.assertEqual(articles[0].url, wrapper_url)
+
+    def test_fetch_retries_timeout_up_to_max_attempts_and_uses_source_timeout(self) -> None:
+        feed_url = "https://example.com/feed.xml"
+        timeout_error = httpx.ReadTimeout("timed out", request=httpx.Request("GET", feed_url))
+        factory = FakeClientFactory(
+            [
+                FakeClient(errors={("GET", feed_url): timeout_error}),
+                FakeClient(responses={("GET", feed_url): FakeResponse(self._build_simple_feed())}),
+            ]
+        )
+
+        source = RssSource(name="Retry Feed", feed_url=feed_url, request_timeout_seconds=20.0, max_attempts=3)
+        with patch("app.sources.rss.httpx.Client", side_effect=factory):
+            articles = source.fetch(limit=3)
+
+        self.assertEqual(len(articles), 1)
+        self.assertEqual(len(factory.calls), 2)
+        self.assertEqual(factory.calls[0]["timeout"], 20.0)
+        self.assertTrue(all(call["timeout"] == 20.0 for call in factory.calls))
+
+    def test_fetch_stops_after_three_attempts_on_repeated_timeout(self) -> None:
+        feed_url = "https://example.com/feed.xml"
+        factory = FakeClientFactory(
+            [
+                FakeClient(errors={("GET", feed_url): httpx.ReadTimeout("timed out", request=httpx.Request("GET", feed_url))}),
+                FakeClient(errors={("GET", feed_url): httpx.ReadTimeout("timed out", request=httpx.Request("GET", feed_url))}),
+                FakeClient(errors={("GET", feed_url): httpx.ReadTimeout("timed out", request=httpx.Request("GET", feed_url))}),
+            ]
+        )
+
+        source = RssSource(name="Retry Feed", feed_url=feed_url, request_timeout_seconds=20.0, max_attempts=3)
+        with patch("app.sources.rss.httpx.Client", side_effect=factory):
+            with self.assertRaises(httpx.ReadTimeout):
+                source.fetch(limit=3)
+
+        self.assertEqual(len(factory.calls), 3)
 
 
 if __name__ == "__main__":

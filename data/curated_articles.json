@@ -18,21 +18,57 @@
 		"region_hints": ["Singapore"]
 	},
 	{
-		"title": "HoYo FEST 2025 official Singapore event page",
-		"url": "https://act.hoyoverse.com/common/event/e20250528hoyofest-lfhecu/index.html?game_biz=hk4e_global",
-		"published_at": "2025-06-23T12:00:00+00:00",
-		"summary": "Official HoYo FEST page for Singapore fan activities, merch, artist alley participation, and HoYoVerse event details.",
-		"content": "Official HoYo FEST page for Singapore coverage, including merch, artist alley participation, themed activities, and HoYoVerse event details.",
-		"category_hints": ["events", "gacha", "merch"],
+		"title": "AniRadio Plus official TikTok for Japanese pop culture updates",
+		"url": "https://www.tiktok.com/@aniradioplus",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official AniRadio Plus TikTok account for anime, J-pop, merch, and Japanese pop culture news updates.",
+		"content": "Official AniRadio Plus TikTok account covering Japanese pop culture news, anime clips, merch features, music-related posts, and community-facing updates after the main site went offline.",
+		"category_hints": ["anime", "merch", "events"],
+		"region_hints": ["SEA"]
+	},
+	{
+		"title": "Singapore Comic Con 2026 official event site",
+		"url": "https://www.singaporecomiccon.com/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Singapore Comic Con site for show dates, guest reveals, creator programming, and ticketing updates.",
+		"content": "Official Singapore Comic Con event page covering show dates, creator and cosplay programming, exhibitor announcements, ticketing details, and official social links for Singapore's major pop culture convention.",
+		"category_hints": ["events", "anime", "merch"],
+		"region_hints": ["Singapore", "SEA"]
+	},
+	{
+		"title": "Doujin Market 2026 official event page by Neo Tokyo Project",
+		"url": "https://www.eventbrite.sg/e/doujin-market-2026-tickets-1984953521416",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Doujin Market 2026 event page with venue, dates, organizer details, and convention information.",
+		"content": "Official Doujin Market 2026 event page by Neo Tokyo Project covering convention schedule, venue details, organizer information, ticketing, cosplay and convention rules, and creator market context for Singapore.",
+		"category_hints": ["events", "anime", "merch"],
 		"region_hints": ["Singapore"]
 	},
 	{
-		"title": "AFA Singapore 2025 official event page with creator and artist alley updates",
-		"url": "https://animefestival.asia/afasg25/",
-		"published_at": "2025-11-24T12:00:00+00:00",
-		"summary": "Official Anime Festival Asia Singapore page covering creator booths, artist alley activity, guests, and ticket information.",
-		"content": "Official Anime Festival Asia Singapore event page for creator booths, artist alley activity, guests, and related event information.",
+		"title": "Anime Festival Asia main official site for regional ACG event announcements",
+		"url": "https://animefestival.asia/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Anime Festival Asia site covering AFA Singapore and other SEA event announcements, creators, concerts, and merch updates.",
+		"content": "Official Anime Festival Asia site covering AFA Singapore 2026 and other regional ACG event announcements, creator zones, cosplay, concert programming, exhibition details, and official merchandise and organizer information.",
 		"category_hints": ["events", "anime", "merch"],
-		"region_hints": ["Singapore"]
+		"region_hints": ["Singapore", "SEA"]
+	},
+	{
+		"title": "HoYo FEST 2026 official Singapore event details and creator activity call via HoYoLAB",
+		"url": "https://www.hoyolab.com/article/44248740",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official HoYoLAB announcement for HoYo FEST 2026 with Singapore dates, Suntec venue details, and artist alley and stage activity recruitment.",
+		"content": "Official HoYoLAB announcement for HoYo FEST 2026 covering Singapore dates of 31 July to 2 August 2026 at Suntec Singapore Convention & Exhibition Centre Hall 403, alongside artist alley and stage activity recruitment and broader SEA event details.",
+		"category_hints": ["events", "gacha", "merch"],
+		"region_hints": ["Singapore", "SEA"]
+	},
+	{
+		"title": "AFA Singapore 2026 official event page with creator and cosplay hub updates",
+		"url": "https://animefestival.asia/afasg26/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official AFA Singapore 2026 page covering creator hub, cosplay hub, exhibitor applications, media registration, and event staffing updates.",
+		"content": "Official AFA Singapore 2026 event page covering Creator's Hub and Cosplay Hub participation, AFA Next Stage applications, exhibitor and media registration, temporary staffing, and event details for 27 to 29 November 2026 at Suntec Convention & Exhibition Centre.",
+		"category_hints": ["events", "anime", "merch"],
+		"region_hints": ["Singapore", "SEA"]
 	}
 ]

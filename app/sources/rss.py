@@ -21,6 +21,7 @@ GOOGLE_NEWS_GARTURL_PREFIX = bytes([0x08, 0x13, 0x22]).decode("latin1")
 GOOGLE_NEWS_GARTURL_SUFFIX = bytes([0xD2, 0x01, 0x00]).decode("latin1")
 GOOGLE_NEWS_URL_CACHE: dict[str, str] = {}
 GOOGLE_NEWS_URL_CACHE_MAXSIZE = 512
+DEFAULT_RSS_REQUEST_TIMEOUT_SECONDS = 10.0
 RSS_REQUEST_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -57,6 +58,17 @@ def _remember_google_news_url(wrapper_url: str, resolved_url: str) -> str:
     while len(GOOGLE_NEWS_URL_CACHE) > GOOGLE_NEWS_URL_CACHE_MAXSIZE:
         GOOGLE_NEWS_URL_CACHE.pop(next(iter(GOOGLE_NEWS_URL_CACHE)))
     return resolved_url
+
+
+def _timeout_seconds_for_source(source: BaseSource) -> float:
+    configured = source.request_timeout_seconds
+    if configured is None:
+        return DEFAULT_RSS_REQUEST_TIMEOUT_SECONDS
+    return max(float(configured), 0.1)
+
+
+def _max_attempts_for_source(source: BaseSource) -> int:
+    return max(int(source.max_attempts or 1), 1)
 
 
 def _google_news_base64_id(source_url: str) -> str | None:
@@ -184,62 +196,25 @@ def resolve_google_news_url(source_url: str, client: httpx.Client | None = None)
     if client is not None:
         return _resolve_google_news_url(source_url, client)
 
-    with httpx.Client(headers=RSS_REQUEST_HEADERS, timeout=10, follow_redirects=True) as owned_client:
+    with httpx.Client(headers=RSS_REQUEST_HEADERS, timeout=DEFAULT_RSS_REQUEST_TIMEOUT_SECONDS, follow_redirects=True) as owned_client:
         return _resolve_google_news_url(source_url, owned_client)
 
 
 class RssSource(BaseSource):
-    def fetch(self, limit: int) -> list[SourceArticle]:
-        with httpx.Client(
-            headers=RSS_REQUEST_HEADERS,
-            timeout=10,
-            follow_redirects=True,
-        ) as client:
-            response = client.get(self.feed_url)
-            response.raise_for_status()
+    def _parse_articles(self, root: ET.Element, client: httpx.Client, limit: int) -> list[SourceArticle]:
+        articles: list[SourceArticle] = []
 
-            root = ET.fromstring(response.text)
-            articles: list[SourceArticle] = []
-
-            channel_items = root.findall("./channel/item")
-            if channel_items:
-                for item in channel_items[:limit]:
-                    title = _strip_html(item.findtext("title"))
-                    url = _resolve_google_news_url(_strip_html(item.findtext("link")), client)
-                    summary = _strip_html(item.findtext("description"))
-                    published_at = _parse_datetime(item.findtext("pubDate"))
-                    image_url = None
-                    enclosure = item.find("enclosure")
-                    if enclosure is not None:
-                        image_url = enclosure.attrib.get("url")
-                    if title and url:
-                        article = SourceArticle(
-                            title=title,
-                            url=url,
-                            published_at=published_at,
-                            summary=summary,
-                            category_hints=list(self.category_hints),
-                            region_hints=list(self.region_hints),
-                            image_url=image_url,
-                        )
-                        if self.matches(article):
-                            articles.append(article)
-                return articles
-
-            atom_entries = root.findall("atom:entry", ATOM_NAMESPACE)
-            for entry in atom_entries[:limit]:
-                title = _strip_html(entry.findtext("atom:title", default="", namespaces=ATOM_NAMESPACE))
-                link_element = entry.find("atom:link", ATOM_NAMESPACE)
-                url = link_element.attrib.get("href", "") if link_element is not None else ""
-                url = _resolve_google_news_url(url, client)
-                summary = _strip_html(
-                    entry.findtext("atom:summary", default="", namespaces=ATOM_NAMESPACE)
-                    or entry.findtext("atom:content", default="", namespaces=ATOM_NAMESPACE)
-                )
-                published_at = _parse_datetime(
-                    entry.findtext("atom:updated", default="", namespaces=ATOM_NAMESPACE)
-                    or entry.findtext("atom:published", default="", namespaces=ATOM_NAMESPACE)
-                )
+        channel_items = root.findall("./channel/item")
+        if channel_items:
+            for item in channel_items[:limit]:
+                title = _strip_html(item.findtext("title"))
+                url = _resolve_google_news_url(_strip_html(item.findtext("link")), client)
+                summary = _strip_html(item.findtext("description"))
+                published_at = _parse_datetime(item.findtext("pubDate"))
+                image_url = None
+                enclosure = item.find("enclosure")
+                if enclosure is not None:
+                    image_url = enclosure.attrib.get("url")
                 if title and url:
                     article = SourceArticle(
                         title=title,
@@ -248,8 +223,58 @@ class RssSource(BaseSource):
                         summary=summary,
                         category_hints=list(self.category_hints),
                         region_hints=list(self.region_hints),
+                        image_url=image_url,
                     )
                     if self.matches(article):
                         articles.append(article)
-
             return articles
+
+        atom_entries = root.findall("atom:entry", ATOM_NAMESPACE)
+        for entry in atom_entries[:limit]:
+            title = _strip_html(entry.findtext("atom:title", default="", namespaces=ATOM_NAMESPACE))
+            link_element = entry.find("atom:link", ATOM_NAMESPACE)
+            url = link_element.attrib.get("href", "") if link_element is not None else ""
+            url = _resolve_google_news_url(url, client)
+            summary = _strip_html(
+                entry.findtext("atom:summary", default="", namespaces=ATOM_NAMESPACE)
+                or entry.findtext("atom:content", default="", namespaces=ATOM_NAMESPACE)
+            )
+            published_at = _parse_datetime(
+                entry.findtext("atom:updated", default="", namespaces=ATOM_NAMESPACE)
+                or entry.findtext("atom:published", default="", namespaces=ATOM_NAMESPACE)
+            )
+            if title and url:
+                article = SourceArticle(
+                    title=title,
+                    url=url,
+                    published_at=published_at,
+                    summary=summary,
+                    category_hints=list(self.category_hints),
+                    region_hints=list(self.region_hints),
+                )
+                if self.matches(article):
+                    articles.append(article)
+
+        return articles
+
+    def fetch(self, limit: int) -> list[SourceArticle]:
+        timeout_seconds = _timeout_seconds_for_source(self)
+        max_attempts = _max_attempts_for_source(self)
+
+        for attempt in range(max_attempts):
+            try:
+                with httpx.Client(
+                    headers=RSS_REQUEST_HEADERS,
+                    timeout=timeout_seconds,
+                    follow_redirects=True,
+                ) as client:
+                    response = client.get(self.feed_url)
+                    response.raise_for_status()
+
+                    root = ET.fromstring(response.text)
+                    return self._parse_articles(root, client, limit)
+            except (httpx.TimeoutException, httpx.TransportError):
+                if attempt + 1 >= max_attempts:
+                    raise
+
+        return []
