@@ -1,0 +1,29 @@
+[
+	{
+		"title": "AniManGaki 2026 official Malaysia anime convention site",
+		"url": "https://animangaki.com/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official AniManGaki 2026 site with countdown, artist alley, cosplay alley, stage program, exhibitor, and volunteer details for Malaysia's major anime convention.",
+		"content": "Official AniManGaki 2026 site covering countdown timing, artist alley, cosplay alley, stage performances, exhibitor booths, photographer alley, volunteer information, and organizer contact details for a major Malaysia anime, manga, cosplay, and gaming convention.",
+		"category_hints": ["events", "anime", "merch"],
+		"region_hints": ["SEA"]
+	},
+	{
+		"title": "Indonesia Comic Con 2026 official convention site",
+		"url": "https://indonesiacomiccon.com/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Indonesia Comic Con 2026 site with programs, tickets, exhibitor registration, guest activities, and latest updates for its October event.",
+		"content": "Official Indonesia Comic Con 2026 site covering exhibition programs, main guest talkshows, cosplay and gaming competitions, creator workshops, ticketing, exhibitor and sponsor registration, FAQ details, and ongoing organizer updates for the October 2026 event.",
+		"category_hints": ["events", "anime", "games", "merch"],
+		"region_hints": ["SEA"]
+	},
+	{
+		"title": "Bushiroad International official events page for Singapore and global card game festivals",
+		"url": "https://en.bushiroad.com/events/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Bushiroad events page with organized play information, Singapore card game festival details, and tournament links for Vanguard, Weiss Schwarz, and related titles.",
+		"content": "Official Bushiroad International events page covering organized play support, monthly shop tournaments, Bushiroad Card Game Festival 2026 in Singapore, Bushiroad EXPO 2026, Summer Fest, Championship Series, and official channel links for major anime and TCG properties.",
+		"category_hints": ["events", "games", "anime"],
+		"region_hints": ["Singapore", "SEA"]
+	}
+]

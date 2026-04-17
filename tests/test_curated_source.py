@@ -81,10 +81,7 @@ class CuratedSourceTests(unittest.TestCase):
 
     def test_repository_curated_articles_have_unique_titles_and_urls(self) -> None:
         data_dir = Path(__file__).resolve().parents[1] / "data"
-        curated_files = [
-            data_dir / "curated_articles.json",
-            data_dir / "curated_merch_articles.json",
-        ]
+        curated_files = sorted(data_dir.glob("curated*_articles.json"))
         curated_articles = [
             article
             for file_path in curated_files
@@ -94,6 +91,7 @@ class CuratedSourceTests(unittest.TestCase):
         titles = [article["title"] for article in curated_articles]
         urls = [article["url"] for article in curated_articles]
 
+        self.assertGreaterEqual(len(curated_files), 3)
         self.assertEqual(len(titles), len(set(titles)))
         self.assertEqual(len(urls), len(set(urls)))
         self.assertTrue(all(url.startswith(("http://", "https://")) for url in urls))

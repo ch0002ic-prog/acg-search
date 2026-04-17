@@ -204,6 +204,18 @@ def build_sources(settings: Settings) -> list[BaseSource]:
     capsule_toy_query = quote_plus(
         '((gashapon OR "capsule toy" OR "Ichiban Kuji" OR "Tamashii Nations" OR "blind box") AND (anime OR manga OR game OR merch OR collectible) AND (Singapore OR SEA))'
     )
+    hobby_convention_query = quote_plus(
+        '(("toy convention" OR "toy fair" OR "hobby expo" OR "collector convention" OR "figure festival" OR "hobby convention") AND (anime OR manga OR gaming OR "trading card game" OR collectibles) AND (Singapore OR SEA))'
+    )
+    stage_play_query = quote_plus(
+        '(("anime stage play" OR "2.5D musical" OR "theatrical adaptation" OR "live viewing" OR "anime musical") AND (Singapore OR SEA))'
+    )
+    arcade_prize_query = quote_plus(
+        '(("crane game" OR "prize figure" OR "game center" OR arcade OR "arcade collab") AND (anime OR manga OR character OR vtuber OR collectible) AND (Singapore OR SEA))'
+    )
+    bushiroad_festival_query = quote_plus(
+        '((Bushiroad OR "Cardfight Vanguard" OR "Weiss Schwarz" OR "Shadowverse Evolve" OR "Bushiroad EXPO" OR "Card Game Festival") AND (Singapore OR SEA))'
+    )
     gacha_keywords = [
         "genshin",
         "honkai",
@@ -411,6 +423,42 @@ def build_sources(settings: Settings) -> list[BaseSource]:
         "blind box",
         "bandai namco",
     ]
+    hobby_convention_keywords = [
+        "toy convention",
+        "toy fair",
+        "hobby expo",
+        "collector convention",
+        "figure festival",
+        "hobby convention",
+        "collectibles",
+    ]
+    stage_play_keywords = [
+        "anime stage play",
+        "2.5d musical",
+        "theatrical adaptation",
+        "live viewing",
+        "anime musical",
+        "stage play",
+        "theater screening",
+    ]
+    arcade_prize_keywords = [
+        "crane game",
+        "prize figure",
+        "game center",
+        "arcade collab",
+        "arcade",
+        "sega",
+        "bandai namco",
+        "prize machine",
+    ]
+    bushiroad_festival_keywords = [
+        "bushiroad",
+        "cardfight vanguard",
+        "weiss schwarz",
+        "shadowverse evolve",
+        "bushiroad expo",
+        "card game festival",
+    ]
     bandwagon_keywords = [
         "gaming",
         "esports",
@@ -488,6 +536,15 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             quality=0.79,
             source_type="curated",
             category_hints=["merch", "anime", "events"],
+            region_hints=["Singapore", "SEA"],
+        ),
+        CuratedSource(
+            name="SEA Official Event Pages",
+            feed_url="local://curated-sea-event-watch",
+            file_path=settings.root_dir / "data" / "curated_event_articles.json",
+            quality=0.8,
+            source_type="curated",
+            category_hints=["events", "anime", "merch"],
             region_hints=["Singapore", "SEA"],
         ),
         RssSource(
@@ -1045,6 +1102,46 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             category_hints=["merch", "anime", "events"],
             region_hints=["Singapore", "SEA"],
             include_keywords=capsule_toy_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Hobby Conventions",
+            feed_url=f"https://news.google.com/rss/search?q={hobby_convention_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["events", "merch", "anime"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=hobby_convention_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Anime Stage Plays",
+            feed_url=f"https://news.google.com/rss/search?q={stage_play_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=stage_play_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Arcade Prize Games",
+            feed_url=f"https://news.google.com/rss/search?q={arcade_prize_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.75,
+            category_hints=["merch", "anime", "events"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=arcade_prize_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Bushiroad TCG Festivals",
+            feed_url=f"https://news.google.com/rss/search?q={bushiroad_festival_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.77,
+            category_hints=["events", "games", "anime"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=bushiroad_festival_keywords,
             exclude_keywords=google_news_exclude_keywords,
             cleanup_mismatches=True,
         ),

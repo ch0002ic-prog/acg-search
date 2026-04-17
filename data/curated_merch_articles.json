@@ -25,5 +25,14 @@
 		"content": "Official Good Smile Company news page covering release dates, shipping schedules, delay notices, product specification changes, and official updates across Nendoroid, figma, POP UP PARADE, and related figure and hobby lines.",
 		"category_hints": ["merch", "anime"],
 		"region_hints": ["SEA"]
+	},
+	{
+		"title": "hololive production official English news page for merch, collabs, and screenings",
+		"url": "https://hololive.hololivepro.com/en/news",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official hololive English news page covering collaborations, merchandise launches, concert screenings, and event announcements.",
+		"content": "Official hololive English news page covering collaboration merchandise drops, branded products, concert screenings, event announcements, and related official updates across hololive production talents and branches.",
+		"category_hints": ["merch", "anime", "events"],
+		"region_hints": ["SEA"]
 	}
 ]
