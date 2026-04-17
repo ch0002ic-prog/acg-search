@@ -11,9 +11,12 @@ class SourceRegistryTests(unittest.TestCase):
         sources = build_sources(settings)
         names = [source.name for source in sources]
         live_sources = [source for source in sources if source.source_type != "curated"]
+        feed_urls = [source.feed_url for source in live_sources]
 
         self.assertEqual(len(names), len(set(names)))
-        self.assertGreaterEqual(len(live_sources), 56)
+        self.assertEqual(len(feed_urls), len(set(feed_urls)))
+        self.assertGreaterEqual(len(live_sources), 60)
+        self.assertIn("SEA Merch News Pages", names)
         self.assertTrue(
             {
                 "RPG Site",
@@ -52,6 +55,10 @@ class SourceRegistryTests(unittest.TestCase):
                 "Google News SEA Anime Screenings",
                 "Google News SG Convention Guests",
                 "Google News SG Creator Hubs",
+                "Google News SEA Anime Exhibitions",
+                "Google News SEA Tokusatsu",
+                "Google News SEA VTuber Concerts",
+                "Google News SEA Capsule Toys",
             }.issubset(set(names))
         )
         self.assertTrue(all(source.feed_url for source in live_sources))

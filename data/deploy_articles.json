@@ -211,6 +211,88 @@
     "result_type": "source_page"
   },
   {
+    "id": "a618b2d257c1a0f5ccf6a50591f410f6b33a7c23",
+    "title": "AFASHOP official blog for Singapore anime merch and event sale updates",
+    "url": "https://afashop.co/blogs/shopkeepers-musing",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official AFASHOP blog covering Singapore anime and hobby merchandise launches, physical sale events, shipping updates, collabs, and store announcements connected to AFA-adjacent an",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.63,
+    "freshness_score": 1.0,
+    "home_score": 0.8775,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "af32e2356e4fa84e6cd1f02a66a63c75606598d9",
+    "title": "Premium Bandai Singapore official store and merch news page",
+    "url": "https://p-bandai.com/sg",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Premium Bandai Singapore page covering new arrivals, closing-soon preorder deadlines, SG release timing, shop sections for Tamashii Web Shop, Hobby Online Shop, Bandai Car",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 1.0,
+    "home_score": 0.8635,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
     "id": "31b6ab4cb03993bca38cd15adac130c1685a41a1",
     "title": "Doujin Market 2026 official event page by Neo Tokyo Project",
     "url": "https://www.eventbrite.sg/e/doujin-market-2026-tickets-1984953521416",
@@ -411,6 +493,169 @@
     "result_type": "source_page"
   },
   {
+    "id": "cb43812774a6007dbb5d3cce6ce29454e3210811",
+    "title": "Comic Fiesta Anime Fest 2026 official event page",
+    "url": "https://comicfiesta.org/af26",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Anime Fest 2026 page by Comic Fiesta covering special guests, ticketing information, art and cosplay market details, exhibition hall maps, schedules, merchandise, and venu",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 1.0,
+    "home_score": 0.8275,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Guest lineup mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "17782ade11d2f408dd00fd13abcef33b6cb33aaa",
+    "title": "TOYCON Philippines official site for 2026 cosplay, guest, and TCG updates",
+    "url": "https://www.toyconph.com/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official TOYCON Philippines site tracking TOYCON Summer Prelude 2026 and broader 2026 event updates including cosplay contests, guest performers, ticketing, exhibitor registration,",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 1.0,
+    "home_score": 0.8275,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "source_page"
+  },
+  {
+    "id": "f67932315d71a8c01ae135ec9a68295466c94438",
+    "title": "Comic Frontier 21 official web catalog for circle and floor map updates",
+    "url": "https://catalog.comifuro.net/catalog",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Comic Frontier web catalog for Comic Frontier 21 covering participating circles, fandom search, circle codes, floor map access, and creator-market discovery for one of Ind",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 1.0,
+    "home_score": 0.8275,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "source_page"
+  },
+  {
+    "id": "aebf003ccdc7bfe1549d829eaa29fc18b6991324",
+    "title": "Tamashii Web official figure news and release schedule page",
+    "url": "https://tamashiiweb.com/",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Tamashii Web page covering current S",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 1.0,
+    "home_score": 0.826,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "7c37400c7c5de600ccf6723d26c50e8d0516ea31",
+    "title": "Good Smile Company official news page for release and shipping updates",
+    "url": "https://www.goodsmile.com/en/news",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Good Smile Company news page covering release dates, shipping schedules, delay notices, product specification changes, and official updates across Nendoroid, figma, POP UP",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 1.0,
+    "home_score": 0.826,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "source_page"
+  },
+  {
     "id": "d958943683b299952c291ef741715e325d40f62e",
     "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
     "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
@@ -475,8 +720,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.990593626060671,
-    "home_score": 0.8158,
+    "freshness_score": 0.9811860844195222,
+    "home_score": 0.8115,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -982,8 +1227,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9814374977105138,
-    "home_score": 0.7316,
+    "freshness_score": 0.9721169095565609,
+    "home_score": 0.7275,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1022,8 +1267,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8122474431244265,
-    "home_score": 0.731,
+    "freshness_score": 0.8045336319156932,
+    "home_score": 0.7275,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -1054,8 +1299,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8047618258316163,
-    "home_score": 0.7201,
+    "freshness_score": 0.7971190995643982,
+    "home_score": 0.7167,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C30%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/Wm3pmWNsS9SKGLPZqtSy",
     "event_metadata": {
@@ -1089,131 +1334,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9978546183394489,
-    "home_score": 0.716,
+    "freshness_score": 0.9883781220908939,
+    "home_score": 0.7118,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3cd5ca07170125d0031e095e936495d2e5f09178",
-    "title": "Sword Art Online Action RPG Echoes of Aincrad Gets Gameplay Trailer",
-    "url": "https://anitrendz.net/news/2026/04/16/sword-art-online-action-rpg-echoes-of-aincrad-gets-gameplay-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=sword-art-online-action-rpg-echoes-of-aincrad-gets-gameplay-trailer",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-17T04:01:51Z",
-    "summary": "The upcoming Echoes of Aincrad action RPG has received a gameplay trailer, which shows off its combat, enemies, and environments, alongside a peek at its gear",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9934257149795662,
-    "home_score": 0.714,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 10",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4f856daeccb0b3f4207d55e37da99eb466cc9188",
-    "title": "HYBE, SM Entertainment, JYP Entertainment & YG Entertainment to create music festival to outshine Coachella",
-    "url": "https://www.bandwagon.asia/articles/hybe-sm-entertainment-jyp-entertainment-yg-entertainment-to-create-a-music-festival-to-beat-coachella",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-04-16T06:48:00Z",
-    "summary": "Stunning outfits, amazing artists, and pure summer vibes is what Coachella has brought to the music festival scene since its launch in 1999",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "idol"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.51,
-    "freshness_score": 0.7397313621659348,
-    "home_score": 0.7109,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C60%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/54EFxPjeQbWMCsSpgeQz",
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "16 April",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Sabrina Carpenter",
-        "Major Lazer",
-        "TAEMIN",
-        "BIGBANG",
-        "Fujii Kaze"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c09b519c9b4ecb8a108169b3dc0e23b0dc186e23",
-    "title": "New Release Round-Up (April 16, 2026)",
-    "url": "https://rpgamer.com/2026/04/new-release-round-up-april-16-2026/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-16T20:09:52Z",
-    "summary": "Welcome to RPGamer's new release round-up",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.8906077630652247,
-    "home_score": 0.7108,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "April 16, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1242,6 +1367,41 @@
     "event_metadata": {
       "event_type": null,
       "date_label": "April 7",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3cd5ca07170125d0031e095e936495d2e5f09178",
+    "title": "Sword Art Online Action RPG Echoes of Aincrad Gets Gameplay Trailer",
+    "url": "https://anitrendz.net/news/2026/04/16/sword-art-online-action-rpg-echoes-of-aincrad-gets-gameplay-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=sword-art-online-action-rpg-echoes-of-aincrad-gets-gameplay-trailer",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-17T04:01:51Z",
+    "summary": "The upcoming Echoes of Aincrad action RPG has received a gameplay trailer, which shows off its combat, enemies, and environments, alongside a peek at its gear",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.98399127947237,
+    "home_score": 0.7098,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 10",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1287,6 +1447,52 @@
     "result_type": "article"
   },
   {
+    "id": "4f856daeccb0b3f4207d55e37da99eb466cc9188",
+    "title": "HYBE, SM Entertainment, JYP Entertainment & YG Entertainment to create music festival to outshine Coachella",
+    "url": "https://www.bandwagon.asia/articles/hybe-sm-entertainment-jyp-entertainment-yg-entertainment-to-create-a-music-festival-to-beat-coachella",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-04-16T06:48:00Z",
+    "summary": "Stunning outfits, amazing artists, and pure summer vibes is what Coachella has brought to the music festival scene since its launch in 1999",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "idol"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.51,
+    "freshness_score": 0.7327062221955635,
+    "home_score": 0.7077,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C60%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/54EFxPjeQbWMCsSpgeQz",
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "16 April",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Sabrina Carpenter",
+        "Major Lazer",
+        "TAEMIN",
+        "BIGBANG",
+        "Fujii Kaze"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "83fc115d82cd096d042eddd9e20fb3941cc84b3b",
     "title": "AI LIMIT DLC: Eirene\u2019s Furnace of War Impression",
     "url": "https://rpgamer.com/2026/04/ai-limit-dlc-eirenes-furnace-of-war-impression/",
@@ -1311,6 +1517,45 @@
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c09b519c9b4ecb8a108169b3dc0e23b0dc186e23",
+    "title": "New Release Round-Up (April 16, 2026)",
+    "url": "https://rpgamer.com/2026/04/new-release-round-up-april-16-2026/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-16T20:09:52Z",
+    "summary": "Welcome to RPGamer's new release round-up",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.88214977334183,
+    "home_score": 0.707,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "April 16, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1347,31 +1592,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "142e756e6518f9fccec2b3860119c542c8a6cf6e",
-    "title": "Interview: BookWalker Global on Its New Platform, Reader Ownership, and the Future of Digital Manga",
-    "url": "https://animecorner.me/interview-bookwalker-global-on-its-new-platform-reader-ownership-and-the-future-of-digital-manga/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-17T02:00:45Z",
-    "summary": "Interview: BookWalker Global on Its New Platform, Reader Ownership, and the Future of Digital Manga",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9659644492240924,
-    "home_score": 0.7047,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1415,48 +1635,13 @@
     "result_type": "article"
   },
   {
-    "id": "fcf5cf8d5fd502ae8077381f109071bce8e532d3",
-    "title": "L\u2019\u00e9toile de Paris en Fleur Anime Film Streams First 11 Minutes",
-    "url": "https://crunchyroll.com/news/latest/2026/4/17/letoile-de-paris-en-fleur-anime-film-first-11-minutes",
-    "source_name": "Crunchyroll News",
+    "id": "142e756e6518f9fccec2b3860119c542c8a6cf6e",
+    "title": "Interview: BookWalker Global on Its New Platform, Reader Ownership, and the Future of Digital Manga",
+    "url": "https://animecorner.me/interview-bookwalker-global-on-its-new-platform-reader-ownership-and-the-future-of-digital-manga/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-04-17T01:38:00Z",
-    "summary": "The Goro Taniguchi-directed original film released in Japan on March 13",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9608908202486615,
-    "home_score": 0.7009,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "March 13",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "673fc3cd22ab204f023f6d7a8abe2fa6edd333b0",
-    "title": "Studio Ghibli Fest Returns in 2026 with Ponyo, My Neighbor Totoro & More Screenings in the U.S.",
-    "url": "https://anitrendz.net/news/2026/04/16/studio-ghibli-fest-returns-in-2026-with-ponyo-my-neighbor-totoro-more-screenings-in-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=studio-ghibli-fest-returns-in-2026-with-ponyo-my-neighbor-totoro-more-screenings-in-the-u-s",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-17T01:26:41Z",
-    "summary": "Studio Ghibli Fest Returns in 2026 with Ponyo, My Neighbor Totoro & More Screenings in the U.S.",
+    "published_at": "2026-04-17T02:00:45Z",
+    "summary": "Interview: BookWalker Global on Its New Platform, Reader Ownership, and the Future of Digital Manga",
     "content": "",
     "categories": [
       "anime",
@@ -1467,71 +1652,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9583768539402135,
-    "home_score": 0.6983,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "screening",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "d1e4d2ae5ccf6e2d95e792a5bc6e7142183bb0e4",
-    "title": "Star Detective Precure! Anime Ending Video Surpasses Five Million Views",
-    "url": "https://crunchyroll.com/news/latest/2026/4/17/star-detective-precure-anime-ending-video-five-million-views",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-17T01:07:00Z",
-    "summary": "The 23rd Precure TV anime is now available on Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9540202189221042,
-    "home_score": 0.6978,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e16e97721744d9f1fa4e1e428b47d5f36fe7a2a7",
-    "title": "KBS To Develop Comprehensive Guidelines With Experts To Ensure Safe Esports Ecosystem - Bernama",
-    "url": "https://www.bernama.com/misc/rss/news.php?id=2545607",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-04-16T07:56:52Z",
-    "summary": "KBS To Develop Comprehensive Guidelines With Experts To Ensure Safe Esports Ecosystem Bernama",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7516177025979822,
-    "home_score": 0.6977,
-    "source_quality": 0.76,
+    "freshness_score": 0.9567908075315757,
+    "home_score": 0.7006,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1564,41 +1687,48 @@
     "result_type": "article"
   },
   {
-    "id": "37e29318eec44b58ae0ee7409b2a9dee4465b8f7",
-    "title": "Narrative-Driven Action RPG \u2018Second Stone\u2019 Announced from Skyward Entertainment; New Trailer Streaming Now",
-    "url": "https://noisypixel.net/second-stone-announced-action-rpg-skyward-headup/",
-    "source_name": "Noisy Pixel",
+    "id": "fcf5cf8d5fd502ae8077381f109071bce8e532d3",
+    "title": "L\u2019\u00e9toile de Paris en Fleur Anime Film Streams First 11 Minutes",
+    "url": "https://crunchyroll.com/news/latest/2026/4/17/letoile-de-paris-en-fleur-anime-film-first-11-minutes",
+    "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-04-16T21:49:32Z",
-    "summary": "Developer Skyward Entertainment and publisher Headup have revealed Second Stone, a narrative-driven action RPG, alongside a new announcement trailer",
+    "published_at": "2026-04-17T01:38:00Z",
+    "summary": "The Goro Taniguchi-directed original film released in Japan on March 13",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch",
+      "manga",
+      "games",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9113938774783006,
-    "home_score": 0.6971,
-    "source_quality": 0.78,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9517653625553761,
+    "home_score": 0.6968,
+    "source_quality": 0.79,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "March 13",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
-    "id": "5cb9f4ae06c9eb3de9411af345e7d8ac8e5b7067",
-    "title": "Puzzle Visual Novel \u2018Save My Scrap\u2019 Announced as Upgraded of \u2018Fix My Junk;\u2019 Launch Dates Set for PC, PS5, Switch, and Xbox",
-    "url": "https://noisypixel.net/save-my-scrap-release-dates-pc-ps5-switch-xbox/",
-    "source_name": "Noisy Pixel",
+    "id": "5120612e6898abf4e2d116b31045247761e04b9a",
+    "title": "Famitsu software sales (4/6/26 \u2013 4/12/26) \u2013 Top 30",
+    "url": "https://nintendoeverything.com/famitsu-software-sales-4-6-26-4-12-26-top-30/",
+    "source_name": "Nintendo Everything",
     "source_type": "rss",
-    "published_at": "2026-04-17T03:48:51Z",
-    "summary": "Publisher AMATA Games and developer Unio Anou have announced that its puzzle visual novel Save My Scrap will launch for PC via Steam on April 22, 2026",
+    "published_at": "2026-04-17T05:00:29Z",
+    "summary": "The latest Japanese hardware sales from Famitsu are as follows: 1",
     "content": "",
     "categories": [
       "games",
@@ -1609,13 +1739,65 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9904410288798658,
-    "home_score": 0.6947,
+    "freshness_score": 0.9974378546785716,
+    "home_score": 0.6963,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e16e97721744d9f1fa4e1e428b47d5f36fe7a2a7",
+    "title": "KBS To Develop Comprehensive Guidelines With Experts To Ensure Safe Esports Ecosystem - Bernama",
+    "url": "https://www.bernama.com/misc/rss/news.php?id=2545607",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-04-16T07:56:52Z",
+    "summary": "KBS To Develop Comprehensive Guidelines With Experts To Ensure Safe Esports Ecosystem Bernama",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7444793553633162,
+    "home_score": 0.6945,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "673fc3cd22ab204f023f6d7a8abe2fa6edd333b0",
+    "title": "Studio Ghibli Fest Returns in 2026 with Ponyo, My Neighbor Totoro & More Screenings in the U.S.",
+    "url": "https://anitrendz.net/news/2026/04/16/studio-ghibli-fest-returns-in-2026-with-ponyo-my-neighbor-totoro-more-screenings-in-the-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=studio-ghibli-fest-returns-in-2026-with-ponyo-my-neighbor-totoro-more-screenings-in-the-u-s",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-17T01:26:41Z",
+    "summary": "Studio Ghibli Fest Returns in 2026 with Ponyo, My Neighbor Totoro & More Screenings in the U.S.",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9492752723647826,
+    "home_score": 0.6942,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
-      "event_type": null,
-      "date_label": "April 22, 2026",
+      "event_type": "screening",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1660,6 +1842,119 @@
     "result_type": "article"
   },
   {
+    "id": "d1e4d2ae5ccf6e2d95e792a5bc6e7142183bb0e4",
+    "title": "Star Detective Precure! Anime Ending Video Surpasses Five Million Views",
+    "url": "https://crunchyroll.com/news/latest/2026/4/17/star-detective-precure-anime-ending-video-five-million-views",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-17T01:07:00Z",
+    "summary": "The 23rd Precure TV anime is now available on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.944960010436009,
+    "home_score": 0.6937,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "37e29318eec44b58ae0ee7409b2a9dee4465b8f7",
+    "title": "Narrative-Driven Action RPG \u2018Second Stone\u2019 Announced from Skyward Entertainment; New Trailer Streaming Now",
+    "url": "https://noisypixel.net/second-stone-announced-action-rpg-skyward-headup/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-16T21:49:32Z",
+    "summary": "Developer Skyward Entertainment and publisher Headup have revealed Second Stone, a narrative-driven action RPG, alongside a new announcement trailer",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9027384863133003,
+    "home_score": 0.6932,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9535496546caa1382f67b5057a70d8f6676dc37c",
+    "title": "Metro 2039 Revealed, Launching This Winter on PS5, Xbox Series X|S, Steam, and Epic",
+    "url": "https://monstervine.com/2026/04/metro-2039-revealed-launching-this-winter-ps5-xbox-pc/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-17T04:58:18Z",
+    "summary": "Metro 2039 has been officially revealed by 4A Games and is set to launch this winter for Xbox Series X|S, PlayStation 5, Steam, and Epic Games Store",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9969335728456218,
+    "home_score": 0.6916,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5cb9f4ae06c9eb3de9411af345e7d8ac8e5b7067",
+    "title": "Puzzle Visual Novel \u2018Save My Scrap\u2019 Announced as Upgraded of \u2018Fix My Junk;\u2019 Launch Dates Set for PC, PS5, Switch, and Xbox",
+    "url": "https://noisypixel.net/save-my-scrap-release-dates-pc-ps5-switch-xbox/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-17T03:48:51Z",
+    "summary": "Publisher AMATA Games and developer Unio Anou have announced that its puzzle visual novel Save My Scrap will launch for PC via Steam on April 22, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9810349371500672,
+    "home_score": 0.6905,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 22, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "73d2822a1b58075d87f0371ca571989ed53f9f3a",
     "title": "Pragmata Hugh and Diana 1/7 Figure Announced for January 2027",
     "url": "https://noisypixel.net/pragmata-hugh-diana-figure-creator-model-announced/",
@@ -1678,8 +1973,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9473377866037039,
-    "home_score": 0.6933,
+    "freshness_score": 0.9383410408002976,
+    "home_score": 0.6893,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1716,8 +2011,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9845929013056,
-    "home_score": 0.6921,
+    "freshness_score": 0.9752423484612759,
+    "home_score": 0.6879,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1750,8 +2045,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9800980845130928,
-    "home_score": 0.6915,
+    "freshness_score": 0.9707902186385786,
+    "home_score": 0.6874,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1779,8 +2074,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9831201514645997,
-    "home_score": 0.6914,
+    "freshness_score": 0.9737835851521636,
+    "home_score": 0.6872,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1813,279 +2108,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9818276203286875,
-    "home_score": 0.6908,
+    "freshness_score": 0.9725033290078458,
+    "home_score": 0.6866,
     "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c58196cb2ac43bf0e64e1bce1e1eab365f489d38",
-    "title": "Wistoria: Wand and Sword Season 2 Releases Opening Movie Video",
-    "url": "https://animecorner.me/wistoria-wand-and-sword-season-2-releases-opening-movie-video/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-16T19:53:16Z",
-    "summary": "Wistoria: Wand and Sword Season 2 has revealed its opening movie video following the premiere\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8871920135813388,
-    "home_score": 0.6892,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "570d5cd804eef079fa5dd0c4c39526796527707f",
-    "title": "Eir Aoi, Hiroshi Kitadani, DJ Kazu, and UNIS to Perform at Otaku Pop Fes 2026 Music Live in Manila, Philippines",
-    "url": "https://animecorner.me/eir-aoi-hiroshi-kitadani-dj-kazu-and-unis-to-perform-at-otaku-pop-fes-2026-music-live-in-manila-philippines/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-16T23:20:48Z",
-    "summary": "Otaku Pop Fes 2026 is putting together an unforgettable night of Anisong legends and\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [
-      "idol"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9308531837109996,
-    "home_score": 0.6889,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b925499d9b554577179bf7adacff43abf394baa0",
-    "title": "I thought the most toxic gamers in Counter-Strike 2 lobbies were kids, but I was very wrong",
-    "url": "https://esportsinsider.com/2026/04/counter-strike-2-toxicity-study",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-04-16T20:18:26Z",
-    "summary": "There has always been a bit of a stereotype that FPS lobbies are filled with toxic 12-year-olds using a bunch of racial slurs and screaming obnoxiously until you are forced to mute",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8923753781561933,
-    "home_score": 0.6871,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "de543a397484f670ac58eacd51bbe962d35b3728",
-    "title": "Hololive Vtuber Akai Haato Returns With Original Song",
-    "url": "https://www.siliconera.com/hololive-vtuber-akai-haato-returns-with-original-song/?utm_source=rss&utm_medium=rss&utm_campaign=hololive-vtuber-akai-haato-returns-with-original-song",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-16T22:00:00Z",
-    "summary": "Following her October 2025 hiatus, Cover announced that Hololive Vtuber Akai Haato will gradually return as a performer",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9136049330015843,
-    "home_score": 0.6841,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "eee6be9452b2ef8eed7c924ac419426c418ea95c",
-    "title": "The Adventures of Elliot: The Millennium Tales Shares New Story, Characters, and Gameplay Details Ahead of June 18 Launch",
-    "url": "https://monstervine.com/2026/04/the-adventures-of-elliot-the-millennium-tales-new-story-characters-gameplay-details/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-04-17T03:00:25Z",
-    "summary": "The Adventures of Elliot: The Millennium Tales is getting a new wave of details as Square Enix prepares to release the action RPG on June 18, 2026, for PlayStation 5, Xbox Series X",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9793984824520414,
-    "home_score": 0.6837,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 18",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "62ed5f1042a54833dc5aada5f0ccfc7300af7e3d",
-    "title": "Honkai: Star Rail Version 4.2 Launches April 22 With New Characters and 3rd Anniversary Events",
-    "url": "https://animecorner.me/honkai-star-rail-version-4-2-launches-april-22-with-new-characters-and-3rd-anniversary-events/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-16T22:22:19Z",
-    "summary": "Honkai: Star Rail has announced that Version 4",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9183363864587077,
-    "home_score": 0.6833,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 22",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "7741f44c5c6b63f333bf7f73769f22f7d4c922a3",
-    "title": "Honkai Star Rail Animation Project by MAPPA Reveals Concept Trailer",
-    "url": "https://animecorner.me/honkai-star-rail-animation-project-by-mappa-reveals-concept-trailer/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-16T22:20:09Z",
-    "summary": "Honkai: Star Rail X MAPPA original animation project revealed a concept trailer, which is\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9178759148906835,
-    "home_score": 0.683,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b7935fb473509cad4241323304459900fa1b18fb",
-    "title": "Otaku Pop Fes 2026 Highlights Cosplay Cup at Okada Manila on April 25\u201326",
-    "url": "https://animecorner.me/otaku-pop-fes-2026-highlights-cosplay-cup-at-okada-manila-on-april-25-26/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-16T22:09:39Z",
-    "summary": "Otaku Pop Fes 2026 is bringing cosplay into the spotlight with the highly anticipatedOPF\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9156476732523381,
-    "home_score": 0.682,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 25",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "8b1cbdc8fffda258a8510d3d48ed8cbb92b44b25",
-    "title": "Otaku Pop Fes 2026 Reveals IP Booths and Themed Photo Walls at Okada Manila",
-    "url": "https://animecorner.me/otaku-pop-fes-2026-reveals-ip-booths-and-themed-photo-walls-at-okada-manila/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-16T21:52:15Z",
-    "summary": "Otaku Pop Fes 2026 has announced that it is bringing together an exciting lineup\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9119670635596009,
-    "home_score": 0.6804,
-    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"

@@ -192,6 +192,18 @@ def build_sources(settings: Settings) -> list[BaseSource]:
     creator_hub_query = quote_plus(
         '(("creator hub" OR "creators hub" OR "cosplay hub" OR "creator booth" OR "artist booth" OR "fan merchandise") AND ("anime festival asia" OR "comic con" OR convention OR festival) AND (Singapore OR SEA))'
     )
+    anime_exhibition_query = quote_plus(
+        '((exhibition OR gallery OR showcase OR museum OR installation) AND (anime OR manga OR gaming OR character OR "pop culture") AND (Singapore OR SEA))'
+    )
+    tokusatsu_query = quote_plus(
+        '((tokusatsu OR "Kamen Rider" OR Ultraman OR "Super Sentai" OR Godzilla) AND (event OR screening OR exhibition OR merch OR "pop-up" OR showcase) AND (Singapore OR SEA))'
+    )
+    vtuber_concert_query = quote_plus(
+        '((VTuber OR "virtual youtuber" OR Hololive OR Nijisanji OR Vocaloid OR "virtual singer") AND (concert OR live OR festival OR screening OR stage OR meetup) AND (Singapore OR SEA))'
+    )
+    capsule_toy_query = quote_plus(
+        '((gashapon OR "capsule toy" OR "Ichiban Kuji" OR "Tamashii Nations" OR "blind box") AND (anime OR manga OR game OR merch OR collectible) AND (Singapore OR SEA))'
+    )
     gacha_keywords = [
         "genshin",
         "honkai",
@@ -362,6 +374,43 @@ def build_sources(settings: Settings) -> list[BaseSource]:
         "illustrator",
         "crafters",
     ]
+    anime_exhibition_keywords = [
+        "anime exhibition",
+        "manga exhibition",
+        "art exhibition",
+        "showcase",
+        "museum",
+        "gallery",
+        "pop-up exhibition",
+        "installation",
+    ]
+    tokusatsu_keywords = [
+        "tokusatsu",
+        "kamen rider",
+        "ultraman",
+        "super sentai",
+        "godzilla",
+        "hero show",
+        "special effects",
+    ]
+    vtuber_concert_keywords = [
+        "vtuber",
+        "virtual youtuber",
+        "hololive",
+        "nijisanji",
+        "vocaloid",
+        "virtual singer",
+        "live viewing",
+        "hatsune miku",
+    ]
+    capsule_toy_keywords = [
+        "gashapon",
+        "capsule toy",
+        "ichiban kuji",
+        "tamashii nations",
+        "blind box",
+        "bandai namco",
+    ]
     bandwagon_keywords = [
         "gaming",
         "esports",
@@ -431,6 +480,15 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             source_type="curated",
             category_hints=["events", "anime", "merch"],
             region_hints=["Singapore"],
+        ),
+        CuratedSource(
+            name="SEA Merch News Pages",
+            feed_url="local://curated-sea-merch-watch",
+            file_path=settings.root_dir / "data" / "curated_merch_articles.json",
+            quality=0.79,
+            source_type="curated",
+            category_hints=["merch", "anime", "events"],
+            region_hints=["Singapore", "SEA"],
         ),
         RssSource(
             name="Siliconera",
@@ -947,6 +1005,46 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             category_hints=["events", "anime", "merch"],
             region_hints=["Singapore", "SEA"],
             include_keywords=creator_hub_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Anime Exhibitions",
+            feed_url=f"https://news.google.com/rss/search?q={anime_exhibition_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=anime_exhibition_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Tokusatsu",
+            feed_url=f"https://news.google.com/rss/search?q={tokusatsu_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.77,
+            category_hints=["anime", "events", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=tokusatsu_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA VTuber Concerts",
+            feed_url=f"https://news.google.com/rss/search?q={vtuber_concert_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.77,
+            category_hints=["events", "anime", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=vtuber_concert_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Capsule Toys",
+            feed_url=f"https://news.google.com/rss/search?q={capsule_toy_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["merch", "anime", "events"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=capsule_toy_keywords,
             exclude_keywords=google_news_exclude_keywords,
             cleanup_mismatches=True,
         ),

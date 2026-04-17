@@ -79,6 +79,25 @@ class CuratedSourceTests(unittest.TestCase):
         self.assertEqual(articles[2].title, "HoyoFest Singapore watch for HoYoVerse merch booths and cafe drops")
         self.assertEqual(articles[3].title, "Artist Alley Singapore watch for Anime Festival Asia and SGCC creator booths")
 
+    def test_repository_curated_articles_have_unique_titles_and_urls(self) -> None:
+        data_dir = Path(__file__).resolve().parents[1] / "data"
+        curated_files = [
+            data_dir / "curated_articles.json",
+            data_dir / "curated_merch_articles.json",
+        ]
+        curated_articles = [
+            article
+            for file_path in curated_files
+            for article in json.loads(file_path.read_text(encoding="utf-8"))
+        ]
+
+        titles = [article["title"] for article in curated_articles]
+        urls = [article["url"] for article in curated_articles]
+
+        self.assertEqual(len(titles), len(set(titles)))
+        self.assertEqual(len(urls), len(set(urls)))
+        self.assertTrue(all(url.startswith(("http://", "https://")) for url in urls))
+
 
 if __name__ == "__main__":
     unittest.main()

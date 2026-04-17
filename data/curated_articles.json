@@ -70,5 +70,41 @@
 		"content": "Official AFA Singapore 2026 event page covering Creator's Hub and Cosplay Hub participation, AFA Next Stage applications, exhibitor and media registration, temporary staffing, and event details for 27 to 29 November 2026 at Suntec Convention & Exhibition Centre.",
 		"category_hints": ["events", "anime", "merch"],
 		"region_hints": ["Singapore", "SEA"]
+	},
+	{
+		"title": "Comic Fiesta Anime Fest 2026 official event page",
+		"url": "https://comicfiesta.org/af26",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Anime Fest 2026 page by Comic Fiesta with guest reveals, art and cosplay market details, ticketing, and floorplan updates.",
+		"content": "Official Anime Fest 2026 page by Comic Fiesta covering special guests, ticketing information, art and cosplay market details, exhibition hall maps, schedules, merchandise, and venue logistics at Sunway Pyramid Convention Centre.",
+		"category_hints": ["events", "anime", "merch"],
+		"region_hints": ["SEA"]
+	},
+	{
+		"title": "TOYCON Philippines official site for 2026 cosplay, guest, and TCG updates",
+		"url": "https://www.toyconph.com/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official TOYCON Philippines site covering 2026 event highlights, cosplay contests, guest performers, TCG areas, and exhibitor updates.",
+		"content": "Official TOYCON Philippines site tracking TOYCON Summer Prelude 2026 and broader 2026 event updates including cosplay contests, guest performers, ticketing, exhibitor registration, TCG battlegrounds, and local partner announcements.",
+		"category_hints": ["events", "anime", "games", "merch"],
+		"region_hints": ["SEA"]
+	},
+	{
+		"title": "AFASHOP official blog for Singapore anime merch and event sale updates",
+		"url": "https://afashop.co/blogs/shopkeepers-musing",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official AFASHOP blog covering Singapore clearance events, figure and merch launches, and store updates tied to collector demand.",
+		"content": "Official AFASHOP blog covering Singapore anime and hobby merchandise launches, physical sale events, shipping updates, collabs, and store announcements connected to AFA-adjacent and broader SEA collector demand.",
+		"category_hints": ["merch", "events", "anime"],
+		"region_hints": ["Singapore", "SEA"]
+	},
+	{
+		"title": "Comic Frontier 21 official web catalog for circle and floor map updates",
+		"url": "https://catalog.comifuro.net/catalog",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Comic Frontier web catalog for Comic Frontier 21 with circle listings, fandom search, and floor map access.",
+		"content": "Official Comic Frontier web catalog for Comic Frontier 21 covering participating circles, fandom search, circle codes, floor map access, and creator-market discovery for one of Indonesia's major doujin and fan-creator events.",
+		"category_hints": ["events", "anime", "merch"],
+		"region_hints": ["SEA"]
 	}
 ]

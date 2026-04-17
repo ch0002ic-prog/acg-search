@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Premium Bandai Singapore official store and merch news page",
+		"url": "https://p-bandai.com/sg",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Premium Bandai Singapore page with new arrivals, preorder deadlines, shop sections, and site news for anime, Gundam, and collector merchandise.",
+		"content": "Official Premium Bandai Singapore page covering new arrivals, closing-soon preorder deadlines, SG release timing, shop sections for Tamashii Web Shop, Hobby Online Shop, Bandai Card Shop, and official site maintenance and campaign notices.",
+		"category_hints": ["merch", "anime", "events"],
+		"region_hints": ["Singapore", "SEA"]
+	},
+	{
+		"title": "Tamashii Web official figure news and release schedule page",
+		"url": "https://tamashiiweb.com/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Tamashii Web page with current figure announcements, preorder openings, retail release schedules, and campaign topics across anime and tokusatsu brands.",
+		"content": "Official Tamashii Web page covering current S.H.Figuarts, Chogokin, Gundam, Godzilla, Macross, and other collector figure announcements, weekly preorder and retail schedules, topical campaigns, and links to official store channels.",
+		"category_hints": ["merch", "anime", "events"],
+		"region_hints": ["SEA"]
+	},
+	{
+		"title": "Good Smile Company official news page for release and shipping updates",
+		"url": "https://www.goodsmile.com/en/news",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Good Smile Company news page covering release dates, shipping updates, delays, and figure-related notices for current anime merchandise lines.",
+		"content": "Official Good Smile Company news page covering release dates, shipping schedules, delay notices, product specification changes, and official updates across Nendoroid, figma, POP UP PARADE, and related figure and hobby lines.",
+		"category_hints": ["merch", "anime"],
+		"region_hints": ["SEA"]
+	}
+]
