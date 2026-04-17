@@ -216,6 +216,12 @@ def build_sources(settings: Settings) -> list[BaseSource]:
     bushiroad_festival_query = quote_plus(
         '((Bushiroad OR "Cardfight Vanguard" OR "Weiss Schwarz" OR "Shadowverse Evolve" OR "Bushiroad EXPO" OR "Card Game Festival") AND (Singapore OR SEA))'
     )
+    anime_distributor_query = quote_plus(
+        '((Aniplus OR Crunchyroll OR Muse OR ODEX OR simulcast OR licensing OR screening OR premiere) AND (anime OR film OR movie) AND (Singapore OR SEA))'
+    )
+    vtuber_merch_query = quote_plus(
+        '((VTuber OR hololive OR Nijisanji OR Vocaloid OR "virtual youtuber") AND (merch OR merchandise OR collaboration OR cafe OR pop-up OR shop) AND (Singapore OR SEA))'
+    )
     gacha_keywords = [
         "genshin",
         "honkai",
@@ -458,6 +464,29 @@ def build_sources(settings: Settings) -> list[BaseSource]:
         "shadowverse evolve",
         "bushiroad expo",
         "card game festival",
+    ]
+    anime_distributor_keywords = [
+        "aniplus",
+        "crunchyroll",
+        "muse",
+        "odex",
+        "simulcast",
+        "licensing",
+        "screening",
+        "premiere",
+        "anime film",
+    ]
+    vtuber_merch_keywords = [
+        "vtuber",
+        "hololive",
+        "nijisanji",
+        "vocaloid",
+        "merch",
+        "merchandise",
+        "collaboration",
+        "pop-up",
+        "official shop",
+        "cafe",
     ]
     bandwagon_keywords = [
         "gaming",
@@ -1142,6 +1171,26 @@ def build_sources(settings: Settings) -> list[BaseSource]:
             category_hints=["events", "games", "anime"],
             region_hints=["Singapore", "SEA"],
             include_keywords=bushiroad_festival_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA Anime Distributors",
+            feed_url=f"https://news.google.com/rss/search?q={anime_distributor_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["anime", "events", "merch"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=anime_distributor_keywords,
+            exclude_keywords=google_news_exclude_keywords,
+            cleanup_mismatches=True,
+        ),
+        RssSource(
+            name="Google News SEA VTuber Merch Collabs",
+            feed_url=f"https://news.google.com/rss/search?q={vtuber_merch_query}&hl=en-SG&gl=SG&ceid=SG:en",
+            quality=0.76,
+            category_hints=["merch", "anime", "events"],
+            region_hints=["Singapore", "SEA"],
+            include_keywords=vtuber_merch_keywords,
             exclude_keywords=google_news_exclude_keywords,
             cleanup_mismatches=True,
         ),

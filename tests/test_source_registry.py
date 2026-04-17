@@ -15,7 +15,7 @@ class SourceRegistryTests(unittest.TestCase):
 
         self.assertEqual(len(names), len(set(names)))
         self.assertEqual(len(feed_urls), len(set(feed_urls)))
-        self.assertGreaterEqual(len(live_sources), 64)
+        self.assertGreaterEqual(len(live_sources), 66)
         self.assertTrue({"SEA Merch News Pages", "SEA Official Event Pages"}.issubset(set(names)))
         self.assertTrue(
             {
@@ -63,6 +63,8 @@ class SourceRegistryTests(unittest.TestCase):
                 "Google News SEA Anime Stage Plays",
                 "Google News SEA Arcade Prize Games",
                 "Google News SEA Bushiroad TCG Festivals",
+                "Google News SEA Anime Distributors",
+                "Google News SEA VTuber Merch Collabs",
             }.issubset(set(names))
         )
         self.assertTrue(all(source.feed_url for source in live_sources))

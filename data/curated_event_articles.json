@@ -25,5 +25,14 @@
 		"content": "Official Bushiroad International events page covering organized play support, monthly shop tournaments, Bushiroad Card Game Festival 2026 in Singapore, Bushiroad EXPO 2026, Summer Fest, Championship Series, and official channel links for major anime and TCG properties.",
 		"category_hints": ["events", "games", "anime"],
 		"region_hints": ["Singapore", "SEA"]
+	},
+	{
+		"title": "hololive production official English events page for concerts and official shops",
+		"url": "https://hololive.hololivepro.com/en/events",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official hololive events page covering current concerts, official shop openings, and event listings relevant to global and SEA fans.",
+		"content": "Official hololive English events page covering ongoing official shop operations, upcoming concert dates, event archives, and official event listings across hololive production, including large fan-facing experiences that are relevant to Singapore and SEA audiences.",
+		"category_hints": ["events", "anime", "merch"],
+		"region_hints": ["Singapore", "SEA"]
 	}
 ]

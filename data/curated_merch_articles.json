@@ -34,5 +34,23 @@
 		"content": "Official hololive English news page covering collaboration merchandise drops, branded products, concert screenings, event announcements, and related official updates across hololive production talents and branches.",
 		"category_hints": ["merch", "anime", "events"],
 		"region_hints": ["SEA"]
+	},
+	{
+		"title": "Aniplus Asia official news page for SEA anime broadcasts and fan events",
+		"url": "https://www.aniplus-asia.com/news/",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official Aniplus Asia news page covering simulcast announcements, fan events, autograph sessions, and regional anime programming updates.",
+		"content": "Official Aniplus Asia news page covering regional simulcast announcements, anime programming updates, card-game related broadcast news, autograph sessions, and other official fan-facing activities relevant to Singapore and wider Southeast Asia audiences.",
+		"category_hints": ["anime", "events", "merch"],
+		"region_hints": ["Singapore", "SEA"]
+	},
+	{
+		"title": "NIJISANJI official English news page for VTuber goods, music, and events",
+		"url": "https://www.nijisanji.jp/en/news",
+		"published_at": "2026-04-17T12:00:00+00:00",
+		"summary": "Official NIJISANJI English news page covering VTuber merchandise, voice packs, music releases, and event-related announcements.",
+		"content": "Official NIJISANJI English news page covering official goods, voice packs, music releases, talent announcements, and event-related updates across NIJISANJI and NIJISANJI EN, relevant to VTuber audiences in Singapore and across SEA.",
+		"category_hints": ["anime", "merch", "events"],
+		"region_hints": ["Singapore", "SEA"]
 	}
 ]
