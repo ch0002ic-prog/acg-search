@@ -67,8 +67,8 @@
       "SEA"
     ],
     "sg_relevance": 0.97,
-    "freshness_score": 0.9171626303750513,
-    "home_score": 0.9252,
+    "freshness_score": 0.8448275529201607,
+    "home_score": 0.8927,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -109,8 +109,8 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 0.9171626320275009,
-    "home_score": 0.9102,
+    "freshness_score": 0.8448275543314658,
+    "home_score": 0.8777,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -152,8 +152,8 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 0.9171626349431723,
-    "home_score": 0.8927,
+    "freshness_score": 0.8448275571312609,
+    "home_score": 0.8602,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -194,8 +194,8 @@
       "SEA"
     ],
     "sg_relevance": 0.83,
-    "freshness_score": 0.9171626288606006,
-    "home_score": 0.8902,
+    "freshness_score": 0.8448275513980369,
+    "home_score": 0.8577,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -290,129 +290,6 @@
     "result_type": "event"
   },
   {
-    "id": "a618b2d257c1a0f5ccf6a50591f410f6b33a7c23",
-    "title": "AFASHOP official blog for Singapore anime merch and event sale updates",
-    "url": "https://afashop.co/blogs/shopkeepers-musing",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official AFASHOP blog covering Singapore anime and hobby merchandise launches, physical sale events, shipping updates, collabs, and store announcements connected to AFA-adjacent an",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.63,
-    "freshness_score": 0.9171626241367885,
-    "home_score": 0.8402,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "source_page"
-  },
-  {
-    "id": "af32e2356e4fa84e6cd1f02a66a63c75606598d9",
-    "title": "Premium Bandai Singapore official store and merch news page",
-    "url": "https://p-bandai.com/sg",
-    "source_name": "SEA Merch News Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official Premium Bandai Singapore page covering new arrivals, closing-soon preorder deadlines, SG release timing, shop sections for Tamashii Web Shop, Hobby Online Shop, Bandai Car",
-    "content": "",
-    "categories": [
-      "merch",
-      "anime",
-      "events",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.58,
-    "freshness_score": 0.917162621122041,
-    "home_score": 0.8262,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "source_page"
-  },
-  {
-    "id": "31b6ab4cb03993bca38cd15adac130c1685a41a1",
-    "title": "Doujin Market 2026 official event page by Neo Tokyo Project",
-    "url": "https://www.eventbrite.sg/e/doujin-market-2026-tickets-1984953521416",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official Doujin Market 2026 event page by Neo Tokyo Project covering convention schedule, venue details, organizer information, ticketing, cosplay and convention rules, and creator",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch",
-      "comics"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Doujin Market"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.57,
-    "freshness_score": 0.9171626334994903,
-    "home_score": 0.8252,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "source_page"
-  },
-  {
     "id": "d958943683b299952c291ef741715e325d40f62e",
     "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
     "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
@@ -456,73 +333,45 @@
     "result_type": "event"
   },
   {
-    "id": "ca9c9bcb673ebdfe5fc871f76f2cb24dee5f019f",
-    "title": "AniManGaki 2026 official Malaysia anime convention site",
-    "url": "https://animangaki.com/",
-    "source_name": "SEA Official Event Pages",
+    "id": "a618b2d257c1a0f5ccf6a50591f410f6b33a7c23",
+    "title": "AFASHOP official blog for Singapore anime merch and event sale updates",
+    "url": "https://afashop.co/blogs/shopkeepers-musing",
+    "source_name": "SG Source Pages",
     "source_type": "curated",
     "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official AniManGaki 2026 site covering countdown timing, artist alley, cosplay alley, stage performances, exhibitor booths, photographer alley, volunteer information, and organizer",
+    "summary": "Official AFASHOP blog covering Singapore anime and hobby merchandise launches, physical sale events, shipping updates, collabs, and store announcements connected to AFA-adjacent an",
     "content": "",
     "categories": [
       "events",
       "anime",
-      "merch",
-      "manga",
-      "games"
+      "merch"
     ],
-    "tags": [],
-    "entity_tags": [],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.9171626119221074,
-    "home_score": 0.8202,
+    "sg_relevance": 0.63,
+    "freshness_score": 0.8448275471217492,
+    "home_score": 0.8077,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
-      "event_type": "convention",
+      "event_type": null,
       "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
-      "guest_status": "Lineup details mentioned",
+      "guest_status": null,
       "guest_names": [],
-      "merch_status": null
+      "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "source_page"
-  },
-  {
-    "id": "82560c768be903078f2e3352e61db2b8e6ab93c3",
-    "title": "Aniplus Asia official news page for SEA anime broadcasts and fan events",
-    "url": "https://www.aniplus-asia.com/news/",
-    "source_name": "SEA Merch News Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official Aniplus Asia news page covering regional simulcast announcements, anime programming updates, card-game related broadcast news, autograph sessions, and other official fan-f",
-    "content": "",
-    "categories": [
-      "merch",
-      "anime",
-      "events",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 0.9171626150854691,
-    "home_score": 0.8187,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "source_page"
   },
   {
@@ -546,8 +395,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
+    "freshness_score": 0.9980451331996412,
+    "home_score": 0.8036,
     "source_quality": 0.78,
     "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
     "event_metadata": {
@@ -769,8 +618,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
+    "freshness_score": 0.9980451233039005,
+    "home_score": 0.8006,
     "source_quality": 0.76,
     "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176986544%2F2858659952031%2F1%2Foriginal.20260208-111752?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=40e596026e329c5b754c01dc097c53a7",
     "event_metadata": {
@@ -784,6 +633,157 @@
       "merch_status": null
     },
     "result_type": "event"
+  },
+  {
+    "id": "af32e2356e4fa84e6cd1f02a66a63c75606598d9",
+    "title": "Premium Bandai Singapore official store and merch news page",
+    "url": "https://p-bandai.com/sg",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Premium Bandai Singapore page covering new arrivals, closing-soon preorder deadlines, SG release timing, shop sections for Tamashii Web Shop, Hobby Online Shop, Bandai Car",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 0.844827544185061,
+    "home_score": 0.7937,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "31b6ab4cb03993bca38cd15adac130c1685a41a1",
+    "title": "Doujin Market 2026 official event page by Neo Tokyo Project",
+    "url": "https://www.eventbrite.sg/e/doujin-market-2026-tickets-1984953521416",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Doujin Market 2026 event page by Neo Tokyo Project covering convention schedule, venue details, organizer information, ticketing, cosplay and convention rules, and creator",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [
+      "Doujin Market"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.57,
+    "freshness_score": 0.8448275557166962,
+    "home_score": 0.7927,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "ca9c9bcb673ebdfe5fc871f76f2cb24dee5f019f",
+    "title": "AniManGaki 2026 official Malaysia anime convention site",
+    "url": "https://animangaki.com/",
+    "source_name": "SEA Official Event Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official AniManGaki 2026 site covering countdown timing, artist alley, cosplay alley, stage performances, exhibitor booths, photographer alley, volunteer information, and organizer",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "manga",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.5499999999999999,
+    "freshness_score": 0.8448275357791573,
+    "home_score": 0.7877,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "82560c768be903078f2e3352e61db2b8e6ab93c3",
+    "title": "Aniplus Asia official news page for SEA anime broadcasts and fan events",
+    "url": "https://www.aniplus-asia.com/news/",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Aniplus Asia news page covering regional simulcast announcements, anime programming updates, card-game related broadcast news, autograph sessions, and other official fan-f",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.55,
+    "freshness_score": 0.8448275386702144,
+    "home_score": 0.7862,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "source_page"
   },
   {
     "id": "2fce1453a6c05e183e5a3648d890bcf00ec6145a",
@@ -806,8 +806,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9171626364788535,
-    "home_score": 0.7902,
+    "freshness_score": 0.844827558451304,
+    "home_score": 0.7577,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -844,8 +844,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.917162627239997,
-    "home_score": 0.7902,
+    "freshness_score": 0.8448275500128065,
+    "home_score": 0.7577,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -882,8 +882,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9171626258033919,
-    "home_score": 0.7902,
+    "freshness_score": 0.8448275485069796,
+    "home_score": 0.7577,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -911,8 +911,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9171626226683376,
-    "home_score": 0.7902,
+    "freshness_score": 0.844827545648516,
+    "home_score": 0.7577,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -941,8 +941,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.917162610393503,
-    "home_score": 0.7902,
+    "freshness_score": 0.8448275344330394,
+    "home_score": 0.7577,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -982,8 +982,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9171626088082837,
-    "home_score": 0.7902,
+    "freshness_score": 0.8448275329369905,
+    "home_score": 0.7577,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1021,8 +1021,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9171626071699879,
-    "home_score": 0.7902,
+    "freshness_score": 0.8448275314311637,
+    "home_score": 0.7577,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1059,8 +1059,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9171626195191295,
-    "home_score": 0.7887,
+    "freshness_score": 0.8448275427085683,
+    "home_score": 0.7562,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1097,8 +1097,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9171626182276004,
-    "home_score": 0.7887,
+    "freshness_score": 0.8448275414765282,
+    "home_score": 0.7562,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1125,8 +1125,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.917162616560997,
-    "home_score": 0.7887,
+    "freshness_score": 0.844827540110854,
+    "home_score": 0.7562,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1165,8 +1165,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9171626133976352,
-    "home_score": 0.7887,
+    "freshness_score": 0.8448275372523905,
+    "home_score": 0.7562,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1182,45 +1182,57 @@
     "result_type": "source_page"
   },
   {
-    "id": "cc51d47b0774ccae33e1f62e5240860191d07976",
-    "title": "Jollibee and FINAL FANTASY XIV Launch Delicious, Limited-Time Collaboration on April 21, Featuring an Entertaining \"Eat Chicken\" In-Game Emote, Themed Meals and Exclusive Merch - Yahoo Finance Singapore",
-    "url": "https://sg.finance.yahoo.com/news/jollibee-final-fantasy-xiv-launch-170000862.html",
-    "source_name": "Google News JRPG",
+    "id": "47bb547261752b82d804a7fb5c4f9f5a47002d81",
+    "title": "FalleN\u2019s retirement from Counter-Strike 2 is actually good for the esports scene",
+    "url": "https://esportsinsider.com/2026/04/fallen-cs2-retirement-good",
+    "source_name": "Esports Insider",
     "source_type": "rss",
-    "published_at": "2026-04-17T17:00:00Z",
-    "summary": "Jollibee and FINAL FANTASY XIV Launch Delicious, Limited-Time Collaboration on April 21, Featuring an Entertaining \"Eat Chicken\" In-Game Emote, Themed Meals and Exclusive Merch Yah",
+    "published_at": "2026-04-17T22:13:01Z",
+    "summary": "It\u2019s the end of an era in Counter-Strike as veteran pro player Gabriel \u201cFalleN\u201d Toledo announces his retirement",
     "content": "",
     "categories": [
+      "esports",
       "games",
-      "merch"
+      "events"
     ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9831173629878235,
-    "home_score": 0.7759,
-    "source_quality": 0.76,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9736324546684826,
+    "home_score": 0.7236,
+    "source_quality": 0.77,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 21",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Themed Meals",
-        "Exclusive Merch Yah Jollibee"
-      ],
-      "merch_status": "Merch or booth updates mentioned"
-    },
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7a6dbc51a7eb21ee67959ba63214cacf0f2eac4b",
+    "title": "Esports was never apolitical, we just pretended it was (and we can\u2019t any longer)",
+    "url": "https://esportsinsider.com/2026/04/esports-is-political-and-it-matters",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-17T21:06:20Z",
+    "summary": "How does international politics affect esport? The simple answer is: the same way it affects every other aspect of your life, because everything is politics",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9587189019690521,
+    "home_score": 0.7169,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1245,9 +1257,61 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8187234939217524,
-    "home_score": 0.7384,
+    "freshness_score": 0.7541521449931212,
+    "home_score": 0.7094,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0b8ee1cf9d478df26e57add8317245abbccd9f1a",
+    "title": "RHINOSHIELD Unveils Hunter x Hunter Tech Accessory Collection",
+    "url": "https://animecorner.me/rhinoshield-unveils-hunter-x-hunter-tech-accessory-collection/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-17T22:08:02Z",
+    "summary": "RHINOSHIELD Unveils Hunter x Hunter Tech Accessory Collection",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9725101484299543,
+    "home_score": 0.7076,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "facb3976c4ef8126f964d94f55095ad909e7d2cf",
+    "title": "Takara Tomy Making Pokemon Pokopia Toys",
+    "url": "https://www.siliconera.com/takara-tomy-making-pokemon-pokopia-toys/?utm_source=rss&utm_medium=rss&utm_campaign=takara-tomy-making-pokemon-pokopia-toys",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-17T21:00:00Z",
+    "summary": "Takara Tomy will release eight Pokemon Pokopia toys, and five of them will be part of its Moncolle collection",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9573150087687371,
+    "home_score": 0.7038,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1276,10 +1340,129 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.993994851460661,
-    "home_score": 0.7373,
+    "freshness_score": 0.9156001371889844,
+    "home_score": 0.702,
     "source_quality": 0.8,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0c415b628f626d164053f760b88d5ff92bbcb967",
+    "title": "FFXIV Fan Fest 2026 Twitch Chat Badges Revealed",
+    "url": "https://www.siliconera.com/ffxiv-fan-fest-2026-twitch-chat-badges-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-fan-fest-2026-twitch-chat-badges-revealed",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-17T20:00:00Z",
+    "summary": "There are six Twitch chat badges we can earn for watching official and participating FFXIV streams during the 2026 Fan Festivals",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "FFXIV Fan Festival"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9441108731273926,
+    "home_score": 0.6978,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "a5ef1953ede0c9dcd580319dc8ddf36e54de003c",
+    "title": "Heroine? Saint? No, I\u2019m an All-Works Maid and Unaware Isekai Girl",
+    "url": "https://blog.jlist.com/news/heroine-saint-no-im-an-all-works-maid-and-unaware-isekai-girl/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-04-17T20:30:00Z",
+    "summary": "We rarely get clueless isekai protagonists",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9506894310973798,
+    "home_score": 0.6948,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0b109e9e8c33c8f060590c2d69755734c5580061",
+    "title": "FFVII Rebirth Tifa Lockhart Joins Play Arts Shin Figure Line",
+    "url": "https://www.siliconera.com/ffvii-rebirth-tifa-lockhart-joins-play-arts-shin-figure-line/?utm_source=rss&utm_medium=rss&utm_campaign=ffvii-rebirth-tifa-lockhart-joins-play-arts-shin-figure-line",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-17T19:00:00Z",
+    "summary": "Square Enix will release the new figure in late August 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9310888607444466,
+    "home_score": 0.692,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b54e45091415017f06402d6472ab6e1f97fecda4",
+    "title": "CookieRun serves up first US pop-up shop in NYC",
+    "url": "https://esports.gg/news/cookie-run-kingdom/cookierun-nyc-pop-up/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-17T18:52:05Z",
+    "summary": "The CookieRun NYC pop-up shop is located in the heart of Times Square",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.929383625056636,
+    "home_score": 0.6902,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1303,62 +1486,85 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9968677499064592,
-    "home_score": 0.7216,
+    "freshness_score": 0.9182464594267933,
+    "home_score": 0.6862,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "fdff8caa4a091267072807eaab6c42577ed6ccfc",
-    "title": "Trails in the Sky 2nd Chapter Remake Arrives in September",
-    "url": "https://www.siliconera.com/trails-in-the-sky-2nd-chapter-remake-arrives-in-september/?utm_source=rss&utm_medium=rss&utm_campaign=trails-in-the-sky-2nd-chapter-remake-arrives-in-september",
-    "source_name": "Siliconera",
+    "id": "6bdb201efd13c714123c4b9c812876181e36b9f3",
+    "title": "Final Fantasy XIV Letter from the Producer Prepares for Trail to the Heavens",
+    "url": "https://rpgamer.com/2026/04/final-fantasy-xiv-letter-from-the-producer-prepares-for-trail-to-the-heavens/",
+    "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-04-17T17:00:00Z",
-    "summary": "The release date for Trails in the Sky 2nd Chapter is here, and there's a new trailer and voice actor update for the remake",
+    "published_at": "2026-04-17T18:27:34Z",
+    "summary": "Square Enix held its 92nd Letter from the Producer presentation for MMORPG Final Fantasy XIV , during which Director and Producer Naoki Yoshida revealed more details and showcased",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "merch",
-      "events"
+      "events",
+      "merch"
     ],
-    "tags": [],
-    "entity_tags": [],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9831180678248149,
-    "home_score": 0.7154,
-    "source_quality": 0.82,
+    "freshness_score": 0.924124457722693,
+    "home_score": 0.6859,
+    "source_quality": 0.8,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 28, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
-    "id": "48de210d6eb9cbb66930f5ee4349b8dd8b6f43ef",
-    "title": "Monster Eater Anime Series Streams on Samsung TV Plus",
-    "url": "https://anitrendz.net/news/2026/04/17/monster-eater-anime-series-streams-on-samsung-tv-plus/?utm_source=rss&utm_medium=rss&utm_campaign=monster-eater-anime-series-streams-on-samsung-tv-plus",
-    "source_name": "Anime Trending",
+    "id": "c8a2b899e7ac394998a55cd1e52ecca1774109c7",
+    "title": "Heroes of Might and Magic: Olden Era Gets Gameplay Trailer Ahead of Early Access Launch",
+    "url": "https://rpgamer.com/2026/04/heroes-of-might-and-magic-olden-era-gets-gameplay-trailer-ahead-of-early-access-launch/",
+    "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-04-17T17:56:28Z",
-    "summary": "REMOW\u2019s It\u2019s Anime FAST channel will be adding the Monster Eater \u201clight anime\u201d series to its streaming lineup on Samsung TV Plus",
+    "published_at": "2026-04-17T18:27:08Z",
+    "summary": "Hooded Horse, Unfrozen Studio, and Ubisoft release a new trailer for Heroes of Might and Magic: Olden Era ahead of its Early Access release at the end of this month",
     "content": "",
     "categories": [
+      "games",
       "anime",
-      "manga",
-      "events"
+      "events",
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9960521457854712,
-    "home_score": 0.7152,
-    "source_quality": 0.78,
+    "freshness_score": 0.9240317501645414,
+    "home_score": 0.6858,
+    "source_quality": 0.8,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 30, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1383,8 +1589,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.944977346250984,
-    "home_score": 0.7152,
+    "freshness_score": 0.870448557429747,
+    "home_score": 0.6817,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1397,6 +1603,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "fdff8caa4a091267072807eaab6c42577ed6ccfc",
+    "title": "Trails in the Sky 2nd Chapter Remake Arrives in September",
+    "url": "https://www.siliconera.com/trails-in-the-sky-2nd-chapter-remake-arrives-in-september/?utm_source=rss&utm_medium=rss&utm_campaign=trails-in-the-sky-2nd-chapter-remake-arrives-in-september",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-17T17:00:00Z",
+    "summary": "The release date for Trails in the Sky 2nd Chapter is here, and there's a new trailer and voice actor update for the remake",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9055811917651928,
+    "home_score": 0.6805,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1419,8 +1651,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9396404467078319,
-    "home_score": 0.7128,
+    "freshness_score": 0.8655325780352329,
+    "home_score": 0.6795,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1446,35 +1678,35 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.939230633182365,
-    "home_score": 0.7127,
+    "freshness_score": 0.8651551020646769,
+    "home_score": 0.6793,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "e09aff802ae5e46e29536c0211be3f8944e38925",
-    "title": "The Oblivious Saint Can\u2019t Contain Her Power Spotlights Edward in 2nd Concept Visual",
-    "url": "https://anitrendz.net/news/2026/04/17/the-oblivious-saint-cant-contain-her-power-spotlights-edward-in-2nd-concept-visual/?utm_source=rss&utm_medium=rss&utm_campaign=the-oblivious-saint-cant-contain-her-power-spotlights-edward-in-2nd-concept-visual",
-    "source_name": "Anime Trending",
+    "id": "63284c56ebd64679b79dfbfda9faabde2354e03c",
+    "title": "Level Up Your Meal: Jollibee, Final Fantasy XIV Launch Collaboration 04/20/2026 - MediaPost",
+    "url": "https://www.mediapost.com/publications/article/414412/level-up-your-meal-jollibee-final-fantasy-xiv-la.html?edition=142307",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-17T17:25:52Z",
-    "summary": "A second character concept visual has been released for the upcoming The Oblivious Saint Can't Contain Her Power TV anime series, spotlighting the red-haired prince Edward",
+    "published_at": "2026-04-17T20:53:10Z",
+    "summary": "Level Up Your Meal: Jollibee, Final Fantasy XIV Launch Collaboration 04/20/2026 MediaPost",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
+      "games",
+      "merch"
     ],
     "tags": [],
-    "entity_tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9890217036239837,
-    "home_score": 0.7121,
-    "source_quality": 0.78,
+    "freshness_score": 0.9558012576950886,
+    "home_score": 0.6761,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1498,10 +1730,37 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9695580334425059,
-    "home_score": 0.7093,
+    "freshness_score": 0.8930906147541631,
+    "home_score": 0.6749,
     "source_quality": 0.82,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a99fc0324de4770c7ef1a4928ab438c687ca8b3b",
+    "title": "10 JRPGs that were Way Too Ambitious for their Original Hardware",
+    "url": "https://www.dualshockers.com/jrpgs-that-were-way-too-ambitious-for-the-hardware-they-originally-released-on/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-04-17T20:46:48Z",
+    "summary": "Sometimes, the JRPG genre shoots beyond its means",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9543938758573698,
+    "home_score": 0.674,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/04/img_3884.jpeg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1524,8 +1783,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9695578238691183,
-    "home_score": 0.7048,
+    "freshness_score": 0.8930904254513611,
+    "home_score": 0.6704,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1559,8 +1818,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9695575699063471,
-    "home_score": 0.7048,
+    "freshness_score": 0.8930901890787482,
+    "home_score": 0.6704,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1587,8 +1846,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9561850313713344,
-    "home_score": 0.7033,
+    "freshness_score": 0.8807723188968872,
+    "home_score": 0.6693,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1601,6 +1860,33 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
+    "result_type": "article"
+  },
+  {
+    "id": "ac5176f1fc9400975a46bea58aff69fd78e5a019",
+    "title": "10 Obscure JRPGs from Famous Developers",
+    "url": "https://www.dualshockers.com/little-known-jrpgs-from-famous-developers/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-04-17T19:40:16Z",
+    "summary": "Not every JRPG received the spotlight it deserved, as demonstrated by these obscure games from famous developers",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.939807642148341,
+    "home_score": 0.6674,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/little-known-jrpgs-from-famous-developers.jpg",
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1622,8 +1908,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9568488222190639,
-    "home_score": 0.6991,
+    "freshness_score": 0.881383759066012,
+    "home_score": 0.6651,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1639,30 +1925,34 @@
     "result_type": "article"
   },
   {
-    "id": "bfff5213051f79efc286a53ceb88b3e7b3e7bfa9",
-    "title": "Dice-Based Cyberpunk-Noir RPG \u2018Celestial Return\u2019 Gets Devlog Ahead of May Steam Launch Explaining These Unique Systems",
-    "url": "https://noisypixel.net/celestial-return-dice-cyberpunk-noir-indie-rpg/",
-    "source_name": "Noisy Pixel",
+    "id": "2f8cf4ce425a76ff387d523ccb8f3a400bf8aee0",
+    "title": "Persona PSP soundtrack will be available on streaming services from April 18",
+    "url": "https://www.rpgsite.net/news/20157-persona-psp-soundtrack-apple-music-spotify-youtube-streaming-release-date",
+    "source_name": "RPG Site",
     "source_type": "rss",
-    "published_at": "2026-04-17T18:03:52Z",
-    "summary": "Indie developer Metaphor Games has released the first developer diary for its upcoming cyberpunk-noir RPG Celestial Return, which is scheduled to launch on PC via Steam on May 7",
+    "published_at": "2026-04-17T18:33:02Z",
+    "summary": "Atlus will commemorate the 30th anniversary of the Persona series by releasing the Shin Megami Tensei: Persona PSP soundtrack on streaming services",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch"
+      "anime"
     ],
-    "tags": [],
-    "entity_tags": [],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9977601782213568,
-    "home_score": 0.698,
-    "source_quality": 0.78,
+    "freshness_score": 0.9252946488087971,
+    "home_score": 0.6639,
+    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "May 7",
+      "date_label": "April 18",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1691,378 +1981,71 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9429964815927165,
-    "home_score": 0.6973,
+    "freshness_score": 0.8686239279777,
+    "home_score": 0.6639,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "89ebe0799d157f684fa53e972367508866806b0a",
-    "title": "Granblue Fantasy: Relink \u2013 Endless Ragnarok Open Beta Announced",
-    "url": "https://rpgamer.com/2026/04/granblue-fantasy-relink-endless-ragnarok-open-beta-announced/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-17T14:08:47Z",
-    "summary": "Cygames announced an open beta test for Granblue Fantasy: Relink \u2013 Endless Ragnarok , its upcoming enhanced version of 2024 action RPG Granblue Fantasy: Relink",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9449153645108563,
-    "home_score": 0.6952,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 24 to 6",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "107de460f0d34412308bcfdec441d41baadb371c",
-    "title": "Echoes of Aincrad: Sword Art Online Receives Combat Trailer",
-    "url": "https://rpgamer.com/2026/04/echoes-of-aincrad-sword-art-online-receives-combat-trailer/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-17T14:08:35Z",
-    "summary": "Bandai Namco released a gameplay trailer for action RPG Echoes of Aincrad: Sword Art Online",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9448716141669871,
-    "home_score": 0.6952,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 10, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e9b49d36c8bca8bb35ba256f2f92419ce732a79c",
-    "title": "Demon Slayer: Infinity Castle Film Announces Blu-ray & DVD Release for July 29",
-    "url": "https://animecorner.me/demon-slayer-infinity-castle-film-announces-blu-ray-dvd-release-for-july-29/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-17T14:03:38Z",
-    "summary": "The first installment of Demon Slayer: Kimetsu no Yaiba \u2013 Infinity Castle has confirmed\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9437895095050478,
-    "home_score": 0.6947,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 29",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "b4b9a1ecaf7233979d252b0e99f0d9fe2892e320",
-    "title": "Jollibee x FINAL FANTASY XIV Collaboration Campaign - Get the Eat Chicken Emote!",
-    "url": "https://img.finalfantasyxiv.com/t/2ca9077926ee36f137c7969e60447b75dcaadf17.png?1776435164",
-    "source_name": "Final Fantasy XIV News",
-    "source_type": "rss",
-    "published_at": "2026-04-17T14:10:00Z",
-    "summary": "FINAL FANTASY XIV and Jollibee join forces to fuel Warriors of Light starting Tuesday, April 21, 2026 ! For a limited time, purchase collaboration meals or merchandise to earn your",
-    "content": "",
-    "categories": [
-      "games",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9451813778147748,
-    "home_score": 0.6938,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "April 21, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0f1a20c44ba516da6397b00f6e89846b073916cc",
-    "title": "Introducing Fan Festival 2026 Group Pose Frames & Stickers!",
-    "url": "https://img.finalfantasyxiv.com/t/76d62bba2fa17fa004f048869abbf670211ee671.jpg?1776446818",
-    "source_name": "Final Fantasy XIV News",
-    "source_type": "rss",
-    "published_at": "2026-04-17T13:50:00Z",
-    "summary": "To commemorate Fan Festival 2026, a special collection of frames and stickers will be available from Friday, April 17, 2026 at 8:00 a",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9408156494211344,
-    "home_score": 0.6919,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "April 17, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "fd871be32797dc5b1aaf94f2dbe1343655b6e89c",
-    "title": "All-star playoffs at IEM Rio 2026: Legendary CS2 esports matchups",
-    "url": "https://esports.gg/news/counter-strike-2/playoffs-iem-rio-2026-details-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-17T13:11:11Z",
-    "summary": "The final brackets at Intel Extreme Masters (IEM) Rio 2026 feature battles of the best CS2 esports teams in the world",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9323999386561493,
-    "home_score": 0.6916,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e6fe1f59a093bf48934daff7759e977fd845c9fd",
-    "title": "Review: A Storied Life: Tabitha Offers the Illusion of Choice",
-    "url": "https://www.siliconera.com/review-a-storied-life-tabitha-offers-the-illusion-of-choice/?utm_source=rss&utm_medium=rss&utm_campaign=review-a-storied-life-tabitha-offers-the-illusion-of-choice",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-17T13:00:00Z",
-    "summary": "I think I\u2019d have appreciated A Storied Life: Tabitha more if it was only about packing things up and didn\u2019t include the jumbled narrative",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9299898397329859,
-    "home_score": 0.6915,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "95c0607004f7534c198e04f26dd482c3b4b66290",
-    "title": "Nioh 3 One Month Later \u2013 Team Ninja\u2019s Near Miss Still Lands as One of the Year\u2019s Best Action RPGs",
-    "url": "https://noisypixel.net/nioh-3-one-month-later-analysis-team-ninjas-near-miss/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-17T16:53:33Z",
-    "summary": "A month after release, Nioh 3 remains one of the more interesting action RPGs to talk about this year",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9816510866894566,
-    "home_score": 0.6907,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bbd7cf441bdbf46c8d8ffa86543c278a96315ac7",
-    "title": "Fate/Samurai Remnant Spring Piglet Festival 2026 Merchandise Announced",
-    "url": "https://noisypixel.net/fate-samurai-remnant-spring-piglet-festival-2026-merchandise/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-17T13:47:50Z",
-    "summary": "Koei Tecmo and Type-Moon have launched a new merchandise campaign for Fate/Samurai Remnant, celebrating the Spring Piglet (Iori) Festival 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9403441851590597,
-    "home_score": 0.6902,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "May 6, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "d91513d40700f486e0bc469e3d629c31c7cce376",
-    "title": "VALORANT\u2019s canezerra banned by Riot, removed from ENVY after Hardware Ban",
-    "url": "https://esports.gg/news/valorant/valorant-envy-canezerra-riot-games-hardware-ban/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-17T09:22:45Z",
-    "summary": "Riot Games has banned ENVY Canezerra for one year across all titles due to repeated disruptive behavior, one of its most severe penalties",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.8843772744865168,
-    "home_score": 0.69,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "646c53c94db729d7e67f1d9b4476ac3b1c0a0b5c",
-    "title": "The Party From Hell Begins in Wistoria: Wand and Sword Season 2 Episode 2 Preview",
-    "url": "https://animecorner.me/the-party-from-hell-begins-in-wistoria-wand-and-sword-season-2-episode-2-preview/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-17T09:42:13Z",
-    "summary": "Wistoria: Wand and Sword Season 2 has revealed the preview images and synopsis for Episode\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8883715279543628,
-    "home_score": 0.6898,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "be4efffbfc3d0c207f1d1a25057c9eb5310518df",
-    "title": "Jollibee Teams Up with Final Fantasy XIV Online for Limited-Time Collaboration - QSR Magazine",
-    "url": "https://www.qsrmagazine.com/news/jollibee-teams-up-with-final-fantasy-xiv-online-for-limited-time-collaboration/",
+    "id": "4d8ccd81648bbf0cb22705eabc07ce356895a2d2",
+    "title": "Anthropic adds limited biometric ID verification from Persona to Claude - Biometric Update",
+    "url": "https://www.biometricupdate.com/202604/anthropic-adds-limited-biometric-id-verification-from-persona-to-claude",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-17T17:07:14Z",
-    "summary": "Jollibee Teams Up with Final Fantasy XIV Online for Limited-Time Collaboration QSR Magazine",
+    "published_at": "2026-04-17T19:29:59Z",
+    "summary": "Anthropic adds limited biometric ID verification from Persona to Claude Biometric Update",
     "content": "",
     "categories": [
-      "games",
-      "merch"
+      "games"
     ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
+    "tags": [
+      "jrpg"
     ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.984764852723128,
-    "home_score": 0.6891,
+    "freshness_score": 0.937572979416839,
+    "home_score": 0.6619,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "24bd72a6da8f408055e5e6aeeb1ba30428013c29",
+    "title": "Celestial Return Devlog Explores Its Influences",
+    "url": "https://rpgamer.com/2026/04/celestial-return-devlog-explores-its-influences/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-17T18:27:27Z",
+    "summary": "Developer Metaphor Games and publisher Shoreline Games released the first entry in a new devlog video series for dice-based cyberpunk narrative RPG Celestial Return",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9240994900817838,
+    "home_score": 0.6618,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 7, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   }
 ]
