@@ -1,5 +1,125 @@
 [
   {
+    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
+    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
+    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-05-29T00:00:00Z",
+    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports"
+    ],
+    "tags": [
+      "singapore",
+      "mlbb"
+    ],
+    "entity_tags": [
+      "MLBB"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.94,
+    "freshness_score": 1.0,
+    "home_score": 0.949,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": "29 May 2026 to 30 May 2026",
+      "venue": "Suntec Singapore Convention & Exhibition Centre",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
+    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
+    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-06-06T00:00:00Z",
+    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch",
+      "gacha"
+    ],
+    "tags": [
+      "singapore",
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.55,
+    "freshness_score": 1.0,
+    "home_score": 0.8545,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": "6 Jun 2026 to 7 Jun 2026",
+      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
+    "title": "TableCon Quest 2026",
+    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-08-01T00:00:00Z",
+    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.55,
+    "freshness_score": 1.0,
+    "home_score": 0.8515,
+    "source_quality": 0.76,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": "1 Aug 2026 to 2 Aug 2026",
+      "venue": "Suntec Singapore Convention & Exhibition Centre",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
     "id": "c5995fc4a7e84d8bebd55e4c210a820f21bf9705",
     "title": "HoYo FEST 2026 official Singapore event details and creator activity call via HoYoLAB",
     "url": "https://www.hoyolab.com/article/44248740",
@@ -26,8 +146,8 @@
       "SEA"
     ],
     "sg_relevance": 0.97,
-    "freshness_score": 0.7750743925336281,
-    "home_score": 0.8613,
+    "freshness_score": 0.7156088930016825,
+    "home_score": 0.8345,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -41,6 +161,49 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "d958943683b299952c291ef741715e325d40f62e",
+    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
+    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-08-13T00:00:00Z",
+    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [
+      "Grand Archive TCG"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 1.0,
+    "home_score": 0.8245,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
+    "event_metadata": {
+      "event_type": "expo",
+      "date_label": "13 Aug 2026 to 16 Aug 2026",
+      "venue": "Singapore EXPO",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
   },
   {
     "id": "f808d6cd81a1b118115521a9778bad3a6719ec07",
@@ -68,8 +231,8 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 0.7750743938313992,
-    "home_score": 0.8463,
+    "freshness_score": 0.7156088942744282,
+    "home_score": 0.8195,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -83,6 +246,43 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "64ada17cec10b351139d5f88486323eadf4be80f",
+    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
+    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537274410",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-04-19T00:00:00Z",
+    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 1.0,
+    "home_score": 0.8045,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
+    "event_metadata": {
+      "event_type": "workshop",
+      "date_label": "19 Apr 2026",
+      "venue": "20B Mosque St",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537274410",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
   },
   {
     "id": "f4ed46692189cb89ab4d091a382aae7ffa9b31a1",
@@ -111,8 +311,8 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 0.7750743964030196,
-    "home_score": 0.8288,
+    "freshness_score": 0.7156088966873996,
+    "home_score": 0.802,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -126,6 +326,193 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
+    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
+    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-05-31T00:00:00Z",
+    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 1.0,
+    "home_score": 0.8015,
+    "source_quality": 0.76,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "31 May 2026",
+      "venue": "Marina Square",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
+    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
+    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-05-15T00:00:00Z",
+    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 1.0,
+    "home_score": 0.8015,
+    "source_quality": 0.76,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "15 May 2026",
+      "venue": "Co. @ Duxton",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "97f9efcd52156af6ced5936095589ad8dc0ed2af",
+    "title": "Celestial Showdown RDO Regionals - Grand Archive TCG 2026",
+    "url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-05-02T00:00:00Z",
+    "summary": "An exclusive event where one will be able to test their limits in the ultimate showdown of Grand Archive TCG! Venue: Nanyang Technological University (one-north)",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Grand Archive TCG"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 1.0,
+    "home_score": 0.8015,
+    "source_quality": 0.76,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181516731%2F1240882213933%2F1%2Foriginal.20260406-165156?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.576&fp-y=0.551&s=16507ff9ed9ca88c59d6a0b144a7942c",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "2 May 2026",
+      "venue": "Nanyang Technological University (one-north)",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "44e0d0e2637c3945c47bb1536a066f217557f72e",
+    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 5-12",
+    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-04-25T00:00:00Z",
+    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 1.0,
+    "home_score": 0.8015,
+    "source_quality": 0.76,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "25 Apr 2026",
+      "venue": "681691",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "11e3a7c864980a3ae9137aae53fdd89a7b3bb94a",
+    "title": "Playtest Party Indie Games in the Making",
+    "url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-04-25T00:00:00Z",
+    "summary": "Playtest indie games in development, meet local devs, share feedback, and connect with fellow game lovers in Singapore! Venue: Toa Payoh Public Library",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 1.0,
+    "home_score": 0.8015,
+    "source_quality": 0.76,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180051244%2F2858659952031%2F1%2Foriginal.20260317-153740?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=87f2c313b968739a02f577230ca29320",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "25 Apr 2026",
+      "venue": "Toa Payoh Public Library",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
   },
   {
     "id": "abd714046df029da85b0a86bf2d141fc3c9fb4b8",
@@ -153,8 +540,8 @@
       "SEA"
     ],
     "sg_relevance": 0.83,
-    "freshness_score": 0.7750743911431589,
-    "home_score": 0.8263,
+    "freshness_score": 0.7156088918145226,
+    "home_score": 0.7995,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -195,8 +582,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.7750743872946994,
-    "home_score": 0.7763,
+    "freshness_score": 0.7156088882254348,
+    "home_score": 0.7495,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -235,8 +622,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.7750743846094493,
-    "home_score": 0.7623,
+    "freshness_score": 0.7156088857323992,
+    "home_score": 0.7355,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -276,8 +663,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.57,
-    "freshness_score": 0.7750743951052483,
-    "home_score": 0.7613,
+    "freshness_score": 0.715608895461588,
+    "home_score": 0.7345,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -315,8 +702,8 @@
       "SEA"
     ],
     "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.7750743769274814,
-    "home_score": 0.7563,
+    "freshness_score": 0.7156088788247857,
+    "home_score": 0.7295,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -355,21 +742,21 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.7750743795589067,
-    "home_score": 0.7548,
+    "freshness_score": 0.7156088812073879,
+    "home_score": 0.728,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "source_page"
   },
   {
-    "id": "9a0ea7a126a9d2d0e49197c3b1b37cd3883fe1d7",
-    "title": "The Subtle Brilliance of Journal With Witch",
-    "url": "https://anitrendz.net/news/2026/04/17/journal-with-witch-review/?utm_source=rss&utm_medium=rss&utm_campaign=journal-with-witch-review",
-    "source_name": "Anime Trending",
+    "id": "0dce5da354c0995e661b0ea3790aee0dfac7a7a2",
+    "title": "Event Report: Tanuki to Kitsune Celebrated 10th Anniversary With Anime Announcement, AnimeJapan 2026 Showcase",
+    "url": "https://animecorner.me/event-report-tanuki-to-kitsune-celebrated-10th-anniversary-with-anime-announcement-animejapan-2026-showcase/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-04-18T04:47:13Z",
-    "summary": "Season aired: Winter 2026 Number of episodes: 13 Watched on: Crunchyroll Translated by: ? Genres: Slice-of-life, Drama Thoughts: For all of the people\u2019s complaints about analyzing",
+    "published_at": "2026-04-18T12:04:26Z",
+    "summary": "Event Report: Tanuki to Kitsune Celebrated 10th Anniversary With Anime Announcement, AnimeJapan 2026 Showcase",
     "content": "",
     "categories": [
       "anime",
@@ -378,15 +765,100 @@
     ],
     "tags": [],
     "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9997376361209545,
+    "home_score": 0.7199,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c716b48d6e90cb9ab59cfffbe37ce92602543cdd",
+    "title": "MARRIAGETOXIN Reveals Creditless Opening and Ending Videos",
+    "url": "https://animecorner.me/marriagetoxin-reveals-creditless-opening-and-ending-videos/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T11:40:50Z",
+    "summary": "MARRIAGETOXIN anime revealed the creditless opening and ending video movies, as well as a special\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9942909960995446,
+    "home_score": 0.7174,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "74ebb764b5ddf6313c259d42b4f06c3edf6d05ce",
+    "title": "FalleN to retire in 2026, ending a 20-year Counter-Strike career",
+    "url": "https://esports.gg/news/counter-strike-2/fallen-official-retirement/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-18T10:25:28Z",
+    "summary": "The announcement was made during the IEM Rio 2026 playoffs",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9785876697137089,
-    "home_score": 0.7274,
-    "source_quality": 0.78,
-    "image_url": null,
+    "freshness_score": 0.9770949299153389,
+    "home_score": 0.7117,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "22f0e32e3f2bceab667c5eb3c543621418a5fc07",
+    "title": "Last chance for Brawl Cup 2026 qualification and rewards during April Finals",
+    "url": "https://esports.gg/news/mobile/april-finals-2026-brawl-cup-qualification/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-18T07:19:51Z",
+    "summary": "In the final series of regional tournaments, the best Brawl Stars teams in the world battle for a chance to participate in an exciting LAN event",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9360014158642139,
+    "home_score": 0.7052,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -410,8 +882,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743975931415,
-    "home_score": 0.7263,
+    "freshness_score": 0.7156088977724084,
+    "home_score": 0.6995,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -448,8 +920,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743898992124,
-    "home_score": 0.7263,
+    "freshness_score": 0.7156088906439279,
+    "home_score": 0.6995,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -486,8 +958,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743885745289,
-    "home_score": 0.7263,
+    "freshness_score": 0.715608889390508,
+    "home_score": 0.6995,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -515,8 +987,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743859580548,
-    "home_score": 0.7263,
+    "freshness_score": 0.7156088869471675,
+    "home_score": 0.6995,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -545,8 +1017,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743756805446,
-    "home_score": 0.7263,
+    "freshness_score": 0.7156088776983643,
+    "home_score": 0.6995,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -586,8 +1058,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743743289488,
-    "home_score": 0.7263,
+    "freshness_score": 0.7156088764118145,
+    "home_score": 0.6995,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -625,8 +1097,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743729324993,
-    "home_score": 0.7263,
+    "freshness_score": 0.7156088751335471,
+    "home_score": 0.6995,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -663,8 +1135,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743832937367,
-    "home_score": 0.7248,
+    "freshness_score": 0.7156088845756087,
+    "home_score": 0.698,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -701,8 +1173,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743821664101,
-    "home_score": 0.7248,
+    "freshness_score": 0.7156088835844683,
+    "home_score": 0.698,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -729,8 +1201,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743809254538,
-    "home_score": 0.7248,
+    "freshness_score": 0.7156088824166343,
+    "home_score": 0.698,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -769,8 +1241,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7750743782491746,
-    "home_score": 0.7248,
+    "freshness_score": 0.7156088800395539,
+    "home_score": 0.698,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -786,13 +1258,13 @@
     "result_type": "source_page"
   },
   {
-    "id": "b9d0ac7dd1270d1337b85411eea34153563f34ea",
-    "title": "Explore the Cosmos with These Space-Themed Anime",
-    "url": "https://animecorner.me/explore-the-cosmos-with-these-space-themed-anime/",
-    "source_name": "Anime Corner",
+    "id": "9a0ea7a126a9d2d0e49197c3b1b37cd3883fe1d7",
+    "title": "The Subtle Brilliance of Journal With Witch",
+    "url": "https://anitrendz.net/news/2026/04/17/journal-with-witch-review/?utm_source=rss&utm_medium=rss&utm_campaign=journal-with-witch-review",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-04-18T04:03:04Z",
-    "summary": "Explore the Cosmos with These Space-Themed Anime",
+    "published_at": "2026-04-18T04:47:13Z",
+    "summary": "Season aired: Winter 2026 Number of episodes: 13 Watched on: Crunchyroll Translated by: ? Genres: Slice-of-life, Drama Thoughts: For all of the people\u2019s complaints about analyzing",
     "content": "",
     "categories": [
       "anime",
@@ -801,11 +1273,13 @@
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9686376717957058,
-    "home_score": 0.7059,
-    "source_quality": 0.8,
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9035081784960173,
+    "home_score": 0.6936,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -831,13 +1305,72 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.926944477118453,
-    "home_score": 0.7056,
+    "freshness_score": 0.8558271754685078,
+    "home_score": 0.6736,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "May 23",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b9d0ac7dd1270d1337b85411eea34153563f34ea",
+    "title": "Explore the Cosmos with These Space-Themed Anime",
+    "url": "https://animecorner.me/explore-the-cosmos-with-these-space-themed-anime/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T04:03:04Z",
+    "summary": "It's been a week since Artemis II came back home, and I still have\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8943215704486953,
+    "home_score": 0.6724,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "dec03a5fc35501a6bb75e1da462ef2658213d755",
+    "title": "Nintendo Switch eShop charts \u2013 April 18, 2026 \u2013 Tomodachi Life: Living the Dream launches on top",
+    "url": "https://nintendoeverything.com/nintendo-switch-eshop-charts-april-18-2026/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-18T07:38:45Z",
+    "summary": "The latest Nintendo Switch eShop charts for the week of April 18, 2026 are now available",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.940105689208148,
+    "home_score": 0.6705,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 18, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -865,8 +1398,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9842407274397268,
-    "home_score": 0.7039,
+    "freshness_score": 0.9087275189174139,
+    "home_score": 0.6699,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -891,8 +1424,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9581415852358778,
-    "home_score": 0.7012,
+    "freshness_score": 0.884630767460974,
+    "home_score": 0.6681,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -917,8 +1450,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9666254534558327,
-    "home_score": 0.696,
+    "freshness_score": 0.8924637303534133,
+    "home_score": 0.6626,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -941,8 +1474,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9953301664374904,
-    "home_score": 0.6954,
+    "freshness_score": 0.9189661435949517,
+    "home_score": 0.661,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -968,8 +1501,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9941941412463328,
-    "home_score": 0.6949,
+    "freshness_score": 0.9179172736539012,
+    "home_score": 0.6606,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -992,8 +1525,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.990858948559754,
-    "home_score": 0.6934,
+    "freshness_score": 0.9148379677522095,
+    "home_score": 0.6592,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -1018,151 +1551,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.937735329657163,
-    "home_score": 0.6905,
+    "freshness_score": 0.8657901292252139,
+    "home_score": 0.6581,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "47bb547261752b82d804a7fb5c4f9f5a47002d81",
-    "title": "FalleN\u2019s retirement from Counter-Strike 2 is actually good for the esports scene",
-    "url": "https://esportsinsider.com/2026/04/fallen-cs2-retirement-good",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-04-17T22:13:01Z",
-    "summary": "It\u2019s the end of an era in Counter-Strike as veteran pro player Gabriel \u201cFalleN\u201d Toledo announces his retirement",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8932444963107641,
-    "home_score": 0.6875,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "57eeeb1c26cc493ddfb1210ec52178db88bc0b7b",
-    "title": "Final Fantasy XIV Patch 7.5 - Trail to the Heavens trailer showcased ahead of Part 1 launching April 28",
-    "url": "https://www.rpgsite.net/news/20152-final-fantasy-xiv-patch-7-5-trail-to-heavens-gameplay-trailer-release-date",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-18T04:41:48Z",
-    "summary": "Square Enix shares the first full trailer for Final Fantasy XIV Patch 7",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9773618075767202,
-    "home_score": 0.6873,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 28",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "7b4978121b2ee21da404e0035fa7922e7c2a66cb",
-    "title": "ClariS Releases Scum of the Brave Anime Cour 2 Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/4/18/scum-of-the-brave-anime-cour-2-opening-song-music-video-claris",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-18T00:55:00Z",
-    "summary": "The fantasy action series is currently available on Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9273737183709908,
-    "home_score": 0.6858,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ff80a4364390ebf724f665028d12221c2a4c9a4e",
-    "title": "Ranking all of Nintendo\u2019s Switch 2 upgrade packs from worst to best",
-    "url": "https://nintendoeverything.com/switch-2-upgrade-pack-ranking/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-04-18T04:00:15Z",
-    "summary": "Today, we\u2019re ranking all of Nintendo\u2019s major upgrade packs for Switch 2 Edition games",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9680065221202072,
-    "home_score": 0.6831,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7a6dbc51a7eb21ee67959ba63214cacf0f2eac4b",
-    "title": "Esports was never apolitical, we just pretended it was (and we can\u2019t any longer)",
-    "url": "https://esportsinsider.com/2026/04/esports-is-political-and-it-matters",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-04-17T21:06:20Z",
-    "summary": "How does international politics affect esport? The simple answer is: the same way it affects every other aspect of your life, because everything is politics",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.879562280965248,
-    "home_score": 0.6813,
-    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1189,9 +1580,151 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.691885587569161,
-    "home_score": 0.6813,
+    "freshness_score": 0.6388025379722773,
+    "home_score": 0.6575,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "47bb547261752b82d804a7fb5c4f9f5a47002d81",
+    "title": "FalleN\u2019s retirement from Counter-Strike 2 is actually good for the esports scene",
+    "url": "https://esportsinsider.com/2026/04/fallen-cs2-retirement-good",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-17T22:13:01Z",
+    "summary": "It\u2019s the end of an era in Counter-Strike as veteran pro player Gabriel \u201cFalleN\u201d Toledo announces his retirement",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8247127290755367,
+    "home_score": 0.6566,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7b4978121b2ee21da404e0035fa7922e7c2a66cb",
+    "title": "ClariS Releases Scum of the Brave Anime Cour 2 Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/18/scum-of-the-brave-anime-cour-2-opening-song-music-video-claris",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-18T00:55:00Z",
+    "summary": "The fantasy action series is currently available on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8562234844224812,
+    "home_score": 0.6538,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "57eeeb1c26cc493ddfb1210ec52178db88bc0b7b",
+    "title": "Final Fantasy XIV Patch 7.5 - Trail to the Heavens trailer showcased ahead of Part 1 launching April 28",
+    "url": "https://www.rpgsite.net/news/20152-final-fantasy-xiv-patch-7-5-trail-to-heavens-gameplay-trailer-release-date",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-18T04:41:48Z",
+    "summary": "Square Enix shares the first full trailer for Final Fantasy XIV Patch 7",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9023763584058256,
+    "home_score": 0.6536,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 28",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7a6dbc51a7eb21ee67959ba63214cacf0f2eac4b",
+    "title": "Esports was never apolitical, we just pretended it was (and we can\u2019t any longer)",
+    "url": "https://esportsinsider.com/2026/04/esports-is-political-and-it-matters",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-17T21:06:20Z",
+    "summary": "How does international politics affect esport? The simple answer is: the same way it affects every other aspect of your life, because everything is politics",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8120802446997458,
+    "home_score": 0.6509,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ff80a4364390ebf724f665028d12221c2a4c9a4e",
+    "title": "Ranking all of Nintendo\u2019s Switch 2 upgrade packs from worst to best",
+    "url": "https://nintendoeverything.com/switch-2-upgrade-pack-ranking/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-18T04:00:15Z",
+    "summary": "Today, we\u2019re ranking all of Nintendo\u2019s major upgrade packs for Switch 2 Edition games",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8937388291335254,
+    "home_score": 0.6497,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1214,8 +1747,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9749886785008776,
-    "home_score": 0.6787,
+    "freshness_score": 0.9001852916146942,
+    "home_score": 0.6451,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -1250,8 +1783,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.906489201686108,
-    "home_score": 0.6749,
+    "freshness_score": 0.8369412619897906,
+    "home_score": 0.6436,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1283,8 +1816,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9503920788042284,
-    "home_score": 0.6737,
+    "freshness_score": 0.877475808752076,
+    "home_score": 0.6409,
     "source_quality": 0.8,
     "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/backtrack/2026/backtrack359.mp3",
     "event_metadata": null,
@@ -1309,35 +1842,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8922148600102299,
-    "home_score": 0.6715,
+    "freshness_score": 0.8237620915834497,
+    "home_score": 0.6407,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "facb3976c4ef8126f964d94f55095ad909e7d2cf",
-    "title": "Takara Tomy Making Pokemon Pokopia Toys",
-    "url": "https://www.siliconera.com/takara-tomy-making-pokemon-pokopia-toys/?utm_source=rss&utm_medium=rss&utm_campaign=takara-tomy-making-pokemon-pokopia-toys",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-17T21:00:00Z",
-    "summary": "Takara Tomy will release eight Pokemon Pokopia toys, and five of them will be part of its Moncolle collection",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8782743252601303,
-    "home_score": 0.6682,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1366,9 +1873,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8400036216455317,
-    "home_score": 0.668,
+    "freshness_score": 0.7755566097333159,
+    "home_score": 0.639,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "facb3976c4ef8126f964d94f55095ad909e7d2cf",
+    "title": "Takara Tomy Making Pokemon Pokopia Toys",
+    "url": "https://www.siliconera.com/takara-tomy-making-pokemon-pokopia-toys/?utm_source=rss&utm_medium=rss&utm_campaign=takara-tomy-making-pokemon-pokopia-toys",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-17T21:00:00Z",
+    "summary": "Takara Tomy will release eight Pokemon Pokopia toys, and five of them will be part of its Moncolle collection",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8108910884538019,
+    "home_score": 0.6379,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1394,8 +1927,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.866160388751826,
-    "home_score": 0.6628,
+    "freshness_score": 0.7997065612143152,
+    "home_score": 0.6329,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1430,8 +1963,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8721957634779524,
-    "home_score": 0.6595,
+    "freshness_score": 0.8052789033762194,
+    "home_score": 0.6294,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1458,435 +1991,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8542135384159556,
-    "home_score": 0.6574,
+    "freshness_score": 0.7886763008535936,
+    "home_score": 0.6279,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5907fac355f779e55ddc9da50ce68c8498c239e5",
-    "title": "K-On! The Movie Joins The Criterion Channel Lineup in May 2026",
-    "url": "https://anitrendz.net/news/2026/04/17/k-on-the-movie-joins-criterion-channel-lineup-in-may-2026/?utm_source=rss&utm_medium=rss&utm_campaign=k-on-the-movie-joins-criterion-channel-lineup-in-may-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-17T19:54:00Z",
-    "summary": "Naoko Yamada\u2019s K-On! The Movie anime film is joining the lineup of The Criterion Channel in May 2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8649576902186349,
-    "home_score": 0.6562,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b54e45091415017f06402d6472ab6e1f97fecda4",
-    "title": "CookieRun serves up first US pop-up shop in NYC",
-    "url": "https://esports.gg/news/cookie-run-kingdom/cookierun-nyc-pop-up/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-17T18:52:05Z",
-    "summary": "The CookieRun NYC pop-up shop is located in the heart of Times Square",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8526490837743063,
-    "home_score": 0.6557,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "06a90eb14a097915e58f26c520146247ad898ae4",
-    "title": "Yen Press Licenses 9 New Manga & Light Novel Titles for October 2026 Release",
-    "url": "https://anitrendz.net/news/2026/04/17/yen-press-licenses-9-new-manga-light-novel-titles-for-october-2026-release/?utm_source=rss&utm_medium=rss&utm_campaign=yen-press-licenses-9-new-manga-light-novel-titles-for-october-2026-release",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-17T19:10:38Z",
-    "summary": "Yen Press announced that it has licensed nine new manga and light novel titles for release in October 2026, including Full Metal Panic! Family, Your Castle\u2019s Little Helper, and mor",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8563181784225775,
-    "home_score": 0.6523,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "142cebebd3bba834fdabd5cdfe2312617fade71a",
-    "title": "Granblue Fantasy Relink: Endless Ragnarok Open Beta Starts Next Week",
-    "url": "https://www.siliconera.com/granblue-fantasy-relink-endless-ragnarok-open-beta-starts-next-week/?utm_source=rss&utm_medium=rss&utm_campaign=granblue-fantasy-relink-endless-ragnarok-open-beta-starts-next-week",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-17T18:00:00Z",
-    "summary": "There's an Granblue Fantasy Relink: Endless Ragnarok open beta test coming and limited free access to the anime and manga now",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8424314696347743,
-    "home_score": 0.6521,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6bdb201efd13c714123c4b9c812876181e36b9f3",
-    "title": "Final Fantasy XIV Letter from the Producer Prepares for Trail to the Heavens",
-    "url": "https://rpgamer.com/2026/04/final-fantasy-xiv-letter-from-the-producer-prepares-for-trail-to-the-heavens/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-17T18:27:34Z",
-    "summary": "Square Enix held its 92nd Letter from the Producer presentation for MMORPG Final Fantasy XIV , during which Director and Producer Naoki Yoshida revealed more details and showcased",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8478241299889729,
-    "home_score": 0.6515,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 28, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c8a2b899e7ac394998a55cd1e52ecca1774109c7",
-    "title": "Heroes of Might and Magic: Olden Era Gets Gameplay Trailer Ahead of Early Access Launch",
-    "url": "https://rpgamer.com/2026/04/heroes-of-might-and-magic-olden-era-gets-gameplay-trailer-ahead-of-early-access-launch/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-17T18:27:08Z",
-    "summary": "Hooded Horse, Unfrozen Studio, and Ubisoft release a new trailer for Heroes of Might and Magic: Olden Era ahead of its Early Access release at the end of this month",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8477390803061918,
-    "home_score": 0.6515,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 30, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "7108654b0d61e7b468a3467764f7fdbdb847bb79",
-    "title": "Trails in the Sky 2nd Chapter Launching in September",
-    "url": "https://rpgamer.com/2026/04/trails-in-the-sky-2nd-chapter-launching-in-september/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-17T14:09:04Z",
-    "summary": "Nihon Falcom and GungHo Online Entertainment announced that Trails in the Sky 2nd Chapter will release worldwide on September 17, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7985799770361027,
-    "home_score": 0.6494,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "September 17, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "104e94c6450c34d447d19c1cb3658cdc21ceb2e2",
-    "title": "MediaOCD Reveals 27 More Discotek Deep Dives Blu-ray Titles for April 2026",
-    "url": "https://anitrendz.net/news/2026/04/17/mediaocd-reveals-27-more-discotek-deep-dives-blu-ray-titles-for-april-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mediaocd-reveals-27-more-discotek-deep-dives-blu-ray-titles-for-april-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-17T18:31:45Z",
-    "summary": "MediaOCD has announced 27 more anime titles that will be released on standard Blu-ray discs, as part of its ongoing Discotek Deep Dives initiative",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8486452355328101,
-    "home_score": 0.6489,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f3813f1e148a4e3577d79188db09f75339ead313",
-    "title": "Spring 2026 Anime Rankings - Week 2",
-    "url": "https://animecorner.me/spring-2026-anime-rankings-week-2/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-17T13:44:36Z",
-    "summary": "The second weekly poll for the Spring 2026 anime season, hosted by Anime Corner,\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7940698912282425,
-    "home_score": 0.6473,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0491ca49066cae02ae011c2d94ee5bd9cf904631",
-    "title": "Final Fantasy 14 - Official Patch 7.5: Trail to the Heavens Trailer - IGN Southeast Asia",
-    "url": "https://sea.ign.com/final-fantasy-xiv-online/241602/final-fantasy-14-official-patch-75-trail-to-the-heavens-trailer",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-17T13:42:43Z",
-    "summary": "Final Fantasy 14 - Official Patch 7.5: Trail to the Heavens Trailer - IGN Southeast Asia",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.2,
-    "freshness_score": 0.793723589273374,
-    "home_score": 0.6472,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fdff8caa4a091267072807eaab6c42577ed6ccfc",
-    "title": "Trails in the Sky 2nd Chapter Remake Arrives in September",
-    "url": "https://www.siliconera.com/trails-in-the-sky-2nd-chapter-remake-arrives-in-september/?utm_source=rss&utm_medium=rss&utm_campaign=trails-in-the-sky-2nd-chapter-remake-arrives-in-september",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-17T17:00:00Z",
-    "summary": "The release date for Trails in the Sky 2nd Chapter is here, and there's a new trailer and voice actor update for the remake",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.830811909421502,
-    "home_score": 0.6469,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "48de210d6eb9cbb66930f5ee4349b8dd8b6f43ef",
-    "title": "Monster Eater Anime Series Streams on Samsung TV Plus",
-    "url": "https://anitrendz.net/news/2026/04/17/monster-eater-anime-series-streams-on-samsung-tv-plus/?utm_source=rss&utm_medium=rss&utm_campaign=monster-eater-anime-series-streams-on-samsung-tv-plus",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-17T17:56:28Z",
-    "summary": "REMOW\u2019s It\u2019s Anime FAST channel will be adding the Monster Eater \u201clight anime\u201d series to its streaming lineup on Samsung TV Plus",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8417422046675945,
-    "home_score": 0.6458,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e09aff802ae5e46e29536c0211be3f8944e38925",
-    "title": "The Oblivious Saint Can\u2019t Contain Her Power Spotlights Edward in 2nd Concept Visual",
-    "url": "https://anitrendz.net/news/2026/04/17/the-oblivious-saint-cant-contain-her-power-spotlights-edward-in-2nd-concept-visual/?utm_source=rss&utm_medium=rss&utm_campaign=the-oblivious-saint-cant-contain-her-power-spotlights-edward-in-2nd-concept-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-17T17:25:52Z",
-    "summary": "A second character concept visual has been released for the upcoming The Oblivious Saint Can't Contain Her Power TV anime series, spotlighting the red-haired prince Edward",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8358009294881154,
-    "home_score": 0.6431,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "eb49da96367e8e736b1b68a42b57d4e0b6035104",
-    "title": "FFXIV Jollibee Crossover Starts Next Week",
-    "url": "https://www.siliconera.com/ffxiv-jollibee-crossover-starts-next-week/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-jollibee-crossover-starts-next-week",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-17T16:00:00Z",
-    "summary": "A FFXIV Jollibee crossover is coming with special meals, an Eat Chicken emote, and merchandise like t-shirts",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8193526165111038,
-    "home_score": 0.6417,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "73b7b81b6c4abe9f8a93e575158f1212a8a79ead",
-    "title": "Level Up Your Meal: Jollibee, Final Fantasy XIV Launch Collaboration 04/20/2026 - MediaPost",
-    "url": "https://www.mediapost.com/publications/article/414412/level-up-your-meal-jollibee-final-fantasy-xiv-la.html",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-17T20:55:17Z",
-    "summary": "Level Up Your Meal: Jollibee, Final Fantasy XIV Launch Collaboration 04/20/2026 MediaPost",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8773152991540181,
-    "home_score": 0.6408,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
