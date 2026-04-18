@@ -1,125 +1,5 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
     "id": "c5995fc4a7e84d8bebd55e4c210a820f21bf9705",
     "title": "HoYo FEST 2026 official Singapore event details and creator activity call via HoYoLAB",
     "url": "https://www.hoyolab.com/article/44248740",
@@ -146,8 +26,8 @@
       "SEA"
     ],
     "sg_relevance": 0.97,
-    "freshness_score": 0.7156088930016825,
-    "home_score": 0.8345,
+    "freshness_score": 0.6580357741062132,
+    "home_score": 0.8086,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -161,49 +41,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
   },
   {
     "id": "f808d6cd81a1b118115521a9778bad3a6719ec07",
@@ -231,8 +68,8 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 0.7156088942744282,
-    "home_score": 0.8195,
+    "freshness_score": 0.6580357752867172,
+    "home_score": 0.7936,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -246,43 +83,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "64ada17cec10b351139d5f88486323eadf4be80f",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537274410",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-04-19T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "19 Apr 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537274410",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
   },
   {
     "id": "f4ed46692189cb89ab4d091a382aae7ffa9b31a1",
@@ -311,8 +111,8 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 0.7156088966873996,
-    "home_score": 0.802,
+    "freshness_score": 0.6580357773583113,
+    "home_score": 0.7761,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -326,193 +126,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "97f9efcd52156af6ced5936095589ad8dc0ed2af",
-    "title": "Celestial Showdown RDO Regionals - Grand Archive TCG 2026",
-    "url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-02T00:00:00Z",
-    "summary": "An exclusive event where one will be able to test their limits in the ultimate showdown of Grand Archive TCG! Venue: Nanyang Technological University (one-north)",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181516731%2F1240882213933%2F1%2Foriginal.20260406-165156?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.576&fp-y=0.551&s=16507ff9ed9ca88c59d6a0b144a7942c",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "2 May 2026",
-      "venue": "Nanyang Technological University (one-north)",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "44e0d0e2637c3945c47bb1536a066f217557f72e",
-    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 5-12",
-    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "681691",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "11e3a7c864980a3ae9137aae53fdd89a7b3bb94a",
-    "title": "Playtest Party Indie Games in the Making",
-    "url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Playtest indie games in development, meet local devs, share feedback, and connect with fellow game lovers in Singapore! Venue: Toa Payoh Public Library",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180051244%2F2858659952031%2F1%2Foriginal.20260317-153740?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=87f2c313b968739a02f577230ca29320",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "Toa Payoh Public Library",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
   },
   {
     "id": "abd714046df029da85b0a86bf2d141fc3c9fb4b8",
@@ -540,8 +153,8 @@
       "SEA"
     ],
     "sg_relevance": 0.83,
-    "freshness_score": 0.7156088918145226,
-    "home_score": 0.7995,
+    "freshness_score": 0.6580357730297967,
+    "home_score": 0.7736,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -555,6 +168,89 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "4a137f8b8146714469755d14cce538e2a9526d57",
+    "title": "Tensura Movie 2: Tears of the Azure Sea Tickets Now on Sale in North America Ahead of May Release",
+    "url": "https://animecorner.me/tensura-movie-2-tears-of-the-azure-sea-tickets-now-on-sale-in-north-america-ahead-of-may-release/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:37:21Z",
+    "summary": "Tickets are now on sale for That Time I Got Reincarnated as a Slime\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9792564451381733,
+    "home_score": 0.7307,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "233799abdce9abffd8ba963b50273e7a59649eed",
+    "title": "Re:ZERO Season 4 Tops Spring 2026 Rankings for Second Time in a Row in Week 2",
+    "url": "https://animecorner.me/rezero-season-4-tops-spring-2026-rankings-for-second-time-in-a-row-in-week-2/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:28:29Z",
+    "summary": "Re:ZERO -Starting Life in Another World- Season 4 has topped the weekly Spring 2026 anime\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.977248611317847,
+    "home_score": 0.7298,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fbde20b12778c9caaf796f45dd77c93e2d891290",
+    "title": "New Warhammer 40,000: Dark Heresy and Rogue Trader Companions Shown",
+    "url": "https://rpgamer.com/2026/04/new-warhammer-40000-dark-heresy-and-rogue-trader-companions-shown/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:00:25Z",
+    "summary": "Owlcat Games released new trailers for Warhammer 40,000: Dark Heresy and Warhammer 40,000: Rogue Trader , showing new companions in the games",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9709202733321539,
+    "home_score": 0.7269,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "a618b2d257c1a0f5ccf6a50591f410f6b33a7c23",
@@ -582,8 +278,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.7156088882254348,
-    "home_score": 0.7495,
+    "freshness_score": 0.6580357696989982,
+    "home_score": 0.7236,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -597,6 +293,32 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "06a9edda10324bb6110879fb5bd2f352cb762155",
+    "title": "KILL BLUE Anime Takes Aim in Creditless Opening Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/18/kill-blue-anime-creditless-opening-video",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-18T17:44:00Z",
+    "summary": "The school life hitman anime is now available on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9944817594502176,
+    "home_score": 0.716,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "af32e2356e4fa84e6cd1f02a66a63c75606598d9",
@@ -622,8 +344,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.7156088857323992,
-    "home_score": 0.7355,
+    "freshness_score": 0.6580357673887647,
+    "home_score": 0.7096,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -637,6 +359,41 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "fbe432838be2778e46b56b1155238c9e5ee19e91",
+    "title": "Granblue Fantasy: Relink \u2013 Endless Ragnarok Open Beta Set for April 24 to 27",
+    "url": "https://monstervine.com/2026/04/granblue-fantasy-relink-endless-ragnarok-open-beta-april-2026/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-18T17:48:08Z",
+    "summary": "Cygames has confirmed an open beta test for Granblue Fantasy: Relink \u2013 Endless Ragnarok, giving players a chance to try the upcoming action RPG ahead of its July 9, 2026, release",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9954336186472067,
+    "home_score": 0.7089,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 24 to 27",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
   },
   {
     "id": "31b6ab4cb03993bca38cd15adac130c1685a41a1",
@@ -663,8 +420,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.57,
-    "freshness_score": 0.715608895461588,
-    "home_score": 0.7345,
+    "freshness_score": 0.6580357763275917,
+    "home_score": 0.7086,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -678,6 +435,32 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "0db3f42c7af508be551ac500d95dba96c5bb9831",
+    "title": "What Is Dorohedoro? The Delightfully Twisted Anime, Explained",
+    "url": "https://crunchyroll.com/news/guides/2026/4/18/dorohedoro-anime-explained",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:00:00Z",
+    "summary": "Who is the lizard-headed man? Why is there so much gyoza?",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9708264137022641,
+    "home_score": 0.7054,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "ca9c9bcb673ebdfe5fc871f76f2cb24dee5f019f",
@@ -702,8 +485,8 @@
       "SEA"
     ],
     "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.7156088788247857,
-    "home_score": 0.7295,
+    "freshness_score": 0.6580357609150332,
+    "home_score": 0.7036,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -742,12 +525,117 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.7156088812073879,
-    "home_score": 0.728,
+    "freshness_score": 0.6580357631770312,
+    "home_score": 0.7021,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "source_page"
+  },
+  {
+    "id": "76bfdf22a34742a8965e4130f93e43474e44cea9",
+    "title": "TOKYOPOP Launches Redesigned Website With Updated Features and Rewards Program",
+    "url": "https://animecorner.me/tokyopop-launches-redesigned-website-with-updated-features-and-rewards-program/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T15:08:39Z",
+    "summary": "TOKYOPOP has launched a redesigned version of its official website, introducing a new layout\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9593549619344216,
+    "home_score": 0.7017,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1a1be936488d255168d2bd0573e2888d4e293dce",
+    "title": "Review: Dosa Divas Disappoints",
+    "url": "https://www.siliconera.com/review-dosa-divas-disappoints/?utm_source=rss&utm_medium=rss&utm_campaign=review-dosa-divas-disappoints",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-18T13:00:00Z",
+    "summary": "Some narrative and battle system decisions mean Dosa Diva doesn\u2019t feel as unique, touching, and exciting as past Outerloop games",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9312069058065549,
+    "home_score": 0.692,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0476a5fb1aa0ebf4b588822089b639153f11869f",
+    "title": "Jollibee Announces New Final Fantasy XIV Collaboration Event - Bleeding Cool News",
+    "url": "https://bleedingcool.com/pop-culture/jollibee-announces-new-final-fantasy-xiv-collaboration-event/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-18T13:32:13Z",
+    "summary": "Jollibee Announces New Final Fantasy XIV Collaboration Event Bleeding Cool News",
+    "content": "",
+    "categories": [
+      "games",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9381767754879763,
+    "home_score": 0.6862,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "50296df2247b0072d4da10ee319439d7476baea7",
+    "title": "Final Fantasy 14 Beastmaster Job Release Date Confirmed - games.gg",
+    "url": "https://games.gg/news/ff14-beastmaster-job-release-date/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-18T13:20:18Z",
+    "summary": "Final Fantasy 14 Beastmaster Job Release Date Confirmed games",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9355923994912748,
+    "home_score": 0.685,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0dce5da354c0995e661b0ea3790aee0dfac7a7a2",
@@ -756,7 +644,7 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-04-18T12:04:26Z",
-    "summary": "Event Report: Tanuki to Kitsune Celebrated 10th Anniversary With Anime Announcement, AnimeJapan 2026 Showcase",
+    "summary": "The Tanuki to Kitsune series was featured as a central highlight at the Frontier\u2026",
     "content": "",
     "categories": [
       "anime",
@@ -767,8 +655,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9997376361209545,
-    "home_score": 0.7199,
+    "freshness_score": 0.9193054098472326,
+    "home_score": 0.6837,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -792,8 +680,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9942909960995446,
-    "home_score": 0.7174,
+    "freshness_score": 0.9142969701058525,
+    "home_score": 0.6814,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -818,47 +706,62 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9770949299153389,
-    "home_score": 0.7117,
+    "freshness_score": 0.898484400348642,
+    "home_score": 0.6763,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "22f0e32e3f2bceab667c5eb3c543621418a5fc07",
-    "title": "Last chance for Brawl Cup 2026 qualification and rewards during April Finals",
-    "url": "https://esports.gg/news/mobile/april-finals-2026-brawl-cup-qualification/",
-    "source_name": "Esports.gg",
+    "id": "15ef7be7c7a8d94ce4cf1602be36b527ad6d2284",
+    "title": "Persona 5: The Phantom X (China) Aigis Trailer Released - Persona Central",
+    "url": "https://personacentral.com/p5x-aigis/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-18T07:19:51Z",
-    "summary": "In the final series of regional tournaments, the best Brawl Stars teams in the world battle for a chance to participate in an exciting LAN event",
+    "published_at": "2026-04-18T15:45:14Z",
+    "summary": "Persona 5: The Phantom X (China) Aigis Trailer Released Persona Central",
     "content": "",
     "categories": [
-      "esports",
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9675134205949023,
+    "home_score": 0.6754,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "eb0a6cea13dab66b082aa5b176b832a40eaa33b8",
+    "title": "MMO QSR Meal Collaborations - Trend Hunter",
+    "url": "https://www.trendhunter.com/trends/jollibee-x-final-fantasy-xiv-online",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-18T14:42:33Z",
+    "summary": "MMO QSR Meal Collaborations - Trend Hunter",
+    "content": "",
+    "categories": [
       "games",
-      "events"
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9360014158642139,
-    "home_score": 0.7052,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9535761258792576,
+    "home_score": 0.6751,
     "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -882,8 +785,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088977724084,
-    "home_score": 0.6995,
+    "freshness_score": 0.6580357784651925,
+    "home_score": 0.6736,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -920,8 +823,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088906439279,
-    "home_score": 0.6995,
+    "freshness_score": 0.6580357718746799,
+    "home_score": 0.6736,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -958,8 +861,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.715608889390508,
-    "home_score": 0.6995,
+    "freshness_score": 0.6580357708541151,
+    "home_score": 0.6736,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -987,8 +890,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088869471675,
-    "home_score": 0.6995,
+    "freshness_score": 0.6580357686352754,
+    "home_score": 0.6736,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1017,8 +920,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088776983643,
-    "home_score": 0.6995,
+    "freshness_score": 0.6580357597929197,
+    "home_score": 0.6736,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1058,8 +961,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088764118145,
-    "home_score": 0.6995,
+    "freshness_score": 0.6580357586809612,
+    "home_score": 0.6736,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1097,8 +1000,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088751335471,
-    "home_score": 0.6995,
+    "freshness_score": 0.658035757538538,
+    "home_score": 0.6736,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1135,8 +1038,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088845756087,
-    "home_score": 0.698,
+    "freshness_score": 0.6580357663377353,
+    "home_score": 0.6721,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1173,8 +1076,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088835844683,
-    "home_score": 0.698,
+    "freshness_score": 0.6580357654085645,
+    "home_score": 0.6721,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1201,8 +1104,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088824166343,
-    "home_score": 0.698,
+    "freshness_score": 0.6580357642102894,
+    "home_score": 0.6721,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1241,8 +1144,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7156088800395539,
-    "home_score": 0.698,
+    "freshness_score": 0.6580357619838336,
+    "home_score": 0.6721,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1258,17 +1161,17 @@
     "result_type": "source_page"
   },
   {
-    "id": "9a0ea7a126a9d2d0e49197c3b1b37cd3883fe1d7",
-    "title": "The Subtle Brilliance of Journal With Witch",
-    "url": "https://anitrendz.net/news/2026/04/17/journal-with-witch-review/?utm_source=rss&utm_medium=rss&utm_campaign=journal-with-witch-review",
-    "source_name": "Anime Trending",
+    "id": "22f0e32e3f2bceab667c5eb3c543621418a5fc07",
+    "title": "Last chance for Brawl Cup 2026 qualification and rewards during April Finals",
+    "url": "https://esports.gg/news/mobile/april-finals-2026-brawl-cup-qualification/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-04-18T04:47:13Z",
-    "summary": "Season aired: Winter 2026 Number of episodes: 13 Watched on: Crunchyroll Translated by: ? Genres: Slice-of-life, Drama Thoughts: For all of the people\u2019s complaints about analyzing",
+    "published_at": "2026-04-18T07:19:51Z",
+    "summary": "In the final series of regional tournaments, the best Brawl Stars teams in the world battle for a chance to participate in an exciting LAN event",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
+      "esports",
+      "games",
       "events"
     ],
     "tags": [],
@@ -1277,11 +1180,20 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9035081784960173,
-    "home_score": 0.6936,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
+    "freshness_score": 0.8606969959367164,
+    "home_score": 0.6713,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1305,8 +1217,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8558271754685078,
-    "home_score": 0.6736,
+    "freshness_score": 0.786973027210378,
+    "home_score": 0.6426,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1339,9 +1251,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8943215704486953,
-    "home_score": 0.6724,
+    "freshness_score": 0.8223704181304402,
+    "home_score": 0.6401,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6f56b8a7cd7abe770951a234b7386acce3deea3b",
+    "title": "Rooster Fighter \u2014 Episode 1",
+    "url": "https://www.animefeminist.com/rooster-fighter-episode-1/",
+    "source_name": "Anime Feminist",
+    "source_type": "rss",
+    "published_at": "2026-04-18T05:12:06Z",
+    "summary": "I'd rather eat a bucket of fried chicken than watch a rooster try to kick ass, but here I am with no fried chicken and a premiere that I really didn't like",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8356173735376652,
+    "home_score": 0.637,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1364,8 +1301,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.940105689208148,
-    "home_score": 0.6705,
+    "freshness_score": 0.8644710602169106,
+    "home_score": 0.6365,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -1378,31 +1315,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "6f56b8a7cd7abe770951a234b7386acce3deea3b",
-    "title": "Rooster Fighter \u2014 Episode 1",
-    "url": "https://www.animefeminist.com/rooster-fighter-episode-1/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-04-18T05:12:06Z",
-    "summary": "I'd rather eat a bucket of fried chicken than watch a rooster try to kick ass, but here I am with no fried chicken and a premiere that I really didn't like",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9087275189174139,
-    "home_score": 0.6699,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1424,136 +1336,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.884630767460974,
-    "home_score": 0.6681,
+    "freshness_score": 0.8134592725116139,
+    "home_score": 0.6361,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1923a399fc09a222ecd310c641cb11bc0d18f20f",
-    "title": "I Want to End This Love Game \u2014 Episode 1",
-    "url": "https://www.animefeminist.com/i-want-to-end-this-love-game-episode-1/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-04-18T03:54:05Z",
-    "summary": "Love in the name of the game in a perfectly okay premiere where you know the characters are end game, but you don't know the journey there",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8924637303534133,
-    "home_score": 0.6626,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "737a1b3c34f0fb8c849c0f0db41af6eff21c2e95",
-    "title": "Narrative-driven round-table RPG Sovereign Tower gets an extended demo on Steam",
-    "url": "https://www.rpgsite.net/news/20160-sovereign-tower-new-steam-demo-download-narrative-driven-round-table-rpg",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-18T06:00:30Z",
-    "summary": "Sovereign Tower will launch for PC Steam this August",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9189661435949517,
-    "home_score": 0.661,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7dc064e266a6348e8c85ef1c11eb1f833a1b1944",
-    "title": "Dosa Divas launch trailer \u2013 spicy narrative turn-based RPG for Nintendo Switch 2, Switch",
-    "url": "https://nintendoeverything.com/dosa-divas-launch-trailer/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-04-18T05:55:34Z",
-    "summary": "Outerloop Games has readied a launch trailer for Dosa Divas",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9179172736539012,
-    "home_score": 0.6606,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "99ee5fbdeeff0f99c077abdb148692f2ba4b38f3",
-    "title": "Shadow of the Road gets new story overview trailer",
-    "url": "https://www.rpgsite.net/news/20159-shadow-of-the-road-new-story-overview-trailer-gameplay-factions",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-18T05:41:03Z",
-    "summary": "Another Angle Games and Owclat Games have shared a new story overview trailer for the tactical RPG Shadow of the Road",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9148379677522095,
-    "home_score": 0.6592,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d4dadd77df9341b8f49a99da3e70b57e23ce1d3b",
-    "title": "Mayu Maeshima Shares The Warrior Princess and the Barbaric King Anime Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/4/18/the-warrior-princess-and-the-barbaric-king-anime-opening-song-music-video-mayu-maeshima",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-18T01:43:00Z",
-    "summary": "Crunchyroll currently streams the fantasy romance anime",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8657901292252139,
-    "home_score": 0.6581,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1580,9 +1365,112 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6388025379722773,
-    "home_score": 0.6575,
+    "freshness_score": 0.5874087539215569,
+    "home_score": 0.6343,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1923a399fc09a222ecd310c641cb11bc0d18f20f",
+    "title": "I Want to End This Love Game \u2014 Episode 1",
+    "url": "https://www.animefeminist.com/i-want-to-end-this-love-game-episode-1/",
+    "source_name": "Anime Feminist",
+    "source_type": "rss",
+    "published_at": "2026-04-18T03:54:05Z",
+    "summary": "Love in the name of the game in a perfectly okay premiere where you know the characters are end game, but you don't know the journey there",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.820662060570132,
+    "home_score": 0.6303,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "737a1b3c34f0fb8c849c0f0db41af6eff21c2e95",
+    "title": "Narrative-driven round-table RPG Sovereign Tower gets an extended demo on Steam",
+    "url": "https://www.rpgsite.net/news/20160-sovereign-tower-new-steam-demo-download-narrative-driven-round-table-rpg",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-18T06:00:30Z",
+    "summary": "Sovereign Tower will launch for PC Steam this August",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8450322560397141,
+    "home_score": 0.6278,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7dc064e266a6348e8c85ef1c11eb1f833a1b1944",
+    "title": "Dosa Divas launch trailer \u2013 spicy narrative turn-based RPG for Nintendo Switch 2, Switch",
+    "url": "https://nintendoeverything.com/dosa-divas-launch-trailer/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-18T05:55:34Z",
+    "summary": "Outerloop Games has readied a launch trailer for Dosa Divas",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8440677762367083,
+    "home_score": 0.6273,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d4dadd77df9341b8f49a99da3e70b57e23ce1d3b",
+    "title": "Mayu Maeshima Shares The Warrior Princess and the Barbaric King Anime Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/18/the-warrior-princess-and-the-barbaric-king-anime-opening-song-music-video-mayu-maeshima",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-18T01:43:00Z",
+    "summary": "Crunchyroll currently streams the fantasy romance anime",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7961344280596356,
+    "home_score": 0.6268,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1607,9 +1495,33 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8247127290755367,
-    "home_score": 0.6566,
+    "freshness_score": 0.7583618736018469,
+    "home_score": 0.6268,
     "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "99ee5fbdeeff0f99c077abdb148692f2ba4b38f3",
+    "title": "Shadow of the Road gets new story overview trailer",
+    "url": "https://www.rpgsite.net/news/20159-shadow-of-the-road-new-story-overview-trailer-gameplay-factions",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-18T05:41:03Z",
+    "summary": "Another Angle Games and Owclat Games have shared a new story overview trailer for the tactical RPG Shadow of the Road",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8412362057604033,
+    "home_score": 0.6261,
+    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1633,9 +1545,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8562234844224812,
-    "home_score": 0.6538,
+    "freshness_score": 0.787337451794404,
+    "home_score": 0.6228,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7a6dbc51a7eb21ee67959ba63214cacf0f2eac4b",
+    "title": "Esports was never apolitical, we just pretended it was (and we can\u2019t any longer)",
+    "url": "https://esportsinsider.com/2026/04/esports-is-political-and-it-matters",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-17T21:06:20Z",
+    "summary": "How does international politics affect esport? The simple answer is: the same way it affects every other aspect of your life, because everything is politics",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7467457141594566,
+    "home_score": 0.6215,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1661,8 +1600,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9023763584058256,
-    "home_score": 0.6536,
+    "freshness_score": 0.829777174119235,
+    "home_score": 0.6209,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -1675,33 +1614,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "7a6dbc51a7eb21ee67959ba63214cacf0f2eac4b",
-    "title": "Esports was never apolitical, we just pretended it was (and we can\u2019t any longer)",
-    "url": "https://esportsinsider.com/2026/04/esports-is-political-and-it-matters",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-04-17T21:06:20Z",
-    "summary": "How does international politics affect esport? The simple answer is: the same way it affects every other aspect of your life, because everything is politics",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8120802446997458,
-    "home_score": 0.6509,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1722,8 +1634,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8937388291335254,
-    "home_score": 0.6497,
+    "freshness_score": 0.8218345678528138,
+    "home_score": 0.6173,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -1747,8 +1659,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9001852916146942,
-    "home_score": 0.6451,
+    "freshness_score": 0.8277624349013495,
+    "home_score": 0.6125,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -1761,66 +1673,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "4b758ed10ea2903f0a91226d3d058dd0eb4113e8",
-    "title": "Silent Hill f Manga Adaptation Set to Begin April 22, 2026",
-    "url": "https://noisypixel.net/silent-hill-f-manga-adaptation-april-22-2026/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-17T23:16:36Z",
-    "summary": "Konami and Young Ace UP have announced that the manga adaptation of Silent Hill f will begin on April 22, 2026, via the latter\u2019s magazine",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8369412619897906,
-    "home_score": 0.6436,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 22, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "d6e87d9ab736f1740e48105ab145414bd6073d6a",
-    "title": "RPG Backtrack 359 \u2013 Mysterious Ways",
-    "url": "https://rpgamer.com/2026/04/rpg-backtrack-359-mysterious-ways/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-18T02:40:55Z",
-    "summary": "This year's Atelier April finally brings us to the Mysterious Q uadrilogy, with this week's episode discussing Atelier Atelier Firis and Atelier Lydie & Suelle",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.877475808752076,
-    "home_score": 0.6409,
-    "source_quality": 0.8,
-    "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/backtrack/2026/backtrack359.mp3",
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1842,8 +1694,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8237620915834497,
-    "home_score": 0.6407,
+    "freshness_score": 0.75748768462116,
+    "home_score": 0.6109,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1873,10 +1725,34 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7755566097333159,
-    "home_score": 0.639,
+    "freshness_score": 0.7131604991026559,
+    "home_score": 0.6109,
     "source_quality": 0.8,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d6e87d9ab736f1740e48105ab145414bd6073d6a",
+    "title": "RPG Backtrack 359 \u2013 Mysterious Ways",
+    "url": "https://rpgamer.com/2026/04/rpg-backtrack-359-mysterious-ways/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-18T02:40:55Z",
+    "summary": "This year's Atelier April finally brings us to the Mysterious Q uadrilogy, with this week's episode discussing Atelier Atelier Firis and Atelier Lydie & Suelle",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8068799588791447,
+    "home_score": 0.6091,
+    "source_quality": 0.8,
+    "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/backtrack/2026/backtrack359.mp3",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1899,8 +1775,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8108910884538019,
-    "home_score": 0.6379,
+    "freshness_score": 0.7456521982003,
+    "home_score": 0.6085,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1927,8 +1803,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7997065612143152,
-    "home_score": 0.6329,
+    "freshness_score": 0.7353675033630771,
+    "home_score": 0.6039,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1963,8 +1839,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8052789033762194,
-    "home_score": 0.6294,
+    "freshness_score": 0.7404915612909266,
+    "home_score": 0.6002,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1991,8 +1867,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7886763008535936,
-    "home_score": 0.6279,
+    "freshness_score": 0.7252246641784551,
+    "home_score": 0.5994,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
