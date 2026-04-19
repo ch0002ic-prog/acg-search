@@ -26,8 +26,8 @@
       "SEA"
     ],
     "sg_relevance": 0.97,
-    "freshness_score": 0.6580357741062132,
-    "home_score": 0.8086,
+    "freshness_score": 0.605574457442403,
+    "home_score": 0.785,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -68,8 +68,8 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 0.6580357752867172,
-    "home_score": 0.7936,
+    "freshness_score": 0.6055744585591646,
+    "home_score": 0.77,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -83,6 +83,34 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "456b0c4172672d0220dc39765791eb91fe6dfa80",
+    "title": "10 Anime That Only Have Great Worldbuilding Going For Them - Comic Book Resources",
+    "url": "https://www.cbr.com/anime-great-worldbuilding-bad-narrative/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-18T20:39:24Z",
+    "summary": "10 Anime That Only Have Great Worldbuilding Going For Them Comic Book Resources",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9531207411076286,
+    "home_score": 0.7689,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "f4ed46692189cb89ab4d091a382aae7ffa9b31a1",
@@ -111,8 +139,8 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 0.6580357773583113,
-    "home_score": 0.7761,
+    "freshness_score": 0.6055744605637281,
+    "home_score": 0.7525,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -153,8 +181,8 @@
       "SEA"
     ],
     "sg_relevance": 0.83,
-    "freshness_score": 0.6580357730297967,
-    "home_score": 0.7736,
+    "freshness_score": 0.6055744564261033,
+    "home_score": 0.75,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -170,69 +198,13 @@
     "result_type": "source_page"
   },
   {
-    "id": "4a137f8b8146714469755d14cce538e2a9526d57",
-    "title": "Tensura Movie 2: Tears of the Azure Sea Tickets Now on Sale in North America Ahead of May Release",
-    "url": "https://animecorner.me/tensura-movie-2-tears-of-the-azure-sea-tickets-now-on-sale-in-north-america-ahead-of-may-release/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T16:37:21Z",
-    "summary": "Tickets are now on sale for That Time I Got Reincarnated as a Slime\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9792564451381733,
-    "home_score": 0.7307,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "233799abdce9abffd8ba963b50273e7a59649eed",
-    "title": "Re:ZERO Season 4 Tops Spring 2026 Rankings for Second Time in a Row in Week 2",
-    "url": "https://animecorner.me/rezero-season-4-tops-spring-2026-rankings-for-second-time-in-a-row-in-week-2/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T16:28:29Z",
-    "summary": "Re:ZERO -Starting Life in Another World- Season 4 has topped the weekly Spring 2026 anime\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.977248611317847,
-    "home_score": 0.7298,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fbde20b12778c9caaf796f45dd77c93e2d891290",
-    "title": "New Warhammer 40,000: Dark Heresy and Rogue Trader Companions Shown",
-    "url": "https://rpgamer.com/2026/04/new-warhammer-40000-dark-heresy-and-rogue-trader-companions-shown/",
+    "id": "086c668b136be0681ed76e8830671b3c5b05b0e1",
+    "title": "RPG Cast \u2013 Episode 809: \u201cTrails Mix to Heaven\u201d",
+    "url": "https://rpgamer.com/2026/04/rpg-cast-episode-809-trails-mix-to-heaven/",
     "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-04-18T16:00:25Z",
-    "summary": "Owlcat Games released new trailers for Warhammer 40,000: Dark Heresy and Warhammer 40,000: Rogue Trader , showing new companions in the games",
+    "published_at": "2026-04-18T21:07:47Z",
+    "summary": "Chris is still going, \"Moo, Moo!\" as a Cow",
     "content": "",
     "categories": [
       "games",
@@ -241,14 +213,12 @@
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9709202733321539,
-    "home_score": 0.7269,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9594040049768506,
+    "home_score": 0.7017,
     "source_quality": 0.8,
-    "image_url": null,
+    "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast809.mp3",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -278,8 +248,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.6580357696989982,
-    "home_score": 0.7236,
+    "freshness_score": 0.6055744534145853,
+    "home_score": 0.7,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -295,27 +265,134 @@
     "result_type": "source_page"
   },
   {
-    "id": "06a9edda10324bb6110879fb5bd2f352cb762155",
-    "title": "KILL BLUE Anime Takes Aim in Creditless Opening Video",
-    "url": "https://crunchyroll.com/news/latest/2026/4/18/kill-blue-anime-creditless-opening-video",
-    "source_name": "Crunchyroll News",
+    "id": "4f062a62415faa9d0b14457e5ff1121d80bb9ebe",
+    "title": "Tetracast 438: Next up, Deep Down",
+    "url": "https://www.rpgsite.net/podcast/20161-tetracast-438-next-up-deep-down",
+    "source_name": "RPG Site",
     "source_type": "rss",
-    "published_at": "2026-04-18T17:44:00Z",
-    "summary": "The school life hitman anime is now available on Crunchyroll",
+    "published_at": "2026-04-19T00:04:01Z",
+    "summary": "In this episode, Hayes reviews Pragmata, Bryan checks out Gothic, and Josh dives into Mongil: Star Dive",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9993520004899565,
+    "home_score": 0.6972,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4a137f8b8146714469755d14cce538e2a9526d57",
+    "title": "Tensura Movie 2: Tears of the Azure Sea Tickets Now on Sale in North America Ahead of May Release",
+    "url": "https://animecorner.me/tensura-movie-2-tears-of-the-azure-sea-tickets-now-on-sale-in-north-america-ahead-of-may-release/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:37:21Z",
+    "summary": "Tickets are now on sale for That Time I Got Reincarnated as a Slime\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
+      "events",
       "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9011860833991653,
+    "home_score": 0.6955,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "233799abdce9abffd8ba963b50273e7a59649eed",
+    "title": "Re:ZERO Season 4 Tops Spring 2026 Rankings for Second Time in a Row in Week 2",
+    "url": "https://animecorner.me/rezero-season-4-tops-spring-2026-rankings-for-second-time-in-a-row-in-week-2/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:28:29Z",
+    "summary": "Re:ZERO -Starting Life in Another World- Season 4 has topped the weekly Spring 2026 anime\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8993383223771731,
+    "home_score": 0.6947,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8b9918db389fb8602cbedad2e459c22444f5ad54",
+    "title": "Licca Frieren and Sanrio Crossover Dolls Nail the Details",
+    "url": "https://www.siliconera.com/licca-frieren-and-sanrio-crossover-dolls-nail-the-details/?utm_source=rss&utm_medium=rss&utm_campaign=licca-frieren-and-sanrio-crossover-dolls-nail-the-details",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-18T19:00:00Z",
+    "summary": "The Licca Frieren, Kuromi, and My Melody dolls all are such detailed collectibles, and there\u2019s so much work put into their outfits",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9944817594502176,
-    "home_score": 0.716,
-    "source_quality": 0.79,
+    "freshness_score": 0.9314411892012379,
+    "home_score": 0.6921,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fbde20b12778c9caaf796f45dd77c93e2d891290",
+    "title": "New Warhammer 40,000: Dark Heresy and Rogue Trader Companions Shown",
+    "url": "https://rpgamer.com/2026/04/new-warhammer-40000-dark-heresy-and-rogue-trader-companions-shown/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:00:25Z",
+    "summary": "Owlcat Games released new trailers for Warhammer 40,000: Dark Heresy and Warhammer 40,000: Rogue Trader , showing new companions in the games",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.893514505221503,
+    "home_score": 0.6921,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -344,8 +421,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.6580357673887647,
-    "home_score": 0.7096,
+    "freshness_score": 0.6055744512932055,
+    "home_score": 0.686,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -359,41 +436,6 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "fbe432838be2778e46b56b1155238c9e5ee19e91",
-    "title": "Granblue Fantasy: Relink \u2013 Endless Ragnarok Open Beta Set for April 24 to 27",
-    "url": "https://monstervine.com/2026/04/granblue-fantasy-relink-endless-ragnarok-open-beta-april-2026/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-04-18T17:48:08Z",
-    "summary": "Cygames has confirmed an open beta test for Granblue Fantasy: Relink \u2013 Endless Ragnarok, giving players a chance to try the upcoming action RPG ahead of its July 9, 2026, release",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9954336186472067,
-    "home_score": 0.7089,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 24 to 27",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
   },
   {
     "id": "31b6ab4cb03993bca38cd15adac130c1685a41a1",
@@ -420,8 +462,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.57,
-    "freshness_score": 0.6580357763275917,
-    "home_score": 0.7086,
+    "freshness_score": 0.6055744595264015,
+    "home_score": 0.685,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -437,13 +479,77 @@
     "result_type": "source_page"
   },
   {
-    "id": "0db3f42c7af508be551ac500d95dba96c5bb9831",
-    "title": "What Is Dorohedoro? The Delightfully Twisted Anime, Explained",
-    "url": "https://crunchyroll.com/news/guides/2026/4/18/dorohedoro-anime-explained",
+    "id": "74b3e84d84e1d4afe4a2c175e1cbc60e532ff4bb",
+    "title": "Super Mario-kun manga may finally be ending after more then 30 years",
+    "url": "https://nintendoeverything.com/super-mario-kun-manga-may-finally-be-ending-after-more-then-30-years/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-18T22:00:52Z",
+    "summary": "Super Mario-kun has been a long-running manga in Japan having started in 1990, but it could finally be coming to an end soon",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.971265724751847,
+    "home_score": 0.6846,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "aeac84df4285e548a5b5717679a377c3ebcb0cd8",
+    "title": "Brawl Stars Announces My Hero Academia Collaboration Skins Featuring Bakugo Edgar and Deku Fang",
+    "url": "https://animecorner.me/brawl-stars-announces-my-hero-academia-collaboration-skins-featuring-bakugo-edgar-and-deku-fang/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T18:08:38Z",
+    "summary": "Brawl Stars Announces My Hero Academia Collaboration Skins Featuring Bakugo Edgar and Deku Fang",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9204311199382041,
+    "home_score": 0.6842,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Bakugo Edgar",
+        "Deku Fang"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "06a9edda10324bb6110879fb5bd2f352cb762155",
+    "title": "KILL BLUE Anime Takes Aim in Creditless Opening Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/18/kill-blue-anime-creditless-opening-video",
     "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-04-18T16:00:00Z",
-    "summary": "Who is the lizard-headed man? Why is there so much gyoza?",
+    "published_at": "2026-04-18T17:44:00Z",
+    "summary": "The school life hitman anime is now available on Crunchyroll",
     "content": "",
     "categories": [
       "anime",
@@ -455,8 +561,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9708264137022641,
-    "home_score": 0.7054,
+    "freshness_score": 0.9151975728131327,
+    "home_score": 0.6803,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -485,8 +591,8 @@
       "SEA"
     ],
     "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.6580357609150332,
-    "home_score": 0.7036,
+    "freshness_score": 0.605574445396331,
+    "home_score": 0.68,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -525,12 +631,73 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.6580357631770312,
-    "home_score": 0.7021,
+    "freshness_score": 0.6055744474429483,
+    "home_score": 0.6785,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "source_page"
+  },
+  {
+    "id": "fbe432838be2778e46b56b1155238c9e5ee19e91",
+    "title": "Granblue Fantasy: Relink \u2013 Endless Ragnarok Open Beta Set for April 24 to 27",
+    "url": "https://monstervine.com/2026/04/granblue-fantasy-relink-endless-ragnarok-open-beta-april-2026/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-18T17:48:08Z",
+    "summary": "Cygames has confirmed an open beta test for Granblue Fantasy: Relink \u2013 Endless Ragnarok, giving players a chance to try the upcoming action RPG ahead of its July 9, 2026, release",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9160735260145911,
+    "home_score": 0.6732,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 24 to 27",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "0db3f42c7af508be551ac500d95dba96c5bb9831",
+    "title": "What Is Dorohedoro? The Delightfully Twisted Anime, Explained",
+    "url": "https://crunchyroll.com/news/guides/2026/4/18/dorohedoro-anime-explained",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:00:00Z",
+    "summary": "Who is the lizard-headed man? Why is there so much gyoza?",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8934281286648417,
+    "home_score": 0.6705,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "76bfdf22a34742a8965e4130f93e43474e44cea9",
@@ -551,8 +718,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9593549619344216,
-    "home_score": 0.7017,
+    "freshness_score": 0.8828712284007673,
+    "home_score": 0.6673,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -577,8 +744,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9312069058065549,
-    "home_score": 0.692,
+    "freshness_score": 0.8569672621197668,
+    "home_score": 0.6586,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -604,8 +771,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9381767754879763,
-    "home_score": 0.6862,
+    "freshness_score": 0.8633814322667109,
+    "home_score": 0.6525,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -630,8 +797,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9355923994912748,
-    "home_score": 0.685,
+    "freshness_score": 0.8610030931995505,
+    "home_score": 0.6515,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -655,111 +822,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9193054098472326,
-    "home_score": 0.6837,
+    "freshness_score": 0.8460145918412647,
+    "home_score": 0.6507,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c716b48d6e90cb9ab59cfffbe37ce92602543cdd",
-    "title": "MARRIAGETOXIN Reveals Creditless Opening and Ending Videos",
-    "url": "https://animecorner.me/marriagetoxin-reveals-creditless-opening-and-ending-videos/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T11:40:50Z",
-    "summary": "MARRIAGETOXIN anime revealed the creditless opening and ending video movies, as well as a special\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9142969701058525,
-    "home_score": 0.6814,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "74ebb764b5ddf6313c259d42b4f06c3edf6d05ce",
-    "title": "FalleN to retire in 2026, ending a 20-year Counter-Strike career",
-    "url": "https://esports.gg/news/counter-strike-2/fallen-official-retirement/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-18T10:25:28Z",
-    "summary": "The announcement was made during the IEM Rio 2026 playoffs",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.898484400348642,
-    "home_score": 0.6763,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "15ef7be7c7a8d94ce4cf1602be36b527ad6d2284",
-    "title": "Persona 5: The Phantom X (China) Aigis Trailer Released - Persona Central",
-    "url": "https://personacentral.com/p5x-aigis/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-18T15:45:14Z",
-    "summary": "Persona 5: The Phantom X (China) Aigis Trailer Released Persona Central",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9675134205949023,
-    "home_score": 0.6754,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "eb0a6cea13dab66b082aa5b176b832a40eaa33b8",
-    "title": "MMO QSR Meal Collaborations - Trend Hunter",
-    "url": "https://www.trendhunter.com/trends/jollibee-x-final-fantasy-xiv-online",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-18T14:42:33Z",
-    "summary": "MMO QSR Meal Collaborations - Trend Hunter",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9535761258792576,
-    "home_score": 0.6751,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -785,8 +850,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357784651925,
-    "home_score": 0.6736,
+    "freshness_score": 0.6055744615169473,
+    "home_score": 0.65,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -823,8 +888,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357718746799,
-    "home_score": 0.6736,
+    "freshness_score": 0.6055744554401757,
+    "home_score": 0.65,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -861,8 +926,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357708541151,
-    "home_score": 0.6736,
+    "freshness_score": 0.6055744543888312,
+    "home_score": 0.65,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -890,8 +955,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357686352754,
-    "home_score": 0.6736,
+    "freshness_score": 0.6055744523165143,
+    "home_score": 0.65,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -920,8 +985,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357597929197,
-    "home_score": 0.6736,
+    "freshness_score": 0.605574444436103,
+    "home_score": 0.65,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -961,8 +1026,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357586809612,
-    "home_score": 0.6736,
+    "freshness_score": 0.6055744433310231,
+    "home_score": 0.65,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1000,8 +1065,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.658035757538538,
-    "home_score": 0.6736,
+    "freshness_score": 0.6055744422446336,
+    "home_score": 0.65,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1015,6 +1080,31 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "c716b48d6e90cb9ab59cfffbe37ce92602543cdd",
+    "title": "MARRIAGETOXIN Reveals Creditless Opening and Ending Videos",
+    "url": "https://animecorner.me/marriagetoxin-reveals-creditless-opening-and-ending-videos/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T11:40:50Z",
+    "summary": "MARRIAGETOXIN anime revealed the creditless opening and ending video movies, as well as a special\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8414054453442585,
+    "home_score": 0.6486,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "aebf003ccdc7bfe1549d829eaa29fc18b6991324",
@@ -1038,8 +1128,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357663377353,
-    "home_score": 0.6721,
+    "freshness_score": 0.6055744502909238,
+    "home_score": 0.6485,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1076,8 +1166,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357654085645,
-    "home_score": 0.6721,
+    "freshness_score": 0.6055744494451756,
+    "home_score": 0.6485,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1104,8 +1194,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357642102894,
-    "home_score": 0.6721,
+    "freshness_score": 0.6055744484756023,
+    "home_score": 0.6485,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1144,8 +1234,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6580357619838336,
-    "home_score": 0.6721,
+    "freshness_score": 0.6055744464453392,
+    "home_score": 0.6485,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1159,6 +1249,84 @@
       "merch_status": "Merch or booth updates mentioned"
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "6a44bc0834869e7236e814bec52428a2d004933c",
+    "title": "Persona 5: The Phantom X x Neverness to Everness Music Collaboration Announced - Persona Central",
+    "url": "https://personacentral.com/p5x-x-nte/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-18T15:56:10Z",
+    "summary": "Persona 5: The Phantom X x Neverness to Everness Music Collaboration Announced Persona Central",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8926355223236384,
+    "home_score": 0.6477,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "74ebb764b5ddf6313c259d42b4f06c3edf6d05ce",
+    "title": "FalleN to retire in 2026, ending a 20-year Counter-Strike career",
+    "url": "https://esports.gg/news/counter-strike-2/fallen-official-retirement/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-18T10:25:28Z",
+    "summary": "The announcement was made during the IEM Rio 2026 playoffs",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8268535175786954,
+    "home_score": 0.6441,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "eb0a6cea13dab66b082aa5b176b832a40eaa33b8",
+    "title": "MMO QSR Meal Collaborations - Trend Hunter",
+    "url": "https://www.trendhunter.com/trends/jollibee-x-final-fantasy-xiv-online",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-18T14:42:33Z",
+    "summary": "MMO QSR Meal Collaborations - Trend Hunter",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8775530817599978,
+    "home_score": 0.6409,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "22f0e32e3f2bceab667c5eb3c543621418a5fc07",
@@ -1180,8 +1348,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8606969959367164,
-    "home_score": 0.6713,
+    "freshness_score": 0.7920786808881607,
+    "home_score": 0.6404,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -1194,6 +1362,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "9a0ea7a126a9d2d0e49197c3b1b37cd3883fe1d7",
+    "title": "The Subtle Brilliance of Journal With Witch",
+    "url": "https://anitrendz.net/news/2026/04/17/journal-with-witch-review/?utm_source=rss&utm_medium=rss&utm_campaign=journal-with-witch-review",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-18T04:47:13Z",
+    "summary": "Season aired: Winter 2026 Number of episodes: 13 Watched on: Crunchyroll Translated by: ? Genres: Slice-of-life, Drama Thoughts: For all of the people\u2019s complaints about analyzing",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7645817130957634,
+    "home_score": 0.6311,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1217,8 +1412,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.786973027210378,
-    "home_score": 0.6426,
+    "freshness_score": 0.7242322920347093,
+    "home_score": 0.6144,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1231,116 +1426,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "b9d0ac7dd1270d1337b85411eea34153563f34ea",
-    "title": "Explore the Cosmos with These Space-Themed Anime",
-    "url": "https://animecorner.me/explore-the-cosmos-with-these-space-themed-anime/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T04:03:04Z",
-    "summary": "It's been a week since Artemis II came back home, and I still have\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8223704181304402,
-    "home_score": 0.6401,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6f56b8a7cd7abe770951a234b7386acce3deea3b",
-    "title": "Rooster Fighter \u2014 Episode 1",
-    "url": "https://www.animefeminist.com/rooster-fighter-episode-1/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-04-18T05:12:06Z",
-    "summary": "I'd rather eat a bucket of fried chicken than watch a rooster try to kick ass, but here I am with no fried chicken and a premiere that I really didn't like",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8356173735376652,
-    "home_score": 0.637,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dec03a5fc35501a6bb75e1da462ef2658213d755",
-    "title": "Nintendo Switch eShop charts \u2013 April 18, 2026 \u2013 Tomodachi Life: Living the Dream launches on top",
-    "url": "https://nintendoeverything.com/nintendo-switch-eshop-charts-april-18-2026/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-04-18T07:38:45Z",
-    "summary": "The latest Nintendo Switch eShop charts for the week of April 18, 2026 are now available",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8644710602169106,
-    "home_score": 0.6365,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 18, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "cbe5ad029aab3cccbc71081e0943eeaf9057b9b2",
-    "title": "BanG Dream! Our Notes Reveals New Trailer Introducing Ave Mujica",
-    "url": "https://animecorner.me/bang-dream-our-notes-reveals-new-trailer-introducing-ave-mujica/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T03:16:00Z",
-    "summary": "BanG Dream! Our Notes revealed a new trailer on Saturday, introducing the band Ave\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8134592725116139,
-    "home_score": 0.6361,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1365,11 +1450,121 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5874087539215569,
-    "home_score": 0.6343,
+    "freshness_score": 0.5405781049321281,
+    "home_score": 0.6133,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b9d0ac7dd1270d1337b85411eea34153563f34ea",
+    "title": "Explore the Cosmos with These Space-Themed Anime",
+    "url": "https://animecorner.me/explore-the-cosmos-with-these-space-themed-anime/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T04:03:04Z",
+    "summary": "It's been a week since Artemis II came back home, and I still have\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7568076571308155,
+    "home_score": 0.6106,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6f56b8a7cd7abe770951a234b7386acce3deea3b",
+    "title": "Rooster Fighter \u2014 Episode 1",
+    "url": "https://www.animefeminist.com/rooster-fighter-episode-1/",
+    "source_name": "Anime Feminist",
+    "source_type": "rss",
+    "published_at": "2026-04-18T05:12:06Z",
+    "summary": "I'd rather eat a bucket of fried chicken than watch a rooster try to kick ass, but here I am with no fried chicken and a premiere that I really didn't like",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7689985099906838,
+    "home_score": 0.607,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "cbe5ad029aab3cccbc71081e0943eeaf9057b9b2",
+    "title": "BanG Dream! Our Notes Reveals New Trailer Introducing Ave Mujica",
+    "url": "https://animecorner.me/bang-dream-our-notes-reveals-new-trailer-introducing-ave-mujica/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T03:16:00Z",
+    "summary": "BanG Dream! Our Notes revealed a new trailer on Saturday, introducing the band Ave\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7486069448315571,
+    "home_score": 0.6069,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "dec03a5fc35501a6bb75e1da462ef2658213d755",
+    "title": "Nintendo Switch eShop charts \u2013 April 18, 2026 \u2013 Tomodachi Life: Living the Dream launches on top",
+    "url": "https://nintendoeverything.com/nintendo-switch-eshop-charts-april-18-2026/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-18T07:38:45Z",
+    "summary": "The latest Nintendo Switch eShop charts for the week of April 18, 2026 are now available",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7955518664774268,
+    "home_score": 0.6055,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 18, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1391,9 +1586,62 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.820662060570132,
-    "home_score": 0.6303,
+    "freshness_score": 0.7552354963148272,
+    "home_score": 0.6009,
     "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "47bb547261752b82d804a7fb5c4f9f5a47002d81",
+    "title": "FalleN\u2019s retirement from Counter-Strike 2 is actually good for the esports scene",
+    "url": "https://esportsinsider.com/2026/04/fallen-cs2-retirement-good",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-17T22:13:01Z",
+    "summary": "It\u2019s the end of an era in Counter-Strike as veteran pro player Gabriel \u201cFalleN\u201d Toledo announces his retirement",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.697902122830809,
+    "home_score": 0.5996,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d4dadd77df9341b8f49a99da3e70b57e23ce1d3b",
+    "title": "Mayu Maeshima Shares The Warrior Princess and the Barbaric King Anime Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/18/the-warrior-princess-and-the-barbaric-king-anime-opening-song-music-video-mayu-maeshima",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-18T01:43:00Z",
+    "summary": "Crunchyroll currently streams the fantasy romance anime",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7326633082863592,
+    "home_score": 0.5982,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1415,8 +1663,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8450322560397141,
-    "home_score": 0.6278,
+    "freshness_score": 0.7776628105356216,
+    "home_score": 0.5974,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -1442,61 +1690,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8440677762367083,
-    "home_score": 0.6273,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d4dadd77df9341b8f49a99da3e70b57e23ce1d3b",
-    "title": "Mayu Maeshima Shares The Warrior Princess and the Barbaric King Anime Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/4/18/the-warrior-princess-and-the-barbaric-king-anime-opening-song-music-video-mayu-maeshima",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-18T01:43:00Z",
-    "summary": "Crunchyroll currently streams the fantasy romance anime",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7961344280596356,
-    "home_score": 0.6268,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "47bb547261752b82d804a7fb5c4f9f5a47002d81",
-    "title": "FalleN\u2019s retirement from Counter-Strike 2 is actually good for the esports scene",
-    "url": "https://esportsinsider.com/2026/04/fallen-cs2-retirement-good",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-04-17T22:13:01Z",
-    "summary": "It\u2019s the end of an era in Counter-Strike as veteran pro player Gabriel \u201cFalleN\u201d Toledo announces his retirement",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7583618736018469,
-    "home_score": 0.6268,
+    "freshness_score": 0.7767752165425164,
+    "home_score": 0.597,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -1519,35 +1714,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8412362057604033,
-    "home_score": 0.6261,
+    "freshness_score": 0.774169397023556,
+    "home_score": 0.5959,
     "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7b4978121b2ee21da404e0035fa7922e7c2a66cb",
-    "title": "ClariS Releases Scum of the Brave Anime Cour 2 Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/4/18/scum-of-the-brave-anime-cour-2-opening-song-music-video-claris",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-18T00:55:00Z",
-    "summary": "The fantasy action series is currently available on Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.787337451794404,
-    "home_score": 0.6228,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1572,9 +1741,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7467457141594566,
-    "home_score": 0.6215,
+    "freshness_score": 0.6872120517629845,
+    "home_score": 0.5947,
     "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7b4978121b2ee21da404e0035fa7922e7c2a66cb",
+    "title": "ClariS Releases Scum of the Brave Anime Cour 2 Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/18/scum-of-the-brave-anime-cour-2-opening-song-music-video-claris",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-18T00:55:00Z",
+    "summary": "The fantasy action series is currently available on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7245676631740467,
+    "home_score": 0.5946,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1600,8 +1795,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.829777174119235,
-    "home_score": 0.6209,
+    "freshness_score": 0.7636239267268885,
+    "home_score": 0.5911,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -1634,38 +1829,40 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8218345678528138,
-    "home_score": 0.6173,
+    "freshness_score": 0.7563145311816808,
+    "home_score": 0.5878,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "520061cfd9e36959c18813852904007bf4da72f9",
-    "title": "Final Fantasy 7 Fans, Mark Your Calendars For May 19 - ScreenRant",
-    "url": "https://screenrant.com/final-fantasy-7-may-19-dlc-delisted/",
-    "source_name": "Google News JRPG",
+    "id": "4b758ed10ea2903f0a91226d3d058dd0eb4113e8",
+    "title": "Silent Hill f Manga Adaptation Set to Begin April 22, 2026",
+    "url": "https://noisypixel.net/silent-hill-f-manga-adaptation-april-22-2026/",
+    "source_name": "Noisy Pixel",
     "source_type": "rss",
-    "published_at": "2026-04-18T04:31:18Z",
-    "summary": "Final Fantasy 7 Fans, Mark Your Calendars For May 19 ScreenRant",
+    "published_at": "2026-04-17T23:16:36Z",
+    "summary": "Konami and Young Ace UP have announced that the manga adaptation of Silent Hill f will begin on April 22, 2026, via the latter\u2019s magazine",
     "content": "",
     "categories": [
-      "games"
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8277624349013495,
-    "home_score": 0.6125,
-    "source_quality": 0.76,
+    "freshness_score": 0.708250351431922,
+    "home_score": 0.5857,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "May 19",
+      "date_label": "April 22, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1673,205 +1870,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "0b8ee1cf9d478df26e57add8317245abbccd9f1a",
-    "title": "RHINOSHIELD Unveils Hunter x Hunter Tech Accessory Collection",
-    "url": "https://animecorner.me/rhinoshield-unveils-hunter-x-hunter-tech-accessory-collection/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-17T22:08:02Z",
-    "summary": "RHINOSHIELD has launched a new collaboration based on Hunter x Hunter, introducing a collection\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.75748768462116,
-    "home_score": 0.6109,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c137822bc216acea8ae515569b57db7c0d97f8bd",
-    "title": "The Xeno- Series: Where to Start?",
-    "url": "https://rpgamer.com/2026/04/the-xeno-series-where-to-start/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-17T17:47:32Z",
-    "summary": "The Xeno- series is a bit different from our other Where to Start? subjects in that it is, in reality, three different projects",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "gacha",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7131604991026559,
-    "home_score": 0.6109,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d6e87d9ab736f1740e48105ab145414bd6073d6a",
-    "title": "RPG Backtrack 359 \u2013 Mysterious Ways",
-    "url": "https://rpgamer.com/2026/04/rpg-backtrack-359-mysterious-ways/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-18T02:40:55Z",
-    "summary": "This year's Atelier April finally brings us to the Mysterious Q uadrilogy, with this week's episode discussing Atelier Atelier Firis and Atelier Lydie & Suelle",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8068799588791447,
-    "home_score": 0.6091,
-    "source_quality": 0.8,
-    "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/backtrack/2026/backtrack359.mp3",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "facb3976c4ef8126f964d94f55095ad909e7d2cf",
-    "title": "Takara Tomy Making Pokemon Pokopia Toys",
-    "url": "https://www.siliconera.com/takara-tomy-making-pokemon-pokopia-toys/?utm_source=rss&utm_medium=rss&utm_campaign=takara-tomy-making-pokemon-pokopia-toys",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-17T21:00:00Z",
-    "summary": "Takara Tomy will release eight Pokemon Pokopia toys, and five of them will be part of its Moncolle collection",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7456521982003,
-    "home_score": 0.6085,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0c415b628f626d164053f760b88d5ff92bbcb967",
-    "title": "FFXIV Fan Fest 2026 Twitch Chat Badges Revealed",
-    "url": "https://www.siliconera.com/ffxiv-fan-fest-2026-twitch-chat-badges-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-fan-fest-2026-twitch-chat-badges-revealed",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-17T20:00:00Z",
-    "summary": "There are six Twitch chat badges we can earn for watching official and participating FFXIV streams during the 2026 Fan Festivals",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "FFXIV Fan Festival"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7353675033630771,
-    "home_score": 0.6039,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a5ef1953ede0c9dcd580319dc8ddf36e54de003c",
-    "title": "Heroine? Saint? No, I\u2019m an All-Works Maid and Unaware Isekai Girl",
-    "url": "https://blog.jlist.com/news/heroine-saint-no-im-an-all-works-maid-and-unaware-isekai-girl/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-04-17T20:30:00Z",
-    "summary": "We rarely get clueless isekai protagonists",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7404915612909266,
-    "home_score": 0.6002,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0b109e9e8c33c8f060590c2d69755734c5580061",
-    "title": "FFVII Rebirth Tifa Lockhart Joins Play Arts Shin Figure Line",
-    "url": "https://www.siliconera.com/ffvii-rebirth-tifa-lockhart-joins-play-arts-shin-figure-line/?utm_source=rss&utm_medium=rss&utm_campaign=ffvii-rebirth-tifa-lockhart-joins-play-arts-shin-figure-line",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-17T19:00:00Z",
-    "summary": "Square Enix will release the new figure in late August 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7252246641784551,
-    "home_score": 0.5994,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   }
 ]
