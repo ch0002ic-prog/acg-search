@@ -26,8 +26,8 @@
       "SEA"
     ],
     "sg_relevance": 0.97,
-    "freshness_score": 0.5542986508491565,
-    "home_score": 0.7619,
+    "freshness_score": 0.5128110770012011,
+    "home_score": 0.7433,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -41,34 +41,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "456b0c4172672d0220dc39765791eb91fe6dfa80",
-    "title": "10 Anime That Only Have Great Worldbuilding Going For Them - Comic Book Resources",
-    "url": "https://www.cbr.com/anime-great-worldbuilding-bad-narrative/",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2026-04-18T23:15:12Z",
-    "summary": "10 Anime That Only Have Great Worldbuilding Going For Them Comic Book Resources",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.9044550316141576,
-    "home_score": 0.747,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
   },
   {
     "id": "f808d6cd81a1b118115521a9778bad3a6719ec07",
@@ -96,8 +68,8 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 0.5542986517259406,
-    "home_score": 0.7469,
+    "freshness_score": 0.5128110779211746,
+    "home_score": 0.7283,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -111,6 +83,99 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "bead52a3e2860c6305d5c973de53ae84116e4eeb",
+    "title": "Everything from PGL Wallachia Season 8, a $1 million Dota 2 event",
+    "url": "https://esports.gg/news/dota-2/pgl-wallachia-season-8-details-results/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-19T11:00:40Z",
+    "summary": "This big Dota 2 esports tournament gathers the best teams in the world for intense competition in the PGL Studio",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9851944458180324,
+    "home_score": 0.7273,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "456b0c4172672d0220dc39765791eb91fe6dfa80",
+    "title": "10 Anime That Only Have Great Worldbuilding Going For Them - cbr.com",
+    "url": "https://www.cbr.com/anime-great-worldbuilding-bad-narrative/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-18T23:15:12Z",
+    "summary": "10 Anime That Only Have Great Worldbuilding Going For Them cbr",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.836759276033584,
+    "home_score": 0.7165,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "64a7b02ec43fd6119018b0b0bc570eb259b42f87",
+    "title": "More heals: Huohuo\u2019s Novaflare buffs in Honkai Star Rail 4.2",
+    "url": "https://esports.gg/news/honkai-star-rail/huohuo-novaflare-buffs-4-2/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-19T11:09:04Z",
+    "summary": "Huohuo now has more buffs for herself and more healing for the rest of the party!",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "anime",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9871119668210687,
+    "home_score": 0.7162,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "f4ed46692189cb89ab4d091a382aae7ffa9b31a1",
@@ -139,8 +204,8 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 0.5542986534431544,
-    "home_score": 0.7294,
+    "freshness_score": 0.5128110795415152,
+    "home_score": 0.7108,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -181,8 +246,8 @@
       "SEA"
     ],
     "sg_relevance": 0.83,
-    "freshness_score": 0.554298649957403,
-    "home_score": 0.7269,
+    "freshness_score": 0.5128110761583866,
+    "home_score": 0.7083,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -196,6 +261,57 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "fb50d8861ed2790cb3e9382e7277ce1bfc49bbd8",
+    "title": "PlayStation 2 JRPG Getting Surprise Release on PS4 & PS5 - VICE",
+    "url": "https://www.vice.com/en/article/playstation-2-jrpg-getting-surprise-release-on-ps4-ps5/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-19T11:35:00Z",
+    "summary": "PlayStation 2 JRPG Getting Surprise Release on PS4 & PS5 VICE",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9930553967116251,
+    "home_score": 0.6869,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ebc145f94be79738788d2924456a031a1359cd75",
+    "title": "One Piece Teases Danger on Elbaph in Episode 1158 Preview",
+    "url": "https://animecorner.me/one-piece-teases-danger-on-elbaph-in-episode-1158-preview/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-19T06:32:44Z",
+    "summary": "One Piece Teases Danger on Elbaph in Episode 1158 Preview",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9259474931405649,
+    "home_score": 0.6867,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0fa04ef021dbf4c3e5518a33c00b646985e73595",
@@ -216,8 +332,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9959207687241671,
-    "home_score": 0.7182,
+    "freshness_score": 0.9213790744036218,
+    "home_score": 0.6846,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -243,8 +359,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9661552344137335,
-    "home_score": 0.7023,
+    "freshness_score": 0.8938414185465852,
+    "home_score": 0.6697,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -281,8 +397,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9863500191248152,
-    "home_score": 0.6974,
+    "freshness_score": 0.9125246871476921,
+    "home_score": 0.6641,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -317,8 +433,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9396250193231543,
-    "home_score": 0.6948,
+    "freshness_score": 0.8692968842228713,
+    "home_score": 0.6632,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -342,8 +458,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9884566012243533,
-    "home_score": 0.6923,
+    "freshness_score": 0.9144735953488067,
+    "home_score": 0.659,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -356,56 +472,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "763d76eadd1fd380b440a2dd8b5ebc73da5f9d32",
-    "title": "GlobalComix Adds 1,500+ Kodansha Manga Titles to Subscription Library",
-    "url": "https://animecorner.me/globalcomix-adds-1500-kodansha-manga-titles-to-subscription-library/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-19T00:33:30Z",
-    "summary": "GlobalComix has expanded its subscription service with the addition of manga from Kodansha, bringing\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9209979656041899,
-    "home_score": 0.6844,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6c70f58aa17a793916b3bf1bae92235861ec90bd",
-    "title": "Interview: Instantmiso on Bringing the Magic of Fae Trapped to WEBTOON",
-    "url": "https://animecorner.me/interview-instantmiso-on-bringing-the-magic-of-fae-trapped-to-webtoon/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-19T00:17:06Z",
-    "summary": "From Sirens and Dream Eaters to her brand-new world of Faes, check out our\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9175082115472155,
-    "home_score": 0.6829,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -434,8 +500,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.5542986473933439,
-    "home_score": 0.6769,
+    "freshness_score": 0.5128110735468486,
+    "home_score": 0.6583,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -451,53 +517,52 @@
     "result_type": "source_page"
   },
   {
-    "id": "389148a5b92d7ba455f9faf8fe2119274ce32948",
-    "title": "10 Best Turn-Based RPG Masterpieces of the Last 20 Years - Comic Book Resources",
-    "url": "https://www.cbr.com/best-turn-based-rpgs-last-2-decades/",
-    "source_name": "Google News JRPG",
+    "id": "763d76eadd1fd380b440a2dd8b5ebc73da5f9d32",
+    "title": "GlobalComix Adds 1,500+ Kodansha Manga Titles to Subscription Library",
+    "url": "https://animecorner.me/globalcomix-adds-1500-kodansha-manga-titles-to-subscription-library/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-04-19T03:15:00Z",
-    "summary": "10 Best Turn-Based RPG Masterpieces of the Last 20 Years Comic Book Resources",
+    "published_at": "2026-04-19T00:33:30Z",
+    "summary": "GlobalComix has expanded its subscription service with the addition of manga from Kodansha, bringing\u2026",
     "content": "",
     "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.956080261395606,
-    "home_score": 0.6702,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "086c668b136be0681ed76e8830671b3c5b05b0e1",
-    "title": "RPG Cast \u2013 Episode 809: \u201cTrails Mix to Heaven\u201d",
-    "url": "https://rpgamer.com/2026/04/rpg-cast-episode-809-trails-mix-to-heaven/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-18T21:07:47Z",
-    "summary": "Chris is still going, \"Moo, Moo!\" as a Cow",
-    "content": "",
-    "categories": [
-      "games",
       "anime",
+      "manga",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8781684190338543,
-    "home_score": 0.6652,
+    "freshness_score": 0.8520640192395624,
+    "home_score": 0.6534,
     "source_quality": 0.8,
-    "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast809.mp3",
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6c70f58aa17a793916b3bf1bae92235861ec90bd",
+    "title": "Interview: Instantmiso on Bringing the Magic of Fae Trapped to WEBTOON",
+    "url": "https://animecorner.me/interview-instantmiso-on-bringing-the-magic-of-fae-trapped-to-webtoon/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-19T00:17:06Z",
+    "summary": "From Sirens and Dream Eaters to her brand-new world of Faes, check out our\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8488354626946522,
+    "home_score": 0.652,
+    "source_quality": 0.8,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -525,8 +590,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.5542986456397757,
-    "home_score": 0.6629,
+    "freshness_score": 0.5128110718592412,
+    "home_score": 0.6443,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -566,8 +631,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.57,
-    "freshness_score": 0.5542986526283867,
-    "home_score": 0.6619,
+    "freshness_score": 0.5128110787481617,
+    "home_score": 0.6433,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -581,113 +646,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "4a137f8b8146714469755d14cce538e2a9526d57",
-    "title": "Tensura Movie 2: Tears of the Azure Sea Tickets Now on Sale in North America Ahead of May Release",
-    "url": "https://animecorner.me/tensura-movie-2-tears-of-the-azure-sea-tickets-now-on-sale-in-north-america-ahead-of-may-release/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T16:37:21Z",
-    "summary": "Tickets are now on sale for That Time I Got Reincarnated as a Slime\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8248799957184488,
-    "home_score": 0.6612,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "233799abdce9abffd8ba963b50273e7a59649eed",
-    "title": "Re:ZERO Season 4 Tops Spring 2026 Rankings for Second Time in a Row in Week 2",
-    "url": "https://animecorner.me/rezero-season-4-tops-spring-2026-rankings-for-second-time-in-a-row-in-week-2/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T16:28:29Z",
-    "summary": "Re:ZERO -Starting Life in Another World- Season 4 has topped the weekly Spring 2026 anime\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8231886901374267,
-    "home_score": 0.6604,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4f062a62415faa9d0b14457e5ff1121d80bb9ebe",
-    "title": "Tetracast 438: Next up, Deep Down",
-    "url": "https://www.rpgsite.net/podcast/20161-tetracast-438-next-up-deep-down",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-19T00:13:11Z",
-    "summary": "In this episode, Hayes reviews Pragmata, Bryan checks out Gothic, and Josh dives into Mongil: Star Dive",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9166769375594154,
-    "home_score": 0.66,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fbde20b12778c9caaf796f45dd77c93e2d891290",
-    "title": "New Warhammer 40,000: Dark Heresy and Rogue Trader Companions Shown",
-    "url": "https://rpgamer.com/2026/04/new-warhammer-40000-dark-heresy-and-rogue-trader-companions-shown/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-18T16:00:25Z",
-    "summary": "Owlcat Games released new trailers for Warhammer 40,000: Dark Heresy and Warhammer 40,000: Rogue Trader , showing new companions in the games",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.817857978962553,
-    "home_score": 0.658,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
   },
   {
     "id": "ca9c9bcb673ebdfe5fc871f76f2cb24dee5f019f",
@@ -712,8 +670,8 @@
       "SEA"
     ],
     "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.5542986406848762,
-    "home_score": 0.6569,
+    "freshness_score": 0.5128110667370659,
+    "home_score": 0.6383,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -729,27 +687,26 @@
     "result_type": "source_page"
   },
   {
-    "id": "8b9918db389fb8602cbedad2e459c22444f5ad54",
-    "title": "Licca Frieren and Sanrio Crossover Dolls Nail the Details",
-    "url": "https://www.siliconera.com/licca-frieren-and-sanrio-crossover-dolls-nail-the-details/?utm_source=rss&utm_medium=rss&utm_campaign=licca-frieren-and-sanrio-crossover-dolls-nail-the-details",
-    "source_name": "Siliconera",
+    "id": "389148a5b92d7ba455f9faf8fe2119274ce32948",
+    "title": "10 Best Turn-Based RPG Masterpieces of the Last 20 Years - cbr.com",
+    "url": "https://www.cbr.com/best-turn-based-rpgs-last-2-decades/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-18T19:00:00Z",
-    "summary": "The Licca Frieren, Kuromi, and My Melody dolls all are such detailed collectibles, and there\u2019s so much work put into their outfits",
+    "published_at": "2026-04-19T03:15:00Z",
+    "summary": "10 Best Turn-Based RPG Masterpieces of the Last 20 Years cbr",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
+      "games"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8525732702759787,
-    "home_score": 0.6567,
-    "source_quality": 0.82,
+    "freshness_score": 0.8845205097592941,
+    "home_score": 0.638,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -778,12 +735,170 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.5542986424234749,
-    "home_score": 0.6554,
+    "freshness_score": 0.5128110684780911,
+    "home_score": 0.6368,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "source_page"
+  },
+  {
+    "id": "086c668b136be0681ed76e8830671b3c5b05b0e1",
+    "title": "RPG Cast \u2013 Episode 809: \u201cTrails Mix to Heaven\u201d",
+    "url": "https://rpgamer.com/2026/04/rpg-cast-episode-809-trails-mix-to-heaven/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-18T21:07:47Z",
+    "summary": "Chris is still going, \"Moo, Moo!\" as a Cow",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8124401460178435,
+    "home_score": 0.6356,
+    "source_quality": 0.8,
+    "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast809.mp3",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4a137f8b8146714469755d14cce538e2a9526d57",
+    "title": "Tensura Movie 2: Tears of the Azure Sea Tickets Now on Sale in North America Ahead of May Release",
+    "url": "https://animecorner.me/tensura-movie-2-tears-of-the-azure-sea-tickets-now-on-sale-in-north-america-ahead-of-may-release/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:37:21Z",
+    "summary": "Tickets are now on sale for That Time I Got Reincarnated as a Slime\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7631401918977794,
+    "home_score": 0.6334,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "233799abdce9abffd8ba963b50273e7a59649eed",
+    "title": "Re:ZERO Season 4 Tops Spring 2026 Rankings for Second Time in a Row in Week 2",
+    "url": "https://animecorner.me/rezero-season-4-tops-spring-2026-rankings-for-second-time-in-a-row-in-week-2/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:28:29Z",
+    "summary": "Re:ZERO -Starting Life in Another World- Season 4 has topped the weekly Spring 2026 anime\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7615754753525291,
+    "home_score": 0.6327,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fbde20b12778c9caaf796f45dd77c93e2d891290",
+    "title": "New Warhammer 40,000: Dark Heresy and Rogue Trader Companions Shown",
+    "url": "https://rpgamer.com/2026/04/new-warhammer-40000-dark-heresy-and-rogue-trader-companions-shown/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-18T16:00:25Z",
+    "summary": "Owlcat Games released new trailers for Warhammer 40,000: Dark Heresy and Warhammer 40,000: Rogue Trader , showing new companions in the games",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7566437617228746,
+    "home_score": 0.6305,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4f062a62415faa9d0b14457e5ff1121d80bb9ebe",
+    "title": "Tetracast 438: Next up, Deep Down",
+    "url": "https://www.rpgsite.net/podcast/20161-tetracast-438-next-up-deep-down",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-19T00:13:11Z",
+    "summary": "In this episode, Hayes reviews Pragmata, Bryan checks out Gothic, and Josh dives into Mongil: Star Dive",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8480664260224605,
+    "home_score": 0.6291,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8b9918db389fb8602cbedad2e459c22444f5ad54",
+    "title": "Licca Frieren and Sanrio Crossover Dolls Nail the Details",
+    "url": "https://www.siliconera.com/licca-frieren-and-sanrio-crossover-dolls-nail-the-details/?utm_source=rss&utm_medium=rss&utm_campaign=licca-frieren-and-sanrio-crossover-dolls-nail-the-details",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-18T19:00:00Z",
+    "summary": "The Licca Frieren, Kuromi, and My Melody dolls all are such detailed collectibles, and there\u2019s so much work put into their outfits",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7887607435871481,
+    "home_score": 0.6279,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "aeac84df4285e548a5b5717679a377c3ebcb0cd8",
@@ -804,8 +919,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8424954981076118,
-    "home_score": 0.6491,
+    "freshness_score": 0.7794372266696706,
+    "home_score": 0.6207,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -841,8 +956,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8890257628523408,
-    "home_score": 0.6476,
+    "freshness_score": 0.8224848560104976,
+    "home_score": 0.6176,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -867,8 +982,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8377050979906281,
-    "home_score": 0.6455,
+    "freshness_score": 0.7750053720656146,
+    "home_score": 0.6173,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -893,8 +1008,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8385068911549444,
-    "home_score": 0.6383,
+    "freshness_score": 0.7757471648407259,
+    "home_score": 0.6101,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
@@ -928,35 +1043,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8177789369790304,
-    "home_score": 0.6365,
+    "freshness_score": 0.756570624656397,
+    "home_score": 0.609,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "76bfdf22a34742a8965e4130f93e43474e44cea9",
-    "title": "TOKYOPOP Launches Redesigned Website With Updated Features and Rewards Program",
-    "url": "https://animecorner.me/tokyopop-launches-redesigned-website-with-updated-features-and-rewards-program/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T15:08:39Z",
-    "summary": "TOKYOPOP has launched a redesigned version of its official website, introducing a new layout\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8081159137953781,
-    "home_score": 0.6337,
-    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -982,8 +1071,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986542600606,
-    "home_score": 0.6269,
+    "freshness_score": 0.5128110804021357,
+    "home_score": 0.6083,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1020,8 +1109,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986490955882,
-    "home_score": 0.6269,
+    "freshness_score": 0.5128110752364347,
+    "home_score": 0.6083,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1058,8 +1147,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986482872361,
-    "home_score": 0.6269,
+    "freshness_score": 0.5128110744470379,
+    "home_score": 0.6083,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1087,8 +1176,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986465657452,
-    "home_score": 0.6269,
+    "freshness_score": 0.5128110727277754,
+    "home_score": 0.6083,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1117,8 +1206,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986398530005,
-    "home_score": 0.6269,
+    "freshness_score": 0.5128110659219496,
+    "home_score": 0.6083,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1158,8 +1247,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986389420005,
-    "home_score": 0.6269,
+    "freshness_score": 0.5128110649881269,
+    "home_score": 0.6083,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1197,8 +1286,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986380010614,
-    "home_score": 0.6269,
+    "freshness_score": 0.5128110640859593,
+    "home_score": 0.6083,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1212,32 +1301,6 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "1a1be936488d255168d2bd0573e2888d4e293dce",
-    "title": "Review: Dosa Divas Disappoints",
-    "url": "https://www.siliconera.com/review-dosa-divas-disappoints/?utm_source=rss&utm_medium=rss&utm_campaign=review-dosa-divas-disappoints",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-18T13:00:00Z",
-    "summary": "Some narrative and battle system decisions mean Dosa Diva doesn\u2019t feel as unique, touching, and exciting as past Outerloop games",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7844052740511447,
-    "home_score": 0.626,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
   },
   {
     "id": "aebf003ccdc7bfe1549d829eaa29fc18b6991324",
@@ -1261,8 +1324,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.554298644846393,
-    "home_score": 0.6254,
+    "freshness_score": 0.5128110709511383,
+    "home_score": 0.6068,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1299,8 +1362,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986441342733,
-    "home_score": 0.6254,
+    "freshness_score": 0.5128110702131811,
+    "home_score": 0.6068,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1327,8 +1390,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.554298643244658,
-    "home_score": 0.6254,
+    "freshness_score": 0.51281106927738,
+    "home_score": 0.6068,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1367,8 +1430,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5542986415573833,
-    "home_score": 0.6254,
+    "freshness_score": 0.5128110675660313,
+    "home_score": 0.6068,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1384,27 +1447,53 @@
     "result_type": "source_page"
   },
   {
-    "id": "50296df2247b0072d4da10ee319439d7476baea7",
-    "title": "Final Fantasy 14 Beastmaster Job Release Date Confirmed - games.gg",
-    "url": "https://games.gg/news/ff14-beastmaster-job-release-date/",
-    "source_name": "Google News JRPG",
+    "id": "76bfdf22a34742a8965e4130f93e43474e44cea9",
+    "title": "TOKYOPOP Launches Redesigned Website With Updated Features and Rewards Program",
+    "url": "https://animecorner.me/tokyopop-launches-redesigned-website-with-updated-features-and-rewards-program/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-04-18T13:20:18Z",
-    "summary": "Final Fantasy 14 Beastmaster Job Release Date Confirmed games",
+    "published_at": "2026-04-18T15:08:39Z",
+    "summary": "TOKYOPOP has launched a redesigned version of its official website, introducing a new layout\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7476308512287193,
+    "home_score": 0.6064,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1a1be936488d255168d2bd0573e2888d4e293dce",
+    "title": "Review: Dosa Divas Disappoints",
+    "url": "https://www.siliconera.com/review-dosa-divas-disappoints/?utm_source=rss&utm_medium=rss&utm_campaign=review-dosa-divas-disappoints",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-18T13:00:00Z",
+    "summary": "Some narrative and battle system decisions mean Dosa Diva doesn\u2019t feel as unique, touching, and exciting as past Outerloop games",
     "content": "",
     "categories": [
       "games",
+      "anime",
+      "merch",
       "events"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.788099437253506,
-    "home_score": 0.6186,
-    "source_quality": 0.76,
+    "freshness_score": 0.7256949153339424,
+    "home_score": 0.5996,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1427,8 +1516,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7743800376017836,
-    "home_score": 0.6185,
+    "freshness_score": 0.7164200044995034,
+    "home_score": 0.5924,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1452,10 +1541,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7701611614164797,
-    "home_score": 0.6166,
+    "freshness_score": 0.7125168985061388,
+    "home_score": 0.5906,
     "source_quality": 0.8,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "74ebb764b5ddf6313c259d42b4f06c3edf6d05ce",
+    "title": "FalleN to retire in 2026, ending a 20-year Counter-Strike career",
+    "url": "https://esports.gg/news/counter-strike-2/fallen-official-retirement/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-18T10:25:28Z",
+    "summary": "The announcement was made during the IEM Rio 2026 playoffs",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7001940729877919,
+    "home_score": 0.5871,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1480,36 +1595,10 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8170534591478157,
-    "home_score": 0.6137,
+    "freshness_score": 0.7558994509301126,
+    "home_score": 0.5862,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "74ebb764b5ddf6313c259d42b4f06c3edf6d05ce",
-    "title": "FalleN to retire in 2026, ending a 20-year Counter-Strike career",
-    "url": "https://esports.gg/news/counter-strike-2/fallen-official-retirement/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-18T10:25:28Z",
-    "summary": "The announcement was made during the IEM Rio 2026 playoffs",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7568413983566731,
-    "home_score": 0.6126,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1533,8 +1622,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7250110494361772,
-    "home_score": 0.6103,
+    "freshness_score": 0.6707461307673329,
+    "home_score": 0.5858,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -1547,30 +1636,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "eb0a6cea13dab66b082aa5b176b832a40eaa33b8",
-    "title": "MMO QSR Meal Collaborations - Trend Hunter",
-    "url": "https://www.trendhunter.com/trends/jollibee-x-final-fantasy-xiv-online",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-18T14:42:33Z",
-    "summary": "MMO QSR Meal Collaborations - Trend Hunter",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8032480916532354,
-    "home_score": 0.6075,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1593,38 +1658,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6998423335252653,
-    "home_score": 0.6019,
+    "freshness_score": 0.6474612359321071,
+    "home_score": 0.5784,
     "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "098b5e3f71c364c1cd38b908d7788fe72abc556c",
-    "title": "\u2018Street Fighter\u2019 Movie Unleashes Campy Video Game Action With First Trailer",
-    "url": "https://geekculture.co/street-fighter-movie-unleashes-campy-video-game-action-with-first-trailer/",
-    "source_name": "Geek Culture",
-    "source_type": "rss",
-    "published_at": "2026-04-17T03:49:31Z",
-    "summary": "\u2018Street Fighter\u2019 Movie Unleashes Campy Video Game Action With First Trailer",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.49480576744840893,
-    "home_score": 0.5927,
-    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1650,8 +1686,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6629094106285921,
-    "home_score": 0.5868,
+    "freshness_score": 0.6132926198992603,
+    "home_score": 0.5645,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1684,8 +1720,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6927265178700235,
-    "home_score": 0.5817,
+    "freshness_score": 0.6408780066954763,
+    "home_score": 0.5584,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1710,8 +1746,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6852201841647874,
-    "home_score": 0.5783,
+    "freshness_score": 0.6339334995540963,
+    "home_score": 0.5553,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1735,8 +1771,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7038851418842068,
-    "home_score": 0.5777,
+    "freshness_score": 0.6512014394524461,
+    "home_score": 0.554,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -1762,8 +1798,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6388087021507675,
-    "home_score": 0.573,
+    "freshness_score": 0.5909957851829498,
+    "home_score": 0.5514,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -1788,8 +1824,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6912874829992279,
-    "home_score": 0.5721,
+    "freshness_score": 0.639546677747723,
+    "home_score": 0.5488,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -1814,8 +1850,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6706265477582001,
-    "home_score": 0.5703,
+    "freshness_score": 0.6204321524733465,
+    "home_score": 0.5477,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1841,33 +1877,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6290237909514541,
-    "home_score": 0.5686,
+    "freshness_score": 0.5819432441789792,
+    "home_score": 0.5474,
     "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "737a1b3c34f0fb8c849c0f0db41af6eff21c2e95",
-    "title": "Narrative-driven round-table RPG Sovereign Tower gets an extended demo on Steam",
-    "url": "https://www.rpgsite.net/news/20160-sovereign-tower-new-steam-demo-download-narrative-driven-round-table-rpg",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-18T06:00:30Z",
-    "summary": "Sovereign Tower will launch for PC Steam this August",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7118157845812534,
-    "home_score": 0.5678,
-    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
