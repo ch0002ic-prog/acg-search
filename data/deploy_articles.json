@@ -1,390 +1,32 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "8d3d53faf0cda41ed17d7be8ba79834cccda0138",
+    "title": "Disgaea Director Yoshitsuna Kobayashi Returns With New Shooting RPG \u2018Cosmicgalaxywars\u2019 on Steam; It\u2019s No Disgaea, but It\u2019s Definitely a Game",
+    "url": "https://noisypixel.net/cosmicgalaxywars-steam-yoshitsuna-kobayashi-return/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-20T16:32:54Z",
+    "summary": "CosmicGalaxyWars is now available on PC via Steam, but the bigger headline is the return of Yoshitsuna Kobayashi, the director behind Disgaea: Hour of Darkness",
     "content": "",
     "categories": [
-      "events",
       "games",
-      "esports"
+      "anime",
+      "merch"
     ],
     "tags": [
-      "singapore",
-      "mlbb"
+      "singapore"
     ],
-    "entity_tags": [
-      "MLBB"
-    ],
+    "entity_tags": [],
     "region_tags": [
       "Singapore"
     ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9766840740160876,
+    "home_score": 0.8135,
+    "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "6526f768f3933756e64cdd96d57afee1fdd7e747",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537008615",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-04-22T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "22 Apr 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537008615",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "97f9efcd52156af6ced5936095589ad8dc0ed2af",
-    "title": "Celestial Showdown RDO Regionals - Grand Archive TCG 2026",
-    "url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-02T00:00:00Z",
-    "summary": "An exclusive event where one will be able to test their limits in the ultimate showdown of Grand Archive TCG! Venue: Nanyang Technological University (one-north)",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181516731%2F1240882213933%2F1%2Foriginal.20260406-165156?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.576&fp-y=0.551&s=16507ff9ed9ca88c59d6a0b144a7942c",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "2 May 2026",
-      "venue": "Nanyang Technological University (one-north)",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "44e0d0e2637c3945c47bb1536a066f217557f72e",
-    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 5-12",
-    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "681691",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "11e3a7c864980a3ae9137aae53fdd89a7b3bb94a",
-    "title": "Playtest Party Indie Games in the Making",
-    "url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Playtest indie games in development, meet local devs, share feedback, and connect with fellow game lovers in Singapore! Venue: Toa Payoh Public Library",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180051244%2F2858659952031%2F1%2Foriginal.20260317-153740?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=87f2c313b968739a02f577230ca29320",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "Toa Payoh Public Library",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "162a547e04890fd515e45aecdcd149216e398004",
@@ -408,11 +50,47 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9188787551088352,
-    "home_score": 0.7835,
+    "freshness_score": 0.845786049258237,
+    "home_score": 0.7506,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "56e61c8354708224e96143288d2da8a189a6e528",
+    "title": "Beast of Reincarnation Starts Pre-Orders with New Trailer",
+    "url": "https://rpgamer.com/2026/04/beast-of-reincarnation-starts-pre-orders-with-new-trailer/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-20T18:03:37Z",
+    "summary": "Publisher Fictions and developer Game Freak announced that pre-orders have begun for action RPG Beast of Reincarnation",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9974105192182022,
+    "home_score": 0.7388,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "August 4, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
     "result_type": "article"
   },
   {
@@ -438,8 +116,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.7444208965211093,
-    "home_score": 0.75,
+    "freshness_score": 0.6852054572758228,
+    "home_score": 0.7233,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -455,13 +133,447 @@
     "result_type": "article"
   },
   {
+    "id": "f4874e29c43c19d9474b4dd2b34341fbfa42031e",
+    "title": "Nioh 3 Free Update Adds Battle Scrolls Side Missions and Rewards",
+    "url": "https://www.siliconera.com/nioh-3-free-update-adds-battle-scrolls-side-missions-and-rewards/?utm_source=rss&utm_medium=rss&utm_campaign=nioh-3-free-update-adds-battle-scrolls-side-missions-and-rewards",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-20T18:00:00Z",
+    "summary": "Next week, Nioh 3 will get a free update to enhance the endgame with more Battle Scrolls side missions and rewards tied to them",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9965760611732644,
+    "home_score": 0.7215,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "acb5fe73b5299fdf168a4edee47b21598099f2a3",
+    "title": "Manafinder II Announced",
+    "url": "https://rpgamer.com/2026/04/manafinder-ii-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-20T18:04:09Z",
+    "summary": "Developer Wolfsden LLC announced Manafinder II , a follow-up to party-based RPG Manafinder",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.997533668077099,
+    "home_score": 0.7189,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4fa058bade6cc429681eb09f2a5a9b08f01c5261",
+    "title": "GEEK+POP and RESBAK: Card Collectibles and Fighting Games Convention Arrives in the Philippines This May",
+    "url": "https://animecorner.me/geekpop-and-resbak-card-collectibles-and-fighting-games-convention-arrives-in-the-philippines-this-may/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-20T17:29:46Z",
+    "summary": "GEEK+POP and RESBAK: Card Collectibles and Fighting Games Convention Arrives in the Philippines This May",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9896256218914945,
+    "home_score": 0.7153,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "be0642833d66e0ce6d9ff90554bb0852930be2cb",
+    "title": "Prime 1 Studios Persona 5 Ann Figure Arrives in 2027",
+    "url": "https://www.siliconera.com/prime-1-studios-persona-5-ann-figure-will-come-out-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=prime-1-studios-persona-5-ann-figure-will-come-out-in-2027",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-20T17:00:00Z",
+    "summary": "Prime 1 Studios Persona 5 Ann Figure Arrives in 2027 is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9828304022411005,
+    "home_score": 0.7153,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "711da8f1025ae942ac2836a8e1a8f7f4c57154cf",
+    "title": "J18 Doujinshi Review: Idol Club! (KARI)",
+    "url": "https://blog.jlist.com/featured/j18-doujinshi-review-idol-club-kari/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-04-20T14:30:00Z",
+    "summary": "What\u2019s a man to do when his idol research club is being shut down because he\u2019s the only member? Jerk off",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "events",
+      "comics"
+    ],
+    "tags": [
+      "idol"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9492895857895448,
+    "home_score": 0.7142,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4d749196d7d38509df588d5d642666f87df3fe91",
+    "title": "Shadow of the Road Story Trailer Released",
+    "url": "https://rpgamer.com/2026/04/shadow-of-the-road-story-trailer-released/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-20T17:09:45Z",
+    "summary": "Owlcat Games and Another Angle Games have released a new trailer for isometric strategy RPG Shadow of the Road",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9850508852870657,
+    "home_score": 0.7133,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "46efe86591eadded83495eb788e53756b47f8b91",
+    "title": "Creature Taming RPG \u2018Monster Crown: Sin Eater\u2019 Finally Sets Launch Date on PC and Consoles; New Trailer Streaming Now",
+    "url": "https://noisypixel.net/monster-crown-sin-eater-release-date-gameplay-platforms/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-20T17:36:11Z",
+    "summary": "Monster Crown: Sin Eater is set to release digitally on April 30 for PlayStation 5, Xbox Series X|S, Nintendo Switch, and PC via Steam, publisher Red Art Games announced",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9910967502863437,
+    "home_score": 0.713,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 30",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "61af5d977912fbaa9c76d691e51a355bb0a88502",
+    "title": "Goddess of Victory: NIKKE Gets Pop Star Anis and 3.5 Anniversary Event This Week",
+    "url": "https://www.siliconera.com/goddess-of-victory-nikke-gets-pop-star-anis-and-3-5-anniversary-event-this-week/?utm_source=rss&utm_medium=rss&utm_campaign=goddess-of-victory-nikke-gets-pop-star-anis-and-3-5-anniversary-event-this-week",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-20T16:00:00Z",
+    "summary": "Goddess of Victory: NIKKE Gets Pop Star Anis and 3.5 Anniversary Event This Week",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9692743359710345,
+    "home_score": 0.7092,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6c1592080726f374b0cca87d6b0f8fd299ffb958",
+    "title": "Co-Op Extraction RPG \u2018Void Diver\u2019 Adds Raven to Steam Demo as it Nears 100K Wishlists; New Trailer Streaming Now",
+    "url": "https://noisypixel.net/void-diver-raven-steam-demo-coop-extraction-wishlist/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-20T16:21:29Z",
+    "summary": "Void Diver: Escape from the Abyss has reached 90,000 wishlists on Steam, with publisher LoadComplete and developer Studio Nemo marking the milestone by introducing a new playable c",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9741063504363865,
+    "home_score": 0.7053,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d1094baddbf69c070e870d0c80aebdb79e5ea631",
+    "title": "Best Mob Psycho 100 Episodes According to Fans",
+    "url": "https://crunchyroll.com/news/quizzes/2026/4/20/best-mob-psycho-100-episodes",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-20T16:00:00Z",
+    "summary": "Can you believe it's been 10 years since the Mob Psycho 100 anime premiered?",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9692740174118966,
+    "home_score": 0.7047,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "356beaf02fd558d70b7351eae16146b6621ffe57",
+    "title": "Okami 20th Anniversary Merchandise and Concert Announced",
+    "url": "https://www.siliconera.com/okami-20th-anniversary-merchandise-and-concert-announced/?utm_source=rss&utm_medium=rss&utm_campaign=okami-20th-anniversary-merchandise-and-concert-announced",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-20T15:00:05Z",
+    "summary": "The Japanese version of the site had exclusive reveals of the goods and events for the anniversary",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9559236864705954,
+    "home_score": 0.7032,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "8a036ab557954ed9d7df09b5246528a268851417",
+    "title": "Killed again, Mr. Detective. Anime is on the Case in Creditless Opening Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/20/killed-again-mr-detective-anime-creditless-opening-video",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-20T15:16:00Z",
+    "summary": "The supernatural mystery series is now streaming on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9594518860909114,
+    "home_score": 0.7003,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2531b90217da5d3dbec189ccb1b597f539306cd2",
+    "title": "Wisdom of Nym: Final Fantasy XIV\u2019s second 7.5 live letter, from Beastmaster to Shantotto - Massively Overpowered",
+    "url": "https://massivelyop.com/2026/04/20/wisdom-of-nym-final-fantasy-xivs-second-7-5-live-letter-from-beastmaster-to-shantotto/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T16:00:00Z",
+    "summary": "Wisdom of Nym: Final Fantasy XIV\u2019s second 7",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9692738409195292,
+    "home_score": 0.7002,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "523aa8c43a09062c682cc5bafcffa61a57357614",
+    "title": "Crunchyroll News Puzzles Vol. 51: Empty Orchestra and Left of Center",
+    "url": "https://crunchyroll.com/news/quizzes/2026/4/20/anime-crosswords-puzzles-vol-51",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-20T15:00:00Z",
+    "summary": "Test your anime knowledge with our latest puzzle collection!",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9559049321915628,
+    "home_score": 0.6987,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "534f595bb65a17a1157dff3fa850a04fdac24a44",
+    "title": "Witch Hat Atelier Anime Reveals Voice Actors for Nolnoa, Tartah",
+    "url": "https://crunchyroll.com/news/latest/2026/4/20/witch-hat-atelier-anime-reveals-voice-actors-for-nolnoa-tartah",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-20T14:56:00Z",
+    "summary": "Yoshito Yasuhara, Mutsumi Tamura join the cast",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9550202438365079,
+    "home_score": 0.6983,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "89219bb745bb991a1c8456382acd438bc4e6308e",
     "title": "Jigokuraku Season 2 Review: The Emotional Core of Hell's Paradise",
     "url": "https://animecorner.me/jigokuraku-season-2-review-the-emotional-core-of-hells-paradise/",
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-04-20T11:06:47Z",
-    "summary": "Jigokuraku Season 2 Review: The Emotional Core of Hell's Paradise",
+    "summary": "Beneath the violence, powers, and spectacle in Hell\u2019s Paradise: Jigokuraku lies something deeply human",
     "content": "",
     "categories": [
       "anime",
@@ -475,9 +587,443 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9839360702272201,
-    "home_score": 0.7328,
+    "freshness_score": 0.9056683324576652,
+    "home_score": 0.6976,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9d7dfd4f3602b21d730fb98f636be90b0935ccd3",
+    "title": "New Honkai: Nexus Anima Aspect Exploration Project Beta Test Recruitment Opens",
+    "url": "https://www.siliconera.com/new-honkai-nexus-anima-aspect-exploration-project-beta-test-recruitment-opens/?utm_source=rss&utm_medium=rss&utm_campaign=new-honkai-nexus-anima-aspect-exploration-project-beta-test-recruitment-opens",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-20T14:00:00Z",
+    "summary": "A Honkai: Nexus Anima confidential Aspect Exploration Project closed beta test will be held, and Carole Pepper looks to be among new characters",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9427205559879874,
+    "home_score": 0.6972,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9fdbfb0ad62dfcdf7afc8b38e6e5ffeccebefd2c",
+    "title": "Final Fantasy VII Board Game Ascend the Shinra Tower Announced, Launches January 2027; Artwork Overseen by Tetsuya Nomura",
+    "url": "https://noisypixel.net/ff7-board-game-ascend-shinra-tower-2027/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-20T17:54:03Z",
+    "summary": "Square Enix has announced Ascend the Shinra Tower \u2013 Final Fantasy VII Board Game, a new tabletop release based on Final Fantasy VII",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.995204220957315,
+    "home_score": 0.6968,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a2bc771658320783702b767fcffd0c62bed27612",
+    "title": "The Drops of God Anime Serves up Creditless Opening and Ending Videos",
+    "url": "https://crunchyroll.com/news/latest/2026/4/20/the-drops-of-god-anime-creditless-opening-ending-videos",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-20T14:25:00Z",
+    "summary": "The wine-centric series is now streaming on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9481916186728484,
+    "home_score": 0.6952,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9e7b26555bb1524de72d702b5b5c21ccc068ff52",
+    "title": "Dark fantasy platonic yuri visual novel Drowning Song of the Stagnant Sea launches on Steam. A scylla meets the most beautiful human she\u2019s ever seen",
+    "url": "https://automaton-media.com/en/news/dark-fantasy-platonic-yuri-visual-novel-drowning-song-of-the-stagnant-sea-launches-on-steam-a-scylla-meets-the-most-beautiful-human-shes-eve/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-04-20T14:00:00Z",
+    "summary": "Waku Waku Games and Kuso no Kobo have released the dark fairy tale visual novel Drowning Song of the Stagnant Sea",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9427203949544544,
+    "home_score": 0.6947,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fd6a147b96a3c8ab6d4aa8230c45faece520e878",
+    "title": "\"I believe we\u2019ve created a Dragon Quest experience that is highly intuitive and very easy to play on mobile.\" - Yuji Horii on Dragon Quest Smash/Grow being a gateway to the originals and more",
+    "url": "https://www.rpgsite.net/interview/20163-yuji-horii-2026-new-interview-dragon-quest-smash-grow-square-enix",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-20T16:46:31Z",
+    "summary": "Yuji Horii and the Dragon Quest Smash/Grow development team discuss why they they chose the genre, launching globally, potential collaborations, and more",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9797674631111508,
+    "home_score": 0.6944,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4593a1db2748fd6dd8d603810b6821990d80aded",
+    "title": "\u2018FINAL FANTASY XIV Online\u2019 Patch 7.5 \u201cTrail to the Heavens\u201d Lands 28 April, Jollibee Collab - playday.one",
+    "url": "https://playday.one/2026/04/20/final-fantasy-xiv-online-patch-7-5-trail-to-the-heavens-lands-28-april-jollibee-collab/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T17:31:28Z",
+    "summary": "\u2018FINAL FANTASY XIV Online\u2019 Patch 7.5 \u201cTrail to the Heavens\u201d Lands 28 April, Jollibee Collab - playday.one",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9900149128895773,
+    "home_score": 0.6915,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "28 April",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "0c685462555cd1063e509463a1f90a2ba11aaaf4",
+    "title": "Review: Vampire Crawlers Adds Wizardry RPG Elements to Vampire Survivors",
+    "url": "https://www.siliconera.com/review-vampire-crawlers-adds-wizardry-rpg-elements-to-vampire-survivors/?utm_source=rss&utm_medium=rss&utm_campaign=review-vampire-crawlers-adds-wizardry-rpg-elements-to-vampire-survivors",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-20T13:01:00Z",
+    "summary": "Vampire Crawlers offers Wizardry-like dungeon-crawling and roguelike deckbuilding without abandoning the Vampire Survivor roots The post Review: Vampire Crawlers Adds Wizardry RPG",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9299329573058085,
+    "home_score": 0.6915,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5a7f19c3f47e64d87e1c8d19a28443dae64e66c6",
+    "title": "For the second month, Square Enix has shut down a Japanese content creator for \u2018harassing\u2019 Final Fantasy 14 staff - Video Games Chronicle",
+    "url": "https://www.videogameschronicle.com/news/for-the-second-month-square-enix-has-shut-down-a-japanese-content-creator-for-harassing-final-fantasy-14-staff/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T14:28:45Z",
+    "summary": "For the second month, Square Enix has shut down a Japanese content creator for \u2018harassing\u2019 Final Fantasy 14 staff Video Games Chronicle",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9490148861244417,
+    "home_score": 0.6911,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "90529692084c4a0b0b93bd6233536427dfe67acd",
+    "title": "Nioh 3 Update Releasing Next Week",
+    "url": "https://rpgamer.com/2026/04/nioh-3-update-releasing-next-week/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-20T17:09:34Z",
+    "summary": "Koei Tecmo and Team Ninja announced that a free update will release for action RPG Nioh 3 on April 27, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9850090791021203,
+    "home_score": 0.6893,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 27, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "70632b62c94c748fcc3dc9ab88ea756995dddd37",
+    "title": "Square Enix releasing \"Ascend the Shinra Tower: A Final Fantasy VII Board Game\" in January 2027 - GoNintendo",
+    "url": "https://gonintendo.com/contents/60047-square-enix-releasing-ascend-the-shinra-tower-a-final-fantasy-vii-board-game-in",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T18:05:14Z",
+    "summary": "Square Enix releasing \"Ascend the Shinra Tower: A Final Fantasy VII Board Game\" in January 2027 GoNintendo",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.997783544121329,
+    "home_score": 0.689,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ac95d2fcff6f2517b69e40645e15337671d22463",
+    "title": "Xbox Game Pass April 2026 Wave 2 Adds Final Fantasy V, Trepang2, More",
+    "url": "https://noisypixel.net/xbox-game-pass-april-2026-wave-2-final-fantasy-v-trepang2/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-20T13:09:16Z",
+    "summary": "Microsoft has unveiled the second wave of April 2026 titles for Xbox Game Pass, alongside which titles will leave the service",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.93171398628817,
+    "home_score": 0.6863,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 21",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4c2e716b803151169e0be4bbec8af1a30b94e4e0",
+    "title": "Nioh 3 Free Update Adds New Missions and Systems on April 27",
+    "url": "https://noisypixel.net/nioh-3-free-update-april-27-new-missions-systems/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-20T12:55:37Z",
+    "summary": "Koei Tecmo and Team Ninja have announced that their samurai action RPG Nioh 3 will receive a free update on April 27, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9287746731579788,
+    "home_score": 0.6849,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 27",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "aa0d06ad59e3de684f3806a2e0b7d50ae1152f72",
+    "title": "Dragon Ball Super: Beerus Reveals \"SUPER GEKITOU\" Trailer, New Comments from Cast and Staff",
+    "url": "https://animecorner.me/dragon-ball-super-beerus-reveals-super-gekitou-trailer-new-comments-from-cast-and-staff/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-20T12:23:49Z",
+    "summary": "Dragon Ball Super: Beerus anime revealed its \"SUPER GEKITOU\" trailer during the DRAGON BALL\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9219628699092369,
+    "home_score": 0.6849,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bd2ded03ed0e28d8f016ea056a14fa1e45bb8d10",
+    "title": "Jollibee to launch Final Fantasy XIV themed meals, exclusive in-game content - QSR Web",
+    "url": "https://www.qsrweb.com/news/jollibee-to-launch-final-fantasy-xiv-themed-meals-exclusive-in-game-content/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T13:02:34Z",
+    "summary": "Jollibee to launch Final Fantasy XIV themed meals, exclusive in-game content QSR Web",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9302697809285957,
+    "home_score": 0.6826,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8b6f2d843891c2b95bf4fc1d1f799f4dde3c3e8f",
+    "title": "Final Fantasy VII is getting the board game treatment - Gamereactor UK",
+    "url": "https://www.gamereactor.eu/final-fantasy-vii-is-getting-the-board-game-treatment-1708263/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T16:52:52Z",
+    "summary": "Final Fantasy VII is getting the board game treatment Gamereactor UK",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.981208350256303,
+    "home_score": 0.6815,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -502,9 +1048,90 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9368844622520448,
-    "home_score": 0.7086,
+    "freshness_score": 0.8623595202469483,
+    "home_score": 0.6751,
     "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a57c4da162cc2534274aa815a5c94006de64b610",
+    "title": "Dragon Quest Smash/Grow Review \u2013 A Decent Mobile RPG for Series Fans",
+    "url": "https://monstervine.com/2026/04/dragon-quest-smash-grow-review/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-20T15:00:22Z",
+    "summary": "Dragon Quest Smash/Grow is a decent enough mobile game that will appeal to fans of the series who don\u2019t mind gacha elements, though the story feels a bit generic when compared to o",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "gacha"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.955985963453232,
+    "home_score": 0.6732,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "10c8525235221fc4076f744efe38d654163f605c",
+    "title": "Final Fantasy Free April Downloads Officially Unveiled By Square Enix - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-14-free-downloads-april-2026/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T15:09:21Z",
+    "summary": "Final Fantasy Free April Downloads Officially Unveiled By Square Enix ScreenRant",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9579759059529523,
+    "home_score": 0.6711,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3126d31a2300875db6613921c3d01f0a2e77bdc7",
+    "title": "Former Shueisha editor behind Chainsaw Man, Spy x Family and Dandadan announces new, independent manga platform",
+    "url": "https://automaton-media.com/en/news/former-shueisha-editor-behind-chainsaw-man-spy-x-family-and-dandadan-announces-new-independent-manga-platform/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-04-20T13:00:00Z",
+    "summary": "Shihei Lin's company, Mix Green is launching its own manga editorial department and has opened submissions for manuscripts",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9297175611079922,
+    "home_score": 0.6689,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -527,8 +1154,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9663148905994218,
-    "home_score": 0.7018,
+    "freshness_score": 0.8894488905386956,
+    "home_score": 0.6673,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -553,9 +1180,104 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9619706763584551,
-    "home_score": 0.7014,
+    "freshness_score": 0.8854501134216556,
+    "home_score": 0.667,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c5995fc4a7e84d8bebd55e4c210a820f21bf9705",
+    "title": "HoYo FEST 2026 official Singapore event details and creator activity call via HoYoLAB",
+    "url": "https://www.hoyolab.com/article/44248740",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official HoYoLAB announcement for HoYo FEST 2026 covering Singapore dates of 31 July to 2 August 2026 at Suntec Singapore Convention & Exhibition Centre Hall 403, alongside artist",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "gacha"
+    ],
+    "tags": [
+      "singapore",
+      "hoyofest"
+    ],
+    "entity_tags": [
+      "HoyoFest Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.97,
+    "freshness_score": 0.3373065487199688,
+    "home_score": 0.6643,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": "31 July",
+      "venue": "Suntec Singapore Convention & Exhibition Centre",
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Lineup details mentioned",
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "27b1505ea2ae4392b5bd4154a56ffeca70ad4b52",
+    "title": "Square Enix Reached a Blogger Through the Courts Who Criticized the Company Over Final Fantasy XIV - ixbt.games",
+    "url": "https://ixbt.games/en/news/2026/04/20/410690-square-enix-dobralas-cherez-sud-do-blogera-kritikovavshego-kompaniiu-iz-za-final-fantasy-xiv.html",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T14:00:04Z",
+    "summary": "Square Enix Reached a Blogger Through the Courts Who Criticized the Company Over Final Fantasy XIV ixbt",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9427346157661002,
+    "home_score": 0.6642,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c25c2969be97c9806ec38647c2e6c06f06b57e0a",
+    "title": "Coming to Xbox Game Pass: Kiln, Aphelion, Final Fantasy V, and More - Xbox",
+    "url": "https://news.xbox.com/en-us/2026/04/20/xbox-game-pass-april-2026-wave-2/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T13:03:12Z",
+    "summary": "Coming to Xbox Game Pass: Kiln, Aphelion, Final Fantasy V, and More Xbox",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9304061826899815,
+    "home_score": 0.6587,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -578,8 +1300,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9908120392614254,
-    "home_score": 0.6934,
+    "freshness_score": 0.9119972664878301,
+    "home_score": 0.6579,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -615,288 +1337,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8862991731790274,
-    "home_score": 0.6858,
+    "freshness_score": 0.815798063216862,
+    "home_score": 0.6541,
     "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d6040ff7d4e54ae6870bba285b5380edc7ea84a2",
-    "title": "Square Enix takes action against Final Fantasy 14 video content creator over harassment of employees following shutdown of defamatory news blog",
-    "url": "https://automaton-media.com/en/news/square-enix-takes-action-against-final-fantasy-14-video-content-creator-over-harassment-of-employees-following-shutdown-of-defamatory-news-blog/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-04-20T06:10:06Z",
-    "summary": "The two parties reached an amicable settlement, with the video creator paying an undisclosed sum as compensation to Square Enix",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9186309184197567,
-    "home_score": 0.6819,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "808a071ffe2d38d09c7a816505c44ad9d46a5759",
-    "title": "Dragon Ball Xenoverse 3 to Take Players to the Future in 2027",
-    "url": "https://anitrendz.net/news/2026/04/19/dragon-ball-xenoverse-3-to-take-players-to-the-future-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=dragon-ball-xenoverse-3-to-take-players-to-the-future-in-2027",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-20T06:09:33Z",
-    "summary": "The Dragon Ball Xenoverse fighting game/RPG series is getting a third installment, which will launch on PlayStation 5, Xbox Series X/S, and Steam in 2027 and features a future sett",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9185136130949321,
-    "home_score": 0.6803,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c5995fc4a7e84d8bebd55e4c210a820f21bf9705",
-    "title": "HoYo FEST 2026 official Singapore event details and creator activity call via HoYoLAB",
-    "url": "https://www.hoyolab.com/article/44248740",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official HoYoLAB announcement for HoYo FEST 2026 covering Singapore dates of 31 July to 2 August 2026 at Suntec Singapore Convention & Exhibition Centre Hall 403, alongside artist",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyofest"
-    ],
-    "entity_tags": [
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.97,
-    "freshness_score": 0.3664565636145487,
-    "home_score": 0.6774,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "31 July",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Lineup details mentioned",
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "source_page"
-  },
-  {
-    "id": "cd0e1e74503d31344c8738d7036cb85543368f0b",
-    "title": "Here Are All the Dragon Ball Games Battle Hour 2026 Announcements",
-    "url": "https://www.siliconera.com/here-are-all-the-dragon-ball-games-battle-hour-2026-announcements/?utm_source=rss&utm_medium=rss&utm_campaign=here-are-all-the-dragon-ball-games-battle-hour-2026-announcements",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-20T04:17:44Z",
-    "summary": "Here are all the announcements for Bandai Namco Dragon Ball games and the latest DBS Beerus anime reveals from Battle Hour 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8950448236143833,
-    "home_score": 0.6758,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "272084476bbc7b3ac9a072e86922c81ef012ad58",
-    "title": "New Game Project Age 1000 Is Dragon Ball Xenoverse 3",
-    "url": "https://www.siliconera.com/new-game-project-age-1000-is-dragon-ball-xenoverse-3/?utm_source=rss&utm_medium=rss&utm_campaign=new-game-project-age-1000-is-dragon-ball-xenoverse-3",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-20T03:46:32Z",
-    "summary": "Dragon Ball Xenoverse 3 arrives next year, and the last Dragon Ball Xenoverse 2 DLC appears later in 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8886038964958924,
-    "home_score": 0.6729,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "048cab0fb068b2f1a808146c46c7c45171a989b7",
-    "title": "Buying a Classmate Once a Week Yuri Light Novels to Get English Release in October 2026",
-    "url": "https://anitrendz.net/news/2026/04/19/buying-a-classmate-once-a-week-yuri-light-novels-to-get-english-release-in-october-2026/?utm_source=rss&utm_medium=rss&utm_campaign=buying-a-classmate-once-a-week-yuri-light-novels-to-get-english-release-in-october-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-20T04:09:19Z",
-    "summary": "The Shu ni Ichido Classmate o Kau Hanashi yuri light novel series will debut in English this October with the title Buying a Classmate Once a Week",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8933021997081556,
-    "home_score": 0.669,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "93f1c71989e4a96dc1d4243a16318b530d3fde8f",
-    "title": "Best Selling Manga In The US: March 2026",
-    "url": "https://animehunch.com/best-selling-manga-in-the-us-march-2026/",
-    "source_name": "Anime Hunch",
-    "source_type": "rss",
-    "published_at": "2026-04-20T08:13:45Z",
-    "summary": "The NPD BookScan released its Top 20 best-selling adult graphic novels in the United States for March 2026, with 19 of the 20 spots occupied by manga volumes and one spot by Solo L",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9453042147270647,
-    "home_score": 0.6684,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7445dae723b59a3b05458b9934847416d951f8b3",
-    "title": "Go For It, Nakamura-kun!! Anime Reveals Reiko Aokiyama Casting",
-    "url": "https://crunchyroll.com/news/latest/2026/4/20/go-for-it-nakamura-kun-anime-reiko-aokiyama-cast",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-20T03:29:00Z",
-    "summary": "Go For It, Nakamura-kun!! Anime Reveals Reiko Aokiyama Casting",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8850043182578015,
-    "home_score": 0.6668,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "673665a52f801cc8844c467da5d152fe5799e679",
-    "title": "Dragon Ball Super: Beerus\u2019 New Trailer Shows Off More Action, Teases Frieza",
-    "url": "https://anitrendz.net/news/2026/04/19/dragon-ball-super-beerus-new-trailer-shows-off-more-action-teases-frieza/?utm_source=rss&utm_medium=rss&utm_campaign=dragon-ball-super-beerus-new-trailer-shows-off-more-action-teases-frieza",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-20T03:28:43Z",
-    "summary": "The upcoming Dragon Ball Super: Beerus anime has received a new look in the form of a \u201cSUPER GEKITOU\u201d trailer",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8849461376202581,
-    "home_score": 0.6652,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c51834d6c36ab125a0f475f2456609869b8b5e3f",
-    "title": "Yowayowa Sensei \u2014 Episode 1",
-    "url": "https://www.animefeminist.com/yowayowa-sensei-episode-1/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-04-20T04:15:00Z",
-    "summary": "Spring delivers its worst with a romantic comedy where clumsy teacher meets pupil supporter and the world's most uncomfortable hijinks ensue",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8944783078058118,
-    "home_score": 0.6635,
-    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -927,8 +1370,8 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 0.3664565642182407,
-    "home_score": 0.6624,
+    "freshness_score": 0.337306549269133,
+    "home_score": 0.6493,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -944,13 +1387,173 @@
     "result_type": "source_page"
   },
   {
-    "id": "d1d099ee73ad6bb637abb9fde4b1f9db27cabdd2",
-    "title": "Spira Spica Releases The Classroom of the Black Cat and a Witch Anime Ending Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/4/20/the-classroom-of-the-black-cat-and-a-witch-anime-ending-song-music-video-spira-spica",
+    "id": "d6040ff7d4e54ae6870bba285b5380edc7ea84a2",
+    "title": "Square Enix takes action against Final Fantasy 14 video content creator over harassment of employees following shutdown of defamatory news blog",
+    "url": "https://automaton-media.com/en/news/square-enix-takes-action-against-final-fantasy-14-video-content-creator-over-harassment-of-employees-following-shutdown-of-defamatory-news-blog/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-04-20T06:10:06Z",
+    "summary": "The two parties reached an amicable settlement, with the video creator paying an undisclosed sum as compensation to Square Enix",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.845557843803942,
+    "home_score": 0.649,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "808a071ffe2d38d09c7a816505c44ad9d46a5759",
+    "title": "Dragon Ball Xenoverse 3 to Take Players to the Future in 2027",
+    "url": "https://anitrendz.net/news/2026/04/19/dragon-ball-xenoverse-3-to-take-players-to-the-future-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=dragon-ball-xenoverse-3-to-take-players-to-the-future-in-2027",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-20T06:09:33Z",
+    "summary": "The Dragon Ball Xenoverse fighting game/RPG series is getting a third installment, which will launch on PlayStation 5, Xbox Series X/S, and Steam in 2027 and features a future sett",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.845449989474942,
+    "home_score": 0.6475,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "cd0e1e74503d31344c8738d7036cb85543368f0b",
+    "title": "Here Are All the Dragon Ball Games Battle Hour 2026 Announcements",
+    "url": "https://www.siliconera.com/here-are-all-the-dragon-ball-games-battle-hour-2026-announcements/?utm_source=rss&utm_medium=rss&utm_campaign=here-are-all-the-dragon-ball-games-battle-hour-2026-announcements",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-20T04:17:44Z",
+    "summary": "Here are all the announcements for Bandai Namco Dragon Ball games and the latest DBS Beerus anime reveals from Battle Hour 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8238479200384415,
+    "home_score": 0.6437,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "73b7b81b6c4abe9f8a93e575158f1212a8a79ead",
+    "title": "Level Up Your Meal: Jollibee, Final Fantasy XIV Launch Collaboration 04/20/2026 - MediaPost",
+    "url": "https://www.mediapost.com/publications/article/414412/level-up-your-meal-jollibee-final-fantasy-xiv-la.html",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-20T09:12:07Z",
+    "summary": "Level Up Your Meal: Jollibee, Final Fantasy XIV Launch Collaboration 04/20/2026 MediaPost",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8819450327649834,
+    "home_score": 0.6429,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "272084476bbc7b3ac9a072e86922c81ef012ad58",
+    "title": "New Game Project Age 1000 Is Dragon Ball Xenoverse 3",
+    "url": "https://www.siliconera.com/new-game-project-age-1000-is-dragon-ball-xenoverse-3/?utm_source=rss&utm_medium=rss&utm_campaign=new-game-project-age-1000-is-dragon-ball-xenoverse-3",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-20T03:46:32Z",
+    "summary": "Dragon Ball Xenoverse 3 arrives next year, and the last Dragon Ball Xenoverse 2 DLC appears later in 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8179193406206196,
+    "home_score": 0.6411,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "048cab0fb068b2f1a808146c46c7c45171a989b7",
+    "title": "Buying a Classmate Once a Week Yuri Light Novels to Get English Release in October 2026",
+    "url": "https://anitrendz.net/news/2026/04/19/buying-a-classmate-once-a-week-yuri-light-novels-to-get-english-release-in-october-2026/?utm_source=rss&utm_medium=rss&utm_campaign=buying-a-classmate-once-a-week-yuri-light-novels-to-get-english-release-in-october-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-20T04:09:19Z",
+    "summary": "The Shu ni Ichido Classmate o Kau Hanashi yuri light novel series will debut in English this October with the title Buying a Classmate Once a Week",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8222440305413651,
+    "home_score": 0.637,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7445dae723b59a3b05458b9934847416d951f8b3",
+    "title": "Go For It, Nakamura-kun!! Anime Reveals Reiko Aokiyama Casting",
+    "url": "https://crunchyroll.com/news/latest/2026/4/20/go-for-it-nakamura-kun-anime-reiko-aokiyama-cast",
     "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-04-20T02:27:00Z",
-    "summary": "Crunchyroll now streams the school fantasy series",
+    "published_at": "2026-04-20T03:29:00Z",
+    "summary": "Go For It, Nakamura-kun!! Anime Reveals Reiko Aokiyama Casting",
     "content": "",
     "categories": [
       "anime",
@@ -962,97 +1565,62 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8723935768086379,
-    "home_score": 0.6611,
+    "freshness_score": 0.8146061610065848,
+    "home_score": 0.6351,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "7a4c3fdfeb6b08e7e5771a94ebbc17c7c79b4a60",
-    "title": "Final Fantasy XIV Online - Patch 7.5: Trail to the Heavens Trailer (PS5 & PS4) - Gamereactor UK",
-    "url": "https://www.gamereactor.eu/video/801413/Final+Fantasy+XIV+Online+-+Patch+75+Trail+to+the+Heavens+Trailer+PS5+PS4/",
-    "source_name": "Google News JRPG",
+    "id": "93f1c71989e4a96dc1d4243a16318b530d3fde8f",
+    "title": "Best Selling Manga In The US: March 2026",
+    "url": "https://animehunch.com/best-selling-manga-in-the-us-march-2026/",
+    "source_name": "Anime Hunch",
     "source_type": "rss",
-    "published_at": "2026-04-20T06:01:00Z",
-    "summary": "Final Fantasy XIV Online - Patch 7.5: Trail to the Heavens Trailer (PS5 & PS4) - Gamereactor UK",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9166974159265507,
-    "home_score": 0.6525,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9e30d96d5f0af2be6a65bba6d4610d2a1e7c4505",
-    "title": "Cosmic Princess Kaguya! Anime Film Reaches 2 Billion Yen with 1 Million Ticket Sales at Japanese Box Office",
-    "url": "https://crunchyroll.com/news/latest/2026/4/20/cosmic-princess-kaguya-anime-film-2-billion-yen-1-million-ticket-sales-japan-box-office",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-20T00:38:00Z",
-    "summary": "The film has ranked in the top 10 for 8 consecutive weekends",
+    "published_at": "2026-04-20T08:13:45Z",
+    "summary": "The NPD BookScan released its Top 20 best-selling adult graphic novels in the United States for March 2026, with 19 of the 20 spots occupied by manga volumes and one spot by Solo L",
     "content": "",
     "categories": [
       "anime",
       "manga",
       "games",
-      "events",
-      "merch"
+      "comics"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8506571676601131,
-    "home_score": 0.6513,
-    "source_quality": 0.79,
+    "freshness_score": 0.8701094851907647,
+    "home_score": 0.6345,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "8c945a3a0286858c650325520535196f4ee56813",
-    "title": "Famitsu\u2019s most wanted games \u2013 April 19, 2026",
-    "url": "https://nintendoeverything.com/famitsus-most-wanted-games-april-19-2026/",
-    "source_name": "Nintendo Everything",
+    "id": "673665a52f801cc8844c467da5d152fe5799e679",
+    "title": "Dragon Ball Super: Beerus\u2019 New Trailer Shows Off More Action, Teases Frieza",
+    "url": "https://anitrendz.net/news/2026/04/19/dragon-ball-super-beerus-new-trailer-shows-off-more-action-teases-frieza/?utm_source=rss&utm_medium=rss&utm_campaign=dragon-ball-super-beerus-new-trailer-shows-off-more-action-teases-frieza",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-04-20T03:50:47Z",
-    "summary": "It\u2019s time for the latest Famitsu\u2019s most wanted games chart outlining what Japanese gamers are looking forward to based on reader votes",
+    "published_at": "2026-04-20T03:28:43Z",
+    "summary": "The upcoming Dragon Ball Super: Beerus anime has received a new look in the form of a \u201cSUPER GEKITOU\u201d trailer",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch"
+      "manga",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8894783662412135,
-    "home_score": 0.6478,
-    "source_quality": 0.77,
+    "freshness_score": 0.8145526555373037,
+    "home_score": 0.6335,
+    "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 19, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1082,8 +1650,8 @@
       "SEA"
     ],
     "sg_relevance": 0.84,
-    "freshness_score": 0.36645656536341736,
-    "home_score": 0.6449,
+    "freshness_score": 0.3373065502776692,
+    "home_score": 0.6318,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1097,6 +1665,57 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "c51834d6c36ab125a0f475f2456609869b8b5e3f",
+    "title": "Yowayowa Sensei \u2014 Episode 1",
+    "url": "https://www.animefeminist.com/yowayowa-sensei-episode-1/",
+    "source_name": "Anime Feminist",
+    "source_type": "rss",
+    "published_at": "2026-04-20T04:15:00Z",
+    "summary": "Spring delivers its worst with a romantic comedy where clumsy teacher meets pupil supporter and the world's most uncomfortable hijinks ensue",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8233265492436412,
+    "home_score": 0.6315,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d1d099ee73ad6bb637abb9fde4b1f9db27cabdd2",
+    "title": "Spira Spica Releases The Classroom of the Black Cat and a Witch Anime Ending Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/20/the-classroom-of-the-black-cat-and-a-witch-anime-ending-song-music-video-spira-spica",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-20T02:27:00Z",
+    "summary": "Crunchyroll now streams the school fantasy series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8029985479659345,
+    "home_score": 0.6298,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "abd714046df029da85b0a86bf2d141fc3c9fb4b8",
@@ -1124,8 +1743,8 @@
       "SEA"
     ],
     "sg_relevance": 0.83,
-    "freshness_score": 0.3664565630292362,
-    "home_score": 0.6424,
+    "freshness_score": 0.3373065481929274,
+    "home_score": 0.6293,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1139,728 +1758,5 @@
       "merch_status": null
     },
     "result_type": "source_page"
-  },
-  {
-    "id": "4adc4f4018f6aac8e71fb1959a9b44c86099e3e4",
-    "title": "Dragon Ball Super: Beerus Anime Releases New \"SUPER GEKITOU\" Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/4/19/dragon-ball-super-beerus-anime-new-super-gekitou-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-19T22:49:00Z",
-    "summary": "The \"enhanced\" Dragon Ball Super series is scheduled to broadcast in fall 2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8294623390714088,
-    "home_score": 0.6418,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "abae45d5724a562217314ba6e9a7a61d4159f0a4",
-    "title": "Mission: Yozakura Family Season 2 Anime Adds Yume Miyamoto to Cast",
-    "url": "https://crunchyroll.com/news/latest/2026/4/19/mission-yozakura-family-season-2-anime-adds-yume-miyamoto-to-cast",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-19T18:26:00Z",
-    "summary": "Usa will make her first appearance in episode 30",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7804713842831489,
-    "home_score": 0.6397,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "982102fe39e9d42efd86a2b5d1fe4d4e366336d3",
-    "title": "10 Dumbest Final Fantasy Moments Of All Time - ScreenRant",
-    "url": "https://screenrant.com/final-fantasy-dumbest-moments-all-time/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-20T03:00:00Z",
-    "summary": "10 Dumbest Final Fantasy Moments Of All Time ScreenRant",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8790829880357584,
-    "home_score": 0.6356,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7ca1414944a347a7c7c7108fdb7dc969e4860365",
-    "title": "Elden Ring Manga Volume 8 Jumps Between Questlines",
-    "url": "https://www.siliconera.com/elden-ring-manga-volume-8-jumps-between-questlines/?utm_source=rss&utm_medium=rss&utm_campaign=elden-ring-manga-volume-8-jumps-between-questlines",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-19T19:00:00Z",
-    "summary": "The eighth volume of the Elden Ring manga jumps around a lot, and so feels like Aseo is a player hopping between sidequests",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7866385427836879,
-    "home_score": 0.627,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3a5b001651bfd957c868d7529b5e8b62ee07e223",
-    "title": "Shadow of the Road Gets a New Story Overview Trailer",
-    "url": "https://monstervine.com/2026/04/shadow-of-the-road-story-overview-trailer-2026/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-04-19T20:58:41Z",
-    "summary": "Another Angle Games and Owlcat Games have released a new story overview trailer for Shadow of the Road, offering a closer look at the tactical RPG\u2019s alternate take on 19th-century",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8085489939702782,
-    "home_score": 0.6248,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "be548df231c800d4cb38b4b2ce04c4b9c4344b4b",
-    "title": "Owlcat Reveals New Companions for Dark Heresy and Rogue Trader",
-    "url": "https://monstervine.com/2026/04/owlcat-warhammer-40000-dark-heresy-rogue-trader-new-companions/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-04-19T23:28:39Z",
-    "summary": "Owlcat Games has released two new character trailers spotlighting upcoming companions in Warhammer 40,000: Dark Heresy and Warhammer 40,000: Rogue Trader",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8371102516025617,
-    "home_score": 0.6197,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "049c868728f212eed839471d0c8b9a57532160e0",
-    "title": "10 Best PS1 RPGs That Aren't Final Fantasy - Comic Book Resources",
-    "url": "https://www.cbr.com/best-ps1-rpgs-not-final-fantasy-list/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-19T23:29:05Z",
-    "summary": "10 Best PS1 RPGs That Aren't Final Fantasy Comic Book Resources",
-    "content": "",
-    "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8371941456021466,
-    "home_score": 0.6167,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "201df26f9fb88cb675f6d58f75ca8eec0243e13d",
-    "title": "Dragon Ball Super: Beerus Trailer Revealed, Super: Resurrection F Seemingly Teased",
-    "url": "https://noisypixel.net/dragon-ball-super-beerus-trailer-resurrection-f-teased/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-19T21:30:29Z",
-    "summary": "Toei Animation has unveiled a new trailer for the upcoming Dragon Ball Super: Beerus anime series, which is planned to premiere in Fall 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8145230987514342,
-    "home_score": 0.6155,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3c68dcd7f1af026489aed3a9845f9750fc9ba988",
-    "title": "Vitality defeat Spirit and win IEM Rio 2026, extend their phenomenal streak",
-    "url": "https://esports.gg/news/counter-strike-2/winners-iem-rio-2026-tournament-overview/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-19T13:30:22Z",
-    "summary": "Reaching the grand final is already a wonderful progress for Team Spirit in 2026",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7288473882488204,
-    "home_score": 0.612,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "b70bcca715264569fdaa3491d71d20ea55de94d5",
-    "title": "RPGamer Round-Up: April 12 \u2013 April 19",
-    "url": "https://rpgamer.com/2026/04/rpgamer-round-up-april-12-april-19-2/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-19T15:02:13Z",
-    "summary": "Welcome to the latest edition of RPGamer's round-up column, where we look back at some of the articles that we have posted over the intervening period",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "gacha",
-      "merch"
-    ],
-    "tags": [
-      "jrpg",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.74450994845235,
-    "home_score": 0.605,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 12",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Diana"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "bb3208ecc299d9ee17064b762f6b54ac04172453",
-    "title": "Neverness to Everness Gets Pre-Launch Trailer, Music Collaborations Announced",
-    "url": "https://rpgamer.com/2026/04/neverness-to-everness-gets-pre-launch-trailer-music-collaborations-announced/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-19T15:02:05Z",
-    "summary": "Perfect World Games and Hotta Studio held a pre-launch event for free-to-play action RPG Neverness to Everness",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7444869590639176,
-    "home_score": 0.605,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 29, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "f19a3126646ec0f082f80eefd6ca90046a0bd18a",
-    "title": "Echoes of Elysium Update Overhauls Introduction, Adds Glider Progression",
-    "url": "https://rpgamer.com/2026/04/echoes-of-elysium-update-overhauls-introduction-adds-glider-progression/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-19T15:01:12Z",
-    "summary": "Loric Games and Snail Games have released a new Steam Early Access update for airship-building open-world RPG Echoes of Elysium",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7443347371495495,
-    "home_score": 0.605,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c70fe7545ee3a4bdbb4c2390e02726c7efc7d0af",
-    "title": "Cozy Anime Corner: Treat Yourself with Mr. Villain\u2019s Day Off",
-    "url": "https://crunchyroll.com/news/features/2026/4/19/cozy-anime-corner-mr-villains-day-off",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-19T15:00:00Z",
-    "summary": "Cozy Anime Corner: Treat Yourself with Mr. Villain\u2019s Day Off",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7441278710540251,
-    "home_score": 0.6034,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b2af8cc658f1155a8163c13c935dacef1d3093d2",
-    "title": "10 Final Fantasy VII Moments that Hit Harder in the Remake",
-    "url": "https://www.dualshockers.com/final-fantasy-vii-remake-moments-that-feel-way-more-emotional-than-the-original-game/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-04-19T19:47:51Z",
-    "summary": "This list covers moments in Final Fantasy 7 Remake and Rebirth that hit the hardest emotionally",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.795399760242342,
-    "home_score": 0.6024,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/final-fantasy-7-remake-cloud-gold-saucer-tifa.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bead52a3e2860c6305d5c973de53ae84116e4eeb",
-    "title": "Everything from PGL Wallachia Season 8, a $1 million Dota 2 event",
-    "url": "https://esports.gg/news/dota-2/pgl-wallachia-season-8-details-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-19T11:00:40Z",
-    "summary": "This big Dota 2 esports tournament gathers the best teams in the world for intense competition in the PGL Studio",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7040233939121524,
-    "home_score": 0.6008,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "29a45cd8eb342362f758e333466a3231f266f1fb",
-    "title": "Review: Darwin\u2019s Paradox Is a Brief Caper",
-    "url": "https://www.siliconera.com/review-darwins-paradox-is-a-brief-caper/?utm_source=rss&utm_medium=rss&utm_campaign=review-darwins-paradox-is-a-brief-caper",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-19T13:00:00Z",
-    "summary": "Darwin\u2019s Paradox can be a lot of fun, but how much you enjoy it depends on how much you enjoy stealth games where dangerous enemies chase you",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7237423964726812,
-    "home_score": 0.5987,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "96a1f1c1f8e62c4af6c1707b5a6c9914a3b0beef",
-    "title": "Rascal Does Not Dream of A Dear Friend Unveils Mai Sakurajima Visual",
-    "url": "https://anitrendz.net/news/2026/04/19/rascal-does-not-dream-of-a-dear-friend-unveils-mai-sakurajima-visual/?utm_source=rss&utm_medium=rss&utm_campaign=rascal-does-not-dream-of-a-dear-friend-unveils-mai-sakurajima-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-19T14:00:48Z",
-    "summary": "A new memorial visual for the Rascal Does Not Dream of A Dear Friend anime film has been revealed",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7340000028297724,
-    "home_score": 0.5973,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "cc41a23411789bb900e4569ab00c664903d414bf",
-    "title": "Rascal Does Not Dream of a Dear Friend Anime Film Spotlights Mai Sakurajima in New Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/4/19/rascal-does-not-dream-of-a-dear-friend-anime-film-mai-sakurajima-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-19T13:27:00Z",
-    "summary": "The film premieres in Japan on October 16",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.728279651455671,
-    "home_score": 0.5962,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "October 16",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "9c6009d01594dc4e1e78dd13795c2b9f811da962",
-    "title": "Rascal Does Not Dream Reveals Mai Sakurajima Memorial Visual",
-    "url": "https://animecorner.me/rascal-does-not-dream-reveals-mai-sakurajima-memorial-visual/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-19T13:05:34Z",
-    "summary": "Rascal Does Not Dream anime revealed a new memorial visual, this time featuring the popular\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7246753295883989,
-    "home_score": 0.5961,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a618b2d257c1a0f5ccf6a50591f410f6b33a7c23",
-    "title": "AFASHOP official blog for Singapore anime merch and event sale updates",
-    "url": "https://afashop.co/blogs/shopkeepers-musing",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official AFASHOP blog covering Singapore anime and hobby merchandise launches, physical sale events, shipping updates, collabs, and store announcements connected to AFA-adjacent an",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.63,
-    "freshness_score": 0.36645656132419524,
-    "home_score": 0.5924,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "source_page"
-  },
-  {
-    "id": "0a286487b5ce226b3fc2c07bc22ea6e9882da124",
-    "title": "New gameplay trailer shown for isometric turn-based 'Feudalpunk' CRPG Glasshouse",
-    "url": "https://www.rpgsite.net/news/20166-new-gameplay-trailer-shown-for-isometricturn-based-feudalpunk-crpg-glasshouse",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-19T17:00:59Z",
-    "summary": "Glasshouse is described as \"a turn-based-CRPG set in a post-capitalist Feudalpunk world at the dawn of a terrible world war",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7652622178327907,
-    "home_score": 0.5919,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "50dc76f58eadc856cb684f9c0bcffbe077376e8e",
-    "title": "Time-based action roguelite Clockfall set to release in Early Access this year",
-    "url": "https://www.rpgsite.net/news/20164-time-based-action-roguelite-clockfall-set-to-release-in-early-access-this-year",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-19T16:29:23Z",
-    "summary": "This RPG combines \"Village Defense\" systems with time management mechanics",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7596848888837042,
-    "home_score": 0.5894,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "64a7b02ec43fd6119018b0b0bc570eb259b42f87",
-    "title": "More heals: Huohuo\u2019s Novaflare buffs in Honkai Star Rail 4.2",
-    "url": "https://esports.gg/news/honkai-star-rail/huohuo-novaflare-buffs-4-2/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-19T11:09:04Z",
-    "summary": "Huohuo now has more buffs for herself and more healing for the rest of the party!",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "anime",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7053936609587419,
-    "home_score": 0.5894,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b154a1917d309984cc0d1e82644972d7f9ef7e44",
-    "title": "10 Most Ambitious JRPGs on the PS2",
-    "url": "https://www.dualshockers.com/most-ambitious-ps2-jrpgs/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-04-19T16:30:13Z",
-    "summary": "Thanks to the improved PS2 hardware, these ambitious JRPGs were able to shine",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7598312533063775,
-    "home_score": 0.5864,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/mixcollage-16-apr-2026-05-54-pm-25.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a57b5a0859aa012c2fcf158d6e4fb424ddf7abad",
-    "title": "3 Classic JRPGs Are Re-Releasing on PC and Nintendo Switch - VICE",
-    "url": "https://www.vice.com/en/article/3-classic-jrpgs-are-re-releasing-on-pc-and-nintendo-switch/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-19T16:20:15Z",
-    "summary": "3 Classic JRPGs Are Re-Releasing on PC and Nintendo Switch VICE",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7580800813784795,
-    "home_score": 0.5811,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
   }
 ]
