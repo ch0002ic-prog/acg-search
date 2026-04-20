@@ -1,125 +1,5 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
     "id": "aa059150e18291e53bc2abfa8ff9fdc668f1401b",
     "title": "Shinigami Hime to Ishokan no Kaibutsu Details Facilities",
     "url": "https://rpgamer.com/2026/04/shinigami-hime-to-ishokan-no-kaibutsu-details-facilities/",
@@ -142,8 +22,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.9577388105414483,
-    "home_score": 0.846,
+    "freshness_score": 0.8812084849184117,
+    "home_score": 0.8115,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -159,271 +39,30 @@
     "result_type": "article"
   },
   {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
+    "id": "4adc4f4018f6aac8e71fb1959a9b44c86099e3e4",
+    "title": "Dragon Ball Super: Beerus Anime Releases New \"SUPER GEKITOU\" Trailer",
+    "url": "https://crunchyroll.com/news/latest/2026/4/19/dragon-ball-super-beerus-anime-new-super-gekitou-trailer",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-19T22:49:00Z",
+    "summary": "The \"enhanced\" Dragon Ball Super series is scheduled to broadcast in fall 2026",
     "content": "",
     "categories": [
-      "events",
       "anime",
       "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "6526f768f3933756e64cdd96d57afee1fdd7e747",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537008615",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-04-22T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
+      "games",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "22 Apr 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537008615",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "97f9efcd52156af6ced5936095589ad8dc0ed2af",
-    "title": "Celestial Showdown RDO Regionals - Grand Archive TCG 2026",
-    "url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-02T00:00:00Z",
-    "summary": "An exclusive event where one will be able to test their limits in the ultimate showdown of Grand Archive TCG! Venue: Nanyang Technological University (one-north)",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181516731%2F1240882213933%2F1%2Foriginal.20260406-165156?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.576&fp-y=0.551&s=16507ff9ed9ca88c59d6a0b144a7942c",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "2 May 2026",
-      "venue": "Nanyang Technological University (one-north)",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "44e0d0e2637c3945c47bb1536a066f217557f72e",
-    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 5-12",
-    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "681691",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "11e3a7c864980a3ae9137aae53fdd89a7b3bb94a",
-    "title": "Playtest Party Indie Games in the Making",
-    "url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Playtest indie games in development, meet local devs, share feedback, and connect with fellow game lovers in Singapore! Venue: Toa Payoh Public Library",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180051244%2F2858659952031%2F1%2Foriginal.20260317-153740?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=87f2c313b968739a02f577230ca29320",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "Toa Payoh Public Library",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9818763073257925,
+    "home_score": 0.7103,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "c5995fc4a7e84d8bebd55e4c210a820f21bf9705",
@@ -452,8 +91,8 @@
       "SEA"
     ],
     "sg_relevance": 0.97,
-    "freshness_score": 0.4714667298722564,
-    "home_score": 0.7247,
+    "freshness_score": 0.43379310058262277,
+    "home_score": 0.7077,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -467,6 +106,34 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "abae45d5724a562217314ba6e9a7a61d4159f0a4",
+    "title": "Mission: Yozakura Family Season 2 Anime Adds Yume Miyamoto to Cast",
+    "url": "https://crunchyroll.com/news/latest/2026/4/19/mission-yozakura-family-season-2-anime-adds-yume-miyamoto-to-cast",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-19T18:26:00Z",
+    "summary": "Usa will make her first appearance in episode 30",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9238832490099574,
+    "home_score": 0.7042,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "f808d6cd81a1b118115521a9778bad3a6719ec07",
@@ -494,14 +161,202 @@
       "SEA"
     ],
     "sg_relevance": 0.91,
-    "freshness_score": 0.4714667306289314,
-    "home_score": 0.7097,
+    "freshness_score": 0.43379310136083965,
+    "home_score": 0.6927,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
       "date_label": null,
       "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "7ca1414944a347a7c7c7108fdb7dc969e4860365",
+    "title": "Elden Ring Manga Volume 8 Jumps Between Questlines",
+    "url": "https://www.siliconera.com/elden-ring-manga-volume-8-jumps-between-questlines/?utm_source=rss&utm_medium=rss&utm_campaign=elden-ring-manga-volume-8-jumps-between-questlines",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-19T19:00:00Z",
+    "summary": "The eighth volume of the Elden Ring manga jumps around a lot, and so feels like Aseo is a player hopping between sidequests",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9311836842532188,
+    "home_score": 0.692,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3a5b001651bfd957c868d7529b5e8b62ee07e223",
+    "title": "Shadow of the Road Gets a New Story Overview Trailer",
+    "url": "https://monstervine.com/2026/04/shadow-of-the-road-story-overview-trailer-2026/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-19T20:58:41Z",
+    "summary": "Another Angle Games and Owlcat Games have released a new story overview trailer for Shadow of the Road, offering a closer look at the tactical RPG\u2019s alternate take on 19th-century",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9571201564356329,
+    "home_score": 0.6917,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "be548df231c800d4cb38b4b2ce04c4b9c4344b4b",
+    "title": "Owlcat Reveals New Companions for Dark Heresy and Rogue Trader",
+    "url": "https://monstervine.com/2026/04/owlcat-warhammer-40000-dark-heresy-rogue-trader-new-companions/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-19T23:28:39Z",
+    "summary": "Owlcat Games has released two new character trailers spotlighting upcoming companions in Warhammer 40,000: Dark Heresy and Warhammer 40,000: Rogue Trader",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9909295555018772,
+    "home_score": 0.6889,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "201df26f9fb88cb675f6d58f75ca8eec0243e13d",
+    "title": "Dragon Ball Super: Beerus Trailer Revealed, Super: Resurrection F Seemingly Teased",
+    "url": "https://noisypixel.net/dragon-ball-super-beerus-trailer-resurrection-f-teased/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-19T21:30:29Z",
+    "summary": "Toei Animation has unveiled a new trailer for the upcoming Dragon Ball Super: Beerus anime series, which is planned to premiere in Fall 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9641919885250623,
+    "home_score": 0.6829,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f4ed46692189cb89ab4d091a382aae7ffa9b31a1",
+    "title": "Singapore Comic Con 2026 official event site",
+    "url": "https://www.singaporecomiccon.com/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Singapore Comic Con event page covering show dates, creator and cosplay programming, exhibitor announcements, ticketing details, and official social links for Singapore's",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "comics"
+    ],
+    "tags": [
+      "singapore",
+      "sgcc"
+    ],
+    "entity_tags": [
+      "SGCC"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.84,
+    "freshness_score": 0.43379310272313737,
+    "home_score": 0.6752,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "abd714046df029da85b0a86bf2d141fc3c9fb4b8",
+    "title": "AFA Singapore 2026 official event page with creator and cosplay hub updates",
+    "url": "https://animefestival.asia/afasg26/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official AFA Singapore 2026 event page covering Creator's Hub and Cosplay Hub participation, AFA Next Stage applications, exhibitor and media registration, temporary staffing, and",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.83,
+    "freshness_score": 0.4337930998629815,
+    "home_score": 0.6727,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "27 to 29 November 2026",
+      "venue": "Suntec Singapore Convention & Exhibition Centre",
       "ticket_status": null,
       "ticket_url": null,
       "guest_status": null,
@@ -530,8 +385,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9377026272468365,
-    "home_score": 0.706,
+    "freshness_score": 0.8627733253588354,
+    "home_score": 0.6722,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -544,6 +399,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "b2af8cc658f1155a8163c13c935dacef1d3093d2",
+    "title": "10 Final Fantasy VII Moments that Hit Harder in the Remake",
+    "url": "https://www.dualshockers.com/final-fantasy-vii-remake-moments-that-feel-way-more-emotional-than-the-original-game/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-04-19T19:47:51Z",
+    "summary": "This list covers moments in Final Fantasy 7 Remake and Rebirth that hit the hardest emotionally",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9415547144771982,
+    "home_score": 0.6682,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/final-fantasy-7-remake-cloud-gold-saucer-tifa.jpg",
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -569,8 +451,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9578533826092361,
-    "home_score": 0.701,
+    "freshness_score": 0.8813139021438399,
+    "home_score": 0.6666,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -608,8 +490,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9578238035852981,
-    "home_score": 0.701,
+    "freshness_score": 0.8812866868223308,
+    "home_score": 0.6666,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -644,8 +526,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.957627961741503,
-    "home_score": 0.7009,
+    "freshness_score": 0.8811064930094902,
+    "home_score": 0.6665,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -670,103 +552,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9573618226357228,
-    "home_score": 0.6993,
+    "freshness_score": 0.8808616035741363,
+    "home_score": 0.6649,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f4ed46692189cb89ab4d091a382aae7ffa9b31a1",
-    "title": "Singapore Comic Con 2026 official event site",
-    "url": "https://www.singaporecomiccon.com/",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official Singapore Comic Con event page covering show dates, creator and cosplay programming, exhibitor announcements, ticketing details, and official social links for Singapore's",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch",
-      "comics"
-    ],
-    "tags": [
-      "singapore",
-      "sgcc"
-    ],
-    "entity_tags": [
-      "SGCC"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.84,
-    "freshness_score": 0.47146673207861883,
-    "home_score": 0.6922,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "source_page"
-  },
-  {
-    "id": "29a45cd8eb342362f758e333466a3231f266f1fb",
-    "title": "Review: Darwin\u2019s Paradox Is a Brief Caper",
-    "url": "https://www.siliconera.com/review-darwins-paradox-is-a-brief-caper/?utm_source=rss&utm_medium=rss&utm_campaign=review-darwins-paradox-is-a-brief-caper",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-19T13:00:00Z",
-    "summary": "Darwin\u2019s Paradox can be a lot of fun, but how much you enjoy it depends on how much you enjoy stealth games where dangerous enemies chase you",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9311348093640702,
-    "home_score": 0.692,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "96a1f1c1f8e62c4af6c1707b5a6c9914a3b0beef",
-    "title": "Rascal Does Not Dream of A Dear Friend Unveils Mai Sakurajima Visual",
-    "url": "https://anitrendz.net/news/2026/04/19/rascal-does-not-dream-of-a-dear-friend-unveils-mai-sakurajima-visual/?utm_source=rss&utm_medium=rss&utm_campaign=rascal-does-not-dream-of-a-dear-friend-unveils-mai-sakurajima-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-19T14:00:48Z",
-    "summary": "A new memorial visual for the Rascal Does Not Dream of A Dear Friend anime film has been revealed",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9443317966392908,
-    "home_score": 0.6919,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -791,8 +579,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.905765180467305,
-    "home_score": 0.6916,
+    "freshness_score": 0.8333879140429903,
+    "home_score": 0.659,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -808,179 +596,27 @@
     "result_type": "article"
   },
   {
-    "id": "0a286487b5ce226b3fc2c07bc22ea6e9882da124",
-    "title": "New gameplay trailer shown for isometric turn-based 'Feudalpunk' CRPG Glasshouse",
-    "url": "https://www.rpgsite.net/news/20166-new-gameplay-trailer-shown-for-isometricturn-based-feudalpunk-crpg-glasshouse",
-    "source_name": "RPG Site",
+    "id": "29a45cd8eb342362f758e333466a3231f266f1fb",
+    "title": "Review: Darwin\u2019s Paradox Is a Brief Caper",
+    "url": "https://www.siliconera.com/review-darwins-paradox-is-a-brief-caper/?utm_source=rss&utm_medium=rss&utm_campaign=review-darwins-paradox-is-a-brief-caper",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-19T17:00:59Z",
-    "summary": "Glasshouse is described as \"a turn-based-CRPG set in a post-capitalist Feudalpunk world at the dawn of a terrible world war",
+    "published_at": "2026-04-19T13:00:00Z",
+    "summary": "Darwin\u2019s Paradox can be a lot of fun, but how much you enjoy it depends on how much you enjoy stealth games where dangerous enemies chase you",
     "content": "",
     "categories": [
       "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9845523378215225,
-    "home_score": 0.6905,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "cc41a23411789bb900e4569ab00c664903d414bf",
-    "title": "Rascal Does Not Dream of a Dear Friend Anime Film Spotlights Mai Sakurajima in New Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/4/19/rascal-does-not-dream-of-a-dear-friend-anime-film-mai-sakurajima-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-19T13:27:00Z",
-    "summary": "The film premieres in Japan on October 16",
-    "content": "",
-    "categories": [
       "anime",
-      "manga",
-      "games",
+      "merch",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9369722081172409,
-    "home_score": 0.6901,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "October 16",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "abd714046df029da85b0a86bf2d141fc3c9fb4b8",
-    "title": "AFA Singapore 2026 official event page with creator and cosplay hub updates",
-    "url": "https://animefestival.asia/afasg26/",
-    "source_name": "SG Source Pages",
-    "source_type": "curated",
-    "published_at": "2026-04-17T12:00:00Z",
-    "summary": "Official AFA Singapore 2026 event page covering Creator's Hub and Cosplay Hub participation, AFA Next Stage applications, exhibitor and media registration, temporary staffing, and",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.83,
-    "freshness_score": 0.47146672912649495,
-    "home_score": 0.6897,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "27 to 29 November 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "source_page"
-  },
-  {
-    "id": "9c6009d01594dc4e1e78dd13795c2b9f811da962",
-    "title": "Rascal Does Not Dream Reveals Mai Sakurajima Memorial Visual",
-    "url": "https://animecorner.me/rascal-does-not-dream-reveals-mai-sakurajima-memorial-visual/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-19T13:05:34Z",
-    "summary": "Rascal Does Not Dream anime revealed a new memorial visual, this time featuring the popular\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9323350431198365,
-    "home_score": 0.6896,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "50dc76f58eadc856cb684f9c0bcffbe077376e8e",
-    "title": "Time-based action roguelite Clockfall set to release in Early Access this year",
-    "url": "https://www.rpgsite.net/news/20164-time-based-action-roguelite-clockfall-set-to-release-in-early-access-this-year",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-19T16:29:23Z",
-    "summary": "This RPG combines \"Village Defense\" systems with time management mechanics",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9773767943961946,
-    "home_score": 0.6873,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "25c2ddcd3fb52549f89e08c7d3bb3b1874996f1d",
-    "title": "Classic JRPG, Wild Arms 4, PS4 and PS5 release confirmed for April - The Express Tribune",
-    "url": "https://tribune.com.pk/story/2603597/classic-jrpg-wild-arms-4-ps4-and-ps5-release-confirmed-for-april",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-19T13:39:30Z",
-    "summary": "Classic JRPG, Wild Arms 4, PS4 and PS5 release confirmed for April The Express Tribune",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9396870753649424,
-    "home_score": 0.6869,
-    "source_quality": 0.76,
+    "freshness_score": 0.8567303462665508,
+    "home_score": 0.6585,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1006,38 +642,171 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7692972675672136,
-    "home_score": 0.6862,
+    "freshness_score": 0.7078247830228779,
+    "home_score": 0.6585,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "39686852ce497e56c6770b8a48428bedb424ebc7",
-    "title": "8 Final Fantasy VII Details That Reveal How Much Sephiroth Was Always in Control",
-    "url": "https://www.dualshockers.com/final-fantasy-vii-details-reveal-how-sephiroth-was-always-controlling-events/",
-    "source_name": "DualShockers",
+    "id": "96a1f1c1f8e62c4af6c1707b5a6c9914a3b0beef",
+    "title": "Rascal Does Not Dream of A Dear Friend Unveils Mai Sakurajima Visual",
+    "url": "https://anitrendz.net/news/2026/04/19/rascal-does-not-dream-of-a-dear-friend-unveils-mai-sakurajima-visual/?utm_source=rss&utm_medium=rss&utm_campaign=rascal-does-not-dream-of-a-dear-friend-unveils-mai-sakurajima-visual",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-04-19T13:30:13Z",
-    "summary": "Sephiroth was always in control and we've got proof",
+    "published_at": "2026-04-19T14:00:48Z",
+    "summary": "A new memorial visual for the Rascal Does Not Dream of A Dear Friend anime film has been revealed",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch",
+      "manga",
       "events"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.937670129222011,
-    "home_score": 0.6845,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/copy-of-copy-of-copy-of-copy-of-copy-of-untitled-19.jpg",
+    "freshness_score": 0.868872774914999,
+    "home_score": 0.658,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "cc41a23411789bb900e4569ab00c664903d414bf",
+    "title": "Rascal Does Not Dream of a Dear Friend Anime Film Spotlights Mai Sakurajima in New Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/4/19/rascal-does-not-dream-of-a-dear-friend-anime-film-mai-sakurajima-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-19T13:27:00Z",
+    "summary": "The film premieres in Japan on October 16",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8621012684341204,
+    "home_score": 0.6564,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "October 16",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9c6009d01594dc4e1e78dd13795c2b9f811da962",
+    "title": "Rascal Does Not Dream Reveals Mai Sakurajima Memorial Visual",
+    "url": "https://animecorner.me/rascal-does-not-dream-reveals-mai-sakurajima-memorial-visual/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-19T13:05:34Z",
+    "summary": "Rascal Does Not Dream anime revealed a new memorial visual, this time featuring the popular\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8578346516477406,
+    "home_score": 0.656,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0a286487b5ce226b3fc2c07bc22ea6e9882da124",
+    "title": "New gameplay trailer shown for isometric turn-based 'Feudalpunk' CRPG Glasshouse",
+    "url": "https://www.rpgsite.net/news/20166-new-gameplay-trailer-shown-for-isometricturn-based-feudalpunk-crpg-glasshouse",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-19T17:00:59Z",
+    "summary": "Glasshouse is described as \"a turn-based-CRPG set in a post-capitalist Feudalpunk world at the dawn of a terrible world war",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9058794072689399,
+    "home_score": 0.6551,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "25c2ddcd3fb52549f89e08c7d3bb3b1874996f1d",
+    "title": "Classic JRPG, Wild Arms 4, PS4 and PS5 release confirmed for April - The Express Tribune",
+    "url": "https://tribune.com.pk/story/2603597/classic-jrpg-wild-arms-4-ps4-and-ps5-release-confirmed-for-april",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-19T13:39:30Z",
+    "summary": "Classic JRPG, Wild Arms 4, PS4 and PS5 release confirmed for April The Express Tribune",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8645992010433848,
+    "home_score": 0.6531,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "50dc76f58eadc856cb684f9c0bcffbe077376e8e",
+    "title": "Time-based action roguelite Clockfall set to release in Early Access this year",
+    "url": "https://www.rpgsite.net/news/20164-time-based-action-roguelite-clockfall-set-to-release-in-early-access-this-year",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-19T16:29:23Z",
+    "summary": "This RPG combines \"Village Defense\" systems with time management mechanics",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8992772421663348,
+    "home_score": 0.6522,
+    "source_quality": 0.81,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1061,35 +830,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9775650922674602,
-    "home_score": 0.6844,
+    "freshness_score": 0.8994504832020069,
+    "home_score": 0.6493,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/mixcollage-16-apr-2026-05-54-pm-25.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d685c90a3edb5c3fee710cf45f719f922d3e41ed",
-    "title": "Jollibee\u2019s FINAL FANTASY XIV Menu Gives You a Rare in-Game Reward - Sporked",
-    "url": "https://sporked.com/article/jollibee-final-fantasy-xiv-menu-collaboration/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-19T17:04:26Z",
-    "summary": "Jollibee\u2019s FINAL FANTASY XIV Menu Gives You a Rare in-Game Reward Sporked",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9853384620442939,
-    "home_score": 0.6834,
-    "source_quality": 0.76,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1116,10 +860,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.907528105086778,
-    "home_score": 0.6804,
+    "freshness_score": 0.8350099681613761,
+    "home_score": 0.6478,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d685c90a3edb5c3fee710cf45f719f922d3e41ed",
+    "title": "Jollibee\u2019s FINAL FANTASY XIV Menu Gives You a Rare in-Game Reward - Sporked",
+    "url": "https://sporked.com/article/jollibee-final-fantasy-xiv-menu-collaboration/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-19T13:19:00Z",
+    "summary": "Jollibee\u2019s FINAL FANTASY XIV Menu Gives You a Rare in-Game Reward Sporked",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8605060838039027,
+    "home_score": 0.6272,
+    "source_quality": 0.76,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1141,85 +910,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9312060418179557,
-    "home_score": 0.659,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ebc145f94be79738788d2924456a031a1359cd75",
-    "title": "One Piece Teases Danger on Elbaph in Episode 1158 Preview",
-    "url": "https://animecorner.me/one-piece-teases-danger-on-elbaph-in-episode-1158-preview/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-19T06:32:44Z",
-    "summary": "ONE PIECE revealed the preview for Episode 1158, with the Straw Hats now finally arrived\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.851294894084359,
-    "home_score": 0.6531,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0fa04ef021dbf4c3e5518a33c00b646985e73595",
-    "title": "Nippon Sangoku Anime Reveals Ending Video, Episode 3 Preview, and New Collabs",
-    "url": "https://animecorner.me/nippon-sangoku-anime-reveals-ending-video-episode-3-preview-and-new-collabs/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-19T06:11:22Z",
-    "summary": "NIPPON SANGOKU revealed the creditless ending video alongside the preview for Episode 3, which is\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8470947943693882,
-    "home_score": 0.6512,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fb50d8861ed2790cb3e9382e7277ce1bfc49bbd8",
-    "title": "PlayStation 2 JRPG Getting Surprise Release on PS4 & PS5 - VICE",
-    "url": "https://www.vice.com/en/article/playstation-2-jrpg-getting-surprise-release-on-ps4-ps5/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-19T11:35:00Z",
-    "summary": "PlayStation 2 JRPG Getting Surprise Release on PS4 & PS5 VICE",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9129923263128777,
-    "home_score": 0.6508,
+    "freshness_score": 0.8567958670730523,
+    "home_score": 0.6256,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1251,8 +943,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.47146672684737534,
-    "home_score": 0.6397,
+    "freshness_score": 0.43379309764213486,
+    "home_score": 0.6227,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1268,138 +960,80 @@
     "result_type": "source_page"
   },
   {
-    "id": "27d708c96fab34153e64c22ce5e376c8e2cc050b",
-    "title": "The best Pokemon in Champions\u2019 Season M-1",
-    "url": "https://nintendoeverything.com/the-best-pokemon-in-champions-season-m-1/",
-    "source_name": "Nintendo Everything",
+    "id": "ebc145f94be79738788d2924456a031a1359cd75",
+    "title": "One Piece Teases Danger on Elbaph in Episode 1158 Preview",
+    "url": "https://animecorner.me/one-piece-teases-danger-on-elbaph-in-episode-1158-preview/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-04-19T04:00:17Z",
-    "summary": "Today, we\u2019re going over some of the best Pokemon in Pokemon Champions Season M-1, and what each one does",
+    "published_at": "2026-04-19T06:32:44Z",
+    "summary": "ONE PIECE revealed the preview for Episode 1158, with the Straw Hats now finally arrived\u2026",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch"
+      "manga",
+      "events",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8217773008706585,
-    "home_score": 0.6373,
-    "source_quality": 0.77,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.783270203341068,
+    "home_score": 0.6225,
+    "source_quality": 0.8,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 12",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "2f3a00651198d184a99d952cf453ff16cae02027",
-    "title": "Riot Games announces in-game collaboration with Porsche for Wild Rift",
-    "url": "https://esports.gg/news/league-of-legends/riot-games-collaboration-porsche-wild-rift/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-19T02:00:00Z",
-    "summary": "League of Legends: Wild Rift teams up with Porsche for its first in-game collaboration, debuting a new Kai\u2019Sa skin",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7992116204250632,
-    "home_score": 0.6316,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "8728ab566e78cbee9ba66293c14fec7f9b0e5b9a",
-    "title": "Neverness to Everness showcases Nanally combat, Persona music collaboration, and launch trailers",
-    "url": "https://www.rpgsite.net/news/20162-neverness-to-everness-persona-5-collaboration-music-list",
-    "source_name": "RPG Site",
+    "id": "0fa04ef021dbf4c3e5518a33c00b646985e73595",
+    "title": "Nippon Sangoku Anime Reveals Ending Video, Episode 3 Preview, and New Collabs",
+    "url": "https://animecorner.me/nippon-sangoku-anime-reveals-ending-video-episode-3-preview-and-new-collabs/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-04-19T05:29:39Z",
-    "summary": "Neverness to Everness gets three new trailers ahead of its launch on April 29",
+    "published_at": "2026-04-19T06:11:22Z",
+    "summary": "NIPPON SANGOKU revealed the creditless ending video alongside the preview for Episode 3, which is\u2026",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8389542635593775,
-    "home_score": 0.631,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 29",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a851dd4eda68cbbc278bcd35ae0577f58e266b1b",
-    "title": "Nintendo Switch 2 eShop charts \u2013 April 19, 2026 \u2013 Mouse: P.I. For Hire and Pragmata off to strong starts",
-    "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-april-19-2026/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-04-19T05:38:52Z",
-    "summary": "The latest Nintendo Switch 2 eShop charts for the week of April 19, 2026 are now available",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
+      "manga",
+      "events",
       "merch"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8407460507592557,
-    "home_score": 0.6258,
-    "source_quality": 0.77,
+    "freshness_score": 0.7794057222221367,
+    "home_score": 0.6207,
+    "source_quality": 0.8,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 19, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fb50d8861ed2790cb3e9382e7277ce1bfc49bbd8",
+    "title": "PlayStation 2 JRPG Getting Surprise Release on PS4 & PS5 - VICE",
+    "url": "https://www.vice.com/en/article/playstation-2-jrpg-getting-surprise-release-on-ps4-ps5/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-19T11:35:00Z",
+    "summary": "PlayStation 2 JRPG Getting Surprise Release on PS4 & PS5 VICE",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8400375596926977,
+    "home_score": 0.618,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1426,8 +1060,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.4714667253194739,
-    "home_score": 0.6257,
+    "freshness_score": 0.4337930960723126,
+    "home_score": 0.6087,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1467,8 +1101,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.57,
-    "freshness_score": 0.47146673138196854,
-    "home_score": 0.6247,
+    "freshness_score": 0.4337931020537035,
+    "home_score": 0.6077,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1484,52 +1118,29 @@
     "result_type": "source_page"
   },
   {
-    "id": "763d76eadd1fd380b440a2dd8b5ebc73da5f9d32",
-    "title": "GlobalComix Adds 1,500+ Kodansha Manga Titles to Subscription Library",
-    "url": "https://animecorner.me/globalcomix-adds-1500-kodansha-manga-titles-to-subscription-library/",
-    "source_name": "Anime Corner",
+    "id": "2f3a00651198d184a99d952cf453ff16cae02027",
+    "title": "Riot Games announces in-game collaboration with Porsche for Wild Rift",
+    "url": "https://esports.gg/news/league-of-legends/riot-games-collaboration-porsche-wild-rift/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-04-19T00:33:30Z",
-    "summary": "GlobalComix has expanded its subscription service with the addition of manga from Kodansha, bringing\u2026",
+    "published_at": "2026-04-19T02:00:00Z",
+    "summary": "League of Legends: Wild Rift teams up with Porsche for its first in-game collaboration, debuting a new Kai\u2019Sa skin",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "events"
+      "esports",
+      "games",
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7833681218053206,
-    "home_score": 0.6225,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6c70f58aa17a793916b3bf1bae92235861ec90bd",
-    "title": "Interview: Instantmiso on Bringing the Magic of Fae Trapped to WEBTOON",
-    "url": "https://animecorner.me/interview-instantmiso-on-bringing-the-magic-of-fae-trapped-to-webtoon/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-19T00:17:06Z",
-    "summary": "From Sirens and Dream Eaters to her brand-new world of Faes, check out our\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
+    "region_tags": [
+      "SEA"
     ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7803998611100099,
-    "home_score": 0.6212,
-    "source_quality": 0.8,
-    "image_url": null,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7353487631355401,
+    "home_score": 0.6029,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1556,8 +1167,8 @@
       "SEA"
     ],
     "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.47146672104680676,
-    "home_score": 0.6197,
+    "freshness_score": 0.4337930919234967,
+    "home_score": 0.6027,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1596,35 +1207,132 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.4714667225292349,
-    "home_score": 0.6182,
+    "freshness_score": 0.4337930933778416,
+    "home_score": 0.6012,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "source_page"
   },
   {
-    "id": "086c668b136be0681ed76e8830671b3c5b05b0e1",
-    "title": "RPG Cast \u2013 Episode 809: \u201cTrails Mix to Heaven\u201d",
-    "url": "https://rpgamer.com/2026/04/rpg-cast-episode-809-trails-mix-to-heaven/",
-    "source_name": "RPGamer",
+    "id": "8728ab566e78cbee9ba66293c14fec7f9b0e5b9a",
+    "title": "Neverness to Everness showcases Nanally combat, Persona music collaboration, and launch trailers",
+    "url": "https://www.rpgsite.net/news/20162-neverness-to-everness-persona-5-collaboration-music-list",
+    "source_name": "RPG Site",
     "source_type": "rss",
-    "published_at": "2026-04-18T21:07:47Z",
-    "summary": "Chris is still going, \"Moo, Moo!\" as a Cow",
+    "published_at": "2026-04-19T05:29:39Z",
+    "summary": "Neverness to Everness gets three new trailers ahead of its launch on April 29",
     "content": "",
     "categories": [
       "games",
       "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7719156835294951,
+    "home_score": 0.6009,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 29",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "a851dd4eda68cbbc278bcd35ae0577f58e266b1b",
+    "title": "Nintendo Switch 2 eShop charts \u2013 April 19, 2026 \u2013 Mouse: P.I. For Hire and Pragmata off to strong starts",
+    "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-april-19-2026/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-19T05:38:52Z",
+    "summary": "The latest Nintendo Switch 2 eShop charts for the week of April 19, 2026 are now available",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7735642943559473,
+    "home_score": 0.5956,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 19, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "763d76eadd1fd380b440a2dd8b5ebc73da5f9d32",
+    "title": "GlobalComix Adds 1,500+ Kodansha Manga Titles to Subscription Library",
+    "url": "https://animecorner.me/globalcomix-adds-1500-kodansha-manga-titles-to-subscription-library/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-19T00:33:30Z",
+    "summary": "GlobalComix has expanded its subscription service with the addition of manga from Kodansha, bringing\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7469388118764896,
-    "home_score": 0.6061,
+    "freshness_score": 0.7207712769473995,
+    "home_score": 0.5943,
     "source_quality": 0.8,
-    "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast809.mp3",
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6c70f58aa17a793916b3bf1bae92235861ec90bd",
+    "title": "Interview: Instantmiso on Bringing the Magic of Fae Trapped to WEBTOON",
+    "url": "https://animecorner.me/interview-instantmiso-on-bringing-the-magic-of-fae-trapped-to-webtoon/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-19T00:17:06Z",
+    "summary": "From Sirens and Dream Eaters to her brand-new world of Faes, check out our\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.718040201914611,
+    "home_score": 0.5931,
+    "source_quality": 0.8,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1650,8 +1358,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7016135942514012,
-    "home_score": 0.6057,
+    "freshness_score": 0.6455495340661804,
+    "home_score": 0.5805,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1677,10 +1385,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7001750298859377,
-    "home_score": 0.6051,
+    "freshness_score": 0.6442259214480259,
+    "home_score": 0.5799,
     "source_quality": 0.8,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "086c668b136be0681ed76e8830671b3c5b05b0e1",
+    "title": "RPG Cast \u2013 Episode 809: \u201cTrails Mix to Heaven\u201d",
+    "url": "https://rpgamer.com/2026/04/rpg-cast-episode-809-trails-mix-to-heaven/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-18T21:07:47Z",
+    "summary": "Chris is still going, \"Moo, Moo!\" as a Cow",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.68725294475063,
+    "home_score": 0.5793,
+    "source_quality": 0.8,
+    "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast809.mp3",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1704,8 +1437,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6956408977008508,
-    "home_score": 0.603,
+    "freshness_score": 0.6400541085174981,
+    "home_score": 0.578,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1730,72 +1463,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7251685173068994,
-    "home_score": 0.5993,
+    "freshness_score": 0.6672222631221926,
+    "home_score": 0.5733,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4f062a62415faa9d0b14457e5ff1121d80bb9ebe",
-    "title": "Tetracast 438: Next up, Deep Down",
-    "url": "https://www.rpgsite.net/podcast/20161-tetracast-438-next-up-deep-down",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-19T00:13:11Z",
-    "summary": "In this episode, Hayes reviews Pragmata, Bryan checks out Gothic, and Josh dives into Mongil: Star Dive",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.779692817153257,
-    "home_score": 0.5984,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "aeac84df4285e548a5b5717679a377c3ebcb0cd8",
-    "title": "Brawl Stars Announces My Hero Academia Collaboration Skins Featuring Bakugo Edgar and Deku Fang",
-    "url": "https://animecorner.me/brawl-stars-announces-my-hero-academia-collaboration-skins-featuring-bakugo-edgar-and-deku-fang/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-18T18:08:38Z",
-    "summary": "Brawl Stars announced a collaboration with My Hero Academia, which will bring 5 new\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7165967142766702,
-    "home_score": 0.5925,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Bakugo Edgar"
-      ],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1819,8 +1491,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4714667328098288,
-    "home_score": 0.5897,
+    "freshness_score": 0.43379310348127115,
+    "home_score": 0.5727,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1857,8 +1529,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4714667283407171,
-    "home_score": 0.5897,
+    "freshness_score": 0.4337930990830911,
+    "home_score": 0.5727,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1895,8 +1567,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.47146672763679115,
-    "home_score": 0.5897,
+    "freshness_score": 0.4337930984103101,
+    "home_score": 0.5727,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1924,8 +1596,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4714667261379925,
-    "home_score": 0.5897,
+    "freshness_score": 0.4337930968940426,
+    "home_score": 0.5727,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1954,8 +1626,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4714667203428808,
-    "home_score": 0.5897,
+    "freshness_score": 0.4337930912390007,
+    "home_score": 0.5727,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1969,5 +1641,253 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "067a5ccc41d38d1380d65b5fa819b669e3aff565",
+    "title": "Bushiroad International official events page for Singapore and global card game festivals",
+    "url": "https://en.bushiroad.com/events/",
+    "source_name": "SEA Official Event Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Bushiroad International events page covering organized play support, monthly shop tournaments, Bushiroad Card Game Festival 2026 in Singapore, Bushiroad EXPO 2026, Summer",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch",
+      "games",
+      "esports"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.43379309045576314,
+    "home_score": 0.5727,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "b78db78e2c24ac3f8836607cd4c3c8843b2adcc1",
+    "title": "hololive production official English events page for concerts and official shops",
+    "url": "https://hololive.hololivepro.com/en/events",
+    "source_name": "SEA Official Event Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official hololive English events page covering ongoing official shop operations, upcoming concert dates, event archives, and official event listings across hololive production, inc",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.4337930896959558,
+    "home_score": 0.5727,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "aebf003ccdc7bfe1549d829eaa29fc18b6991324",
+    "title": "Tamashii Web official figure news and release schedule page",
+    "url": "https://tamashiiweb.com/",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Tamashii Web page covering current S",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.43379309539953165,
+    "home_score": 0.5712,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "7c37400c7c5de600ccf6723d26c50e8d0516ea31",
+    "title": "Good Smile Company official news page for release and shipping updates",
+    "url": "https://www.goodsmile.com/en/news",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Good Smile Company news page covering release dates, shipping schedules, delay notices, product specification changes, and official updates across Nendoroid, figma, POP UP",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.4337930947953677,
+    "home_score": 0.5712,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "source_page"
+  },
+  {
+    "id": "62ac623734991877dc1710e964ce45dd9f7a9f7b",
+    "title": "hololive production official English news page for merch, collabs, and screenings",
+    "url": "https://hololive.hololivepro.com/en/news",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official hololive English news page covering collaboration merchandise drops, branded products, concert screenings, event announcements, and related official updates across hololiv",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.4337930940422547,
+    "home_score": 0.5712,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "7e42f92beb6d43c647ce2cabb81c9014e897714e",
+    "title": "NIJISANJI official English news page for VTuber goods, music, and events",
+    "url": "https://www.nijisanji.jp/en/news",
+    "source_name": "SEA Merch News Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official NIJISANJI English news page covering official goods, voice packs, music releases, talent announcements, and event-related updates across NIJISANJI and NIJISANJI EN, releva",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "events",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.4337930926130135,
+    "home_score": 0.5712,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "4f062a62415faa9d0b14457e5ff1121d80bb9ebe",
+    "title": "Tetracast 438: Next up, Deep Down",
+    "url": "https://www.rpgsite.net/podcast/20161-tetracast-438-next-up-deep-down",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-19T00:13:11Z",
+    "summary": "In this episode, Hayes reviews Pragmata, Bryan checks out Gothic, and Josh dives into Mongil: Star Dive",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7173896599373414,
+    "home_score": 0.5703,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   }
 ]
