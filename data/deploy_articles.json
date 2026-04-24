@@ -1,175 +1,74 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "7959e838af9ef3250ce00a29ce174d18cdc10fac",
+    "title": "\u2018Honkai: Star Rail\u2019 Join Forces With Hatsune Miku For 3rd Anniversary Celebrations",
+    "url": "https://geekculture.co/honkai-star-rail-join-forces-with-hatsune-miku-for-3rd-anniversary-celebrations/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-04-24T06:04:18Z",
+    "summary": "\u2018Honkai: Star Rail\u2019 Join Forces With Hatsune Miku For 3rd Anniversary Celebrations is trending around hoyoverse.",
     "content": "",
     "categories": [
-      "events",
       "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
       "anime",
-      "manga",
       "merch",
+      "events",
       "gacha"
     ],
     "tags": [
-      "singapore",
       "hoyoverse"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "freshness_score": 0.9935902558199313,
+    "home_score": 0.8171,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8c8ac40369b2290af36e708764cb54d48a580cb8",
+    "title": "Sgt. Frog New Anime Feature Film Reveals Main Trailer, Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/4/24/sgt-frog-new-anime-film-main-trailer-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-24T01:56:00Z",
+    "summary": "SixTONES member Jesse voices the two original characters",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9380920874833553,
+    "home_score": 0.8156,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "67a6302f39868be6547e7c3ee503973abfd9e1c5",
-    "title": "Airfix 1:72 Scale Westland Sea King HC.4 Helicopter Model Kit - 133 Parts, Skill Level 2, Plastic Model To Build - RuhrkanalNEWS",
+    "title": "Airfix 1:72 Scale Westland Sea King HC.4 Helicopter Model Kit - 133 Parts, Skill Level 2, Plastic Model To Build - ruhrkanal.news",
     "url": "https://ruhrkanal.news/Sea-King-HC-4-Helicopter-Model-Kit-133-Parts-Skill-Level-2-1252103",
     "source_name": "Google News SG Figures",
     "source_type": "rss",
     "published_at": "2026-04-24T00:06:15Z",
-    "summary": "Airfix 1:72 Scale Westland Sea King HC.4 Helicopter Model Kit - 133 Parts, Skill Level 2, Plastic Model To Build - RuhrkanalNEWS",
+    "summary": "Airfix 1:72 Scale Westland Sea King HC.4 Helicopter Model Kit - 133 Parts, Skill Level 2, Plastic Model To Build - ruhrkanal.news",
     "content": "",
     "categories": [
       "merch",
@@ -184,272 +83,117 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9986488583140434,
-    "home_score": 0.8209,
+    "freshness_score": 0.9145596498563768,
+    "home_score": 0.7831,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "f032bc863c254bcc7c8a674ee93fb253c16f4a5d",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537020651",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-04-24T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "id": "6c294147d9a969d5349de647b04a18fea88ba97c",
+    "title": "MLBB announces MWI rebrand and MSC expansion at EWC 2026",
+    "url": "https://esports.gg/news/mobile-legends-bang-bang/mlbb-announces-mwi-rebrand-and-msc-expansion-at-ewc-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-24T03:00:02Z",
+    "summary": "MWI rebrands to become an official global championship event for female pros while MSC expands with more regional qualifiers for EWC 2026",
     "content": "",
     "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9972052854842655,
-    "home_score": 0.8032,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "24 Apr 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537020651",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
       "esports",
+      "games",
+      "events"
+    ],
+    "tags": [
+      "mlbb"
+    ],
+    "entity_tags": [
+      "MLBB"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.2,
+    "freshness_score": 0.9521004840848456,
+    "home_score": 0.7424,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "qualifier",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "aa85dc868c1746bccb865241d66560d8a86bbb56",
+    "title": "Pok\u00e9mon TCG Pocket Pulsing Aura Expansion Launches April 27 With Mega Evolutions - Noisy Pixel",
+    "url": "https://noisypixel.net/pokemon-tcg-pocket-pulsing-aura-expansion-april-27/",
+    "source_name": "Google News SEA TCG",
+    "source_type": "rss",
+    "published_at": "2026-04-23T15:00:54Z",
+    "summary": "Pok\u00e9mon TCG Pocket Pulsing Aura Expansion Launches April 27 With Mega Evolutions Noisy Pixel",
+    "content": "",
+    "categories": [
+      "games",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.8060971737826435,
+    "home_score": 0.7357,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 27",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c28ba66ca5525eb3855f16f841db93f2aeaeee1d",
+    "title": "Looksmaxxing streamer Clavicular hit with second YouTube ban",
+    "url": "https://esports.gg/news/streamers/looksmaxxing-influencer-clavicular-banned-again-on-youtube/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-24T02:59:48Z",
+    "summary": "With all the controversies surrounding the \u201cLooksmaxxing\u201d subculture, their online figurehead Clavicular faces yet another ban on YouTube for two of his accounts",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events",
       "merch"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9520490588349579,
+    "home_score": 0.7124,
     "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "65545fa285949f3a5bd9e86a433adf6ad62e0db0",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6203434b1e16ea9bffd6420eefee1bf6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "97f9efcd52156af6ced5936095589ad8dc0ed2af",
-    "title": "Celestial Showdown RDO Regionals - Grand Archive TCG 2026",
-    "url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-02T00:00:00Z",
-    "summary": "An exclusive event where one will be able to test their limits in the ultimate showdown of Grand Archive TCG! Venue: Nanyang Technological University (one-north)",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181516731%2F1240882213933%2F1%2Foriginal.20260406-165156?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.576&fp-y=0.551&s=16507ff9ed9ca88c59d6a0b144a7942c",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "2 May 2026",
-      "venue": "Nanyang Technological University (one-north)",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "44e0d0e2637c3945c47bb1536a066f217557f72e",
-    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 5-12",
-    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "681691",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "11e3a7c864980a3ae9137aae53fdd89a7b3bb94a",
-    "title": "Playtest Party Indie Games in the Making",
-    "url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Playtest indie games in development, meet local devs, share feedback, and connect with fellow game lovers in Singapore! Venue: Toa Payoh Public Library",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180051244%2F2858659952031%2F1%2Foriginal.20260317-153740?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=87f2c313b968739a02f577230ca29320",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "Toa Payoh Public Library",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "0bb806bc5e097d162f557021d7fbdcb335320c7d",
@@ -471,36 +215,371 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 0.8786057298552481,
-    "home_score": 0.7439,
+    "freshness_score": 0.8046245039188699,
+    "home_score": 0.7106,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "1f85330cd3cb099e79a7c194dd519a7c09b26da1",
-    "title": "Kana Imprint Licenses My Dear, A Mystery For You Manga Series for May 2027 Release",
-    "url": "https://anitrendz.net/news/2026/04/23/kana-imprint-licenses-my-dear-a-mystery-for-you-manga-series-for-may-2027-release/?utm_source=rss&utm_medium=rss&utm_campaign=kana-imprint-licenses-my-dear-a-mystery-for-you-manga-series-for-may-2027-release",
-    "source_name": "Anime Trending",
+    "id": "682b6b2a799bc480d9a7ba6834cc672f47fbc9e6",
+    "title": "The Adventures of Elliot The Millennium Tales Soundtrack Set for June 24 with 105 Songs",
+    "url": "https://noisypixel.net/adventures-of-elliot-millennium-tales-soundtrack-105-songs/",
+    "source_name": "Noisy Pixel",
     "source_type": "rss",
-    "published_at": "2026-04-23T23:47:40Z",
-    "summary": "The official Twitter/X and Instagram accounts of Abrams Comic Arts\u2019 Kana imprint announced that it has licensed Satoshi Morie\u2019s mystery manga series My Dear, A Mystery For You",
+    "published_at": "2026-04-24T01:18:03Z",
+    "summary": "Square Enix has posted a new video promoting the original soundtrack of its upcoming 2D action JRPG The Adventures of Elliot: The Millennium Tales",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "events",
       "games",
-      "comics"
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9298874812770956,
+    "home_score": 0.7054,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 24",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "f7964a600b10edc6bf65637a3934b5c8e3d5f1ac",
+    "title": "Conan Exiles Enhanced Launches May 5 as a Free Steam Upgrade",
+    "url": "https://monstervine.com/2026/04/conan-exiles-enhanced-free-upgrade-steam-may-5/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-24T05:37:15Z",
+    "summary": "Funcom has announced Conan Exiles Enhanced, a free visual overhaul for Conan Exiles launching on May 5, 2026, for all owners of the game on Steam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.994362461794866,
-    "home_score": 0.7145,
+    "freshness_score": 0.9873881929813535,
+    "home_score": 0.7053,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 5",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "912499d731f083c3232d4a1895ba290d4b970de4",
+    "title": "Diablo IV: Lord of Hatred gameplay deep dive shared, Korn collaboration song 'Reward The Scars' released",
+    "url": "https://www.rpgsite.net/news/20210-diablo-4-lord-of-hatred-korn-song-reward-the-scars-launch-roadmap-gameplay",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-24T05:56:05Z",
+    "summary": "Blizzard shares a new Diablo IV: Lord of Hatred gameplay deep dive and a new collaboration with Korn for the song 'Reward The Scars'",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9917025184926204,
+    "home_score": 0.6998,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b811212e6637f461492d15c382c1c266d40b7687",
+    "title": "Feline dark fantasy action RPG Kristala now available for PlayStation 5, Xbox Series X|S, and PC",
+    "url": "https://www.rpgsite.net/news/20189-feline-dark-fantasy-rpg-kristala-now-available",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-24T01:15:41Z",
+    "summary": "Feline dark fantasy action RPG Kristala now available for PlayStation 5, Xbox Series X|S, and PC",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9293782114486429,
+    "home_score": 0.6897,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ce625941480197c08852e1ff8ee0a3ad27284e63",
+    "title": "SEGA Genesis game Traysia coming to Nintendo Switch [update: trailer]",
+    "url": "https://nintendoeverything.com/sega-genesis-game-traysia-coming-to-nintendo-switch/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-24T05:00:38Z",
+    "summary": "April 15: Ratalaika Games is bringing back the SEGA Genesis title Traysia for Nintendo Switch, the company has announced",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9790546900208592,
+    "home_score": 0.6881,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 15",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "d3f6ff19227c51a682de713d37c83f1fa95a14ff",
+    "title": "Toei Games Reveals First Slate Including KILLA, HINO, and DEBUG NEPHEMEE",
+    "url": "https://noisypixel.net/toei-games-first-slate-killa-hino-debug-nephemee/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-24T04:41:33Z",
+    "summary": "Following the recent launch of Toei Games, the new publishing label from Toei Company has announced its first slate of titles, all original IP developed in collaboration with studi",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9747393255161295,
+    "home_score": 0.6876,
     "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b19c4dc901c81161068609c77958cd44243a106f",
+    "title": "Chrono Trigger FORM-ISM Figures of Crono and Marle Open for Pre-Order",
+    "url": "https://noisypixel.net/chrono-trigger-form-ism-figures-crono-marle-preorder/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-24T04:35:56Z",
+    "summary": "Square Enix has announced that pre-orders are now live for new figures in their ongoing FORM-ISM line",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9734728351575973,
+    "home_score": 0.6871,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "997228b6a6241ec4442e814926156da60ebfba70",
+    "title": "Presenting the FFXIV Fan Festival 2026 Stream Kit!",
+    "url": "https://img.finalfantasyxiv.com/t/698dd9f36afef45234003c65f59a5fd6cc48cbd3.png?1776993052",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-04-24T01:00:00Z",
+    "summary": "We\u2019re pleased to announce that Fan Festival-themed stream overlays are now available for Warriors of Light looking to stream the excitement along with us! The kit includes overlays",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "FFXIV Fan Festival"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9260100795751477,
+    "home_score": 0.6852,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "79c3eea30fe66fc74ecd9d5b113c6116bfb95975",
+    "title": "Shigeru Chiba Reprises Shigeo Shiba Role in Patlabor EZY Anime",
+    "url": "https://crunchyroll.com/news/latest/2026/4/24/patlabor-ezy-anime-shigeru-chiba-shigeo-shiba-cast",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-24T00:48:00Z",
+    "summary": "The first chapter releases in Japanese theaters on May 15",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9234414309101663,
+    "home_score": 0.684,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 15",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "25cfa5340d36d5d1eab2409c9df8aeb9a2d6db00",
+    "title": "Kodama Tales Licenses New Grappler Baki & The Magical Forest of Hoshigahara Manga Series",
+    "url": "https://anitrendz.net/news/2026/04/23/kodama-tales-licenses-new-grappler-baki-the-magical-forest-of-hoshigahara-manga-series/?utm_source=rss&utm_medium=rss&utm_campaign=kodama-tales-licenses-new-grappler-baki-the-magical-forest-of-hoshigahara-manga-series",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-24T00:58:08Z",
+    "summary": "Kodama Tales has announced the license acquisition of two new manga series: New Grappler Baki and The Magical Forest of Hoshigahara",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9256099736480319,
+    "home_score": 0.6835,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b52329af299c3e68dd5097b149bde4f8475f86f9",
+    "title": "Developer of bishojo sci-fi visual novel Purgatory: Blue is filing criminal charges against crowdfunding platform for withholding entire $69k development budget",
+    "url": "https://automaton-media.com/en/news/developer-of-bishojo-sci-fi-visual-novel-purgatory-blue-is-filing-criminal-charges-against-crowdfunding-platform-for-withholding-entire-69/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-04-24T03:41:50Z",
+    "summary": "Japanese indie game developer ENDLESS SUMMER Studio has reported the CEO of crowdfunding platform Ubgoe to the police, alleging embezzlement",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9613579245226588,
+    "home_score": 0.6831,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7bbf50af97ff3aa26c4505578f744cbb97412856",
+    "title": "The man is the method: decoding Trump\u2019s negotiating persona - Escudo Digital",
+    "url": "https://www.escudodigital.com/en/experts/opinion/the-man-is-the-method-decoding-trumps-negotiating-persona.html",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T05:05:02Z",
+    "summary": "The man is the method: decoding Trump\u2019s negotiating persona Escudo Digital",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9800520134575219,
+    "home_score": 0.681,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -526,46 +605,11 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9561879047264268,
-    "home_score": 0.7143,
+    "freshness_score": 0.8756740030558806,
+    "home_score": 0.6781,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "76b133f627dc0395fabb085e4c5b0836d8e9642f",
-    "title": "Crunchyroll to Stream Chainsaw Man: Reze Arc Movie Starting April 30",
-    "url": "https://animecorner.me/crunchyroll-to-stream-chainsaw-man-reze-arc-movie-starting-april-30/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-23T23:10:53Z",
-    "summary": "Crunchyroll to Stream Chainsaw Man: Reze Arc Movie Starting April 30",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.985931903162894,
-    "home_score": 0.7137,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 30",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -590,8 +634,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9416180644094561,
-    "home_score": 0.7137,
+    "freshness_score": 0.8623309864934497,
+    "home_score": 0.678,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -626,11 +670,73 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.94156720168239,
-    "home_score": 0.7137,
+    "freshness_score": 0.8622844065313008,
+    "home_score": 0.678,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1f85330cd3cb099e79a7c194dd519a7c09b26da1",
+    "title": "Kana Imprint Licenses My Dear, A Mystery For You Manga Series for May 2027 Release",
+    "url": "https://anitrendz.net/news/2026/04/23/kana-imprint-licenses-my-dear-a-mystery-for-you-manga-series-for-may-2027-release/?utm_source=rss&utm_medium=rss&utm_campaign=kana-imprint-licenses-my-dear-a-mystery-for-you-manga-series-for-may-2027-release",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-23T23:47:40Z",
+    "summary": "The official Twitter/X and Instagram accounts of Abrams Comic Arts\u2019 Kana imprint announced that it has licensed Satoshi Morie\u2019s mystery manga series My Dear, A Mystery For You",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9106341465428458,
+    "home_score": 0.6768,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "76b133f627dc0395fabb085e4c5b0836d8e9642f",
+    "title": "Crunchyroll to Stream Chainsaw Man: Reze Arc Movie Starting April 30",
+    "url": "https://animecorner.me/crunchyroll-to-stream-chainsaw-man-reze-arc-movie-starting-april-30/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-23T23:10:53Z",
+    "summary": "Chainsaw Man \u2013 The Movie: Reze Arc is officially coming to Crunchyroll on April\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9029134546894271,
+    "home_score": 0.6763,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 30",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -653,8 +759,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9792601180783278,
-    "home_score": 0.7097,
+    "freshness_score": 0.8968034647288251,
+    "home_score": 0.6726,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -669,31 +775,6 @@
       ],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "e64b754e5afcd113d0e80dbbdfbaf7320070efdb",
-    "title": "Samsung TV Plus & VIZIO WatchFree+ Stream The Great Sage Ryddel and the Hands of Time & Hyakki Yakoushou",
-    "url": "https://anitrendz.net/news/2026/04/23/samsung-tv-plus-vizio-watchfree-stream-the-great-sage-ryddel-and-the-hands-of-time-hyakki-yakoushou/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-tv-plus-vizio-watchfree-stream-the-great-sage-ryddel-and-the-hands-of-time-hyakki-yakoushou",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-23T22:54:19Z",
-    "summary": "REMOW announced that it has added two new \u201clight anime\u2019 series to the It's Anime FAST channel platform: The Great Sage Ryddel and the Hands of Time and Hyakki Yakoushou",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9821580582412708,
-    "home_score": 0.709,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -717,8 +798,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.926579810550048,
-    "home_score": 0.707,
+    "freshness_score": 0.8485589984511547,
+    "home_score": 0.6719,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -731,6 +812,56 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "e64b754e5afcd113d0e80dbbdfbaf7320070efdb",
+    "title": "Samsung TV Plus & VIZIO WatchFree+ Stream The Great Sage Ryddel and the Hands of Time & Hyakki Yakoushou",
+    "url": "https://anitrendz.net/news/2026/04/23/samsung-tv-plus-vizio-watchfree-stream-the-great-sage-ryddel-and-the-hands-of-time-hyakki-yakoushou/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-tv-plus-vizio-watchfree-stream-the-great-sage-ryddel-and-the-hands-of-time-hyakki-yakoushou",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-23T22:54:19Z",
+    "summary": "REMOW announced that it has added two new \u201clight anime\u2019 series to the It's Anime FAST channel platform: The Great Sage Ryddel and the Hands of Time and Hyakki Yakoushou",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8994573905536569,
+    "home_score": 0.6718,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "518885ca47a5aed4a705f67bc26b7bc46e1c4b24",
+    "title": "Famitsu software sales (4/13/26 \u2013 4/19/26) \u2013 Top 30",
+    "url": "https://nintendoeverything.com/famitsu-softwaresales-4-13-26-4-19-26-top-30/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-24T02:08:29Z",
+    "summary": "This week\u2019s expanded Japanese software sales are as follows: 1",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.940806950005464,
+    "home_score": 0.6709,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -754,8 +885,8 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.8680837703894574,
-    "home_score": 0.7036,
+    "freshness_score": 0.7949885105564418,
+    "home_score": 0.6707,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -780,8 +911,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9565093325791053,
-    "home_score": 0.7034,
+    "freshness_score": 0.8759683746607613,
+    "home_score": 0.6672,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -806,8 +937,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9687458035206532,
-    "home_score": 0.7029,
+    "freshness_score": 0.88717448820379,
+    "home_score": 0.6662,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -833,8 +964,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9587036454698542,
-    "home_score": 0.7014,
+    "freshness_score": 0.8779779103904892,
+    "home_score": 0.6651,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -847,31 +978,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "c0556e24e7288aff6f571ad1bd717c2d65232a30",
-    "title": "Red River TV Anime Adds 5 New Voice Cast Members",
-    "url": "https://anitrendz.net/news/2026/04/23/red-river-tv-anime-adds-5-new-voice-cast-members/?utm_source=rss&utm_medium=rss&utm_campaign=red-river-tv-anime-adds-5-new-voice-cast-members",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-23T21:26:10Z",
-    "summary": "Five new cast members have been revealed for the upcoming Red River TV anime series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9623201145925903,
-    "home_score": 0.7,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -895,9 +1001,110 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9107023373280693,
-    "home_score": 0.6983,
+    "freshness_score": 0.8340184497087634,
+    "home_score": 0.6638,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "cec9dacc97cb344039bada8dae83209ad22c2abe",
+    "title": "Embrace the World of Eorzea With All New Final Fantasy XIV Online PC Case Collaboration From Hyte - TechPowerUp",
+    "url": "https://www.techpowerup.com/348490/embrace-the-world-of-eorzea-with-all-new-final-fantasy-xiv-online-pc-case-collaboration-from-hyte",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T01:09:10Z",
+    "summary": "Embrace the World of Eorzea With All New Final Fantasy XIV Online PC Case Collaboration From Hyte TechPowerUp",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9279769355339862,
+    "home_score": 0.6636,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c0556e24e7288aff6f571ad1bd717c2d65232a30",
+    "title": "Red River TV Anime Adds 5 New Voice Cast Members",
+    "url": "https://anitrendz.net/news/2026/04/23/red-river-tv-anime-adds-5-new-voice-cast-members/?utm_source=rss&utm_medium=rss&utm_campaign=red-river-tv-anime-adds-5-new-voice-cast-members",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-23T21:26:10Z",
+    "summary": "Five new cast members have been revealed for the upcoming Red River TV anime series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8812898616667387,
+    "home_score": 0.6636,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "558e332f0a22cd44ca76fe3481117cff2f2faa4d",
+    "title": "Blake Lively is \u2018persona non grata\u2019 in Hollywood: Exclusive - NewsNation",
+    "url": "https://www.newsnationnow.com/entertainment-news/blake-lively-persona-non-grata-hollywood/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T02:08:20Z",
+    "summary": "Blake Lively is \u2018persona non grata\u2019 in Hollywood: Exclusive NewsNation",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9407739263192558,
+    "home_score": 0.6633,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9dc720ddcd0f277c8f8f2d988412f3ee486eac18",
+    "title": "The dream of riding Final Fantasy Chocobos is coming to Tokyo VR centers - SoraNews24",
+    "url": "https://soranews24.com/2026/04/24/the-dream-of-riding-final-fantasy-chocobos-is-coming-to-tokyo-vr-centers/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T02:00:21Z",
+    "summary": "The dream of riding Final Fantasy Chocobos is coming to Tokyo VR centers SoraNews24",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9390369960513907,
+    "home_score": 0.6626,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -921,64 +1128,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9433163090780808,
-    "home_score": 0.6975,
+    "freshness_score": 0.8638862434166033,
+    "home_score": 0.6617,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0cbb6958ba437dfb34ae6ebc06c0400dd50362c7",
-    "title": "Goddess of Victory: NIKKE 3.5 Anniversary Update Adds Anis Idol Event, New Characters, and Global Tour Celebration",
-    "url": "https://noisypixel.net/nikke-3-5-anniversary-anis-idol-event-new-characters/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-23T20:59:01Z",
-    "summary": "Goddess of Victory: NIKKE 3.5 Anniversary Update Adds Anis Idol Event, New Characters, and Global Tour Celebration is trending around idol, jrpg.",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "idol",
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9562914535600945,
-    "home_score": 0.6973,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c6e8eb0a8adf74aeeb3fda8d022dda1951c6200c",
-    "title": "The Ribbon Hero Anime Film Inspired by Princess Knight Premieres on Netflix in August 2026",
-    "url": "https://noisypixel.net/ribbon-hero-princess-knight-netflix-august-2026/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-23T20:39:48Z",
-    "summary": "A new anime film based on Princess Knight is on the way, with The Ribbon Hero set to stream worldwide on Netflix in August 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.952047024794601,
-    "home_score": 0.6954,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1001,8 +1153,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9416434987251121,
-    "home_score": 0.6937,
+    "freshness_score": 0.8623542793061598,
+    "home_score": 0.6581,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1036,8 +1188,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9303052559033942,
-    "home_score": 0.6916,
+    "freshness_score": 0.8519707599867039,
+    "home_score": 0.6564,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1061,8 +1213,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9824691186335622,
-    "home_score": 0.6911,
+    "freshness_score": 0.8997422577239973,
+    "home_score": 0.6539,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1098,8 +1250,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8827647360771997,
-    "home_score": 0.6872,
+    "freshness_score": 0.8084332794594473,
+    "home_score": 0.6538,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1124,8 +1276,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9264511095638019,
-    "home_score": 0.6869,
+    "freshness_score": 0.8484411331042478,
+    "home_score": 0.6518,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1150,8 +1302,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9174736626295504,
-    "home_score": 0.6859,
+    "freshness_score": 0.8402196255377732,
+    "home_score": 0.6511,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1163,7 +1315,7 @@
     "url": "https://www.gamespot.com/articles/the-persona-cookbook-deal/1100-6539578/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-04-23T23:03:49Z",
+    "published_at": "2026-04-24T00:00:00Z",
     "summary": "The Official Persona Cookbook Is 38% Off At Amazon GameSpot",
     "content": "",
     "categories": [
@@ -1175,8 +1327,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9843201629234125,
-    "home_score": 0.6829,
+    "freshness_score": 0.9132375869032386,
+    "home_score": 0.651,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1199,8 +1351,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9174732859203221,
-    "home_score": 0.6814,
+    "freshness_score": 0.8402192711382667,
+    "home_score": 0.6466,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1236,8 +1388,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9048190540826264,
-    "home_score": 0.6802,
+    "freshness_score": 0.828630572958603,
+    "home_score": 0.6459,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1262,8 +1414,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9247224647602341,
-    "home_score": 0.6801,
+    "freshness_score": 0.8468580691146671,
+    "home_score": 0.6451,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -1276,31 +1428,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "558e332f0a22cd44ca76fe3481117cff2f2faa4d",
-    "title": "Blake Lively is \u2018persona non grata\u2019 in Hollywood: Exclusive - NewsNation",
-    "url": "https://www.newsnationnow.com/entertainment-news/blake-lively-persona-non-grata-hollywood/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-23T22:34:24Z",
-    "summary": "Blake Lively is \u2018persona non grata\u2019 in Hollywood: Exclusive NewsNation",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9776402813571199,
-    "home_score": 0.6799,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1322,72 +1449,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9178841799614013,
-    "home_score": 0.6785,
+    "freshness_score": 0.8405955653724413,
+    "home_score": 0.6438,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
       "event_type": "concert",
       "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e2e46bc62b8d1f5b64d7ccbbdfbbaa962d9dff2a",
-    "title": "Deep Dish Dungeon Xbox Series X|S Version Added",
-    "url": "https://rpgamer.com/2026/04/deep-dish-dungeon-xbox-series-xs-version-added/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-23T21:10:27Z",
-    "summary": "Publisher Raw Fury and developer Behold Studios announced that dungeon-crawler Deep Dish Dungeon will release this fall",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9588257138906364,
-    "home_score": 0.6775,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e4ec3ac83e2ea1485f1dd293cc92b2548c89a89a",
-    "title": "Pok\u00e9mon TCG Pocket Dates Pulsing Aura Set Release",
-    "url": "https://crunchyroll.com/news/latest/2026/4/23/pokemon-tcg-pocket-dates-pulsing-aura-expansion-release",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-23T17:12:00Z",
-    "summary": "The next expansion punches through on April 27",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9073356031696377,
-    "home_score": 0.6768,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 27",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1417,8 +1485,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8560474238894261,
-    "home_score": 0.6752,
+    "freshness_score": 0.7839656499054825,
+    "home_score": 0.6428,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1431,6 +1499,65 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "e4ec3ac83e2ea1485f1dd293cc92b2548c89a89a",
+    "title": "Pok\u00e9mon TCG Pocket Dates Pulsing Aura Set Release",
+    "url": "https://crunchyroll.com/news/latest/2026/4/23/pokemon-tcg-pocket-dates-pulsing-aura-expansion-release",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-23T17:12:00Z",
+    "summary": "The next expansion punches through on April 27",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8309352048736877,
+    "home_score": 0.6424,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 27",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e2e46bc62b8d1f5b64d7ccbbdfbbaa962d9dff2a",
+    "title": "Deep Dish Dungeon Xbox Series X|S Version Added",
+    "url": "https://rpgamer.com/2026/04/deep-dish-dungeon-xbox-series-xs-version-added/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-23T21:10:27Z",
+    "summary": "Publisher Raw Fury and developer Behold Studios announced that dungeon-crawler Deep Dish Dungeon will release this fall",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8780897008008227,
+    "home_score": 0.6411,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1452,8 +1579,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8923389890524223,
-    "home_score": 0.6746,
+    "freshness_score": 0.8172013669296389,
+    "home_score": 0.6407,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1478,8 +1605,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8950625593242801,
-    "home_score": 0.6728,
+    "freshness_score": 0.8196955841740239,
+    "home_score": 0.6389,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1504,8 +1631,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8929103694166434,
-    "home_score": 0.6718,
+    "freshness_score": 0.8177246151672032,
+    "home_score": 0.638,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1530,8 +1657,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8923386637240011,
-    "home_score": 0.6701,
+    "freshness_score": 0.8172010530669935,
+    "home_score": 0.6362,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1558,8 +1685,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8800310600475049,
-    "home_score": 0.669,
+    "freshness_score": 0.8059298025294314,
+    "home_score": 0.6357,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1583,48 +1710,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8842952393919388,
-    "home_score": 0.6679,
+    "freshness_score": 0.8098349052397043,
+    "home_score": 0.6344,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "July 6",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "17c72e9f06cc22115e9bff60c6b898ec90973140",
-    "title": "Brigandine Abyss announced for Nintendo Switch 2 [update: new trailer]",
-    "url": "https://nintendoeverything.com/brigandine-abyss-announced-for-nintendo-switch-2/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-04-23T16:00:45Z",
-    "summary": "February 12: Happinet is making Brigandine Abyss for Nintendo Switch 2, the company revealed today",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8924937553835843,
-    "home_score": 0.6671,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "February 12",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1653,8 +1745,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8824242275141608,
-    "home_score": 0.6671,
+    "freshness_score": 0.8081214428361247,
+    "home_score": 0.6337,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1679,171 +1771,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8800307393624796,
-    "home_score": 0.6645,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5766295679a6e24b81b4c2c132fdce9a587cd64a",
-    "title": "The World's Finest Assassin Season 2 Reveals Key Visual and Teaser Trailer, 2027 Release",
-    "url": "https://animecorner.me/the-worlds-finest-assassin-season-2-reveals-key-visual-and-teaser-trailer-2027-release/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-23T10:27:13Z",
-    "summary": "The World\u2019s Finest Assassin Gets Reincarnated in Another World as an Aristocrat Season 2 anime\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8261799275645337,
-    "home_score": 0.6618,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "51b594bf47a20144cd21702f5acbca93029be8a2",
-    "title": "The World\u2019s Finest Assassin Gets Reincarnated Season 2 Reveals Teaser Visual, 2027 Start",
-    "url": "https://anitrendz.net/news/2026/04/23/the-worlds-finest-assassin-gets-reincarnated-season-2-reveals-teaser-visual-2027-start/?utm_source=rss&utm_medium=rss&utm_campaign=the-worlds-finest-assassin-gets-reincarnated-season-2-reveals-teaser-visual-2027-start",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-23T10:54:51Z",
-    "summary": "The second season of The World\u2019s Finest Assassin Gets Reincarnated TV anime will begin airing in 2027",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8314814867735925,
-    "home_score": 0.6612,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ffdcaf5f74eba6ab105f318d7636dfc638da5da7",
-    "title": "Netflix Anime Film The Ribbon Hero is A New Adaptation of Osamu Tezuka\u2019s Princess Knight",
-    "url": "https://anitrendz.net/news/2026/04/23/netflix-anime-film-the-ribbon-hero-is-a-new-adaptation-of-osamu-tezukas-princess-knight/?utm_source=rss&utm_medium=rss&utm_campaign=netflix-anime-film-the-ribbon-hero-is-a-new-adaptation-of-osamu-tezukas-princess-knight",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-23T14:32:24Z",
-    "summary": "Netflix has revealed The Ribbon Hero, an anime film adaptation of the Osamu Tezuka manga Princess Knight",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8744261408906342,
-    "home_score": 0.6605,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "97667592d89ac6d36e5112aa6cf3b33b7f576d77",
-    "title": "MAPPA Presents Honkai: Star Rail Animation Concept Trailer",
-    "url": "https://blog.jlist.com/news/mappa-presents-honkai-star-rail-animation-concept-trailer/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-04-23T14:30:00Z",
-    "summary": "Honkai: Star Rail (B\u0113nghu\u00e0i: X\u012bngqi\u00f3ng Ti\u011bd\u00e0o) is no stranger to anime shorts",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch",
-      "events",
-      "games",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8739404629435591,
-    "home_score": 0.6603,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8405084298948552a5c818e505bd063936e04f98",
-    "title": "Death Note Fashion Collection Inspired by Misa Amane Launched by QOOZA",
-    "url": "https://animecorner.me/death-note-fashion-collection-inspired-by-misa-amane-launched-by-qooza/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-23T13:51:52Z",
-    "summary": "A new fashion collaboration based on Death Note has launched by the Japanese brand\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8662601504424466,
-    "home_score": 0.6598,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5ccc8ce4791ebf26ebd79373a59fa89a489c7086",
-    "title": "Guilty Gear dev team is finally ready to consider the franchise\u2019s \u201cnext development,\u201d according to Strive producer Ken Miyauchi",
-    "url": "https://automaton-media.com/en/news/guilty-gear-dev-team-is-finally-ready-to-consider-the-franchises-next-development-according-to-strive-producer-ken-miyauchi/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-04-23T14:00:00Z",
-    "summary": "With Guilty Gear Strive entering its fifth year, the devs are now at the stage where they can start considering \"new developments\" in the series",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8678927558431768,
-    "home_score": 0.6591,
+    "freshness_score": 0.8059294931575408,
+    "home_score": 0.6312,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
