@@ -1,166 +1,41 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "b6440a3bda77bb5978ce0bae67fe02460057719d",
+    "title": "Disgaea Mayhem Releasing in July",
+    "url": "https://rpgamer.com/2026/04/disgaea-mayhem-releasing-in-july/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-24T19:05:21Z",
+    "summary": "NIS America announced that it will be releasing action RPG Disgaea Mayhem in North America and Europe on July 23, 2026",
     "content": "",
     "categories": [
-      "events",
       "games",
-      "esports"
+      "anime",
+      "merch"
     ],
     "tags": [
-      "singapore",
-      "mlbb"
+      "singapore"
     ],
-    "entity_tags": [
-      "MLBB"
-    ],
+    "entity_tags": [],
     "region_tags": [
       "Singapore"
     ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9319634653296819,
+    "home_score": 0.7964,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
+      "event_type": null,
+      "date_label": "July 23, 2026",
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
-      "merch_status": null
+      "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
     "id": "8f7fdde33c19b25b00558483a2de8314da11b7ef",
@@ -184,8 +59,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.9431815232696981,
-    "home_score": 0.8209,
+    "freshness_score": 0.8678949541526838,
+    "home_score": 0.7871,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -223,8 +98,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.948691889171577,
-    "home_score": 0.8129,
+    "freshness_score": 0.8729654618041276,
+    "home_score": 0.7788,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
@@ -238,266 +113,6 @@
       "merch_status": null
     },
     "result_type": "article"
-  },
-  {
-    "id": "4b6d9d27b83b6cfbad32693f41ba73532064382a",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537278422",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "25 Apr 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537278422",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "65545fa285949f3a5bd9e86a433adf6ad62e0db0",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6203434b1e16ea9bffd6420eefee1bf6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "97f9efcd52156af6ced5936095589ad8dc0ed2af",
-    "title": "Celestial Showdown RDO Regionals - Grand Archive TCG 2026",
-    "url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-02T00:00:00Z",
-    "summary": "An exclusive event where one will be able to test their limits in the ultimate showdown of Grand Archive TCG! Venue: Nanyang Technological University (one-north)",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181516731%2F1240882213933%2F1%2Foriginal.20260406-165156?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.576&fp-y=0.551&s=16507ff9ed9ca88c59d6a0b144a7942c",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "2 May 2026",
-      "venue": "Nanyang Technological University (one-north)",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/celestial-showdown-rdo-regionals-grand-archive-tcg-2026-tickets-1986800474703",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "44e0d0e2637c3945c47bb1536a066f217557f72e",
-    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 5-12",
-    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "681691",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-5-12-tickets-1978549347359",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "11e3a7c864980a3ae9137aae53fdd89a7b3bb94a",
-    "title": "Playtest Party Indie Games in the Making",
-    "url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-04-25T00:00:00Z",
-    "summary": "Playtest indie games in development, meet local devs, share feedback, and connect with fellow game lovers in Singapore! Venue: Toa Payoh Public Library",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180051244%2F2858659952031%2F1%2Foriginal.20260317-153740?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=87f2c313b968739a02f577230ca29320",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "25 Apr 2026",
-      "venue": "Toa Payoh Public Library",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/playtest-party-indie-games-in-the-making-tickets-1985381771323",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
   },
   {
     "id": "f3637008b8d56fc7b89ba603ca51619c556a6ee3",
@@ -522,13 +137,121 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.8586106563928159,
-    "home_score": 0.7784,
+    "freshness_score": 0.7900746878678038,
+    "home_score": 0.7475,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": "screening",
       "date_label": "June 26",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "036b12001d436e28b5dec4900a16bfaad4cf993f",
+    "title": "\u201cI hate the meta\u201d: VALORANT\u2019s meta is becoming predictable, and agent bans could be the answer",
+    "url": "https://esportsinsider.com/2026/04/valorant-agent-bans-can-save-meta-game",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-24T22:25:19Z",
+    "summary": "VALORANT has drastically evolved since its launch in 2020, not just in terms of agents, but also in how the game is played across different levels",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9761164984824279,
+    "home_score": 0.7448,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "53e4130b0b9f17d4931212723dba414f21e85aa6",
+    "title": "A Pompompurin Pop-Up Cafe Is Coming To Singapore In Celebration Of The Sanrio Character\u2019s 30th Birthday - FZINE Singapore",
+    "url": "https://www.fzine.com/culture/pompompurin-cafe-singapore-2026",
+    "source_name": "Google News SG Collab Cafes",
+    "source_type": "rss",
+    "published_at": "2026-04-24T09:08:37Z",
+    "summary": "A Pompompurin Pop-Up Cafe Is Coming To Singapore In Celebration Of The Sanrio Character\u2019s 30th Birthday FZINE Singapore",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.8117239889727974,
+    "home_score": 0.7368,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "cafe",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "da086f3a1bb2de0f9d342bb9ab37c084224cd45c",
+    "title": "Final Fantasy XIV: Evercold Expansion, Switch 2 Version Announced",
+    "url": "https://rpgamer.com/2026/04/final-fantasy-xiv-evercold-expansion-switch-2-version-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-24T20:09:51Z",
+    "summary": "During the opening keynote presentation of this weekend's Final Fantasy XIV Fan Festival in Anaheim, Producer and Director Naoki Yoshida, with Translation Supervisor Michael-Christ",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9459826144714747,
+    "home_score": 0.7357,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "April 28, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -559,50 +282,11 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9190601219877419,
-    "home_score": 0.7686,
+    "freshness_score": 0.8456989436250262,
+    "home_score": 0.7356,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "53e4130b0b9f17d4931212723dba414f21e85aa6",
-    "title": "A Pompompurin Pop-Up Cafe Is Coming To Singapore In Celebration Of The Sanrio Character\u2019s 30th Birthday - FZINE Singapore",
-    "url": "https://www.fzine.com/culture/pompompurin-cafe-singapore-2026",
-    "source_name": "Google News SG Collab Cafes",
-    "source_type": "rss",
-    "published_at": "2026-04-24T09:08:37Z",
-    "summary": "A Pompompurin Pop-Up Cafe Is Coming To Singapore In Celebration Of The Sanrio Character\u2019s 30th Birthday FZINE Singapore",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8821379681433699,
-    "home_score": 0.7685,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "cafe",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -628,9 +312,37 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.7980778402949591,
-    "home_score": 0.7526,
+    "freshness_score": 0.7343737194618519,
+    "home_score": 0.724,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b7c763bc056fa216eb4db2a0ceb95cd0e6e12c49",
+    "title": "Pokemon Pokopia Sableye Event Starts Next Week",
+    "url": "https://www.siliconera.com/pokemon-pokopia-sableye-event-starts-next-week/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-pokopia-sableye-event-starts-next-week",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-24T21:00:00Z",
+    "summary": "The Sableye Pokemon Pokopia event starts next week, sending us in search of red crystal fragments for Sableye's Gem Hunt",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9570285299671206,
+    "home_score": 0.7237,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -660,11 +372,115 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8452926634874082,
-    "home_score": 0.7504,
+    "freshness_score": 0.7778197638427731,
+    "home_score": 0.72,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "be08774fecfa2c1b3ffcfab70d5a3dc99836b6bd",
+    "title": "8.0 FFXIV Gets Character Creation Changes, Seasons, Armoury Update",
+    "url": "https://www.siliconera.com/8-0-ffxiv-gets-character-creation-changes-seasons-armoury-update/?utm_source=rss&utm_medium=rss&utm_campaign=8-0-ffxiv-gets-character-creation-changes-seasons-armoury-update",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-24T18:38:54Z",
+    "summary": "8.0 FFXIV Gets Character Creation Changes, Seasons, Armoury Update",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9262749890318414,
+    "home_score": 0.7098,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4e0c721ba5fc1f7f570fae48bf02671f77c18959",
+    "title": "Zenless Zone Zero Version 2.8 Update, Steam Release Announced",
+    "url": "https://rpgamer.com/2026/04/zenless-zone-zero-version-2-8-update-steam-release-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-24T19:05:29Z",
+    "summary": "HoYoverse announced its latest update for free-to-play action RPG Zenless Zone Zero",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9319922352989479,
+    "home_score": 0.7094,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 6, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "20eb38f703acd1b7ef1f31c1118cbb4be2fb9c22",
+    "title": "Final Fantasy XIV Evercold Expansion Revealed for January 2027 with Major System Additions and Overhaul",
+    "url": "https://noisypixel.net/final-fantasy-xiv-evercold-expansion-8-0-details/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-24T22:46:59Z",
+    "summary": "As is tradition, the upcoming expansion for Final Fantasy XIV was announced during the keynote presentation of the North American Fan Festival, taking place this year in Anaheim, C",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9810247338493435,
+    "home_score": 0.7085,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -687,36 +503,97 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.9956752926396437,
-    "home_score": 0.7381,
+    "freshness_score": 0.9161985775498639,
+    "home_score": 0.7023,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "154849012f0c92ad71a5ef8c5156cfe7779a0973",
-    "title": "Final Fantasy 14 - Official Evercold Teaser Trailer - IGN Southeast Asia",
-    "url": "https://sea.ign.com/final-fantasy-xiv-online/241926/final-fantasy-14-official-evercold-teaser-trailer",
-    "source_name": "Google News JRPG",
+    "id": "ccf7d3a40cfd72df723ae49d1f7c137c771c5ea4",
+    "title": "See the 2026 Hallmark Anime and Video Game Ornaments",
+    "url": "https://www.siliconera.com/see-the-2026-hallmark-anime-and-video-game-ornaments/?utm_source=rss&utm_medium=rss&utm_campaign=see-the-2026-hallmark-anime-and-video-game-ornaments",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-24T17:22:52Z",
-    "summary": "Final Fantasy 14 - Official Evercold Teaser Trailer IGN Southeast Asia",
+    "published_at": "2026-04-24T20:00:00Z",
+    "summary": "The Hallmark 2026 Dream Book is live, and there'll be anime and video game ornaments from series like Pokemon and Jujutsu Kaisen",
     "content": "",
     "categories": [
-      "games"
+      "games",
+      "anime",
+      "merch",
+      "events"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9438283457786371,
+    "home_score": 0.6977,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "26ff3624abeb7025923a96379d244481a3a0cd9e",
+    "title": "Meta RPG \u2018The Remake of the End of the Greatest RPG of All Time\u2019 Launches May 28, 2026",
+    "url": "https://noisypixel.net/remake-end-greatest-rpg-of-all-time-release-date/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-24T23:55:55Z",
+    "summary": "Publisher Glootschke Games and developers Team Azule and Coin Drop Games have announced that The Remake of the End of the Greatest RPG of All Time will launch for PC via Steam on M",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
     ],
-    "region_tags": [
-      "SEA"
+    "tags": [
+      "jrpg"
     ],
-    "sg_relevance": 0.2,
-    "freshness_score": 0.9890633436535512,
-    "home_score": 0.7351,
-    "source_quality": 0.76,
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9968043028278838,
+    "home_score": 0.6976,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 28, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "ab78adebb85a98dde8c01ae6c66230f7c74c007e",
+    "title": "2 Jobs Arrive in FFXIV Evercold Alongside Evolved Mode",
+    "url": "https://www.siliconera.com/2-jobs-arrive-in-ffxiv-evercold-alongside-evolved-mode/?utm_source=rss&utm_medium=rss&utm_campaign=2-jobs-arrive-in-ffxiv-evercold-alongside-evolved-mode",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-24T19:42:28Z",
+    "summary": "We'll see two new jobs in FFXIV Evercold, as well as a new Reborn and Evolved job action system for the 21 older classes",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9400054461397913,
+    "home_score": 0.696,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -742,21 +619,21 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9918261899386677,
-    "home_score": 0.7303,
+    "freshness_score": 0.9126566982146507,
+    "home_score": 0.6947,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "8a257e4ccc82181aba35adee2622c227b6db7c75",
-    "title": "Former 3DS and Vita JRPG Exstetra Headed to PC via Steam",
-    "url": "https://www.siliconera.com/former-3ds-and-vita-jrpg-exstetra-headed-to-pc-via-steam/?utm_source=rss&utm_medium=rss&utm_campaign=former-3ds-and-vita-jrpg-exstetra-headed-to-pc-via-steam",
+    "id": "9949c3cebc55e2691b1e012ac380ee3ed4b64315",
+    "title": "FFXIV Switch 2 Version Coming, PS4 Support Planned Through 8.3",
+    "url": "https://www.siliconera.com/ffxiv-switch-2-version-coming-ps4-support-planned-through-8-3/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-switch-2-version-coming-ps4-support-planned-through-8-3",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-24T18:00:00Z",
-    "summary": "Exstetra, which originally appeared as a Japan-exclusive 3DS and Vita JRPG, will appear the PC via Steam worldwide with a new remaster",
+    "published_at": "2026-04-24T19:26:36Z",
+    "summary": "Final Fantasy XIV is coming to the Switch 2 with a separate subscription, and the PS4 version of FFXIV will be supported through 8",
     "content": "",
     "categories": [
       "games",
@@ -764,15 +641,42 @@
       "merch",
       "events"
     ],
-    "tags": [
-      "jrpg"
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
     ],
-    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9976022064979214,
-    "home_score": 0.7219,
+    "freshness_score": 0.9365592878502312,
+    "home_score": 0.6945,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6e5553e6af98d2911e865907432d8d28805614ef",
+    "title": "FlyQuest attacks co-streaming, a surprise T1 loss, a missing English broadcast: League of Legend\u2019s chaotic week",
+    "url": "https://esportsinsider.com/2026/04/league-of-legends-recap-t1-loss-flyquest-co-streamer-debate",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-24T17:10:05Z",
+    "summary": "The recent days have been packed with controversial and intriguing developments in the League of Legends (LoL) esports scene",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9074253105297703,
+    "home_score": 0.6938,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -799,21 +703,117 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7780576931596191,
-    "home_score": 0.7216,
+    "freshness_score": 0.7159516029858417,
+    "home_score": 0.6937,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "ddb7608d062275b17dc19f5568304a7d00061bf6",
-    "title": "FFXIV Evercold Concept Art for Characters, Towns, Locations Shared",
-    "url": "https://www.siliconera.com/ffxiv-evercold-concept-art-for-characters-towns-locations-shared/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-evercold-concept-art-for-characters-towns-locations-shared",
+    "id": "cb84b6ac7d90d223c81711209cb5140ae0193f86",
+    "title": "Announcing FINAL FANTASY XIV for Nintendo Switch 2!",
+    "url": "https://img.finalfantasyxiv.com/t/a6ea855ea930740e9f2f42380256b1f522b619b9.png?1777061167",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-04-24T20:03:00Z",
+    "summary": "FINAL FANTASY XIV will make its debut on the Nintendo Switch\u2122 2 in August 2026 ! Those playing FINAL FANTASY XIV for the first time on Nintendo Switch 2 Purchase FINAL FANTASY XIV",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9444836624117502,
+    "home_score": 0.6935,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "85742afb29a5080f217514a7d4ce81731eb9bb07",
+    "title": "FINAL FANTASY XIV x EVANGELION Crossover Announced!",
+    "url": "https://img.finalfantasyxiv.com/t/06a26b64eddb79b18a7e04972f6e55b1702951ff.png?1777061168",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-04-24T20:02:00Z",
+    "summary": "EVANGELION is coming to FINAL FANTASY XIV! The crossover series, titled \u201cGhosts of Desire,\u201d will serve as the alliance raid of the upcoming expansion, Evercold",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9442650523260798,
+    "home_score": 0.6934,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "March 8, 2021",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b0c321ffef6d97f40f3efe8b82ee5e10116a7481",
+    "title": "FINAL FANTASY XIV: Evercold Coming January 2027!",
+    "url": "https://img.finalfantasyxiv.com/t/4eed7e7fcdbab61ce57b3822e4b19f6cc8af3d30.jpg?1777061167",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-04-24T20:00:00Z",
+    "summary": "It gives us great pleasure to announce the sixth expansion to FINAL FANTASY XIV, Evercold! The trailer unveiled during the Fan Festival keynote can now be viewed on the FINAL FANTA",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9438279873933909,
+    "home_score": 0.6932,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "489f1a47eed561ea73f12b92f1b2a47ad4e4b81a",
+    "title": "Final Fantasy XIV x Evangelion Raid Series Announced",
+    "url": "https://www.siliconera.com/final-fantasy-xiv-x-evangelion-raid-series-announced/?utm_source=rss&utm_medium=rss&utm_campaign=final-fantasy-xiv-x-evangelion-raid-series-announced",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-24T17:51:52Z",
-    "summary": "See new Final Fantasy XIV Evercold concept art of characters, towns, and locations Naoki Yoshida shared at FFXIV Fan Fest 2026",
+    "published_at": "2026-04-24T19:06:55Z",
+    "summary": "As part of the Evangelion 30th anniversary celebration, a Raid series based on the anime will come to FFXIV",
     "content": "",
     "categories": [
       "games",
@@ -823,13 +823,128 @@
     ],
     "tags": [],
     "entity_tags": [
-      "FFXIV Fan Festival",
       "Final Fantasy"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9957257700122735,
-    "home_score": 0.7211,
+    "freshness_score": 0.9323017226291476,
+    "home_score": 0.6925,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0ceba7be45b7124cb0fb17438516e8147853ae99",
+    "title": "Chrono Trigger Chrono and Marle Form-ism Figures Set for September",
+    "url": "https://www.siliconera.com/chrono-trigger-chrono-and-marle-form-ism-figures-set-for-september/?utm_source=rss&utm_medium=rss&utm_campaign=chrono-trigger-chrono-and-marle-form-ism-figures-set-for-september",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-24T19:00:00Z",
+    "summary": "The first two Chrono Trigger characters to join the Square Enix Form-ism figure collection are Chrono and Marle",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9308102256375044,
+    "home_score": 0.6919,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6bc4234dadec00c84b679f480e86b64cb95a4578",
+    "title": "Street Fighter VI Season 4 DLC Leak Might Be Bringing a Final Fantasy VII Character To Metro City - The Outerhaven",
+    "url": "https://www.theouterhaven.net/street-fighter-vi-season-4-dlc-leak-might-be-bringing-a-final-fantasy-vii-character-to-metro-city/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T21:07:01Z",
+    "summary": "Street Fighter VI Season 4 DLC Leak Might Be Bringing a Final Fantasy VII Character To Metro City The Outerhaven",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9585837001142129,
+    "home_score": 0.6914,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "66737f9451b400c520e01c76922148a4f91bce5f",
+    "title": "Caedrel, Ludwig, ohnePixel and more streamers face off in Twitch Rivals GeoGuessr tournament",
+    "url": "https://esports.gg/news/streamers/streamers-twitch-rivals-geoguessr-tournament/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-24T19:05:11Z",
+    "summary": "Several streamers will team up to compete for the title of ultimate GeoGuessr duo in Joe Bartolozzi\u2019s tournament, streamed on Twitch Rivals",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9319273476272577,
+    "home_score": 0.6914,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c1990998478fbe68aaf04febb12c531d56586338",
+    "title": "FFXIV Same-Region Player Matching Arrives in 7.5X",
+    "url": "https://www.siliconera.com/ffxiv-same-region-player-matching-arrives-in-7-5x/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-same-region-player-matching-arrives-in-7-5x",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-24T18:54:55Z",
+    "summary": "FFXIV same-region player matching will arrive in the MMORPG as part of the 7",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.929715586339056,
+    "home_score": 0.6914,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -856,11 +971,130 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.9519513458391216,
-    "home_score": 0.7204,
+    "freshness_score": 0.8759647414509022,
+    "home_score": 0.6862,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8a257e4ccc82181aba35adee2622c227b6db7c75",
+    "title": "Former 3DS and Vita JRPG Exstetra Headed to PC via Steam",
+    "url": "https://www.siliconera.com/former-3ds-and-vita-jrpg-exstetra-headed-to-pc-via-steam/?utm_source=rss&utm_medium=rss&utm_campaign=former-3ds-and-vita-jrpg-exstetra-headed-to-pc-via-steam",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-24T18:00:00Z",
+    "summary": "Exstetra, which originally appeared as a Japan-exclusive 3DS and Vita JRPG, will appear the PC via Steam worldwide with a new remaster",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9179716646578887,
+    "home_score": 0.6861,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ddb7608d062275b17dc19f5568304a7d00061bf6",
+    "title": "FFXIV Evercold Concept Art for Characters, Towns, Locations Shared",
+    "url": "https://www.siliconera.com/ffxiv-evercold-concept-art-for-characters-towns-locations-shared/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-evercold-concept-art-for-characters-towns-locations-shared",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-24T17:51:52Z",
+    "summary": "See new Final Fantasy XIV Evercold concept art of characters, towns, and locations Naoki Yoshida shared at FFXIV Fan Fest 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "FFXIV Fan Festival",
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9162450091146751,
+    "home_score": 0.6853,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "63976567b941da8a4cc5e906e9e78518fe6987d5",
+    "title": "'FINAL FANTASY XIV Online' \"Evercold\" Expac Announced for January '27 Release, Switch 2 Version - playday.one",
+    "url": "https://playday.one/2026/04/25/final-fantasy-xiv-online-evercold-expac-announced-for-january-27-release-switch-2-version/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T23:04:05Z",
+    "summary": "'FINAL FANTASY XIV Online' \"Evercold\" Expac Announced for January '27 Release, Switch 2 Version playday",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9849152990927632,
+    "home_score": 0.6832,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "264a9765a7e380e5a37f60421f738b33c8ee574f",
+    "title": "Final Fantasy XIV: Evercold Expansion Announced with Teaser Trailer",
+    "url": "https://crunchyroll.com/news/latest/2026/4/24/final-fantasy-xiv-evercold-expansion-announced-with-teaser-trailer",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-24T18:10:00Z",
+    "summary": "Latest expansion in MMORPG unveiled at Fan Festival 2026 in Anaheim",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9200987691258259,
+    "home_score": 0.6825,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -885,8 +1119,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9864877415510268,
-    "home_score": 0.7169,
+    "freshness_score": 0.9077443779029806,
+    "home_score": 0.6815,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -914,45 +1148,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9838423908312461,
-    "home_score": 0.7157,
+    "freshness_score": 0.9053101843343885,
+    "home_score": 0.6804,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "170a4e4c6c6272a94d3d84008cb5b64f106f45ca",
-    "title": "Crunchyroll Streams The Quintessential Quintuplets TV Specials, Debuts Chainsaw Man \u2013 The Movie: Reze Arc on April 30",
-    "url": "https://anitrendz.net/news/2026/04/24/crunchyroll-streams-the-quintessential-quintuplets-tv-specials-debuts-chainsaw-man-the-movie-reze-arc-on-april-30/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-streams-the-quintessential-quintuplets-tv-specials-debuts-chainsaw-man-the-movie-reze-arc-on-april-30",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-24T17:56:58Z",
-    "summary": "Crunchyroll is now streaming the two anime specials of The Quintessential Quintuplets, and will also stream Chainsaw Man \u2013 The Movie: Reze Arc on April 30, 2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9969015345538955,
-    "home_score": 0.7156,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 30",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -978,10 +1178,69 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9568891354967578,
-    "home_score": 0.7146,
+    "freshness_score": 0.880508387152645,
+    "home_score": 0.6802,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "170a4e4c6c6272a94d3d84008cb5b64f106f45ca",
+    "title": "Crunchyroll Streams The Quintessential Quintuplets TV Specials, Debuts Chainsaw Man \u2013 The Movie: Reze Arc on April 30",
+    "url": "https://anitrendz.net/news/2026/04/24/crunchyroll-streams-the-quintessential-quintuplets-tv-specials-debuts-chainsaw-man-the-movie-reze-arc-on-april-30/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-streams-the-quintessential-quintuplets-tv-specials-debuts-chainsaw-man-the-movie-reze-arc-on-april-30",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-24T17:56:58Z",
+    "summary": "Crunchyroll is now streaming the two anime specials of The Quintessential Quintuplets, and will also stream Chainsaw Man \u2013 The Movie: Reze Arc on April 30, 2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9173269202626525,
+    "home_score": 0.6798,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 30",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "2df9498a20b13caf5810edd11eac2c42396d0197",
+    "title": "Final Fantasy XIV Is Coming To Nintendo Switch 2, But There's A Terrible And Expensive Catch - Game Informer",
+    "url": "https://gameinformer.com/2026/04/24/final-fantasy-xiv-is-coming-to-nintendo-switch-2-but-theres-a-terrible-and-expensive",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T22:11:07Z",
+    "summary": "Final Fantasy XIV Is Coming To Nintendo Switch 2, But There's A Terrible And Expensive Catch Game Informer",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9729131782847306,
+    "home_score": 0.6778,
+    "source_quality": 0.76,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1003,8 +1262,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9880718291852719,
-    "home_score": 0.7116,
+    "freshness_score": 0.9092020191150583,
+    "home_score": 0.6761,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1020,27 +1279,54 @@
     "result_type": "article"
   },
   {
-    "id": "733c0a8e87ec62d8975957dc5629b26177f336b8",
-    "title": "You Can Wear a Tales of Vesperia Yuri Lowell Blastia Replica",
-    "url": "https://www.siliconera.com/you-can-wear-a-tales-of-vesperia-yuri-lowell-blastia-replica/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-wear-a-tales-of-vesperia-yuri-lowell-blastia-replica",
-    "source_name": "Siliconera",
+    "id": "d8c8d006f007195aab4251672788d777fa8134bb",
+    "title": "Final Fantasy XIV's next expansion is Evercold, launching January 2027",
+    "url": "https://www.rpgsite.net/news/20227-final-fantasy-14-new-expansion-evercold-january-2027-release-xiv-fanfest",
+    "source_name": "RPG Site",
     "source_type": "rss",
-    "published_at": "2026-04-24T16:00:00Z",
-    "summary": "Increase in physical ability not guaranteed",
+    "published_at": "2026-04-24T20:08:10Z",
+    "summary": "Square Enix showcased Final Fantasy XIV: Evercold, launching January 2027, as the next FF14 expansion",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch",
-      "events"
+      "anime"
     ],
-    "tags": [],
-    "entity_tags": [],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9702723662033472,
-    "home_score": 0.7096,
-    "source_quality": 0.82,
+    "freshness_score": 0.9456141193544834,
+    "home_score": 0.673,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "13272ea3a440b9d8ee67b531a8cd5d2e97174c2d",
+    "title": "Final Fantasy XIV's Next Expansion, Evercold, Takes Players To The Fourth - Here Are All The Details From Today's Keynote - MMORPG.com",
+    "url": "https://www.mmorpg.com/news/final-fantasy-xivs-next-expansion-evercold-takes-players-to-the-fourth-here-are-all-the-details-from-todays-keynote-2000137898",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T21:20:00Z",
+    "summary": "Final Fantasy XIV's Next Expansion, Evercold, Takes Players To The Fourth - Here Are All The Details From Today's Keynote MMORPG",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9614689665032513,
+    "home_score": 0.6727,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1063,74 +1349,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9942628856770873,
-    "home_score": 0.7084,
+    "freshness_score": 0.9148989011983157,
+    "home_score": 0.6727,
     "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9652802909993f9deabc169afd5298e580c4c65b",
-    "title": "Zenless Zone Zero 2.8 New Eridan Sunset Launches May 6, Steam Version Confirmed",
-    "url": "https://noisypixel.net/zenless-zone-zero-2-8-new-eridan-sunset-steam-version/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-24T13:23:06Z",
-    "summary": "HoYoverse has confirmed that Zenless Zone Zero Version 2",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9356647043134491,
-    "home_score": 0.708,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 6",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c36faafb3aa224772aa9c6a80d31e37a8441c2a5",
-    "title": "Interview: Naomi Payton on Becoming a Musical Artist and Voice Actor",
-    "url": "https://animecorner.me/interview-naomi-payton-on-becoming-a-musical-artist-and-voice-actor/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-24T16:03:42Z",
-    "summary": "Naomi Payton visited the Philippines for her guest appearance at the Japanese Anime Music\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9711034790235715,
-    "home_score": 0.707,
-    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1155,38 +1376,142 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9243375482185487,
-    "home_score": 0.706,
+    "freshness_score": 0.8505551333963485,
+    "home_score": 0.6727,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "640012a037d12a29fea2079bafd64e8c39ff7e5a",
-    "title": "Snezhnaya Region Arrives in Genshin Impact in August 2026",
-    "url": "https://www.siliconera.com/snezhnaya-region-arrives-in-genshin-impact-in-august-2026/?utm_source=rss&utm_medium=rss&utm_campaign=snezhnaya-region-arrives-in-genshin-impact-in-august-2026",
-    "source_name": "Siliconera",
+    "id": "c36faafb3aa224772aa9c6a80d31e37a8441c2a5",
+    "title": "Interview: Naomi Payton on Becoming a Musical Artist and Voice Actor",
+    "url": "https://animecorner.me/interview-naomi-payton-on-becoming-a-musical-artist-and-voice-actor/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-04-24T15:00:00Z",
-    "summary": "HoYoVerse shared details about the Genshin Impact Cryo nation Snezhnaya and confirmed the release date for it",
+    "published_at": "2026-04-24T16:03:42Z",
+    "summary": "Naomi Payton visited the Philippines for her guest appearance at the Japanese Anime Music\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.893588116819615,
+    "home_score": 0.6721,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "726de914455b96687d86b4cdfe2d2ff11d1a2a5e",
+    "title": "Final Fantasy XIV is coming to Nintendo Switch 2 this August",
+    "url": "https://www.rpgsite.net/news/20211-final-fantasy-14-nintendo-switch-2-release-date-august-2026",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-24T19:58:13Z",
+    "summary": "Square Enix finally announces a Switch 2 port of FF14",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9434386497998294,
+    "home_score": 0.672,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c4718e7a9bdbf17d666d0838b762c0b527ad0de5",
+    "title": "Evercold Will Usher In Final Fantasy XIV\u2019s New Era In 2027 - Comics Gaming Magazine",
+    "url": "https://www.cgmagonline.com/news/evercold-final-fantasy-xiv-new-era-2027/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T21:07:18Z",
+    "summary": "Evercold Will Usher In Final Fantasy XIV\u2019s New Era In 2027 Comics Gaming Magazine",
+    "content": "",
+    "categories": [
+      "games",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9586465796347625,
+    "home_score": 0.6714,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "cf4bd25b0e8677a6955990ef14700761a5d3bc89",
+    "title": "Final Fantasy 14 coming to Nintendo Switch 2",
+    "url": "https://nintendoeverything.com/final-fantasy-14-coming-to-nintendo-switch-2/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-24T19:16:15Z",
+    "summary": "Square Enix is bringing Final Fantasy 14 to Nintendo Switch 2, Square Enix just announced",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "merch",
-      "events",
-      "gacha"
+      "merch"
     ],
     "tags": [
-      "hoyoverse"
+      "jrpg"
     ],
-    "entity_tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9568895116037307,
-    "home_score": 0.7036,
-    "source_quality": 0.82,
+    "freshness_score": 0.9343179505124483,
+    "home_score": 0.6679,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "44a7c095082505bd6c27d15c903afd2cbb2c8c9c",
+    "title": "\u2018Final Fantasy XIV\u2019 Wants You to Chill - Gizmodo",
+    "url": "https://gizmodo.com/final-fantasy-xiv-evercold-gameplay-changes-2000750540",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T20:15:09Z",
+    "summary": "\u2018Final Fantasy XIV\u2019 Wants You to Chill Gizmodo",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9471436003326587,
+    "home_score": 0.6662,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1211,35 +1536,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9547984050246049,
-    "home_score": 0.6997,
+    "freshness_score": 0.8785845330358782,
+    "home_score": 0.6654,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "09563315b22374f66cfdde47d9952ce988997399",
-    "title": "Konami Code 40th Anniversary Projects & Merchandise Revealed",
-    "url": "https://www.siliconera.com/konami-code-40th-anniversary-projects-merchandise-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=konami-code-40th-anniversary-projects-merchandise-revealed",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-24T14:00:36Z",
-    "summary": "The celebrations will also mark the same anniversary for the NES Gradius, which was the first game to have the code implemented",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9438223221193125,
-    "home_score": 0.6977,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1265,10 +1564,64 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.895974605566526,
-    "home_score": 0.6952,
+    "freshness_score": 0.8244561732001019,
+    "home_score": 0.663,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c01f14a07cb05aac643835bd6038a7be67260094",
+    "title": "10 JRPGs Where the Villain Feels More Compelling Than the Hero",
+    "url": "https://www.dualshockers.com/jrpgs-where-the-villain-feels-more-compelling-than-the-hero/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-04-24T18:47:46Z",
+    "summary": "With interesting characterization and backstories, these are the JRPGs Where the Villain Feels More Compelling Than the Hero",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9281777899751803,
+    "home_score": 0.6622,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/04/mixcollage-24-apr-2026-02-12-pm-4182-cropped.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a353d927c029e236309858be42c3897b0446cf3d",
+    "title": "SQUARE ENIX ANNOUNCES EVERCOLD\u2014 LATEST FINAL FANTASY XIV EXPANSION SET FOR JANUARY 2027 - Square Enix press site",
+    "url": "https://press.na.square-enix.com/SQUARE-ENIX-ANNOUNCES-EVERCOLD-LATEST-FINAL-FANTASY-XIV-EXPANSION-SET-",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-24T19:28:33Z",
+    "summary": "SQUARE ENIX ANNOUNCES EVERCOLD\u2014 LATEST FINAL FANTASY XIV EXPANSION SET FOR JANUARY 2027 Square Enix press site",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9369816319831219,
+    "home_score": 0.6616,
+    "source_quality": 0.76,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1290,8 +1643,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9444085495235169,
-    "home_score": 0.695,
+    "freshness_score": 0.8690240159460493,
+    "home_score": 0.6611,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1319,8 +1672,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9434034120052016,
-    "home_score": 0.6945,
+    "freshness_score": 0.8680991229182536,
+    "home_score": 0.6606,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1333,34 +1686,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "d8c8d006f007195aab4251672788d777fa8134bb",
-    "title": "Final Fantasy XIV's next expansion is Evercold, launching January 2027",
-    "url": "https://www.rpgsite.net/news/20227-final-fantasy-14-new-expansion-evercold-january-2027-release-xiv-fanfest",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-24T17:27:22Z",
-    "summary": "Square Enix showcased Final Fantasy XIV: Evercold, launching January 2027, as the next FF14 expansion",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9900945352867475,
-    "home_score": 0.693,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1384,8 +1709,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9393285228053594,
-    "home_score": 0.6927,
+    "freshness_score": 0.8643494992266277,
+    "home_score": 0.659,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1419,8 +1744,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9412910942044999,
-    "home_score": 0.6921,
+    "freshness_score": 0.8661554138275552,
+    "home_score": 0.6583,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1453,8 +1778,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9402459143067956,
-    "home_score": 0.6921,
+    "freshness_score": 0.8651936675433218,
+    "home_score": 0.6583,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1478,456 +1803,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9374387218662518,
-    "home_score": 0.6918,
+    "freshness_score": 0.8626105458718429,
+    "home_score": 0.6582,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f6625811e548b4e5f4d233c5521c50b383212a4e",
-    "title": "Full Steam Ahead #1 | Celestial Tear: Demon\u2019s Revenge",
-    "url": "https://rpgamer.com/2026/04/full-steam-ahead-1-celestial-tear-demons-revenge/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-24T13:31:11Z",
-    "summary": "Over the past decade and a few, I somehow accumulated a long list of games in my Steam library",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9374170716832637,
-    "home_score": 0.6918,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "November 20, 2015",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "78d9e71a1dc053534c0a84a2cbee7ca1785ac0e3",
-    "title": "Interview: Talking to Holostars Vtuber Banzoin Hakka Ahead of His Mini 3D Live",
-    "url": "https://www.siliconera.com/interview-talking-to-holostars-vtuber-banzoin-hakka-ahead-of-his-mini-3d-live/?utm_source=rss&utm_medium=rss&utm_campaign=interview-talking-to-holostars-vtuber-banzoin-hakka-ahead-of-his-mini-3d-live",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-24T13:00:00Z",
-    "summary": "Ahead of his Mini 3D Live performance, Siliconera spoke to Holostars Vtuber Banzoin Hakka about his musical and game VO performances",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9306750201723334,
-    "home_score": 0.6918,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0d2adea23d491583e72a17c4ff3c419bcd52aab9",
-    "title": "Genshin Impact Snezhnaya Region Confirmed for August 12, 2026",
-    "url": "https://noisypixel.net/genshin-impact-snezhnaya-region-release-date-august-12-2026/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-24T13:51:35Z",
-    "summary": "HoYoverse has confirmed that Genshin Impact will introduce the Snezhnaya region on August 12, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.941854269372897,
-    "home_score": 0.6908,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 12, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "5ee41c2e044f90b38baaa81eeb9c0d69a319292e",
-    "title": "2XKO Red Bull Knockout, the first Duos-only event with SonicFox, Wawa, and more",
-    "url": "https://esports.gg/news/2xko/red-bull-knockout-announcement/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-24T10:45:19Z",
-    "summary": "Riot Games crafts something unique in the world of fighting esports",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.902106929514815,
-    "home_score": 0.6899,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "659b239cfd4a6e8cce4a9ab580f45972d9f2e1f2",
-    "title": "Zenless Zone Zero Version 2.8 'New: Eridan Sunset' launches on May 6 bringing in Promeia and Starlight - Billy",
-    "url": "https://www.rpgsite.net/news/20223-zenless-zone-zero-version-2-8-release-date-gameplay-banner",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-24T12:33:19Z",
-    "summary": "This update also features the \"Marcel Bootopia\" themed event, a brand-new Wind-attribute enemy, and a new outfit for Miyabi",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9249440927980124,
-    "home_score": 0.6877,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 6",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3853f021d36d9daf5695709956ea5fab1d6d53e4",
-    "title": "Kugayama Shiori\u2019s Death Diary, a horror comedy visual novel about a high school girl ghost whose soul refuses to move on, to launch on Steam as soon as build review concludes. Switch version to release on July 30",
-    "url": "https://automaton-media.com/en/news/kugayama-shioris-death-diary-a-horror-comedy-visual-novel-about-a-high-school-girl-ghost-whose-soul-refuses-to-move-on-to-launch-on-steam/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-04-24T13:00:00Z",
-    "summary": "Laplacian's occult visual novel Kugayama Shiori's Death Diary is set to launch on Steam as soon as it finishes review, with the Switch version coming on July 30",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9306748651603788,
-    "home_score": 0.6873,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 30",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "47591cd699c9c8cbee35ddb1b3b3f1d9cb6269f0",
-    "title": "Square Enix Cafe & Shop Locations Opening in Los Angeles and Shinjuku",
-    "url": "https://monstervine.com/2026/04/square-enix-cafe-shop-los-angeles-shinjuku-spring-2026/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-04-24T17:13:12Z",
-    "summary": "Square Enix has announced plans to open permanent Square Enix Cafe & Shop locations in Los Angeles and Shinjuku, Tokyo",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9868527192091457,
-    "home_score": 0.6871,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "cafe",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c969ba4b6a9ee370b36550b6ec99c9b5c70cd908",
-    "title": "Clair Obscur Expedition 33 Surpasses 8 Million Sales Worldwide in 1 Year",
-    "url": "https://noisypixel.net/clair-obscur-expedition-33-sales-8-million/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-24T13:05:40Z",
-    "summary": "Sandfall Interactive and Kepler Interactive have announced that their breakout hit turn-based RPG, Clair Obscur: Expedition 33, has sold over eight million units worldwide",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9318964399819232,
-    "home_score": 0.6864,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e1be938fdaba74732286332685b5bd5e1b55eef8",
-    "title": "Final Fantasy XIV: Evercold Reveal Trailer and Release Window - VICE",
-    "url": "https://www.vice.com/en/article/final-fantasy-xiv-evercold-reveal-trailer-and-release-window/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-24T17:30:02Z",
-    "summary": "Final Fantasy XIV: Evercold Reveal Trailer and Release Window VICE",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9907055116471875,
-    "home_score": 0.6858,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c22288f9d79e6e735c72d3cfb51beb42b79bec29",
-    "title": "Emaqi Adds Kyuri Yamada\u2019s The Gene of Ai & 2 More Manga Series",
-    "url": "https://anitrendz.net/news/2026/04/24/emaqi-adds-kyuri-yamadas-the-gene-of-ai-2-more-manga-series/?utm_source=rss&utm_medium=rss&utm_campaign=emaqi-adds-kyuri-yamadas-the-gene-of-ai-2-more-manga-series",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-24T13:00:00Z",
-    "summary": "Three new manga series are joining the digital library of AI localization company Orange Inc\u2019s emaqi service, including the science fiction title The Gene of AI",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9306746153431499,
-    "home_score": 0.6858,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "390de0e74cbe87f99a84621939e55282e1b9f115",
-    "title": "10 Xbox Series S/X JRPGs That Are Fun from the Beginning",
-    "url": "https://www.dualshockers.com/xbox-series-jrpgs-that-are-fun-from-the-start/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-04-24T16:30:15Z",
-    "summary": "These JRPGs throw you straight into the action and immerse you in their incredible worlds right away",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9770900523578329,
-    "home_score": 0.6842,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/best-jrpgs.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "68845ed36c6a31e092b8965956d8b1f8da7f3124",
-    "title": "10 Final Fantasy X Details That Have Aged Well",
-    "url": "https://www.dualshockers.com/final-fantasy-x-details-that-players-appreciate-much-more-as-adults/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-04-24T16:30:15Z",
-    "summary": "Sometimes, stories hit harder as you get older",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9770900512156327,
-    "home_score": 0.6842,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/copy-of-copy-of-copy-of-copy-of-copy-of-untitled-23.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bea03ae22eca1ef94ee1b9a0fb5ccf06a74be04d",
-    "title": "A Girl Journeys With Her Dog and a Poet\u2019s Voice in Dreaming of a Whale Anime Trailer",
-    "url": "https://anitrendz.net/news/2026/04/24/a-girl-journeys-with-her-dog-and-a-poets-voice-in-dreaming-of-a-whale-anime-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=a-girl-journeys-with-her-dog-and-a-poets-voice-in-dreaming-of-a-whale-anime-trailer",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-24T12:18:19Z",
-    "summary": "A main trailer for independent anime short film Dreaming of a Whale (Kujira o Yumemu) has been released ahead of its May 1 debut on YouTube",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9217377935296229,
-    "home_score": 0.6818,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 1",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a8e2992da38e75533c442aa2566927b95e586f04",
-    "title": "GIRLS und PANZER das Finale Part 5 Anime Shares New Teaser Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/4/24/girls-und-panzer-das-finale-anime-part-5-shares-new-teaser-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-24T12:03:00Z",
-    "summary": "Fifth entry in theatrical OVA series hits Japanese cinemas on October 9",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9184756550036933,
-    "home_score": 0.6818,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "October 9",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   }
 ]
