@@ -120,6 +120,48 @@
     "result_type": "event"
   },
   {
+    "id": "b8186cca402a81638e8cab065f821851b6f38bca",
+    "title": "RPGamer Round-Up: April 19 \u2013 April 26",
+    "url": "https://rpgamer.com/2026/04/rpgamer-round-up-april-19-april-26-2/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-26T10:08:25Z",
+    "summary": "Welcome to the latest edition of RPGamer's round-up column, where we look back at some of the articles that we have posted over the intervening period",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "jrpg",
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9725646384544063,
+    "home_score": 0.8327,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 19",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "d958943683b299952c291ef741715e325d40f62e",
     "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
     "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
@@ -156,6 +198,43 @@
       "venue": "Singapore EXPO",
       "ticket_status": null,
       "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "f3e4f5b81f6abf18838a20cab6155fb06e3c4f35",
+    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
+    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537026669",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-04-29T00:00:00Z",
+    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 1.0,
+    "home_score": 0.8045,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
+    "event_metadata": {
+      "event_type": "workshop",
+      "date_label": "29 Apr 2026",
+      "venue": "20B Mosque St",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537026669",
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
@@ -371,49 +450,103 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.8128582049777024,
-    "home_score": 0.7733,
+    "freshness_score": 0.752009399578217,
+    "home_score": 0.7459,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "2791c2128a9993c357bd6c07cb90f2c9fa6e09bc",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537284440",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-04-26T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "id": "759cf5edcb99d89be516516b52c5def937f66ab5",
+    "title": "Bungo Stray Dogs WAN! 2 Anime Reveals July 2026 Premiere, Main Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/4/26/bungo-stray-dogs-wan-2-anime-july-2026-premiere-main-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-26T08:00:00Z",
+    "summary": "The upcoming second season will stream on Crunchyroll",
     "content": "",
     "categories": [
-      "events",
       "anime",
       "manga",
-      "merch"
+      "games",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9131561323857644,
-    "home_score": 0.7654,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9440794499725803,
+    "home_score": 0.7133,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "46e97a77b950eacaef8977b0f3d33be5696cb214",
+    "title": "Re:ZERO Season 4 Tops Spring 2026 Ranking for Third Straight Time in Week 3",
+    "url": "https://animecorner.me/rezero-season-4-tops-spring-2026-ranking-for-third-straight-time-in-week-3/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-26T06:58:10Z",
+    "summary": "Re:ZERO -Starting Life in Another World- Season 4 has topped the weekly Spring 2026 anime\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9306628632410622,
+    "home_score": 0.7088,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bead52a3e2860c6305d5c973de53ae84116e4eeb",
+    "title": "Everything from PGL Wallachia Season 8, a $1 million Dota 2 event",
+    "url": "https://esports.gg/news/dota-2/pgl-wallachia-season-8-details-results/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-26T07:48:21Z",
+    "summary": "This big Dota 2 esports tournament gathers the best teams in the world for intense competition in the PGL Studio",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.941536844036386,
+    "home_score": 0.7077,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "26 Apr 2026",
-      "venue": "20B Mosque St",
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537284440",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
     "id": "bb2329175b6d03a515d53605980cdadafc4e0739",
@@ -435,9 +568,109 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.972285997758561,
-    "home_score": 0.7245,
+    "freshness_score": 0.8995027566952445,
+    "home_score": 0.6918,
     "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f4577308688f402dc2179c85cd77ed9aa0f6ad18",
+    "title": "NIPPON SANGOKU Reveals Episode 4 Preview Images and Synopsis",
+    "url": "https://animecorner.me/nippon-sangoku-reveals-episode-4-preview-images-and-synopsis/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-26T07:15:56Z",
+    "summary": "NIPPON SANGOKU Reveals Episode 4 Preview Images and Synopsis",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9344982401990847,
+    "home_score": 0.6905,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d4cbf29c7cfca75c21654999911b310ccf886d67",
+    "title": "Cryptic offers free characters in Star Trek Online, Neverwinter, and Champions Online for Quick Start promo",
+    "url": "https://www.rpgsite.net/news/20238-cryptic-offers-free-characters-in-star-trek-online-neverwinter-champions-online-for-quick-start-promo",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-26T07:37:02Z",
+    "summary": "Developer Cryptic Studios has kicked off a new Quick Start campaign across its MMORPGs offering free, fully geared-up endgame-level characters for players to try",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9390738804715986,
+    "home_score": 0.6901,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d99093bf18ce1c45555374e5ab15dac40e29373f",
+    "title": "After 13 years, Final Fantasy 14 is finally letting healers be healers by removing cast times for attack spells and changing GCD heals: \"We want healing to be a healer's main priority\" - GamesRadar+",
+    "url": "https://www.gamesradar.com/games/final-fantasy/after-13-years-final-fantasy-14-is-finally-letting-healers-be-healers-by-removing-cast-times-for-attack-spells-and-changing-gcd-heals-we-want-healing-to-be-a-healers-main-priority/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-26T10:45:15Z",
+    "summary": "After 13 years, Final Fantasy 14 is finally letting healers be healers by removing cast times for attack spells and changing GCD heals: \"We want healing to be a healer's main prior",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.980892036316227,
+    "home_score": 0.6814,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6e3489994314cfe248256627cd3008ebf48426e2",
+    "title": "Final Fantasy XIV director would love to hear pitches for single-player spin-off - My Nintendo News",
+    "url": "https://mynintendonews.com/2026/04/26/final-fantasy-xiv-director-would-love-to-hear-pitches-for-single-player-spin-off/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-26T10:23:57Z",
+    "summary": "Final Fantasy XIV director would love to hear pitches for single-player spin-off My Nintendo News",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.976067592990946,
+    "home_score": 0.6792,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -462,8 +695,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9877687488192642,
-    "home_score": 0.7115,
+    "freshness_score": 0.9138265021950478,
+    "home_score": 0.6782,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -496,8 +729,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.1,
-    "freshness_score": 0.9788234463118008,
-    "home_score": 0.7055,
+    "freshness_score": 0.9055508334402237,
+    "home_score": 0.6725,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -524,47 +757,13 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7179675686305586,
-    "home_score": 0.6946,
+    "freshness_score": 0.6642220690989872,
+    "home_score": 0.6704,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
       "event_type": "cafe",
       "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "65b0135a4adf845e8b6680abe7b421dea7e4671e",
-    "title": "Nintendo Switch 2 eShop charts \u2013 April 26, 2026 \u2013 Pokemon Pokopia dominates again",
-    "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-april-26-2026/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-04-26T05:21:16Z",
-    "summary": "The latest Nintendo Switch 2 eShop charts for the week of April 26, 2026 are now available",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9836543064061913,
-    "home_score": 0.6901,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 26, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -594,11 +793,45 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8891168785376489,
-    "home_score": 0.6871,
+    "freshness_score": 0.82255949931418,
+    "home_score": 0.6572,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "65b0135a4adf845e8b6680abe7b421dea7e4671e",
+    "title": "Nintendo Switch 2 eShop charts \u2013 April 26, 2026 \u2013 Pokemon Pokopia dominates again",
+    "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-april-26-2026/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-26T05:21:16Z",
+    "summary": "The latest Nintendo Switch 2 eShop charts for the week of April 26, 2026 are now available",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.91002007037646,
+    "home_score": 0.657,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 26, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -619,8 +852,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9254203877590881,
-    "home_score": 0.6774,
+    "freshness_score": 0.8561454151097805,
+    "home_score": 0.6463,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -647,8 +880,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8518944545293882,
-    "home_score": 0.6719,
+    "freshness_score": 0.7881234727799011,
+    "home_score": 0.6432,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -674,8 +907,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.842068520471484,
-    "home_score": 0.6644,
+    "freshness_score": 0.7790330821770824,
+    "home_score": 0.6361,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -691,27 +924,28 @@
     "result_type": "article"
   },
   {
-    "id": "2f1519438888a8fd1245219acce5f69191d1b806",
-    "title": "10 JRPG Series With 5+ Games That Are Worth Your Time - Comic Book Resources",
-    "url": "https://www.cbr.com/jrpg-series-with-5-games-that-are-worth-your-time/",
-    "source_name": "Google News JRPG",
+    "id": "4dc0a17e404a1d0838eec47bab06a2569343be08",
+    "title": "Skeleton Knight in Another World Season 2 Reveals Main Trailer, Another New Visual, and More",
+    "url": "https://anitrendz.net/news/2026/04/25/skeleton-knight-in-another-world-season-2-reveals-main-trailer-another-new-visual-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=skeleton-knight-in-another-world-season-2-reveals-main-trailer-another-new-visual-and-more",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-04-26T02:15:12Z",
-    "summary": "10 JRPG Series With 5+ Games That Are Worth Your Time Comic Book Resources",
+    "published_at": "2026-04-25T16:55:22Z",
+    "summary": "A main trailer for the upcoming second season of Skeleton Knight in Another World has been revealed, along with a fresh visual and ending theme song details",
     "content": "",
     "categories": [
-      "games",
-      "comics"
+      "anime",
+      "manga",
+      "events"
     ],
-    "tags": [
-      "jrpg"
-    ],
+    "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9421864004918095,
-    "home_score": 0.664,
-    "source_quality": 0.76,
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7657106092449286,
+    "home_score": 0.6316,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -739,36 +973,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8759001859954718,
-    "home_score": 0.6597,
+    "freshness_score": 0.8103321907710316,
+    "home_score": 0.6301,
     "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4dc0a17e404a1d0838eec47bab06a2569343be08",
-    "title": "Skeleton Knight in Another World Season 2 Reveals Main Trailer, Another New Visual, and More",
-    "url": "https://anitrendz.net/news/2026/04/25/skeleton-knight-in-another-world-season-2-reveals-main-trailer-another-new-visual-and-more/?utm_source=rss&utm_medium=rss&utm_campaign=skeleton-knight-in-another-world-season-2-reveals-main-trailer-another-new-visual-and-more",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-25T16:55:22Z",
-    "summary": "A main trailer for the upcoming second season of Skeleton Knight in Another World has been revealed, along with a fresh visual and ending theme song details",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8276680617339434,
-    "home_score": 0.6595,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -791,8 +998,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8602305874456203,
-    "home_score": 0.6586,
+    "freshness_score": 0.795835581733187,
+    "home_score": 0.6296,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -820,8 +1027,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8588345125679948,
-    "home_score": 0.658,
+    "freshness_score": 0.7945440137971697,
+    "home_score": 0.629,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -847,8 +1054,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8518947613954984,
-    "home_score": 0.6564,
+    "freshness_score": 0.7881237396594735,
+    "home_score": 0.6277,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -873,42 +1080,43 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8638123291156342,
-    "home_score": 0.6542,
+    "freshness_score": 0.7991492049621005,
+    "home_score": 0.6251,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "10aaaa25d7ce2755e2d529e45514bf829e19131c",
-    "title": "Final Fantasy XIV Anaheim Fan Fest Press Conference Provides Further Evercold Insights",
-    "url": "https://rpgamer.com/2026/04/final-fantasy-xiv-anaheim-fan-fest-press-conference-provides-further-evercold-insights/",
-    "source_name": "RPGamer",
+    "id": "fd4ad7e92121bf87004cb04150d6935ece0a3045",
+    "title": "Disgaea Mayhem Launches July 23 on Switch 2, PS5, Switch, and PC",
+    "url": "https://monstervine.com/2026/04/disgaea-mayhem-release-date-july-23/",
+    "source_name": "MonsterVine",
     "source_type": "rss",
-    "published_at": "2026-04-25T18:06:44Z",
-    "summary": "Shortly after the Piano Concert at Final Fantasy XIV Fan Fest in Anaheim, producer and director Naoki Yoshida held a press conference regarding the day's earlier announcement of th",
+    "published_at": "2026-04-24T14:22:50Z",
+    "summary": "NIS America has announced Disgaea Mayhem, a new action RPG spinoff of the long-running Disgaea series",
     "content": "",
     "categories": [
       "games",
       "anime",
+      "merch",
       "events"
     ],
     "tags": [
-      "jrpg"
+      "singapore"
     ],
-    "entity_tags": [
-      "Final Fantasy"
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
     ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8414549852461154,
-    "home_score": 0.6487,
-    "source_quality": 0.8,
+    "sg_relevance": 0.5,
+    "freshness_score": 0.5296213476294631,
+    "home_score": 0.6243,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
-      "event_type": "concert",
-      "date_label": null,
+      "event_type": null,
+      "date_label": "July 23",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -939,13 +1147,51 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8035942141594864,
-    "home_score": 0.6486,
+    "freshness_score": 0.7434388782927442,
+    "home_score": 0.6215,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "May 2",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "10aaaa25d7ce2755e2d529e45514bf829e19131c",
+    "title": "Final Fantasy XIV Anaheim Fan Fest Press Conference Provides Further Evercold Insights",
+    "url": "https://rpgamer.com/2026/04/final-fantasy-xiv-anaheim-fan-fest-press-conference-provides-further-evercold-insights/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-25T18:06:44Z",
+    "summary": "Shortly after the Piano Concert at Final Fantasy XIV Fan Fest in Anaheim, producer and director Naoki Yoshida held a press conference regarding the day's earlier announcement of th",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7784654729659467,
+    "home_score": 0.6203,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -975,8 +1221,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8355058844626354,
-    "home_score": 0.648,
+    "freshness_score": 0.7729617218783584,
+    "home_score": 0.6198,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -1003,8 +1249,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.849374181106187,
-    "home_score": 0.6477,
+    "freshness_score": 0.78579186570406,
+    "home_score": 0.6191,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -1038,50 +1284,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8425494884441799,
-    "home_score": 0.6461,
+    "freshness_score": 0.7794780441445416,
+    "home_score": 0.6178,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fd4ad7e92121bf87004cb04150d6935ece0a3045",
-    "title": "Disgaea Mayhem Launches July 23 on Switch 2, PS5, Switch, and PC",
-    "url": "https://monstervine.com/2026/04/disgaea-mayhem-release-date-july-23/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-04-24T14:22:50Z",
-    "summary": "NIS America has announced Disgaea Mayhem, a new action RPG spinoff of the long-running Disgaea series",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.5724756431834551,
-    "home_score": 0.6436,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 23",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1103,8 +1310,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7840953471068429,
-    "home_score": 0.6428,
+    "freshness_score": 0.7253996585694141,
+    "home_score": 0.6164,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1138,8 +1345,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.827981172664852,
-    "home_score": 0.6411,
+    "freshness_score": 0.7660002877891167,
+    "home_score": 0.6132,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1164,9 +1371,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8272148774824519,
-    "home_score": 0.6407,
+    "freshness_score": 0.7652913558497821,
+    "home_score": 0.6129,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d9ffdffc0ff4ba83e60845eb0549e0e923427823",
+    "title": ".45 Parabellum Bloodhound Releasing Later This Year",
+    "url": "https://rpgamer.com/2026/04/45-parabellum-bloodhound-releasing-later-this-year/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-25T16:04:33Z",
+    "summary": "VA-11 Hall-A developer Sukeban Games announced that its latest title, cyberpunk RPG",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7567564259501018,
+    "home_score": 0.6105,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1190,34 +1422,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8707821505331276,
-    "home_score": 0.6394,
+    "freshness_score": 0.8055972777795156,
+    "home_score": 0.61,
     "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d9ffdffc0ff4ba83e60845eb0549e0e923427823",
-    "title": ".45 Parabellum Bloodhound Releasing Later This Year",
-    "url": "https://rpgamer.com/2026/04/45-parabellum-bloodhound-releasing-later-this-year/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-25T16:04:33Z",
-    "summary": "VA-11 Hall-A developer Sukeban Games announced that its latest title, cyberpunk RPG",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8179893469187588,
-    "home_score": 0.6381,
-    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1243,8 +1450,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8343720883756204,
-    "home_score": 0.638,
+    "freshness_score": 0.7719127935087932,
+    "home_score": 0.6099,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/04/10-most-ambitious-ps1-jrpgs.jpg",
     "event_metadata": null,
@@ -1269,8 +1476,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8056057572389883,
-    "home_score": 0.6345,
+    "freshness_score": 0.745299853582182,
+    "home_score": 0.6074,
     "source_quality": 0.76,
     "image_url": "https://media.esports.gg/uploads/2026/04/20260425_FunPowerfulShrewKeyboardCat-MtECzJmz9w_ZRKeH_source.mp4",
     "event_metadata": {
@@ -1303,8 +1510,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.874350136179294,
-    "home_score": 0.6335,
+    "freshness_score": 0.8088981679277517,
+    "home_score": 0.604,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1333,8 +1540,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7674905146907098,
-    "home_score": 0.6294,
+    "freshness_score": 0.7100378358069512,
+    "home_score": 0.6035,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -1359,8 +1566,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8038239143108054,
-    "home_score": 0.6287,
+    "freshness_score": 0.7436513927595276,
+    "home_score": 0.6016,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1385,8 +1592,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7896445536682182,
-    "home_score": 0.6273,
+    "freshness_score": 0.73053347133134,
+    "home_score": 0.6007,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -1420,8 +1627,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7837810156315335,
-    "home_score": 0.6257,
+    "freshness_score": 0.7251088434935662,
+    "home_score": 0.5993,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1448,34 +1655,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7457278962608179,
-    "home_score": 0.6241,
+    "freshness_score": 0.6899043143086633,
+    "home_score": 0.599,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5f504f8d739c5ebdee660fe243f20ad6fa42c92d",
-    "title": "Final Fantasy XIV director on Switch 2 performance, says game reaches \"30fps in a stable state\" - GoNintendo",
-    "url": "https://gonintendo.com/contents/60265-final-fantasy-xiv-director-on-switch-2-performance-says-game-reaches-30fps-in-a",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-25T19:06:18Z",
-    "summary": "Final Fantasy XIV director on Switch 2 performance, says game reaches \"30fps in a stable state\" GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8531374912824253,
-    "home_score": 0.6239,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1499,8 +1681,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7924644696105596,
-    "home_score": 0.6236,
+    "freshness_score": 0.7331422826856547,
+    "home_score": 0.5969,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1524,8 +1706,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.784040890771872,
-    "home_score": 0.6228,
+    "freshness_score": 0.7253492773107629,
+    "home_score": 0.5964,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1558,8 +1740,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7839561967189624,
-    "home_score": 0.6228,
+    "freshness_score": 0.725270923619319,
+    "home_score": 0.5964,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1572,7 +1754,7 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-04-25T08:16:47Z",
-    "summary": "Tensura Movie 2: Tears of the Azure Sea Tickets Go on Sale in Spain",
+    "summary": "Crunchyroll and Sony Pictures Entertainment are bringing That Time I Got Reincarnated as a\u2026",
     "content": "",
     "categories": [
       "anime",
@@ -1586,11 +1768,77 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7340447025255357,
-    "home_score": 0.6203,
+    "freshness_score": 0.6790956964420023,
+    "home_score": 0.5956,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a14b108aa52f6d3d181b707d926d1d5e524a8385",
+    "title": "Skeleton Knight in Another World Season 2 Reveals New Visual and Trailer Featuring ED by DIALOGUE+",
+    "url": "https://animecorner.me/skeleton-knight-in-another-world-season-2-reveals-new-visual-and-trailer-featuring-ed-by-dialogue/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-04-25T08:11:25Z",
+    "summary": "Skeleton Knight in Another World Season 2 anime revealed a new visual and trailer featuring\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.6782525896488805,
+    "home_score": 0.5952,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "53e4130b0b9f17d4931212723dba414f21e85aa6",
+    "title": "A Pompompurin Pop-Up Cafe Is Coming To Singapore In Celebration Of The Sanrio Character\u2019s 30th Birthday - FZINE Singapore",
+    "url": "https://www.fzine.com/culture/pompompurin-cafe-singapore-2026",
+    "source_name": "Google News SG Collab Cafes",
+    "source_type": "rss",
+    "published_at": "2026-04-24T09:08:37Z",
+    "summary": "A Pompompurin Pop-Up Cafe Is Coming To Singapore In Celebration Of The Sanrio Character\u2019s 30th Birthday FZINE Singapore",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.49246664414736335,
+    "home_score": 0.5931,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "cafe",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1613,241 +1861,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8343720873069032,
-    "home_score": 0.62,
+    "freshness_score": 0.7719127926034633,
+    "home_score": 0.5919,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/04/10-most-ambitious-snes-jrpgs.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a14b108aa52f6d3d181b707d926d1d5e524a8385",
-    "title": "Skeleton Knight in Another World Season 2 Reveals New Visual and Trailer Featuring ED by DIALOGUE+",
-    "url": "https://animecorner.me/skeleton-knight-in-another-world-season-2-reveals-new-visual-and-trailer-featuring-ed-by-dialogue/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-25T08:11:25Z",
-    "summary": "Skeleton Knight in Another World Season 2 Reveals New Visual and Trailer Featuring ED by DIALOGUE+",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7331333760340196,
-    "home_score": 0.6199,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "210d50d8dd803eb30648cc7ef7d9eca9731aa36e",
-    "title": "Exstetra Remaster Announced for PC",
-    "url": "https://rpgamer.com/2026/04/exstetra-remaster-announced-for-pc/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-25T16:05:54Z",
-    "summary": "FuRyu has announced a PC remaster of Exstetra , its 2013 Japan-only Nintendo 3DS and PlayStation Vita title",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8182450145894783,
-    "home_score": 0.6142,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2859ed862e57ee4973b2770784a2084643db8a76",
-    "title": "HYKE: Northern Lights Getting Free Update This Week",
-    "url": "https://rpgamer.com/2026/04/hyke-northern-lights-getting-free-update-this-week/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-25T16:05:10Z",
-    "summary": "Aniplex and Akatsuki Games announced a free update for HYKE: Northern Light(s)",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8181061238198094,
-    "home_score": 0.6141,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 30, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "6917c02222b374357c03b3b8d2b2d0dc4953cc45",
-    "title": "STARDUST: Wish of Witch Releasing in Late May",
-    "url": "https://rpgamer.com/2026/04/stardust-wish-of-witch-releasing-in-late-may/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-25T16:04:17Z",
-    "summary": "Developer Kniv Studio announced that its strategy RPG STARDUST: Wish of Witch will release at 5pm PDT on May 28, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8179388529566518,
-    "home_score": 0.6141,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 28, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3794dee53b14e25742961b8b3795e2fe389724de",
-    "title": "Village-Building Action RPG Warota: I Live Next to The Demon King\u2019s Castle LOL Announced",
-    "url": "https://rpgamer.com/2026/04/village-building-action-rpg-warota-i-live-next-to-the-demon-kings-castle-lol-announced/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-25T16:04:07Z",
-    "summary": "Publisher One or Eight and developer Team Earth Wars announced comedic village-building action RPG Warota: I Live Next to The Demon King's Castle LOL",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "idol"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.817907294950542,
-    "home_score": 0.6141,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1d3e18d5f2f4603342d89979d7182c467e20623c",
-    "title": "Turn-Based Strategy RPG \u2018STARDUST Wish of Witch\u2019 Launches May 28, 2026",
-    "url": "https://noisypixel.net/stardust-wish-of-witch-release-date-may-28-2026/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-25T15:19:16Z",
-    "summary": "Developer Kniv Studio has announced that its turn-based strategy RPG STARDUST: Wish of Witch will launch for PC via Steam on May 28, 2026, at 5 PM PT / 8 PM ET",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8094598091293231,
-    "home_score": 0.6133,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 28, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "b75ef60b857c1d6c8b4044de12895484aa3103c3",
-    "title": "Final Fantasy XIV's Biggest Expansions Almost Had Very Different Names--Here's What They Were - GameSpot",
-    "url": "https://www.gamespot.com/articles/final-fantasy-xivs-biggest-expansions-almost-had-very-different-names-heres-what-they-were/1100-6539625/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-25T17:00:00Z",
-    "summary": "Final Fantasy XIV's Biggest Expansions Almost Had Very Different Names--Here's What They Were GameSpot",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8285561565154494,
-    "home_score": 0.6129,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b20187a44ab763c076908c5bb38a613ce1a31142",
-    "title": "Naoki Yoshida On Final Fantasy XIV\u2019s Ongoing Evolution - Comics Gaming Magazine",
-    "url": "https://www.cgmagonline.com/articles/editorals/naoki-yoshida-final-fantasy-xiv-evolution/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-25T16:49:09Z",
-    "summary": "Naoki Yoshida On Final Fantasy XIV\u2019s Ongoing Evolution Comics Gaming Magazine",
-    "content": "",
-    "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8264777891220642,
-    "home_score": 0.6119,
-    "source_quality": 0.76,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   }
