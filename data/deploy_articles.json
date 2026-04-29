@@ -120,47 +120,6 @@
     "result_type": "event"
   },
   {
-    "id": "bdbc98ebfbb3e22fbed4568fca6a545138f90232",
-    "title": "Punk sweeps Street Fighter 6 and Doramigi slams competition in Smash Ultimate at LVL UP EXPO 2026: FGC\u2019s explosive weekend leading to Evo Japan 2026",
-    "url": "https://esportsinsider.com/2026/04/lvl-up-expo-fgc-recap",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-04-28T19:33:26Z",
-    "summary": "The FGC was treated to a wild weekend courtesy of LVL UP EXPO 2026, which saw international players such as Goichi \u201cGO1\u201d Kishida, Shoji \u201cFenritti\u201d Sho, and Doramigi fly in to prove",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [
-      "SEA",
-      "Singapore"
-    ],
-    "sg_relevance": 0.58,
-    "freshness_score": 0.9370022526561597,
-    "home_score": 0.8322,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
     "id": "d958943683b299952c291ef741715e325d40f62e",
     "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
     "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
@@ -204,41 +163,44 @@
     "result_type": "event"
   },
   {
-    "id": "f3e4f5b81f6abf18838a20cab6155fb06e3c4f35",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537026669",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-04-29T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "id": "76261e3422555433d5c5b9bb7ebfc0aadbe0d7d2",
+    "title": "Square Enix Cafe & Shop Reopens With Shinjuku Branch And First U.S. Store",
+    "url": "https://geekculture.co/square-enix-cafe-shop-reopens-with-shinjuku-branch-and-first-us-store/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-04-29T05:59:23Z",
+    "summary": "Appealing to fans on both sides of the Pacific",
     "content": "",
     "categories": [
-      "events",
+      "games",
       "anime",
-      "manga",
-      "merch"
+      "merch",
+      "events"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "Singapore",
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9966412691820802,
-    "home_score": 0.803,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9897554223156911,
+    "home_score": 0.8154,
+    "source_quality": 0.75,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "29 Apr 2026",
-      "venue": "20B Mosque St",
+      "event_type": "cafe",
+      "date_label": null,
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537026669",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
     "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
@@ -426,6 +388,170 @@
     "result_type": "event"
   },
   {
+    "id": "bdbc98ebfbb3e22fbed4568fca6a545138f90232",
+    "title": "Punk sweeps Street Fighter 6 and Doramigi slams competition in Smash Ultimate at LVL UP EXPO 2026: FGC\u2019s explosive weekend leading to Evo Japan 2026",
+    "url": "https://esportsinsider.com/2026/04/lvl-up-expo-fgc-recap",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-28T19:33:26Z",
+    "summary": "The FGC was treated to a wild weekend courtesy of LVL UP EXPO 2026, which saw international players such as Goichi \u201cGO1\u201d Kishida, Shoji \u201cFenritti\u201d Sho, and Doramigi fly in to prove",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [
+      "Street Fighter 6"
+    ],
+    "region_tags": [
+      "SEA",
+      "Singapore"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 0.8562496275774402,
+    "home_score": 0.7958,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "expo",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "44a70ef2457b72bfef0cffe9fb473e0498eb4812",
+    "title": "Local artist drew manga based on life in Singapore and it's drawing praise online - CNA Lifestyle",
+    "url": "https://cnalifestyle.channelnewsasia.com/entertainment/singaporean-artist-drew-manga-582446",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-04-29T02:03:08Z",
+    "summary": "Local artist drew manga based on life in Singapore and it's drawing praise online CNA Lifestyle",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "anime",
+      "manga"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9370814845060603,
+    "home_score": 0.7872,
+    "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "04df82790a5457ef9120c7b948eba980b09d316f",
+    "title": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea review \u2013 hectic anime lives again - The Guardian",
+    "url": "https://www.theguardian.com/film/2026/apr/29/that-time-i-got-reincarnated-as-a-slime-tears-of-the-azure-sea-review",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-29T06:00:00Z",
+    "summary": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea review \u2013 hectic anime lives again The Guardian",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9898965524990414,
+    "home_score": 0.7855,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ffb6022e521b67ae6db888ca1cd61b70c3698782",
+    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
+    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537028675",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-04-29T00:00:00Z",
+    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 0.9107488469737521,
+    "home_score": 0.7643,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
+    "event_metadata": {
+      "event_type": "workshop",
+      "date_label": "29 Apr 2026",
+      "venue": "20B Mosque St",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537028675",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "509540d418235df13f8895380b922d410a514aca",
+    "title": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea Is Just a Drop in the Anime Movie Ocean - Comic Book Resources",
+    "url": "https://www.cbr.com/reincarnated-as-a-slime-tears-of-the-azure-sea-movie-review/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-28T22:37:13Z",
+    "summary": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea Is Just a Drop in the Anime Movie Ocean Comic Book Resources",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.8934624420101057,
+    "home_score": 0.7421,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "42e39a0f0759382436b3158ab8e6d566670c4337",
     "title": "\u2018The Blood of Dawnwalker\u2019 Recalibrates Vampire Myth & Time Mechanics, Sinks Teeth Into High-Stakes Action RPG",
     "url": "https://geekculture.co/the-blood-of-dawnwalker-rebel-wolves-interview/",
@@ -447,53 +573,112 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9043068973097322,
-    "home_score": 0.7769,
+    "freshness_score": 0.8263720155696752,
+    "home_score": 0.7419,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "509540d418235df13f8895380b922d410a514aca",
-    "title": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea Is Just a Drop in the Anime Movie Ocean - Comic Book Resources",
-    "url": "https://www.cbr.com/reincarnated-as-a-slime-tears-of-the-azure-sea-movie-review/",
-    "source_name": "Google News Anime And Manga",
+    "id": "f103efd4c22b0674095fb87718a43a04978eb6c8",
+    "title": "Pok\u00e9mon All-Stars Music Project Announced with New Music Video",
+    "url": "https://anitrendz.net/news/2026/04/28/pokemon-all-stars-music-project-announced-with-new-music-video/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-all-stars-music-project-announced-with-new-music-video",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-04-28T18:52:20Z",
-    "summary": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea Is Just a Drop in the Anime Movie Ocean Comic Book Resources",
+    "published_at": "2026-04-29T06:08:49Z",
+    "summary": "A new project for the Pok\u00e9mon franchise titled Pok\u00e9mon All-Stars 1025 has been announced",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "comics"
+      "events",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.9281298935844978,
-    "home_score": 0.7577,
-    "source_quality": 0.75,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9919190196056408,
+    "home_score": 0.7134,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "226d9d871f7d00544dec88f1756b9f5a36431c38",
-    "title": "\u3010OSHI NO KO\u3011 Manga Giveaway Terms & Conditions",
-    "url": "https://anitrendz.net/news/2026/04/28/%e3%80%90oshi-no-ko%e3%80%91-manga-giveaway-terms-conditions/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590oshi-no-ko%25e3%2580%2591-manga-giveaway-terms-conditions",
-    "source_name": "Anime Trending",
+    "id": "21d7c7c64fe2c78e37ae9e7c03ea893712cc4487",
+    "title": "Smilegate Bringing Chaos Zero Nightmare and Miresi: Invisible Future to Anime Expo 2026; Trailer Streaming Now",
+    "url": "https://noisypixel.net/miresi-anime-rpg-chaos-zero-nightmare-anime-expo-2026/",
+    "source_name": "Noisy Pixel",
     "source_type": "rss",
-    "published_at": "2026-04-28T22:51:50Z",
-    "summary": "To celebrate the upcoming conclusion of \u3010OSHI NO KO\u3011 Season 3, we are hosting a special giveaway contest! There will be 10 copies of the \u3010OSHI NO KO\u3011 manga Volume 13 for fans to co",
+    "published_at": "2026-04-29T05:11:18Z",
+    "summary": "Smilegate has confirmed its presence at Anime Expo 2026, where it will showcase Chaos Zero Nightmare and Miresi: The Invisible Future at the Los Angeles Convention Center from July",
     "content": "",
     "categories": [
+      "games",
       "anime",
-      "manga",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9788003847629209,
+    "home_score": 0.7075,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": "July 2",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7c3283e9dae3af03859005a615f071fbf57a977c",
+    "title": "Final Fantasy VII Rebirth expands to Switch 2 and Xbox with free playable demo - The Economic Times",
+    "url": "https://m.economictimes.com/us/entertainment/final-fantasy-vii-rebirth-expands-to-switch-2-and-xbox-with-free-playable-demo/articleshow/130596306.cms",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-29T04:58:58Z",
+    "summary": "Final Fantasy VII Rebirth expands to Switch 2 and Xbox with free playable demo The Economic Times",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9760095575264057,
+    "home_score": 0.7032,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "60115ec0ace91462c396a7b75fe516b27d848e9e",
+    "title": "\u201cThere has to be some nuance here\u201d: DQ\u2019d player is calling out power imbalance after Pok\u00e9mon judges\u2019 baffling rulings continue",
+    "url": "https://esportsinsider.com/2026/04/pokemon-judge-ruling-firestar73-pop-off",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-29T00:48:47Z",
+    "summary": "As a member of the FGC, I am quite familiar with the \u201cpop off,\u201d when a player excitedly celebrates a win on stage",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
       "events"
     ],
     "tags": [],
@@ -502,9 +687,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9810384521795641,
-    "home_score": 0.7285,
-    "source_quality": 0.78,
+    "freshness_score": 0.9210917421767832,
+    "home_score": 0.7,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -535,8 +720,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.7599442823695147,
-    "home_score": 0.728,
+    "freshness_score": 0.6944508443661942,
+    "home_score": 0.6985,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
@@ -552,34 +737,94 @@
     "result_type": "article"
   },
   {
-    "id": "6e90d59d2af806210d4daf5dbf0b37231aa7cd6b",
-    "title": "This Manga By A Local Artist Is Set In Singapore And It's Drawn Praise Online - 8days",
-    "url": "https://www.8days.sg/entertainment/local/manga-set-singapore-857261",
-    "source_name": "Google News SG ACG",
+    "id": "804309363d6b04229ffcf3e4e64b6ca2d64c6fdd",
+    "title": "Shytaupe Drops Even a Replica Can Fall in Love Anime Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/29/even-a-replica-can-fall-in-love-anime-opening-song-music-video-shytaupe",
+    "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-04-28T07:26:00Z",
-    "summary": "This Manga By A Local Artist Is Set In Singapore And It's Drawn Praise Online 8days",
+    "published_at": "2026-04-29T02:10:00Z",
+    "summary": "The romance anime is now available on Crinchyroll",
     "content": "",
     "categories": [
-      "events",
-      "games",
       "anime",
-      "manga"
+      "manga",
+      "games",
+      "events"
     ],
-    "tags": [
-      "singapore"
-    ],
+    "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7917916477245833,
-    "home_score": 0.7218,
-    "source_quality": 0.72,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9385723578011981,
+    "home_score": 0.6909,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "226d9d871f7d00544dec88f1756b9f5a36431c38",
+    "title": "\u3010OSHI NO KO\u3011 Manga Giveaway Terms & Conditions",
+    "url": "https://anitrendz.net/news/2026/04/28/%e3%80%90oshi-no-ko%e3%80%91-manga-giveaway-terms-conditions/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590oshi-no-ko%25e3%2580%2591-manga-giveaway-terms-conditions",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-28T22:51:50Z",
+    "summary": "To celebrate the upcoming conclusion of \u3010OSHI NO KO\u3011 Season 3, we are hosting a special giveaway contest! There will be 10 copies of the \u3010OSHI NO KO\u3011 manga Volume 13 for fans to co",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8964907000915474,
+    "home_score": 0.6904,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "273704aa0487945fa4008dca546a98a40b07baee",
+    "title": "Final Fantasy VII Rebirth Demo Out Now on Nintendo Switch 2 and Xbox",
+    "url": "https://monstervine.com/2026/04/final-fantasy-vii-rebirth-demo-switch-2-xbox/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-29T06:07:55Z",
+    "summary": "Square Enix has released a free Final Fantasy VII Rebirth demo on Nintendo Switch 2, Xbox Series X|S, and Xbox on PC with Xbox Play Anywhere support",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9917123703140919,
+    "home_score": 0.6893,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 3, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -604,11 +849,96 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7722423446180738,
-    "home_score": 0.7175,
+    "freshness_score": 0.7056890362728231,
+    "home_score": 0.6876,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d569a0503272c6275ad0611e856b3ea3ee987e0a",
+    "title": "Final Fantasy VII Rebirth demo out now on Switch 2 and Xbox - GadgetMatch",
+    "url": "https://www.gadgetmatch.com/final-fantasy-vii-rebirth-demo-out-now-on-switch-2-and-xbox/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-29T05:43:44Z",
+    "summary": "Final Fantasy VII Rebirth demo out now on Switch 2 and Xbox GadgetMatch",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9861761951915541,
+    "home_score": 0.6838,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d277ffe00aae7471105e205eb2d738e786a2d500",
+    "title": "Singer-Songwriter Tuki. Shares SNOWBALL EARTH Anime Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/4/29/snowball-earth-anime-opening-song-music-video-tuki",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-29T00:42:00Z",
+    "summary": "Crunchyroll streams the Studio Kai-animated mecha series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9196467060818043,
+    "home_score": 0.6823,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "132eae19b2e2c8fef6737ec3c73e610ca008db22",
+    "title": "Shot One Fighters Reveals First Gameplay Trailer Ahead of Kickstarter",
+    "url": "https://monstervine.com/2026/04/shot-one-fighters-gameplay-trailer-kickstarter/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-04-29T04:47:54Z",
+    "summary": "Red Moon Workshop has released the first official gameplay trailer for Shot One Fighters, a single-player 2",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9735125702340257,
+    "home_score": 0.6811,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "workshop",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -633,8 +963,8 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.913194489092187,
-    "home_score": 0.7149,
+    "freshness_score": 0.834493657950176,
+    "home_score": 0.6795,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -660,8 +990,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9802707320501678,
-    "home_score": 0.7101,
+    "freshness_score": 0.8957891263090716,
+    "home_score": 0.6721,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -695,8 +1025,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9559683465129597,
-    "home_score": 0.7032,
+    "freshness_score": 0.8735811515809365,
+    "home_score": 0.6661,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -721,8 +1051,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.959433896880941,
-    "home_score": 0.7017,
+    "freshness_score": 0.8767480514594923,
+    "home_score": 0.6645,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -735,31 +1065,6 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "article"
-  },
-  {
-    "id": "e333ce3be2af1db9d4a8a8a67c28a78e8187a8e6",
-    "title": "Mada Koubou BL \u2018Love Love Sexy Salaryman\u2019 Announced With English Language Support",
-    "url": "https://noisypixel.net/mada-koubou-bl-love-love-sexy-salaryman-announced-with-english-language-support/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-29T00:06:16Z",
-    "summary": "Visual novel brand Mada Koubou has announced the BL game Love Love Sexy Salaryman",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9980884605153177,
-    "home_score": 0.6981,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -781,9 +1086,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9427827851271412,
-    "home_score": 0.6973,
+    "freshness_score": 0.8615319472999313,
+    "home_score": 0.6607,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e333ce3be2af1db9d4a8a8a67c28a78e8187a8e6",
+    "title": "Mada Koubou BL \u2018Love Love Sexy Salaryman\u2019 Announced With English Language Support",
+    "url": "https://noisypixel.net/mada-koubou-bl-love-love-sexy-salaryman-announced-with-english-language-support/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-29T00:06:16Z",
+    "summary": "Visual novel brand Mada Koubou has announced the BL game Love Love Sexy Salaryman",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9120712886992601,
+    "home_score": 0.6594,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -809,8 +1139,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9297790904353075,
-    "home_score": 0.6914,
+    "freshness_score": 0.8496489362904095,
+    "home_score": 0.6553,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -839,8 +1169,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9444062275893744,
-    "home_score": 0.6905,
+    "freshness_score": 0.8630154943696594,
+    "home_score": 0.6539,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -853,6 +1183,61 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "c07343f83815ebf7f0dddfa12b75a380b744697c",
+    "title": "Zenless Zone Zero Phaethon Pyrois Agent Teased",
+    "url": "https://www.siliconera.com/zenless-zone-zero-phaethon-pyrois-agent-teased/?utm_source=rss&utm_medium=rss&utm_campaign=zenless-zone-zero-phaethon-pyrois-agent-teased",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-28T18:00:00Z",
+    "summary": "The first Phaethon faction character Pyrois will fight alongside Belle and Wise in Zenless Zone Zero 3",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8379298263586744,
+    "home_score": 0.6501,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b2988edd73040b227f62cc91bb983d18571a5e1f",
+    "title": "We Are Aliens Anime Film to Compete in Annecy 2026 Feature Category",
+    "url": "https://crunchyroll.com/news/latest/2026/4/28/we-are-aliens-anime-film-to-compete-in-annecy-2026-feature-category",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-04-28T18:49:00Z",
+    "summary": "Anime also announced for Contrechamp competition, Annecy Presents category",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8474879469792134,
+    "home_score": 0.6499,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -873,8 +1258,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9732502939343688,
-    "home_score": 0.687,
+    "freshness_score": 0.8893737230642043,
+    "home_score": 0.6492,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -907,64 +1292,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9760968409179999,
-    "home_score": 0.6867,
+    "freshness_score": 0.8919749497893322,
+    "home_score": 0.6489,
     "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b2988edd73040b227f62cc91bb983d18571a5e1f",
-    "title": "We Are Aliens Anime Film to Compete in Annecy 2026 Feature Category",
-    "url": "https://crunchyroll.com/news/latest/2026/4/28/we-are-aliens-anime-film-to-compete-in-annecy-2026-feature-category",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-28T18:49:00Z",
-    "summary": "Anime also announced for Contrechamp competition, Annecy Presents category",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9274142737719828,
-    "home_score": 0.6858,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c07343f83815ebf7f0dddfa12b75a380b744697c",
-    "title": "Zenless Zone Zero Phaethon Pyrois Agent Teased",
-    "url": "https://www.siliconera.com/zenless-zone-zero-phaethon-pyrois-agent-teased/?utm_source=rss&utm_medium=rss&utm_campaign=zenless-zone-zero-phaethon-pyrois-agent-teased",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-28T18:00:00Z",
-    "summary": "The first Phaethon faction character Pyrois will fight alongside Belle and Wise in Zenless Zone Zero 3",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9169547545047169,
-    "home_score": 0.6856,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -987,8 +1317,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9684036579085342,
-    "home_score": 0.6848,
+    "freshness_score": 0.8849447795464943,
+    "home_score": 0.6472,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1023,8 +1353,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9233943545529951,
-    "home_score": 0.683,
+    "freshness_score": 0.8438144649800023,
+    "home_score": 0.6472,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -1052,8 +1382,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9160882519866074,
-    "home_score": 0.6822,
+    "freshness_score": 0.8371380171659691,
+    "home_score": 0.6467,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1089,8 +1419,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9153286858628402,
-    "home_score": 0.6819,
+    "freshness_score": 0.8364439127433873,
+    "home_score": 0.6464,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1124,8 +1454,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9043073033059408,
-    "home_score": 0.6799,
+    "freshness_score": 0.8263723569487438,
+    "home_score": 0.6449,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1150,33 +1480,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9171488964345647,
-    "home_score": 0.6797,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4c1aea396ecb0dcceb7ab35b71e12e88e2fb87f7",
-    "title": "BL Visual Novel \u2018INIMIGO: The Warrior Saint Versus the God of Discord\u2019 Gets Demo on Itchio",
-    "url": "https://noisypixel.net/bl-visual-novel-inimigo-the-warrior-saint-versus-the-god-of-discord-gets-demo-on-itchio/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-28T20:56:23Z",
-    "summary": "YN Creative has released a demo version of INIMIGO: The Warrior Saint Versus the God of Discord",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9551681765544647,
-    "home_score": 0.6788,
+    "freshness_score": 0.8381072675354392,
+    "home_score": 0.6441,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1201,58 +1506,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9150180124738805,
-    "home_score": 0.6788,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0fa51687772b1b8375e1a347361a239ec47012fb",
-    "title": "Is an OceanVeil Subscription Worth It?",
-    "url": "https://blog.jlist.com/featured/is-an-oceanveil-subscription-worth-it/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-04-28T20:30:00Z",
-    "summary": "As much as I hate a certain orange-branded streaming service, I pay for my anime",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9493521751414593,
-    "home_score": 0.6762,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7d4b228f982ea773adc60945ade4266e1cca6ea8",
-    "title": "Smoking Behind the Supermarket with You Reveals 4 New Cast Members & ABEMA Streaming Plans",
-    "url": "https://anitrendz.net/news/2026/04/28/smoking-behind-the-supermarket-with-you-reveals-4-new-cast-members-abema-streaming-plans/?utm_source=rss&utm_medium=rss&utm_campaign=smoking-behind-the-supermarket-with-you-reveals-4-new-cast-members-abema-streaming-plans",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-28T17:23:39Z",
-    "summary": "Four new voice cast members have been revealed for the upcoming Smoking Behind the Supermarket with You TV anime series, as well as an early streaming on the Japanese streaming ser",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9092710984678148,
-    "home_score": 0.6762,
+    "freshness_score": 0.8361600113283272,
+    "home_score": 0.6433,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1282,9 +1537,59 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8556292988955945,
-    "home_score": 0.675,
+    "freshness_score": 0.7818895329700917,
+    "home_score": 0.6419,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4c1aea396ecb0dcceb7ab35b71e12e88e2fb87f7",
+    "title": "BL Visual Novel \u2018INIMIGO: The Warrior Saint Versus the God of Discord\u2019 Gets Demo on Itchio",
+    "url": "https://noisypixel.net/bl-visual-novel-inimigo-the-warrior-saint-versus-the-god-of-discord-gets-demo-on-itchio/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-28T20:56:23Z",
+    "summary": "YN Creative has released a demo version of INIMIGO: The Warrior Saint Versus the God of Discord",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8728499574101121,
+    "home_score": 0.6418,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7d4b228f982ea773adc60945ade4266e1cca6ea8",
+    "title": "Smoking Behind the Supermarket with You Reveals 4 New Cast Members & ABEMA Streaming Plans",
+    "url": "https://anitrendz.net/news/2026/04/28/smoking-behind-the-supermarket-with-you-reveals-4-new-cast-members-abema-streaming-plans/?utm_source=rss&utm_medium=rss&utm_campaign=smoking-behind-the-supermarket-with-you-reveals-4-new-cast-members-abema-streaming-plans",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-04-28T17:23:39Z",
+    "summary": "Four new voice cast members have been revealed for the upcoming Smoking Behind the Supermarket with You TV anime series, as well as an early streaming on the Japanese streaming ser",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8309083931878884,
+    "home_score": 0.6409,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1310,9 +1615,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8918342967539868,
-    "home_score": 0.6743,
+    "freshness_score": 0.8149742984185491,
+    "home_score": 0.6397,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0fa51687772b1b8375e1a347361a239ec47012fb",
+    "title": "Is an OceanVeil Subscription Worth It?",
+    "url": "https://blog.jlist.com/featured/is-an-oceanveil-subscription-worth-it/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-04-28T20:30:00Z",
+    "summary": "As much as I hate a certain orange-branded streaming service, I pay for my anime",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8675352121854002,
+    "home_score": 0.6394,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1336,8 +1666,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8963873089566854,
-    "home_score": 0.6719,
+    "freshness_score": 0.8191349452287423,
+    "home_score": 0.6371,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1363,8 +1693,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8918339766261322,
-    "home_score": 0.6698,
+    "freshness_score": 0.814974027772924,
+    "home_score": 0.6352,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1388,8 +1718,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.894411233758266,
-    "home_score": 0.6695,
+    "freshness_score": 0.8173291798747325,
+    "home_score": 0.6348,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1414,35 +1744,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8795536889426704,
-    "home_score": 0.6688,
+    "freshness_score": 0.8037520570666,
+    "home_score": 0.6347,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "79ee3154a457ce8795e2a446a98773711c2cb4a7",
-    "title": "Go with the Clouds, North-by-Northwest TV Anime Adaptation Announced",
-    "url": "https://crunchyroll.com/news/latest/2026/4/28/go-with-the-clouds-north-by-northwest-anime-adaptation-announced",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-28T15:39:00Z",
-    "summary": "Manga creator Aki Irie shares celebratory artwork",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8875091916932213,
-    "home_score": 0.6679,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1468,8 +1772,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8374321252926935,
-    "home_score": 0.6668,
+    "freshness_score": 0.7652606297086686,
+    "home_score": 0.6344,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1496,36 +1800,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8401309436233102,
-    "home_score": 0.6666,
+    "freshness_score": 0.7677268607552342,
+    "home_score": 0.634,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "6bd826f5b4e6b48dfc07b2401bff0aa63d28dcc2",
-    "title": "Square Enix Releases Free Final Fantasy VII Rebirth Demo on Nintendo Switch 2 and Xbox - MMORPG.com",
-    "url": "https://www.mmorpg.com/news/square-enix-releases-free-final-fantasy-vii-rebirth-demo-on-nintendo-switch-2-and-xbox-2000137922",
-    "source_name": "Google News JRPG",
+    "id": "79ee3154a457ce8795e2a446a98773711c2cb4a7",
+    "title": "Go with the Clouds, North-by-Northwest TV Anime Adaptation Announced",
+    "url": "https://crunchyroll.com/news/latest/2026/4/28/go-with-the-clouds-north-by-northwest-anime-adaptation-announced",
+    "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-04-28T20:00:00Z",
-    "summary": "Square Enix Releases Free Final Fantasy VII Rebirth Demo on Nintendo Switch 2 and Xbox MMORPG",
+    "published_at": "2026-04-28T15:39:00Z",
+    "summary": "Manga creator Aki Irie shares celebratory artwork",
     "content": "",
     "categories": [
-      "games"
+      "anime",
+      "manga",
+      "games",
+      "events"
     ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9427822021514757,
-    "home_score": 0.6643,
-    "source_quality": 0.76,
+    "freshness_score": 0.8110219610805309,
+    "home_score": 0.6335,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1549,303 +1852,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8795330127685608,
-    "home_score": 0.6643,
+    "freshness_score": 0.8037331845479865,
+    "home_score": 0.6302,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "77f22312fb01b3f4bc92c0519be827a52bb1c838",
-    "title": "The Hundred Line Manga and Stage Play Announced",
-    "url": "https://www.siliconera.com/the-hundred-line-manga-and-stage-play-announced/?utm_source=rss&utm_medium=rss&utm_campaign=the-hundred-line-manga-and-stage-play-announced",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-28T14:00:00Z",
-    "summary": "Aniplex also released a lyric video of \"Sedum",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8674020272452142,
-    "home_score": 0.6633,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ef70a65fe3b9ee25513871e669a40aed8c7380f1",
-    "title": "River City Saga: Journey to the West Releasing in June",
-    "url": "https://rpgamer.com/2026/04/river-city-saga-journey-to-the-west-releasing-in-june/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-28T17:53:02Z",
-    "summary": "Arc System Works announced that River City Saga: Journey to the West will release on June 4, 2026, for PC, PlayStation 5, and Nintendo Switch, priced at $19",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9154770189308831,
-    "home_score": 0.658,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 4, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "f80384be0b6a3518ac3d4fe70a0899c69b602571",
-    "title": "Tides of Tomorrow Involves Thinking About Others",
-    "url": "https://www.siliconera.com/tides-of-tomorrow-involves-thinking-about-others/?utm_source=rss&utm_medium=rss&utm_campaign=tides-of-tomorrow-involves-thinking-about-others",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-28T13:00:00Z",
-    "summary": "Tides of Tomorrow feels like an interesting experiment from Digixart, a studio that already established itself with Road 96",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8554380513572403,
-    "home_score": 0.6579,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "cf1b2f998342f255785e780ae57e504a919a42d0",
-    "title": "Clevatess Season 2 Reveals New Trailer, Key Visual, Cast",
-    "url": "https://animecorner.me/clevatess-season-2-reveals-new-trailer-key-visual-cast/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-28T09:39:42Z",
-    "summary": "Clevatess Season 2 anime has revealed its second key visual, along with a new\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8166802292328594,
-    "home_score": 0.6575,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a0f5667c872ad37e6a84428914dab2771321a45b",
-    "title": "Clevatess Season 2 Reveals New Trailer and Visual",
-    "url": "https://anitrendz.net/news/2026/04/28/clevatess-season-2-reveals-new-trailer-and-visual/?utm_source=rss&utm_medium=rss&utm_campaign=clevatess-season-2-reveals-new-trailer-and-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-28T10:08:25Z",
-    "summary": "Another trailer and key visual for the second season of fantasy anime Clevatess have been released",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8221269505378792,
-    "home_score": 0.657,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "67adeda57115388a0c4c5463348eb9b3acb7c536",
-    "title": "Atlus will upload permanent archives of Persona live concerts from 2013, 2015, and 2017",
-    "url": "https://www.rpgsite.net/news/20257-atlus-will-upload-permanent-archives-persona-live-concerts-from-2013-2015-2017",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-28T12:55:31Z",
-    "summary": "The 2013 concert archive will appear first tomorrow",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8545506035666093,
-    "home_score": 0.656,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "43ab3eb224dbdb284928b7f809967676052d90dc",
-    "title": "Crystalline Conflict Season Nineteen Results Revealed as Season Twenty Commences!",
-    "url": "https://img.finalfantasyxiv.com/t/7d35a35159960b6df70234d514940075de5bd474.jpg?1777369263",
-    "source_name": "Final Fantasy XIV News",
-    "source_type": "rss",
-    "published_at": "2026-04-28T09:31:00Z",
-    "summary": "Crystalline Conflict Season Nineteen has drawn to a close! To Our Top-ranked Competitors Congratulations on a season well fought! Please be sure to collect your hard-earned ranking",
-    "content": "",
-    "categories": [
-      "games",
-      "events",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8150371112509196,
-    "home_score": 0.6553,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a1947f0348487dc22bd550925e1319b93681e694",
-    "title": "Final Fantasy VII Rebirth demo now available on Nintendo Switch 2 and Xbox",
-    "url": "https://www.rpgsite.net/news/20242-final-fantasy-vii-rebirth-switch-2-demo-download-size-save-data-transfer-xbox",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-04-28T16:27:24Z",
-    "summary": "The Final Fantasy VII Rebirth Switch 2 and Xbox demo lets you experience the opening and copy save data to the full game this June",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8975086739577666,
-    "home_score": 0.6514,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "078bdff36a2dc0d94ccd10987adddd39c10f798d",
-    "title": "G-MODE Archives+ Xenosaga: Pied Piper Arriving on PC, Switch This Week",
-    "url": "https://rpgamer.com/2026/04/g-mode-archives-xenosaga-pied-piper-arriving-on-pc-switch-this-week/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-04-28T12:10:35Z",
-    "summary": "Publisher G-MODE announced that its PC and Nintendo Switch release Namco\u2019s 2004 mobile title Xenosaga: Pied Piper is set for April 30, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8457082011100453,
-    "home_score": 0.6506,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 30, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3a6aee1bc7538378e02b331e0039256ec8e77aca",
-    "title": "Kagurabachi Anime Trailer Exceeds 6 Million Views in Under 24 Hours",
-    "url": "https://animecorner.me/kagurabachi-anime-trailer-exceeds-6-million-views-in-under-24-hours/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-28T11:59:02Z",
-    "summary": "The trailer for the newly-announced KAGURABACHI anime adaptation has surpassed 6 million views in\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8434500740662754,
-    "home_score": 0.6496,
-    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
