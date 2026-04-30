@@ -5,7 +5,7 @@
     "url": "https://www.cbr.com/near-perfect-anime-movies-no-one-remembers-2026/",
     "source_name": "Google News Anime And Manga",
     "source_type": "rss",
-    "published_at": "2026-04-29T16:33:55Z",
+    "published_at": "2026-04-29T20:15:12Z",
     "summary": "8 Near-Perfect Anime Movies No One Remembers Today Comic Book Resources",
     "content": "",
     "categories": [
@@ -20,8 +20,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9747033160238683,
-    "home_score": 0.7786,
+    "freshness_score": 0.9461095032456664,
+    "home_score": 0.7657,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -51,8 +51,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8415543318964693,
-    "home_score": 0.7487,
+    "freshness_score": 0.7760778115907396,
+    "home_score": 0.7192,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -65,59 +65,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "04df82790a5457ef9120c7b948eba980b09d316f",
-    "title": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea review \u2013 hectic anime lives again - The Guardian",
-    "url": "https://www.theguardian.com/film/2026/apr/29/that-time-i-got-reincarnated-as-a-slime-tears-of-the-azure-sea-review",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2026-04-29T10:07:00Z",
-    "summary": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea review \u2013 hectic anime lives again The Guardian",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8912001983282039,
-    "home_score": 0.741,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "784e0982a67572b28bea5dafec3354fafa5288b9",
-    "title": "NTE: Neverness to Everness Launches Alongside Twitch Drops Promotion",
-    "url": "https://www.siliconera.com/nte-neverness-to-everness-launches-alongside-twitch-drops-promotion/?utm_source=rss&utm_medium=rss&utm_campaign=nte-neverness-to-everness-launches-alongside-twitch-drops-promotion",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-29T18:00:00Z",
-    "summary": "NTE: Neverness to Everness is live, rewards for launch ended up doled out, and its Twitch Drops promotion started",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9943212860518383,
-    "home_score": 0.7404,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -145,8 +92,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.7280390313271051,
-    "home_score": 0.7381,
+    "freshness_score": 0.6713944760451976,
+    "home_score": 0.7126,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -162,18 +109,87 @@
     "result_type": "article"
   },
   {
-    "id": "2494bdfd01577e660b5c1462f6e2bb3f5420e5cf",
-    "title": "'It's the perfect place': Pop-up cafe and bar with sensational sea views returns - MSN",
-    "url": "https://www.msn.com/en-gb/foodanddrink/other/it-s-the-perfect-place-pop-up-cafe-and-bar-with-sensational-sea-views-returns/ar-AA1ZrzcR?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1&bundles=feat-es2020-c",
-    "source_name": "Google News SG Collab Cafes",
+    "id": "2a2e5d2104f04590ba179ec527c63a33e4f1e5fc",
+    "title": "Season 3 Zenless Zone Zero Playable Characters Are Norma, Velina",
+    "url": "https://www.siliconera.com/season-3-zenless-zone-zero-playable-characters-are-norma-velina/?utm_source=rss&utm_medium=rss&utm_campaign=season-3-zenless-zone-zero-playable-characters-are-norma-velina",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-04-29T02:25:52Z",
-    "summary": "'It's the perfect place': Pop-up cafe and bar with sensational sea views returns MSN",
+    "published_at": "2026-04-29T19:00:00Z",
+    "summary": "Roscaelifer External Strategy Department employees Norma and Velina will both be new playable characters in Zenless Zone Zero Season 3",
     "content": "",
     "categories": [
-      "events",
+      "games",
       "anime",
-      "merch"
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9297832695793102,
+    "home_score": 0.7114,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "18c98cbb8e202fc613aecc91b08e321344eb77c6",
+    "title": "Final Fantasy XIV Online Y70 PC Case Collaboration Announced by HYTE, Pre-Orders Open",
+    "url": "https://noisypixel.net/final-fantasy-xiv-y70-pc-case-hyte-preorder/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-29T23:15:12Z",
+    "summary": "A new collaboration between HYTE and Square Enix has been revealed, bringing Final Fantasy XIV Online into the PC hardware space with a themed Y70 case",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9863639618136298,
+    "home_score": 0.7109,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "04df82790a5457ef9120c7b948eba980b09d316f",
+    "title": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea review \u2013 hectic anime lives again - The Guardian",
+    "url": "https://www.theguardian.com/film/2026/apr/29/that-time-i-got-reincarnated-as-a-slime-tears-of-the-azure-sea-review",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-04-29T10:07:00Z",
+    "summary": "That Time I Got Reincarnated as a Slime: Tears of the Azure Sea review \u2013 hectic anime lives again The Guardian",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
     ],
     "tags": [],
     "entity_tags": [],
@@ -182,13 +198,39 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8009712929558018,
-    "home_score": 0.7319,
-    "source_quality": 0.76,
+    "freshness_score": 0.8218610026090185,
+    "home_score": 0.7098,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9a9e4777c346ccee2dc6cdef8c989994f311166b",
+    "title": "Rainbow Legends Releasing Next Week",
+    "url": "https://rpgamer.com/2026/04/rainbow-legends-releasing-next-week/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-29T18:39:41Z",
+    "summary": "Unpixel Cloud Cedar Studio and Light Up Games announced that Rainbow Legends will release on May 7, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.925420640393176,
+    "home_score": 0.7064,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
-      "event_type": "cafe",
-      "date_label": null,
+      "event_type": null,
+      "date_label": "May 7, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -196,6 +238,163 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "784e0982a67572b28bea5dafec3354fafa5288b9",
+    "title": "NTE: Neverness to Everness Launches Alongside Twitch Drops Promotion",
+    "url": "https://www.siliconera.com/nte-neverness-to-everness-launches-alongside-twitch-drops-promotion/?utm_source=rss&utm_medium=rss&utm_campaign=nte-neverness-to-everness-launches-alongside-twitch-drops-promotion",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-29T18:00:00Z",
+    "summary": "NTE: Neverness to Everness is live, rewards for launch ended up doled out, and its Twitch Drops promotion started",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9169588759991922,
+    "home_score": 0.7056,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6198a691cf29b98151e685d8d48cd29fe77b7f1e",
+    "title": "More Pokemon Goldfish Crackers Arrive in May",
+    "url": "https://www.siliconera.com/more-pokemon-goldfish-crackers-arrive-in-may/?utm_source=rss&utm_medium=rss&utm_campaign=more-pokemon-goldfish-crackers-arrive-in-may",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-29T21:00:00Z",
+    "summary": "More Pokemon Goldfish crackers are on the way, with variants based on the Kanto starters and Pikachu",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9559726432942172,
+    "home_score": 0.7032,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3e17b778a38c268da981ff20ee78a2dc5807e1ae",
+    "title": "Without South Korea, there is no reason for the Esports Nations Cup to happen",
+    "url": "https://esportsinsider.com/2026/04/south-korea-leaving-esports-nations-cup-crisis",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-04-29T18:30:13Z",
+    "summary": "It\u2019s official, South Korea will not be competing at the Esports Nations Cup (ENC), at least not as a team sanctioned by the Korean e-Sports organization (KeSPA)",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9233946461775082,
+    "home_score": 0.701,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e8b74a9170e8565476e88a6b2f7ed9f22454b7c5",
+    "title": "Kirby\u2019s Dream Buffet Keychains Include Meta Knight and Waddle Dee",
+    "url": "https://www.siliconera.com/kirbys-dream-buffet-keychains-include-meta-knight-and-waddle-dee/?utm_source=rss&utm_medium=rss&utm_campaign=kirbys-dream-buffet-keychains-include-meta-knight-and-waddle-dee",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-04-29T20:00:00Z",
+    "summary": "More Kirby's Dream Buffet merchandise is on the way, as a new line features keychains of Kirby, Meta Knight, and Waddle Dee",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9427870227852438,
+    "home_score": 0.6973,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fdfcc5d80b36ca0d8f8c99f81986344b3ed805ee",
+    "title": "UNBEATABLE Update 1.9.0 Adds OneShot Collab Track and Chart Editor",
+    "url": "https://noisypixel.net/unbeatable-update-1-9-0-oneshot-collab-chart-editor/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-29T23:21:05Z",
+    "summary": "UNBEATABLE Update 1.9.0 Adds OneShot Collab Track and Chart Editor",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9877081911491071,
+    "home_score": 0.6935,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a86fe52e379292e0169e30a1f0e3cac057bd0bba",
+    "title": "Dragon Quest XI S Switch 2 Port Rated in Taiwan",
+    "url": "https://noisypixel.net/dragon-quest-xi-s-switch-2-rating-taiwan/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-04-29T23:01:47Z",
+    "summary": "The Taiwan Digital Rating Committee has rated an unnaounced Switch 2 port of Dragon Quest XI S: Echoes of an Elusive Age, which was spotted in ResetEra",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9833053514700718,
+    "home_score": 0.6915,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -218,11 +417,157 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9765289127661276,
-    "home_score": 0.7249,
+    "freshness_score": 0.900550780618755,
+    "home_score": 0.6907,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6bc6cc28f8246d34cea96c0636a0f01be22c118b",
+    "title": "Final Fantasy XIV and HYTE Y70 come together for an exclusive collaboration - GamingTrend",
+    "url": "https://gamingtrend.com/news/final-fantasy-xiv-and-hyte-y70-come-together-for-an-exclusive-collaboration/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-29T23:01:03Z",
+    "summary": "Final Fantasy XIV and HYTE Y70 come together for an exclusive collaboration GamingTrend",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9831380531380148,
+    "home_score": 0.6884,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "abd31752e1ac33db9595acbbea66e932b66b6215",
+    "title": "\"Our understanding of what it means to deliver a viable experience on any platform has become much clearer\" Naoki Hamaguchi on porting Final Fantasy VII Rebirth to Nintendo Switch 2",
+    "url": "https://www.rpgsite.net/interview/20269-our-understanding-what-it-means-to-deliver-viable-experience-on-any-platform-has-become-much-clearer-naoki-hamaguchi-on-porting-final-fantasy-vii-rebirth-to-nintendo-switch-2",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-04-29T22:38:21Z",
+    "summary": "In the lead up to Final Fantasy VII Rebirth's Nintendo Switch 2 release, we had the chance to ask the team about their thoughts on taking the game multi-platform",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.977985983546105,
+    "home_score": 0.6876,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b4f2124dea2aeb24aafdf87c83061797c03208f9",
+    "title": "ATOM RPG 2 Undergoing Kickstarter Campaign",
+    "url": "https://rpgamer.com/2026/04/atom-rpg-2-undergoing-kickstarter-campaign/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-29T18:39:49Z",
+    "summary": "Developer Atom Team has begun a Kickstarter crowdfunding campaign for ATOM RPG 2 , its follow-up to Fallout-inspired isometric RPG ATOM RPG",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.925449207387488,
+    "home_score": 0.6865,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 21, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7de90f1520736e1c4481d9c96c0b0f962c434f17",
+    "title": "Roguelite Monster Battler Fear Tall Grass Announced",
+    "url": "https://rpgamer.com/2026/04/roguelite-monster-battler-fear-tall-grass-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-04-29T18:39:36Z",
+    "summary": "Entalto Publishing and Forgotten Bastions have announced Fear Tall Grass , a dark fantasy roguelite monster battler",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9254027863414463,
+    "home_score": 0.6864,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c747bb95858e86ef9f6e0a2626b369a36eb61a04",
+    "title": "Persona Music Fes 2013 ~in Nippon Budokan concert available to stream for free - GoNintendo",
+    "url": "https://gonintendo.com/contents/60367-persona-music-fes-2013-in-nippon-budokan-concert-available-to-stream-for-free",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-29T18:48:38Z",
+    "summary": "Persona Music Fes 2013 ~in Nippon Budokan concert available to stream for free GoNintendo",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.927339524621479,
+    "home_score": 0.6813,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -244,8 +589,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9960258260970073,
-    "home_score": 0.7152,
+    "freshness_score": 0.9185307766212181,
+    "home_score": 0.6803,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -270,10 +615,64 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9806067271777523,
-    "home_score": 0.7143,
+    "freshness_score": 0.9043113678240305,
+    "home_score": 0.6799,
     "source_quality": 0.82,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0102e693c0bb3d3aa3cb48fbea81873c4d125252",
+    "title": "Dragon Quest 11 S Nintendo Switch 2 rating appears",
+    "url": "https://nintendoeverything.com/dragon-quest-11-s-nintendo-switch-2-rating-appears/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-04-29T21:21:22Z",
+    "summary": "Another Nintendo Switch game could be making the jump to Switch 2, which is Dragon Quest 11 S",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9607124048016509,
+    "home_score": 0.6798,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7fa1ce6d1a600b8428eaf61c98841e11b8bf3c8d",
+    "title": "The PS4 Era's Best JRPG Has Been Rated For Nintendo Switch 2 In Taiwan",
+    "url": "https://www.dualshockers.com/the-ps4-eras-best-jrpg-has-been-rated-for-nintendo-switch-2/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-04-29T21:43:30Z",
+    "summary": "Possibly the best JRPG released during the PlayStation 4 era has been age-rated in Taiwan for the Nintendo Switch 2, likely for a new release",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9656470465092515,
+    "home_score": 0.679,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2025/06/nintendo-switch-2-setup.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -296,8 +695,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9921139795322236,
-    "home_score": 0.7135,
+    "freshness_score": 0.9149232881570727,
+    "home_score": 0.6787,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -310,6 +709,62 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "00a2f2d885b26e47221d81aca5bf1afc146818b3",
+    "title": "10 Most Ambitious Nintendo DS JRPGs",
+    "url": "https://www.dualshockers.com/most-ambitious-nintendo-ds-jrpgs/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-04-29T18:32:55Z",
+    "summary": "The Most Ambitious Nintendo DS JRPGs took the genre in various interesting new directions with the console's dual screens",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9239720995840485,
+    "home_score": 0.6783,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/04/mixcollage-29-apr-2026-01-50-pm-2368-cropped.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2f0a8c4c52b363eb45de6a5462d677cf30f15554",
+    "title": "10 Most Ambitious PS3 JRPGs Ever Created",
+    "url": "https://www.dualshockers.com/most-ambitious-ps3-jrpgs/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-04-29T18:30:13Z",
+    "summary": "These are some of the most ambitious PS3 JRPGs the console has ever seen, though not all of them won over the public",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9233947962291504,
+    "home_score": 0.678,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/04/most-ambitious-ps3-jrpgs.jpg",
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -330,8 +785,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.983019414646605,
-    "home_score": 0.7124,
+    "freshness_score": 0.9065363149307998,
+    "home_score": 0.6779,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -367,10 +822,89 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9778258539045819,
-    "home_score": 0.712,
+    "freshness_score": 0.9017468266500903,
+    "home_score": 0.6778,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c25affb45e0b06f79fa49779bb0769252af185cc",
+    "title": "10 PS4 JRPGs that Had Very Ambitious Design",
+    "url": "https://www.dualshockers.com/most-ambitious-ps4-jrpgs/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-04-29T21:30:13Z",
+    "summary": "If you're looking for where the next golden age of JRPGs came from, here are 10 PS4 JRPGs that were extremely ambitious at the time",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.962682389662224,
+    "home_score": 0.6777,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/copy-of-copy-of-copy-of-copy-of-copy-of-untitled-24.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ee5c63c34af35ab3b8ee33d959da29fdfc5a33d1",
+    "title": "Final Fantasy 7 Remake Part 3 Dev Reflects On The Long Journey - Kotaku",
+    "url": "https://kotaku.com/final-fantasy-7-rebirth-director-promises-part-3-is-on-schedule-and-he-feels-no-negativity-to-a-project-hes-spent-10-years-working-on-2000691791",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-29T22:04:41Z",
+    "summary": "Final Fantasy 7 Remake Part 3 Dev Reflects On The Long Journey Kotaku",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9703935428163356,
+    "home_score": 0.6767,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "94901b9caa1f78e4a7981f7a4824026e5a993c0f",
+    "title": "Ushiro No Shomen Kamui-San Will Exorcise Ghosts This July",
+    "url": "https://blog.jlist.com/news/ushiro-no-shomen-kamui-san-will-exorcise-ghosts-this-july/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-04-29T20:30:00Z",
+    "summary": "A truly horny horror anime is on its way! The anime adaptation of Ushiro no Shomen Kamui-san (KAMUI: He\u2019s Behind You) will premiere in July 2026! To hype its premiere, WWWave Corpo",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9493564627398174,
+    "home_score": 0.6762,
+    "source_quality": 0.78,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -393,81 +927,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9819693221463994,
-    "home_score": 0.7104,
+    "freshness_score": 0.9055679240043829,
+    "home_score": 0.676,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "74195a2db96e505cb401f50eddc31663b55313b2",
-    "title": "Chaos Zero Nightmare Half-Anniversary Update \u201cARISE\u201d Adds New Modes, Systems, and Anime Expo 2026 Appearance",
-    "url": "https://noisypixel.net/chaos-zero-nightmare-arise-update-sortie-mode-season-3-anime-expo-2026/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-29T17:16:45Z",
-    "summary": "Smilegate has released a major new update for its free-to-play roguelike deck-builder Chaos Zero Nightmare, marking the game\u2019s half-anniversary with the \u201cARISE\u201d update",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9844160720433397,
-    "home_score": 0.71,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c54e9be1032fc7b768c0a6be90e20326e8890ce0",
-    "title": "GreedFall Developer Spiders Confirmed to Be Liquidated; Final DLC to Release via Nacon",
-    "url": "https://noisypixel.net/greedfall-spiders-liquidation-final-dlc-nacon/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-29T17:12:02Z",
-    "summary": "Spiders, the studio behind GreedFall, has confirmed it is being liquidated, bringing an abrupt end to the French RPG developer",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9833418501317741,
-    "home_score": 0.7095,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "April 27",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -489,10 +953,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9670813316779874,
-    "home_score": 0.7082,
+    "freshness_score": 0.8918383053379535,
+    "home_score": 0.6743,
     "source_quality": 0.82,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3d5df7bbbf2c81179135e7fe59f8ddf73ac6b3d1",
+    "title": "How long does it take to beat The Blood of Dawnwalker? Explained",
+    "url": "https://esports.gg/guides/gaming/how-long-does-it-take-to-beat-the-blood-of-dawnwalker-explained/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-04-29T15:41:28Z",
+    "summary": "The Blood of Dawnwalker is a huge RPG, but how long does it take to beat the game?",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8880200243263422,
+    "home_score": 0.6716,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -517,36 +1007,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.985004766022059,
-    "home_score": 0.7058,
+    "freshness_score": 0.908367192896502,
+    "home_score": 0.6713,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/10-jrpgs-where-the-side-content-ends-up-being-better-than-the-main-story.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3d5df7bbbf2c81179135e7fe59f8ddf73ac6b3d1",
-    "title": "How long does it take to beat The Blood of Dawnwalker? Explained",
-    "url": "https://esports.gg/guides/gaming/how-long-does-it-take-to-beat-the-blood-of-dawnwalker-explained/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-29T15:41:28Z",
-    "summary": "The Blood of Dawnwalker is a huge RPG, but how long does it take to beat the game?",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9629409421247878,
-    "home_score": 0.7053,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -571,8 +1035,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9537424903727812,
-    "home_score": 0.7022,
+    "freshness_score": 0.8795372823450264,
+    "home_score": 0.6688,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -606,8 +1070,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9600550811936346,
-    "home_score": 0.702,
+    "freshness_score": 0.8853587104086447,
+    "home_score": 0.6684,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -646,8 +1110,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9445072642893632,
-    "home_score": 0.697,
+    "freshness_score": 0.8710205652886993,
+    "home_score": 0.664,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -682,9 +1146,38 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9405876301060652,
-    "home_score": 0.6963,
+    "freshness_score": 0.8674059258713634,
+    "home_score": 0.6633,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "42e39a0f0759382436b3158ab8e6d566670c4337",
+    "title": "\u2018The Blood of Dawnwalker\u2019 Recalibrates Vampire Myth & Time Mechanics, Sinks Teeth Into High-Stakes Action RPG",
+    "url": "https://geekculture.co/the-blood-of-dawnwalker-rebel-wolves-interview/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-04-28T17:00:00Z",
+    "summary": "\u2018The Blood of Dawnwalker\u2019 Recalibrates Vampire Myth & Time Mechanics, Sinks Teeth Into High-Stakes Action RPG",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.6479671350050955,
+    "home_score": 0.6616,
+    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -708,8 +1201,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9445910724716675,
-    "home_score": 0.6921,
+    "freshness_score": 0.8710978524029567,
+    "home_score": 0.659,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -743,37 +1236,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9276142134435427,
-    "home_score": 0.6904,
+    "freshness_score": 0.8554418959889685,
+    "home_score": 0.6579,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b5c01fd3c1eed31b08d065556b1b09de2a34ab57",
-    "title": "Persona5 The Phantom X Version 4.0 Adds Chapter 4, Characters, and Events",
-    "url": "https://noisypixel.net/persona5-the-phantom-x-version-4-update-chapter-4-events/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-29T14:00:38Z",
-    "summary": "Sega and Perfect World Games have announced that Persona5: The Phantom X will receive its Version 4",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9407253854517406,
-    "home_score": 0.6903,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -797,35 +1262,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9351598471236583,
-    "home_score": 0.6893,
+    "freshness_score": 0.8624004255807413,
+    "home_score": 0.6566,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2bb4313b390cae12f84b7756fe83d7b30efbf0de",
-    "title": "Naoki Hamaguchi Confirms Final Fantasy VII Remake Part 3 Is \u2018Proceeding On Time And On Schedule\u2019 - PlayStation Universe",
-    "url": "https://www.psu.com/news/naoki-hamaguchi-confirms-final-fantasy-vii-remake-part-3-is-proceeding-on-time-and-on-schedule/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-29T14:20:09Z",
-    "summary": "Naoki Hamaguchi Confirms Final Fantasy VII Remake Part 3 Is \u2018Proceeding On Time And On Schedule\u2019 PlayStation Universe",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9449846132567995,
-    "home_score": 0.6892,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -837,7 +1276,7 @@
     "source_name": "RPGamer",
     "source_type": "rss",
     "published_at": "2026-04-29T17:10:27Z",
-    "summary": "Bandai Namco released a new trailer for Tales of Arise: Beyond the Dawn Edition , its upcoming Nintendo Switch 2 release action RPG Tales of Arise",
+    "summary": "Bandai Namco released a new trailer for Tales of Arise: Beyond the Dawn Edition , its upcoming Nintendo Switch 2 release of action RPG Tales of Arise",
     "content": "",
     "categories": [
       "games",
@@ -847,8 +1286,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9829814859458942,
-    "home_score": 0.6883,
+    "freshness_score": 0.9065013373110907,
+    "home_score": 0.6539,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -861,35 +1300,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "42e39a0f0759382436b3158ab8e6d566670c4337",
-    "title": "\u2018The Blood of Dawnwalker\u2019 Recalibrates Vampire Myth & Time Mechanics, Sinks Teeth Into High-Stakes Action RPG",
-    "url": "https://geekculture.co/the-blood-of-dawnwalker-rebel-wolves-interview/",
-    "source_name": "Geek Culture",
-    "source_type": "rss",
-    "published_at": "2026-04-28T17:00:00Z",
-    "summary": "\u2018The Blood of Dawnwalker\u2019 Recalibrates Vampire Myth & Time Mechanics, Sinks Teeth Into High-Stakes Action RPG",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7026351498260637,
-    "home_score": 0.6862,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -911,8 +1321,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9489230654277596,
-    "home_score": 0.684,
+    "freshness_score": 0.8750927977869493,
+    "home_score": 0.6508,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -938,35 +1348,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9734220745936065,
-    "home_score": 0.6825,
+    "freshness_score": 0.8976856842071914,
+    "home_score": 0.6485,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/little-known-horror-games-from-famous-developers.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "cc5dc981811a64110a03e04b0037b20a263bbf15",
-    "title": "Final Fantasy VII Remake Part 3 development is \u2018on schedule,\u2019 director says - Nintendo Wire",
-    "url": "https://nintendowire.com/news/2026/04/29/final-fantasy-vii-remake-part-3-development-is-on-schedule-director-says/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-29T16:53:54Z",
-    "summary": "Final Fantasy VII Remake Part 3 development is \u2018on schedule,\u2019 director says Nintendo Wire",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9792225416643818,
-    "home_score": 0.6807,
-    "source_quality": 0.76,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -991,9 +1376,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9047880045626643,
-    "home_score": 0.6787,
+    "freshness_score": 0.8343916513792117,
+    "home_score": 0.647,
     "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "cc5dc981811a64110a03e04b0037b20a263bbf15",
+    "title": "Final Fantasy VII Remake Part 3 development is \u2018on schedule,\u2019 director says - Nintendo Wire",
+    "url": "https://nintendowire.com/news/2026/04/29/final-fantasy-vii-remake-part-3-development-is-on-schedule-director-says/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-04-29T16:53:54Z",
+    "summary": "Final Fantasy VII Remake Part 3 development is \u2018on schedule,\u2019 director says Nintendo Wire",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9030348295924139,
+    "home_score": 0.6464,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1018,8 +1428,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8558531149564311,
-    "home_score": 0.6751,
+    "freshness_score": 0.78926409501097,
+    "home_score": 0.6452,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1043,59 +1453,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9600400286850618,
-    "home_score": 0.672,
+    "freshness_score": 0.8853447982227627,
+    "home_score": 0.6384,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fe8097ef1b4518add2186a6068e7ed629723bf10",
-    "title": "10 Street Fighter Details That Suggest the Movie Respects the Games",
-    "url": "https://www.dualshockers.com/street-fighter-details-that-suggest-the-movie-might-respect-the-games-more-than-expected/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-04-29T14:30:13Z",
-    "summary": "The trailer for the new Street Fighter movie is packed with fan service",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9471894263643426,
-    "home_score": 0.6707,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/untitled-design-52.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "141104e820a9935172dacf46680ac5f1c3d3c9f4",
-    "title": "Action RPG \u2018Eden\u2019s Frontier\u2019 Reveals New Trailer and Playtest Sign-Ups",
-    "url": "https://noisypixel.net/edens-frontier-trailer-playtest-sign-ups-steam/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-04-29T13:24:38Z",
-    "summary": "Indie developer Jean Felipe and Frontiers Group Entertainment have released a new trailer for their upcoming action RPG Eden\u2019s Frontier, which is in development for PC via Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9329185788631078,
-    "home_score": 0.6688,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1119,8 +1479,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8838045949065602,
-    "home_score": 0.6662,
+    "freshness_score": 0.8150408308252793,
+    "home_score": 0.6353,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1144,8 +1504,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8796545185344787,
-    "home_score": 0.6658,
+    "freshness_score": 0.8112136534929579,
+    "home_score": 0.635,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1169,170 +1529,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9454185702328192,
-    "home_score": 0.6654,
+    "freshness_score": 0.8718609533244253,
+    "home_score": 0.6323,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1b8a8c518ead08396dc034a393f8e1b2f181d8ab",
-    "title": "Over Requiemz getting English release in the west on Nintendo Switch [update: release date]",
-    "url": "https://nintendoeverything.com/over-requiemz-getting-english-release-in-the-west-on-nintendo-switch/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-04-29T12:30:56Z",
-    "summary": "November 12: Today, Aksys Games announced that it\u2019s picked up Over Requiemz for English release in the west on Nintendo Switch",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.921393659164212,
-    "home_score": 0.6621,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "November 12",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0fba9232e6d559e3c852fa3818388d472e4ef25c",
-    "title": "10 RPGs That Reward Exploring Every Corner of the Map",
-    "url": "https://www.dualshockers.com/rpgs-that-reward-exploration/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-04-29T12:30:12Z",
-    "summary": "If you like games that encourage you to wander around, I recommend these ten RPGs that reward exploring every corner of the map",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9212371216158568,
-    "home_score": 0.6591,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/rpgs-that-reward-exploration.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "562761e615c678f748931cf9ea5923bddf715d7f",
-    "title": "Final Fantasy XIV\u2019s patch 7.5 accidentally granted players a fashion accessory otter-matically - Massively Overpowered",
-    "url": "https://massivelyop.com/2026/04/29/final-fantasy-xivs-patch-7-5-accidentally-granted-players-a-fashion-accessory-otter-matically/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-29T13:00:00Z",
-    "summary": "Final Fantasy XIV\u2019s patch 7.5 accidentally granted players a fashion accessory otter-matically - Massively Overpowered",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9276137260811752,
-    "home_score": 0.6574,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "42f0f20eae6601e33a301d04124c02211b43f338",
-    "title": "Final Fantasy 7 Remake Part 3 Director Gives Exciting Release Update",
-    "url": "https://www.dualshockers.com/final-fantasy-7-remake-part-3-director-gives-exciting-update/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-04-29T11:55:05Z",
-    "summary": "The Director of Final Fantasy 7 Rebirth has made a huge announcement regarding the upcoming third entry in the Final Fantasy 7 Remake trilogy",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9137788692570344,
-    "home_score": 0.6557,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/03/final-fantasy-7-rebirth-aerith.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "501fd8f4a792da4f7fd77f76c0b48acc2a6de34c",
-    "title": "Final Fantasy VII Remake Part 3 Director Has Good News and Bad News For Fans - VICE",
-    "url": "https://www.vice.com/en/article/final-fantasy-vii-remake-part-3-director-has-good-news-and-bad-news-for-fans/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-04-29T12:41:32Z",
-    "summary": "Final Fantasy VII Remake Part 3 Director Has Good News and Bad News For Fans VICE",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9236569254858349,
-    "home_score": 0.6556,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f0cc99acfb1d913bc0f6801a1e87e63e0b17921c",
-    "title": "\u2018There\u2019s A Lot Of Pressure\u2019: Kagurabachi Director Comments On Anime Adaptation",
-    "url": "https://animehunch.com/theres-a-lot-of-pressure-kagurabachi-director-comments-on-anime-adaptation/",
-    "source_name": "Anime Hunch",
-    "source_type": "rss",
-    "published_at": "2026-04-29T11:36:26Z",
-    "summary": "The director of the upcoming Kagurabachi anime, Tetsuya Takeuchi, has acknowledged the weight of expectations following the series\u2019 recent official announcement, stating, \u201cthere\u2019s",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9098423968111728,
-    "home_score": 0.6524,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1363,8 +1562,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.5904672016315744,
-    "home_score": 0.6517,
+    "freshness_score": 0.5445263282473249,
+    "home_score": 0.631,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
@@ -1380,31 +1579,30 @@
     "result_type": "article"
   },
   {
-    "id": "d95e60ae85f787d5226931b045664d446489f5ab",
-    "title": "Alice in Wonderland-inspired Roguelike Action Game Crymelight to Launch on November 5",
-    "url": "https://anitrendz.net/news/2026/04/28/alice-in-wonderland-inspired-roguelike-action-game-crymelight-to-launch-on-november-5/?utm_source=rss&utm_medium=rss&utm_campaign=alice-in-wonderland-inspired-roguelike-action-game-crymelight-to-launch-on-november-5",
-    "source_name": "Anime Trending",
+    "id": "1b8a8c518ead08396dc034a393f8e1b2f181d8ab",
+    "title": "Over Requiemz getting English release in the west on Nintendo Switch [update: release date]",
+    "url": "https://nintendoeverything.com/over-requiemz-getting-english-release-in-the-west-on-nintendo-switch/",
+    "source_name": "Nintendo Everything",
     "source_type": "rss",
-    "published_at": "2026-04-29T06:45:26Z",
-    "summary": "The \u201cDark Bishoujo Action\u201d Cry game series from entertainment company FuRyu is getting a third entry, titled Crymelight",
+    "published_at": "2026-04-29T12:30:56Z",
+    "summary": "November 12: Today, Aksys Games announced that it\u2019s picked up Over Requiemz for English release in the west on Nintendo Switch",
     "content": "",
     "categories": [
+      "games",
       "anime",
-      "manga",
-      "events",
-      "games"
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8505730179728683,
-    "home_score": 0.6498,
-    "source_quality": 0.78,
+    "freshness_score": 0.8497053147475496,
+    "home_score": 0.6299,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "November 5",
+      "date_label": "November 12",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1412,32 +1610,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "f103efd4c22b0674095fb87718a43a04978eb6c8",
-    "title": "Pok\u00e9mon All-Stars Music Project Announced with New Music Video",
-    "url": "https://anitrendz.net/news/2026/04/28/pokemon-all-stars-music-project-announced-with-new-music-video/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-all-stars-music-project-announced-with-new-music-video",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-04-29T06:08:49Z",
-    "summary": "A new project for the Pok\u00e9mon franchise titled Pok\u00e9mon All-Stars 1025 has been announced",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8433939593545386,
-    "home_score": 0.6465,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1464,67 +1636,71 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6152122232789994,
-    "home_score": 0.6423,
+    "freshness_score": 0.5673460764476003,
+    "home_score": 0.6208,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "d856eafc4906bd176d454908531580eb16726b9f",
-    "title": "MLBB SEA GAMES (SpevqlJgNG) - Fathom Journal",
-    "url": "https://fathomjournal.org/ff75eca2smm/0b1cd713-_2GIekDbMT4.html",
-    "source_name": "Google News SEA Esports",
+    "id": "f0cc99acfb1d913bc0f6801a1e87e63e0b17921c",
+    "title": "\u2018There\u2019s A Lot Of Pressure\u2019: Kagurabachi Director Comments On Anime Adaptation",
+    "url": "https://animehunch.com/theres-a-lot-of-pressure-kagurabachi-director-comments-on-anime-adaptation/",
+    "source_name": "Anime Hunch",
     "source_type": "rss",
-    "published_at": "2026-04-28T00:37:09Z",
-    "summary": "MLBB SEA GAMES (SpevqlJgNG) Fathom Journal",
+    "published_at": "2026-04-29T11:36:26Z",
+    "summary": "The director of the upcoming Kagurabachi anime, Tetsuya Takeuchi, has acknowledged the weight of expectations following the series\u2019 recent official announcement, stating, \u201cthere\u2019s",
     "content": "",
     "categories": [
-      "esports",
+      "anime",
+      "manga",
       "games"
     ],
-    "tags": [
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.5596580804341575,
-    "home_score": 0.6413,
-    "source_quality": 0.76,
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8390527719171664,
+    "home_score": 0.6206,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "5dda55777da33ff15f79a5a187de2c9d5071886b",
-    "title": "\u2018Final Fantasy\u2019 releasing two modern games on Nintendo Switch 2 this summer - NME",
-    "url": "https://www.nme.com/news/gaming-news/final-fantasy-7-rebirth-remake-14-online-nintendo-switch-2-3943102",
-    "source_name": "Google News JRPG",
+    "id": "d95e60ae85f787d5226931b045664d446489f5ab",
+    "title": "Alice in Wonderland-inspired Roguelike Action Game Crymelight to Launch on November 5",
+    "url": "https://anitrendz.net/news/2026/04/28/alice-in-wonderland-inspired-roguelike-action-game-crymelight-to-launch-on-november-5/?utm_source=rss&utm_medium=rss&utm_campaign=alice-in-wonderland-inspired-roguelike-action-game-crymelight-to-launch-on-november-5",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-04-29T10:00:28Z",
-    "summary": "\u2018Final Fantasy\u2019 releasing two modern games on Nintendo Switch 2 this summer NME",
+    "published_at": "2026-04-29T06:45:26Z",
+    "summary": "The \u201cDark Bishoujo Action\u201d Cry game series from entertainment company FuRyu is getting a third entry, titled Crymelight",
     "content": "",
     "categories": [
+      "anime",
+      "manga",
+      "events",
       "games"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8898534299923748,
-    "home_score": 0.6404,
-    "source_quality": 0.76,
+    "freshness_score": 0.7843948019535418,
+    "home_score": 0.62,
+    "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "November 5",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1549,213 +1725,35 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6000226441359552,
-    "home_score": 0.64,
+    "freshness_score": 0.553338320103549,
+    "home_score": 0.619,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "60115ec0ace91462c396a7b75fe516b27d848e9e",
-    "title": "\u201cThere has to be some nuance here\u201d: DQ\u2019d player is calling out power imbalance after Pok\u00e9mon judges\u2019 baffling rulings continue",
-    "url": "https://esportsinsider.com/2026/04/pokemon-judge-ruling-firestar73-pop-off",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-04-29T00:48:47Z",
-    "summary": "As a member of the FGC, I am quite familiar with the \u201cpop off,\u201d when a player excitedly celebrates a win on stage",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7831720075782851,
-    "home_score": 0.6379,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "226d9d871f7d00544dec88f1756b9f5a36431c38",
-    "title": "\u3010OSHI NO KO\u3011 Manga Giveaway Terms & Conditions",
-    "url": "https://anitrendz.net/news/2026/04/28/%e3%80%90oshi-no-ko%e3%80%91-manga-giveaway-terms-conditions/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%2590oshi-no-ko%25e3%2580%2591-manga-giveaway-terms-conditions",
+    "id": "f103efd4c22b0674095fb87718a43a04978eb6c8",
+    "title": "Pok\u00e9mon All-Stars Music Project Announced with New Music Video",
+    "url": "https://anitrendz.net/news/2026/04/28/pokemon-all-stars-music-project-announced-with-new-music-video/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-all-stars-music-project-announced-with-new-music-video",
     "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-04-28T22:51:50Z",
-    "summary": "To celebrate the upcoming conclusion of \u3010OSHI NO KO\u3011 Season 3, we are hosting a special giveaway contest! There will be 10 copies of the \u3010OSHI NO KO\u3011 manga Volume 13 for fans to co",
+    "published_at": "2026-04-29T06:08:49Z",
+    "summary": "A new project for the Pok\u00e9mon franchise titled Pok\u00e9mon All-Stars 1025 has been announced",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "events"
+      "events",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7622546055863174,
-    "home_score": 0.63,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7777743045408809,
+    "home_score": 0.617,
     "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "804309363d6b04229ffcf3e4e64b6ca2d64c6fdd",
-    "title": "Shytaupe Drops Even a Replica Can Fall in Love Anime Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/4/29/even-a-replica-can-fall-in-love-anime-opening-song-music-video-shytaupe",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-29T02:10:00Z",
-    "summary": "The romance anime is now available on Crinchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7980351606920822,
-    "home_score": 0.6276,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "273704aa0487945fa4008dca546a98a40b07baee",
-    "title": "Final Fantasy VII Rebirth Demo Out Now on Nintendo Switch 2 and Xbox",
-    "url": "https://monstervine.com/2026/04/final-fantasy-vii-rebirth-demo-switch-2-xbox/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-04-29T06:07:55Z",
-    "summary": "Square Enix has released a free Final Fantasy VII Rebirth demo on Nintendo Switch 2, Xbox Series X|S, and Xbox on PC with Xbox Play Anywhere support",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.843218253733123,
-    "home_score": 0.6224,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 3, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "d277ffe00aae7471105e205eb2d738e786a2d500",
-    "title": "Singer-Songwriter Tuki. Shares SNOWBALL EARTH Anime Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/4/29/snowball-earth-anime-opening-song-music-video-tuki",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-04-29T00:42:00Z",
-    "summary": "Crunchyroll streams the Studio Kai-animated mecha series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7819433427609488,
-    "home_score": 0.6204,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "132eae19b2e2c8fef6737ec3c73e610ca008db22",
-    "title": "Shot One Fighters Reveals First Gameplay Trailer Ahead of Kickstarter",
-    "url": "https://monstervine.com/2026/04/shot-one-fighters-gameplay-trailer-kickstarter/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-04-29T04:47:54Z",
-    "summary": "Red Moon Workshop has released the first official gameplay trailer for Shot One Fighters, a single-player 2",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.827743602032013,
-    "home_score": 0.6155,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "6a6de1cd9464751014d1d5c465f65326dfba21ee",
-    "title": "FFXIV Free Trial Now Includes Shadowbringers Expansion",
-    "url": "https://www.siliconera.com/ffxiv-free-trial-now-includes-shadowbringers-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=ffxiv-free-trial-now-includes-shadowbringers-expansion",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-28T21:00:00Z",
-    "summary": "The FFXIV Free Trial updated to include Shadowbringers content, which means you can be a Viera or Hrothgar and be a Dancer or Gunbreaker",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7427753948346464,
-    "home_score": 0.6072,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
