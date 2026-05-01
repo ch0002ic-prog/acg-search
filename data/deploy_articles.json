@@ -120,38 +120,6 @@
     "result_type": "event"
   },
   {
-    "id": "e98a3a9ae97c9cc8cd59921b38c02c9ac8129722",
-    "title": "Dragon Quest Smash/Grow Dragon Quest I collaboration event is now live",
-    "url": "https://www.rpgsite.net/news/20283-dragon-quest-smash-grow-dq-1-collaboration-event-end-date-coins",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-01T08:41:50Z",
-    "summary": "A new DQSG Classified Report video is also available",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Dragon Quest"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.9522631633130902,
-    "home_score": 0.825,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
     "id": "d958943683b299952c291ef741715e325d40f62e",
     "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
     "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
@@ -193,6 +161,34 @@
       "merch_status": null
     },
     "result_type": "event"
+  },
+  {
+    "id": "f49b52f507c8e1b0259c9c4d0c234031e040bb2a",
+    "title": "Disguised Toast opens up on Sykkuno persona and criticizes fans as viral clip fuels heated online discuss - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/us-streamers/disguised-toast-opens-up-on-sykkuno-persona-and-criticizes-fans-as-viral-clip-fuels-heated-online-discussion/articleshow/130681958.cms",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-01T17:30:00Z",
+    "summary": "Disguised Toast opens up on Sykkuno persona and criticizes fans as viral clip fuels heated online discuss The Times of India",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "singapore",
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9890900119540089,
+    "home_score": 0.8101,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "bb659e81d7251aa4f79100206453bde00ee8fca4",
@@ -417,6 +413,38 @@
     "result_type": "event"
   },
   {
+    "id": "e98a3a9ae97c9cc8cd59921b38c02c9ac8129722",
+    "title": "Dragon Quest Smash/Grow Dragon Quest I collaboration event is now live",
+    "url": "https://www.rpgsite.net/news/20283-dragon-quest-smash-grow-dq-1-collaboration-event-end-date-coins",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-01T08:41:50Z",
+    "summary": "A new DQSG Classified Report video is also available",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.8752635271405427,
+    "home_score": 0.7904,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "5df74dade93cc9be80b9bcada12257c27b0c6b57",
     "title": "Who Lives in a Pineapple Under the Sea? GOODSMILE Releases Super Cute 'Nendoroid SpongeBob SquarePants,' Also Including Gary and a Krabby Patty! - \u73a9\u5177\u4eba TOY PEOPLE",
     "url": "https://www.toy-people.com/en/?p=73373",
@@ -438,8 +466,464 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9450743631556785,
-    "home_score": 0.7968,
+    "freshness_score": 0.8686560195329984,
+    "home_score": 0.7624,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "13dcfdf35100d950c377090b7a9f264a18fd59ce",
+    "title": "\u201cAbsolutely no respect\u201d: Evo\u2019s treatment of Daigo and MenaRD Legends Live broadcast shows it no longer understands FGC",
+    "url": "https://esportsinsider.com/2026/05/evo-backlash-after-daigo-menard-legends-live",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-01T17:57:22Z",
+    "summary": "The Japanese fighting game community is up in arms after the Kemonomichi Legends LIVE match, and not because Daigo Umehara lost",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9953757454119384,
+    "home_score": 0.7334,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8ac096600b2f30ad30b4ec428564453c701fec2c",
+    "title": "Controversial but promising: Nongshim RedForce needs Diable to become a top team in the LCK",
+    "url": "https://esportsinsider.com/2026/05/diable-controversial-roster-move-nongshim-redforce",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-01T16:51:48Z",
+    "summary": "Even though the LCK is in the middle of the action with the season\u2019s Rounds 1-2, one of the most shocking moves happened at the end of the first round robin",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9803825249662576,
+    "home_score": 0.7267,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d550609e9abb77d8edaff9660e483b3a3d0c9eab",
+    "title": "Animal Crossing All Star Collection Plush and Keychains Appear",
+    "url": "https://www.siliconera.com/animal-crossing-all-star-collection-plush-and-keychains-appear/?utm_source=rss&utm_medium=rss&utm_campaign=animal-crossing-all-star-collection-plush-and-keychains-appear",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-01T18:00:00Z",
+    "summary": "New Animal Crossing Chrissy, Dom, Francine, Marshall, and Stitches keychains and a returning DJ KK plush are on the way",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9959832589340335,
+    "home_score": 0.7212,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "64788c618c866d4e9480a9cd9a92d86eebf970af",
+    "title": "A Date With Death 2 Dating Sim Kickstarter Already Fully Funded",
+    "url": "https://www.siliconera.com/a-date-with-death-2-dating-sim-kickstarter-already-fully-funded/?utm_source=rss&utm_medium=rss&utm_campaign=a-date-with-death-2-dating-sim-kickstarter-already-fully-funded",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-01T17:00:00Z",
+    "summary": "The Kickstarter for A Date with Death 2: Remnants went live yesterday, and the dating sim sequel already met its goals",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9822457764852558,
+    "home_score": 0.715,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8650507b54b45562f14c4fff4ddd1ab28692a66d",
+    "title": "The problem with STASHD by Fnatic is not whether it\u2019s gambling",
+    "url": "https://esportsinsider.com/2026/05/the-problem-with-stashd-by-fnatic-is-not-whether-its-gambling",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-01T14:49:14Z",
+    "summary": "Fnatic wants its case-opening site STASHD to be \u201ca place for the insane pulls, the rare finds and the stories you actually want to share",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events",
+      "gacha"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9529580753417246,
+    "home_score": 0.7143,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "db2b28bdcc8086cd229ec4f497b6d26c76913845",
+    "title": "Updates Appear on 4 Zenless Zone Zero Figures",
+    "url": "https://www.siliconera.com/updates-appear-on-4-zenless-zone-zero-figures/?utm_source=rss&utm_medium=rss&utm_campaign=updates-appear-on-4-zenless-zone-zero-figures",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-01T16:00:00Z",
+    "summary": "The next Zenless Zone Zero figures we'll see are a Lighter Nendoroid, Soldier 0 Anby and Trigger SH Figuarts, and an Astra Yao scale figure",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9686977736253994,
+    "home_score": 0.7089,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "98b756dc37b22e742186f080e53ca7b8ec00f90c",
+    "title": "Black Clover Manga Ends Serialization with 3-Chapter Finale",
+    "url": "https://crunchyroll.com/news/latest/2026/5/1/black-clover-manga-ends-serialization",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-01T16:39:00Z",
+    "summary": "Chapters 390-392 close Yuki Tabata\u2019s story in Jump Giga",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9774821584918396,
+    "home_score": 0.7084,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a7215268641470492efdf9d047777543da8b24f4",
+    "title": "El Gran Coliseo de Benjaz kicks off in Peru: A media league featuring Tier-1 talent and a LAN final",
+    "url": "https://esports.gg/news/dota-2/el-gran-coliseo-de-benjaz/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-01T15:46:17Z",
+    "summary": "The El Gran Coliseo de Benjaz playoffs are happening from May 1 to May 3",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9656264034052647,
+    "home_score": 0.7065,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 1",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Tier-1 talent"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "68070998f8dfec9f903d572e0f1ba9e8d91ca5cf",
+    "title": "Spring 2026 Anime Rankings - Week 4",
+    "url": "https://animecorner.me/spring-2026-anime-rankings-week-4/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-01T12:30:00Z",
+    "summary": "The fourth weekly poll for the Spring 2026 anime season, hosted by Anime Corner,\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9227341695303142,
+    "home_score": 0.7052,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "aa9b49482eee02dd6636929ba323dc471c22374f",
+    "title": "Hikari takes Akali to Evo Japan 2026 and wins the 2XKO Major: Results and character analysis",
+    "url": "https://esports.gg/news/2xko/hikari-wins-evo-japan-2026-champions-analysis/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-01T15:32:12Z",
+    "summary": "The Dragon Ball FighterZ (DBFZ) legend establishes impressive power in the League of Legends fighting game! Hikari took the newest champion to the high-stakes tournament, and the s",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9624835552449713,
+    "home_score": 0.7051,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9debc5cf7300d1753afe891458803bd559a564f2",
+    "title": "Review: HoloVillage: Our Cozy Days Is a Bug-ridden Holo Indie",
+    "url": "https://www.siliconera.com/review-holovillage-our-cozy-days-is-a-bug-ridden-holo-indie/?utm_source=rss&utm_medium=rss&utm_campaign=review-holovillage-our-cozy-days-is-a-bug-ridden-holo-indie",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-01T15:00:00Z",
+    "summary": "At launch, HoloVillage: Our Cozy Days is too broken and limited to recommend to folks looking for a Hololive Animal Crossing experience",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9553366366942712,
+    "home_score": 0.7029,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9c300a73c7048442ef1ad70a69c1e7103b299ad2",
+    "title": "Final Fantasy 7 Rebirth confirms Nintendo Switch 2 resolution, dev talks hair rendering changes",
+    "url": "https://nintendoeverything.com/final-fantasy-7-rebirth-confirms-nintendo-switch-2-resolution-dev-talks-hair-rendering-changes/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-01T15:45:42Z",
+    "summary": "Wondering what to expect from the resolution of Final Fantasy 7 Rebirth on Nintendo Switch 2? Thanks to director Naoki Hamaguchi, we now have that information",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9654962914621606,
+    "home_score": 0.7,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b584968981cb2d74b302e84b35dde117b022d8bb",
+    "title": "Final Fantasy VII Remake Part 3 Director Confirms He Has 'Completed Over 40 Full Playthroughs' Of The Game - PlayStation Universe",
+    "url": "https://www.psu.com/news/final-fantasy-vii-remake-part-3-director-confirms-he-has-completed-over-40-full-playthroughs-of-the-game/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-01T15:37:26Z",
+    "summary": "Final Fantasy VII Remake Part 3 Director Confirms He Has 'Completed Over 40 Full Playthroughs' Of The Game PlayStation Universe",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.96365007751572,
+    "home_score": 0.6976,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "379c96a48a590e42acc48e92936a4388392b6507",
+    "title": "Dead or Alive 6 Last Round Gets KOF XIV Mai Shiranui and Kula Diamond",
+    "url": "https://www.siliconera.com/dead-or-alive-6-last-round-gets-kof-xiv-mai-shiranui-and-kula-diamond/?utm_source=rss&utm_medium=rss&utm_campaign=dead-or-alive-6-last-round-gets-kof-xiv-mai-shiranui-and-kula-diamond",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-01T14:00:00Z",
+    "summary": "The KOF XIV versions of Mai Shiranui and Kula Diamond will both appear as crossover DLC characters in Dead or Alive 6 Last Round",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9421597884565349,
+    "home_score": 0.697,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "045ceaf4a9f71bda84e39f1dc4571ceb6892ab4e",
+    "title": "Axe Cop set for Nintendo Switch release",
+    "url": "https://nintendoeverything.com/axe-cop-set-for-nintendo-switch-release/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-01T17:44:34Z",
+    "summary": "Electric Airship, along with Red Triangle Games, have revealed plans to bring Axe Cop to Nintendo Switch",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9924312076267966,
+    "home_score": 0.6941,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 4, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3f69427af630ce14139e022b88a10254234a11f5",
+    "title": "\"It's Rare For Me To Make Downtime\" - Naoki Hamaguchi Talks Final Fantasy VII's \"Packed And Eventful\" Development - Nintendo Life",
+    "url": "https://www.nintendolife.com/features/its-rare-for-me-to-make-downtime-naoki-hamaguchi-talks-final-fantasy-viis-packed-and-eventful-development",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-01T15:00:00Z",
+    "summary": "\"It's Rare For Me To Make Downtime\" - Naoki Hamaguchi Talks Final Fantasy VII's \"Packed And Eventful\" Development Nintendo Life",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9553360054720141,
+    "home_score": 0.6939,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -466,8 +950,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9795766498794364,
-    "home_score": 0.7293,
+    "freshness_score": 0.9003684887257323,
+    "home_score": 0.6937,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -478,6 +962,45 @@
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "38f10d9eaf5bcf946026039c2b12982605ff90c0",
+    "title": "Umineko Albums Now Available on Spotify Featuring Game and Anime Themes",
+    "url": "https://noisypixel.net/umineko-albums-spotify-game-anime-soundtracks/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-01T14:22:29Z",
+    "summary": "Recently, two albums from the When They Cry subseries, Umineko, were released on streaming via Spotify",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9470758351695164,
+    "home_score": 0.6932,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Game",
+        "Anime Themes Recently",
+        "Umineko"
+      ],
       "merch_status": null
     },
     "result_type": "article"
@@ -503,13 +1026,132 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9814149393449044,
-    "home_score": 0.7286,
+    "freshness_score": 0.9020581371026111,
+    "home_score": 0.6929,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "July 5",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c9fb0cba85e5f9b1775ecbe385bb61534388a4c0",
+    "title": "Mappa Makes Jujutsu Kaisen Modulo Anime Video for Final Manga Volume",
+    "url": "https://www.siliconera.com/mappa-makes-jujutsu-kaisen-modulo-anime-video-for-final-manga-volume/?utm_source=rss&utm_medium=rss&utm_campaign=mappa-makes-jujutsu-kaisen-modulo-anime-video-for-final-manga-volume",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-01T13:00:00Z",
+    "summary": "In honor of the launch of the last Jujutsu Kaisen Modulo manga volume, Mappa made an anime ad for the book",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9291646868977375,
+    "home_score": 0.6911,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d611b92adc1cb288feb51e2a88bc1992b4509b74",
+    "title": "Cosmic Princess Kaguya Stars Yuko Natusyoshi and Saori Hayami Perform at THE FIRST TAKE",
+    "url": "https://animecorner.me/cosmic-princess-kaguya-stars-yuko-natusyoshi-and-saori-hayami-perform-at-the-first-take/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-01T13:21:41Z",
+    "summary": "Cosmic Princess Kaguya Stars Yuko Natusyoshi and Saori Hayami Perform at THE FIRST TAKE",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9338398190559057,
+    "home_score": 0.6902,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3d6dc7ac83fe0f08bc12a4623d4ea6e78e74ead6",
+    "title": "Geppy-X Remaster Adds Toggle Between 1999 and Remastered Visuals",
+    "url": "https://noisypixel.net/geppy-x-remaster-visual-toggle-1999-remastered/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-01T13:47:07Z",
+    "summary": "Publisher Bliss Brain and developer Implicit Conversions have announced that 70s-style Robot Anime Geppy-X will have an option to switch between newly remastered and original 1999",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9393540268414657,
+    "home_score": 0.6897,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "18bd537d336f7b47afe99fa8e2368808bf4813b9",
+    "title": "Square Enix Releases Dragon Quest and Final Fantasy May 2026 Calendar Wallpapers",
+    "url": "https://noisypixel.net/square-enix-may-2026-calendar-wallpapers-dragon-quest-final-fantasy/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-01T13:40:45Z",
+    "summary": "Square Enix has shared its new monthly calendar wallpapers for March 2026 across the Dragon Quest and Final Fantasy franchises",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy",
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9379706567203825,
+    "home_score": 0.6891,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 27",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -540,11 +1182,98 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.968080195642618,
-    "home_score": 0.7241,
+    "freshness_score": 0.8898016330116265,
+    "home_score": 0.6889,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ea13f099c466f32321aa8ee696a46686feb373f1",
+    "title": "Mugendai MewType Releases \"Mutant Mutant\" Music Video",
+    "url": "https://animecorner.me/mugendai-mewtype-releases-mutant-mutant-music-video/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-01T13:03:28Z",
+    "summary": "Mugendai MewType Releases \"Mutant Mutant\" Music Video",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9299102737443454,
+    "home_score": 0.6885,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d5a372fe742226bf4343b9d04c0dba14abd52f58",
+    "title": "Someone Hertz Manga Hits the Airwaves in Latest Jump Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/5/1/someone-hertz-manga-jump-mv",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-01T13:11:00Z",
+    "summary": "The video features 2022's \"Baka Majime\" by Creepy Nuts x Ayase x Lilas Ikuta",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9315332553857419,
+    "home_score": 0.6877,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f34d90d71bb7788a9d1467d00b14cce46db1ba10",
+    "title": "Turn-based indie pixel-art RPG Quartet is coming to Nintendo Switch on May 12",
+    "url": "https://www.rpgsite.net/news/20290-quartet-nintendo-switch-release-date-turn-based-indie-pixel-art-rpg",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-01T16:38:12Z",
+    "summary": "Turn-based indie pixel-art RPG Quartet is coming to Nintendo Switch on May 12 is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9773013798166097,
+    "home_score": 0.6873,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 12",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -568,8 +1297,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9604835786797543,
-    "home_score": 0.7222,
+    "freshness_score": 0.8828192728862552,
+    "home_score": 0.6873,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -605,8 +1334,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9587620321998532,
-    "home_score": 0.7214,
+    "freshness_score": 0.8812369298150662,
+    "home_score": 0.6866,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -619,6 +1348,136 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "b7f3a6beaf8fe6222e00f55dbd319d8cd89a2d10",
+    "title": "Poppin'Party Releases \"DOKI DOKI DATE\" Music Video",
+    "url": "https://animecorner.me/poppinparty-releases-doki-doki-date-music-video/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-01T12:43:32Z",
+    "summary": "Poppin'Party released a music video for their song, \"DOKI DOKI DATE\" on Wednesday",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9256293673263576,
+    "home_score": 0.6865,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a05b83bd9e9ed9b92b9f956393755e02742379c0",
+    "title": "Avatar Legends: The Fighting Game trailer introduces Sokka",
+    "url": "https://nintendoeverything.com/avatar-legends-the-fighting-game-trailer-introduces-sokka/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-01T16:00:26Z",
+    "summary": "Avatar Legends: The Fighting Game has released a new trailer specifically focusing on Sokka",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9687947346231304,
+    "home_score": 0.6835,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0bad9a221d5b0066f48f960c62dd5a0df35746b3",
+    "title": "Final Fantasy VII Remake director has reportedly completed \u2018over 40 full playthroughs\u2019 of Part 3 - Nintendo Wire",
+    "url": "https://nintendowire.com/news/2026/05/01/final-fantasy-vii-remake-director-has-reportedly-completed-over-40-full-playthroughs-of-part-3/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-01T17:05:15Z",
+    "summary": "Final Fantasy VII Remake director has reportedly completed \u2018over 40 full playthroughs\u2019 of Part 3 Nintendo Wire",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9834395561100951,
+    "home_score": 0.6825,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d0389a3ac0a8dc4433057c7dcb49b72787d4cfaa",
+    "title": "Not only has Final Fantasy 7 Rebirth's director played Remake part 3 before you, he's beaten it \"over 40 times\" - GamesRadar+",
+    "url": "https://www.gamesradar.com/games/final-fantasy/not-only-has-final-fantasy-7-rebirths-director-played-remake-part-3-before-you-hes-beaten-it-over-40-times/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-01T16:48:43Z",
+    "summary": "Not only has Final Fantasy 7 Rebirth's director played Remake part 3 before you, he's beaten it \"over 40 times\" GamesRadar+",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.979682959468251,
+    "home_score": 0.6809,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c7c79747c68f6cf2a2db308916d5a914914fd0dd",
+    "title": "Dragon Quest 9 and 10 director says Yuji Horii taught him the important lesson that \u201cDragon Quest isn\u2019t about the scenario\u201d",
+    "url": "https://automaton-media.com/en/news/dragon-quest-9-and-10-director-says-yuji-horii-taught-him-the-important-lesson-that-dragon-quest-isnt-about-the-scenario/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-05-01T15:00:00Z",
+    "summary": "Former Dragon Quest series scenario writer and director Jin Fujisawa talks about what he learned from Yuji Horii during his time at Square Enix",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9553364612101517,
+    "home_score": 0.6804,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -642,8 +1501,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9433043286112319,
-    "home_score": 0.713,
+    "freshness_score": 0.8670291365820145,
+    "home_score": 0.6787,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -656,6 +1515,34 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "e9d0c34679682a77006a149cb632ff50795e153b",
+    "title": "This 2024 JRPG That Blends Persona And Stardew Valley Is Making A Huge Comeback - comicbook.com",
+    "url": "https://comicbook.com/gaming/feature/this-2024-jrpg-that-blends-persona-and-stardew-valley-is-making-a-huge-comeback/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-01T16:00:00Z",
+    "summary": "This 2024 JRPG That Blends Persona And Stardew Valley Is Making A Huge Comeback comicbook",
+    "content": "",
+    "categories": [
+      "games",
+      "comics"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.968697125446466,
+    "home_score": 0.6759,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -681,8 +1568,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9769576282391741,
-    "home_score": 0.7111,
+    "freshness_score": 0.8979612069858623,
+    "home_score": 0.6756,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -695,6 +1582,60 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "84efae519623133fd69a113f36a676f8ea900ab0",
+    "title": "Blue Reflection Quartet Reveals Retailer Bonus Illustrations Ahead of Launch",
+    "url": "https://noisypixel.net/blue-reflection-quartet-retailer-bonus-illustrations/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-01T14:13:30Z",
+    "summary": "The official website of the upcoming Blue Reflection Quartet has been updated with various bonus illustrations tied to specific Japanese retailers",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9451084579226383,
+    "home_score": 0.6743,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b2447a31f5498ca996b4819820923ba2c889e760",
+    "title": "Dragon Quest Smash/Grow Surpasses 5 Million Downloads",
+    "url": "https://noisypixel.net/dragon-quest-smash-grow-5-million-downloads-rewards/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-01T14:07:27Z",
+    "summary": "Square Enix has announced that its mobile roguelite RPG Dragon Quest Smash/Grow has surpassed five million downloads since its launch last week",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9437857928168449,
+    "home_score": 0.6737,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -716,8 +1657,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9768593782482651,
-    "home_score": 0.7081,
+    "freshness_score": 0.8978709345849885,
+    "home_score": 0.6725,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -742,8 +1683,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9677440231157495,
-    "home_score": 0.7075,
+    "freshness_score": 0.8894926441204717,
+    "home_score": 0.6723,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -777,8 +1718,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9730151620466329,
-    "home_score": 0.7049,
+    "freshness_score": 0.89433756224826,
+    "home_score": 0.6695,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -811,8 +1752,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9586288786627795,
-    "home_score": 0.7014,
+    "freshness_score": 0.8811145423959843,
+    "home_score": 0.6665,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -837,8 +1778,59 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9562832588046466,
-    "home_score": 0.7003,
+    "freshness_score": 0.8789585884442785,
+    "home_score": 0.6655,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2601102f32e7d872fe6ff762b9ac87cdcc95e4b5",
+    "title": "A Livid Lady's Guide to Getting Even Anime Reveals New Key Visual, Opening, Ending Theme Songs",
+    "url": "https://crunchyroll.com/news/latest/2026/5/1/a-livid-ladys-guide-to-getting-even-anime-new-key-visual-opening-ending-theme-songs-three-more-cast-members",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-01T09:02:00Z",
+    "summary": "Three more cast members were also announced",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8793587924525681,
+    "home_score": 0.6642,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7810702af67afe32d5c07a612826683a7317007b",
+    "title": "The World's Strongest Witch Gets Anime",
+    "url": "https://animecorner.me/the-worlds-strongest-witch-gets-anime/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-01T08:45:26Z",
+    "summary": "The World's Strongest Witch light novel by Sakaki Mochimaru is getting an anime adaptation",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8759930469379823,
+    "home_score": 0.6642,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -864,8 +1856,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9599906864031424,
-    "home_score": 0.699,
+    "freshness_score": 0.8823662402986111,
+    "home_score": 0.6641,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -878,989 +1870,6 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "article"
-  },
-  {
-    "id": "2601102f32e7d872fe6ff762b9ac87cdcc95e4b5",
-    "title": "A Livid Lady's Guide to Getting Even Anime Reveals New Key Visual, Opening, Ending Theme Songs",
-    "url": "https://crunchyroll.com/news/latest/2026/5/1/a-livid-ladys-guide-to-getting-even-anime-new-key-visual-opening-ending-theme-songs-three-more-cast-members",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T09:02:00Z",
-    "summary": "Three more cast members were also announced",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9567186664932742,
-    "home_score": 0.699,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7810702af67afe32d5c07a612826683a7317007b",
-    "title": "The World's Strongest Witch Gets Anime",
-    "url": "https://animecorner.me/the-worlds-strongest-witch-gets-anime/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-01T08:45:26Z",
-    "summary": "The World's Strongest Witch light novel by Sakaki Mochimaru is getting an anime adaptation",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9530568295402827,
-    "home_score": 0.6989,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6d31f618511e0636eb2918f5fa92783f34c2f0bf",
-    "title": "A Livid Lady\u2019s Guide to Getting Even Reveals Key Visual",
-    "url": "https://anitrendz.net/news/2026/05/01/a-livid-ladys-guide-to-getting-even-reveals-key-visual/?utm_source=rss&utm_medium=rss&utm_campaign=a-livid-ladys-guide-to-getting-even-reveals-key-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-01T09:00:26Z",
-    "summary": "A key visual for the upcoming A Livid Lady\u2019s Guide to Getting Even TV anime has dropped",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9563716329980327,
-    "home_score": 0.6974,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d9cff0901904755be5a40b01bdf0fd5c3186a712",
-    "title": "Dinners with My Darling Gets Anime",
-    "url": "https://anitrendz.net/news/2026/05/01/dinners-with-my-darling-gets-anime/?utm_source=rss&utm_medium=rss&utm_campaign=dinners-with-my-darling-gets-anime",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-01T08:33:07Z",
-    "summary": "The Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness series is inspiring an anime",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9503432834699405,
-    "home_score": 0.6947,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 7",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "ace27e39e1bbbd924fb0f2b5d3779a7bb642784b",
-    "title": "Dinners with My Darling: How the Former Monster King Ate Her Way to Happiness Anime Adaptation Announced",
-    "url": "https://crunchyroll.com/news/latest/2026/5/1/dinners-with-my-darling-how-the-former-monster-king-ate-her-way-to-happiness-anime-announced",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T07:48:00Z",
-    "summary": "The novels' 7th volume released today in Japan",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9404699933489771,
-    "home_score": 0.6917,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e56d8a264be90af6a94f353aecd3ff0cf54a30a0",
-    "title": "Final Fantasy XIV Switch 2 Version Trails Series S at Half the Frame Rate, but Adds a Joy-Con Mouse Trick - Wccftech",
-    "url": "https://wccftech.com/final-fantasy-xiv-switch-2-series-s-frame-rate-joy-con-mouse/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-01T08:20:00Z",
-    "summary": "Final Fantasy XIV Switch 2 Version Trails Series S at Half the Frame Rate, but Adds a Joy-Con Mouse Trick Wccftech",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.947462057723853,
-    "home_score": 0.6904,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5b29a7eed752c452773093ef60155445538e6c3e",
-    "title": "Letter from the Producer LIVE PART XCII Digest Released",
-    "url": "https://img.finalfantasyxiv.com/t/1188bba6fd740a4567dc1fbab9e2178091f71d1b.png?1777618716",
-    "source_name": "Final Fantasy XIV News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T07:00:00Z",
-    "summary": "We\u2019re pleased to announce that the Letter from the Producer LIVE Part XCII event digest has been released! Part 2 of our Patch 7",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9300781187017506,
-    "home_score": 0.687,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "51fe7f371bbf5c98acce26fe21800747c68ace77",
-    "title": "Young Ladies Don't Play Fighting Games Reveals New Trailer, July 7 Premiere",
-    "url": "https://animecorner.me/young-ladies-dont-play-fighting-games-reveals-new-trailer-july-7-premiere/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-01T06:05:48Z",
-    "summary": "Young Ladies Don't Play Fighting Games anime revealed a new trailer and a July\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9184820597991423,
-    "home_score": 0.6833,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 7",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "56b0c06d8b6d6ae40c1c60b9e39298c162597e15",
-    "title": "Idol Group CANDY TUNE Releases Welcome to Demon School! Iruma-kun Season 4 Anime Ending Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/5/1/welcome-to-demon-school-iruma-kun-season-4-anime-ending-song-music-video-candy-tune",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T02:33:00Z",
-    "summary": "The anime's latest season is now available on Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [
-      "idol"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8743345412953254,
-    "home_score": 0.682,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fc493113565756754ddb93fdef68607b0f2a6327",
-    "title": "Hololive\u2019s indie publishing label comes back with new triannual game submission format following two-month hiatus",
-    "url": "https://automaton-media.com/en/news/hololives-indie-publishing-label-comes-back-with-new-triannual-game-submission-format-following-two-month-hiatus/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-05-01T09:08:21Z",
-    "summary": "Indie publishing label holo Indie announces resumption of activities with a new, revised submission system for hololive-inspired games",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9581262393387803,
-    "home_score": 0.6817,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dc5a0f6fa01de5e6b7a51ab96d6a32b65d5e29b2",
-    "title": "The World\u2019s Strongest Witch Anime to Begin Airing in October",
-    "url": "https://anitrendz.net/news/2026/04/30/the-worlds-strongest-witch-anime-to-begin-airing-in-october/?utm_source=rss&utm_medium=rss&utm_campaign=the-worlds-strongest-witch-anime-to-begin-airing-in-october",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-01T05:19:29Z",
-    "summary": "A TV anime adaptation of The World\u2019s Strongest Witch: I\u2019m Starting My Free Life in a World Where Only I Can See the Online Strategy Guide light novels has been announced with an Oc",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9086870334735617,
-    "home_score": 0.6759,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1fe2596039fca104295343c49edc71cab73be38a",
-    "title": "Thysiastery Interview",
-    "url": "https://rpgamer.com/2026/04/thysiastery-interview/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-01T04:30:48Z",
-    "summary": "Old-school dungeon crawlers have had a niche in RPGamers' minds since the beginnings of the genre",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8985045749123098,
-    "home_score": 0.6743,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "87fcfb63a7b059b63c81a72d25bb7c7db5c9325b",
-    "title": "Yoroi-Shinden Samurai Troopers Anime Releases Original Song \"Brave Trooper\" Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/5/1/yoroi-shinden-samurai-troopers-anime-original-song-brave-trooper-music-video",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T04:39:00Z",
-    "summary": "The sequel series is now available on Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9002115058991204,
-    "home_score": 0.6736,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0f476f42e05cbc4310f69cdddfa8f3f61b7248c9",
-    "title": "Busio to represent Poland instead of USA for Esports Nations Cup because of his Olympian dad",
-    "url": "https://esports.gg/news/league-of-legends/busio-represent-poland-enc/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-01T03:29:17Z",
-    "summary": "Busio intends to follow his father's footsteps and represent Poland at the Esports World Cup",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8858003011898075,
-    "home_score": 0.6706,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "71ae9e4cca57e7c72581665fb5ff76c737facbdd",
-    "title": "Young Ladies Don\u2019t Play Fighting Games Drops New Teaser Trailer, Reveals July 7 Start",
-    "url": "https://anitrendz.net/news/2026/04/30/young-ladies-dont-play-fighting-games-drops-new-teaser-trailer-reveals-july-7-start/?utm_source=rss&utm_medium=rss&utm_campaign=young-ladies-dont-play-fighting-games-drops-new-teaser-trailer-reveals-july-7-start",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-01T04:16:23Z",
-    "summary": "A second teaser trailer for the Young Ladies Don\u2019t Play Fighting Games TV anime has dropped, previewing intense scenes and revealing a July 7 broadcast start date",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8955107744885518,
-    "home_score": 0.67,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 7",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "cafca1b6f8ed3710d91ff8921c34d37e40916c9a",
-    "title": "Blue Box Manga Shoots Past 10 Million Copies in Circulation",
-    "url": "https://crunchyroll.com/news/latest/2026/5/1/blue-box-manga-shoots-past-10-million-copies-in-circulation",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T04:00:00Z",
-    "summary": "The series has been published in Weekly Shonen Jump since April 2021",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8921211694887801,
-    "home_score": 0.67,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4c2dff9af8b6ae4c7ac1a2e2eca5cf3c13919477",
-    "title": "Chainsaw Man Set Crunchyroll Record For Highest Viewed Anime at the Time With Season 1, Says MAPPA CEO",
-    "url": "https://animecorner.me/chainsaw-man-set-crunchyroll-record-for-highest-viewed-anime-at-the-time-with-season-1-says-mappa-ceo/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-04-30T23:45:32Z",
-    "summary": "MAPPA CEO Manabu Otsuka said recently that Chainsaw Man Season 1 set a record\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8410891672779478,
-    "home_score": 0.6685,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "23292f14e28abd4f4159e641e7c59b49acb2857f",
-    "title": "Shiranui Short Film Reveals Main Trailer, Casts Singer Ano as Lead",
-    "url": "https://anitrendz.net/news/2026/04/30/shiranui-short-film-reveals-main-trailer-casts-singer-ano-as-lead/?utm_source=rss&utm_medium=rss&utm_campaign=shiranui-short-film-reveals-main-trailer-casts-singer-ano-as-lead",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-01T03:52:34Z",
-    "summary": "The upcoming anime short film Shiranui has received a main trailer, as well as cast details",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8905873008241489,
-    "home_score": 0.6678,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8cc89b27ee54fc48e77e5b627ac12b7eae230482",
-    "title": "The World's Strongest Witch Anime Adaptation Announced for October 2026",
-    "url": "https://crunchyroll.com/news/latest/2026/5/1/the-worlds-strongest-witch-anime-adaptation-announced-for-october-2026",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T03:27:00Z",
-    "summary": "Main staff and cast members were also confirmed",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8853323167764792,
-    "home_score": 0.6669,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c79cb4e09739459ba4cd30e710de93ba08f6d14f",
-    "title": "Jirai-kei yuri visual novel Menhera Maiden puts you at the mercy of three \u201clandmine girls\u201d as an international student researching Japanese culture",
-    "url": "https://automaton-media.com/en/news/jirai-kei-yuri-visual-novel-menhera-maiden-puts-you-at-the-mercy-of-three-landmine-girls-as-an-international-student-researching-japanese-culture/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-05-01T02:41:59Z",
-    "summary": "Menhera Maiden, the debut title from developer MOONHERA, is a yuri romance where all the heroines are jirai-kei menhera girls",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8761548207864192,
-    "home_score": 0.6648,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f1c9bf035be8bb885d560812c8d0f00cec9085c1",
-    "title": "Fnatic roster changes, meL\u2019s competitive break, and still no Neon nerf: VALORANT\u2019s hectic week",
-    "url": "https://esportsinsider.com/2026/04/valorant-week-recap-fnatic-mel-neon",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-04-30T19:49:49Z",
-    "summary": "It has been a packed week for the VALORANT esports community, including unexpected roster changes, historic achievements, and a mixed Patch 12",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.7964253727388212,
-    "home_score": 0.6639,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "af2fff6c5ba3c33d89b573fb3c23b0c89ed64944",
-    "title": "Konami\u2019s cringe but gold eFootball x Naruto collab trailer has famous real-life players performing CGI ninjutsu",
-    "url": "https://automaton-media.com/en/news/konamis-cringe-but-gold-efootball-x-naruto-collab-trailer-has-famous-real-life-players-performing-cgi-ninjutsu/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-05-01T05:43:27Z",
-    "summary": "Konami\u2019s cringe but gold eFootball x Naruto collab trailer has famous real-life players performing CGI ninjutsu",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9137426669543612,
-    "home_score": 0.6617,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4833854ee1d68a85559606bbbf661be72d560220",
-    "title": "\u2018Final Fantasy VII Remake Part 3\u2019 Director Assures Sequel Is On Schedule",
-    "url": "https://geekculture.co/final-fantasy-vii-remake-part-3-director-assures-sequel-is-on-schedule/",
-    "source_name": "Geek Culture",
-    "source_type": "rss",
-    "published_at": "2026-04-30T04:23:32Z",
-    "summary": "\u2018Final Fantasy VII Remake Part 3\u2019 Director Assures Sequel Is On Schedule",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6427244356159801,
-    "home_score": 0.6592,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "35968b3c1e404684b26a77599a66bad51ec0db18",
-    "title": "Shiranuhi Anime Short Film Releases Main Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/5/1/shiranuhi-anime-film-main-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T02:02:00Z",
-    "summary": "The CoMix Wave Films-Produced anime opens in Japan on August 21",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8680828382280749,
-    "home_score": 0.6591,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 21",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "277dc5386807d122405b402c8703481bef5cbd60",
-    "title": "Final Fantasy XIV Online Director Confirms Mouse And Keyboard Support For Switch 2 Version - Nintendo Life",
-    "url": "https://www.nintendolife.com/news/2026/05/final-fantasy-xiv-online-director-confirms-mouse-and-keyboard-support-for-switch-2-version",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-01T02:45:00Z",
-    "summary": "Final Fantasy XIV Online Director Confirms Mouse And Keyboard Support For Switch 2 Version Nintendo Life",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8767664020085425,
-    "home_score": 0.6585,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bb8f5c0be49ef6cb7df507bde2d6189291804002",
-    "title": "Final Fantasy 14 for Nintendo Switch 2 supports keyboard and mouse controls including Joy-Con 2, director praises the system",
-    "url": "https://nintendoeverything.com/final-fantasy-14-supports-joy-con-2-mouse-controls-director-praises-nintendo-switch-2/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-05-01T02:04:18Z",
-    "summary": "According to the director (and producer) of Final Fantasy 14, the upcoming Nintendo Switch 2 version will keyboard and mouse controls, including support for the Joy-Con 2",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8685453355617442,
-    "home_score": 0.6563,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "71596eda10b3880f7f9f3aff5723bec0a0b70476",
-    "title": "Young Ladies Don't Play Fighting Games Anime 2nd Teaser Trailer Reveals July 7 Premiere, HANABIE. Opening Song",
-    "url": "https://crunchyroll.com/news/latest/2026/5/1/young-ladies-dont-play-fighting-games-anime-2nd-teaser-trailer-july-7-premiere",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-01T00:50:00Z",
-    "summary": "Esports commentator Aru will make a voice appearance",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8537346901329158,
-    "home_score": 0.6527,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 7",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "44fc3ba757131bb1f10f31e6fca6eae84149e9f7",
-    "title": "Brazil calls on Sacy, aspas, and Less for Esports Nations Cup 2026 dream team",
-    "url": "https://esports.gg/news/valorant/brazil-esports-nations-cup-2026-roster/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-30T21:49:18Z",
-    "summary": "Brazil has confirmed its Esports Nations Cup lineup, featuring former player Sacy alongside aspas and Less, the iconic Champions 2022 trio",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8187605598926518,
-    "home_score": 0.6524,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Less"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "9d2b4e843cf04ce468320a35031ffe368f761ff7",
-    "title": "Famitsu software sales (4/20/26 \u2013 4/26/26) \u2013 Top 30",
-    "url": "https://nintendoeverything.com/famitsu-software-sales-4-20-26-4-26-26-top-30/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-05-01T04:30:40Z",
-    "summary": "This week\u2019s expanded Japanese software sales are as follows: 1",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8984768670876842,
-    "home_score": 0.6518,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4652cc5a578b85da5307ffe45a7733cffaa5980e",
-    "title": "\u2018FINAL FANTASY VII REBIRTH\u2019 Sees Free Demo Across Switch 2 and Xbox - playday.one",
-    "url": "https://playday.one/2026/05/01/final-fantasy-vii-rebirth-sees-free-demo-across-switch-2-and-xbox/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-01T05:21:21Z",
-    "summary": "\u2018FINAL FANTASY VII REBIRTH\u2019 Sees Free Demo Across Switch 2 and Xbox playday",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9090796677156908,
-    "home_score": 0.6491,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a6e0b40a7db8852f433203322748c04d695d6339",
-    "title": "Dead or Alive 6 Last Round Trailer Highlights Mai and Kula Collaboration Fighters",
-    "url": "https://noisypixel.net/dead-or-alive-6-last-round-trailer-mai-kula-collab/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-01T03:32:56Z",
-    "summary": "Publisher Koei Tecmo and developer Team Ninja have released a new trailer for Dead or Alive 6 Last Round, highlighting collaboration characters Mai Shiranui and Kula Diamond from T",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8865493405253647,
-    "home_score": 0.6479,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "306c5a722aaa2e84b73ba7bbe2724c5e4c9a4b6d",
-    "title": "\u201cWe\u2019re the best team in America,\u201d MIBR Mazino on first VCT 2026 Stage 1 defeat",
-    "url": "https://esports.gg/news/valorant/mibr-mazino-vct-americas-2026-stage-1-interview/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-04-30T20:51:47Z",
-    "summary": "Despite the tough loss to Cloud9 in their last match, MIBR Mazino remains confident that the team can secure a spot at Masters London",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.807931792084866,
-    "home_score": 0.6476,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "41d08858a85f3579ab8d57719bcf6158a6ea0353",
-    "title": "3.0 Zenless Zone Zero Characters and Voice Actors Teased",
-    "url": "https://www.siliconera.com/3-0-zenless-zone-zero-characters-and-voice-actors-teased/?utm_source=rss&utm_medium=rss&utm_campaign=3-0-zenless-zone-zero-characters-and-voice-actors-teased",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-04-30T19:00:00Z",
-    "summary": "The latest Zenless Zone Zero Season 3 announcement showed 10 characters and their voice actors ahead of the 3",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7872945225245316,
-    "home_score": 0.6473,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5c38f68f07338ea1663b2e68fbd7e5ad429c736d",
-    "title": "Stupid Never Dies Trailer Showcases Combat Styles",
-    "url": "https://noisypixel.net/stupid-never-dies-trailer-11-styles-gameplay/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-01T03:14:05Z",
-    "summary": "Developer GPTRACK50 has revealed a new gameplay trailer for its upcoming 3D action RPG Stupid Never Dies, showcasing the 11 styles it boasts",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8826893736636059,
-    "home_score": 0.6462,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "aa34215c0a8be0635023af502cf5fa18583bf467",
-    "title": "World Heroes Perfect PC Release Adds Rollback Netcode and New Features",
-    "url": "https://noisypixel.net/world-heroes-perfect-pc-release-rollback-netcode-features/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-01T03:10:11Z",
-    "summary": "SNK and Code Mystics have announced a new PC via Steam release of the 1995 fighting game World Heroes Perfect, as part of its NEO GEO Premium Selection series",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8818928588654723,
-    "home_score": 0.6459,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   }
 ]
