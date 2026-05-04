@@ -1,350 +1,397 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "6a03cde4c521455cd734ec2b3c857fe14d28bee4",
+    "title": "Human or AI? Spotify\u2019s new Verified badges aim to clear the confusion",
+    "url": "https://www.bandwagon.asia/articles/human-or-ai-spotify-s-new-verified-badges-aim-to-clear-the-confusion",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-05-04T02:55:00Z",
+    "summary": "Music streaming giant Spotify is taking a new step in its ongoing AI-era evolution, introducing Verified badges to help listeners distinguish human artists from AI-generated profil",
     "content": "",
     "categories": [
-      "events",
       "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
+      "esports",
       "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
       "events",
-      "games",
-      "esports"
+      "merch"
     ],
-    "tags": [
-      "singapore"
-    ],
+    "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
+    "freshness_score": 0.9462794778060095,
+    "home_score": 0.7838,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C100%2C2880%2C1440%5D/resize=w:1920/pjpg=q:90/compress/DyYHG8jbQtaGeqnfIeyG",
     "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b94139043f1178caf80ac37732bac518a7b2ddcd",
+    "title": "CS2 events in 2026: Full top-tier schedule",
+    "url": "https://esports.gg/news/counter-strike-2/schedule-cs2-events-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-04T06:52:53Z",
+    "summary": "Many great tournaments happen this year! Check out the competitive calendar and not miss big Counter-Strike 2 events",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9998477888229511,
+    "home_score": 0.7339,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
-    "id": "e006d2fe04971d474528efdf9801275bfb782127",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537044723",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-05-06T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "id": "bd64cd9178cc1cac0eef29d04493c98ddd80ca2b",
+    "title": "Cosplay Camp Returns to Alabang for a Mom-entous Celebration this May",
+    "url": "https://animecorner.me/cosplay-camp-returns-to-alabang-for-a-mom-entous-celebration-this-may/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-04T06:23:33Z",
+    "summary": "Cosplay Camp Returns to Alabang for a Mom-entous Celebration this May",
     "content": "",
     "categories": [
-      "events",
       "anime",
       "manga",
-      "merch"
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9930818232404809,
+    "home_score": 0.7169,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ac8fad4eceb141a617302666c452aa466ae1b856",
+    "title": "Pilaf Seijin Shares Mission: Yozakura Family Season 2 Anime Ending Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/5/4/mission-yozakura-family-season-2-anime-ending-song-music-video-pilaf-seijin",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-04T01:58:00Z",
+    "summary": "The CD single will be available on June 17",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
+    "sg_relevance": 0.08,
+    "freshness_score": 0.933875478633599,
+    "home_score": 0.7087,
+    "source_quality": 0.79,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "6 May 2026",
-      "venue": "20B Mosque St",
+      "event_type": null,
+      "date_label": "June 17",
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537044723",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
+    "id": "260ea7786adf86234472756f2016854b514e5778",
+    "title": "Chatty AF 242: 2026 Winter Wrap-Up",
+    "url": "https://www.animefeminist.com/chatty-af-242-2026-winter-wrap-up/",
+    "source_name": "Anime Feminist",
+    "source_type": "rss",
+    "published_at": "2026-05-04T02:44:51Z",
+    "summary": "Vrai, Dee, and Peter make a much-delayed return to Wrap up the 2026 Winter season which, despite having many dropped titles, more than made up for them with its many successes! The",
     "content": "",
     "categories": [
-      "events",
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.944058374031125,
+    "home_score": 0.7058,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "18f4798f6d45ea94d13aaa1b97a024892ae9aad7",
+    "title": "BanG Dream! YUMEMITA Anime Reveals July 2 Premiere Date",
+    "url": "https://animecorner.me/bang-dream-yumemita-anime-reveals-july-2-premiere-date/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-04T04:31:50Z",
+    "summary": "BanG Dream! YUMEMITA anime revealed a July 2, 2026 premiere date and episodes 1-3\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9677296103932983,
+    "home_score": 0.7055,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 2",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "964414c9c23c86fa0ee06dcd7f58c197c77b0605",
+    "title": "Cygames acquires Japanese animation, VFX, and motion capture company credited on Final Fantasy VII Rebirth, Ninja Gaiden 4",
+    "url": "https://automaton-media.com/en/news/cygames-acquires-japanese-animation-vfx-and-motion-capture-company-credited-on-final-fantasy-vii-rebirth-ninja-gaiden-4/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-05-04T06:18:15Z",
+    "summary": "Umamusume: Pretty Derby and Granblue Fantasy developer Cygames has announced the acquisition of domestic 3DCG and VFX company Griot Groove",
+    "content": "",
+    "categories": [
       "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.991864398031141,
+    "home_score": 0.6968,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e2407b44505548cbba285126fd10951c4271bc73",
+    "title": "The Boys Fortnite collab to arrive in the \u2018next update,\u2019 according to leaks",
+    "url": "https://esports.gg/news/fortnite/the-boys-fortnite-collab-details/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-04T01:46:11Z",
+    "summary": "The Boys Fortnite collab to arrive in the \u2018next update,\u2019 according to leaks",
+    "content": "",
+    "categories": [
       "esports",
+      "games",
       "merch"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9313244236541767,
+    "home_score": 0.6911,
     "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "65545fa285949f3a5bd9e86a433adf6ad62e0db0",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
+    "id": "704d50e1d61fcdc93b169a0e6dd48e8c362e4b90",
+    "title": "Open-world anime RPG Neverness to Everness hits $14 million globally on day one, led by Japan and US",
+    "url": "https://automaton-media.com/en/news/open-world-anime-rpg-neverness-to-everness-hits-14-million-globally-on-day-one-led-by-japan-and-us/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-05-04T04:58:35Z",
+    "summary": "Neverness to Everness (NTE) has generated over $14 million USD in global revenue within one day of launch, according to publisher Perfect World Games",
     "content": "",
     "categories": [
-      "events",
       "games",
-      "esports"
+      "anime",
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6203434b1e16ea9bffd6420eefee1bf6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9737406964448484,
+    "home_score": 0.6887,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
+    "id": "91c503f7ec75f55185d852264408e73fd55ca67c",
+    "title": "Skautfold: Moonless Knight Review",
+    "url": "https://rpgamer.com/review/skautfold-moonless-knight-review/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-04T01:27:40Z",
+    "summary": "Imitation Without Flattery An old, oft-quoted proverb states that imitation is the sincerest form of flattery",
     "content": "",
     "categories": [
-      "events",
       "games",
-      "esports"
+      "anime",
+      "events"
     ],
     "tags": [
-      "singapore"
+      "jrpg"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9273413299371976,
+    "home_score": 0.6873,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "e1dffbe6dd167a0a554b49a9a29c57139ee901d9",
-    "title": "\u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \"\u041f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435 \u0438 \u0434\u0440\u0430\u043a\u043e\u043d\u044b\" Dungeons & Dragons \u0434\u043b\u044f \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043a\u043e\u0432",
-    "url": "https://www.eventbrite.sg/e/dungeons-dragons-tickets-1988220139960",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-08T00:00:00Z",
-    "summary": "\u041f\u0440\u043e\u043a\u0430\u0447\u0430\u0439 \u0432\u043e\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432 Bilingvi c Dungeons & Dragons (D&D)",
+    "id": "1d95bf50a5bde7327fedcb31981cbf91ca08cf4d",
+    "title": "Idol Unit INUWASI to Perform The Forsaken Saintess and Her Foodie Roadtrip in Another World Anime Opening Song",
+    "url": "https://crunchyroll.com/news/latest/2026/5/4/the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world-anime-opening-song-inuwasi",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-04T00:22:00Z",
+    "summary": "EMT Squared-animated new isekai series will premiere in July",
     "content": "",
     "categories": [
-      "events",
+      "anime",
+      "manga",
       "games",
-      "esports"
+      "events"
+    ],
+    "tags": [
+      "idol"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9133515772329457,
+    "home_score": 0.6795,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "348d9a320b88bf0388d42806ebe8b0812cbbfd62",
+    "title": "Famitsu\u2019s most wanted games \u2013 May 3, 2026 \u2013 Pokemon Winds and Waves clear the competition",
+    "url": "https://nintendoeverything.com/famitsus-most-wanted-games-may-3-2026/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-04T03:30:58Z",
+    "summary": "It\u2019s time for the latest Famitsu\u2019s most wanted games chart outlining what Japanese gamers are looking forward to based on reader votes",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183015474%2F1751175929363%2F1%2Foriginal.20260425-054812?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4fe76435f1e558f3406abdd31afa1d75",
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9541905523156716,
+    "home_score": 0.6769,
+    "source_quality": 0.77,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 May 2026",
-      "venue": "36/38 Armenian Street",
+      "event_type": null,
+      "date_label": "May 3, 2026",
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/dungeons-dragons-tickets-1988220139960",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
+  },
+  {
+    "id": "e7d48ba59c83ada35370cbbe7429a1d6db30c23d",
+    "title": "Final Fantasy Gets Limited Edition Collaboration Ahead of Switch 2 Release - Comic Book Resources",
+    "url": "https://www.cbr.com/final-fantasy-xiv-hyte-y70-case/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-04T03:01:00Z",
+    "summary": "Final Fantasy Gets Limited Edition Collaboration Ahead of Switch 2 Release Comic Book Resources",
+    "content": "",
+    "categories": [
+      "games",
+      "merch",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9475940820517281,
+    "home_score": 0.6724,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "eafa798325aa7e78832e509db1d087f9d42da07b",
@@ -366,8 +413,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8958649198107055,
-    "home_score": 0.6931,
+    "freshness_score": 0.8165844240676557,
+    "home_score": 0.6575,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -393,8 +440,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9300548664473813,
-    "home_score": 0.6915,
+    "freshness_score": 0.8477487229973284,
+    "home_score": 0.6545,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -418,8 +465,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9696252260863111,
-    "home_score": 0.6763,
+    "freshness_score": 0.8838172456403641,
+    "home_score": 0.6377,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -447,8 +494,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8958856706777645,
-    "home_score": 0.6731,
+    "freshness_score": 0.8166033396237605,
+    "home_score": 0.6375,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -481,8 +528,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9496778448883223,
-    "home_score": 0.6719,
+    "freshness_score": 0.8656351113838957,
+    "home_score": 0.634,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/indie-rpgs-with-better-exploration-than-skyrim-1.jpg",
     "event_metadata": null,
@@ -495,7 +542,7 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-05-03T15:29:19Z",
-    "summary": "Assassination Classroom the Movie: Our Time Announces Fan Screening in the Philippines",
+    "summary": "Muse has announced that Assassination Classroom the Movie: Our Time will be premiering in\u2026",
     "content": "",
     "categories": [
       "anime",
@@ -507,8 +554,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8857847240602882,
-    "home_score": 0.6686,
+    "freshness_score": 0.8073962804519775,
+    "home_score": 0.6333,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -530,20 +577,19 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-05-03T15:27:42Z",
-    "summary": "Luffy, Zoro, and Sanji Rank as Top 3 Characters in One Piece 2nd Global Poll Midterm Results",
+    "summary": "The second global popularity poll for ONE PIECE shared its midterm results, with main\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "events",
-      "games"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8854532993944089,
-    "home_score": 0.6685,
+    "freshness_score": 0.8070941804729799,
+    "home_score": 0.6332,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -568,8 +614,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8950181958434047,
-    "home_score": 0.6668,
+    "freshness_score": 0.8158126425366413,
+    "home_score": 0.6311,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -594,8 +640,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8780780790082224,
-    "home_score": 0.6651,
+    "freshness_score": 0.8003716376023835,
+    "home_score": 0.6302,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -620,8 +666,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8901351990825777,
-    "home_score": 0.6646,
+    "freshness_score": 0.8113617707064302,
+    "home_score": 0.6291,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -634,31 +680,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "40477fd7d39d42531c6bbbd9261f4e9b100cfc6c",
-    "title": "We may not have seen anything of Final Fantasy 7 Remake Part 3 yet, but co-director Hamaguchi has already completed \"over 40 full playthroughs\" - Eurogamer.net",
-    "url": "https://www.eurogamer.net/we-may-not-have-seen-anything-of-final-fantasy-7-remake-part-3-yet-but-co-director-hamaguchi-has-already-completed-over-40-full-playthroughs",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-03T20:01:36Z",
-    "summary": "We may not have seen anything of Final Fantasy 7 Remake Part 3 yet, but co-director Hamaguchi has already completed \"over 40 full playthroughs\" Eurogamer",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.943411180167193,
-    "home_score": 0.6645,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -680,10 +701,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8699649996301575,
-    "home_score": 0.6635,
+    "freshness_score": 0.7929765422548366,
+    "home_score": 0.6288,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "40477fd7d39d42531c6bbbd9261f4e9b100cfc6c",
+    "title": "We may not have seen anything of Final Fantasy 7 Remake Part 3 yet, but co-director Hamaguchi has already completed \"over 40 full playthroughs\" - Eurogamer.net",
+    "url": "https://www.eurogamer.net/we-may-not-have-seen-anything-of-final-fantasy-7-remake-part-3-yet-but-co-director-hamaguchi-has-already-completed-over-40-full-playthroughs",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-03T20:01:36Z",
+    "summary": "We may not have seen anything of Final Fantasy 7 Remake Part 3 yet, but co-director Hamaguchi has already completed \"over 40 full playthroughs\" Eurogamer",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8599230388559944,
+    "home_score": 0.627,
+    "source_quality": 0.76,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -706,68 +752,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.855691783542902,
-    "home_score": 0.6581,
+    "freshness_score": 0.7799664761253504,
+    "home_score": 0.624,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d6e94eb89e440a7c1e197c52b563d220ccd5b835",
-    "title": "The RPGs of 2026: Every RPG and their release dates",
-    "url": "https://www.rpgsite.net/feature/16349-the-rpgs-2026-every-rpg-their-release-dates",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-03T17:36:52Z",
-    "summary": "The RPGs of 2026: Every RPG and their release dates",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9123279932972344,
-    "home_score": 0.658,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3e59e513be34d7ba3f14510126c81697c11f496f",
-    "title": "Creature collector RPG LumenTale: Memories of Trey launches on May 26 for Nintendo Switch and PC",
-    "url": "https://www.rpgsite.net/news/20299-creature-collector-rpg-lumentale-memories-trey-launches-on-may-26-for-nintendo-switch-pc",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-03T17:35:20Z",
-    "summary": "Created by an Italian dev team, LumenTale is set in the Italian-inspired region of Talea",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9120042318161442,
-    "home_score": 0.6579,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 26",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -791,11 +780,68 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8137171559361008,
-    "home_score": 0.6562,
+    "freshness_score": 0.7417064019491151,
+    "home_score": 0.6238,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d6e94eb89e440a7c1e197c52b563d220ccd5b835",
+    "title": "The RPGs of 2026: Every RPG and their release dates",
+    "url": "https://www.rpgsite.net/feature/16349-the-rpgs-2026-every-rpg-their-release-dates",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-03T17:36:52Z",
+    "summary": "The RPGs of 2026: Every RPG and their release dates",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8315906087613553,
+    "home_score": 0.6217,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3e59e513be34d7ba3f14510126c81697c11f496f",
+    "title": "Creature collector RPG LumenTale: Memories of Trey launches on May 26 for Nintendo Switch and PC",
+    "url": "https://www.rpgsite.net/news/20299-creature-collector-rpg-lumentale-memories-trey-launches-on-may-26-for-nintendo-switch-pc",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-03T17:35:20Z",
+    "summary": "Created by an Italian dev team, LumenTale is set in the Italian-inspired region of Talea",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8312954989427246,
+    "home_score": 0.6216,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 26",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -819,8 +865,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8737626505876576,
-    "home_score": 0.6557,
+    "freshness_score": 0.7964381114986129,
+    "home_score": 0.6209,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/mixcollage-27-apr-2026-06-57-pm-173.jpg",
     "event_metadata": null,
@@ -845,8 +891,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8588665594425365,
-    "home_score": 0.655,
+    "freshness_score": 0.7828602640420796,
+    "home_score": 0.6208,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -878,8 +924,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8957785126220899,
-    "home_score": 0.6491,
+    "freshness_score": 0.8165056632956552,
+    "home_score": 0.6134,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -913,8 +959,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8113628175985589,
-    "home_score": 0.6371,
+    "freshness_score": 0.7395604212606294,
+    "home_score": 0.6048,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -940,8 +986,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8498189076942325,
-    "home_score": 0.6269,
+    "freshness_score": 0.7746132951424897,
+    "home_score": 0.5931,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/final-fantasy-snow-game-fishing-triple-triad.jpg",
     "event_metadata": null,
@@ -966,8 +1012,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7845392684489909,
-    "home_score": 0.623,
+    "freshness_score": 0.7151106422196869,
+    "home_score": 0.5918,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -991,8 +1037,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7726206126020758,
-    "home_score": 0.5952,
+    "freshness_score": 0.7042467704693017,
+    "home_score": 0.5644,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -1005,33 +1051,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "c003e0f43e2572fe54146615976df848762bd954",
-    "title": "How to get into Nintendo\u2019s EarthBound series in 2026, and which order to play in",
-    "url": "https://nintendoeverything.com/how-to-get-into-earthbound-order-to-play-in/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-05-03T04:00:44Z",
-    "summary": "By now, it\u2019s no secret that EarthBound is one of the greatest JRPG series of all time",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7552733925964478,
-    "home_score": 0.5874,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1053,8 +1072,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7444078516414172,
-    "home_score": 0.5825,
+    "freshness_score": 0.6785307291260874,
+    "home_score": 0.5528,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -1079,8 +1098,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7170258701330523,
-    "home_score": 0.5797,
+    "freshness_score": 0.6535719223659423,
+    "home_score": 0.5511,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1115,8 +1134,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.666413429838883,
-    "home_score": 0.5729,
+    "freshness_score": 0.6074385012181718,
+    "home_score": 0.5463,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1144,8 +1163,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6211271217188459,
-    "home_score": 0.5695,
+    "freshness_score": 0.5661598321607272,
+    "home_score": 0.5448,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1171,45 +1190,11 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6259574848086932,
-    "home_score": 0.5657,
+    "freshness_score": 0.5705627262123422,
+    "home_score": 0.5408,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f0f34fe25643201a7a4f9698086fe8ad2837397a",
-    "title": "Weekly Figure Roundup: 26 Apr, 2026 to 02 May, 2026",
-    "url": "https://otakumode.com/news/69f63d3b1471f8002584209b?utm_source=tom&utm_medium=feed&utm_campaign=news_feed",
-    "source_name": "Tokyo Otaku Mode",
-    "source_type": "rss",
-    "published_at": "2026-05-02T18:07:10Z",
-    "summary": "Come and check out our newest figure preorders! Weekly Figure Roundup: 26 Apr, 2026 to 02 May, 2026",
-    "content": "",
-    "categories": [
-      "merch",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6583126112479379,
-    "home_score": 0.5632,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "26 Apr",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1231,49 +1216,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.648006418745941,
-    "home_score": 0.5601,
+    "freshness_score": 0.5906604122985518,
+    "home_score": 0.5343,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8311990ce8d717c2ec6dc9fab90ec212599f981e",
-    "title": "VALORANT unveils Viper-themed merch line with 1/7 scale statue",
-    "url": "https://esports.gg/news/valorant/valorant-viper-themed-merch-line/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-02T10:55:40Z",
-    "summary": "VALORANT has released a Viper-themed merchandise collection featuring hoodies, t-shirts, plushies, and a standout 1/7 scale Viper statue",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.5957347804630907,
-    "home_score": 0.5601,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
     "result_type": "article"
   },
   {
@@ -1294,8 +1241,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.643874629514093,
-    "home_score": 0.5597,
+    "freshness_score": 0.5868942681830466,
+    "home_score": 0.5341,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1320,38 +1267,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6463585007442856,
-    "home_score": 0.5594,
+    "freshness_score": 0.5891583285302617,
+    "home_score": 0.5336,
     "source_quality": 0.79,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d03e8e13b44139a858b87551a656506920c57715",
-    "title": "Riot Games to open applications for LoL, VALORANT, and TFT Partner Programs soon",
-    "url": "https://esports.gg/news/gaming/https-esports-gg-news-gaming-riot-games-lol-valorant-tft-partner-programs/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-02T09:32:40Z",
-    "summary": "Riot Games will open applications for the League of Legends, VALORANT, and Teamfight Tactics Partner Programs starting in August 2026",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.5843982024838922,
-    "home_score": 0.555,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1372,35 +1291,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6827460431102959,
-    "home_score": 0.5532,
+    "freshness_score": 0.6223257233066591,
+    "home_score": 0.526,
     "source_quality": 0.8,
     "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast811.mp3",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b83c47267f4da8f3ce8f114adc287666d6abda15",
-    "title": "Anime Feminist Recommendations of Winter 2026",
-    "url": "https://www.animefeminist.com/anime-feminist-recommendations-of-winter-2026/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-05-02T16:15:45Z",
-    "summary": "Winter gifted us some amazing shojosei, including what's already one of 2026's best anime",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.641551207771424,
-    "home_score": 0.5497,
-    "source_quality": 0.74,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1423,9 +1317,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6131299529731989,
-    "home_score": 0.5489,
+    "freshness_score": 0.5588703993990392,
+    "home_score": 0.5245,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b83c47267f4da8f3ce8f114adc287666d6abda15",
+    "title": "Anime Feminist Recommendations of Winter 2026",
+    "url": "https://www.animefeminist.com/anime-feminist-recommendations-of-winter-2026/",
+    "source_name": "Anime Feminist",
+    "source_type": "rss",
+    "published_at": "2026-05-02T16:15:45Z",
+    "summary": "Winter gifted us some amazing shojosei, including what's already one of 2026's best anime",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5847764661398812,
+    "home_score": 0.5241,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1450,161 +1369,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6260371546711607,
-    "home_score": 0.5487,
+    "freshness_score": 0.570635345061498,
+    "home_score": 0.5238,
     "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7cc24db3b426392f46dd4693631d472ff21d79a6",
-    "title": "The Quintessential Quintuplets Announces Two New Anime Projects",
-    "url": "https://crunchyroll.com/news/latest/2026/5/2/the-quintessential-quintuplets-gets-two-new-anime-projects",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-02T11:37:00Z",
-    "summary": "A new series and another special are in the works!",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6014621232446987,
-    "home_score": 0.5392,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bde7bb54166b1896e5bd50392379b0bcba52a096",
-    "title": "The Quintessential Quintuplets Announces Two New Anime Projects, Including Sequel Novel Adaptation and OVA",
-    "url": "https://animecorner.me/the-quintessential-quintuplets-announces-two-new-anime-projects-including-sequel-novel-adaptation-and-ova/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-02T11:09:59Z",
-    "summary": "A new anime project for The Quintessential Quintuplets has been officially announced, confirming two\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5977124234665339,
-    "home_score": 0.539,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6348558076d239ba09c428293aa0201f3b867b8e",
-    "title": "Gunple: Gunman\u2019s Proof Retroview",
-    "url": "https://rpgamer.com/review/gunple-gunmans-proof-retroview/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-02T10:35:04Z",
-    "summary": "A Gunman in the Past It is always refreshing when a game introduces a setting that is underutilized",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5929008921465353,
-    "home_score": 0.5368,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9a4797bf5095279dc7022835069028e428802681",
-    "title": "My Hero Academia: More Review - A Wholesome Conclusion to a 10-Year Anime Adaptation",
-    "url": "https://animecorner.me/my-hero-academia-more-review-a-wholesome-conclusion-to-a-10-year-anime-adaptation/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-02T09:30:00Z",
-    "summary": "My Hero Academia: More is now officially streaming worldwide, delivering the perfect conclusion to\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5840376497561207,
-    "home_score": 0.5328,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f4ec07eb1e7a4f1a1c837fa6d9efa0201b51119f",
-    "title": "My Hero Academia \"I Am A Hero Too\" Anime Short Announced",
-    "url": "https://crunchyroll.com/news/latest/2026/5/2/my-hero-academia-i-am-a-hero-too-anime-short-announced",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-02T09:40:00Z",
-    "summary": "The anime will adapt the Eri-focused fanbook chapter",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5853911338850087,
-    "home_score": 0.5319,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e185ef2bde4f726904d699f1b203ac88a3e98bbf",
-    "title": "My Hero Academia Gets New Anime Focused on Eri, \"More\" Episode Reveals Opening",
-    "url": "https://animecorner.me/my-hero-academia-gets-new-anime-focused-on-eri-more-episode-reveals-opening/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-02T09:07:44Z",
-    "summary": "My Hero Academia announced a new short anime covering a special Eri-focused chapter from My\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5810350761680878,
-    "home_score": 0.5315,
-    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1638,7 +1405,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 1.577856530091218e-140,
+    "freshness_score": 1.4382224952265982e-140,
     "home_score": 0.5185,
     "source_quality": 0.79,
     "image_url": null,
@@ -1680,7 +1447,7 @@
       "SEA"
     ],
     "sg_relevance": 1.0,
-    "freshness_score": 2.328435900040516e-182,
+    "freshness_score": 2.1223785725691968e-182,
     "home_score": 0.517,
     "source_quality": 0.78,
     "image_url": null,
@@ -1697,26 +1464,51 @@
     "result_type": "article"
   },
   {
-    "id": "a1f5f75523638ce4a2688ac679065fa8a8375ddc",
-    "title": "BanG Dream! Our Notes Unveils millsage Introduction Trailer",
-    "url": "https://animecorner.me/bang-dream-our-notes-unveils-millsage-introduction-trailer/",
-    "source_name": "Anime Corner",
+    "id": "7cc24db3b426392f46dd4693631d472ff21d79a6",
+    "title": "The Quintessential Quintuplets Announces Two New Anime Projects",
+    "url": "https://crunchyroll.com/news/latest/2026/5/2/the-quintessential-quintuplets-gets-two-new-anime-projects",
+    "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-05-02T04:19:29Z",
-    "summary": "BanG Dream! Our Notes game unveiled the introduction trailer for millsage, one of the\u2026",
+    "published_at": "2026-05-02T11:37:00Z",
+    "summary": "A new series and another special are in the works!",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "events",
-      "games"
+      "games",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.5435309147345648,
-    "home_score": 0.5146,
+    "freshness_score": 0.5482351029692252,
+    "home_score": 0.5152,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bde7bb54166b1896e5bd50392379b0bcba52a096",
+    "title": "The Quintessential Quintuplets Announces Two New Anime Projects, Including Sequel Novel Adaptation and OVA",
+    "url": "https://animecorner.me/the-quintessential-quintuplets-announces-two-new-anime-projects-including-sequel-novel-adaptation-and-ova/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-02T11:09:59Z",
+    "summary": "A new anime project for The Quintessential Quintuplets has been officially announced, confirming two\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5448172350161143,
+    "home_score": 0.5152,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1749,8 +1541,8 @@
       "SEA"
     ],
     "sg_relevance": 0.97,
-    "freshness_score": 0.004074255588178475,
-    "home_score": 0.5143,
+    "freshness_score": 0.003713700231065751,
+    "home_score": 0.5142,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1764,6 +1556,107 @@
       "merch_status": null
     },
     "result_type": "source_page"
+  },
+  {
+    "id": "6348558076d239ba09c428293aa0201f3b867b8e",
+    "title": "Gunple: Gunman\u2019s Proof Retroview",
+    "url": "https://rpgamer.com/review/gunple-gunmans-proof-retroview/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-02T10:35:04Z",
+    "summary": "A Gunman in the Past It is always refreshing when a game introduces a setting that is underutilized",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5404315119130693,
+    "home_score": 0.5132,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9a4797bf5095279dc7022835069028e428802681",
+    "title": "My Hero Academia: More Review - A Wholesome Conclusion to a 10-Year Anime Adaptation",
+    "url": "https://animecorner.me/my-hero-academia-more-review-a-wholesome-conclusion-to-a-10-year-anime-adaptation/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-02T09:30:00Z",
+    "summary": "My Hero Academia: More is now officially streaming worldwide, delivering the perfect conclusion to\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5323526247705066,
+    "home_score": 0.5096,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f4ec07eb1e7a4f1a1c837fa6d9efa0201b51119f",
+    "title": "My Hero Academia \"I Am A Hero Too\" Anime Short Announced",
+    "url": "https://crunchyroll.com/news/latest/2026/5/2/my-hero-academia-i-am-a-hero-too-anime-short-announced",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-02T09:40:00Z",
+    "summary": "The anime will adapt the Eri-focused fanbook chapter",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5335863326110982,
+    "home_score": 0.5086,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e185ef2bde4f726904d699f1b203ac88a3e98bbf",
+    "title": "My Hero Academia Gets New Anime Focused on Eri, \"More\" Episode Reveals Opening",
+    "url": "https://animecorner.me/my-hero-academia-gets-new-anime-focused-on-eri-more-episode-reveals-opening/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-02T09:07:44Z",
+    "summary": "My Hero Academia announced a new short anime covering a special Eri-focused chapter from My\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5296157671212727,
+    "home_score": 0.5083,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "767d4362e8aa617608297b6a26a0007128edc159",
@@ -1791,7 +1684,7 @@
       "Singapore"
     ],
     "sg_relevance": 0.98,
-    "freshness_score": 1.8171788420586484e-27,
+    "freshness_score": 1.6563657377808746e-27,
     "home_score": 0.506,
     "source_quality": 0.74,
     "image_url": null,
@@ -1808,29 +1701,86 @@
     "result_type": "article"
   },
   {
-    "id": "5d988eab2e5201966f8402a518a7706fdedf5478",
-    "title": "Multidimensional Control Mechanism YODAKA Shares Killed again, Mr. Detective. Anime Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/5/2/killed-again-mr-detective-anime-opening-song-music-video-multidimensional-control-mechanism-yodaka",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-02T01:44:00Z",
-    "summary": "The supernatural mystery series is now available on Crunchyroll",
+    "id": "f808d6cd81a1b118115521a9778bad3a6719ec07",
+    "title": "Anime Festival Asia main official site for regional ACG event announcements",
+    "url": "https://animefestival.asia/",
+    "source_name": "SG Source Pages",
+    "source_type": "curated",
+    "published_at": "2026-04-17T12:00:00Z",
+    "summary": "Official Anime Festival Asia site covering AFA Singapore 2026 and other regional ACG event announcements, creator zones, cosplay, concert programming, exhibition details, and offic",
     "content": "",
     "categories": [
+      "events",
       "anime",
-      "manga",
-      "games",
-      "events"
+      "merch"
     ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5243162551366627,
-    "home_score": 0.5044,
+    "tags": [
+      "afa",
+      "singapore"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.91,
+    "freshness_score": 0.0037137002377280615,
+    "home_score": 0.4992,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "source_page"
+  },
+  {
+    "id": "0b3ad17a0b4ef122d5774c89c5f79a7fb7133d0d",
+    "title": "Kadokawa Acquires SOZO, Owner of Anime Festival Asia | Outlook Respawn - Outlook Respawn",
+    "url": "https://respawn.outlookindia.com/pop-culture/pop-culture-news/kadokawa-acquires-sozo-owner-of-anime-festival-asia",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2025-12-07T08:00:00Z",
+    "summary": "Kadokawa Acquires SOZO, Owner of Anime Festival Asia | Outlook Respawn Outlook Respawn",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "afa"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.91,
+    "freshness_score": 3.8149308773089174e-22,
+    "home_score": 0.496,
     "source_quality": 0.79,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   }
 ]
