@@ -1,388 +1,129 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "b85024732b5e9d8934ce72aa9a879b3c764b3032",
+    "title": "Jynxzi League of Legends tournament features MrBeast, Emiru, Ludwig, ohnePixel and more",
+    "url": "https://esports.gg/news/league-of-legends/jynxzi-league-of-legends-tournament/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-05T23:21:33Z",
+    "summary": "The Jynxzi League of Legends tournament takes place on May 11, featuring some of the biggest names in streaming",
     "content": "",
     "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
+      "esports",
       "games"
     ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [
-      "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
+    "sg_relevance": 0.08,
+    "freshness_score": 0.987970840646801,
+    "home_score": 0.7166,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
+      "event_type": "tournament",
+      "date_label": "May 11",
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
-    "id": "e006d2fe04971d474528efdf9801275bfb782127",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537044723",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-05-06T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "id": "352b5f8880c052018d8c58f85d2491dc5d1f842e",
+    "title": "Guild Wars 2: Visions of Eternity\u2019s The Only Way Update Launching Next Week",
+    "url": "https://rpgamer.com/2026/05/guild-wars-2-visions-of-eternitys-the-only-way-update-launching-next-week/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-05T20:03:08Z",
+    "summary": "ArenaNet announced \"The Only Way\", its second major update for Guild Wars 2 expansion Visions of Eternity",
     "content": "",
     "categories": [
-      "events",
+      "games",
       "anime",
-      "manga",
-      "merch"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "6 May 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537044723",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9436200685885633,
+    "home_score": 0.7146,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
+    "id": "d50ddf1a572ebad2173f87e478d8b43014a0a3d1",
+    "title": "Devil May Cry Season 2 Soundtrack Shared Ahead of Its Debut",
+    "url": "https://www.siliconera.com/devil-may-cry-season-2-soundtrack-shared-ahead-of-its-debut/?utm_source=rss&utm_medium=rss&utm_campaign=devil-may-cry-season-2-soundtrack-shared-ahead-of-its-debut",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-05T19:00:00Z",
+    "summary": "Season 2 of the Devil May Cry Netflix show debuts this month, and we already know songs from the soundtrack",
     "content": "",
     "categories": [
-      "events",
       "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9299302725874958,
+    "home_score": 0.7115,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "64feb3b61bb7d37b4a63dd6c9e84d117e405f264",
+    "title": "It\u2019s too early to be calling Keria the second-best League of Legends player of all time",
+    "url": "https://esportsinsider.com/2026/05/keria-second-best-in-league-debate",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-05T18:34:09Z",
+    "summary": "In League of Legends, the GOAT conversation always starts and ends with one name",
+    "content": "",
+    "categories": [
       "esports",
-      "merch"
+      "games",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9243819319648476,
+    "home_score": 0.7015,
+    "source_quality": 0.77,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
+      "event_type": null,
+      "date_label": "April 26",
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
-  },
-  {
-    "id": "0cc296405fe0b81f30521450e64c276a573cfe7f",
-    "title": "Wonderland - MazeFox Escape Game in Vivocity!",
-    "url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Inspired by our very first Escape Game held in Jurong Point in 2016, now upgraded to be bigger and better in Vivocity! Venue: The Escape Artist - #1 Physical & Virtual Escape Room",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F598733659%2F258796489549%2F1%2Foriginal.20230915-120552?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C174%2C1600%2C800&s=2223279d923ba5347023b274a08deae6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "The Escape Artist - #1 Physical & Virtual Escape Room In Singapore",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "65545fa285949f3a5bd9e86a433adf6ad62e0db0",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6203434b1e16ea9bffd6420eefee1bf6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "e1dffbe6dd167a0a554b49a9a29c57139ee901d9",
-    "title": "\u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \"\u041f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435 \u0438 \u0434\u0440\u0430\u043a\u043e\u043d\u044b\" Dungeons & Dragons \u0434\u043b\u044f \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043a\u043e\u0432",
-    "url": "https://www.eventbrite.sg/e/dungeons-dragons-tickets-1988220139960",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-08T00:00:00Z",
-    "summary": "\u041f\u0440\u043e\u043a\u0430\u0447\u0430\u0439 \u0432\u043e\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432 Bilingvi c Dungeons & Dragons (D&D)",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183015474%2F1751175929363%2F1%2Foriginal.20260425-054812?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4fe76435f1e558f3406abdd31afa1d75",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 May 2026",
-      "venue": "36/38 Armenian Street",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/dungeons-dragons-tickets-1988220139960",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
     "id": "7d57b4a4ab76383c633860a26666d157794e2d63",
@@ -405,10 +146,63 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.9846275891625225,
-    "home_score": 0.7351,
+    "freshness_score": 0.9080201848146321,
+    "home_score": 0.7006,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bbf4acadd9de013bc0eca7bc2e8ed1ac0b9d0c09",
+    "title": "The salt, the gatekeeping, the legends: These are the esport titles that Jynxzi should try out next",
+    "url": "https://esportsinsider.com/2026/05/jynxzi-esports-to-try",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-05T18:19:14Z",
+    "summary": "Nicholas \u201cJynxzi\u201d Stewart, one of Rainbow Six\u2019s most famous streamers, is in the midst of a generational content run",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9211956058382498,
+    "home_score": 0.7,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "27e566a34952a87936ff8b45162ee117013b7443",
+    "title": "Mega Man Roll Gigantic Series Figure Returns After 10 Years",
+    "url": "https://www.siliconera.com/mega-man-roll-gigantic-series-figure-returns-after-10-years/?utm_source=rss&utm_medium=rss&utm_campaign=mega-man-roll-gigantic-series-figure-returns-after-10-years",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-05T20:00:00Z",
+    "summary": "An almost foot-tall Gigantic Series figure of Roll from Mega Man is on the way back after being retired for about 10 years",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9429360812372745,
+    "home_score": 0.6973,
+    "source_quality": 0.82,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -433,8 +227,60 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9804956683338761,
-    "home_score": 0.7282,
+    "freshness_score": 0.9042097449400816,
+    "home_score": 0.6939,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "28bbfdf0e2284e84a78492c44bc97f2fa0abe4ae",
+    "title": "Osamu Tezuka\u2019s Life & Career Gets the Spotlight in TEZUKA! God of Manga Documentary",
+    "url": "https://anitrendz.net/news/2026/05/05/osamu-tezukas-life-career-gets-the-spotlight-in-tezuka-god-of-manga-documentary/?utm_source=rss&utm_medium=rss&utm_campaign=osamu-tezukas-life-career-gets-the-spotlight-in-tezuka-god-of-manga-documentary",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-05T20:17:55Z",
+    "summary": "A trailer has been released for an upcoming feature-length documentary film titled TEZUKA! God of Manga, spotlighting the life and legacy of manga artist Osamu Tezuka",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9468544883697548,
+    "home_score": 0.6931,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "61f7a9d2b22ca50bdcce06dd6c61f0d38ebf583e",
+    "title": "Yo Taichi Voices Yuji Fukunaga in Liar Game TV Anime Series",
+    "url": "https://anitrendz.net/news/2026/05/05/yo-taichi-voices-yuji-fukunaga-in-liar-game-tv-anime-series/?utm_source=rss&utm_medium=rss&utm_campaign=yo-taichi-voices-yuji-fukunaga-in-liar-game-tv-anime-series",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-05T19:16:44Z",
+    "summary": "Voice actress Yo Taichi has been cast in another role as Yuji Fukunaga on the currently airing Liar Game TV anime series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9335388837437418,
+    "home_score": 0.6871,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -459,9 +305,61 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9944776901558202,
-    "home_score": 0.7205,
+    "freshness_score": 0.9171038516417959,
+    "home_score": 0.6857,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0a14297e65fab5c5c7b58e2ed4d52680dc0037ad",
+    "title": "2nd ONE PIECE Global Character Poll Midterm Results Revealed",
+    "url": "https://crunchyroll.com/news/latest/2026/5/5/2nd-one-piece-global-character-poll-midterm-results-revealed",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-05T18:29:00Z",
+    "summary": "See who\u2019s the King of Pirate Popularity at the midway point!",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9232807459182875,
+    "home_score": 0.684,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d8425b1b8027b42467bb6ca8e5ac6811f314c33a",
+    "title": "Uchi no Ototodomo ga Sumimasen Showcases Shu in Latest Character Trailer",
+    "url": "https://anitrendz.net/news/2026/05/05/uchi-no-ototodomo-ga-sumimasen-showcases-shu-in-latest-character-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=uchi-no-ototodomo-ga-sumimasen-showcases-shu-in-latest-character-trailer",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-05T18:44:10Z",
+    "summary": "A new character trailer for the upcoming Uchi no Ototodomo ga Sumimasen has been released, showcasing the quiet third son of the Narita family, Shu Narita",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9265277848045488,
+    "home_score": 0.6839,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -486,8 +384,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9561358599978033,
-    "home_score": 0.7173,
+    "freshness_score": 0.8817452078149198,
+    "home_score": 0.6838,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -512,8 +410,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.990781985907221,
-    "home_score": 0.7159,
+    "freshness_score": 0.9136956481368745,
+    "home_score": 0.6812,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -546,8 +444,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9971126517974779,
-    "home_score": 0.7157,
+    "freshness_score": 0.9195338641620866,
+    "home_score": 0.6808,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -572,9 +470,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9807609740784989,
-    "home_score": 0.7143,
+    "freshness_score": 0.9044543440471456,
+    "home_score": 0.68,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ad5e6a2629a80e30eacbd9cdcccdca5245e842e3",
+    "title": "This is Chort, a Final Fantasy 14 dungeon boss of absolutely no real significance, but a hero to us all - PC Gamer",
+    "url": "https://www.pcgamer.com/games/final-fantasy/this-is-chort-a-final-fantasy-14-dungeon-boss-of-absolutely-no-real-significance-but-a-hero-to-us-all/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-05T22:19:30Z",
+    "summary": "This is Chort, a Final Fantasy 14 dungeon boss of absolutely no real significance, but a hero to us all PC Gamer",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9738814921076856,
+    "home_score": 0.6782,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -599,8 +522,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9831512956985143,
-    "home_score": 0.7124,
+    "freshness_score": 0.9066586542591492,
+    "home_score": 0.678,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -633,8 +556,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9866353130225982,
-    "home_score": 0.711,
+    "freshness_score": 0.9098716985783686,
+    "home_score": 0.6764,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -659,8 +582,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9710804516419345,
-    "home_score": 0.709,
+    "freshness_score": 0.8955270612033549,
+    "home_score": 0.675,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -685,8 +608,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9672334509869249,
-    "home_score": 0.7083,
+    "freshness_score": 0.8919793095581185,
+    "home_score": 0.6744,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -712,35 +635,61 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9255824005161439,
-    "home_score": 0.7035,
+    "freshness_score": 0.8535689126365403,
+    "home_score": 0.6711,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "7fe0ba590d8cabcf9aa38e87fb655d9d5c227865",
-    "title": "Sega Kingdom Hearts & You Plush Toys Launch This Month",
-    "url": "https://www.siliconera.com/sega-kingdom-hearts-you-plush-toys-launch-this-month/?utm_source=rss&utm_medium=rss&utm_campaign=sega-kingdom-hearts-you-plush-toys-launch-this-month",
-    "source_name": "Siliconera",
+    "id": "602fd106d7b19660359c26e81f0a11f5ab8c8a8f",
+    "title": "The Legend of Heroes: Trails From Zero and Trails to Azure Coming to PS5, Switch 2",
+    "url": "https://rpgamer.com/2026/05/the-legend-of-heroes-trails-from-zero-and-trails-to-azure-coming-to-ps5-switch-2/",
+    "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-05-05T15:00:00Z",
-    "summary": "The new Kingdom Hearts & you miniature plush toys collection will bring three characters to Japanese arcades in May",
+    "published_at": "2026-05-05T20:03:52Z",
+    "summary": "NIS America announced that it is releasing dedicated PlayStation 5 and Nintendo Switch 2 versions of Nihon Falcom's The Legend of Heroes: Trails From Zero and The Legend of Heroes:",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch",
-      "events"
+      "anime"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9538925113078617,
-    "home_score": 0.7023,
-    "source_quality": 0.82,
+    "freshness_score": 0.9437802806687681,
+    "home_score": 0.6707,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "71274e83fdbae13dcc7df5244d3363efdd880b36",
+    "title": "Darkest Dungeon II Physical Anniversary Edition Out Now",
+    "url": "https://rpgamer.com/2026/05/darkest-dungeon-ii-physical-anniversary-edition-out-now/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-05T20:03:29Z",
+    "summary": "Red Hook Studios and Skybound Games have released the physical Anniversary Edition for Darkest Dungeon II",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9436965281672071,
+    "home_score": 0.6707,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -765,9 +714,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9152035445073706,
-    "home_score": 0.7018,
+    "freshness_score": 0.8439974802564071,
+    "home_score": 0.6698,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7fe0ba590d8cabcf9aa38e87fb655d9d5c227865",
+    "title": "Sega Kingdom Hearts & You Plush Toys Launch This Month",
+    "url": "https://www.siliconera.com/sega-kingdom-hearts-you-plush-toys-launch-this-month/?utm_source=rss&utm_medium=rss&utm_campaign=sega-kingdom-hearts-you-plush-toys-launch-this-month",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-05T15:00:00Z",
+    "summary": "The new Kingdom Hearts & you miniature plush toys collection will bring three characters to Japanese arcades in May",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8796763417068345,
+    "home_score": 0.6689,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -791,8 +766,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9673191482636362,
-    "home_score": 0.7008,
+    "freshness_score": 0.8920583246399484,
+    "home_score": 0.6669,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -817,8 +792,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.955162728728507,
-    "home_score": 0.6998,
+    "freshness_score": 0.8808477358733071,
+    "home_score": 0.6664,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -843,10 +818,62 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9407355819358157,
-    "home_score": 0.6963,
+    "freshness_score": 0.8675430674745114,
+    "home_score": 0.6634,
     "source_quality": 0.82,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "769092f2b2ad0966d70e53c62c10d153ba2c37d1",
+    "title": "Hands-on Preview: SacriFire Blends the Old With the New Almost Flawlessly",
+    "url": "https://www.dualshockers.com/hands-on-preview-sacrifire-blends-the-old-with-the-new-almost-flawlessly/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-05T19:00:16Z",
+    "summary": "There is nobody better to bring back the feeling of old-school JRPGs than old-school fans",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9299873666629456,
+    "home_score": 0.663,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/hands-on-preview-sacrifire-dualshockers.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "572aa3e0f997ebc49ad6fc7f32d08b7738168772",
+    "title": "7 Strengths of the 2026 Street Fighter Movie",
+    "url": "https://www.dualshockers.com/reasons-2026-street-fighter-movie-best-game-adaptation-yet/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-05T18:30:14Z",
+    "summary": "The Street Fighter movie is coming, and some believe it could rise above the rest to claim the prize of best video game adaptation yet",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9235443664676658,
+    "home_score": 0.6601,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/street-fighter-movie-best-adaptation.JPG",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -869,8 +896,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9411708554627194,
-    "home_score": 0.692,
+    "freshness_score": 0.8679445225222473,
+    "home_score": 0.6591,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -895,8 +922,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9405174903656599,
-    "home_score": 0.6917,
+    "freshness_score": 0.8673419916699644,
+    "home_score": 0.6588,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -921,8 +948,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9277601245406647,
-    "home_score": 0.6905,
+    "freshness_score": 0.8555771461491376,
+    "home_score": 0.658,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -947,84 +974,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9310802359415997,
-    "home_score": 0.689,
+    "freshness_score": 0.8586389451085997,
+    "home_score": 0.6564,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "023c52f88fcfdc6ab19ed6c136bedccf1e711339",
-    "title": "Death Howl Receives Rebirth Update",
-    "url": "https://rpgamer.com/2026/05/death-howl-receives-rebirth-update/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-05T17:10:08Z",
-    "summary": "11 bit studios and The Outer Zone have released a free \"Rebirth\" update for Soulslike deckbuilding RPG Death Howl",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9830640544959123,
-    "home_score": 0.6884,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a5d44587e95ec7d8ea6719892e68472a41bd2108",
-    "title": "Final Fantasy VII REBIRTH director details the technical challenges of the Switch 2 port, and talks DLSS use - GoNintendo",
-    "url": "https://gonintendo.com/contents/60538-final-fantasy-vii-rebirth-director-details-the-technical-challenges-of-the-switch-2",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-05T18:08:01Z",
-    "summary": "Final Fantasy VII REBIRTH director details the technical challenges of the Switch 2 port, and talks DLSS use GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9963242334533652,
-    "home_score": 0.6883,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ce450e746c7e4c12ef428a29310196e6bd0e0da7",
-    "title": "LIAR GAME Anime Lifts the Curtain on Second Yo Taichi Voice Role",
-    "url": "https://crunchyroll.com/news/latest/2026/5/5/liar-game-anime-yo-taichi-cast-update",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-05T12:58:00Z",
-    "summary": "The psychological thriller is now streaming on Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9273303568601738,
-    "home_score": 0.6858,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1050,9 +1002,84 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8776198334913877,
-    "home_score": 0.6849,
+    "freshness_score": 0.8093379489602763,
+    "home_score": 0.6542,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "023c52f88fcfdc6ab19ed6c136bedccf1e711339",
+    "title": "Death Howl Receives Rebirth Update",
+    "url": "https://rpgamer.com/2026/05/death-howl-receives-rebirth-update/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-05T17:10:08Z",
+    "summary": "11 bit studios and The Outer Zone have released a free \"Rebirth\" update for Soulslike deckbuilding RPG Death Howl",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9065782025313452,
+    "home_score": 0.654,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a5d44587e95ec7d8ea6719892e68472a41bd2108",
+    "title": "Final Fantasy VII REBIRTH director details the technical challenges of the Switch 2 port, and talks DLSS use - GoNintendo",
+    "url": "https://gonintendo.com/contents/60538-final-fantasy-vii-rebirth-director-details-the-technical-challenges-of-the-switch-2",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-05T18:08:01Z",
+    "summary": "Final Fantasy VII REBIRTH director details the technical challenges of the Switch 2 port, and talks DLSS use GoNintendo",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9188068131007285,
+    "home_score": 0.6535,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ce450e746c7e4c12ef428a29310196e6bd0e0da7",
+    "title": "LIAR GAME Anime Lifts the Curtain on Second Yo Taichi Voice Role",
+    "url": "https://crunchyroll.com/news/latest/2026/5/5/liar-game-anime-yo-taichi-cast-update",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-05T12:58:00Z",
+    "summary": "The psychological thriller is now streaming on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8551808626366918,
+    "home_score": 0.6533,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1076,8 +1103,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.924972101778175,
-    "home_score": 0.6847,
+    "freshness_score": 0.8530060879647563,
+    "home_score": 0.6524,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1090,33 +1117,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "a6d527255ed9a726d364827bc655fdd1ed0232ab",
-    "title": "A Generation-Defining Isekai Epic Officially Has Modern Anime's Best Love-Triangle - ScreenRant",
-    "url": "https://screenrant.com/reincarnated-slime-tears-of-the-azure-sea-anime-best-love-triangle/",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2026-05-04T23:00:21Z",
-    "summary": "A Generation-Defining Isekai Epic Officially Has Modern Anime's Best Love-Triangle ScreenRant",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7638787964558693,
-    "home_score": 0.6837,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1138,9 +1138,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9219793578829018,
-    "home_score": 0.6834,
+    "freshness_score": 0.8502461900802097,
+    "home_score": 0.6511,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3547c375117afe43761dc28507f76ee166d47614",
+    "title": "THE ONE PIECE Remake by WIT Studio Begins in February 2027 With 7 Episodes, New Concept Art Revealed",
+    "url": "https://animecorner.me/the-one-piece-remake-by-wit-studio-begins-in-february-2027-with-7-episodes-new-concept-art-revealed/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-05T12:11:31Z",
+    "summary": "THE ONE PIECE remake by WIT Studio will officially arrive to Netflix in February 2027, with 7\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8460284497684304,
+    "home_score": 0.6507,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1165,34 +1190,34 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9740259578067251,
-    "home_score": 0.6828,
+    "freshness_score": 0.8982433845504181,
+    "home_score": 0.6487,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/final-fantasy-14-evercold-hooded-women.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "3547c375117afe43761dc28507f76ee166d47614",
-    "title": "THE ONE PIECE Remake by WIT Studio Begins in February 2027 With 7 Episodes, New Concept Art Revealed",
-    "url": "https://animecorner.me/the-one-piece-remake-by-wit-studio-begins-in-february-2027-with-7-episodes-new-concept-art-revealed/",
-    "source_name": "Anime Corner",
+    "id": "92d615ed13ac22f94562fb19eb5b0fb307bda52b",
+    "title": "\"This was the crucial factor\": How Final Fantasy 7 Rebirth Arrived on Switch 2 - Digital Foundry",
+    "url": "https://www.digitalfoundry.net/features/this-was-the-crucial-factor-how-final-fantasy-7-rebirth-arrived-on-switch-2",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-05T12:11:31Z",
-    "summary": "THE ONE PIECE remake by WIT Studio will officially arrive to Netflix in February 2027, with 7\u2026",
+    "published_at": "2026-05-05T17:03:00Z",
+    "summary": "\"This was the crucial factor\": How Final Fantasy 7 Rebirth Arrived on Switch 2 Digital Foundry",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "events"
+      "games"
     ],
     "tags": [],
-    "entity_tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9174058232910842,
-    "home_score": 0.6828,
-    "source_quality": 0.8,
+    "freshness_score": 0.9050821680240474,
+    "home_score": 0.6473,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1215,8 +1240,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9610954764630915,
-    "home_score": 0.677,
+    "freshness_score": 0.8863189392695159,
+    "home_score": 0.6433,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/star-wars-fate-of-the-old-republic-bets-on-kotor-and-mass-effect-expertise-to-succeed.jpg",
     "event_metadata": null,
@@ -1241,8 +1266,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8905807907337999,
-    "home_score": 0.6728,
+    "freshness_score": 0.8212905502271628,
+    "home_score": 0.6416,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -1266,8 +1291,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9393246978978432,
-    "home_score": 0.6717,
+    "freshness_score": 0.8662419356761571,
+    "home_score": 0.6388,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1288,7 +1313,7 @@
     "url": "https://news.instant-gaming.com/en/articles/19377-persona-4-revival-development-is-reportedly-nearly-complete-ahead-of-an-early-2027-release",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-05T15:19:52Z",
+    "published_at": "2026-05-05T15:19:49Z",
     "summary": "Persona 4 Revival: development is reportedly nearly complete ahead of an early 2027 release Instant Gaming News",
     "content": "",
     "categories": [
@@ -1302,35 +1327,37 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9582887310657854,
-    "home_score": 0.6712,
+    "freshness_score": 0.883720376354816,
+    "home_score": 0.6377,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "01d5eb16c693c43d904becbca1570fc3b3b0d810",
-    "title": "10 Great PS3 RPGs That Are Fun Immediately",
-    "url": "https://www.dualshockers.com/great-ps3-rpgs-that-are-fun-from-the-start/",
-    "source_name": "DualShockers",
+    "id": "9cd2ea8f95f1454b5c812354ad6517a9061c87a9",
+    "title": "IOC throws esports into uncertain limbo - Inside The Games",
+    "url": "https://www.insidethegames.biz/articles/ioc-throws-sports-into-uncertain-limbo",
+    "source_name": "Google News SEA Esports",
     "source_type": "rss",
-    "published_at": "2026-05-05T14:30:13Z",
-    "summary": "If you don't like waiting around for the action, here are 10 great PS3 RPGs that are fun fast",
+    "published_at": "2026-05-04T13:24:49Z",
+    "summary": "IOC throws esports into uncertain limbo Inside The Games",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch"
+      "esports",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9473383500030502,
-    "home_score": 0.6708,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/copy-of-copy-of-copy-of-copy-of-copy-of-untitled-29.jpg",
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.616579310971632,
+    "home_score": 0.637,
+    "source_quality": 0.76,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1354,9 +1381,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9330545602623801,
-    "home_score": 0.6689,
+    "freshness_score": 0.8604596369907239,
+    "home_score": 0.6362,
     "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "01cd75ecfa03a39f67aa28d4ffb2511d4f94c851",
+    "title": "Persona Partners With Chainlink To Power Compliant Identity Credentials Across On-Chain Markets - Business Wire",
+    "url": "https://www.businesswire.com/news/home/20260505843839/en/Persona-Partners-With-Chainlink-To-Power-Compliant-Identity-Credentials-Across-On-Chain-Markets",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-05T15:00:00Z",
+    "summary": "Persona Partners With Chainlink To Power Compliant Identity Credentials Across On-Chain Markets Business Wire",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8796758632030818,
+    "home_score": 0.6359,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1381,34 +1433,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9338071973114901,
-    "home_score": 0.6677,
+    "freshness_score": 0.8611537212861627,
+    "home_score": 0.635,
     "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d3f368de75cf557a0daa0eae83144c29c6eff991",
-    "title": "Classic Final Fantasy Game Is Free To Play Right Now - ScreenRant",
-    "url": "https://screenrant.com/xbox-game-pass-final-fantasy-5-may-2026/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-05T13:56:11Z",
-    "summary": "Classic Final Fantasy Game Is Free To Play Right Now ScreenRant",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9399042328906808,
-    "home_score": 0.663,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1432,44 +1459,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8757394586034492,
-    "home_score": 0.6626,
+    "freshness_score": 0.8076038508349924,
+    "home_score": 0.6319,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0475b7ad4e9d66c48fe735ad7cd457cccfbb64cf",
-    "title": "Tales of Arise: Beyond the Dawn Edition Showcases Shionne",
-    "url": "https://rpgamer.com/2026/05/tales-of-arise-beyond-the-dawn-edition-showcases-shionne/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-05T12:01:35Z",
-    "summary": "Bandai Namco released a new character trailer for Tales of Arise: Beyond the Dawn Edition",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9152988871939505,
-    "home_score": 0.6579,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 22, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1496,8 +1490,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6294317973821175,
-    "home_score": 0.6532,
+    "freshness_score": 0.5804598447576654,
+    "home_score": 0.6312,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -1526,11 +1520,69 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6273710679928183,
-    "home_score": 0.6523,
+    "freshness_score": 0.5785594473165477,
+    "home_score": 0.6304,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d3f368de75cf557a0daa0eae83144c29c6eff991",
+    "title": "Classic Final Fantasy Game Is Free To Play Right Now - ScreenRant",
+    "url": "https://screenrant.com/xbox-game-pass-final-fantasy-5-may-2026/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-05T13:56:11Z",
+    "summary": "Classic Final Fantasy Game Is Free To Play Right Now ScreenRant",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8667764771119082,
+    "home_score": 0.63,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0475b7ad4e9d66c48fe735ad7cd457cccfbb64cf",
+    "title": "Tales of Arise: Beyond the Dawn Edition Showcases Shionne",
+    "url": "https://rpgamer.com/2026/05/tales-of-arise-beyond-the-dawn-edition-showcases-shionne/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-05T12:01:35Z",
+    "summary": "Bandai Namco released a new character trailer for Tales of Arise: Beyond the Dawn Edition",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8440854045548581,
+    "home_score": 0.6258,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 22, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1557,8 +1609,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6175920762699725,
-    "home_score": 0.6434,
+    "freshness_score": 0.5695413111272936,
+    "home_score": 0.6218,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -1582,185 +1634,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8960120910349015,
-    "home_score": 0.6432,
+    "freshness_score": 0.8262992991699979,
+    "home_score": 0.6118,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b61f3e4c021ce9706f194ba59e9a01f5ac20dfab",
-    "title": "How to play Mobile Legends on PC",
-    "url": "https://esports.gg/news/mobile-legends-bang-bang/how-to-play-mobile-legends-on-pc/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-04T14:07:14Z",
-    "summary": "Tired of playing MLBB on a smartphone? Here's how you can enjoy the MOBA title on a PC:",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.32,
-    "freshness_score": 0.6751957694125643,
-    "home_score": 0.6358,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "486c52da7de576d75a5252501dc34f5e2935a250",
-    "title": "Open-world RPG Neverness to Everness fully leans into Initial D references with familiar tofu shop, panda Trueno and mountain drifting",
-    "url": "https://automaton-media.com/en/news/open-world-rpg-neverness-to-everness-fully-leans-into-initial-d-references-with-familiar-tofu-shop-panda-trueno-and-mountain-drifting/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-05-05T06:55:56Z",
-    "summary": "In the newly launched Neverness to Everness (NTE), players have discovered that they can channel their inner Takumi Fujiwara at the Natsunari Tofu Shop",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8527772765580456,
-    "home_score": 0.6342,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f446b3a4b70e0dd722a62c9bdb984ed75d758ef6",
-    "title": "What does it take to stay on top in the ever-changing VALORANT meta? Players answer",
-    "url": "https://esports.gg/news/valorant/secret-staying-on-top-valorant-players-answer/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-04T19:24:40Z",
-    "summary": "Even as the meta constantly changes, some professional players remain at the top",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.7266773861246434,
-    "home_score": 0.631,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d93d6fafc13bca72f72e842a9675aa28a7ed0bc7",
-    "title": "Team Nemesis\u2019 meh Dota 2 roster, South American Rejects find an org, xQc ends difficulty debate: the calm before The International",
-    "url": "https://esportsinsider.com/2026/05/dota-2-recap-ahead-of-international",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-05-04T18:59:43Z",
-    "summary": "It\u2019s been a rather quiet week of Dota 2 on the tournament front, but the announcements more than made up for it",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.722492531079586,
-    "home_score": 0.6106,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "fd094db740891f39cef1a90b7a3ddefce5e0d43c",
-    "title": "Welcome to Demon School! Iruma-kun Season 4 Adds Miki Nagasawa & Yuka Terasaki",
-    "url": "https://anitrendz.net/news/2026/05/04/welcome-to-demon-school-iruma-kun-season-4-adds-miki-nagasawa-yuka-terasaki/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-to-demon-school-iruma-kun-season-4-adds-miki-nagasawa-yuka-terasaki",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-04T18:08:00Z",
-    "summary": "Two additional voice actresses have been cast for the ongoing fourth season of Welcome to Demon School! Iruma-kun",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7138948334984744,
-    "home_score": 0.6083,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "84b0b39d7968565225d9a5f587289912234e7798",
-    "title": "6 Dissidia Duellum Final Fantasy Abilities Getting Buffed",
-    "url": "https://www.siliconera.com/6-dissidia-duellum-final-fantasy-abilities-getting-buffed/?utm_source=rss&utm_medium=rss&utm_campaign=6-dissidia-duellum-final-fantasy-abilities-getting-buffed",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-04T21:00:00Z",
-    "summary": "Six Dissidia Duellum Final Fantasy abilities are going to get buffed, with Lightning and Zidane seeing the most changes",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.742892231637002,
-    "home_score": 0.6073,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
