@@ -1,463 +1,185 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "a0eba118bd9debde66822c89e38b7309cb4316ae",
+    "title": "NIJISANJI and NIJISANJI EN to exhibit at \u201cAnime Festival Asia Thailand 2026\u201d, with appearances by units \u201c3SKM\u201d and \u201cBY THE BEAT\u201d - \u306b\u3058\u3055\u3093\u3058",
+    "url": "https://www.nijisanji.jp/en/news/860xd6nwu",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2026-05-08T05:34:27Z",
+    "summary": "NIJISANJI and NIJISANJI EN to exhibit at \u201cAnime Festival Asia Thailand 2026\u201d, with appearances by units \u201c3SKM\u201d and \u201cBY THE BEAT\u201d \u306b\u3058\u3055\u3093\u3058",
     "content": "",
     "categories": [
       "events",
-      "games",
-      "esports"
+      "merch",
+      "esports",
+      "anime"
     ],
     "tags": [
-      "singapore",
-      "mlbb"
+      "afa"
     ],
     "entity_tags": [
-      "MLBB"
+      "AFA Singapore"
     ],
     "region_tags": [
       "Singapore"
     ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 0.9872333168041143,
+    "home_score": 0.9128,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
+    "id": "e987ff72faee81086557770362cf08ac325f5b96",
+    "title": "Wit Studio\u2019s \u2018The One Piece\u2019 Anime Remake Docks In Feb 2027 With 7 Episodes",
+    "url": "https://geekculture.co/wit-studios-the-one-piece-anime-remake-docks-in-feb-2027-with-7-episodes/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-05-08T06:01:49Z",
+    "summary": "Wit Studio\u2019s \u2018The One Piece\u2019 Anime Remake Docks In Feb 2027 With 7 Episodes",
     "content": "",
     "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
       "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
       "anime",
-      "manga",
       "merch",
-      "games"
+      "events"
     ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "freshness_score": 0.9935072465390633,
+    "home_score": 0.8171,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "238d1c10aea68d4094de0d4e0be80be4719ea29e",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537056759",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-05-08T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
+    "id": "69faedefa8a4d0b6a3ef9c077ee61547cf2f16f1",
+    "title": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie - AugustMan Singapore",
+    "url": "https://www.augustman.com/sg/entertainment/film-tv/live-action-gundam-movie-will-star-sydney-sweeney/",
+    "source_name": "Google News SEA Gunpla",
+    "source_type": "rss",
+    "published_at": "2026-05-08T00:07:48Z",
+    "summary": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie AugustMan Singapore",
     "content": "",
     "categories": [
-      "events",
+      "merch",
+      "anime",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.915337465174799,
+    "home_score": 0.7669,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7955c892b4bdf0f481108741cee6a1004555d41e",
+    "title": "Draw This, Then Die! Reveals Main Trailer, Opening Song",
+    "url": "https://anitrendz.net/news/2026/05/07/draw-this-then-die-reveals-main-trailer-opening-song/?utm_source=rss&utm_medium=rss&utm_campaign=draw-this-then-die-reveals-main-trailer-opening-song",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-08T04:09:25Z",
+    "summary": "Upcoming TV anime Draw This, Then Die! has gotten its first main trailer, which shows off the story's Manga Research Club and previews the opening song \"Isho",
+    "content": "",
+    "categories": [
       "anime",
       "manga",
-      "merch"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9966460402329146,
-    "home_score": 0.803,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9679910105038965,
+    "home_score": 0.7226,
     "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "8 May 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537056759",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "4dcdfa02755c6c86c5bf6832feda8cff84d27b63",
-    "title": "Kids Camp: Board Game Design Lab",
-    "url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Kids Camp: Board Game Design Lab",
+    "id": "fe3aed71569f9b058776d5232a245b7640f25b10",
+    "title": "Dark Summoner to Dekiteiru Anime Will Begin TV Broadcast in 2026",
+    "url": "https://anitrendz.net/news/2026/05/07/dark-summoner-to-dekiteiru-anime-will-begin-tv-broadcast-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=dark-summoner-to-dekiteiru-anime-will-begin-tv-broadcast-in-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-08T04:44:58Z",
+    "summary": "The Dark Summoner to Dekiteiru TV anime, an adaptation of the erotic fantasy rom-com manga by Shaoh, will begin broadcasting this year",
     "content": "",
     "categories": [
+      "anime",
+      "manga",
       "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9759896373106107,
+    "home_score": 0.7062,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ba0294b6eedf968447735768aba87b2e12559f68",
+    "title": "\u2018Mortal Kombat\u2019 Creator Ed Boon Teases Next Game And Hopes For \u2018Street Fighter\u2019 Crossover",
+    "url": "https://geekculture.co/mortal-kombat-creator-teases-next-game-and-hopes-for-street-fighter-crossover/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-05-07T08:11:12Z",
+    "summary": "\u2018Mortal Kombat\u2019 Creator Ed Boon Teases Next Game And Hopes For \u2018Street Fighter\u2019 Crossover",
+    "content": "",
+    "categories": [
       "games",
-      "esports"
+      "anime",
+      "merch",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "Singapore",
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182547060%2F796777249053%2F1%2Foriginal.20260420-092254?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.057&fp-y=0.677&s=fc13fc21828047954b43b0f4ddc8e04e",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "VIVISTOP Kampong Eunos",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "55515ab098d644238f342830e8881127726d98da",
-    "title": "Board Games + PS5 + Nitendo Switch - Singles + Friend-making events",
-    "url": "https://www.eventbrite.sg/e/board-games-ps5-nitendo-switch-singles-friend-making-events-tickets-1988988240369",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-30T00:00:00Z",
-    "summary": "Looking for a fun and relaxing weekend activity to unwind, play games, and meet new people? Venue: Pixels and Pieces | Singapore's Premier Board Game & Console Cafe",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184008649%2F281758671497%2F1%2Foriginal.20260507-114554?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.539&fp-y=0.903&s=61b46304ec17914a92778b55fb17b50d",
-    "event_metadata": {
-      "event_type": "cafe",
-      "date_label": "30 May 2026",
-      "venue": "Pixels and Pieces | Singapore's Premier Board Game & Console Cafe",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/board-games-ps5-nitendo-switch-singles-friend-making-events-tickets-1988988240369",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "0cc296405fe0b81f30521450e64c276a573cfe7f",
-    "title": "Wonderland - MazeFox Escape Game in Vivocity!",
-    "url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Inspired by our very first Escape Game held in Jurong Point in 2016, now upgraded to be bigger and better in Vivocity! Venue: The Escape Artist - #1 Physical & Virtual Escape Room",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F598733659%2F258796489549%2F1%2Foriginal.20230915-120552?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C174%2C1600%2C800&s=2223279d923ba5347023b274a08deae6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "The Escape Artist - #1 Physical & Virtual Escape Room In Singapore",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "65545fa285949f3a5bd9e86a433adf6ad62e0db0",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6203434b1e16ea9bffd6420eefee1bf6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "e1dffbe6dd167a0a554b49a9a29c57139ee901d9",
-    "title": "\u041d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \"\u041f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435 \u0438 \u0434\u0440\u0430\u043a\u043e\u043d\u044b\" Dungeons & Dragons \u0434\u043b\u044f \u043f\u043e\u0434\u0440\u043e\u0441\u0442\u043a\u043e\u0432",
-    "url": "https://www.eventbrite.sg/e/dungeons-dragons-tickets-1988220139960",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-08T00:00:00Z",
-    "summary": "\u041f\u0440\u043e\u043a\u0430\u0447\u0430\u0439 \u0432\u043e\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0432 Bilingvi c Dungeons & Dragons (D&D)",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9966460253447454,
-    "home_score": 0.8,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1183015474%2F1751175929363%2F1%2Foriginal.20260425-054812?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4fe76435f1e558f3406abdd31afa1d75",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 May 2026",
-      "venue": "36/38 Armenian Street",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/dungeons-dragons-tickets-1988220139960",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7335222028282076,
+    "home_score": 0.7001,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "a1883932b220779272f9823db10ead23588c2316",
@@ -483,8 +205,8 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.9351470774299545,
-    "home_score": 0.7308,
+    "freshness_score": 0.8573065271561003,
+    "home_score": 0.6958,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -500,56 +222,27 @@
     "result_type": "article"
   },
   {
-    "id": "ba0294b6eedf968447735768aba87b2e12559f68",
-    "title": "\u2018Mortal Kombat\u2019 Creator Ed Boon Teases Next Game And Hopes For \u2018Street Fighter\u2019 Crossover",
-    "url": "https://geekculture.co/mortal-kombat-creator-teases-next-game-and-hopes-for-street-fighter-crossover/",
-    "source_name": "Geek Culture",
+    "id": "1341779ac6aaefa9094ca996d928c51455306c35",
+    "title": "Yu-Gi-Oh! Manga Author Kazuki Takahashi's First Original Artwork Exhibition Slated for This Winter",
+    "url": "https://crunchyroll.com/news/latest/2026/5/8/yu-gi-oh-manga-author-kazuki-takahashi-first-original-artwork-exhibition-winter-2026",
+    "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-05-07T08:11:12Z",
-    "summary": "\u2018Mortal Kombat\u2019 Creator Ed Boon Teases Next Game And Hopes For \u2018Street Fighter\u2019 Crossover",
+    "published_at": "2026-05-08T02:18:00Z",
+    "summary": "The exhibition will be held to mark the 30th anniversary of the Yu-Gi-Oh! manga series",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8001235348507688,
-    "home_score": 0.7301,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "42cfbf419e4d1992d46eaa81b95f0b94b526cf01",
-    "title": "Action RPG \u2018Alabaster Dawn\u2019 Launches in Steam Early Access",
-    "url": "https://noisypixel.net/alabaster-dawn-steam-early-access-launch-roguelite-mode/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-07T23:00:28Z",
-    "summary": "Radical Fish Games has announced that its new action RPG Alabaster Dawn is now available on PC via Steam Early Access",
-    "content": "",
-    "categories": [
+      "manga",
       "games",
-      "anime",
-      "merch",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9830059022387956,
-    "home_score": 0.7294,
-    "source_quality": 0.78,
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9433449425617652,
+    "home_score": 0.693,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -575,11 +268,72 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.9716264095174318,
-    "home_score": 0.7292,
+    "freshness_score": 0.8907493825730468,
+    "home_score": 0.6928,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "42cfbf419e4d1992d46eaa81b95f0b94b526cf01",
+    "title": "Action RPG \u2018Alabaster Dawn\u2019 Launches in Steam Early Access",
+    "url": "https://noisypixel.net/alabaster-dawn-steam-early-access-launch-roguelite-mode/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-07T23:00:28Z",
+    "summary": "Radical Fish Games has announced that its new action RPG Alabaster Dawn is now available on PC via Steam Early Access",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9011816337656188,
+    "home_score": 0.6925,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "300d593fdf99a48f071c264abe57d9216b6e6fa4",
+    "title": "Star Blazers: Space Battleship Yamato 3199 Anime Chapter 6 Unveils Main Trailer, Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/8/star-blazers-space-battleship-yamato-3199-anime-chapter-6-main-trailer-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-08T01:42:00Z",
+    "summary": "The latest installment of the remake series releases in Japan on June 26",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9355163980080542,
+    "home_score": 0.6895,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 26",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -604,10 +358,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9812475524291052,
-    "home_score": 0.7256,
+    "freshness_score": 0.8995696727048941,
+    "home_score": 0.6888,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7ebd007cebc618b2e52a0c0864ec3abd5db7c7ad",
+    "title": "Tokyopop Licenses Hiraeth Remained, Specimen Raw Blue & More Titles, Launches Kids Imprint",
+    "url": "https://anitrendz.net/news/2026/05/07/tokyopop-licenses-hiraeth-remained-specimen-raw-blue-more-titles-launches-kids-imprint/?utm_source=rss&utm_medium=rss&utm_campaign=tokyopop-licenses-hiraeth-remained-specimen-raw-blue-more-titles-launches-kids-imprint",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-08T01:41:55Z",
+    "summary": "Tokyopop has announced that it licensed six new manga and light novel series and launched a new publishing imprint for younger readers",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9354982554567698,
+    "home_score": 0.688,
+    "source_quality": 0.78,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -632,8 +411,8 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.9599121282353514,
-    "home_score": 0.724,
+    "freshness_score": 0.8800101842132464,
+    "home_score": 0.688,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -646,6 +425,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "251d28d9c39b279932977d87dc4eec84f7c97352",
+    "title": "Star Blazers: Space Battleship Yamato 3199 Debuts Main Visual & Trailer for 6th Chapter",
+    "url": "https://anitrendz.net/news/2026/05/07/star-blazers-space-battleship-yamato-3199-debuts-main-visual-trailer-for-6th-chapter/?utm_source=rss&utm_medium=rss&utm_campaign=star-blazers-space-battleship-yamato-3199-debuts-main-visual-trailer-for-6th-chapter",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-08T00:48:44Z",
+    "summary": "A main visual and trailer have been released for the sixth chapter of Star Blazers: Space Battleship Yamato 3199 theatrical anime remake project",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9240519776940554,
+    "home_score": 0.6828,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -668,9 +473,37 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9419726275530078,
-    "home_score": 0.7139,
+    "freshness_score": 0.863563924268384,
+    "home_score": 0.6786,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f856a72a919775a9dc741590c750b076cf08faab",
+    "title": "Magic: The Gathering Designers Talk Universes Beyond, Marvel, Final Fantasy, and More",
+    "url": "https://monstervine.com/2026/05/magic-universes-beyond-interview/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-05-08T00:54:30Z",
+    "summary": "MonsterVine is at MagicCon Las Vegas, and we were lucky enough to get to sit down with Mike Turian, Senior Executive Producer, Aaron Forsythe, Senior VP of Game Design and Creative",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9252862817876595,
+    "home_score": 0.6774,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -697,8 +530,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9353166720096204,
-    "home_score": 0.7109,
+    "freshness_score": 0.8574620036570769,
+    "home_score": 0.6759,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -723,9 +556,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9693428652102578,
-    "home_score": 0.7092,
+    "freshness_score": 0.8886558646032274,
+    "home_score": 0.6729,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0382a021cb54378dbbd9690326bd157f0cf92222",
+    "title": "Final Fantasy 17 Setting Leaves Gamers Torn - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-17-setting-gamer-reactions-speculation/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-08T03:00:00Z",
+    "summary": "Final Fantasy 17 Setting Leaves Gamers Torn ScreenRant",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9525609314612704,
+    "home_score": 0.6687,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -749,8 +607,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9679971849767419,
-    "home_score": 0.7041,
+    "freshness_score": 0.8874222355121066,
+    "home_score": 0.6678,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -788,8 +646,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9559728307710927,
-    "home_score": 0.7032,
+    "freshness_score": 0.8763987369124224,
+    "home_score": 0.6674,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -815,36 +673,10 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9270751656395766,
-    "home_score": 0.7012,
+    "freshness_score": 0.8499065315406416,
+    "home_score": 0.6665,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a3757282b186113b3c2c1e9754687fa8535be0af",
-    "title": "Precious G.E.M. Series Ichigo Kurosaki Bleach Figure Returns",
-    "url": "https://www.siliconera.com/precious-g-e-m-series-ichigo-kurosaki-bleach-figure-returns/?utm_source=rss&utm_medium=rss&utm_campaign=precious-g-e-m-series-ichigo-kurosaki-bleach-figure-returns",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-07T20:00:00Z",
-    "summary": "Precious G.E.M. Series Ichigo Kurosaki Bleach Figure Returns",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9427872076835471,
-    "home_score": 0.6973,
-    "source_quality": 0.82,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -869,59 +701,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9055681243368523,
-    "home_score": 0.696,
+    "freshness_score": 0.8301896973355484,
+    "home_score": 0.6621,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "18181dcf190c59a8c627f4e1f11d95551dce9ffa",
-    "title": "Edge of Memories Gets Gameplay Overview Trailer",
-    "url": "https://rpgamer.com/2026/05/edge-of-memories-gets-gameplay-overview-trailer/",
-    "source_name": "RPGamer",
+    "id": "a3757282b186113b3c2c1e9754687fa8535be0af",
+    "title": "Precious G.E.M. Series Ichigo Kurosaki Bleach Figure Returns",
+    "url": "https://www.siliconera.com/precious-g-e-m-series-ichigo-kurosaki-bleach-figure-returns/?utm_source=rss&utm_medium=rss&utm_campaign=precious-g-e-m-series-ichigo-kurosaki-bleach-figure-returns",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-05-07T19:56:23Z",
-    "summary": "NACON and Midgar Studio released a new trailer for Edge of Memories",
+    "published_at": "2026-05-07T20:00:00Z",
+    "summary": "Precious G.E.M. Series Ichigo Kurosaki Bleach Figure Returns",
     "content": "",
     "categories": [
       "games",
       "anime",
+      "merch",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9419980708135108,
-    "home_score": 0.6939,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c03988b1d52901abc5a4df033ed52770d32b835c",
-    "title": "Ravenswatch Getting Switch 2 Version, Free Update",
-    "url": "https://rpgamer.com/2026/05/ravenswatch-getting-switch-2-version-free-update/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-07T19:56:04Z",
-    "summary": "NACON and Passtech Games have announced that top-down action roguelike Ravenswatch will be receiving a dedicated Nintendo Switch 2 release",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9419290148338807,
-    "home_score": 0.6939,
-    "source_quality": 0.8,
+    "freshness_score": 0.8643106704013671,
+    "home_score": 0.6619,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -946,37 +754,59 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9018861715046179,
-    "home_score": 0.6928,
+    "freshness_score": 0.8268142381526864,
+    "home_score": 0.6591,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "7da707e25864efed43ead5f46f8d2d23ba931114",
-    "title": "Persona 30th Anniversary Jazz Album vinyl announced with pre-orders now live",
-    "url": "https://www.rpgsite.net/news/20322-persona-30th-anniversary-jazz-album-vinyl-preorder-iam8bit-album-spotify-apple-music",
-    "source_name": "RPG Site",
+    "id": "18181dcf190c59a8c627f4e1f11d95551dce9ffa",
+    "title": "Edge of Memories Gets Gameplay Overview Trailer",
+    "url": "https://rpgamer.com/2026/05/edge-of-memories-gets-gameplay-overview-trailer/",
+    "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-05-07T23:21:10Z",
-    "summary": "It will be available as an iam8bit Exclusive Blue Butterfly vinyl, a Black Vinyl Edition available at select retailers, and Translucent Purple vinyl exclusively available at FYE",
+    "published_at": "2026-05-07T19:56:23Z",
+    "summary": "NACON and Midgar Studio released a new trailer for Edge of Memories",
     "content": "",
     "categories": [
       "games",
-      "anime"
+      "anime",
+      "events"
     ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9877274588373711,
-    "home_score": 0.692,
-    "source_quality": 0.81,
+    "freshness_score": 0.8635872491684491,
+    "home_score": 0.6586,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c03988b1d52901abc5a4df033ed52770d32b835c",
+    "title": "Ravenswatch Getting Switch 2 Version, Free Update",
+    "url": "https://rpgamer.com/2026/05/ravenswatch-getting-switch-2-version-free-update/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-07T19:56:04Z",
+    "summary": "NACON and Passtech Games have announced that top-down action roguelike Ravenswatch will be receiving a dedicated Nintendo Switch 2 release",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8635239421976086,
+    "home_score": 0.6586,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1001,8 +831,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8933948576727128,
-    "home_score": 0.692,
+    "freshness_score": 0.8190297140342327,
+    "home_score": 0.6586,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1027,8 +857,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9297834524869243,
-    "home_score": 0.6914,
+    "freshness_score": 0.8523893332607031,
+    "home_score": 0.6566,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1053,8 +883,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9388668061366539,
-    "home_score": 0.691,
+    "freshness_score": 0.8607166354199801,
+    "home_score": 0.6558,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1070,34 +900,30 @@
     "result_type": "article"
   },
   {
-    "id": "122f27d9c28deb00c238360b0e042d6a52b8c073",
-    "title": "HYBE\u2019s Weverse partners with Google Cloud, incorporating Conversational AI tools to improve fan experiences",
-    "url": "https://www.bandwagon.asia/articles/hybe-s-weverse-partners-with-google-cloud-to-incorporate-conversational-ai-to-improve-fan-experiences",
-    "source_name": "Bandwagon Asia",
+    "id": "7da707e25864efed43ead5f46f8d2d23ba931114",
+    "title": "Persona 30th Anniversary Jazz Album vinyl announced with pre-orders now live",
+    "url": "https://www.rpgsite.net/news/20322-persona-30th-anniversary-jazz-album-vinyl-preorder-iam8bit-album-spotify-apple-music",
+    "source_name": "RPG Site",
     "source_type": "rss",
-    "published_at": "2026-05-07T02:24:00Z",
-    "summary": "One of the biggest aspects of K-pop culture is strong fandoms and artist, fan connections",
+    "published_at": "2026-05-07T23:21:10Z",
+    "summary": "It will be available as an iam8bit Exclusive Blue Butterfly vinyl, a Black Vinyl Edition available at select retailers, and Translucent Purple vinyl exclusively available at FYE",
     "content": "",
     "categories": [
       "games",
-      "esports",
-      "anime",
-      "events",
-      "merch"
+      "anime"
     ],
     "tags": [
-      "idol"
+      "jrpg"
     ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
+    "entity_tags": [
+      "Persona"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7383338852158468,
-    "home_score": 0.6903,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C60%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/siudH9LpQ7KykVjPRgGO",
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9055101668550132,
+    "home_score": 0.655,
+    "source_quality": 0.81,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1122,8 +948,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.881170900971137,
-    "home_score": 0.6865,
+    "freshness_score": 0.807823269325953,
+    "home_score": 0.6535,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1148,8 +974,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9282777885277997,
-    "home_score": 0.6862,
+    "freshness_score": 0.8510090353958462,
+    "home_score": 0.6515,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1174,11 +1000,72 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9169590564335098,
-    "home_score": 0.6856,
+    "freshness_score": 0.8406324256831915,
+    "home_score": 0.6513,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "416a49f6fbeffeb890fa1dc321e002011a62bab4",
+    "title": "Visa issues block Wolves from BLAST R6 Salt Lake City Major, raising concerns for future esports events",
+    "url": "https://esports.gg/news/rainbow-six-siege/visa-issues-wolves-blast-r6-salt-lake-city-major/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-07T15:25:40Z",
+    "summary": "Visa issues force Wolves Esports out of the BLAST R6 Salt Lake City Major, sparking debate about the future of esports events in the country",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8111304147430206,
+    "home_score": 0.649,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "71cf48b4b9dd037041ba58e555929b133f2c5c6a",
+    "title": "GKIDS Acquires STUDIO4\u00b0C & Michael Arias\u2019 Tekkonkinkreet for Limited North American 4K Remaster Screening",
+    "url": "https://anitrendz.net/news/2026/05/07/gkids-acquires-studio4c-michael-arias-tekkonkinkreet-for-limited-north-american-4k-remaster-screening/?utm_source=rss&utm_medium=rss&utm_campaign=gkids-acquires-studio4c-michael-arias-tekkonkinkreet-for-limited-north-american-4k-remaster-screening",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-07T18:34:42Z",
+    "summary": "GKIDS has announced the license acquisition of the 2006 Tekkonkinkreet anime film for a new 4K remaster screening in North America in commemoration of its 20th anniversary",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8474116038385068,
+    "home_score": 0.6483,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "screening",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1204,8 +1091,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9657442745887582,
-    "home_score": 0.6836,
+    "freshness_score": 0.8853568441960501,
+    "home_score": 0.6474,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1218,92 +1105,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "47fdcee831a74741f1a080e57a24d149c5e56cf2",
-    "title": "How Does VR Ever Finally Catch On?",
-    "url": "https://www.dualshockers.com/how-does-vr-ever-get-to-where-it-wants-to-go/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-07T22:27:11Z",
-    "summary": "How does VR ever get to the big time? This amazing platform feels like it gets less and less hype as the years go on, and we need to figure out why",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9754613108482814,
-    "home_score": 0.6835,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/img_4355.jpeg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "71cf48b4b9dd037041ba58e555929b133f2c5c6a",
-    "title": "GKIDS Acquires STUDIO4\u00b0C & Michael Arias\u2019 Tekkonkinkreet for Limited North American 4K Remaster Screening",
-    "url": "https://anitrendz.net/news/2026/05/07/gkids-acquires-studio4c-michael-arias-tekkonkinkreet-for-limited-north-american-4k-remaster-screening/?utm_source=rss&utm_medium=rss&utm_campaign=gkids-acquires-studio4c-michael-arias-tekkonkinkreet-for-limited-north-american-4k-remaster-screening",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-07T18:34:42Z",
-    "summary": "GKIDS has announced the license acquisition of the 2006 Tekkonkinkreet anime film for a new 4K remaster screening in North America in commemoration of its 20th anniversary",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9243537085795591,
-    "home_score": 0.683,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "screening",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "416a49f6fbeffeb890fa1dc321e002011a62bab4",
-    "title": "Visa issues block Wolves from BLAST R6 Salt Lake City Major, raising concerns for future esports events",
-    "url": "https://esports.gg/news/rainbow-six-siege/visa-issues-wolves-blast-r6-salt-lake-city-major/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-07T15:25:40Z",
-    "summary": "Visa issues force Wolves Esports out of the BLAST R6 Salt Lake City Major, sparking debate about the future of esports events in the country",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8847783086090634,
-    "home_score": 0.6822,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1325,35 +1126,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9173833863213589,
-    "home_score": 0.6813,
+    "freshness_score": 0.8410214706347724,
+    "home_score": 0.647,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "76450a6a5aded7d5c193393e943d3dc81fa0bca8",
-    "title": "iam8bit Recorded A Jazzy Persona Album For The Series' 30th - Engadget",
-    "url": "https://www.engadget.com/2167504/iam8bit-recorded-a-jazzy-persona-album-for-the-series-30th/",
-    "source_name": "Google News JRPG",
+    "id": "47fdcee831a74741f1a080e57a24d149c5e56cf2",
+    "title": "How Does VR Ever Finally Catch On?",
+    "url": "https://www.dualshockers.com/how-does-vr-ever-get-to-where-it-wants-to-go/",
+    "source_name": "DualShockers",
     "source_type": "rss",
-    "published_at": "2026-05-07T22:37:55Z",
-    "summary": "iam8bit Recorded A Jazzy Persona Album For The Series' 30th Engadget",
+    "published_at": "2026-05-07T22:27:11Z",
+    "summary": "How does VR ever get to the big time? This amazing platform feels like it gets less and less hype as the years go on, and we need to figure out why",
     "content": "",
     "categories": [
-      "games"
+      "games",
+      "anime",
+      "merch"
     ],
-    "tags": [
-      "jrpg"
-    ],
+    "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9778877283325005,
-    "home_score": 0.68,
-    "source_quality": 0.76,
-    "image_url": null,
+    "freshness_score": 0.8942650584981298,
+    "home_score": 0.6469,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/img_4355.jpeg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1376,8 +1177,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9043115459022149,
-    "home_score": 0.6799,
+    "freshness_score": 0.8290376796997863,
+    "home_score": 0.6461,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1404,9 +1205,34 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8554420643711051,
-    "home_score": 0.6779,
+    "freshness_score": 0.7842360392804035,
+    "home_score": 0.6459,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "76450a6a5aded7d5c193393e943d3dc81fa0bca8",
+    "title": "iam8bit Recorded A Jazzy Persona Album For The Series' 30th - Engadget",
+    "url": "https://www.engadget.com/2167504/iam8bit-recorded-a-jazzy-persona-album-for-the-series-30th/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-07T22:37:55Z",
+    "summary": "iam8bit Recorded A Jazzy Persona Album For The Series' 30th Engadget",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8964895465349565,
+    "home_score": 0.6434,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1430,36 +1256,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8918384810734702,
-    "home_score": 0.6743,
+    "freshness_score": 0.8176028588067212,
+    "home_score": 0.6409,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1acfea2f0664e8456f2c173cd652b700e1dd523f",
-    "title": "Final Fantasy VII Trilogy director said that as a kid, he searched for a way to reverse an infamous death in the original game - GoNintendo",
-    "url": "https://gonintendo.com/contents/60629-final-fantasy-vii-trilogy-director-said-that-as-a-kid-he-searched-for-a-way-to",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-07T18:02:37Z",
-    "summary": "Final Fantasy VII Trilogy director said that as a kid, he searched for a way to reverse an infamous death in the original game GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9175141527967174,
-    "home_score": 0.6729,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1483,8 +1282,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8918967357013364,
-    "home_score": 0.6714,
+    "freshness_score": 0.8176562979876661,
+    "home_score": 0.6379,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1509,8 +1308,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8795374555650248,
-    "home_score": 0.6688,
+    "freshness_score": 0.8063257569987877,
+    "home_score": 0.6358,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1533,9 +1332,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9352878004203691,
-    "home_score": 0.6669,
+    "freshness_score": 0.8574355356393333,
+    "home_score": 0.6318,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a71703d2be57ff91da4bfa749c632a0119fe50c2",
+    "title": "The One Piece Anime Launches on Netflix in February 2027",
+    "url": "https://www.siliconera.com/the-one-piece-anime-launches-on-netflix-in-february-2027/?utm_source=rss&utm_medium=rss&utm_campaign=the-one-piece-anime-launches-on-netflix-in-february-2027",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-07T14:00:24Z",
+    "summary": "WIT Studio is working on the new anime adaptation of the manga, which will launch with the East Blue Saga",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7952778323104727,
+    "home_score": 0.6309,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1557,9 +1383,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9284319496291443,
-    "home_score": 0.6653,
+    "freshness_score": 0.8511503470979497,
+    "home_score": 0.6305,
     "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "842cca6a9b1de2ca67a7aa17988d02ebd362500b",
+    "title": "Riftbound: Unleashed Review \u2013 Riot\u2019s TCG Keeps Getting Better",
+    "url": "https://monstervine.com/2026/05/riftbound-unleashed-review/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-05-07T16:00:41Z",
+    "summary": "Riftbound\u2019s upcoming expansion, Unleashed, is set to hit shelves on May 8th, and it\u2019s already coming out of the gate swinging",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8177318806889956,
+    "home_score": 0.629,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1584,63 +1436,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.931150854963204,
-    "home_score": 0.6635,
+    "freshness_score": 0.8536429530582972,
+    "home_score": 0.6286,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/little-known-nintendo-ds-jrpgs-from-famous-developers-new-featured.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a71703d2be57ff91da4bfa749c632a0119fe50c2",
-    "title": "The One Piece Anime Launches on Netflix in February 2027",
-    "url": "https://www.siliconera.com/the-one-piece-anime-launches-on-netflix-in-february-2027/?utm_source=rss&utm_medium=rss&utm_campaign=the-one-piece-anime-launches-on-netflix-in-february-2027",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-07T14:00:24Z",
-    "summary": "WIT Studio is working on the new anime adaptation of the manga, which will launch with the East Blue Saga",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8674864159337734,
-    "home_score": 0.6634,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "842cca6a9b1de2ca67a7aa17988d02ebd362500b",
-    "title": "Riftbound: Unleashed Review \u2013 Riot\u2019s TCG Keeps Getting Better",
-    "url": "https://monstervine.com/2026/05/riftbound-unleashed-review/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-05-07T16:00:41Z",
-    "summary": "Riftbound\u2019s upcoming expansion, Unleashed, is set to hit shelves on May 8th, and it\u2019s already coming out of the gate swinging",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8919791604337814,
-    "home_score": 0.6624,
-    "source_quality": 0.74,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1664,8 +1463,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9285677283622503,
-    "home_score": 0.6579,
+    "freshness_score": 0.8512748860189846,
+    "home_score": 0.6231,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1689,8 +1488,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9155942467975957,
-    "home_score": 0.6565,
+    "freshness_score": 0.8393812588296327,
+    "home_score": 0.6222,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/xbox-360-rpgs-that-are-fun-from-the-start.jpg",
     "event_metadata": null,
@@ -1715,8 +1514,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8568290582358815,
-    "home_score": 0.6541,
+    "freshness_score": 0.7855076140121992,
+    "home_score": 0.622,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1743,8 +1542,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8554419360053004,
-    "home_score": 0.6534,
+    "freshness_score": 0.7842359402948146,
+    "home_score": 0.6214,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1767,8 +1566,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8932294239709011,
-    "home_score": 0.648,
+    "freshness_score": 0.8188780511499866,
+    "home_score": 0.6145,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1804,9 +1603,93 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9038332351979568,
-    "home_score": 0.6467,
+    "freshness_score": 0.8285992594698535,
+    "home_score": 0.6129,
     "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "28aabca50fbfd2f0d906705e6a693ff686632c73",
+    "title": "Cat Soup, Bodacious Space Pirates Director Tatsuo Sato Passes Away at 61",
+    "url": "https://anitrendz.net/news/2026/05/07/cat-soup-bodacious-space-pirates-director-tatsuo-sato-passes-away-at-61/?utm_source=rss&utm_medium=rss&utm_campaign=cat-soup-bodacious-space-pirates-director-tatsuo-sato-passes-away-at-61",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-07T11:15:35Z",
+    "summary": "Anime director Tatsuo Sato, whose credits include Bodacious Space Pirates, Martian Successor Nadesico, and the experimental short Cat Soup, has died at the age of 61",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.765507606375487,
+    "home_score": 0.6115,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 24",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "19ce13889e966ccd6c2ca3160872fc836225b7c3",
+    "title": "1988 MSX version of Deep Dungeon gets a port on Nintendo Switch via EGG Console",
+    "url": "https://www.rpgsite.net/news/20318-1988-msx-version-deep-dungeon-gets-port-on-nintendo-switch-via-egg-console",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-07T09:56:43Z",
+    "summary": "The player assumes the role of the hero Lue in this classic Japanese PC RPG",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7516593476495274,
+    "home_score": 0.6097,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "02596362e2914fd39b8dfbdc1e716cf39666e245",
+    "title": "2026 World Video Game Hall of Fame winners announced",
+    "url": "https://nintendoeverything.com/2026-world-video-game-hall-of-fame-winners-announced/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-07T14:48:26Z",
+    "summary": "2026 winners for The Strong\u2019s World Video Game Hall of Fame were revealed today",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8041696223789189,
+    "home_score": 0.6094,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
