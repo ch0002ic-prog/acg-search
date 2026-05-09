@@ -1,166 +1,67 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "8150dee255cc6d10abb126d6bff4b825785d5505",
+    "title": "Vietnam to host annual Southeast Asia Esports Nations Cup from 2026 - VnExpress International",
+    "url": "https://e.vnexpress.net/news/sports/vietnam-to-host-annual-southeast-asia-esports-nations-cup-from-2026-5071862.html",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-05-09T05:40:16Z",
+    "summary": "Vietnam to host annual Southeast Asia Esports Nations Cup from 2026 VnExpress International",
     "content": "",
     "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
+      "esports",
       "games"
     ],
-    "tags": [
-      "singapore"
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
     ],
-    "entity_tags": [
-      "Grand Archive TCG"
+    "sg_relevance": 0.55,
+    "freshness_score": 0.986808358834986,
+    "home_score": 0.8336,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "114812d7ebea86869c6760bf2fcfe4521fa3dcf4",
+    "title": "Convicted child sex offender Amos Yee, 27, banned from S'pore anime convention after attendees' raise concerns - Mothership",
+    "url": "https://mothership.sg/2026/05/amos-yee-banned-anime-convention/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-05-09T05:04:15Z",
+    "summary": "Convicted child sex offender Amos Yee, 27, banned from S'pore anime convention after attendees' raise concerns Mothership",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
     ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
+    "freshness_score": 0.9786153565402853,
+    "home_score": 0.8104,
+    "source_quality": 0.75,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
     "id": "8d995f41b6bd95e9c266af707c402c4b93c82562",
@@ -187,8 +88,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 0.7703249754992423,
-    "home_score": 0.8151,
+    "freshness_score": 0.7051449357520441,
+    "home_score": 0.7858,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
@@ -202,267 +103,6 @@
       "merch_status": null
     },
     "result_type": "article"
-  },
-  {
-    "id": "f90d251b47ebff33df7c38ad55cb2affe9c8399e",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537294470",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-05-09T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9963709196215714,
-    "home_score": 0.8029,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "9 May 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537294470",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "4dcdfa02755c6c86c5bf6832feda8cff84d27b63",
-    "title": "Kids Camp: Board Game Design Lab",
-    "url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Kids Camp: Board Game Design Lab",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182547060%2F796777249053%2F1%2Foriginal.20260420-092254?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.057&fp-y=0.677&s=fc13fc21828047954b43b0f4ddc8e04e",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "VIVISTOP Kampong Eunos",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "55515ab098d644238f342830e8881127726d98da",
-    "title": "Board Games + PS5 + Nitendo Switch - Singles + Friend-making events",
-    "url": "https://www.eventbrite.sg/e/board-games-ps5-nitendo-switch-singles-friend-making-events-tickets-1988988240369",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-30T00:00:00Z",
-    "summary": "Looking for a fun and relaxing weekend activity to unwind, play games, and meet new people? Venue: Pixels and Pieces | Singapore's Premier Board Game & Console Cafe",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184008649%2F281758671497%2F1%2Foriginal.20260507-114554?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.539&fp-y=0.903&s=61b46304ec17914a92778b55fb17b50d",
-    "event_metadata": {
-      "event_type": "cafe",
-      "date_label": "30 May 2026",
-      "venue": "Pixels and Pieces | Singapore's Premier Board Game & Console Cafe",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/board-games-ps5-nitendo-switch-singles-friend-making-events-tickets-1988988240369",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "0cc296405fe0b81f30521450e64c276a573cfe7f",
-    "title": "Wonderland - MazeFox Escape Game in Vivocity!",
-    "url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Inspired by our very first Escape Game held in Jurong Point in 2016, now upgraded to be bigger and better in Vivocity! Venue: The Escape Artist - #1 Physical & Virtual Escape Room",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F598733659%2F258796489549%2F1%2Foriginal.20230915-120552?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C174%2C1600%2C800&s=2223279d923ba5347023b274a08deae6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "The Escape Artist - #1 Physical & Virtual Escape Room In Singapore",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "65545fa285949f3a5bd9e86a433adf6ad62e0db0",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6203434b1e16ea9bffd6420eefee1bf6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
   },
   {
     "id": "c6b60b23b41b3439e882cd5211e0d16fcd75f7d7",
@@ -490,8 +130,8 @@
       "SEA"
     ],
     "sg_relevance": 0.51,
-    "freshness_score": 0.8660228080200177,
-    "home_score": 0.7752,
+    "freshness_score": 0.7927454208699526,
+    "home_score": 0.7422,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -518,8 +158,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8545127965753362,
-    "home_score": 0.7575,
+    "freshness_score": 0.7822093401950913,
+    "home_score": 0.725,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -552,8 +192,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.7850082639764507,
-    "home_score": 0.7488,
+    "freshness_score": 0.7185856778189039,
+    "home_score": 0.7189,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C390%2C1040%2C520%5D/resize=w:1920/pjpg=q:90/compress/oOTd5aP2RY2sPgi7MZM9",
     "event_metadata": {
@@ -569,34 +209,118 @@
     "result_type": "article"
   },
   {
-    "id": "4acda5100914152c5a57f5edb3219aa135f12b41",
-    "title": "A \u201cgirls-only\u201d tournament without trans women? Why trans representation matters for all genders",
-    "url": "https://esportsinsider.com/2026/05/girls-only-tournament-valorant-trans-support",
-    "source_name": "Esports Insider",
+    "id": "361c563dc4783b3e7876b6fcd7a86222e292e536",
+    "title": "The World\u2019s Strongest Rearguard Reveals Key Visual",
+    "url": "https://anitrendz.net/news/2026/05/08/the-worlds-strongest-rearguard-reveals-key-visual/?utm_source=rss&utm_medium=rss&utm_campaign=the-worlds-strongest-rearguard-reveals-key-visual",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-08T18:27:29Z",
-    "summary": "Last week, a new \u201cgirls only\u201d VALORANT tournament made waves in the esports community, but perhaps not in the way its organizer, femaleplayersTN, had hoped for",
+    "published_at": "2026-05-09T05:42:07Z",
+    "summary": "The World\u2019s Strongest Rearguard has released its key visual featuring its main cast",
     "content": "",
     "categories": [
-      "esports",
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.987231144660872,
+    "home_score": 0.7113,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 5",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "2dd06534e341e11c56c399897af0068fbbd50a94",
+    "title": "BanG Dream! Our Notes Releases Trailer Starring Ikka Dumb Rock!",
+    "url": "https://animecorner.me/bang-dream-our-notes-releases-trailer-starring-ikka-dumb-rock/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-09T04:03:07Z",
+    "summary": "BanG Dream! Our Notes Releases Trailer Starring Ikka Dumb Rock!",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9648644800735472,
+    "home_score": 0.7042,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ad4c4aaf13191738510ee013b5e140cd58f28163",
+    "title": "Pokemon Legends: Z-A\u2019s worst achievement, and how to get it",
+    "url": "https://nintendoeverything.com/pokemon-legends-z-a-s-worst-achievement-consummate-gamer/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-09T04:00:44Z",
+    "summary": "Today, we\u2019re covering what we feel is the worst achievement in Pokemon Legends: Z-A with the Consummate Gamer, but we\u2019ll give you some tips on how to get it",
+    "content": "",
+    "categories": [
       "games",
+      "anime",
+      "merch",
       "events"
     ],
     "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.9225560968879645,
-    "home_score": 0.7207,
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9643323918294505,
+    "home_score": 0.6994,
     "source_quality": 0.77,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a486e5ef04769ad581a2684841362d482215357e",
+    "title": "Danganronpa x Don Quijote Collaboration Reveals New Shugao Character Art",
+    "url": "https://noisypixel.net/danganronpa-don-quijote-collaboration-shugao-merchandise/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-09T03:22:28Z",
+    "summary": "A new Danganronpa collaboration with Don Quijote has been announced via Anymy Japan and Donki, comprising new merchandise and newly illustrated character art by illustrator Shugao",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.955828040602446,
+    "home_score": 0.6971,
+    "source_quality": 0.78,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
+      "event_type": null,
+      "date_label": "May 16, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -628,11 +352,75 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7763009300207583,
-    "home_score": 0.7193,
+    "freshness_score": 0.7106152059840521,
+    "home_score": 0.6898,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "23a3ab251ca42415f1b837f21cf67b91e3370913",
+    "title": "Majiko Shares The Food Diary of Miss Maid Anime Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/5/9/the-food-diary-of-miss-maid-anime-opening-song-music-video-majiko",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-09T01:51:00Z",
+    "summary": "Nogizaka46 member Aruno Nakanishi shows off her drumming performance in the video",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9358030748141093,
+    "home_score": 0.6896,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4acda5100914152c5a57f5edb3219aa135f12b41",
+    "title": "A \u201cgirls-only\u201d tournament without trans women? Why trans representation matters for all genders",
+    "url": "https://esportsinsider.com/2026/05/girls-only-tournament-valorant-trans-support",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-08T18:27:29Z",
+    "summary": "Last week, a new \u201cgirls only\u201d VALORANT tournament made waves in the esports community, but perhaps not in the way its organizer, femaleplayersTN, had hoped for",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.8444951968571124,
+    "home_score": 0.6855,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -655,8 +443,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9191741577553635,
-    "home_score": 0.7036,
+    "freshness_score": 0.841399360631763,
+    "home_score": 0.6686,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -691,8 +479,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9189824339529344,
-    "home_score": 0.699,
+    "freshness_score": 0.8412239150776541,
+    "home_score": 0.6641,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -720,8 +508,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9425270652064718,
-    "home_score": 0.6971,
+    "freshness_score": 0.8627761999698973,
+    "home_score": 0.6612,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -747,8 +535,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9486263497058149,
-    "home_score": 0.6969,
+    "freshness_score": 0.8683594859558306,
+    "home_score": 0.6608,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -781,8 +569,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9485751060676041,
-    "home_score": 0.6969,
+    "freshness_score": 0.8683125798369706,
+    "home_score": 0.6607,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -818,8 +606,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.948531185550175,
-    "home_score": 0.6968,
+    "freshness_score": 0.8682723769673072,
+    "home_score": 0.6607,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -853,8 +641,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9295268978417207,
-    "home_score": 0.6913,
+    "freshness_score": 0.8508760275400996,
+    "home_score": 0.6559,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -880,35 +668,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.904061655364616,
-    "home_score": 0.6878,
+    "freshness_score": 0.827565606084335,
+    "home_score": 0.6534,
     "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ddb2c32aca521840b3a7fc201ce9c14aeacf1281",
-    "title": "Star Fox Switch 2 Soundtrack Songs Already on Nintendo Music",
-    "url": "https://www.siliconera.com/star-fox-switch-2-soundtrack-songs-already-on-nintendo-music/?utm_source=rss&utm_medium=rss&utm_campaign=star-fox-switch-2-soundtrack-songs-already-on-nintendo-music",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-08T18:00:00Z",
-    "summary": "If you can access the Nintendo Music app, you can hear an early preview of some songs from the Switch 2 Star Fox remake soundtrack",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9167060403886802,
-    "home_score": 0.6855,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -934,9 +696,65 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8792944318747684,
-    "home_score": 0.6842,
+    "freshness_score": 0.8048940209260602,
+    "home_score": 0.6507,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ddb2c32aca521840b3a7fc201ce9c14aeacf1281",
+    "title": "Star Fox Switch 2 Soundtrack Songs Already on Nintendo Music",
+    "url": "https://www.siliconera.com/star-fox-switch-2-soundtrack-songs-already-on-nintendo-music/?utm_source=rss&utm_medium=rss&utm_campaign=star-fox-switch-2-soundtrack-songs-already-on-nintendo-music",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-08T18:00:00Z",
+    "summary": "If you can access the Nintendo Music app, you can hear an early preview of some songs from the Switch 2 Star Fox remake soundtrack",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8391399927455394,
+    "home_score": 0.6506,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "69faedefa8a4d0b6a3ef9c077ee61547cf2f16f1",
+    "title": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie - AugustMan Singapore",
+    "url": "https://www.augustman.com/sg/entertainment/film-tv/live-action-gundam-movie-will-star-sydney-sweeney/",
+    "source_name": "Google News SEA Gunpla",
+    "source_type": "rss",
+    "published_at": "2026-05-08T00:07:48Z",
+    "summary": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie AugustMan Singapore",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.6547035416544311,
+    "home_score": 0.6496,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -960,8 +778,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9192557301022872,
-    "home_score": 0.6837,
+    "freshness_score": 0.8414740295130263,
+    "home_score": 0.6487,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -998,69 +816,41 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9040620193959971,
-    "home_score": 0.6798,
+    "freshness_score": 0.827565831768403,
+    "home_score": 0.6454,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "69faedefa8a4d0b6a3ef9c077ee61547cf2f16f1",
-    "title": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie - AugustMan Singapore",
-    "url": "https://www.augustman.com/sg/entertainment/film-tv/live-action-gundam-movie-will-star-sydney-sweeney/",
-    "source_name": "Google News SEA Gunpla",
+    "id": "9310d631976fde751b0bb5eb2df927c54e91971e",
+    "title": "All teams qualified for the VALORANT Masters London 2026",
+    "url": "https://esports.gg/news/valorant/teams-qualified-valorant-masters-london-2026/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-05-08T00:07:48Z",
-    "summary": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie AugustMan Singapore",
+    "published_at": "2026-05-08T12:25:28Z",
+    "summary": "Here are all the teams that have qualified for VALORANT Masters London 2026, set to take place from June 6 to June 21",
     "content": "",
     "categories": [
-      "merch",
-      "anime",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7152209930390561,
-    "home_score": 0.6768,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5a5ad06bfea9f27c5c0f3f890f947647d516f94e",
-    "title": "STEINS;GATE RE:BOOT Launches Globally on August 20",
-    "url": "https://blog.jlist.com/news/steinsgate-reboot-launches-globally-on-august-20/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-05-08T20:30:00Z",
-    "summary": "Few things bring me more joy than writing about things that J-List is known for",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch",
+      "esports",
       "games"
     ],
     "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.949094649915688,
-    "home_score": 0.6761,
-    "source_quality": 0.78,
-    "image_url": null,
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.7766105084088073,
+    "home_score": 0.6415,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
       "event_type": null,
-      "date_label": "August 20",
+      "date_label": "June 6",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1089,8 +879,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9083898938825867,
-    "home_score": 0.6758,
+    "freshness_score": 0.8315276398898994,
+    "home_score": 0.6412,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1115,41 +905,39 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8915923961612525,
-    "home_score": 0.6742,
+    "freshness_score": 0.8161513119509654,
+    "home_score": 0.6403,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "9310d631976fde751b0bb5eb2df927c54e91971e",
-    "title": "All teams qualified for the VALORANT Masters London 2026",
-    "url": "https://esports.gg/news/valorant/teams-qualified-valorant-masters-london-2026/",
-    "source_name": "Esports.gg",
+    "id": "5a5ad06bfea9f27c5c0f3f890f947647d516f94e",
+    "title": "STEINS;GATE RE:BOOT Launches Globally on August 20",
+    "url": "https://blog.jlist.com/news/steinsgate-reboot-launches-globally-on-august-20/",
+    "source_name": "J-List Blog",
     "source_type": "rss",
-    "published_at": "2026-05-08T12:25:28Z",
-    "summary": "Here are all the teams that have qualified for VALORANT Masters London 2026, set to take place from June 6 to June 21",
+    "published_at": "2026-05-08T20:30:00Z",
+    "summary": "Few things bring me more joy than writing about things that J-List is known for",
     "content": "",
     "categories": [
-      "esports",
+      "anime",
+      "manga",
+      "merch",
       "games"
     ],
     "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.8483965077243412,
-    "home_score": 0.6738,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8687882228616509,
+    "home_score": 0.64,
+    "source_quality": 0.78,
+    "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "June 6",
+      "date_label": "August 20",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1157,6 +945,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "98bd65ae6b3bbd41a309b11071a4f6955cced20e",
+    "title": "Spring 2026 Anime Rankings - Week 5",
+    "url": "https://animecorner.me/spring-2026-anime-rankings-week-5/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-08T12:28:57Z",
+    "summary": "The fifth weekly poll for the Spring 2026 anime season, hosted by Anime Corner,\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7772370375758404,
+    "home_score": 0.6398,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1178,8 +993,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8971819587088964,
-    "home_score": 0.6722,
+    "freshness_score": 0.8212680165637685,
+    "home_score": 0.6381,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1204,8 +1019,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8867618925540002,
-    "home_score": 0.671,
+    "freshness_score": 0.8117296539209606,
+    "home_score": 0.6373,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -1239,8 +1054,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8792947649279517,
-    "home_score": 0.6687,
+    "freshness_score": 0.8048942311487552,
+    "home_score": 0.6352,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1264,35 +1079,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8892250746046099,
-    "home_score": 0.6672,
+    "freshness_score": 0.8139844277520932,
+    "home_score": 0.6333,
     "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b082c9851e720cf8a58f9f282a1e8b969ae93672",
-    "title": "Final Fantasy 7 Remake Part 3 Reveal Date and Release Date Reportedly Revealed - comicbook.com",
-    "url": "https://comicbook.com/gaming/news/final-fantasy-7-remake-part-3-release-date-reveal/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-08T19:56:10Z",
-    "summary": "Final Fantasy 7 Remake Part 3 Reveal Date and Release Date Reportedly Revealed comicbook",
-    "content": "",
-    "categories": [
-      "games",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.941690475755466,
-    "home_score": 0.6638,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1316,8 +1105,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.86736416345328,
-    "home_score": 0.6633,
+    "freshness_score": 0.7939731243541047,
+    "home_score": 0.6303,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1343,8 +1132,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8654117118352604,
-    "home_score": 0.6614,
+    "freshness_score": 0.7921859921069087,
+    "home_score": 0.6285,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -1378,8 +1167,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.873549577180968,
-    "home_score": 0.6601,
+    "freshness_score": 0.7996352929370633,
+    "home_score": 0.6268,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1415,8 +1204,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8552060223485836,
-    "home_score": 0.6578,
+    "freshness_score": 0.7828437309327563,
+    "home_score": 0.6253,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1442,8 +1231,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8609659770531058,
-    "home_score": 0.6559,
+    "freshness_score": 0.788116405597121,
+    "home_score": 0.6232,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1459,47 +1248,12 @@
     "result_type": "article"
   },
   {
-    "id": "5c506747a0970753958d010485e300e865e48d16",
-    "title": "Play-In and Swiss Stage kick off R6 Salt Lake City Major: Analysis and results",
-    "url": "https://esports.gg/news/rainbow-six-siege/salt-lake-city-major-2026-play-in-swiss-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-08T12:23:19Z",
-    "summary": "The epic Rainbow Six Siege X (R6 Siege X) esports tournament starts with a Play-In group, which feels like the Last Chance Qualifier (LCQ)",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.847974376997004,
-    "home_score": 0.6536,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "qualifier",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
     "id": "2f10e07629eb9a9fdb0e18a9317daf42c478af0b",
     "title": "Final Fantasy VII's \"sheer volume\" meant there was \"no other option\" for a remake than a trilogy, says director - GoNintendo",
     "url": "https://gonintendo.com/contents/60660-final-fantasy-vii-s-sheer-volume-meant-there-was-no-other-option-for-a-remake-than-a",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-08T18:03:06Z",
+    "published_at": "2026-05-08T18:02:45Z",
     "summary": "Final Fantasy VII's \"sheer volume\" meant there was \"no other option\" for a remake than a trilogy, says director GoNintendo",
     "content": "",
     "categories": [
@@ -1511,60 +1265,10 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9173635165220537,
-    "home_score": 0.6528,
+    "freshness_score": 0.8396739686216366,
+    "home_score": 0.6179,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "98bd65ae6b3bbd41a309b11071a4f6955cced20e",
-    "title": "Spring 2026 Anime Rankings - Week 5",
-    "url": "https://animecorner.me/spring-2026-anime-rankings-week-5/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-08T12:28:57Z",
-    "summary": "Spring 2026 Anime Rankings - Week 5",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.849080981391104,
-    "home_score": 0.6521,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4346087d8a6f311686cf22b52cac57e98f182083",
-    "title": "Schr\u00f6dinger's Call Wants to Introduce the Neo-Visual Novel Genre to the Industry",
-    "url": "https://www.dualshockers.com/schrodingers-call-wants-to-reinvent-the-visual-novel-genre/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-08T16:47:25Z",
-    "summary": "The developers told us how the game is shaping up to be something novel in the genre",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9014321382360493,
-    "home_score": 0.6501,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/schrodinger-s-call-neo-visual-novel.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1587,8 +1291,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8509109646066003,
-    "home_score": 0.6499,
+    "freshness_score": 0.7789121259229704,
+    "home_score": 0.6175,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1625,10 +1329,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8467354601274155,
-    "home_score": 0.6495,
+    "freshness_score": 0.7750899864576503,
+    "home_score": 0.6173,
     "source_quality": 0.79,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4346087d8a6f311686cf22b52cac57e98f182083",
+    "title": "Schr\u00f6dinger's Call Wants to Introduce the Neo-Visual Novel Genre to the Industry",
+    "url": "https://www.dualshockers.com/schrodingers-call-wants-to-reinvent-the-visual-novel-genre/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-08T16:47:25Z",
+    "summary": "The developers told us how the game is shaping up to be something novel in the genre",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8251585754040657,
+    "home_score": 0.6158,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/schrodinger-s-call-neo-visual-novel.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1655,8 +1384,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8345092098824501,
-    "home_score": 0.647,
+    "freshness_score": 0.7638981851982832,
+    "home_score": 0.6153,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -1690,13 +1419,48 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8552649596453052,
-    "home_score": 0.6459,
+    "freshness_score": 0.7828978102501726,
+    "home_score": 0.6133,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "May 11, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "f6ee3b74df58dcfdb24d0ecb53b49e47c30c13e5",
+    "title": "Sekiro: No Defeat Anime Reveals September 4 Japan Theatrical Release Date, Main Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/8/sekiro-no-defeat-anime-september-4-release-date-main-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-08T11:16:00Z",
+    "summary": "The adaptation of the FromSoftware RPG will stream on Crunchyroll in the future",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.764222336373611,
+    "home_score": 0.6124,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "September 4",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1727,48 +1491,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8781521291506065,
-    "home_score": 0.6442,
+    "freshness_score": 0.8038483107554262,
+    "home_score": 0.6107,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "May 20",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "f6ee3b74df58dcfdb24d0ecb53b49e47c30c13e5",
-    "title": "Sekiro: No Defeat Anime Reveals September 4 Japan Theatrical Release Date, Main Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/5/8/sekiro-no-defeat-anime-september-4-release-date-main-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-08T11:16:00Z",
-    "summary": "The adaptation of the FromSoftware RPG will stream on Crunchyroll in the future",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8348632581380573,
-    "home_score": 0.6442,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "September 4",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1798,8 +1527,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8813051794098611,
-    "home_score": 0.6441,
+    "freshness_score": 0.8067345678560367,
+    "home_score": 0.6105,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -1815,28 +1544,53 @@
     "result_type": "article"
   },
   {
-    "id": "69a8b78c3e8d307c06ab7c90ad5ff988dd06efa1",
-    "title": "Final Fantasy 7 Remake had \"no option other than a trilogy,\" lead says, since the \"sheer volume\" of the original PS1 JRPG was too absurd - GamesRadar+",
-    "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-remake-had-no-option-other-than-a-trilogy-lead-says-since-the-sheer-volume-of-the-original-ps1-jrpg-was-too-absurd/",
-    "source_name": "Google News JRPG",
+    "id": "efab706f13c266588f2ebd8a65ea019825604fae",
+    "title": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker Anime Reveals Premiere Date, Key Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/8/the-world-s-strongest-rearguard-labyrinth-country-s-novice-seeker-anime-july-5-release-date-key-visual",
+    "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-05-08T16:14:30Z",
-    "summary": "Final Fantasy 7 Remake had \"no option other than a trilogy,\" lead says, since the \"sheer volume\" of the original PS1 JRPG was too absurd GamesRadar+",
+    "published_at": "2026-05-08T10:45:00Z",
+    "summary": "Yuji Yanase directs the isekai series at studio MAHO FILM",
     "content": "",
     "categories": [
-      "games"
+      "anime",
+      "manga",
+      "games",
+      "events"
     ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8945894623998705,
-    "home_score": 0.6426,
-    "source_quality": 0.76,
+    "freshness_score": 0.7587579623060391,
+    "home_score": 0.6099,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fab0ac02c770745f7120533c28373d3974f9a5a5",
+    "title": "Sekiro: No Defeat Reveals Main Visual, Details on Theatrical Release in Japan",
+    "url": "https://animecorner.me/sekiro-no-defeat-reveals-main-visual-details-on-theatrical-release-in-japan/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-08T10:16:11Z",
+    "summary": "SEKIRO: NO DEFEAT anime revealed the main visual, along with details on the theatrical release\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7537135176841919,
+    "home_score": 0.6092,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1862,35 +1616,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8732092299217014,
-    "home_score": 0.6419,
+    "freshness_score": 0.7993237507554144,
+    "home_score": 0.6087,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "efab706f13c266588f2ebd8a65ea019825604fae",
-    "title": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker Anime Reveals Premiere Date, Key Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/5/8/the-world-s-strongest-rearguard-labyrinth-country-s-novice-seeker-anime-july-5-release-date-key-visual",
-    "source_name": "Crunchyroll News",
+    "id": "69a8b78c3e8d307c06ab7c90ad5ff988dd06efa1",
+    "title": "Final Fantasy 7 Remake had \"no option other than a trilogy,\" lead says, since the \"sheer volume\" of the original PS1 JRPG was too absurd - GamesRadar+",
+    "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-remake-had-no-option-other-than-a-trilogy-lead-says-since-the-sheer-volume-of-the-original-ps1-jrpg-was-too-absurd/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-08T10:45:00Z",
-    "summary": "Yuji Yanase directs the isekai series at studio MAHO FILM",
+    "published_at": "2026-05-08T16:14:30Z",
+    "summary": "Final Fantasy 7 Remake had \"no option other than a trilogy,\" lead says, since the \"sheer volume\" of the original PS1 JRPG was too absurd GamesRadar+",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
+      "games"
     ],
-    "tags": [],
-    "entity_tags": [],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8288937842304516,
-    "home_score": 0.6415,
-    "source_quality": 0.79,
+    "freshness_score": 0.8188949523860741,
+    "home_score": 0.6085,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1913,21 +1668,47 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8766521517079594,
-    "home_score": 0.6405,
+    "freshness_score": 0.8024753840897096,
+    "home_score": 0.6071,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "fab0ac02c770745f7120533c28373d3974f9a5a5",
-    "title": "Sekiro: No Defeat Reveals Main Visual, Details on Theatrical Release in Japan",
-    "url": "https://animecorner.me/sekiro-no-defeat-reveals-main-visual-details-on-theatrical-release-in-japan/",
+    "id": "7df62ac6964161bada8af6cecda61d4c23afc3c5",
+    "title": "REVIEW: FINAL FANTASY XIV X REQUIEM CAF\u00c9 Collaboration Experience - oprainfall",
+    "url": "https://operationrainfall.com/2026/05/08/review-final-fantasy-xiv-x-requiem-cafe-collaboration-experience/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-08T14:37:10Z",
+    "summary": "REVIEW: FINAL FANTASY XIV X REQUIEM CAF\u00c9 Collaboration Experience oprainfall",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8006508486232801,
+    "home_score": 0.6063,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c3b930d4cf09306eb9d4ed86dd6eb545961b715f",
+    "title": "JoJo's Bizarre Adventure: Golden Spirit New Mobile Game Opens Closed-Beta Pre-Registrations",
+    "url": "https://animecorner.me/jojos-bizarre-adventure-golden-spirit-new-mobile-game-opens-closed-beta-pre-registrations/",
     "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-05-08T10:16:11Z",
-    "summary": "SEKIRO: NO DEFEAT anime revealed the main visual, along with details on the theatrical release\u2026",
+    "published_at": "2026-05-08T09:26:59Z",
+    "summary": "A new officially licensed mobile game based on the JoJo\u2019s Bizarre Adventure anime series\u2026",
     "content": "",
     "categories": [
       "anime",
@@ -1939,11 +1720,132 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8233830638220018,
-    "home_score": 0.6405,
+    "freshness_score": 0.7451782532021243,
+    "home_score": 0.6053,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7955c892b4bdf0f481108741cee6a1004555d41e",
+    "title": "Draw This, Then Die! Reveals Main Trailer, Opening Song",
+    "url": "https://anitrendz.net/news/2026/05/07/draw-this-then-die-reveals-main-trailer-opening-song/?utm_source=rss&utm_medium=rss&utm_campaign=draw-this-then-die-reveals-main-trailer-opening-song",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-08T04:09:25Z",
+    "summary": "Upcoming TV anime Draw This, Then Die! has gotten its first main trailer, which shows off the story's Manga Research Club and previews the opening song \"Isho",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.6923644822048599,
+    "home_score": 0.5986,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f0dc654abda3c854f99b6d283069986d835c5bbf",
+    "title": "Patch 7.5\u2500Trail to the Heavens Special Site Updated!",
+    "url": "https://img.finalfantasyxiv.com/t/6f7a2c72448adb1ac623d9fd8648ff859384788a.jpg?1778227338",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-05-08T08:00:00Z",
+    "summary": "Patch 7.5\u2500Trail to the Heavens Special Site Updated!",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7303240718040082,
+    "home_score": 0.5971,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c2be488cceaa870d99aac8971d35acc48b624171",
+    "title": "Hololive indie action-adventure game An Automaton's Journey releases for PC via Steam on June 4",
+    "url": "https://www.rpgsite.net/news/20330-hololive-indie-action-adventure-game-an-automatons-journey-releases-for-pc-via-steam-on-june-4",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-08T12:24:57Z",
+    "summary": "This 2D Zelda-esque game will star the Hololive English Vtuber Cecilia Immergreen",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7765177851757566,
+    "home_score": 0.5969,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 4",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "0cb19cffc733adba4cc1877f56f96ed988032a04",
+    "title": "CloverWorks-Produced Gakuen Idolmaster \u201cH.I.F\u201d OP Animation Drops on YouTube",
+    "url": "https://anitrendz.net/news/2026/05/08/cloverworks-produced-gakuen-idolmaster-h-i-f-op-animation-drops-on-youtube/?utm_source=rss&utm_medium=rss&utm_campaign=cloverworks-produced-gakuen-idolmaster-h-i-f-op-animation-drops-on-youtube",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-08T08:01:29Z",
+    "summary": "The opening animation for the Gakuen Idolmaster mobile game's upcoming \"H",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [
+      "idol"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.730574831088082,
+    "home_score": 0.5958,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   }
 ]
