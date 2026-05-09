@@ -1,5 +1,122 @@
 [
   {
+    "id": "50c4b530b6a9c4f252ed8c1867ae17868a22b371",
+    "title": "Amos Yee says attack \u2018unjust\u2019 after scuffle at Suntec City anime convention, 18-year-old arrested - mustsharenews.com",
+    "url": "https://mustsharenews.com/amos-yee-attack-anime-convention-suntec/",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2026-05-09T13:12:25Z",
+    "summary": "Amos Yee says attack \u2018unjust\u2019 after scuffle at Suntec City anime convention, 18-year-old arrested mustsharenews",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.63,
+    "freshness_score": 0.9326065855586219,
+    "home_score": 0.8457,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "0acf263afa4bb8ff8808b31249bb270f0dd8ff2b",
+    "title": "Amos Yee assaulted by cosplayer at Suntec Convention Centre, teen arrested for causing public nuisance - Stomp",
+    "url": "https://www.stomp.sg/trending-now/amos-yee-assaulted-cosplayer-suntec-convention-centre-teen-arrested-causing-public-nuisance",
+    "source_name": "Google News SG Cosplay",
+    "source_type": "rss",
+    "published_at": "2026-05-09T11:32:26Z",
+    "summary": "Amos Yee assaulted by cosplayer at Suntec Convention Centre, teen arrested for causing public nuisance Stomp",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.63,
+    "freshness_score": 0.9112699103827252,
+    "home_score": 0.8316,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": "Suntec Singapore Convention & Exhibition Centre",
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "dcc10df390bba11c1808c791d3e2088893128b16",
+    "title": "Amos Yee beaten up by cosplayer at S'pore anime convention at Suntec City - Mothership",
+    "url": "https://mothership.sg/2026/05/amos-yee-beaten-anime-convention/",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-05-09T11:40:20Z",
+    "summary": "Amos Yee beaten up by cosplayer at S'pore anime convention at Suntec City Mothership",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.63,
+    "freshness_score": 0.9129379977074247,
+    "home_score": 0.8263,
+    "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "78360971614fc4733f540370e3a88a53b7cf0b43",
     "title": "Teen arrested after allegedly attacking Amos Yee near Suntec Singapore anime convention - The Straits Times",
     "url": "https://www.straitstimes.com/singapore/teen-arrested-after-allegedly-attacking-amos-yee-near-suntec-singapore-anime-convention?ref=latest",
@@ -22,8 +139,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.9794465243652167,
-    "home_score": 0.8608,
+    "freshness_score": 0.9009018448003072,
+    "home_score": 0.8254,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -40,12 +157,12 @@
   },
   {
     "id": "82361167a5852b058f4f54e3c8a7a3bd02f77471",
-    "title": "Man, 18, arrested for causing public nuisance after allegedly assaulting Amos Yee outside Suntec City anime convention - Mothership",
+    "title": "Man, 18, arrested for causing public nuisance after assaulting Amos Yee outside Suntec City anime convention - Mothership",
     "url": "https://mothership.sg/2026/05/amos-yee-assaulted-man-arrested/",
     "source_name": "Google News Anime And Manga",
     "source_type": "rss",
     "published_at": "2026-05-09T10:20:06Z",
-    "summary": "Man, 18, arrested for causing public nuisance after allegedly assaulting Amos Yee outside Suntec City anime convention Mothership",
+    "summary": "Man, 18, arrested for causing public nuisance after assaulting Amos Yee outside Suntec City anime convention Mothership",
     "content": "",
     "categories": [
       "anime",
@@ -61,8 +178,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.9742682892484147,
-    "home_score": 0.8584,
+    "freshness_score": 0.8961388674028398,
+    "home_score": 0.8233,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -79,12 +196,12 @@
   },
   {
     "id": "a796c16005312d7566a6e055c22e0a5ced8464a4",
-    "title": "Teen arrested after scuffle with Amos Yee at Suntec Singapore anime fest - The Straits Times",
+    "title": "Teen arrested after scuffle with Amos Yee outside Suntec Singapore anime fest area - The Straits Times",
     "url": "https://www.straitstimes.com/singapore/teen-arrested-after-allegedly-attacking-amos-yee-near-suntec-singapore-anime-convention",
     "source_name": "Google News SG ACG",
     "source_type": "rss",
     "published_at": "2026-05-09T10:43:00Z",
-    "summary": "Teen arrested after scuffle with Amos Yee at Suntec Singapore anime fest The Straits Times",
+    "summary": "Teen arrested after scuffle with Amos Yee outside Suntec Singapore anime fest area The Straits Times",
     "content": "",
     "categories": [
       "events",
@@ -100,8 +217,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.9794465878667575,
-    "home_score": 0.8563,
+    "freshness_score": 0.9009018960425769,
+    "home_score": 0.8209,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -117,57 +234,45 @@
     "result_type": "article"
   },
   {
-    "id": "dcc10df390bba11c1808c791d3e2088893128b16",
-    "title": "Amos Yee beaten up by cosplayer at S'pore anime convention at Suntec City - Mothership",
-    "url": "https://mothership.sg/2026/05/amos-yee-beaten-anime-convention/",
-    "source_name": "Google News Anime And Manga",
+    "id": "d70e931d2cf3f321101edffc7a61c1b7605e12e4",
+    "title": "Viet Nam to host annual Southeast Asian Esports Nations Cup from 2026 - Nhan Dan Online",
+    "url": "https://en.nhandan.vn/viet-nam-to-host-annual-southeast-asian-esports-nations-cup-from-2026-post161977.html",
+    "source_name": "Google News SEA Esports",
     "source_type": "rss",
-    "published_at": "2026-05-09T09:19:55Z",
-    "summary": "Amos Yee beaten up by cosplayer at S'pore anime convention at Suntec City Mothership",
+    "published_at": "2026-05-09T12:14:29Z",
+    "summary": "Viet Nam to host annual Southeast Asian Esports Nations Cup from 2026 Nhan Dan Online",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "events"
+      "esports",
+      "games"
     ],
-    "tags": [
-      "singapore"
-    ],
+    "tags": [],
     "entity_tags": [],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.63,
-    "freshness_score": 0.9607895425409825,
-    "home_score": 0.8524,
-    "source_quality": 0.75,
+    "sg_relevance": 0.55,
+    "freshness_score": 0.9201834036744938,
+    "home_score": 0.8036,
+    "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "c509bc5d7c0c5ab128eaecd355b64a438dca9db4",
-    "title": "Amos Yee assaulted by cosplayer at Suntec Convention Centre, sustains lip injury - Stomp",
-    "url": "https://www.stomp.sg/trending-now/amos-yee-assaulted-cosplayer-suntec-convention-centre-sustains-lip-injury",
-    "source_name": "Google News SG Cosplay",
+    "id": "18b000e5f3dfa22d11b0fe3419730b87ce29cfcc",
+    "title": "Convicted sex offender beaten at Singapore cosplay event - NST Online",
+    "url": "https://www.nst.com.my/world/world/2026/05/1435896/convicted-sex-offender-beaten-singapore-cosplay-event",
+    "source_name": "Google News SG ACG",
     "source_type": "rss",
-    "published_at": "2026-05-09T08:47:30Z",
-    "summary": "Amos Yee assaulted by cosplayer at Suntec Convention Centre, sustains lip injury Stomp",
+    "published_at": "2026-05-09T12:21:50Z",
+    "summary": "Convicted sex offender beaten at Singapore cosplay event NST Online",
     "content": "",
     "categories": [
       "events",
-      "anime",
-      "merch"
+      "games",
+      "anime"
     ],
     "tags": [
       "singapore"
@@ -177,21 +282,12 @@
       "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.63,
-    "freshness_score": 0.9536068217901327,
-    "home_score": 0.8506,
-    "source_quality": 0.76,
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9217503835688294,
+    "home_score": 0.7803,
+    "source_quality": 0.72,
     "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -217,8 +313,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9868961974178211,
-    "home_score": 0.8096,
+    "freshness_score": 0.9077540992494336,
+    "home_score": 0.774,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -256,8 +352,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9790196797417832,
-    "home_score": 0.8061,
+    "freshness_score": 0.9005092236328425,
+    "home_score": 0.7707,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -292,35 +388,8 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.9131594186968608,
-    "home_score": 0.8004,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "377e31923377d7a486bdf765e7721a6f605647aa",
-    "title": "Vietnam hosts inaugural SEA Esports Nations Cup - Tuoi Tre News | The News Gateway to Vietnam",
-    "url": "https://news.tuoitre.vn/vietnam-hosts-inaugural-sea-esports-nations-cup-10326050914361399.htm",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-05-09T08:49:00Z",
-    "summary": "Vietnam hosts inaugural SEA Esports Nations Cup Tuoi Tre News | The News Gateway to Vietnam",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.9539380602217548,
-    "home_score": 0.7888,
+    "freshness_score": 0.8399304957531981,
+    "home_score": 0.7675,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -347,8 +416,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9055778380045644,
-    "home_score": 0.7835,
+    "freshness_score": 0.8329569006458108,
+    "home_score": 0.7508,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -361,6 +430,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "377e31923377d7a486bdf765e7721a6f605647aa",
+    "title": "Vietnam hosts inaugural SEA Esports Nations Cup - Tuoi Tre News | The News Gateway to Vietnam",
+    "url": "https://news.tuoitre.vn/vietnam-hosts-inaugural-sea-esports-nations-cup-10326050914361399.htm",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-05-09T06:16:00Z",
+    "summary": "Vietnam hosts inaugural SEA Esports Nations Cup Tuoi Tre News | The News Gateway to Vietnam",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.8469068746247782,
+    "home_score": 0.7406,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -388,8 +484,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 0.6525175246416732,
-    "home_score": 0.7621,
+    "freshness_score": 0.6001902362771631,
+    "home_score": 0.7386,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
@@ -405,17 +501,17 @@
     "result_type": "article"
   },
   {
-    "id": "3442e01ac5b2a980a0a1bf798264ab1fbbb204cb",
-    "title": "South Korea back on for Esports Nations Cup 2026 as KeSPA, Esports Foundation reconcile",
-    "url": "https://esports.gg/news/esports/team-korea-enc26-kespa-ef-reconcile/",
-    "source_name": "Esports.gg",
+    "id": "99c3ddec6896e162ab9b0734fcbbd438f2355a32",
+    "title": "Class 1-A Are Pro Heroes in My Hero Academia Special: \u2018More\u2019",
+    "url": "https://anitrendz.net/news/2026/05/09/class-1-a-are-pro-heroes-in-my-hero-academia-special-more/?utm_source=rss&utm_medium=rss&utm_campaign=class-1-a-are-pro-heroes-in-my-hero-academia-special-more",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-09T10:12:23Z",
-    "summary": "South Korea back on for Esports Nations Cup 2026 as KeSPA, Esports Foundation reconcile",
+    "published_at": "2026-05-09T18:00:00Z",
+    "summary": "Eight years after the events of My Hero Academia Final Season, the extra episode titled \u201cMore\u201d offers a brief but heartwarming glimpse into the lives of Class 1-A as young adults",
     "content": "",
     "categories": [
-      "esports",
-      "games",
+      "anime",
+      "manga",
       "events"
     ],
     "tags": [],
@@ -424,10 +520,230 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9725297117526772,
-    "home_score": 0.7216,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "freshness_score": 0.9968036877282888,
+    "home_score": 0.7356,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4303f2a30ccfb49ee032a5fe58320ebc9e4d7ce0",
+    "title": "Daemons of the Shadow Realm Anime Adds Shinichiro Miki as Ivan Yosano",
+    "url": "https://crunchyroll.com/news/latest/2026/5/9/daemons-of-the-shadow-realm-anime-ivan-yosano-cast-shinichiro-miki",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-09T17:33:00Z",
+    "summary": "Daemons of the Shadow Realm Anime Adds Shinichiro Miki as Ivan Yosano",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9905932076725349,
+    "home_score": 0.7143,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "45aa5b21b7a5121eb56ac2bb95043fa8e6d6e268",
+    "title": "Moyoco Anno\u2019s Memoirs of Amorous Gentlemen Off-Broadway Musical Debuts in Fall 2026",
+    "url": "https://anitrendz.net/news/2026/05/09/moyoco-annos-memoirs-of-amorous-gentlemen-off-broadway-musical-debuts-in-fall-2026/?utm_source=rss&utm_medium=rss&utm_campaign=moyoco-annos-memoirs-of-amorous-gentlemen-off-broadway-musical-debuts-in-fall-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-09T17:42:50Z",
+    "summary": "An off-Broadway musical adaptation of Moyoco Anno\u2019s Memoirs of Amorous Gentlemen manga is scheduled to debut in the U",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9928504811790682,
+    "home_score": 0.7138,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "79e87e938b88bcff83ee8a4a030a8865ce47805a",
+    "title": "Akane-banashi Anime Kicks off the Karaku Cup Arc in New Trailer, Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/9/akane-banashi-anime-karaku-cup-arc-new-trailer-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-09T17:15:00Z",
+    "summary": "The new trailer showcases Karashi Nerimaya and Hikaru Koragi",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9864743220065486,
+    "home_score": 0.7124,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bcfe4425be4f40e39d0881726f7bd6e81502eb15",
+    "title": "McDonald\u2019s Japan Chiikawa Happy Meal Toys Can\u2019t Be Resold on Some Sites",
+    "url": "https://www.siliconera.com/mcdonalds-japan-chiikawa-happy-meal-toys-cant-be-resold-on-some-sites/?utm_source=rss&utm_medium=rss&utm_campaign=mcdonalds-japan-chiikawa-happy-meal-toys-cant-be-resold-on-some-sites",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-09T16:00:58Z",
+    "summary": "End scalpers! End scalpers! The post McDonald\u2019s Japan Chiikawa Happy Meal Toys Can\u2019t Be Resold on Some Sites appeared first on Siliconera",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9697131396650183,
+    "home_score": 0.7094,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f30fc8aab3681167b30dd4d3a5fa8f62690dfb77",
+    "title": "Episode 440: Dayseeker \u2013 Q&A Quest",
+    "url": "https://rpgamer.com/2026/05/episode-440-dayseeker-qa-quest/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-09T16:13:13Z",
+    "summary": "This week in Q&A Quest, we discuss the continued year of Capcom",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9724665980444248,
+    "home_score": 0.7076,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f75ac073d6fd535c64118e693c41880e969b4979",
+    "title": "Persona Super Live 2017 Concert VOD Posted on Atlus Game Music Channel",
+    "url": "https://noisypixel.net/persona-super-live-2017-concert-vod-youtube/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-09T16:08:17Z",
+    "summary": "The official Atlus Game Music YouTube channel has posted a VOD of the Persona Super Live P-Sound Bomb !!!! 2017 \u2013 Witness the Crime at the Harbor concert, held at the Yokohama Aren",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9713567240599092,
+    "home_score": 0.7041,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": "August 2, 2027",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "96575d063c0a1305f522867654d5d22260254577",
+    "title": "Evercade Indies Continue to Shine in Mega Cat Studios Collection 3",
+    "url": "https://www.siliconera.com/evercade-indies-continue-to-shine-in-mega-cat-studios-collection-3/?utm_source=rss&utm_medium=rss&utm_campaign=evercade-indies-continue-to-shine-in-mega-cat-studios-collection-3",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-09T13:00:00Z",
+    "summary": "As the Evercade release cadence continues on at a steady pace, the connective tissue is indie support like Mega Cat Studios Collection 3",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9299305087223664,
+    "home_score": 0.6915,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "185ac01eb94acb16b87c7c27d4c757bcbbf52326",
+    "title": "7 Reasons NieR: Automata Still Holds Up as One of the Most Memorable RPGs",
+    "url": "https://www.dualshockers.com/reasons-nier-automata-still-feels-like-one-of-the-most-unforgettable-rpgs/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-09T14:30:14Z",
+    "summary": "NieR: Automata was an instant classic when it first released in 2017",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9495582296559462,
+    "home_score": 0.6898,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/nier-automata-rpg.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -457,11 +773,138 @@
       "SEA"
     ],
     "sg_relevance": 0.51,
-    "freshness_score": 0.7335800843179243,
-    "home_score": 0.7156,
+    "freshness_score": 0.6747521482287848,
+    "home_score": 0.6891,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bda370535daf1e4e6da2f52afc7be4e49235383b",
+    "title": "Traysia Review",
+    "url": "https://rpgamer.com/review/traysia-review/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-09T12:41:16Z",
+    "summary": "I Asked for a Boat and All I Got Was This Lousy Raft! While the Sega Genesis is not known for being an RPG powerhouse, it did have a few successful franchises with the Shining seri",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9259064646302654,
+    "home_score": 0.6867,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3442e01ac5b2a980a0a1bf798264ab1fbbb204cb",
+    "title": "South Korea back on for Esports Nations Cup 2026 as KeSPA, Esports Foundation reconcile",
+    "url": "https://esports.gg/news/esports/team-korea-enc26-kespa-ef-reconcile/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-09T10:12:23Z",
+    "summary": "South Korea back on for Esports Nations Cup 2026 as KeSPA, Esports Foundation reconcile",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8945396995323828,
+    "home_score": 0.6865,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f1c6b1bff66d66cecda063bd19572bd5af432e05",
+    "title": "Pokemon Legends: Z-A has sold 12.79 million copies as of March 31, 2026",
+    "url": "https://www.rpgsite.net/news/20326-pokemon-legends-z-a-new-sales-numbers-may-2026-switch-2",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-09T15:22:23Z",
+    "summary": "Nintendo announces a new sales milestone for Pokemon Legends: Z-A on Switch 2 and Switch",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9610907044949962,
+    "home_score": 0.686,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "March 31, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7db29f82f463aeddd6db4922940919ac2c21602b",
+    "title": "Next Dragon Quest and more to be announced this month",
+    "url": "https://nintendoeverything.com/next-dragon-quest-and-more-to-be-announced-this-month/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-09T14:04:27Z",
+    "summary": "Big Dragon Quest news is on the way including the announcement of the series\u2019 next game",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9439079424814262,
+    "home_score": 0.6723,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 27, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -491,8 +934,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.6649552213599569,
-    "home_score": 0.6947,
+    "freshness_score": 0.6116305123268725,
+    "home_score": 0.6707,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C390%2C1040%2C520%5D/resize=w:1920/pjpg=q:90/compress/oOTd5aP2RY2sPgi7MZM9",
     "event_metadata": {
@@ -505,6 +948,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "06f95f803b178cdcef559d02d1878ed20a1f5672",
+    "title": "Final Fantasy XIV Evercold's prelude picks up right where Endwalker left off - GamingTrend",
+    "url": "https://gamingtrend.com/impressions/final-fantasy-xiv-evercolds-prelude-picks-up-right-where-endwalker-left-off/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-09T13:45:55Z",
+    "summary": "Final Fantasy XIV Evercold's prelude picks up right where Endwalker left off GamingTrend",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9398667985559911,
+    "home_score": 0.6629,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -526,8 +994,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9135506867955199,
-    "home_score": 0.6781,
+    "freshness_score": 0.8402903747883078,
+    "home_score": 0.6451,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -540,58 +1008,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "2dd06534e341e11c56c399897af0068fbbd50a94",
-    "title": "BanG Dream! Our Notes Releases Trailer Starring Ikka Dumb Rock!",
-    "url": "https://animecorner.me/bang-dream-our-notes-releases-trailer-starring-ikka-dumb-rock/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-09T04:03:07Z",
-    "summary": "BanG Dream! Our Notes Releases Trailer Starring Ikka Dumb Rock!",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8928533588545216,
-    "home_score": 0.6718,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ad4c4aaf13191738510ee013b5e140cd58f28163",
-    "title": "Pokemon Legends: Z-A\u2019s worst achievement, and how to get it",
-    "url": "https://nintendoeverything.com/pokemon-legends-z-a-s-worst-achievement-consummate-gamer/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-05-09T04:00:44Z",
-    "summary": "Today, we\u2019re covering what we feel is the worst achievement in Pokemon Legends: Z-A with the Consummate Gamer, but we\u2019ll give you some tips on how to get it",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8923610037537282,
-    "home_score": 0.6671,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -616,9 +1032,61 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6575795544359454,
-    "home_score": 0.6659,
+    "freshness_score": 0.6048463197471676,
+    "home_score": 0.6422,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2dd06534e341e11c56c399897af0068fbbd50a94",
+    "title": "BanG Dream! Our Notes Releases Trailer Starring Ikka Dumb Rock!",
+    "url": "https://animecorner.me/bang-dream-our-notes-releases-trailer-starring-ikka-dumb-rock/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-09T04:03:07Z",
+    "summary": "BanG Dream! Our Notes Releases Trailer Starring Ikka Dumb Rock!",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8212528233822425,
+    "home_score": 0.6396,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ad4c4aaf13191738510ee013b5e140cd58f28163",
+    "title": "Pokemon Legends: Z-A\u2019s worst achievement, and how to get it",
+    "url": "https://nintendoeverything.com/pokemon-legends-z-a-s-worst-achievement-consummate-gamer/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-09T04:00:44Z",
+    "summary": "Today, we\u2019re covering what we feel is the worst achievement in Pokemon Legends: Z-A with the Consummate Gamer, but we\u2019ll give you some tips on how to get it",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8207999485334724,
+    "home_score": 0.6349,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -642,13 +1110,51 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8844913628044357,
-    "home_score": 0.665,
+    "freshness_score": 0.813561399717145,
+    "home_score": 0.6331,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "May 16, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4acda5100914152c5a57f5edb3219aa135f12b41",
+    "title": "A \u201cgirls-only\u201d tournament without trans women? Why trans representation matters for all genders",
+    "url": "https://esportsinsider.com/2026/05/girls-only-tournament-valorant-trans-support",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-08T18:27:29Z",
+    "summary": "Last week, a new \u201cgirls only\u201d VALORANT tournament made waves in the esports community, but perhaps not in the way its organizer, femaleplayersTN, had hoped for",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.7187994280014072,
+    "home_score": 0.629,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -677,75 +1183,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8659608972267845,
-    "home_score": 0.6582,
+    "freshness_score": 0.7965169469365754,
+    "home_score": 0.6269,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4acda5100914152c5a57f5edb3219aa135f12b41",
-    "title": "A \u201cgirls-only\u201d tournament without trans women? Why trans representation matters for all genders",
-    "url": "https://esportsinsider.com/2026/05/girls-only-tournament-valorant-trans-support",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-05-08T18:27:29Z",
-    "summary": "Last week, a new \u201cgirls only\u201d VALORANT tournament made waves in the esports community, but perhaps not in the way its organizer, femaleplayersTN, had hoped for",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.7814676071498072,
-    "home_score": 0.6572,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "ac52fdb70440fc66b854aed00b6981fa505efec1",
-    "title": "Steins;Gate Re:Boot - IGN Southeast Asia",
-    "url": "https://sea.ign.com/steinsgate-reboot",
-    "source_name": "Google News SEA Visual Novels",
-    "source_type": "rss",
-    "published_at": "2026-05-08T01:23:00Z",
-    "summary": "Steins;Gate Re:Boot - IGN Southeast Asia",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 0.6164791736572331,
-    "home_score": 0.6564,
-    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -770,8 +1210,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7786028732028872,
-    "home_score": 0.6404,
+    "freshness_score": 0.7161643991036883,
+    "home_score": 0.6123,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -806,8 +1246,38 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7784404722249408,
-    "home_score": 0.6358,
+    "freshness_score": 0.7160150478759144,
+    "home_score": 0.6077,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "69faedefa8a4d0b6a3ef9c077ee61547cf2f16f1",
+    "title": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie - AugustMan Singapore",
+    "url": "https://www.augustman.com/sg/entertainment/film-tv/live-action-gundam-movie-will-star-sydney-sweeney/",
+    "source_name": "Google News SEA Gunpla",
+    "source_type": "rss",
+    "published_at": "2026-05-08T00:07:48Z",
+    "summary": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie AugustMan Singapore",
+    "content": "",
+    "categories": [
+      "merch",
+      "anime",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.5572565819371101,
+    "home_score": 0.6058,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -835,8 +1305,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7983843253129248,
-    "home_score": 0.6323,
+    "freshness_score": 0.7343595426613664,
+    "home_score": 0.6035,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -862,8 +1332,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.80355087800052,
-    "home_score": 0.6316,
+    "freshness_score": 0.7391117460016561,
+    "home_score": 0.6026,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -896,8 +1366,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8035074706911249,
-    "home_score": 0.6316,
+    "freshness_score": 0.7390718221568422,
+    "home_score": 0.6026,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -933,8 +1403,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8034702671632774,
-    "home_score": 0.6316,
+    "freshness_score": 0.7390376032250844,
+    "home_score": 0.6026,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -947,36 +1417,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "69faedefa8a4d0b6a3ef9c077ee61547cf2f16f1",
-    "title": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie - AugustMan Singapore",
-    "url": "https://www.augustman.com/sg/entertainment/film-tv/live-action-gundam-movie-will-star-sydney-sweeney/",
-    "source_name": "Google News SEA Gunpla",
-    "source_type": "rss",
-    "published_at": "2026-05-08T00:07:48Z",
-    "summary": "Sydney Sweeney And Noah Centineo Will Star In The \u2018Gundam\u2019 Live-Action Movie AugustMan Singapore",
-    "content": "",
-    "categories": [
-      "merch",
-      "anime",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6058407177234757,
-    "home_score": 0.6276,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -998,8 +1438,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7873723021807699,
-    "home_score": 0.6273,
+    "freshness_score": 0.724230606042337,
+    "home_score": 0.5989,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1025,8 +1465,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7658015576782974,
-    "home_score": 0.6256,
+    "freshness_score": 0.704389681457309,
+    "home_score": 0.598,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -1053,8 +1493,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7448220326494833,
-    "home_score": 0.6237,
+    "freshness_score": 0.685092564115811,
+    "home_score": 0.5968,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1079,8 +1519,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7765121667064415,
-    "home_score": 0.6224,
+    "freshness_score": 0.7142413767074212,
+    "home_score": 0.5944,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1105,8 +1545,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7786719702086047,
-    "home_score": 0.6204,
+    "freshness_score": 0.7162279553305513,
+    "home_score": 0.5923,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1143,8 +1583,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7658018238298386,
-    "home_score": 0.6176,
+    "freshness_score": 0.7043899276458937,
+    "home_score": 0.59,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1170,35 +1610,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.719229190919192,
-    "home_score": 0.6137,
+    "freshness_score": 0.6615520879908033,
+    "home_score": 0.5877,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f5e306172b99915bb2ad9bc4e4ab9923b2ea1efb",
-    "title": "Let Me Fix You Anime Delays Release to June",
-    "url": "https://anitrendz.net/news/2026/05/08/let-me-fix-you-anime-delays-release-to-june/?utm_source=rss&utm_medium=rss&utm_campaign=let-me-fix-you-anime-delays-release-to-june",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-08T17:20:38Z",
-    "summary": "An update for the short yuri anime Let Me Fix You (Kimi wo Tsumugu), an adaptation of the dojin manga by Sakura Kurihara, reveals that it will now be released in mid-June",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7694678700417598,
-    "home_score": 0.6133,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1222,46 +1636,37 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7552392074177257,
-    "home_score": 0.6129,
+    "freshness_score": 0.6946743584948831,
+    "home_score": 0.5856,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "5a5ad06bfea9f27c5c0f3f890f947647d516f94e",
-    "title": "STEINS;GATE RE:BOOT Launches Globally on August 20",
-    "url": "https://blog.jlist.com/news/steinsgate-reboot-launches-globally-on-august-20/",
-    "source_name": "J-List Blog",
+    "id": "f5e306172b99915bb2ad9bc4e4ab9923b2ea1efb",
+    "title": "Let Me Fix You Anime Delays Release to June",
+    "url": "https://anitrendz.net/news/2026/05/08/let-me-fix-you-anime-delays-release-to-june/?utm_source=rss&utm_medium=rss&utm_campaign=let-me-fix-you-anime-delays-release-to-june",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-08T20:30:00Z",
-    "summary": "Few things bring me more joy than writing about things that J-List is known for",
+    "published_at": "2026-05-08T17:20:38Z",
+    "summary": "An update for the short yuri anime Let Me Fix You (Kimi wo Tsumugu), an adaptation of the dojin manga by Sakura Kurihara, reveals that it will now be released in mid-June",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "merch",
+      "events",
       "games"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8039475621097265,
-    "home_score": 0.6108,
+    "freshness_score": 0.7077619822446012,
+    "home_score": 0.5855,
     "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 20",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1283,8 +1688,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7599739812997125,
-    "home_score": 0.6105,
+    "freshness_score": 0.6990294334471011,
+    "home_score": 0.5831,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1309,13 +1714,48 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.75114748291675,
-    "home_score": 0.61,
+    "freshness_score": 0.6909107614002192,
+    "home_score": 0.5829,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
       "event_type": "tournament",
       "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5a5ad06bfea9f27c5c0f3f890f947647d516f94e",
+    "title": "STEINS;GATE RE:BOOT Launches Globally on August 20",
+    "url": "https://blog.jlist.com/news/steinsgate-reboot-launches-globally-on-august-20/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-05-08T20:30:00Z",
+    "summary": "Few things bring me more joy than writing about things that J-List is known for",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7394766493713701,
+    "home_score": 0.5818,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "August 20",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1344,8 +1784,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7448222800643464,
-    "home_score": 0.6082,
+    "freshness_score": 0.6850927951284281,
+    "home_score": 0.5813,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1369,8 +1809,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7532339679036667,
-    "home_score": 0.606,
+    "freshness_score": 0.6928299243552675,
+    "home_score": 0.5788,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1395,8 +1835,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7347162517365173,
-    "home_score": 0.6036,
+    "freshness_score": 0.6757971988897501,
+    "home_score": 0.5771,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1421,8 +1861,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7399557580632433,
-    "home_score": 0.6,
+    "freshness_score": 0.6806165332153664,
+    "home_score": 0.5733,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1437,470 +1877,6 @@
       ],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "b61f41f4416812b14d06c48f8dad0c3d579c0d81",
-    "title": "Siliconera\u2019s 2026 Mother\u2019s Day Game Gift Guide",
-    "url": "https://www.siliconera.com/siliconeras-2026-mothers-day-game-gift-guide/?utm_source=rss&utm_medium=rss&utm_campaign=siliconeras-2026-mothers-day-game-gift-guide",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-08T13:00:00Z",
-    "summary": "Siliconera's Mother's Day 2026 game gift guide goes over suggestions for single and multiplayer titles for important role models",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.724417481957632,
-    "home_score": 0.599,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6ffdef06d5a063f9fb177d979bb46c81e22f6119",
-    "title": "Patlabor EZY File 1 Anime Shares New Collab Video Featuring Opening Theme Song by Mori Calliope",
-    "url": "https://crunchyroll.com/news/latest/2026/5/8/patlabor-ezy-file-1-anime-mori-calliope-collaboration-video",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-08T13:29:00Z",
-    "summary": "The first installment opens in theaters in Japan on May 15",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.729296587960806,
-    "home_score": 0.5967,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 15",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a0ad3ee9a8b0f3f24c31bea1c543cb046386f859",
-    "title": "Capcom Reveals New Volleyball Illustration Featuring Resident Evil, Pragmata, and More",
-    "url": "https://noisypixel.net/capcom-volleyball-collab-2026-resident-evil-requiem-pragmata/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-08T12:38:15Z",
-    "summary": "Capcom has revealed a new collaborative illustration featuring Japan\u2019s men\u2019s and women\u2019s national volleyball teams, continuing its partnership campaign that began in 2022",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.720779280297611,
-    "home_score": 0.5914,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Resident Evil",
-        "Pragmata"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "cb284ffdce03f98c3d2041d490ac3eb81624f3c7",
-    "title": "Vertex Force Anime Debuts in October 2026",
-    "url": "https://crunchyroll.com/news/latest/2026/5/8/vertex-force-anime-debuts-in-october-2026",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-08T12:17:00Z",
-    "summary": "Main staff, teaser trailer and more revealed for upcoming original mecha anime",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.717242374732406,
-    "home_score": 0.5913,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2f10e07629eb9a9fdb0e18a9317daf42c478af0b",
-    "title": "Final Fantasy VII's \"sheer volume\" meant there was \"no other option\" for a remake than a trilogy, says director - GoNintendo",
-    "url": "https://gonintendo.com/contents/60660-final-fantasy-vii-s-sheer-volume-meant-there-was-no-other-option-for-a-remake-than-a",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-08T18:02:45Z",
-    "summary": "Final Fantasy VII's \"sheer volume\" meant there was \"no other option\" for a remake than a trilogy, says director GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7770061810562149,
-    "home_score": 0.5897,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "67adeda57115388a0c4c5463348eb9b3acb7c536",
-    "title": "Atlus will upload permanent archives of Persona live concerts from 2013, 2015, and 2017",
-    "url": "https://www.rpgsite.net/news/20257-atlus-will-upload-permanent-archives-persona-live-concerts-from-2013-2015-2017",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-08T11:14:10Z",
-    "summary": "All three concert archives are being gradually uploaded to YouTube",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7068858834562661,
-    "home_score": 0.5896,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "4346087d8a6f311686cf22b52cac57e98f182083",
-    "title": "Schr\u00f6dinger's Call Wants to Introduce the Neo-Visual Novel Genre to the Industry",
-    "url": "https://www.dualshockers.com/schrodingers-call-wants-to-reinvent-the-visual-novel-genre/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-08T16:47:25Z",
-    "summary": "The developers told us how the game is shaping up to be something novel in the genre",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7635741728016896,
-    "home_score": 0.5881,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/schrodinger-s-call-neo-visual-novel.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d0fb046a7970a60ea4bf72f54234eb36caf4c95a",
-    "title": "Subway Surfers and Angry Birds 2 Announce Mobile Crossover Events",
-    "url": "https://monstervine.com/2026/05/subway-surfers-angry-birds-2-crossover-events/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-05-08T13:00:18Z",
-    "summary": "SYBO and Rovio have announced a new collaboration between Subway Surfers and Angry Birds 2, bringing limited-time crossover content to both mobile games",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.724467448288841,
-    "home_score": 0.587,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 11, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "f6ee3b74df58dcfdb24d0ecb53b49e47c30c13e5",
-    "title": "Sekiro: No Defeat Anime Reveals September 4 Japan Theatrical Release Date, Main Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/5/8/sekiro-no-defeat-anime-september-4-release-date-main-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-08T11:16:00Z",
-    "summary": "The adaptation of the FromSoftware RPG will stream on Crunchyroll in the future",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7071858142890679,
-    "home_score": 0.5867,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "September 4",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "efab706f13c266588f2ebd8a65ea019825604fae",
-    "title": "The World's Strongest Rearguard: Labyrinth Country's Novice Seeker Anime Reveals Premiere Date, Key Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/5/8/the-world-s-strongest-rearguard-labyrinth-country-s-novice-seeker-anime-july-5-release-date-key-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-08T10:45:00Z",
-    "summary": "Yuji Yanase directs the isekai series at studio MAHO FILM",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7021292648539555,
-    "home_score": 0.5845,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fab0ac02c770745f7120533c28373d3974f9a5a5",
-    "title": "Sekiro: No Defeat Reveals Main Visual, Details on Theatrical Release in Japan",
-    "url": "https://animecorner.me/sekiro-no-defeat-reveals-main-visual-details-on-theatrical-release-in-japan/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-08T10:16:11Z",
-    "summary": "SEKIRO: NO DEFEAT anime revealed the main visual, along with details on the theatrical release\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6974613112439507,
-    "home_score": 0.5839,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7ba26d168b90c33cfacdbb5ac981388785e607fd",
-    "title": "Genshin Impact Version 7.0, Luna VII: Truth Amongst the Pages of Purana, Launches May 20",
-    "url": "https://noisypixel.net/genshin-impact-version-7-0-nicole-lohen-prune-release/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-08T14:54:23Z",
-    "summary": "HoYoverse has announced that Genshin Impact Version 7",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7438543936772384,
-    "home_score": 0.5837,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 20",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "944dbc7af1b01a5fffbb7c551f41256d66a14caa",
-    "title": "Genshin Impact Version 'Luna VII' launches on May 20",
-    "url": "https://www.rpgsite.net/news/20331-genshin-impact-version-luna-vii-release-date-new-banners",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-08T15:09:52Z",
-    "summary": "This update brings in Nicole, the first playable member of the Hexenzirkel, a new chapter of the Archon Quest, and more",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7465252425903012,
-    "home_score": 0.5834,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 20",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "bd8fd1d5ff1b4323c04e40f8fddcba66440cd8e1",
-    "title": "Though I Am an Inept Villainess, I Live to the Fullest",
-    "url": "https://blog.jlist.com/news/though-i-am-an-inept-villainess-i-live-to-the-fullest/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-05-08T14:30:00Z",
-    "summary": "Reirin Kou is a beloved court lady and Maiden",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7396674626957214,
-    "home_score": 0.5819,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c3b930d4cf09306eb9d4ed86dd6eb545961b715f",
-    "title": "JoJo's Bizarre Adventure: Golden Spirit New Mobile Game Opens Closed-Beta Pre-Registrations",
-    "url": "https://animecorner.me/jojos-bizarre-adventure-golden-spirit-new-mobile-game-opens-closed-beta-pre-registrations/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-08T09:26:59Z",
-    "summary": "A new officially licensed mobile game based on the JoJo\u2019s Bizarre Adventure anime series\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6895630624104102,
-    "home_score": 0.5803,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   }
 ]
