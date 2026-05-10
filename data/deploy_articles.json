@@ -1,5 +1,44 @@
 [
   {
+    "id": "e22314abfe679d0a107c66d672a3f5642415862f",
+    "title": "Amos Yee gets attacked by teen at Suntec City anime convention - The Independent Singapore News",
+    "url": "https://theindependent.sg/amos-yee-gets-attacked-by-teen-at-suntec-city-anime-convention/",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-05-10T08:39:37Z",
+    "summary": "Amos Yee gets attacked by teen at Suntec City anime convention The Independent Singapore News",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.63,
+    "freshness_score": 0.952098299722,
+    "home_score": 0.8439,
+    "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "3f184c9ea86b0ac8643fa71bad7eca8f9358b020",
     "title": "Teen arrested after allegedly assaulting Amos Yee outside Suntec City anime convention, Singapore News - AsiaOne",
     "url": "https://www.asiaone.com/singapore/teen-arrested-assaulting-amos-yee-suntec-city-anime-convention-doujima",
@@ -22,8 +61,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.94420387498177,
-    "home_score": 0.8404,
+    "freshness_score": 0.8761687601520575,
+    "home_score": 0.8098,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -36,6 +75,111 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "d8552210b726286d75f39d98ae9bc3a95c9005da",
+    "title": "Yuji Itadori cosplayer detained after alleged attack on Amos Yee at Singapore anime convention - The Express Tribune",
+    "url": "https://tribune.com.pk/story/2607316/yuji-itadori-cosplayer-detained-after-alleged-attack-on-amos-yee-at-singapore-anime-convention",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-05-10T10:49:23Z",
+    "summary": "Yuji Itadori cosplayer detained after alleged attack on Amos Yee at Singapore anime convention The Express Tribune",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.98113185971504,
+    "home_score": 0.807,
+    "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "6751a83715a5e7738d5ceb202e30d12fa7de76ad",
+    "title": "Who Is Amos Yee? Viral Yuji Itadori Cosplayer Attack at Singapore Anime Convention Puts Him Back in Spotlight - International Business Times UK",
+    "url": "https://www.ibtimes.co.uk/viral-altercation-singapore-anime-convention-amos-yee-cosplayer-1795986",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-05-10T06:53:34Z",
+    "summary": "Who Is Amos Yee? Viral Yuji Itadori Cosplayer Attack at Singapore Anime Convention Puts Him Back in Spotlight International Business Times UK",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9290101548341569,
+    "home_score": 0.7836,
+    "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4af22e8993e2b0baa9be2a1768a4f6f4dd5a89fb",
+    "title": "RI crowned overall champions at inaugural SEA Esports Nations Cup - ANTARA News",
+    "url": "https://en.antaranews.com/news/415263/ri-crowned-overall-champions-at-inaugural-sea-esports-nations-cup",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-05-10T06:59:43Z",
+    "summary": "RI crowned overall champions at inaugural SEA Esports Nations Cup ANTARA News",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9303336048648286,
+    "home_score": 0.7782,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -58,8 +202,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9753155229098318,
-    "home_score": 0.7984,
+    "freshness_score": 0.9050386511692274,
+    "home_score": 0.7668,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -85,8 +229,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9710765688039928,
-    "home_score": 0.7965,
+    "freshness_score": 0.9011051356550638,
+    "home_score": 0.765,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -115,53 +259,14 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.7831046861840718,
-    "home_score": 0.7784,
+    "freshness_score": 0.7266776724810072,
+    "home_score": 0.753,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": "convention",
       "date_label": null,
       "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "78360971614fc4733f540370e3a88a53b7cf0b43",
-    "title": "Teen arrested after allegedly attacking Amos Yee near Suntec Singapore anime convention - The Straits Times",
-    "url": "https://www.straitstimes.com/singapore/teen-arrested-after-allegedly-attacking-amos-yee-near-suntec-singapore-anime-convention?ref=latest",
-    "source_name": "Google News Anime Conventions",
-    "source_type": "rss",
-    "published_at": "2026-05-09T10:43:00Z",
-    "summary": "Teen arrested after allegedly attacking Amos Yee near Suntec Singapore anime convention The Straits Times",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.63,
-    "freshness_score": 0.7564823433395196,
-    "home_score": 0.7664,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": "Suntec Singapore",
       "ticket_status": null,
       "ticket_url": null,
       "guest_status": null,
@@ -193,8 +298,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.765188396565176,
-    "home_score": 0.7658,
+    "freshness_score": 0.7100523535966013,
+    "home_score": 0.741,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -232,8 +337,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.7665890750029017,
-    "home_score": 0.7605,
+    "freshness_score": 0.7113520873937222,
+    "home_score": 0.7356,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -254,7 +359,7 @@
     "url": "https://mothership.sg/2026/05/amos-yee-assaulted-man-arrested/",
     "source_name": "Google News Anime And Manga",
     "source_type": "rss",
-    "published_at": "2026-05-09T10:20:06Z",
+    "published_at": "2026-05-09T10:20:18Z",
     "summary": "Man, 18, arrested for causing public nuisance after assaulting Amos Yee outside Suntec City anime convention Mothership",
     "content": "",
     "categories": [
@@ -271,8 +376,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.7524829358493417,
-    "home_score": 0.7586,
+    "freshness_score": 0.6982947112933943,
+    "home_score": 0.7342,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -310,14 +415,50 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.7567655789423107,
-    "home_score": 0.756,
+    "freshness_score": 0.7022364277384313,
+    "home_score": 0.7315,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": null,
       "venue": "Suntec Singapore",
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "245126858834f57933da4c51822752c604f210ba",
+    "title": "Vitality\u2019s win-streak mission continues at IEM Atlanta 2026: CS2 tournament results",
+    "url": "https://esports.gg/news/counter-strike-2/iem-atlanta-2026-details-results/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-10T10:13:50Z",
+    "summary": "Many people in the Counter-Strike 2 (CS2) community expect this esports event to be a celebration of power for Team Vitality \u2014 and their sixth tournament win in a row",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9730912253069106,
+    "home_score": 0.7219,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
       "ticket_status": null,
       "ticket_url": null,
       "guest_status": null,
@@ -350,8 +491,8 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.9663751779692931,
-    "home_score": 0.7489,
+    "freshness_score": 0.8967424777039513,
+    "home_score": 0.7175,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -381,10 +522,38 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.9661999625097504,
-    "home_score": 0.7488,
+    "freshness_score": 0.8965798877165142,
+    "home_score": 0.7175,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c7bc0ba69571e7a9f3a9f3dc9efd4322c9486c97",
+    "title": "Wistoria: Wand and Sword Season 2 Anime Releases New Trailer",
+    "url": "https://crunchyroll.com/news/latest/2026/5/10/wistoria-wand-and-sword-season-2-anime-new-arc-trailer",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-10T08:33:00Z",
+    "summary": "Crunchyroll is simulcasting the sequel series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9506413407242411,
+    "home_score": 0.7163,
+    "source_quality": 0.79,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -412,8 +581,8 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.9658309970460603,
-    "home_score": 0.7366,
+    "freshness_score": 0.8962375084854762,
+    "home_score": 0.7053,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -439,11 +608,46 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.746039668206904,
-    "home_score": 0.7252,
+    "freshness_score": 0.6922833879252459,
+    "home_score": 0.701,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f6da9bb4ca247a52d1cc6cfc0a304ba1a31300a4",
+    "title": "Crunchyroll Hits 21 Million Subscribers Worldwide",
+    "url": "https://animehunch.com/crunchyroll-hits-21-million-subscribers-worldwide/",
+    "source_name": "Anime Hunch",
+    "source_type": "rss",
+    "published_at": "2026-05-10T07:58:20Z",
+    "summary": "Crunchyroll has surpassed 21 million monthly paid subscribers worldwide, marking another major milestone for the anime streamer as global demand for anime content continues to grow",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9430431934909722,
+    "home_score": 0.6914,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 8, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -469,8 +673,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7739887879259068,
-    "home_score": 0.7138,
+    "freshness_score": 0.7182186090100295,
+    "home_score": 0.6887,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -499,8 +703,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.766825715002669,
-    "home_score": 0.7106,
+    "freshness_score": 0.7115716728000032,
+    "home_score": 0.6857,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -538,53 +742,12 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7561526982915855,
-    "home_score": 0.7058,
+    "freshness_score": 0.7016677086358132,
+    "home_score": 0.6813,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
       "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "8d995f41b6bd95e9c266af707c402c4b93c82562",
-    "title": "NIJISANJI and NIJISANJI EN to exhibit at \u201cAnime Festival Asia Thailand 2026\u201d, with appearances by units \u201c3SKM\u201d and \u201cBY THE BEAT\u201d - ANYCOLOR\u682a\u5f0f\u4f1a\u793e",
-    "url": "https://www.anycolor.co.jp/en/news/860xd6nwu",
-    "source_name": "Google News SG Events",
-    "source_type": "rss",
-    "published_at": "2026-05-08T05:28:26Z",
-    "summary": "NIJISANJI and NIJISANJI EN to exhibit at \u201cAnime Festival Asia Thailand 2026\u201d, with appearances by units \u201c3SKM\u201d and \u201cBY THE BEAT\u201d ANYCOLOR\u682a\u5f0f\u4f1a\u793e",
-    "content": "",
-    "categories": [
-      "events",
-      "merch",
-      "esports",
-      "anime"
-    ],
-    "tags": [
-      "afa"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.8300000000000001,
-    "freshness_score": 0.5039764776051784,
-    "home_score": 0.6953,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
       "date_label": null,
       "venue": null,
       "ticket_status": null,
@@ -613,8 +776,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9447763274484852,
-    "home_score": 0.6951,
+    "freshness_score": 0.876699891263045,
+    "home_score": 0.6645,
     "source_quality": 0.8,
     "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast812.mp3",
     "event_metadata": null,
@@ -640,8 +803,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8979917674815225,
-    "home_score": 0.6911,
+    "freshness_score": 0.833286477278612,
+    "home_score": 0.662,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -665,8 +828,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9798682547665967,
-    "home_score": 0.6884,
+    "freshness_score": 0.9092632465107916,
+    "home_score": 0.6567,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -702,8 +865,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8451880643370548,
-    "home_score": 0.6688,
+    "freshness_score": 0.7842875613412023,
+    "home_score": 0.6414,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -729,34 +892,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.837010672445461,
-    "home_score": 0.6637,
+    "freshness_score": 0.7766994092493184,
+    "home_score": 0.6365,
     "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c73c936f3d1029f3d373b2ffd1b4c38aedafe748",
-    "title": "5 Best Video Games Like Final Fantasy - svg.com",
-    "url": "https://www.svg.com/2166875/best-video-games-like-final-fantasy/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-10T01:00:00Z",
-    "summary": "5 Best Video Games Like Final Fantasy svg",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9224737318237792,
-    "home_score": 0.6551,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -781,163 +919,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8487173208179337,
-    "home_score": 0.6549,
+    "freshness_score": 0.7875624581318683,
+    "home_score": 0.6274,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "8cd3bfd2b4fa4964c462bc57796ce795d4fcfd81",
-    "title": "Most Ambitious Xbox RPGs",
-    "url": "https://www.dualshockers.com/most-ambitious-xbox-rpgs/",
-    "source_name": "DualShockers",
+    "id": "c73c936f3d1029f3d373b2ffd1b4c38aedafe748",
+    "title": "5 Best Video Games Like Final Fantasy - svg.com",
+    "url": "https://www.svg.com/2166875/best-video-games-like-final-fantasy/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-09T19:57:57Z",
-    "summary": "These original Xbox role-playing games were ambitious for their gameplay and narrative innovations and risk bringing PC series to home consoles",
+    "published_at": "2026-05-10T01:00:00Z",
+    "summary": "5 Best Video Games Like Final Fantasy svg",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
+      "games"
     ],
     "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8601787119977927,
-    "home_score": 0.6496,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/10-most-ambitious-xbox-rpgs.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3af8f7bbb4efeefd696300097a4d01c4de0332b2",
-    "title": "Acky Bright, VIZ Media Collaborate with MLB Players, Inc. & OneTeam Partners on GalaXic Baseball League Original Manga",
-    "url": "https://anitrendz.net/news/2026/05/09/acky-bright-viz-media-collaborate-with-mlb-players-inc-oneteam-partners-on-galaxic-baseball-league-original-manga/?utm_source=rss&utm_medium=rss&utm_campaign=acky-bright-viz-media-collaborate-with-mlb-players-inc-oneteam-partners-on-galaxic-baseball-league-original-manga",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-09T18:54:24Z",
-    "summary": "VIZ Media and artist/illustrator Acky Bright are collaborating with MLB Players, Inc",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "merch"
+    "entity_tags": [
+      "Final Fantasy"
     ],
-    "tags": [],
-    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8476174529661197,
-    "home_score": 0.6484,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "da562736a1783563849a0500605967c6135c92ac",
-    "title": "Akane-banashi Spotlights \u201cKaraku Cup Arc\u201d in New Visual & Trailer",
-    "url": "https://anitrendz.net/news/2026/05/09/akane-banashi-spotlights-karaku-cup-arc-in-new-visual-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=akane-banashi-spotlights-karaku-cup-arc-in-new-visual-trailer",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-09T18:14:27Z",
-    "summary": "A new visual and trailer have been unveiled for the ongoing Akane-Banashi TV anime series, spotlighting the central characters in the \u201cKaraku Cup Arc\u201d storyline",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8398150847959166,
-    "home_score": 0.6449,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4303f2a30ccfb49ee032a5fe58320ebc9e4d7ce0",
-    "title": "Daemons of the Shadow Realm Anime Adds Shinichiro Miki as Ivan Yosano",
-    "url": "https://crunchyroll.com/news/latest/2026/5/9/daemons-of-the-shadow-realm-anime-ivan-yosano-cast-shinichiro-miki",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-09T17:33:00Z",
-    "summary": "Daemons of the Shadow Realm Anime Adds Shinichiro Miki as Ivan Yosano",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8317957689494303,
-    "home_score": 0.6428,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "45aa5b21b7a5121eb56ac2bb95043fa8e6d6e268",
-    "title": "Moyoco Anno\u2019s Memoirs of Amorous Gentlemen Off-Broadway Musical Debuts in Fall 2026",
-    "url": "https://anitrendz.net/news/2026/05/09/moyoco-annos-memoirs-of-amorous-gentlemen-off-broadway-musical-debuts-in-fall-2026/?utm_source=rss&utm_medium=rss&utm_campaign=moyoco-annos-memoirs-of-amorous-gentlemen-off-broadway-musical-debuts-in-fall-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-09T17:42:50Z",
-    "summary": "An off-Broadway musical adaptation of Moyoco Anno\u2019s Memoirs of Amorous Gentlemen manga is scheduled to debut in the U",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8336911864519325,
-    "home_score": 0.6422,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "79e87e938b88bcff83ee8a4a030a8865ce47805a",
-    "title": "Akane-banashi Anime Kicks off the Karaku Cup Arc in New Trailer, Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/5/9/akane-banashi-anime-karaku-cup-arc-new-trailer-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-09T17:15:00Z",
-    "summary": "The new trailer showcases Karashi Nerimaya and Hikaru Koragi",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8283371629450677,
-    "home_score": 0.6413,
-    "source_quality": 0.79,
+    "freshness_score": 0.8560043985607964,
+    "home_score": 0.6252,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -968,9 +977,163 @@
       "SEA"
     ],
     "sg_relevance": 0.51,
-    "freshness_score": 0.5665857102396932,
-    "home_score": 0.6405,
+    "freshness_score": 0.525760073955967,
+    "home_score": 0.6221,
     "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8cd3bfd2b4fa4964c462bc57796ce795d4fcfd81",
+    "title": "Most Ambitious Xbox RPGs",
+    "url": "https://www.dualshockers.com/most-ambitious-xbox-rpgs/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-09T19:57:57Z",
+    "summary": "These original Xbox role-playing games were ambitious for their gameplay and narrative innovations and risk bringing PC series to home consoles",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7981980513302873,
+    "home_score": 0.6217,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/04/10-most-ambitious-xbox-rpgs.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3af8f7bbb4efeefd696300097a4d01c4de0332b2",
+    "title": "Acky Bright, VIZ Media Collaborate with MLB Players, Inc. & OneTeam Partners on GalaXic Baseball League Original Manga",
+    "url": "https://anitrendz.net/news/2026/05/09/acky-bright-viz-media-collaborate-with-mlb-players-inc-oneteam-partners-on-galaxic-baseball-league-original-manga/?utm_source=rss&utm_medium=rss&utm_campaign=acky-bright-viz-media-collaborate-with-mlb-players-inc-oneteam-partners-on-galaxic-baseball-league-original-manga",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-09T18:54:24Z",
+    "summary": "VIZ Media and artist/illustrator Acky Bright are collaborating with MLB Players, Inc",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7865419119041505,
+    "home_score": 0.6209,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "da562736a1783563849a0500605967c6135c92ac",
+    "title": "Akane-banashi Spotlights \u201cKaraku Cup Arc\u201d in New Visual & Trailer",
+    "url": "https://anitrendz.net/news/2026/05/09/akane-banashi-spotlights-karaku-cup-arc-in-new-visual-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=akane-banashi-spotlights-karaku-cup-arc-in-new-visual-trailer",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-09T18:14:27Z",
+    "summary": "A new visual and trailer have been unveiled for the ongoing Akane-Banashi TV anime series, spotlighting the central characters in the \u201cKaraku Cup Arc\u201d storyline",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7793017478948189,
+    "home_score": 0.6177,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4303f2a30ccfb49ee032a5fe58320ebc9e4d7ce0",
+    "title": "Daemons of the Shadow Realm Anime Adds Shinichiro Miki as Ivan Yosano",
+    "url": "https://crunchyroll.com/news/latest/2026/5/9/daemons-of-the-shadow-realm-anime-ivan-yosano-cast-shinichiro-miki",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-09T17:33:00Z",
+    "summary": "Daemons of the Shadow Realm Anime Adds Shinichiro Miki as Ivan Yosano",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7718602554962387,
+    "home_score": 0.6158,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "45aa5b21b7a5121eb56ac2bb95043fa8e6d6e268",
+    "title": "Moyoco Anno\u2019s Memoirs of Amorous Gentlemen Off-Broadway Musical Debuts in Fall 2026",
+    "url": "https://anitrendz.net/news/2026/05/09/moyoco-annos-memoirs-of-amorous-gentlemen-off-broadway-musical-debuts-in-fall-2026/?utm_source=rss&utm_medium=rss&utm_campaign=moyoco-annos-memoirs-of-amorous-gentlemen-off-broadway-musical-debuts-in-fall-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-09T17:42:50Z",
+    "summary": "An off-Broadway musical adaptation of Moyoco Anno\u2019s Memoirs of Amorous Gentlemen manga is scheduled to debut in the U",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7736191108490842,
+    "home_score": 0.6151,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "79e87e938b88bcff83ee8a4a030a8865ce47805a",
+    "title": "Akane-banashi Anime Kicks off the Karaku Cup Arc in New Trailer, Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/9/akane-banashi-anime-karaku-cup-arc-new-trailer-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-09T17:15:00Z",
+    "summary": "The new trailer showcases Karashi Nerimaya and Hikaru Koragi",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7686508614205434,
+    "home_score": 0.6144,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -994,103 +1157,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8142628880737582,
-    "home_score": 0.6394,
+    "freshness_score": 0.7555906615517138,
+    "home_score": 0.613,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f30fc8aab3681167b30dd4d3a5fa8f62690dfb77",
-    "title": "Episode 440: Dayseeker \u2013 Q&A Quest",
-    "url": "https://rpgamer.com/2026/05/episode-440-dayseeker-qa-quest/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-09T16:13:13Z",
-    "summary": "This week in Q&A Quest, we discuss the continued year of Capcom",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8165749718741172,
-    "home_score": 0.6375,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7192160189adc81af3080a7be8567fffa9bab1ec",
-    "title": "8 PS1 JRPGs Where the Villain Feels Like the Star",
-    "url": "https://www.dualshockers.com/ps1-jrpgs-where-the-villain-feels-more-compelling-than-the-hero/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-09T20:30:13Z",
-    "summary": "The bad guys of the 1990s were absolutely unmatched",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8666275582315932,
-    "home_score": 0.6345,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/ps1-jrpgs-where-the-villain-feels-more-compelling-than-the-hero.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f75ac073d6fd535c64118e693c41880e969b4979",
-    "title": "Persona Super Live 2017 Concert VOD Posted on Atlus Game Music Channel",
-    "url": "https://noisypixel.net/persona-super-live-2017-concert-vod-youtube/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-09T16:08:17Z",
-    "summary": "The official Atlus Game Music YouTube channel has posted a VOD of the Persona Super Live P-Sound Bomb !!!! 2017 \u2013 Witness the Crime at the Harbor concert, held at the Yokohama Aren",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.815643016920064,
-    "home_score": 0.634,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": "August 2, 2027",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1120,8 +1191,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.5135828403843311,
-    "home_score": 0.6266,
+    "freshness_score": 0.4765763059568043,
+    "home_score": 0.61,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C390%2C1040%2C520%5D/resize=w:1920/pjpg=q:90/compress/oOTd5aP2RY2sPgi7MZM9",
     "event_metadata": {
@@ -1134,6 +1205,101 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "cc92e8ab1b14f7c26183e010c2dbf1ef810e069f",
+    "title": "Sea Trials Begin for Turkish LHD \u201cTCG Anadolu\u201d - Puente de Mando",
+    "url": "https://www.puentedemando.com/en/turkish-lhd-tcg-anadolu-sea-trials/",
+    "source_name": "Google News SEA TCG",
+    "source_type": "rss",
+    "published_at": "2026-05-08T13:21:31Z",
+    "summary": "Sea Trials Begin for Turkish LHD \u201cTCG Anadolu\u201d Puente de Mando",
+    "content": "",
+    "categories": [
+      "games",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.5217852743266228,
+    "home_score": 0.6078,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f75ac073d6fd535c64118e693c41880e969b4979",
+    "title": "Persona Super Live 2017 Concert VOD Posted on Atlus Game Music Channel",
+    "url": "https://noisypixel.net/persona-super-live-2017-concert-vod-youtube/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-09T16:08:17Z",
+    "summary": "The official Atlus Game Music YouTube channel has posted a VOD of the Persona Super Live P-Sound Bomb !!!! 2017 \u2013 Witness the Crime at the Harbor concert, held at the Yokohama Aren",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7568713578740033,
+    "home_score": 0.6076,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": "August 2, 2027",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7192160189adc81af3080a7be8567fffa9bab1ec",
+    "title": "8 PS1 JRPGs Where the Villain Feels Like the Star",
+    "url": "https://www.dualshockers.com/ps1-jrpgs-where-the-villain-feels-more-compelling-than-the-hero/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-09T20:30:13Z",
+    "summary": "The bad guys of the 1990s were absolutely unmatched",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8041822221681768,
+    "home_score": 0.6064,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/ps1-jrpgs-where-the-villain-feels-more-compelling-than-the-hero.jpg",
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1155,8 +1321,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7808576278551785,
-    "home_score": 0.6244,
+    "freshness_score": 0.7245924386066611,
+    "home_score": 0.5991,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1182,8 +1348,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7511401568882022,
-    "home_score": 0.622,
+    "freshness_score": 0.697016336139808,
+    "home_score": 0.5977,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -1210,8 +1376,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7774786756197533,
-    "home_score": 0.6199,
+    "freshness_score": 0.7214569804564107,
+    "home_score": 0.5947,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1235,51 +1401,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8070226946118272,
-    "home_score": 0.6167,
+    "freshness_score": 0.7488721769240536,
+    "home_score": 0.5905,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "March 31, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "7db29f82f463aeddd6db4922940919ac2c21602b",
-    "title": "Next Dragon Quest and more to be announced this month",
-    "url": "https://nintendoeverything.com/next-dragon-quest-and-more-to-be-announced-this-month/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-05-09T14:04:27Z",
-    "summary": "Big Dragon Quest news is on the way including the announcement of the series\u2019 next game",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Dragon Quest"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7925944233481789,
-    "home_score": 0.6042,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 27, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1311,11 +1439,49 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5078861916046188,
-    "home_score": 0.5985,
+    "freshness_score": 0.4712901707166033,
+    "home_score": 0.5821,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7db29f82f463aeddd6db4922940919ac2c21602b",
+    "title": "Next Dragon Quest and more to be announced this month",
+    "url": "https://nintendoeverything.com/next-dragon-quest-and-more-to-be-announced-this-month/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-09T14:04:27Z",
+    "summary": "Big Dragon Quest news is on the way including the announcement of the series\u2019 next game",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7354835461592256,
+    "home_score": 0.5785,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 27, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1336,8 +1502,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7892010407730722,
-    "home_score": 0.5951,
+    "freshness_score": 0.7323347417451943,
+    "home_score": 0.5696,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1362,8 +1528,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7055872892064766,
-    "home_score": 0.5845,
+    "freshness_score": 0.6547458103688086,
+    "home_score": 0.5616,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1397,8 +1563,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6896015609794324,
-    "home_score": 0.5803,
+    "freshness_score": 0.6399119283969149,
+    "home_score": 0.558,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1426,8 +1592,8 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.6035719771077517,
-    "home_score": 0.5771,
+    "freshness_score": 0.5600812691677404,
+    "home_score": 0.5575,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -1461,8 +1627,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6831431319760582,
-    "home_score": 0.5744,
+    "freshness_score": 0.633918833757831,
+    "home_score": 0.5523,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1475,32 +1641,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "23a3ab251ca42415f1b837f21cf67b91e3370913",
-    "title": "Majiko Shares The Food Diary of Miss Maid Anime Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/5/9/the-food-diary-of-miss-maid-anime-opening-song-music-video-majiko",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-09T01:51:00Z",
-    "summary": "Nogizaka46 member Aruno Nakanishi shows off her drumming performance in the video",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6688309805379099,
-    "home_score": 0.5695,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1526,9 +1666,35 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4679253284513538,
-    "home_score": 0.5656,
+    "freshness_score": 0.4342087354692692,
+    "home_score": 0.5504,
     "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "23a3ab251ca42415f1b837f21cf67b91e3370913",
+    "title": "Majiko Shares The Food Diary of Miss Maid Anime Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/5/9/the-food-diary-of-miss-maid-anime-opening-song-music-video-majiko",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-09T01:51:00Z",
+    "summary": "Nogizaka46 member Aruno Nakanishi shows off her drumming performance in the video",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6206379870974811,
+    "home_score": 0.5478,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1553,8 +1719,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6013593958090621,
-    "home_score": 0.5606,
+    "freshness_score": 0.5580280837809288,
+    "home_score": 0.5411,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1589,8 +1755,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6012339467792649,
-    "home_score": 0.5561,
+    "freshness_score": 0.5579117085619508,
+    "home_score": 0.5366,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -1618,8 +1784,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.616637743452848,
-    "home_score": 0.5505,
+    "freshness_score": 0.5722055218350119,
+    "home_score": 0.5305,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1645,8 +1811,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6206281581635952,
-    "home_score": 0.5493,
+    "freshness_score": 0.5759084222869111,
+    "home_score": 0.5292,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1679,8 +1845,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6205946347208705,
-    "home_score": 0.5493,
+    "freshness_score": 0.5758773147026517,
+    "home_score": 0.5291,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1716,155 +1882,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6205659015934907,
-    "home_score": 0.5493,
+    "freshness_score": 0.5758506522890886,
+    "home_score": 0.5291,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
       "event_type": "festival",
       "date_label": "May 20",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "d331afbea9acf79b371cf4ae6cafb8073d014ad4",
-    "title": "Before Devil May Cry Season 2, Let\u2019s Revisit Madhouse\u2019s 2007 Anime Series",
-    "url": "https://crunchyroll.com/news/features/2026/5/8/devil-may-cry-2007-anime-retrospective",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-08T15:00:00Z",
-    "summary": "Before Devil May Cry Season 2, Let\u2019s Revisit Madhouse\u2019s 2007 Anime Series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.5752685278542253,
-    "home_score": 0.5474,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "be4f98cab41e9005447f6a02333d5c14248033ff",
-    "title": "2026 Spring Anime Three-Episode Check-In",
-    "url": "https://www.animefeminist.com/2026-spring-anime-three-episode-check-in/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-05-08T17:00:00Z",
-    "summary": "Two of the team's favorite series are receiving excellent adaptations this season, and there's more solid shojosei on the docket",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.5914722135643631,
-    "home_score": 0.5472,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "569ea1126db56b891f0abd7db29bed827d5a6bbe",
-    "title": "Gallanza and Maglielle Will Be Playable in Granblue Fantasy Relink: Endless Ragnarok",
-    "url": "https://www.siliconera.com/gallanza-and-maglielle-will-be-playable-in-granblue-fantasy-relink-endless-ragnarok/?utm_source=rss&utm_medium=rss&utm_campaign=gallanza-and-maglielle-will-be-playable-in-granblue-fantasy-relink-endless-ragnarok",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-08T19:00:00Z",
-    "summary": "The latest Granblue Fantasy Relink: Endless Ragnarok character reveals confirmed bosses Gallanza and Maglielle will be playable",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6081325301264013,
-    "home_score": 0.5467,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ddb2c32aca521840b3a7fc201ce9c14aeacf1281",
-    "title": "Star Fox Switch 2 Soundtrack Songs Already on Nintendo Music",
-    "url": "https://www.siliconera.com/star-fox-switch-2-soundtrack-songs-already-on-nintendo-music/?utm_source=rss&utm_medium=rss&utm_campaign=star-fox-switch-2-soundtrack-songs-already-on-nintendo-music",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-08T18:00:00Z",
-    "summary": "If you can access the Nintendo Music app, you can hear an early preview of some songs from the Switch 2 Star Fox remake soundtrack",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5997446281623326,
-    "home_score": 0.5429,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "72f5b3c31c4918f5cf7a6e25d6eb6ffbbde9a2d6",
-    "title": "Zero Parades: For Dead Spies Trailer Shows Gameplay Mechanics",
-    "url": "https://rpgamer.com/2026/05/zero-parades-for-dead-spies-trailer-shows-gameplay-mechanics/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-08T18:12:00Z",
-    "summary": "Developer ZA/UM released a new trailer for narrative espionage RPG Zero Parades: For Dead Spies ahead of its launch later this month",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6014127632087907,
-    "home_score": 0.5406,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 21, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
