@@ -22,8 +22,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.8754679252460654,
-    "home_score": 0.8095,
+    "freshness_score": 0.8054221980197914,
+    "home_score": 0.7779,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -61,8 +61,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.8056496335850404,
-    "home_score": 0.778,
+    "freshness_score": 0.7411900317614118,
+    "home_score": 0.749,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -83,7 +83,7 @@
     "url": "https://tribune.com.pk/story/2607316/yuji-itadori-cosplayer-detained-after-alleged-attack-on-amos-yee-at-singapore-anime-convention",
     "source_name": "Google News SG ACG",
     "source_type": "rss",
-    "published_at": "2026-05-10T10:49:23Z",
+    "published_at": "2026-05-10T10:54:22Z",
     "summary": "Yuji Itadori cosplayer detained after alleged attack on Amos Yee at Singapore anime convention The Express Tribune",
     "content": "",
     "categories": [
@@ -100,8 +100,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9021646992225797,
-    "home_score": 0.7715,
+    "freshness_score": 0.8309409568181477,
+    "home_score": 0.7394,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -139,13 +139,50 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8542380446972477,
-    "home_score": 0.7499,
+    "freshness_score": 0.7858909100418342,
+    "home_score": 0.7192,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
       "event_type": "convention",
       "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9310d631976fde751b0bb5eb2df927c54e91971e",
+    "title": "All teams qualified for the VALORANT Masters London 2026",
+    "url": "https://esports.gg/news/valorant/teams-qualified-valorant-masters-london-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-10T19:47:11Z",
+    "summary": "Here are all the teams that have qualified for VALORANT Masters London 2026, set to take place from June 6 to June 21",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.940015206185047,
+    "home_score": 0.715,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 6",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -175,8 +212,101 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.855454967049582,
-    "home_score": 0.7445,
+    "freshness_score": 0.7870104678083816,
+    "home_score": 0.7137,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1da1d7a3e1fc56040a61e3b1a65bf0fb64384a82",
+    "title": "Indonesia Crowned Overall Champion at 2026 SEA Esports Nations Cup - Tempo.co English",
+    "url": "https://en.tempo.co/read/2102854/indonesia-crowned-overall-champion-at-2026-sea-esports-nations-cup",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-05-10T05:00:38Z",
+    "summary": "Indonesia Crowned Overall Champion at 2026 SEA Esports Nations Cup Tempo",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7656123445258366,
+    "home_score": 0.704,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "50c4b530b6a9c4f252ed8c1867ae17868a22b371",
+    "title": "Amos Yee says attack \u2018unjust\u2019 after scuffle at Suntec City anime convention, 18-year-old arrested - mustsharenews.com",
+    "url": "https://mustsharenews.com/amos-yee-attack-anime-convention-suntec/",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2026-05-09T13:12:25Z",
+    "summary": "Amos Yee says attack \u2018unjust\u2019 after scuffle at Suntec City anime convention, 18-year-old arrested mustsharenews",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.63,
+    "freshness_score": 0.6147288725819501,
+    "home_score": 0.7026,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e0bf32ded9e2e4fe387480fce656162988830112",
+    "title": "Indonesia wins first SEA Esports Nations Cup, Vietnam finishes runner-up - VnExpress International",
+    "url": "https://e.vnexpress.net/news/sports/indonesia-wins-first-sea-esports-nations-cup-vietnam-finishes-runner-up-5070617.html",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-05-10T04:41:49Z",
+    "summary": "Indonesia wins first SEA Esports Nations Cup, Vietnam finishes runner-up VnExpress International",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7622848088854062,
+    "home_score": 0.7025,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -203,65 +333,50 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9932723201697125,
-    "home_score": 0.7355,
+    "freshness_score": 0.9138011217955603,
+    "home_score": 0.6997,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "1da1d7a3e1fc56040a61e3b1a65bf0fb64384a82",
-    "title": "Indonesia Crowned Overall Champion at 2026 SEA Esports Nations Cup - Tempo.co English",
-    "url": "https://en.tempo.co/read/2102854/indonesia-crowned-overall-champion-at-2026-sea-esports-nations-cup",
-    "source_name": "Google News SEA Esports",
+    "id": "78360971614fc4733f540370e3a88a53b7cf0b43",
+    "title": "Teen arrested after allegedly attacking Amos Yee near Suntec Singapore anime convention - The Straits Times",
+    "url": "https://www.straitstimes.com/singapore/teen-arrested-after-allegedly-attacking-amos-yee-near-suntec-singapore-anime-convention?ref=latest",
+    "source_name": "Google News Anime Conventions",
     "source_type": "rss",
-    "published_at": "2026-05-10T05:00:38Z",
-    "summary": "Indonesia Crowned Overall Champion at 2026 SEA Esports Nations Cup Tempo",
+    "published_at": "2026-05-09T10:43:00Z",
+    "summary": "Teen arrested after allegedly attacking Amos Yee near Suntec Singapore anime convention The Straits Times",
     "content": "",
     "categories": [
-      "esports",
-      "games"
+      "events",
+      "anime",
+      "merch"
     ],
-    "tags": [],
+    "tags": [
+      "singapore"
+    ],
     "entity_tags": [],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8321958979149416,
-    "home_score": 0.734,
-    "source_quality": 0.76,
+    "sg_relevance": 0.63,
+    "freshness_score": 0.5938306156861575,
+    "home_score": 0.6932,
+    "source_quality": 0.79,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e0bf32ded9e2e4fe387480fce656162988830112",
-    "title": "Indonesia wins first SEA Esports Nations Cup, Vietnam finishes runner-up - VnExpress International",
-    "url": "https://e.vnexpress.net/news/sports/indonesia-wins-first-sea-esports-nations-cup-vietnam-finishes-runner-up-5070617.html",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-05-10T04:41:49Z",
-    "summary": "Indonesia wins first SEA Esports Nations Cup, Vietnam finishes runner-up VnExpress International",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8285789748858079,
-    "home_score": 0.7324,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": "Suntec Singapore",
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -285,8 +400,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9784389977843554,
-    "home_score": 0.7273,
+    "freshness_score": 0.9001546059880294,
+    "home_score": 0.6921,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -300,45 +415,6 @@
         "the titular Mashle",
         "was revealed last December"
       ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "50c4b530b6a9c4f252ed8c1867ae17868a22b371",
-    "title": "Amos Yee says attack \u2018unjust\u2019 after scuffle at Suntec City anime convention, 18-year-old arrested - mustsharenews.com",
-    "url": "https://mustsharenews.com/amos-yee-attack-anime-convention-suntec/",
-    "source_name": "Google News Anime Conventions",
-    "source_type": "rss",
-    "published_at": "2026-05-09T13:12:25Z",
-    "summary": "Amos Yee says attack \u2018unjust\u2019 after scuffle at Suntec City anime convention, 18-year-old arrested mustsharenews",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.63,
-    "freshness_score": 0.6681904358558503,
-    "home_score": 0.7267,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
       "merch_status": null
     },
     "result_type": "article"
@@ -366,8 +442,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.6529032154135938,
-    "home_score": 0.7153,
+    "freshness_score": 0.6006647734821583,
+    "home_score": 0.6918,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -383,42 +459,30 @@
     "result_type": "article"
   },
   {
-    "id": "67d0792a420d0524910dac2ffe72ff1e5d371344",
-    "title": "RPGamer Round-Up: May 3 \u2013 May 10",
-    "url": "https://rpgamer.com/2026/05/rpgamer-round-up-may-3-may-10-2/",
-    "source_name": "RPGamer",
+    "id": "f98192fb8540c7ee1b9c6fffd498210b86bc5172",
+    "title": "Volume 3 of the Alya Sometimes Hides Her Feelings in Russian Manga Deals With Envy",
+    "url": "https://www.siliconera.com/volume-3-of-the-alya-sometimes-hides-her-feelings-in-russian-manga-deals-with-envy/?utm_source=rss&utm_medium=rss&utm_campaign=volume-3-of-the-alya-sometimes-hides-her-feelings-in-russian-manga-deals-with-envy",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-05-10T13:26:03Z",
-    "summary": "Welcome to the latest edition of RPGamer's round-up column, where we look back at some of the articles that we have posted over the intervening period",
+    "published_at": "2026-05-10T19:00:00Z",
+    "summary": "Envy and jealously aren\u2019t necessary bad things, and we see how they come up in the Alya Sometimes Hides Her Feelings in Russian manga",
     "content": "",
     "categories": [
       "games",
       "anime",
+      "merch",
       "events",
-      "gacha"
+      "manga"
     ],
-    "tags": [
-      "hoyoverse"
-    ],
+    "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9354829038831188,
-    "home_score": 0.711,
-    "source_quality": 0.8,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9298045615837641,
+    "home_score": 0.6914,
+    "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 3",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -444,8 +508,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.6540983621797625,
-    "home_score": 0.7098,
+    "freshness_score": 0.6017642959670215,
+    "home_score": 0.6863,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -483,8 +547,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.6420919097891691,
-    "home_score": 0.7089,
+    "freshness_score": 0.5907184759291354,
+    "home_score": 0.6858,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -497,6 +561,58 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "4c1743e24c9c874a4e7943ad0e00bb9a8f2bf2f2",
+    "title": "Final Fantasy TCG Celebrates 10 Years With New \"Memories of Life\" Booster Set - Essential Japan",
+    "url": "https://essential-japan.com/news/final-fantasy-tcg-celebrates-10-years-with-new-memories-of-life-booster-set/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-10T23:27:25Z",
+    "summary": "Final Fantasy TCG Celebrates 10 Years With New \"Memories of Life\" Booster Set Essential Japan",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9891795202853766,
+    "home_score": 0.6851,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "47821f35b1ac96a4c5eb3b5a3a21863774d6c373",
+    "title": "10 Little-Known PS2 JRPGs from Big Developers",
+    "url": "https://www.dualshockers.com/little-known-ps2-jrpgs-from-famous-developers/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-10T22:30:13Z",
+    "summary": "If you want to check out some weird older titles, here are 10 little known PS2 JRPGs from big developers",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9761686047496277,
+    "home_score": 0.6838,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/05/img_4386.jpeg",
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -522,8 +638,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.6457163827588767,
-    "home_score": 0.7061,
+    "freshness_score": 0.5940529560839827,
+    "home_score": 0.6828,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -536,6 +652,96 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "39b1963a2598fe2c6135f3a0dcb3cf10f6a189d4",
+    "title": "Hong Jinkyung's Light-Eating Persona Stuns Viewers on 'Sora and Jinkyung' - \uc870\uc120\uc77c\ubcf4",
+    "url": "https://www.chosun.com/english/kpop-culture-en/2026/05/11/3W33S7E6KVD77MOJPYVOGDZWSU/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-10T22:35:43Z",
+    "summary": "Hong Jinkyung's Light-Eating Persona Stuns Viewers on 'Sora and Jinkyung' \uc870\uc120\uc77c\ubcf4",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.97741198693676,
+    "home_score": 0.6798,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "67d0792a420d0524910dac2ffe72ff1e5d371344",
+    "title": "RPGamer Round-Up: May 3 \u2013 May 10",
+    "url": "https://rpgamer.com/2026/05/rpgamer-round-up-may-3-may-10-2/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-10T13:26:03Z",
+    "summary": "Welcome to the latest edition of RPGamer's round-up column, where we look back at some of the articles that we have posted over the intervening period",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8606354002816599,
+    "home_score": 0.6773,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 3",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b9a3c00ee193949e5fe9c6ae5d00ad4272a4522a",
+    "title": "Director Shoji Kawamori on Escaping the Isekai \"Neverland\" in His New Movie Labyrinth",
+    "url": "https://crunchyroll.com/news/interviews/2026/5/10/shoji-kawamori-labyrinth-anime-movie-interview",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-10T16:00:00Z",
+    "summary": "Crunchyroll News speaks with the legacy director on his latest anime film",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8918584219171253,
+    "home_score": 0.6698,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -556,8 +762,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9443926695584346,
-    "home_score": 0.695,
+    "freshness_score": 0.8688323000832539,
+    "home_score": 0.661,
     "source_quality": 0.8,
     "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/qaquest/2026/qaquest440.mp3",
     "event_metadata": null,
@@ -582,8 +788,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9450485923354974,
-    "home_score": 0.6938,
+    "freshness_score": 0.869435748282035,
+    "home_score": 0.6597,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -617,9 +823,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9298590246622626,
-    "home_score": 0.6914,
+    "freshness_score": 0.855461491964817,
+    "home_score": 0.658,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0017a599f481a63366ef726d5c84f8dabc077afe",
+    "title": "Final Fantasy 7 Remake Never Had a Chance at Being One Game - VICE",
+    "url": "https://www.vice.com/en/article/final-fantasy-7-remake-never-had-a-chance-at-being-one-game/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-10T18:47:03Z",
+    "summary": "Final Fantasy 7 Remake Never Had a Chance at Being One Game VICE",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9270209328279916,
+    "home_score": 0.6572,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -643,8 +874,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.929779706830264,
-    "home_score": 0.6904,
+    "freshness_score": 0.8553885178523593,
+    "home_score": 0.6569,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -657,97 +888,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "245126858834f57933da4c51822752c604f210ba",
-    "title": "Vitality\u2019s win-streak mission continues at IEM Atlanta 2026: CS2 tournament results",
-    "url": "https://esports.gg/news/counter-strike-2/iem-atlanta-2026-details-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-10T10:13:50Z",
-    "summary": "Many people in the Counter-Strike 2 (CS2) community expect this esports event to be a celebration of power for Team Vitality \u2014 and their sixth tournament win in a row",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8947712064852555,
-    "home_score": 0.6866,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "aea9287358539ef90a15a9c9cecced5da217c91d",
-    "title": "Street Fighter 6 Tier List: Who to main in SF6 [Post-Evo Japan 2026 edition]",
-    "url": "https://esports.gg/opinion/street-fighter-6/sf6-tier-list-competitive-casual/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-10T12:14:19Z",
-    "summary": "The best SF6 characters give players the most powerful tools to win fighting matches",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9200773225195281,
-    "home_score": 0.686,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "74a5d510d2c2913e8a840e173ee9eb81cb86b28d",
-    "title": "Midnight Train New Moon Announced as Full Remake of Indie Horror Adventure for 2027 Release",
-    "url": "https://noisypixel.net/midnight-train-new-moon-remake-pc-steam-announcement/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-10T12:37:19Z",
-    "summary": "Playism has announced that the LydiaBluebell-developed indie horror adventure Midnight Train: New Moon will be released for PC via Steam in 2027",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9249891706756725,
-    "home_score": 0.6852,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -774,8 +914,8 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.8245674479619696,
-    "home_score": 0.6851,
+    "freshness_score": 0.7585942369573763,
+    "home_score": 0.6554,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -805,10 +945,128 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.8244179438278758,
-    "home_score": 0.685,
+    "freshness_score": 0.7584566946265919,
+    "home_score": 0.6553,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "245126858834f57933da4c51822752c604f210ba",
+    "title": "Vitality\u2019s win-streak mission continues at IEM Atlanta 2026: CS2 tournament results",
+    "url": "https://esports.gg/news/counter-strike-2/iem-atlanta-2026-details-results/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-10T10:13:50Z",
+    "summary": "Many people in the Counter-Strike 2 (CS2) community expect this esports event to be a celebration of power for Team Vitality \u2014 and their sixth tournament win in a row",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8231810293892049,
+    "home_score": 0.6544,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "d70e931d2cf3f321101edffc7a61c1b7605e12e4",
+    "title": "Viet Nam to host annual Southeast Asian Esports Nations Cup from 2026 - Nhan Dan Online",
+    "url": "https://en.nhandan.vn/viet-nam-to-host-annual-southeast-asian-esports-nations-cup-from-2026-post161977.html",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-05-09T09:42:57Z",
+    "summary": "Viet Nam to host annual Southeast Asian Esports Nations Cup from 2026 Nhan Dan Online",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.55,
+    "freshness_score": 0.5856332286346164,
+    "home_score": 0.653,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "aea9287358539ef90a15a9c9cecced5da217c91d",
+    "title": "Street Fighter 6 Tier List: Who to main in SF6 [Post-Evo Japan 2026 edition]",
+    "url": "https://esports.gg/opinion/street-fighter-6/sf6-tier-list-competitive-casual/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-10T12:14:19Z",
+    "summary": "The best SF6 characters give players the most powerful tools to win fighting matches",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Street Fighter 6"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.846462416216075,
+    "home_score": 0.6529,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "74a5d510d2c2913e8a840e173ee9eb81cb86b28d",
+    "title": "Midnight Train New Moon Announced as Full Remake of Indie Horror Adventure for 2027 Release",
+    "url": "https://noisypixel.net/midnight-train-new-moon-remake-pc-steam-announcement/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-10T12:37:19Z",
+    "summary": "Playism has announced that the LydiaBluebell-developed indie horror adventure Midnight Train: New Moon will be released for PC via Steam in 2027",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8509812649091983,
+    "home_score": 0.6519,
+    "source_quality": 0.78,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -833,65 +1091,86 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8741282345812443,
-    "home_score": 0.6819,
+    "freshness_score": 0.8041896912655322,
+    "home_score": 0.6504,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "e17ac149ea9e6d6f3b268a5f1f12e16afba90b4f",
-    "title": "Love Persona 5? Here are the 10 must play games for you to pick up next - GamesRadar+",
-    "url": "https://www.gamesradar.com/games-like-persona-5/",
+    "id": "778cf4551fe61f5c9e8e32a474fa3259d189b933",
+    "title": "Final Fantasy: Lost Stranger Officially Releases May 12 - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-lost-stranger-may-12-release/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-10T16:00:00Z",
-    "summary": "Love Persona 5? Here are the 10 must play games for you to pick up next GamesRadar+",
+    "published_at": "2026-05-10T17:00:20Z",
+    "summary": "Final Fantasy: Lost Stranger Officially Releases May 12 ScreenRant",
     "content": "",
     "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9694210866651395,
-    "home_score": 0.6762,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d70e931d2cf3f321101edffc7a61c1b7605e12e4",
-    "title": "Viet Nam to host annual Southeast Asian Esports Nations Cup from 2026 - Nhan Dan Online",
-    "url": "https://en.nhandan.vn/viet-nam-to-host-annual-southeast-asian-esports-nations-cup-from-2026-post161977.html",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-05-09T09:42:57Z",
-    "summary": "Viet Nam to host annual Southeast Asian Esports Nations Cup from 2026 Nhan Dan Online",
-    "content": "",
-    "categories": [
-      "esports",
       "games"
     ],
     "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
+    "entity_tags": [
+      "Final Fantasy"
     ],
-    "sg_relevance": 0.55,
-    "freshness_score": 0.6365644102252908,
-    "home_score": 0.676,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9044013340799625,
+    "home_score": 0.647,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 12",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "a0eba118bd9debde66822c89e38b7309cb4316ae",
+    "title": "NIJISANJI and NIJISANJI EN to exhibit at \u201cAnime Festival Asia Thailand 2026\u201d, with appearances by units \u201c3SKM\u201d and \u201cBY THE BEAT\u201d - \u306b\u3058\u3055\u3093\u3058",
+    "url": "https://www.nijisanji.jp/en/news/860xd6nwu",
+    "source_name": "Google News SG Events",
+    "source_type": "rss",
+    "published_at": "2026-05-08T05:34:27Z",
+    "summary": "NIJISANJI and NIJISANJI EN to exhibit at \u201cAnime Festival Asia Thailand 2026\u201d, with appearances by units \u201c3SKM\u201d and \u201cBY THE BEAT\u201d \u306b\u3058\u3055\u3093\u3058",
+    "content": "",
+    "categories": [
+      "events",
+      "merch",
+      "esports",
+      "anime"
+    ],
+    "tags": [
+      "afa"
+    ],
+    "entity_tags": [
+      "AFA Singapore"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.8300000000000001,
+    "freshness_score": 0.39616757063431673,
+    "home_score": 0.6468,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -918,140 +1197,36 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.8241031209939279,
-    "home_score": 0.6728,
+    "freshness_score": 0.7581670606382982,
+    "home_score": 0.6432,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "04779d7baea527775f774c90058319bc0938d305",
-    "title": "10 PS1 JRPGs That Will Hit You Right in the Nostalgia",
-    "url": "https://www.dualshockers.com/ps1-jrpgs-that-will-hit-you-right-in-the-nostalgia/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-10T14:30:13Z",
-    "summary": "The PS1 library shaped an entire generation of RPG fans",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9494815717163696,
-    "home_score": 0.6718,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/x-27.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "112b32bebd12d875d5878a380d7015a7066272ca",
-    "title": "Idol Manager Virtual Venture Announced as VTuber Agency Management Sequel",
-    "url": "https://noisypixel.net/idol-manager-virtual-venture-vtuber-management-sequel/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-10T13:18:47Z",
-    "summary": "Playism and Glitch Pitch have announced the pop star management simulation game Idol Manager: Virtual Venture, the sequel to the original Idol Manager, set to be released for PC vi",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "idol"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9339106759143259,
-    "home_score": 0.6693,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fcef411a4869a9641634dd3ab6cba4e8301b24d5",
-    "title": "Best PS2 JRPG Villains that are More Interesting Than the Hero",
-    "url": "https://www.dualshockers.com/ps2-jrpgs-where-the-villain-feels-more-compelling-than-the-hero/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-10T13:30:13Z",
-    "summary": "From immortal twins to bored detectives, the PS2 era gave us JRPG villains with real depth",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9363854820878513,
-    "home_score": 0.6659,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/x-30.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "eb7605bcdec42dcef0109a3fb70e8bf37a4a8966",
-    "title": "Magic: The Gathering designer reveals the $1 Final Fantasy Commander that deserves more play - Polygon.com",
-    "url": "https://www.polygon.com/mtg-final-fantasy-best-commanders-venat-heart-of-hydaelyn-underrated/",
+    "id": "e17ac149ea9e6d6f3b268a5f1f12e16afba90b4f",
+    "title": "Love Persona 5? Here are the 10 must play games for you to pick up next - GamesRadar+",
+    "url": "https://www.gamesradar.com/games-like-persona-5/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-10T14:00:18Z",
-    "summary": "Magic: The Gathering designer reveals the $1 Final Fantasy Commander that deserves more play Polygon",
+    "published_at": "2026-05-10T16:00:00Z",
+    "summary": "Love Persona 5? Here are the 10 must play games for you to pick up next GamesRadar+",
     "content": "",
     "categories": [
       "games"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [
-      "Final Fantasy"
+      "Persona"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9429287576135907,
-    "home_score": 0.6643,
+    "freshness_score": 0.8918582192223652,
+    "home_score": 0.6413,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6917c5052961b0c612c78ae19dd213a7c2be8251",
-    "title": "Detective Visual Novel \u2018No Case Should Remain Unsolved\u2019 Coming to PS5 in Summer 2026",
-    "url": "https://noisypixel.net/no-case-should-remain-unsolved-ps5-release-summer-2026/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-10T12:24:20Z",
-    "summary": "Playism has announced that the Somi-developed visual novel No Case Should Remain Unsolved will be released for PlayStation 5 in Summer 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.922213378173893,
-    "home_score": 0.664,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1062,7 +1237,7 @@
     "url": "https://www.nst.com.my/world/world/2026/05/1435896/convicted-sex-offender-beaten-singapore-cosplay-event",
     "source_name": "Google News SG ACG",
     "source_type": "rss",
-    "published_at": "2026-05-09T12:21:50Z",
+    "published_at": "2026-05-09T12:43:17Z",
     "summary": "Convicted sex offender beaten at Singapore cosplay event NST Online",
     "content": "",
     "categories": [
@@ -1079,8 +1254,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6604122252785976,
-    "home_score": 0.6627,
+    "freshness_score": 0.6105972632818762,
+    "home_score": 0.6403,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -1106,10 +1281,37 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.6017902156510443,
-    "home_score": 0.6603,
+    "freshness_score": 0.5536412989656662,
+    "home_score": 0.6386,
     "source_quality": 0.76,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "04779d7baea527775f774c90058319bc0938d305",
+    "title": "10 PS1 JRPGs That Will Hit You Right in the Nostalgia",
+    "url": "https://www.dualshockers.com/ps1-jrpgs-that-will-hit-you-right-in-the-nostalgia/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-10T14:30:13Z",
+    "summary": "The PS1 library shaped an entire generation of RPG fans",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8735140462812709,
+    "home_score": 0.6376,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/x-27.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1136,8 +1338,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6543002746798178,
-    "home_score": 0.6599,
+    "freshness_score": 0.601950055198273,
+    "home_score": 0.6364,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -1153,38 +1355,30 @@
     "result_type": "article"
   },
   {
-    "id": "f6da9bb4ca247a52d1cc6cfc0a304ba1a31300a4",
-    "title": "Crunchyroll Hits 21 Million Subscribers Worldwide",
-    "url": "https://animehunch.com/crunchyroll-hits-21-million-subscribers-worldwide/",
-    "source_name": "Anime Hunch",
+    "id": "112b32bebd12d875d5878a380d7015a7066272ca",
+    "title": "Idol Manager Virtual Venture Announced as VTuber Agency Management Sequel",
+    "url": "https://noisypixel.net/idol-manager-virtual-venture-vtuber-management-sequel/",
+    "source_name": "Noisy Pixel",
     "source_type": "rss",
-    "published_at": "2026-05-10T07:58:20Z",
-    "summary": "Crunchyroll has surpassed 21 million monthly paid subscribers worldwide, marking another major milestone for the anime streamer as global demand for anime content continues to grow",
+    "published_at": "2026-05-10T13:18:47Z",
+    "summary": "Playism and Glitch Pitch have announced the pop star management simulation game Idol Manager: Virtual Venture, the sequel to the original Idol Manager, set to be released for PC vi",
     "content": "",
     "categories": [
+      "games",
       "anime",
-      "manga",
-      "events",
       "merch"
     ],
-    "tags": [],
+    "tags": [
+      "idol"
+    ],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8671416121802892,
-    "home_score": 0.6572,
+    "freshness_score": 0.8591889651384542,
+    "home_score": 0.6356,
     "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 8, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1210,8 +1404,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6451934375276823,
-    "home_score": 0.6558,
+    "freshness_score": 0.5935718514290622,
+    "home_score": 0.6326,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -1227,28 +1421,90 @@
     "result_type": "article"
   },
   {
-    "id": "d3b71ee6d9fbd46199ace069a53748a4dd0afbf2",
-    "title": "RPG Cast \u2013 Episode 812: \u201cRomancing Quark\u201d",
-    "url": "https://rpgamer.com/2026/05/rpg-cast-episode-812-romancing-quark/",
-    "source_name": "RPGamer",
+    "id": "fcef411a4869a9641634dd3ab6cba4e8301b24d5",
+    "title": "Best PS2 JRPG Villains that are More Interesting Than the Hero",
+    "url": "https://www.dualshockers.com/ps2-jrpgs-where-the-villain-feels-more-compelling-than-the-hero/",
+    "source_name": "DualShockers",
     "source_type": "rss",
-    "published_at": "2026-05-10T02:43:12Z",
-    "summary": "Sam advocates for RPGamer Family Feud Night, Matt gets a second Switch 2 to preserve his marriage",
+    "published_at": "2026-05-10T13:30:13Z",
+    "summary": "From immortal twins to bored detectives, the PS2 era gave us JRPG villains with real depth",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "events"
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8614657679116198,
+    "home_score": 0.6322,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/x-30.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6917c5052961b0c612c78ae19dd213a7c2be8251",
+    "title": "Detective Visual Novel \u2018No Case Should Remain Unsolved\u2019 Coming to PS5 in Summer 2026",
+    "url": "https://noisypixel.net/no-case-should-remain-unsolved-ps5-release-summer-2026/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-10T12:24:20Z",
+    "summary": "Playism has announced that the Somi-developed visual novel No Case Should Remain Unsolved will be released for PlayStation 5 in Summer 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8061380363038873,
-    "home_score": 0.6328,
-    "source_quality": 0.8,
-    "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast812.mp3",
+    "freshness_score": 0.8484275621349955,
+    "home_score": 0.6308,
+    "source_quality": 0.78,
+    "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f6da9bb4ca247a52d1cc6cfc0a304ba1a31300a4",
+    "title": "Crunchyroll Hits 21 Million Subscribers Worldwide",
+    "url": "https://animehunch.com/crunchyroll-hits-21-million-subscribers-worldwide/",
+    "source_name": "Anime Hunch",
+    "source_type": "rss",
+    "published_at": "2026-05-10T07:58:20Z",
+    "summary": "Crunchyroll has surpassed 21 million monthly paid subscribers worldwide, marking another major milestone for the anime streamer as global demand for anime content continues to grow",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7977620651739813,
+    "home_score": 0.626,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 8, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1271,10 +1527,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7662187462040961,
-    "home_score": 0.6318,
+    "freshness_score": 0.704913985679555,
+    "home_score": 0.6042,
     "source_quality": 0.78,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d3b71ee6d9fbd46199ace069a53748a4dd0afbf2",
+    "title": "RPG Cast \u2013 Episode 812: \u201cRomancing Quark\u201d",
+    "url": "https://rpgamer.com/2026/05/rpg-cast-episode-812-romancing-quark/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-10T02:43:12Z",
+    "summary": "Sam advocates for RPGamer Family Feud Night, Matt gets a second Switch 2 to preserve his marriage",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7416393489898496,
+    "home_score": 0.6037,
+    "source_quality": 0.8,
+    "image_url": "https://rpgamer.nyc3.cdn.digitaloceanspaces.com/podcasts/rpgcast/rpgcast812.mp3",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1296,8 +1577,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8360805196650868,
-    "home_score": 0.6237,
+    "freshness_score": 0.7691861491098573,
+    "home_score": 0.5936,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -1333,36 +1614,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7211635678568605,
-    "home_score": 0.613,
+    "freshness_score": 0.6634636477960643,
+    "home_score": 0.5871,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "99c3ddec6896e162ab9b0734fcbbd438f2355a32",
-    "title": "Class 1-A Are Pro Heroes in My Hero Academia Special: \u2018More\u2019",
-    "url": "https://anitrendz.net/news/2026/05/09/class-1-a-are-pro-heroes-in-my-hero-academia-special-more/?utm_source=rss&utm_medium=rss&utm_campaign=class-1-a-are-pro-heroes-in-my-hero-academia-special-more",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-09T18:00:00Z",
-    "summary": "Eight years after the events of My Hero Academia Final Season, the extra episode titled \u201cMore\u201d offers a brief but heartwarming glimpse into the lives of Class 1-A as young adults",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7141861327199053,
-    "home_score": 0.6084,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1393,61 +1647,36 @@
       "SEA"
     ],
     "sg_relevance": 0.51,
-    "freshness_score": 0.4834438652020958,
-    "home_score": 0.603,
+    "freshness_score": 0.4447637781694132,
+    "home_score": 0.5856,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "16d862f39c430c1c776061e37c19483171b66896",
-    "title": "The Witch Hat Atelier Anime Adaptation Matches the Manga\u2019s Highs and Lows",
-    "url": "https://www.siliconera.com/the-witch-hat-atelier-anime-adaptation-matches-the-mangas-highs-and-lows/?utm_source=rss&utm_medium=rss&utm_campaign=the-witch-hat-atelier-anime-adaptation-matches-the-mangas-highs-and-lows",
-    "source_name": "Siliconera",
+    "id": "99c3ddec6896e162ab9b0734fcbbd438f2355a32",
+    "title": "Class 1-A Are Pro Heroes in My Hero Academia Special: \u2018More\u2019",
+    "url": "https://anitrendz.net/news/2026/05/09/class-1-a-are-pro-heroes-in-my-hero-academia-special-more/?utm_source=rss&utm_medium=rss&utm_campaign=class-1-a-are-pro-heroes-in-my-hero-academia-special-more",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-09T19:00:00Z",
-    "summary": "It\u2019s that careful balance that makes the Witch Hat Atelier anime feel like it\u2019s perfectly matching the beats, tone, and critical elements of the manga",
+    "published_at": "2026-05-09T18:00:00Z",
+    "summary": "Eight years after the events of My Hero Academia Final Season, the extra episode titled \u201cMore\u201d offers a brief but heartwarming glimpse into the lives of Class 1-A as young adults",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch",
-      "events",
-      "manga"
+      "manga",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7241749352985286,
-    "home_score": 0.5989,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c73c936f3d1029f3d373b2ffd1b4c38aedafe748",
-    "title": "5 Best Video Games Like Final Fantasy - svg.com",
-    "url": "https://www.svg.com/2166875/best-video-games-like-final-fantasy/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-10T01:00:00Z",
-    "summary": "5 Best Video Games Like Final Fantasy svg",
-    "content": "",
-    "categories": [
-      "games"
+    "region_tags": [
+      "SEA"
     ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.787108210855346,
-    "home_score": 0.5942,
-    "source_quality": 0.76,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.6570444744637495,
+    "home_score": 0.5827,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1479,8 +1708,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.43821872273155366,
-    "home_score": 0.5927,
+    "freshness_score": 0.40315707336769574,
+    "home_score": 0.5769,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C390%2C1040%2C520%5D/resize=w:1920/pjpg=q:90/compress/oOTd5aP2RY2sPgi7MZM9",
     "event_metadata": {
@@ -1493,6 +1722,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "16d862f39c430c1c776061e37c19483171b66896",
+    "title": "The Witch Hat Atelier Anime Adaptation Matches the Manga\u2019s Highs and Lows",
+    "url": "https://www.siliconera.com/the-witch-hat-atelier-anime-adaptation-matches-the-mangas-highs-and-lows/?utm_source=rss&utm_medium=rss&utm_campaign=the-witch-hat-atelier-anime-adaptation-matches-the-mangas-highs-and-lows",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-09T19:00:00Z",
+    "summary": "It\u2019s that careful balance that makes the Witch Hat Atelier anime feel like it\u2019s perfectly matching the beats, tone, and critical elements of the manga",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6662340785778725,
+    "home_score": 0.5728,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1514,8 +1770,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7232364543090454,
-    "home_score": 0.5925,
+    "freshness_score": 0.6653706845057331,
+    "home_score": 0.5664,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1539,8 +1795,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7165790203703307,
-    "home_score": 0.5895,
+    "freshness_score": 0.6592459084016675,
+    "home_score": 0.5637,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1565,8 +1821,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7097364831772339,
-    "home_score": 0.5879,
+    "freshness_score": 0.6529508381879056,
+    "home_score": 0.5623,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1590,8 +1846,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7113537541962569,
-    "home_score": 0.5871,
+    "freshness_score": 0.6544387130793283,
+    "home_score": 0.5615,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1616,244 +1872,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.706785399508026,
-    "home_score": 0.5866,
+    "freshness_score": 0.6502358691276487,
+    "home_score": 0.5611,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bcfe4425be4f40e39d0881726f7bd6e81502eb15",
-    "title": "McDonald\u2019s Japan Chiikawa Happy Meal Toys Can\u2019t Be Resold on Some Sites",
-    "url": "https://www.siliconera.com/mcdonalds-japan-chiikawa-happy-meal-toys-cant-be-resold-on-some-sites/?utm_source=rss&utm_medium=rss&utm_campaign=mcdonalds-japan-chiikawa-happy-meal-toys-cant-be-resold-on-some-sites",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-09T16:00:58Z",
-    "summary": "End scalpers! End scalpers! The post McDonald\u2019s Japan Chiikawa Happy Meal Toys Can\u2019t Be Resold on Some Sites appeared first on Siliconera",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6947764110538633,
-    "home_score": 0.5856,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f75ac073d6fd535c64118e693c41880e969b4979",
-    "title": "Persona Super Live 2017 Concert VOD Posted on Atlus Game Music Channel",
-    "url": "https://noisypixel.net/persona-super-live-2017-concert-vod-youtube/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-09T16:08:17Z",
-    "summary": "The official Atlus Game Music YouTube channel has posted a VOD of the Persona Super Live P-Sound Bomb !!!! 2017 \u2013 Witness the Crime at the Harbor concert, held at the Yokohama Aren",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6959540016086091,
-    "home_score": 0.5802,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": "August 2, 2027",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "96575d063c0a1305f522867654d5d22260254577",
-    "title": "Evercade Indies Continue to Shine in Mega Cat Studios Collection 3",
-    "url": "https://www.siliconera.com/evercade-indies-continue-to-shine-in-mega-cat-studios-collection-3/?utm_source=rss&utm_medium=rss&utm_campaign=evercade-indies-continue-to-shine-in-mega-cat-studios-collection-3",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-09T13:00:00Z",
-    "summary": "As the Evercade release cadence continues on at a steady pace, the connective tissue is indie support like Mega Cat Studios Collection 3",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6662731018706057,
-    "home_score": 0.5728,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3442e01ac5b2a980a0a1bf798264ab1fbbb204cb",
-    "title": "South Korea back on for Esports Nations Cup 2026 as KeSPA, Esports Foundation reconcile",
-    "url": "https://esports.gg/news/esports/team-korea-enc26-kespa-ef-reconcile/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-09T10:12:23Z",
-    "summary": "South Korea back on for Esports Nations Cup 2026 as KeSPA, Esports Foundation reconcile",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.6409164226704088,
-    "home_score": 0.5724,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bda370535daf1e4e6da2f52afc7be4e49235383b",
-    "title": "Traysia Review",
-    "url": "https://rpgamer.com/review/traysia-review/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-09T12:41:16Z",
-    "summary": "I Asked for a Boat and All I Got Was This Lousy Raft! While the Sega Genesis is not known for being an RPG powerhouse, it did have a few successful franchises with the Shining seri",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6633899677709981,
-    "home_score": 0.5685,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e987ff72faee81086557770362cf08ac325f5b96",
-    "title": "Wit Studio\u2019s \u2018The One Piece\u2019 Anime Remake Docks In Feb 2027 With 7 Episodes",
-    "url": "https://geekculture.co/wit-studios-the-one-piece-anime-remake-docks-in-feb-2027-with-7-episodes/",
-    "source_name": "Geek Culture",
-    "source_type": "rss",
-    "published_at": "2026-05-08T06:01:49Z",
-    "summary": "Wit Studio\u2019s \u2018The One Piece\u2019 Anime Remake Docks In Feb 2027 With 7 Episodes",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.4333580094432264,
-    "home_score": 0.565,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f1c6b1bff66d66cecda063bd19572bd5af432e05",
-    "title": "Pokemon Legends: Z-A has sold 12.79 million copies as of March 31, 2026",
-    "url": "https://www.rpgsite.net/news/20326-pokemon-legends-z-a-new-sales-numbers-may-2026-switch-2",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-09T15:22:23Z",
-    "summary": "Nintendo announces a new sales milestone for Pokemon Legends: Z-A on Switch 2 and Switch",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6885986470769853,
-    "home_score": 0.5634,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "March 31, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "06f95f803b178cdcef559d02d1878ed20a1f5672",
-    "title": "Final Fantasy XIV Evercold's prelude picks up right where Endwalker left off - GamingTrend",
-    "url": "https://gamingtrend.com/impressions/final-fantasy-xiv-evercolds-prelude-picks-up-right-where-endwalker-left-off/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-09T13:45:55Z",
-    "summary": "Final Fantasy XIV Evercold's prelude picks up right where Endwalker left off GamingTrend",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6733922057714508,
-    "home_score": 0.543,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
