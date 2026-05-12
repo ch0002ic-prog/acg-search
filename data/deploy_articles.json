@@ -1,499 +1,72 @@
 [
   {
-    "id": "866d7ea0cb9d3120a0c193aeea92ce5cc43fb4a9",
-    "title": "Mobile Legends: Bang Bang - Women's Invitational Tournament 2026 (SG)",
-    "url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-29T00:00:00Z",
-    "summary": "MLBB - Women's Invitational Tournament 2026 (Singapore) Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "0467afd5683a99c564cf880ec64258c453f0617d",
+    "title": "Teen who allegedly attacked Amos Yee at Suntec City anime event faces public nuisance and causing hurt charges - The Independent Singapore News",
+    "url": "https://theindependent.sg/teen-who-allegedly-attacked-amos-yee-at-suntec-city-anime-event-faces-public-nuisance-and-causing-hurt-charges/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-05-11T16:30:31Z",
+    "summary": "Teen who allegedly attacked Amos Yee at Suntec City anime event faces public nuisance and causing hurt charges The Independent Singapore News",
     "content": "",
     "categories": [
-      "events",
-      "games",
-      "esports"
+      "anime",
+      "manga",
+      "events"
     ],
     "tags": [
-      "singapore",
-      "mlbb"
+      "singapore"
     ],
-    "entity_tags": [
-      "MLBB"
-    ],
+    "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "Singapore",
+      "SEA"
     ],
-    "sg_relevance": 0.94,
-    "freshness_score": 1.0,
-    "home_score": 0.949,
-    "source_quality": 0.76,
+    "sg_relevance": 0.63,
+    "freshness_score": 0.8977438754472448,
+    "home_score": 0.824,
+    "source_quality": 0.75,
     "image_url": null,
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "29 May 2026 to 30 May 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/mobile-legends-bang-bang-womens-invitational-tournament-2026-sg-tickets-1986966255558",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7850043dcbff9793d64b040a3a49adf1",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
+    "id": "36849fce6fe906ffa12dc69d9169530aa244ee4c",
+    "title": "Teenager charged with assault at Singapore anime convention - Borneo Bulletin",
+    "url": "https://borneobulletin.com.bn/teenager-charged-with-assault-at-singapore-anime-convention/",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-05-11T20:03:18Z",
+    "summary": "Teenager charged with assault at Singapore anime convention Borneo Bulletin",
     "content": "",
     "categories": [
       "events",
       "games",
-      "esports"
+      "anime"
     ],
     "tags": [
       "singapore"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
+    "freshness_score": 0.9430697645365903,
+    "home_score": 0.7899,
+    "source_quality": 0.72,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
-  },
-  {
-    "id": "adade143bb2cd7a398919cc704552a39aece7392",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537062777",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-05-13T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "13 May 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537062777",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "ec630209addf7b1509bb665b3ceda8f39f173142",
-    "title": "Boardgame Networking Night",
-    "url": "https://www.eventbrite.sg/e/boardgame-networking-night-tickets-1989206140113",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-07-10T00:00:00Z",
-    "summary": "Come hang out, play game shows, and meet cool people who love board games as much as you do! Venue: 30 Prinsep St, #01 01",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184274343%2F2609071568161%2F1%2Foriginal.20260511-084805?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c5614b7d8eaf7f54be86f8cb11e5c88",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "10 Jul 2026",
-      "venue": "30 Prinsep St, #01 01",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/boardgame-networking-night-tickets-1989206140113",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "4dcdfa02755c6c86c5bf6832feda8cff84d27b63",
-    "title": "Kids Camp: Board Game Design Lab",
-    "url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Kids Camp: Board Game Design Lab",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182547060%2F796777249053%2F1%2Foriginal.20260420-092254?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.057&fp-y=0.677&s=fc13fc21828047954b43b0f4ddc8e04e",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "VIVISTOP Kampong Eunos",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "2f5be626bc9da710a0a06bdadd089ec3403cd07e",
-    "title": "VR Escape Room - Singles + Friend-making events",
-    "url": "https://www.eventbrite.sg/e/vr-escape-room-singles-friend-making-events-tickets-1988984970589",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "Join us for \"VR Embarking on an immersive action-adventure\" Venue: VR+ZONE",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184002554%2F281758671497%2F1%2Foriginal.20260507-102017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.548&fp-y=0.347&s=80071e99265b3a8bcd101b12ac26c42b",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "VR+ZONE",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/vr-escape-room-singles-friend-making-events-tickets-1988984970589",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "55515ab098d644238f342830e8881127726d98da",
-    "title": "Board Games + PS5 + Nitendo Switch - Singles + Friend-making events",
-    "url": "https://www.eventbrite.sg/e/board-games-ps5-nitendo-switch-singles-friend-making-events-tickets-1988988240369",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-30T00:00:00Z",
-    "summary": "Looking for a fun and relaxing weekend activity to unwind, play games, and meet new people? Venue: Pixels and Pieces | Singapore's Premier Board Game & Console Cafe",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184008649%2F281758671497%2F1%2Foriginal.20260507-114554?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.539&fp-y=0.903&s=61b46304ec17914a92778b55fb17b50d",
-    "event_metadata": {
-      "event_type": "cafe",
-      "date_label": "30 May 2026",
-      "venue": "Pixels and Pieces | Singapore's Premier Board Game & Console Cafe",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/board-games-ps5-nitendo-switch-singles-friend-making-events-tickets-1988988240369",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "65545fa285949f3a5bd9e86a433adf6ad62e0db0",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6203434b1e16ea9bffd6420eefee1bf6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "0cc296405fe0b81f30521450e64c276a573cfe7f",
-    "title": "Wonderland - MazeFox Escape Game in Vivocity!",
-    "url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Inspired by our very first Escape Game held in Jurong Point in 2016, now upgraded to be bigger and better in Vivocity! Venue: The Escape Artist - #1 Physical & Virtual Escape Room",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F598733659%2F258796489549%2F1%2Foriginal.20230915-120552?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C174%2C1600%2C800&s=2223279d923ba5347023b274a08deae6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "The Escape Artist - #1 Physical & Virtual Escape Room In Singapore",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "f3a72afb76b052f6ba8a643c62b3a632632db29c",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-15T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "15 May 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696542597",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
     "id": "a5dd4eed865ad93dc73803bb65fa16aa14186ab1",
@@ -518,8 +91,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.7967734980854266,
-    "home_score": 0.774,
+    "freshness_score": 0.7356034632354034,
+    "home_score": 0.7465,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -557,8 +130,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.7940117176116483,
-    "home_score": 0.7728,
+    "freshness_score": 0.7330537115902102,
+    "home_score": 0.7454,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -594,8 +167,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8842064379761735,
-    "home_score": 0.7694,
+    "freshness_score": 0.816323981016019,
+    "home_score": 0.7388,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -623,8 +196,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8856270251241025,
-    "home_score": 0.7685,
+    "freshness_score": 0.8176354880416666,
+    "home_score": 0.7379,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -643,15 +216,15 @@
     "id": "c454ac87d84ae8ba84476dbbeb93d0b66031b71f",
     "title": "Kyoto Animation Announces Credits Roll Into the Sea Anime Film for 2027 Release - Japan Anime News powered by ORICON NEWS",
     "url": "https://us.oricon-group.com/news/8585/",
-    "source_name": "Google News Anime And Manga",
+    "source_name": "Google News SEA Anime Screenings",
     "source_type": "rss",
     "published_at": "2026-05-11T08:19:00Z",
     "summary": "Kyoto Animation Announces Credits Roll Into the Sea Anime Film for 2027 Release Japan Anime News powered by ORICON NEWS",
     "content": "",
     "categories": [
+      "events",
       "anime",
       "manga",
-      "events",
       "games"
     ],
     "tags": [],
@@ -661,9 +234,9 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8678223672043482,
-    "home_score": 0.7605,
-    "source_quality": 0.75,
+    "freshness_score": 0.8011976009547627,
+    "home_score": 0.732,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -694,8 +267,8 @@
       "SEA"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.8086658930316988,
-    "home_score": 0.7594,
+    "freshness_score": 0.7465828216702463,
+    "home_score": 0.7315,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C41%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/WPSxdOcpQJCo94VrEbM7",
     "event_metadata": {
@@ -708,6 +281,34 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "253b6e0d104a01c90139120d6ddf6eb25563eaae",
+    "title": "Duo Day: New VALORANT capsule leak reveals angry ducks and cute geese cards",
+    "url": "https://esports.gg/news/valorant/duo-day-new-valorant-capsule-leak/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-11T21:55:03Z",
+    "summary": "Explore the Duo Day capsule in VALORANT with cute duo and trio cosmetics designed for players who want to flex adorable cards",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9677835317321946,
+    "home_score": 0.7275,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -733,8 +334,70 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8432243970494157,
-    "home_score": 0.751,
+    "freshness_score": 0.7784882233691764,
+    "home_score": 0.7218,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "eb7cc462ce1ca53f58f0f569338df0c39368a2d6",
+    "title": "Press Conference: Yoh Kamiyama at Hyper Japan Manchester 2025, First Concert in the UK",
+    "url": "https://animecorner.me/press-conference-yoh-kamiyama-at-hyper-japan-manchester-2025-first-concert-in-the-uk/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-11T23:50:20Z",
+    "summary": "Press Conference: Yoh Kamiyama at Hyper Japan Manchester 2025, First Concert in the UK",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9939575725477299,
+    "home_score": 0.7173,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "ad6cdd9c186e7b474363eba508afcfbbf52eb8b3",
+    "title": "The Credits Roll into the Sea Anime Film from Kyoto Animation to Premiere in 2027 - Anime Trending",
+    "url": "https://anitrendz.net/news/2026/05/10/the-credits-roll-into-the-sea-anime-film-from-kyoto-animation-to-premiere-in-2027/",
+    "source_name": "Google News SEA Anime Screenings",
+    "source_type": "rss",
+    "published_at": "2026-05-11T04:53:30Z",
+    "summary": "The Credits Roll into the Sea Anime Film from Kyoto Animation to Premiere in 2027 Anime Trending",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7639773653739359,
+    "home_score": 0.7153,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -762,8 +425,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8238788718297436,
-    "home_score": 0.7407,
+    "freshness_score": 0.7606278764746691,
+    "home_score": 0.7123,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -791,9 +454,66 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8123522171853994,
-    "home_score": 0.7356,
+    "freshness_score": 0.7499861485147787,
+    "home_score": 0.7075,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6255814b194f13b3fbc6234b5198879823a1cc30",
+    "title": "Persona 5 Royal Keychains Finally Get to US and Canada Gashapon Machines",
+    "url": "https://www.siliconera.com/persona-5-royal-keychains-finally-get-to-us-and-canada-gashapon-machines/?utm_source=rss&utm_medium=rss&utm_campaign=persona-5-royal-keychains-finally-get-to-us-and-canada-gashapon-machines",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-11T21:00:00Z",
+    "summary": "It took a while, but the Persona 5 Royal rubber mascot character keychains are in Gashapon machines in the US and Canada",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9555296934172791,
+    "home_score": 0.703,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d64de99f1367e1f3054057d7e6f1870a0fc1e230",
+    "title": "Wistoria: Wand and Sword Season 2 Previews Next Story Arc in Latest Trailer",
+    "url": "https://anitrendz.net/news/2026/05/11/wistoria-wand-and-sword-season-2-previews-next-story-arc-in-latest-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=wistoria-wand-and-sword-season-2-previews-next-story-arc-in-latest-trailer",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-11T18:36:15Z",
+    "summary": "Bandai Namco Filmworks has revealed the latest trailer for the ongoing second season of Wistoria: Wand and Sword",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9242567253804795,
+    "home_score": 0.7029,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -821,21 +541,162 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8083534945626976,
-    "home_score": 0.7293,
+    "freshness_score": 0.7462944381991605,
+    "home_score": 0.7013,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "84393b7758278d6cc3a8166ca57c67c0a23be710",
-    "title": "Man, 18, who allegedly beat up Amos Yee, 27, outside anime convention, charged for public nuisance & causing hurt - Mothership",
-    "url": "https://mothership.sg/2026/05/teen-beat-up-amos-yee-charged/",
-    "source_name": "Google News Anime And Manga",
+    "id": "426c9e855edb801bb4aba4aa5bf133d841034d1a",
+    "title": "Alien Nine OVA Series Receives Blu-ray Release on June 9",
+    "url": "https://anitrendz.net/news/2026/05/11/alien-nine-ova-series-receives-blu-ray-release-on-june-9/?utm_source=rss&utm_medium=rss&utm_campaign=alien-nine-ova-series-receives-blu-ray-release-on-june-9",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-11T02:07:20Z",
-    "summary": "Man, 18, who allegedly beat up Amos Yee, 27, outside anime convention, charged for public nuisance & causing hurt Mothership",
+    "published_at": "2026-05-11T21:13:36Z",
+    "summary": "The Blu-ray home media release for the 2001-2002 Alien Nine OVA series will arrive on June 9, 2026 from AnimEigo and MediaOCD",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9585421087835402,
+    "home_score": 0.6983,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 9",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "f29815c59a3ba326a5fe2549d4ee2bd73b37d707",
+    "title": "New The Ghost in the Shell Anime Trailer Teases July Debut",
+    "url": "https://www.siliconera.com/new-the-ghost-in-the-shell-anime-trailer-teases-july-debut/?utm_source=rss&utm_medium=rss&utm_campaign=new-the-ghost-in-the-shell-anime-trailer-teases-july-debut",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-11T20:00:00Z",
+    "summary": "There's a trailer for the new The Ghost in the Shell anime that includes its release date and highlights it ahead of the Annecy debut",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9423501822613216,
+    "home_score": 0.6971,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6cc0c8659b94f63a632c0159fc35064a3b503e51",
+    "title": "Riot Games revives Leona and Diana love story with new skins",
+    "url": "https://esports.gg/news/league-of-legends/leona-diana-new-skins/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-11T19:53:39Z",
+    "summary": "Leona and Diana are getting new skins together, as Riot Games unveils the Eternal Aspect skin line and a Mythic variant for the jungler",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.940965602495827,
+    "home_score": 0.6954,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "03535da5613254681008d380aa8fbaee84a04c6d",
+    "title": "Jujutsu Kaisen Receives Virtual Fitness Challenge Collaboration with The Conqueror",
+    "url": "https://anitrendz.net/news/2026/05/11/jujutsu-kaisen-receives-virtual-fitness-challenge-collaboration-with-the-conqueror/?utm_source=rss&utm_medium=rss&utm_campaign=jujutsu-kaisen-receives-virtual-fitness-challenge-collaboration-with-the-conqueror",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-11T20:25:48Z",
+    "summary": "Crunchyroll and The Conqueror platform are teaming up to collaborate on a special virtual fitness challenge featuring the Jujutsu Kaisen anime series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9479944768981164,
+    "home_score": 0.6936,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "24e6280b0d10f4aa4fe1aa93d6f2efcb60255c27",
+    "title": "10 Games Appeared in May 2026 Playism Game Show",
+    "url": "https://www.siliconera.com/10-games-appeared-in-may-2026-playism-game-show/?utm_source=rss&utm_medium=rss&utm_campaign=10-games-appeared-in-may-2026-playism-game-show",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-11T19:00:00Z",
+    "summary": "The Playism Game Show included 10 Japanese indie games, with Idol Manager and Samurai Bringer sequels among the reveals",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "idol"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9293524547015614,
+    "home_score": 0.6912,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b78e816528f8ca899b539e1b4c45d150d929e2f9",
+    "title": "Rascal Does Not Dream of a Dear Friend Highlights Kaede in Newest Visual",
+    "url": "https://anitrendz.net/news/2026/05/11/rascal-does-not-dream-of-a-dear-friend-highlights-kaede-in-newest-visual/?utm_source=rss&utm_medium=rss&utm_campaign=rascal-does-not-dream-of-a-dear-friend-highlights-kaede-in-newest-visual",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-11T19:42:32Z",
+    "summary": "The newest memorial visual has been unveiled for the upcoming Rascal Does Not Dream of a Dear Friend anime film, highlighting the protagonist\u2019s younger sister, Kaede Azusagawa",
     "content": "",
     "categories": [
       "anime",
@@ -844,18 +705,123 @@
     ],
     "tags": [],
     "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.938547288292589,
+    "home_score": 0.6893,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d09966dde4ea7846b793b989d40b698ebf1f5c71",
+    "title": "Who is Amos Yee? Controversial Singapore YouTuber assaulted by Yuji Itadori cosplayer outside anime conve - The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-amos-yee-controversial-singapore-youtuber-assaulted-by-yuji-itadori-cosplayer-outside-anime-convention/articleshow/131001099.cms",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-05-11T00:21:00Z",
+    "summary": "Who is Amos Yee? Controversial Singapore YouTuber assaulted by Yuji Itadori cosplayer outside anime conve The Times of India",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.796281765645667,
-    "home_score": 0.7283,
-    "source_quality": 0.75,
+    "freshness_score": 0.7172752907502635,
+    "home_score": 0.6883,
+    "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "615fae557394d0fa51b9ea4b9bb4d61039ec6613",
+    "title": "Dr. STONE SCIENCE FUTURE, Secrets of the Silent Witch and More Anime Music Videos Now Available on Crunchyroll",
+    "url": "https://crunchyroll.com/news/announcements/2026/5/11/dr-stone-science-future-secrets-of-the-silent-witch-anime-music-videos",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-11T19:00:00Z",
+    "summary": "New releases from ASIAN KUNG-FU GENERATION, Hitsujibungaku and more are available now!",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9293521135123869,
+    "home_score": 0.6867,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "db021cade61e1c8c65dad5d4fb82ffb99d513fa4",
+    "title": "Shinichiro Miki Joins Voice Cast of Daemons of the Shadow Realm",
+    "url": "https://anitrendz.net/news/2026/05/11/shinichiro-miki-joins-voice-cast-of-daemons-of-the-shadow-realm/?utm_source=rss&utm_medium=rss&utm_campaign=shinichiro-miki-joins-voice-cast-of-daemons-of-the-shadow-realm",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-11T19:11:37Z",
+    "summary": "Voice actor Shinichiro Miki joined the voice cast of Daemons of the Shadow Realm, playing the role of Ivan Yosano, who made an appearance in the sixth episode",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9318544233221756,
+    "home_score": 0.6863,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "af57ade9740ecbec4ffb782076e48e1717eb043f",
+    "title": "Yu-Gi-Oh! Duel Links Road to Worlds Campaign Begins Ahead of 2026 Championship",
+    "url": "https://noisypixel.net/yugioh-duel-links-road-to-worlds-2026-campaign/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-11T21:11:33Z",
+    "summary": "Konami has begun the Road to Worlds campaign in Yu-Gi-Oh! Duel Links",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "esports"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9580876438636288,
+    "home_score": 0.6861,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
+      "event_type": "qualifier",
+      "date_label": "June 1",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -884,40 +850,99 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.99274959254448,
-    "home_score": 0.7197,
+    "freshness_score": 0.9165340031281827,
+    "home_score": 0.6854,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "d09966dde4ea7846b793b989d40b698ebf1f5c71",
-    "title": "Who is Amos Yee? Controversial Singapore YouTuber assaulted by Yuji Itadori cosplayer outside anime conve - The Times of India",
-    "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-amos-yee-controversial-singapore-youtuber-assaulted-by-yuji-itadori-cosplayer-outside-anime-convention/articleshow/131001099.cms",
-    "source_name": "Google News SG ACG",
+    "id": "963610c32835b536b13ca07a33e40a90fc3102e0",
+    "title": "Sword Art Online Special Anime Teased as Echoes of Aincrad Pre-Order Bonus",
+    "url": "https://crunchyroll.com/news/latest/2026/5/11/sword-art-online-special-anime-teased-as-echoes-of-aincrad-pre-order-bonus",
+    "source_name": "Crunchyroll News",
     "source_type": "rss",
-    "published_at": "2026-05-11T00:21:00Z",
-    "summary": "Who is Amos Yee? Controversial Singapore YouTuber assaulted by Yuji Itadori cosplayer outside anime conve The Times of India",
+    "published_at": "2026-05-11T18:34:00Z",
+    "summary": "Unanswered//butterfly will be available to those who pre-order the Ultimate Edition",
     "content": "",
     "categories": [
-      "events",
+      "anime",
+      "manga",
       "games",
-      "anime"
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9237755874587016,
+    "home_score": 0.6842,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "ce4a352d255fa1120ca1529871c088a80d42fd94",
+    "title": "Petit Planet Preview \u2013 Bursting with Charm and Character",
+    "url": "https://noisypixel.net/petit-planet-preview-hoyoverse-cozy-life-sim/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-11T21:46:11Z",
+    "summary": "It\u2019s finally here! As a big fan of cozy games and a long-time player of pretty much everything Hoyoverse has ever put out, I have been looking forward to Petit Planet since the mom",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "gacha"
     ],
     "tags": [
-      "singapore"
+      "hoyoverse"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7769212244128533,
-    "home_score": 0.7151,
-    "source_quality": 0.72,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9657994827966018,
+    "home_score": 0.6836,
+    "source_quality": 0.78,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9ba3491e327e556bb34abdc957c40935706c2446",
+    "title": "10 Skyrim Dungeons that are More Iconic than Entire RPGs",
+    "url": "https://www.dualshockers.com/skyrim-dungeons-that-still-feel-more-memorable-than-entire-modern-rpg-zones/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-11T19:30:13Z",
+    "summary": "If you want to remember just how outstanding Bethesda's masterpiece was, check the ten Skyrim dungeons that are more iconic than entire RPGs",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.935875337151159,
+    "home_score": 0.6836,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/skyrim-dungeons-that-still-feel-more-memorable-than-entire-modern-rpg-zones.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -939,8 +964,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9938757597698704,
-    "home_score": 0.7142,
+    "freshness_score": 0.9175737228182385,
+    "home_score": 0.6799,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -965,8 +990,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9790567113478323,
-    "home_score": 0.7136,
+    "freshness_score": 0.9038923549559043,
+    "home_score": 0.6798,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -991,8 +1016,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9854684605441534,
-    "home_score": 0.7135,
+    "freshness_score": 0.9098118687165704,
+    "home_score": 0.6794,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1010,6 +1035,33 @@
       ],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "8f7e5da258830c8f9e335b710c5e95c7645ed0db",
+    "title": "Kyoto Animation Reveals The Credits Roll into the Sea Anime Film for 2027 - Crunchyroll",
+    "url": "https://www.crunchyroll.com/news/latest/2026/5/11/the-credits-roll-into-the-sea-anime-film-kyoto-animation-2027-teaser-trailer",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-05-11T03:42:00Z",
+    "summary": "Kyoto Animation Reveals The Credits Roll into the Sea Anime Film for 2027 Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7514370434352509,
+    "home_score": 0.6781,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1031,217 +1083,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9824617577728024,
-    "home_score": 0.7106,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3b5c95fde3e13cad5494db6bb4abf1f05e943f5c",
-    "title": "Kagurabachi First Popularity Poll\u2019s 10 Most Popular Characters Revealed",
-    "url": "https://www.siliconera.com/kagurabachi-first-popularity-polls-10-most-popular-characters-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=kagurabachi-first-popularity-polls-10-most-popular-characters-revealed",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-11T16:00:00Z",
-    "summary": "The top 10 most popular characters in the Kagurabachi series appeared in a video sharing the first popularity poll results",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9655526947545447,
-    "home_score": 0.7075,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7e28dcfd023670eab112e49d9fd213b73337f971",
-    "title": "10 Psychological Game Anime to Break Your Brain",
-    "url": "https://crunchyroll.com/news/features/2026/5/11/psychological-game-anime",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-11T16:00:00Z",
-    "summary": "10 Psychological Game Anime to Break Your Brain",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9655523370158475,
-    "home_score": 0.703,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "981a98a13f6bf9dac3250ac443604d646bbcdd98",
-    "title": "Persona AI partners with Under Armour on robotics gear research - Investing.com",
-    "url": "https://www.investing.com/news/company-news/persona-ai-partners-with-under-armour-on-robotics-gear-research-93CH-4677546",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-11T17:22:59Z",
-    "summary": "Persona AI partners with Under Armour on robotics gear research Investing",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9842787535363496,
-    "home_score": 0.7029,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7fb39ee91aab33f562288acf97c006aeb385f910",
-    "title": "Cover Corp. Launches mekPark Talent Development Project",
-    "url": "https://anitrendz.net/news/2026/05/11/cover-corp-launches-mekpark-talent-development-project/?utm_source=rss&utm_medium=rss&utm_campaign=cover-corp-launches-mekpark-talent-development-project",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-11T16:05:31Z",
-    "summary": "Cover Corp. Launches mekPark Talent Development Project",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9667860075944428,
-    "home_score": 0.7021,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f1c7673a53c48875b8a2aaaaa8a90b80e56a7445",
-    "title": "COVER Corp. Names hololive Meet 2026 Ambassadors Ahead of 5th Anniversary Activities",
-    "url": "https://anitrendz.net/news/2026/05/11/cover-corp-names-hololive-meet-2026-ambassadors-ahead-of-5th-anniversary-activities/?utm_source=rss&utm_medium=rss&utm_campaign=cover-corp-names-hololive-meet-2026-ambassadors-ahead-of-5th-anniversary-activities",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-11T16:03:19Z",
-    "summary": "COVER Corporation has announced a series of initiatives to mark the fifth year of activities for hololive Meet, including the unveiling of a commemorative logo, the appointment of",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9662937857968954,
-    "home_score": 0.7018,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "229b3ca49976f2b9c7d3f050a18b840499f46489",
-    "title": "Expect Shift Up Stellar Blade and Project Spirits Games News in 2026",
-    "url": "https://www.siliconera.com/expect-shift-up-stellar-blade-and-project-spirits-games-news-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=expect-shift-up-stellar-blade-and-project-spirits-games-news-in-2026",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-11T15:00:00Z",
-    "summary": "Shift Up will share news about its upcoming Stellar Blade sequel and new Project Spirits game, as well as NIKKE and merchandise, this year",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9522349373984739,
-    "home_score": 0.7015,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8dfe88a7178349a6217e2ed130591df3062d8fe3",
-    "title": "Witch Hat Atelier Anime Announces Four New Cast Members Playing Knights Moralis",
-    "url": "https://crunchyroll.com/news/latest/2026/5/11/witch-hat-atelier-anime-announces-four-new-cast-members-playing-knights-moralis",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-11T15:04:00Z",
-    "summary": "The series is now streaming on Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9531166925336354,
-    "home_score": 0.6974,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9459314ea3d39f8163ce7abdae594f1f3e776e37",
-    "title": "Crunchyroll News Puzzles Vol. 54: Industry Plants and Monochrome Magic",
-    "url": "https://crunchyroll.com/news/quizzes/2026/5/11/anime-crosswords-puzzles-vol-54",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-11T15:00:00Z",
-    "summary": "Test your anime knowledge with our latest puzzle collection!",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9522345845462667,
-    "home_score": 0.697,
+    "freshness_score": 0.9070359934181568,
+    "home_score": 0.6767,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1270,8 +1113,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.6247965915502144,
-    "home_score": 0.6967,
+    "freshness_score": 0.5768295977838908,
+    "home_score": 0.6751,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -1284,6 +1127,286 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "3b5c95fde3e13cad5494db6bb4abf1f05e943f5c",
+    "title": "Kagurabachi First Popularity Poll\u2019s 10 Most Popular Characters Revealed",
+    "url": "https://www.siliconera.com/kagurabachi-first-popularity-polls-10-most-popular-characters-revealed/?utm_source=rss&utm_medium=rss&utm_campaign=kagurabachi-first-popularity-polls-10-most-popular-characters-revealed",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-11T16:00:00Z",
+    "summary": "The top 10 most popular characters in the Kagurabachi series appeared in a video sharing the first popularity poll results",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8914250716493656,
+    "home_score": 0.6741,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7e28dcfd023670eab112e49d9fd213b73337f971",
+    "title": "10 Psychological Game Anime to Break Your Brain",
+    "url": "https://crunchyroll.com/news/features/2026/5/11/psychological-game-anime",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-11T16:00:00Z",
+    "summary": "10 Psychological Game Anime to Break Your Brain",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8914247463618132,
+    "home_score": 0.6696,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "981a98a13f6bf9dac3250ac443604d646bbcdd98",
+    "title": "Persona AI partners with Under Armour on robotics gear research - Investing.com",
+    "url": "https://www.investing.com/news/company-news/persona-ai-partners-with-under-armour-on-robotics-gear-research-93CH-4677546",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-11T17:22:59Z",
+    "summary": "Persona AI partners with Under Armour on robotics gear research Investing",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9087135247440833,
+    "home_score": 0.6689,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7fb39ee91aab33f562288acf97c006aeb385f910",
+    "title": "Cover Corp. Launches mekPark Talent Development Project",
+    "url": "https://anitrendz.net/news/2026/05/11/cover-corp-launches-mekpark-talent-development-project/?utm_source=rss&utm_medium=rss&utm_campaign=cover-corp-launches-mekpark-talent-development-project",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-11T16:05:31Z",
+    "summary": "Cover Corp. Launches mekPark Talent Development Project",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.892563710907586,
+    "home_score": 0.6687,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "229b3ca49976f2b9c7d3f050a18b840499f46489",
+    "title": "Expect Shift Up Stellar Blade and Project Spirits Games News in 2026",
+    "url": "https://www.siliconera.com/expect-shift-up-stellar-blade-and-project-spirits-games-news-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=expect-shift-up-stellar-blade-and-project-spirits-games-news-in-2026",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-11T15:00:00Z",
+    "summary": "Shift Up will share news about its upcoming Stellar Blade sequel and new Project Spirits game, as well as NIKKE and merchandise, this year",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8791297481443758,
+    "home_score": 0.6686,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f1c7673a53c48875b8a2aaaaa8a90b80e56a7445",
+    "title": "COVER Corp. Names hololive Meet 2026 Ambassadors Ahead of 5th Anniversary Activities",
+    "url": "https://anitrendz.net/news/2026/05/11/cover-corp-names-hololive-meet-2026-ambassadors-ahead-of-5th-anniversary-activities/?utm_source=rss&utm_medium=rss&utm_campaign=cover-corp-names-hololive-meet-2026-ambassadors-ahead-of-5th-anniversary-activities",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-11T16:03:19Z",
+    "summary": "COVER Corporation has announced a series of initiatives to mark the fifth year of activities for hololive Meet, including the unveiling of a commemorative logo, the appointment of",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8921092782915316,
+    "home_score": 0.6684,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a97574dc025c4cccb719e20d79ffa199c4e0d672",
+    "title": "Sword Art Online: Echoes of Aincrad Reveals New Teaser for Ultimate Edition Special Anime; Looks Like They\u2019re Actually Trying With This One",
+    "url": "https://noisypixel.net/sword-art-online-echoes-of-aincrad-unanswered-butterfly-teaser/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-11T19:02:27Z",
+    "summary": "A new teaser trailer has been released for Unanswered//butterfly, a special anime tied to Sword Art Online: Echoes of Aincrad",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9298794914756648,
+    "home_score": 0.6674,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "21bd2e8c4162baab8bf5ec4d7e7c70a9fb22d723",
+    "title": "New wave of Persona 30th Anniversary merch now available (UPDATE) - GoNintendo",
+    "url": "https://gonintendo.com/contents/59336-new-wave-of-persona-30th-anniversary-merch-now-available-update",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-11T19:03:55Z",
+    "summary": "New wave of Persona 30th Anniversary merch now available (UPDATE) GoNintendo",
+    "content": "",
+    "categories": [
+      "games",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9301948579396795,
+    "home_score": 0.6646,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "8dfe88a7178349a6217e2ed130591df3062d8fe3",
+    "title": "Witch Hat Atelier Anime Announces Four New Cast Members Playing Knights Moralis",
+    "url": "https://crunchyroll.com/news/latest/2026/5/11/witch-hat-atelier-anime-announces-four-new-cast-members-playing-knights-moralis",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-11T15:04:00Z",
+    "summary": "The series is now streaming on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8799438138493108,
+    "home_score": 0.6645,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9459314ea3d39f8163ce7abdae594f1f3e776e37",
+    "title": "Crunchyroll News Puzzles Vol. 54: Industry Plants and Monochrome Magic",
+    "url": "https://crunchyroll.com/news/quizzes/2026/5/11/anime-crosswords-puzzles-vol-54",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-11T15:00:00Z",
+    "summary": "Test your anime knowledge with our latest puzzle collection!",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8791294272485095,
+    "home_score": 0.6641,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1305,8 +1428,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9391697114667948,
-    "home_score": 0.6956,
+    "freshness_score": 0.8670675685738283,
+    "home_score": 0.6632,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1340,8 +1463,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9921597468018857,
-    "home_score": 0.6955,
+    "freshness_score": 0.9159894451385349,
+    "home_score": 0.6612,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1354,31 +1477,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "543a4fc9455940aa94fc46faceadf65e18bac226",
-    "title": "Street Fighter Movie Characters Who Might Steal the Entire Show",
-    "url": "https://www.dualshockers.com/street-fighter-characters-who-could-steal-the-entire-movie-if-done-right/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-11T18:30:14Z",
-    "summary": "The Street Fighter movie is bringing some huge game characters to life, and these are the ones we're most excited to see adapted in live-action",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9997212929972492,
-    "home_score": 0.6944,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/street-fighter-characters-who-could-steal-the-movie.jpg",
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1400,10 +1498,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9361919983274152,
-    "home_score": 0.6933,
+    "freshness_score": 0.8643184743683334,
+    "home_score": 0.6609,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "543a4fc9455940aa94fc46faceadf65e18bac226",
+    "title": "Street Fighter Movie Characters Who Might Steal the Entire Show",
+    "url": "https://www.dualshockers.com/street-fighter-characters-who-could-steal-the-entire-movie-if-done-right/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-11T18:30:14Z",
+    "summary": "The Street Fighter movie is bringing some huge game characters to life, and these are the ones we're most excited to see adapted in live-action",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9229704773130795,
+    "home_score": 0.6598,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/street-fighter-characters-who-could-steal-the-movie.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1426,8 +1549,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9456741025965448,
-    "home_score": 0.6911,
+    "freshness_score": 0.8730726087134475,
+    "home_score": 0.6584,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -1452,35 +1575,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9384485964464839,
-    "home_score": 0.6908,
+    "freshness_score": 0.8664018199772489,
+    "home_score": 0.6584,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4f1d6f140b3b73e4b373c88b63efcf98956746dc",
-    "title": "New Neptunia Unlimited Clips Showcase Combat and Character Interactions",
-    "url": "https://noisypixel.net/neptunia-unlimited-new-gameplay-clips-combat-characters/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-11T14:02:38Z",
-    "summary": "Over the past week, Compile Heart has shared another batch of gameplay and cutscene clips of its upcoming RPG Neptunia Unlimited",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9396733106923799,
-    "home_score": 0.6899,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1504,9 +1601,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.926147960696962,
-    "home_score": 0.6898,
+    "freshness_score": 0.8550455264977121,
+    "home_score": 0.6578,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4f1d6f140b3b73e4b373c88b63efcf98956746dc",
+    "title": "New Neptunia Unlimited Clips Showcase Combat and Character Interactions",
+    "url": "https://noisypixel.net/neptunia-unlimited-new-gameplay-clips-combat-characters/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-11T14:02:38Z",
+    "summary": "Over the past week, Compile Heart has shared another batch of gameplay and cutscene clips of its upcoming RPG Neptunia Unlimited",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8675325091011734,
+    "home_score": 0.6574,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1530,113 +1653,21 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.932601582817734,
-    "home_score": 0.6882,
+    "freshness_score": 0.8610036945300342,
+    "home_score": 0.656,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "71570f6fb37cd323587bd8352c93e48160f5847a",
-    "title": "Persona AI Collaborates with Under Armour to Explore Performance Materials for Humanoid Robotics - The Manila Times",
-    "url": "https://www.manilatimes.net/2026/05/12/tmt-newswire/globenewswire/persona-ai-collaborates-with-under-armour-to-explore-performance-materials-for-humanoid-robotics/2341033",
+    "id": "1626bd913b213bb65b4e43f620bf33386a52313f",
+    "title": "Magic designer reveals why one overpowered Final Fantasy 10 card became a mythic rare - Polygon.com",
+    "url": "https://www.polygon.com/mtg-yuna-hope-of-spira-final-fantasy-10-mythic-rare-interview/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-11T17:15:05Z",
-    "summary": "Persona AI Collaborates with Under Armour to Explore Performance Materials for Humanoid Robotics The Manila Times",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9824804389376622,
-    "home_score": 0.6881,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "069739a844e7635ee23bf6a72118abf66fafefb1",
-    "title": "How to claim Inkshadow Master Yi skin free in Jynxzi League of Legends streamer event",
-    "url": "https://esports.gg/news/league-of-legends/free-skin-jynxzi-league-of-legends-streamer-tournament/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-11T10:10:49Z",
-    "summary": "Here\u2019s how to redeem the Inkshadow Master Yi skin and emote for free by watching the Jynxzi League of Legends tournament on May 11",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8905780397504784,
-    "home_score": 0.6848,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": "May 11",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c826238bba001f25545eba736663aa067a3f65d7",
-    "title": "Steins;Gate Re:Boot Will Prohibit Gameplay Streaming and Uploads",
-    "url": "https://noisypixel.net/steins-gate-reboot-gameplay-streaming-upload-restrictions/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-11T13:04:59Z",
-    "summary": "MAGES has announced that players will not be permitted to stream or upload gameplay footage of the upcoming Steins;Gate Re:Boot",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.927216755983063,
-    "home_score": 0.6842,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "220fa8c037f9fc451d9792ff124b0d895c1a98c5",
-    "title": "Wisdom of Nym: Impressions of Final Fantasy XIV\u2019s Trail to the Heavens story - Massively Overpowered",
-    "url": "https://massivelyop.com/2026/05/11/wisdom-of-nym-impressions-of-final-fantasy-xivs-trail-to-the-heavens-story/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-11T16:00:00Z",
-    "summary": "Wisdom of Nym: Impressions of Final Fantasy XIV\u2019s Trail to the Heavens story Massively Overpowered",
+    "published_at": "2026-05-11T18:30:20Z",
+    "summary": "Magic designer reveals why one overpowered Final Fantasy 10 card became a mythic rare Polygon",
     "content": "",
     "categories": [
       "games"
@@ -1647,8 +1678,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9655520823402769,
-    "home_score": 0.6745,
+    "freshness_score": 0.9229916413079382,
+    "home_score": 0.6553,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1677,8 +1708,8 @@
       "SEA"
     ],
     "sg_relevance": 0.63,
-    "freshness_score": 0.5749692605042214,
-    "home_score": 0.6742,
+    "freshness_score": 0.5308276200509062,
+    "home_score": 0.6544,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": {
@@ -1694,168 +1725,13 @@
     "result_type": "article"
   },
   {
-    "id": "5b99aa73d51a9ccc59a835dfc05160122bfb6816",
-    "title": "\u201cI\u2019m so tired of battles.\u201d Naruto and Bleach studio Pierrot\u2019s new magical girl anime was a breath of fresh air to make thanks to \u201cno battles allowed\u201d rule, producer reveals",
-    "url": "https://automaton-media.com/en/news/im-so-tired-of-battles-naruto-and-bleach-studio-pierrots-new-magical-girl-anime-was-a-breath-of-fresh-air-to-make-thanks-to-no-battles-allowed-ru/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-05-11T14:00:00Z",
-    "summary": "Yohei Fukui, producer at Pierrot, talks about Magical Sisters LuluttoLilly, the studio's first new magical girl show in almost 30 years",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9391007030219385,
-    "home_score": 0.6731,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e4515646096b5cd83b4e594c288f5211357b63f4",
-    "title": "Tales Channel+ Collection Card Archive Now Available for Free Following Feature Shutdown",
-    "url": "https://noisypixel.net/tales-channel-plus-collection-card-archive-online/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-11T14:11:41Z",
-    "summary": "Bandai Namco has announced that Tales of fans can now browse the full archive of Tales Channel+ collection cards following the shutdown of the browser-based matching game feature",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9416439047980598,
-    "home_score": 0.6727,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c57d585172c5b45a3a842557556554b66ece7b51",
-    "title": "The Insipid Prince\u2019s Furtive Grab for The Throne Releases Trailer",
-    "url": "https://anitrendz.net/news/2026/05/11/the-insipid-princes-furtive-grab-for-the-throne-releases-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=the-insipid-princes-furtive-grab-for-the-throne-releases-trailer",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-11T10:38:59Z",
-    "summary": "The first trailer for the upcoming The Insipid Prince's Furtive Grab for The Throne TV anime, which begins airing in July, has been released",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8964035938579252,
-    "home_score": 0.6704,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5ca3d5a211cd68c0f05490c8446cb6ab52c2399c",
-    "title": "9 Street Fighter Characters The 2026 Movie May Fail to Adapt",
-    "url": "https://www.dualshockers.com/street-fighter-characters-fans-are-most-nervous-to-see-adapted-in-the-2026-movie/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-11T14:30:13Z",
-    "summary": "The 2026 Street Fighter movie is adapting many characters, and fans worry that Chun-Li or Akuma might not fit on the big screen",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9456921734155591,
-    "home_score": 0.6701,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/street-fighter-movie-characters-fans-are-nervous-about.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2a3dce759ac6f76438403f971bd2fcc06a709f7f",
-    "title": "We finally know Iso\u2019s voice actor, three years later",
-    "url": "https://esports.gg/news/valorant/iso-voice-actor/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-11T05:50:04Z",
-    "summary": "Ye Zichun is Iso's English voice actor in VALORANT, almost three years after the Agent's release",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.8384139369815569,
-    "home_score": 0.6693,
-    "source_quality": 0.76,
-    "image_url": "https://media.esports.gg/uploads/2026/05/Iso-VA1.mp4",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "deab81f91dbd8895a91470dab28bd826034dcf07",
-    "title": "The Insipid Prince's Furtive Grab for The Throne Anime Unveils 1st Trailer, Additional Cast",
-    "url": "https://crunchyroll.com/news/latest/2026/5/11/the-insipid-princes-furtive-grab-for-the-throne-anime-trailer-additional-cast",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-11T09:26:00Z",
-    "summary": "The fantasy series is slated for July 2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8813868202306965,
-    "home_score": 0.6651,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "061375d486b92c1f00d2d4ff15032089dc5493ad",
-    "title": "SEGA/ATLUS, animate launch year-long collaboration featuring popular IPs - GadgetMatch",
-    "url": "https://www.gadgetmatch.com/sega-atlus-animate-launch-year-long-collaboration-featuring-popular-ips/",
+    "id": "0edf641d4a63419bb2ad498843bd4989710c5688",
+    "title": "Persona AI Collaborates with Under Armour to Explore Performance Materials for Humanoid Robotics - GlobeNewswire",
+    "url": "https://www.globenewswire.com/news-release/2026/05/11/3292195/0/en/persona-ai-collaborates-with-under-armour-to-explore-performance-materials-for-humanoid-robotics.html",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-11T13:15:56Z",
-    "summary": "SEGA/ATLUS, animate launch year-long collaboration featuring popular IPs GadgetMatch",
+    "published_at": "2026-05-11T16:56:08Z",
+    "summary": "Persona AI Collaborates with Under Armour to Explore Performance Materials for Humanoid Robotics GlobeNewswire",
     "content": "",
     "categories": [
       "games",
@@ -1865,12 +1741,37 @@
       "jrpg"
     ],
     "entity_tags": [
-      "Atlus"
+      "Persona"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9295695652638906,
-    "home_score": 0.6643,
+    "freshness_score": 0.9030831319526684,
+    "home_score": 0.6524,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "220fa8c037f9fc451d9792ff124b0d895c1a98c5",
+    "title": "Wisdom of Nym: Impressions of Final Fantasy XIV\u2019s Trail to the Heavens story - Massively Overpowered",
+    "url": "https://massivelyop.com/2026/05/11/wisdom-of-nym-impressions-of-final-fantasy-xivs-trail-to-the-heavens-story/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-11T16:00:00Z",
+    "summary": "Wisdom of Nym: Impressions of Final Fantasy XIV\u2019s Trail to the Heavens story Massively Overpowered",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8914245466579306,
+    "home_score": 0.6411,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
