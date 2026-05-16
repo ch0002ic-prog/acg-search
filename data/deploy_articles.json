@@ -24,8 +24,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 0.776918461266859,
-    "home_score": 0.8181,
+    "freshness_score": 0.7168854087430446,
+    "home_score": 0.7911,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
@@ -62,8 +62,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9326413380598751,
-    "home_score": 0.7897,
+    "freshness_score": 0.8605756031337426,
+    "home_score": 0.7573,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -91,10 +91,38 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9030021321398051,
-    "home_score": 0.7779,
+    "freshness_score": 0.8332265021672318,
+    "home_score": 0.7465,
     "source_quality": 0.76,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5891dd3b4fb3d4cb05b3babfbdb602f26f9e6fd0",
+    "title": "Overwatch drives into Rocket League with iconic hero decals",
+    "url": "https://esports.gg/news/overwatch/overwatch-drives-into-rocket-league-with-iconic-hero-decals/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-15T23:35:09Z",
+    "summary": "Rocket League goes full throttle in this new Overwatch collaboration by giving the Porsche Cayenne Turbo Electric some iconic decals",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9908795474087307,
+    "home_score": 0.7299,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -119,13 +147,289 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.844758320789702,
-    "home_score": 0.7561,
+    "freshness_score": 0.7794832346285321,
+    "home_score": 0.7268,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": "convention",
       "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b06373e16be519ad342cfaca6411e2220b445cdf",
+    "title": "Nao Toyama\u2019s New Album, OVER THE RAINBOW, Goes on Sale October 7!",
+    "url": "https://honeysanime.com/nao-toyamas-new-album-over-the-rainbow-goes-on-sale-october-7/",
+    "source_name": "Honey's Anime",
+    "source_type": "rss",
+    "published_at": "2026-05-15T21:50:38Z",
+    "summary": "[sourceLink asin=\"\" asin_jp=\"\" cdj_product_id=\"\" text=\"\" url=\"\" ] [en]What You Need to Know: [/en][es]Lo que necesitas saber: [/es] Voice actress and singer Nao Toyama held her \u201cNa",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9671946203435529,
+    "home_score": 0.7252,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": "October 7",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "composed by Toyama herself",
+        "encore of \u201cMatsuri"
+      ],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "61073cc6d7d3a065ca33ad49f4f25a70f441cbda",
+    "title": "\u201cGet a job already\u201d: FGC begs Mew2King to get a job, but he isn\u2019t the only esports pro suffering",
+    "url": "https://esportsinsider.com/2026/05/mew2king-get-a-job",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-15T22:33:28Z",
+    "summary": "\u201cGet a job already\u201d: FGC begs Mew2King to get a job, but he isn\u2019t the only esports pro suffering",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9768315276909632,
+    "home_score": 0.7251,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "cf2cc7674398cafeb022f26b1fbbd8988e8abb3e",
+    "title": "Dragon Ball DAIMA Anime Comes Home in Limited Edition Blu-ray Set This August",
+    "url": "https://crunchyroll.com/news/announcements/2026/5/15/august-2026-home-video-crunchyroll",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-15T21:34:00Z",
+    "summary": "Complete Season set now available to pre-order along with the rest of August's slate",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9634774514321074,
+    "home_score": 0.7221,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e14f9a76209f0c6269f8caea7acfe8a646056bee",
+    "title": "Dota 2 pros salaries are too high and the scene is suffering for it",
+    "url": "https://esportsinsider.com/2026/05/dota-2-pros-salaries-too-high",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-15T21:49:16Z",
+    "summary": "With Norwegian organization HEROIC recently pulling out of the scene, the financial sustainability of the professional Dota 2 scene has been a pretty hot topic in the community",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events",
+      "gacha"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9668880458695023,
+    "home_score": 0.7206,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d5b46015c382704efd6a3676cdbe1581c9fd99ab",
+    "title": "Medaka Kuroiwa Is Impervious to My Charms Released a New Visual and Trailer",
+    "url": "https://blog.jlist.com/news/medaka-kuroiwa-is-impervious-to-my-charms-released-a-new-visual-and-trailer/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-05-15T20:30:00Z",
+    "summary": "The second season of Medaka Kuroiwa Is Impervious to My Charms is on its way",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9493086395082442,
+    "home_score": 0.7142,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4f0809816aa23e5a597d4766746f158992e101d8",
+    "title": "Round1 USA Honkai: Star Rail Crossover Promotion Detailed",
+    "url": "https://www.siliconera.com/round1-usa-honkai-star-rail-crossover-promotion-detailed/?utm_source=rss&utm_medium=rss&utm_campaign=round1-usa-honkai-star-rail-crossover-promotion-detailed",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-15T19:00:00Z",
+    "summary": "HoYoVerse and Round1 USA shared all the merchandise and requirements to get them ahead of the Honkai: Star Rail crossover event",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9297366297066979,
+    "home_score": 0.7114,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "13828b3226cb89aa13395b0c7d648cf87763b125",
+    "title": "Suntec anime convention organisers reject \u2018unfortunate\u2019 attempts to blame Amos Yee assault on them - stomp.sg",
+    "url": "https://www.stomp.sg/trending-now/suntec-anime-convention-organisers-reject-unfortunate-attempts-blame-amos-yee-assault-them",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2026-05-14T05:00:35Z",
+    "summary": "Suntec anime convention organisers reject \u2018unfortunate\u2019 attempts to blame Amos Yee assault on them stomp",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7799999999999999,
+    "freshness_score": 0.5485386375293179,
+    "home_score": 0.7103,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9310d631976fde751b0bb5eb2df927c54e91971e",
+    "title": "All teams qualified for the VALORANT Masters London 2026",
+    "url": "https://esports.gg/news/valorant/teams-qualified-valorant-masters-london-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-15T18:31:43Z",
+    "summary": "Here are all the teams that have qualified for VALORANT Masters London 2026, set to take place from June 6 to June 21",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9236689992788102,
+    "home_score": 0.7077,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 6",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -160,8 +464,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8382301928535021,
-    "home_score": 0.7352,
+    "freshness_score": 0.7734596692806259,
+    "home_score": 0.7061,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C0%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/o2vpNTKvQEOTD1YmGPEd",
     "event_metadata": {
@@ -177,42 +481,29 @@
     "result_type": "article"
   },
   {
-    "id": "13828b3226cb89aa13395b0c7d648cf87763b125",
-    "title": "Suntec anime convention organisers reject \u2018unfortunate\u2019 attempts to blame Amos Yee assault on them - stomp.sg",
-    "url": "https://www.stomp.sg/trending-now/suntec-anime-convention-organisers-reject-unfortunate-attempts-blame-amos-yee-assault-them",
-    "source_name": "Google News Anime Conventions",
+    "id": "d0c3fe15ddb22c8426a47247dbcf7cefc380beea",
+    "title": "Tokyo Alien Bros., Hirayasumi & Land Manga Series Receive 2026 Eisner Awards Nominations",
+    "url": "https://anitrendz.net/news/2026/05/15/tokyo-alien-bros-hirayasumi-land-manga-series-receive-2026-eisner-awards-nominations/?utm_source=rss&utm_medium=rss&utm_campaign=tokyo-alien-bros-hirayasumi-land-manga-series-receive-2026-eisner-awards-nominations",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-14T05:00:35Z",
-    "summary": "Suntec anime convention organisers reject \u2018unfortunate\u2019 attempts to blame Amos Yee assault on them stomp",
+    "published_at": "2026-05-15T22:06:02Z",
+    "summary": "Comic-Con International has revealed its list of nominations for the 2026 Will Eisner Comic Industry Awards, with several manga series and artists being represented in multiple cat",
     "content": "",
     "categories": [
-      "events",
       "anime",
-      "merch"
+      "manga",
+      "events",
+      "comics"
     ],
-    "tags": [
-      "singapore"
-    ],
+    "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.7799999999999999,
-    "freshness_score": 0.5944740808399367,
-    "home_score": 0.731,
-    "source_quality": 0.79,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9706481874204689,
+    "home_score": 0.7038,
+    "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -238,11 +529,153 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8106554597435913,
-    "home_score": 0.7303,
+    "freshness_score": 0.7480155256721694,
+    "home_score": 0.7021,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a040697f79e921821bed3205338e6bfbeca184c9",
+    "title": "Monochrome Mobius summary manga published ahead of Utawarerumono: Past and Present Rediscovered's release",
+    "url": "https://www.rpgsite.net/news/20379-monochrome-mobius-summarymanga-published-ahead-utawarerumono-past-present-rediscovereds-release",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-15T20:30:27Z",
+    "summary": "The events in Monochrome Mobius get summarized in 33 pages",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9494080016501282,
+    "home_score": 0.6987,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0ae6e0ea1cbe7087f2abbd44fcf7a27e4ac15df5",
+    "title": "New FFXIV Free Login Campaign Runs Until June 2026",
+    "url": "https://www.siliconera.com/new-ffxiv-free-login-campaign-runs-until-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=new-ffxiv-free-login-campaign-runs-until-june-2026",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-15T20:00:00Z",
+    "summary": "Past FFXIV players can head back to Eorzea for 96 hours now that the Free Login Campaign is back for a month",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9427397302207396,
+    "home_score": 0.6972,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "317386e6cbba08dfd1e0234c9dc3e8882b1e1578",
+    "title": "Keiichi Hikami\u2019s See You at That Site of Grace After Work Elden Ring-Themed Light Novel Receives Audiobook Adaptation",
+    "url": "https://anitrendz.net/news/2026/05/15/keiichi-hikamis-see-you-at-that-site-of-grace-after-work-elden-ring-themed-light-novel-receives-audiobook-adaptation/?utm_source=rss&utm_medium=rss&utm_campaign=keiichi-hikamis-see-you-at-that-site-of-grace-after-work-elden-ring-themed-light-novel-receives-audiobook-adaptation",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-15T20:50:10Z",
+    "summary": "Yen Audio has announced that it will produce an audiobook adaptation of Keiichi Hikami\u2019s See You at That Site of Grace After Work light novel for a November 2026 release",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9537507343090229,
+    "home_score": 0.6962,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "54916dd64c0003ec26efb6cc2eeac7def44ba722",
+    "title": "Yen Press Licenses My Girlfriend Is a Colossal Cutie, Love at the City\u2019s Edge on a Moonlit Night & More Titles for November 2026",
+    "url": "https://anitrendz.net/news/2026/05/15/yen-press-licenses-my-girlfriend-is-a-colossal-cutie-love-at-the-citys-edge-on-a-moonlit-night-more-titles-for-november-2026/?utm_source=rss&utm_medium=rss&utm_campaign=yen-press-licenses-my-girlfriend-is-a-colossal-cutie-love-at-the-citys-edge-on-a-moonlit-night-more-titles-for-november-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-15T20:31:12Z",
+    "summary": "Yen Press has announced the license acquisition of 17 new manga and light novel series for release in November 2026, including My Girlfriend Is a Colossal Cutie, Love at the City\u2019s",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9495725331512506,
+    "home_score": 0.6943,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ac3318f8b69d4d15d6c97471adb36b871c695ed5",
+    "title": "BamBam, TEN, Young Miko & Ethan Bortnick join Crunchyroll Anime Awards 2026 as presenters",
+    "url": "https://www.bandwagon.asia/articles/bambam-ten-young-miko-ethan-bortnick-join-crunchyroll-anime-awards-2026-as-presenters",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-05-15T03:10:00Z",
+    "summary": "The Crunchyroll Anime Awards 2026 is getting even more star power",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7462001656096791,
+    "home_score": 0.6938,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C0%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/0ZJb8nhRj2UlcJgELxlQ",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "23 May",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -267,8 +700,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9824391937281141,
-    "home_score": 0.7261,
+    "freshness_score": 0.9065255474068147,
+    "home_score": 0.6919,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -294,8 +727,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.975365595479284,
-    "home_score": 0.7229,
+    "freshness_score": 0.8999985303224103,
+    "home_score": 0.689,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -311,34 +744,90 @@
     "result_type": "article"
   },
   {
-    "id": "ac3318f8b69d4d15d6c97471adb36b871c695ed5",
-    "title": "BamBam, TEN, Young Miko & Ethan Bortnick join Crunchyroll Anime Awards 2026 as presenters",
-    "url": "https://www.bandwagon.asia/articles/bambam-ten-young-miko-ethan-bortnick-join-crunchyroll-anime-awards-2026-as-presenters",
-    "source_name": "Bandwagon Asia",
+    "id": "c44cddc6446355f09fab1e4a9b02d7ef3d3739ff",
+    "title": "Studio Ghibli Fest 2026 Tickets on Sale Now, Announcement Trailer Released",
+    "url": "https://animecorner.me/studio-ghibli-fest-2026-tickets-on-sale-now-announcement-trailer-released/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-05-15T03:10:00Z",
-    "summary": "The Crunchyroll Anime Awards 2026 is getting even more star power",
+    "published_at": "2026-05-15T19:02:00Z",
+    "summary": "Studio Ghibli Fest 2026 Tickets on Sale Now, Announcement Trailer Released",
     "content": "",
     "categories": [
-      "games",
-      "esports",
       "anime",
+      "manga",
+      "events",
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.930166811997037,
+    "home_score": 0.6886,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": "Tickets on sale",
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "493402d052b1374219829e8612d7deb76912d0d0",
+    "title": "Fist of the North Star: Hokuto no Ken Adds Kaori Ishihara & 2 More Cast Members",
+    "url": "https://anitrendz.net/news/2026/05/15/fist-of-the-north-star-hokuto-no-ken-adds-kaori-ishihara-2-more-cast-members/?utm_source=rss&utm_medium=rss&utm_campaign=fist-of-the-north-star-hokuto-no-ken-adds-kaori-ishihara-2-more-cast-members",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-15T19:24:50Z",
+    "summary": "Three more voice cast members have been announced for the ongoing Fist of the North Star: Hokuto no Ken TV anime series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9350960597803131,
+    "home_score": 0.6878,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2c4aa0186ccf2bea98dee5632142fff1cf5e725a",
+    "title": "Announcing the Fan Festival 2026 in Anaheim Art and Video Contests Winners!",
+    "url": "https://img.finalfantasyxiv.com/t/3c4f806edd6ce4259edf29debd3aa0c8b7a8a306.png?1778835210",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-05-15T19:00:00Z",
+    "summary": "Fan Festival 2026 in Anaheim has concluded",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.808687943379973,
-    "home_score": 0.7219,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C0%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/0ZJb8nhRj2UlcJgELxlQ",
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9297362039110929,
+    "home_score": 0.6869,
+    "source_quality": 0.79,
+    "image_url": null,
     "event_metadata": {
-      "event_type": null,
-      "date_label": "23 May",
+      "event_type": "festival",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -369,10 +858,62 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9936963436494589,
-    "home_score": 0.7202,
+    "freshness_score": 0.9169128795346344,
+    "home_score": 0.6856,
     "source_quality": 0.82,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "975b922ece7957230023a25feadce093af0d64aa",
+    "title": "BLACK TORCH TV Anime Adds 3 New Cast Members & More Staff",
+    "url": "https://anitrendz.net/news/2026/05/15/black-torch-tv-anime-adds-3-new-cast-members-more-staff/?utm_source=rss&utm_medium=rss&utm_campaign=black-torch-tv-anime-adds-3-new-cast-members-more-staff",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-15T18:35:06Z",
+    "summary": "The official English Twitter/X account of the upcoming BLACK TORCH TV anime series has revealed the addition of three new voice cast members, as well as more staff members",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9243926383524774,
+    "home_score": 0.683,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bd299915b49cb3b0e5e793ea7e793bdda39afa0a",
+    "title": "11 Best Final Fantasy Side Quests",
+    "url": "https://www.dualshockers.com/final-fantasy-side-quests-that-are-better-than-the-main-story/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-15T22:15:14Z",
+    "summary": "From breeding Chocobos to uncovering thousand-year-old grief, Final Fantasy side quests can be just as memorable as the main story",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9727176212860933,
+    "home_score": 0.6822,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/thumbnail-2.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -395,8 +936,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9799904044204613,
-    "home_score": 0.714,
+    "freshness_score": 0.9042660057589903,
+    "home_score": 0.6799,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -421,8 +962,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9930251653511178,
-    "home_score": 0.7139,
+    "freshness_score": 0.9162935280858137,
+    "home_score": 0.6793,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b51df942f643353a3d2ad4f2ac6576c4fe7dd979",
+    "title": "Yen Press Licenses Delicious in Dungeon Creator\u2019s Terrarium in a Drawer, DanMachi Prequel, and 15 More Titles for November 2026",
+    "url": "https://noisypixel.net/yen-press-november-2026-licenses-terrarium-in-a-drawer-danmachi-argonaut/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-15T20:56:50Z",
+    "summary": "Yen Press has revealed 17 new manga and novel acquisitions scheduled to release in November 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9552240033179052,
+    "home_score": 0.6789,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -447,8 +1014,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9795364358030533,
-    "home_score": 0.7093,
+    "freshness_score": 0.9038470871377358,
+    "home_score": 0.6752,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -472,8 +1039,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9715464139202808,
-    "home_score": 0.7087,
+    "freshness_score": 0.896474461599673,
+    "home_score": 0.6749,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -486,32 +1053,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "4d17b0edf33c80372159dac29f5a1d5fcaa7d7e2",
-    "title": "BLEACH \"THE STORIES\" TV Anime Project Unveils The Lost Agent Arc Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/5/15/bleach-the-stories-tv-anime-project-the-lost-agent-arc-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-15T16:47:00Z",
-    "summary": "Past opening and ending videos are also available on the anime's official YouTube channel",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9770454174497323,
-    "home_score": 0.7082,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -533,9 +1074,62 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9664735098938134,
-    "home_score": 0.7079,
+    "freshness_score": 0.8917935691393204,
+    "home_score": 0.6743,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4d17b0edf33c80372159dac29f5a1d5fcaa7d7e2",
+    "title": "BLEACH \"THE STORIES\" TV Anime Project Unveils The Lost Agent Arc Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/15/bleach-the-stories-tv-anime-project-the-lost-agent-arc-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-15T16:47:00Z",
+    "summary": "Past opening and ending videos are also available on the anime's official YouTube channel",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9015485512872856,
+    "home_score": 0.6742,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1c44dde6e2ff214b91b646920efc8ad5a5e09c3e",
+    "title": "Spring 2026 Anime Rankings - Week 6",
+    "url": "https://animecorner.me/spring-2026-anime-rankings-week-6/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-15T12:42:24Z",
+    "summary": "The sixth weekly poll for the Spring 2026 anime season, hosted by Anime Corner,\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8519208014325551,
+    "home_score": 0.6734,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -559,9 +1153,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9769322166654851,
-    "home_score": 0.7066,
+    "freshness_score": 0.9014440911315613,
+    "home_score": 0.6726,
     "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "74fb1e493464a77f72eec668f53da04fa23e71c2",
+    "title": "Final Fantasy XI Is Expanding Its Free Trial - GameSpot",
+    "url": "https://www.gamespot.com/articles/final-fantasy-xi-is-expanding-its-free-trial/1100-6539999/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-15T21:22:50Z",
+    "summary": "Final Fantasy XI Is Expanding Its Free Trial GameSpot",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9609898246064762,
+    "home_score": 0.6724,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -585,8 +1204,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9683020650846952,
-    "home_score": 0.7057,
+    "freshness_score": 0.8934808054372493,
+    "home_score": 0.6721,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -599,60 +1218,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "1c44dde6e2ff214b91b646920efc8ad5a5e09c3e",
-    "title": "Spring 2026 Anime Rankings - Week 6",
-    "url": "https://animecorner.me/spring-2026-anime-rankings-week-6/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-15T12:42:24Z",
-    "summary": "The sixth weekly poll for the Spring 2026 anime season, hosted by Anime Corner,\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.923261775725143,
-    "home_score": 0.7055,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3ddb7abb04dd7d5cb344243e75e50ab50c887cfc",
-    "title": "Teamfight mayhem at 2XKO Red Bull Knockout: Everything from the Duos esports event",
-    "url": "https://esports.gg/news/2xko/red-bull-knockout-teamfight-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-15T13:14:00Z",
-    "summary": "The Duos-only invitational features an unusual format for the fighting games community (FGC)",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9300399014395758,
-    "home_score": 0.7025,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -674,8 +1239,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9532570537501283,
-    "home_score": 0.702,
+    "freshness_score": 0.8795983556964255,
+    "home_score": 0.6688,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -700,9 +1265,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9663763743589084,
-    "home_score": 0.7019,
+    "freshness_score": 0.8917039119813365,
+    "home_score": 0.6683,
     "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "de79ece538d61d00a70e1b3835291666fc58ffbc",
+    "title": "The Super Mario Galaxy Movie reveals new wave of toys, rollout starts this summer",
+    "url": "https://nintendoeverything.com/the-super-mario-galaxy-movie-reveals-new-wave-of-toys-rollout-starts-this-summer/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-15T19:16:23Z",
+    "summary": "Jakks Pacific today unveiled a new set of toys it has planned in collaboration with The Super Mario Galaxy Movie",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.933269055560145,
+    "home_score": 0.6675,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -726,37 +1316,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.955845782181944,
-    "home_score": 0.6991,
+    "freshness_score": 0.8819870245933099,
+    "home_score": 0.6659,
     "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "eb38337e3ce7597652c93bb9cd5474649792dd3b",
-    "title": "ASUS unveils T1 GeForce RTX 5070 and RTX 5060 Ti graphics cards",
-    "url": "https://esports.gg/news/valorant/asus-t1-geforce-rtx-5070-rtx-5060-ti-graphics-cards/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-15T14:27:28Z",
-    "summary": "ASUS and T1 have unveiled a new collaboration featuring two uniquely customized GeForce RTX 5070 and RTX 5060 Ti graphics cards",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9459915765094213,
-    "home_score": 0.6977,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -780,8 +1343,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9531426883700521,
-    "home_score": 0.6974,
+    "freshness_score": 0.8794927999387026,
+    "home_score": 0.6643,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -815,9 +1378,59 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.939996459748814,
-    "home_score": 0.696,
+    "freshness_score": 0.867362415217652,
+    "home_score": 0.6633,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c7ddc19d407fa67a625010cdfe15bc2fb6954d2c",
+    "title": "8 Reasons The Witcher 3 Still Feels Like the Standard for Fantasy RPGs",
+    "url": "https://www.dualshockers.com/reasons-the-witcher-3-still-feels-like-the-gold-standard-for-fantasy-rpgs/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-15T18:30:13Z",
+    "summary": "All these years later, there is still nothing like The Witcher 3",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9233484045116921,
+    "home_score": 0.66,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/copy-of-copy-of-copy-of-copy-of-copy-of-copy-of-untitled-14.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "393ff7fb5cb4e402f1f19b1bc4ad13be5463650e",
+    "title": "Final Fantasy VII Rebirth On Switch 2 Preview: Portable, Playable, Worth It? (2uPBVqgbDw) - Fathom Journal",
+    "url": "https://fathomjournal.org/5960610csmm/3692f8f6-hea8ZpmDTmw.html",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-15T19:10:40Z",
+    "summary": "Final Fantasy VII Rebirth On Switch 2 Preview: Portable, Playable, Worth It? (2uPBVqgbDw) Fathom Journal",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9320343685279922,
+    "home_score": 0.6594,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -841,8 +1454,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9270311950244016,
-    "home_score": 0.6902,
+    "freshness_score": 0.855398964803843,
+    "home_score": 0.6579,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -867,8 +1480,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9306898176026936,
-    "home_score": 0.6858,
+    "freshness_score": 0.8587748756857048,
+    "home_score": 0.6534,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -881,37 +1494,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "a1dc316ea7b200fb6a3b42aedf5193e493796d08",
-    "title": "Square Enix Shares New Final Fantasy VI \u201cSearching for Friends\u201d Guitar Arrangement",
-    "url": "https://noisypixel.net/final-fantasy-vi-searching-for-friends-guitar-arrangement/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-15T12:44:18Z",
-    "summary": "The official Square Enix Music Channel has posted a new arrangement, comprising a guitar cover of \u201cSearching for Friends\u201d from Final Fantasy VI",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9236680421985763,
-    "home_score": 0.6847,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -932,61 +1514,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9270307288658809,
-    "home_score": 0.6842,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5cd388689280745cb87044eab022c8b841ee3f91",
-    "title": "Anti-Romance Otome Visual Novel \u2018Club Suicide\u2019 English Translation Issues Addressed in New Update on DLsite",
-    "url": "https://noisypixel.net/club-suicide-english-translation-update-dlsite/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-15T15:48:10Z",
-    "summary": "DLsite has announced that the major translation issues affecting the English release of Club Suicide have been resolved following a new update to the otome visual novel",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9638295735929441,
-    "home_score": 0.6827,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e7afd0bc463c471c63d96cb335d05ed5c6f151a8",
-    "title": "GATE Season 2 Releases Key Visual",
-    "url": "https://anitrendz.net/news/2026/05/15/gate-season-2-releases-key-visual/?utm_source=rss&utm_medium=rss&utm_campaign=gate-season-2-releases-key-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-15T09:09:12Z",
-    "summary": "A key visual for 2027's GATE Season 2: Tides of Conflict has been revealed",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8788030241616669,
-    "home_score": 0.6825,
+    "freshness_score": 0.855398520640026,
+    "home_score": 0.6519,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1010,8 +1539,33 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9230657313818801,
-    "home_score": 0.6824,
+    "freshness_score": 0.8517399008506691,
+    "home_score": 0.6503,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5cd388689280745cb87044eab022c8b841ee3f91",
+    "title": "Anti-Romance Otome Visual Novel \u2018Club Suicide\u2019 English Translation Issues Addressed in New Update on DLsite",
+    "url": "https://noisypixel.net/club-suicide-english-translation-update-dlsite/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-15T15:48:10Z",
+    "summary": "DLsite has announced that the major translation issues affecting the English release of Club Suicide have been resolved following a new update to the otome visual novel",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8893539038764104,
+    "home_score": 0.6492,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1037,34 +1591,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9270485957957132,
-    "home_score": 0.6802,
+    "freshness_score": 0.855414889553566,
+    "home_score": 0.6479,
     "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "07087610681eabe65ed97a2002bcf659195f399a",
-    "title": "The Magic: The Gathering Final Fantasy Starter Kit is now only $20 \u2014 save almost $5 at Amazon - Mashable",
-    "url": "https://mashable.com/article/may-15-magic-the-gathering-final-fantasy-starter-kit-deal",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-15T16:44:03Z",
-    "summary": "The Magic: The Gathering Final Fantasy Starter Kit is now only $20 \u2014 save almost $5 at Amazon Mashable",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9763782341623911,
-    "home_score": 0.6794,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1087,36 +1616,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9088567566342837,
-    "home_score": 0.679,
+    "freshness_score": 0.8386288666761056,
+    "home_score": 0.6474,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bafcb8622d9127ba1e1c6c987702544ba31040da",
-    "title": "Square Enix is aware they need to do something to make younger gamers discover Final Fantasy - Gamereactor UK",
-    "url": "https://www.gamereactor.eu/square-enix-is-aware-they-need-to-do-something-to-make-younger-gamers-discover-final-fantasy-1719413/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-15T16:34:27Z",
-    "summary": "Square Enix is aware they need to do something to make younger gamers discover Final Fantasy Gamereactor UK",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9742109063932913,
-    "home_score": 0.6784,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1139,9 +1641,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9014432275332334,
-    "home_score": 0.6771,
+    "freshness_score": 0.831788189030014,
+    "home_score": 0.6458,
     "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "07087610681eabe65ed97a2002bcf659195f399a",
+    "title": "The Magic: The Gathering Final Fantasy Starter Kit is now only $20 \u2014 save almost $5 at Amazon - Mashable",
+    "url": "https://mashable.com/article/may-15-magic-the-gathering-final-fantasy-starter-kit-deal",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-15T16:44:03Z",
+    "summary": "The Magic: The Gathering Final Fantasy Starter Kit is now only $20 \u2014 save almost $5 at Amazon Mashable",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9009327797565506,
+    "home_score": 0.6454,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1164,8 +1691,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9465464311699419,
-    "home_score": 0.6749,
+    "freshness_score": 0.8734061085433276,
+    "home_score": 0.642,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1189,8 +1716,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.901050031357474,
-    "home_score": 0.6725,
+    "freshness_score": 0.8314253670033773,
+    "home_score": 0.6411,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1203,57 +1730,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "863e90c5876a830153bca5a68b501ff65096a63b",
-    "title": "DOOM: The Dark Ages First Anniversary Merchandise Revealed",
-    "url": "https://noisypixel.net/doom-the-dark-ages-first-anniversary-merchandise/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-15T13:37:28Z",
-    "summary": "Bethesda and id Software are celebrating the first anniversary of their FPS DOOM: The Dark Ages with new merchandise",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9351059644806273,
-    "home_score": 0.6698,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0eb6bf28be272f4dd43e9fb497260cbea8c1a908",
-    "title": "Neptunia Unlimited Reveals Finalized Japanese Retailer Bonus Artwork",
-    "url": "https://noisypixel.net/neptunia-unlimited-japanese-retailer-bonuses/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-15T13:30:07Z",
-    "summary": "Compile Heart has updated the official website of its upcoming RPG Neptunia Unlimited, with the finalized illustrations of the retailer-specific bonuses for the Japanese market",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9335163362715472,
-    "home_score": 0.6691,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1275,449 +1751,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8889924037125456,
-    "home_score": 0.6685,
+    "freshness_score": 0.820299445112537,
+    "home_score": 0.6376,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "211d1de6fde3ba27cd22320911660b0351a93e01",
-    "title": "The Hundred Line: Last Defense Academy Reveals Retopop Merchandise Collaboration",
-    "url": "https://noisypixel.net/hundred-line-last-defense-academy-retopop-merchandise/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-15T13:23:15Z",
-    "summary": "TooKyo Games has announced a Retopop merchandise collaboration with Playful Mind Shop for The Hundred Line: Last Defense Academy",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9320336829364201,
-    "home_score": 0.6684,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "15230572799755d740349b0c019187ad733b1925",
-    "title": "The Oblivious Saint Can\u2019t Contain Her Power Releases New Trailer and Situation Visual",
-    "url": "https://anitrendz.net/news/2026/05/15/the-oblivious-saint-cant-contain-her-power-releases-new-trailer-and-situation-visual/?utm_source=rss&utm_medium=rss&utm_campaign=the-oblivious-saint-cant-contain-her-power-releases-new-trailer-and-situation-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-15T10:14:07Z",
-    "summary": "A new trailer and situation visual for The Oblivious Saint Can\u2019t Contain Her Power TV anime are out",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8921085244595099,
-    "home_score": 0.6684,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e92b84d7a50fd6ac6e4a91dab3c346ea424eca26",
-    "title": "BLACK TORCH Anime Announces 3 More Cast Members",
-    "url": "https://crunchyroll.com/news/latest/2026/5/15/black-torch-anime-toshimasa-azuma-toko-kusumi-banjuro-tokieda-cast",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-15T09:54:00Z",
-    "summary": "The adaptation of Tsuyoshi Takaki's manga premieres on July 4",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8879640715637195,
-    "home_score": 0.6681,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 4",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e7fd18094a402d90e45ab5da89a111b07701819d",
-    "title": "Iron Wok Jan! Anime Reveals July 5 Premiere in New Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/5/15/iron-wok-jan-anime-reveals-july-5-premiere-in-new-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-15T09:16:00Z",
-    "summary": "Additional cast revealed for upcoming adaptation of gourmet battle manga",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8801875281625591,
-    "home_score": 0.6646,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 5",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "2f9d495de4aad568542d50d8a528cddbb190ed93",
-    "title": "Psychological Horror Visual Novel \u2018This Game is Not Real\u2019 Removed From Steam Ahead of Release",
-    "url": "https://noisypixel.net/this-game-is-not-real-steam-removal/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-15T12:28:31Z",
-    "summary": "Japanese illustrator and developer Viv has announced that the BL psychological horror visual novel This Game is Not Real will no longer be released on Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9202995302302682,
-    "home_score": 0.6631,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c749e596efea89d454eb3429d0dbedcb7b81e772",
-    "title": "Japanese boy idol anime announces inexplicable Sharknado crossover event. Tickets sell out in 3 minutes as fans go \u201cwhat the hell, sure\u201d",
-    "url": "https://automaton-media.com/en/nongaming-news/japanese-boy-idol-anime-announces-inexplicable-sharknado-crossover-event-tickets-sell-out-in-3-minutes-as-fans-go-what-the-hell-sure/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-05-15T08:59:07Z",
-    "summary": "The King of Prism series' latest feature-length anime film will be screened jointly with The Last Sharknado: It's About Time in June",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "idol"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8767544826194577,
-    "home_score": 0.663,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "96e30b9c7d6e6f6ee0b0f054618f6e7aeb06ae29",
-    "title": "Play Free for up to 4 Days in the Latest Free Login Campaign!",
-    "url": "https://img.finalfantasyxiv.com/t/9abe0a9087a62bbc886fa2fbd189379445092a97.png?1778834400",
-    "source_name": "Final Fantasy XIV News",
-    "source_type": "rss",
-    "published_at": "2026-05-15T08:30:00Z",
-    "summary": "In the hope that would-be adventurers can experience all that FFXIV has to offer, we are pleased to announce the latest Free Login Campaign",
-    "content": "",
-    "categories": [
-      "games",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8708648525805344,
-    "home_score": 0.6604,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b9bc10e817b4a316e4efed429d691cd63fb8fad1",
-    "title": "Free Companies are the heart of Final Fantasy XIV \u2013 this is what they mean to its players - Radio Times",
-    "url": "https://www.radiotimes.com/technology/gaming/final-fantasy-xiv-free-companies-interview/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-15T13:30:38Z",
-    "summary": "Free Companies are the heart of Final Fantasy XIV \u2013 this is what they mean to its players Radio Times",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.933627615976365,
-    "home_score": 0.6601,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9e3fd66622ad6b2851f2b02800d0e73dad5cb29c",
-    "title": "Square Enix is celebrating 24 years of Final Fantasy XI with a new anniversary movie",
-    "url": "https://www.rpgsite.net/news/20373-final-fantasy-xi-24th-anniversary-celebration-animated-movie-video",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-15T11:41:49Z",
-    "summary": "The movie is titled 'Our Adventure Never Ends' and is available now featuring music from Naoshi Mizuta",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9104045324795859,
-    "home_score": 0.6572,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7b8921095969bb2c735a6dad9fecce26e0692228",
-    "title": "Wakana Yamazaki, Voice of Detective Conan\u2019s Ran Mori, Passes Away",
-    "url": "https://anitrendz.net/news/2026/05/15/wakana-yamazaki-voice-of-detective-conans-ran-mori-passes-away/?utm_source=rss&utm_medium=rss&utm_campaign=wakana-yamazaki-voice-of-detective-conans-ran-mori-passes-away",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-15T07:32:23Z",
-    "summary": "Wakana Yamazaki, who played Detective Conan's Ran Mori since the anime began in 1996, has passed away",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8593269916092434,
-    "home_score": 0.6537,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0df50349c98f46ae632c9902eaa7b88f29375591",
-    "title": "Final Fantasy Remake director: We are aware we need to grow the Final Fantasy brand - My Nintendo News",
-    "url": "https://mynintendonews.com/2026/05/15/final-fantasy-remake-director-we-are-aware-we-need-to-grow-the-final-fantasy-brand/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-15T12:12:07Z",
-    "summary": "Final Fantasy Remake director: We are aware we need to grow the Final Fantasy brand My Nintendo News",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.916812069133219,
-    "home_score": 0.6526,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5a114d9d3e8d8fe01f2427d6189568497ed1c0a6",
-    "title": "Crunchyroll Anime Awards Levels Up With New Celeb Hosts",
-    "url": "https://animehunch.com/crunchyroll-anime-awards-levels-up-with-new-celeb-hosts/",
-    "source_name": "Anime Hunch",
-    "source_type": "rss",
-    "published_at": "2026-05-15T07:18:38Z",
-    "summary": "Crunchyroll has unveiled an exciting new lineup of celebrity presenters who are headed to the tenth annual Crunchyroll Anime Awards in Tokyo",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.856596246388956,
-    "home_score": 0.6525,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d63363414bf69b3298779f19efeddf6cdf863b72",
-    "title": "Final Fantasy 14 is promising big changes with Evercold, but I hope it's not a surface-level attempt - PC Gamer",
-    "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-promising-big-changes-with-evercold-but-i-hope-its-not-a-surface-level-attempt/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-15T12:07:17Z",
-    "summary": "Final Fantasy 14 is promising big changes with Evercold, but I hope it's not a surface-level attempt PC Gamer",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9157868947002896,
-    "home_score": 0.6521,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ff52a6110d15e888ad4309996231d6ffc1884fc0",
-    "title": "Part two of acclaimed psychological horror denshi visual novel Ghostpia gets teaser",
-    "url": "https://automaton-media.com/en/news/part-two-of-acclaimed-psychological-horror-denshi-visual-novel-ghostpia-gets-teaser/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-05-15T06:29:55Z",
-    "summary": "room6 and Chosuido have offered a first glimpse at the work-in-progress visual novel Ghostpia Season Two",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8469909102008343,
-    "home_score": 0.6516,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "52b0409802eb2ec80130f55f788aac3632c4095f",
-    "title": "Interview: Decorado Director Alberto Vazquez",
-    "url": "https://animecorner.me/interview-decorado-director-alberto-vazquez/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-15T05:58:17Z",
-    "summary": "Decorado is an animated dark film that will leave you questioning your life and\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8408113184330674,
-    "home_score": 0.6484,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8e06c0d170b2f2daa485d70bc2ed7abe66c431bf",
-    "title": "Expelled from Paradise -The Stellar Angel- Sequel Visual Novel Will Be on Steam, Switch With English Support",
-    "url": "https://anitrendz.net/news/2026/05/14/expelled-from-paradise-the-stellar-angel-sequel-visual-novel-will-be-on-steam-switch-with-english-support/?utm_source=rss&utm_medium=rss&utm_campaign=expelled-from-paradise-the-stellar-angel-sequel-visual-novel-will-be-on-steam-switch-with-english-support",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-15T05:58:27Z",
-    "summary": "Expelled from Paradise -The Stellar Angel-, a visual novel sequel to the 2014 anime movie Expelled from Paradise , will be out on Steam and Nintendo Switch globally",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8408436107459661,
-    "home_score": 0.6454,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
