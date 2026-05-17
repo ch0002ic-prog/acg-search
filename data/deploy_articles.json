@@ -5,7 +5,7 @@
     "url": "https://www.travelandtourworld.com/news/article/cultural-tourism-from-singapore-rises-with-anime-and-comic-attractions-everything-you-need-to-know/",
     "source_name": "Google News SG ACG",
     "source_type": "rss",
-    "published_at": "2026-05-17T10:42:39Z",
+    "published_at": "2026-05-17T10:47:24Z",
     "summary": "Cultural Tourism from Singapore Rises With Anime and Comic Attractions, Everything You Need to Know Travel And Tour World",
     "content": "",
     "categories": [
@@ -23,9 +23,388 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9792843377284662,
-    "home_score": 0.8062,
+    "freshness_score": 0.9013676353886285,
+    "home_score": 0.7711,
     "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "dcfa28ab48771d78ef1fb672dee00e08ebccd030",
+    "title": "TFT BoxBox Bash: 8 teams locked in for $25,000 tournament",
+    "url": "https://esports.gg/news/teamfight-tactics/tft-boxbox-bash-2/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-17T16:21:09Z",
+    "summary": "Here's what TFT players need to know about the second-ever BoxBox Bash tournament",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9737652519327438,
+    "home_score": 0.7222,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "6e73c283e63c1b7f6b89c0eacae29a34707bfcf6",
+    "title": "GATE 2: Tides of Conflict Anime Reveals New Key Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/17/gate-2-tides-of-conflict-anime-reveals-new-key-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-17T14:37:00Z",
+    "summary": "The newest season of the GATE anime will broadcast in 2027",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9505697555531779,
+    "home_score": 0.7163,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "188aafb383776b5945a76600ec6dc44116ac3fc0",
+    "title": "Osamu Tezuka\u2019s The Book of Human Insects Inspires Live-Action \u201cDark Musical\u201d Film",
+    "url": "https://anitrendz.net/news/2026/05/17/osamu-tezukas-the-book-of-human-insects-inspires-live-action-dark-musical-film/?utm_source=rss&utm_medium=rss&utm_campaign=osamu-tezukas-the-book-of-human-insects-inspires-live-action-dark-musical-film",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-17T18:04:56Z",
+    "summary": "\"God of Manga\" Osamu Tezuka's The Book of Human Insects will be featured on the big screen as a live-action \"dark musical\" title",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9974421364398822,
+    "home_score": 0.7158,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b98dd1ac7678cd0d628851168360dbf41286b5c2",
+    "title": "Brawl Stars World Finals are coming to Japan, promising the biggest event ever",
+    "url": "https://esports.gg/news/mobile/brawl-stars-world-finals-2026-location-revealed/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-17T14:55:57Z",
+    "summary": "It already feels like a huge celebration of the game and its community",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9547485779672058,
+    "home_score": 0.7136,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "8b1a8490a761fc5f08ccebf8ecbdd6ede87d91ae",
+    "title": "Gigant Manga to Get Anime Film",
+    "url": "https://anitrendz.net/news/2026/05/17/gigant-manga-to-get-anime-film/?utm_source=rss&utm_medium=rss&utm_campaign=gigant-manga-to-get-anime-film",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-17T17:05:36Z",
+    "summary": "The manga series Gigant from Gantz' Hiroya Oku is getting adapted into an animated film",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9838363468691531,
+    "home_score": 0.7097,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "323f4bc1bdb26070acb8fa949ea463e49887477a",
+    "title": "Final Fantasy 7 Rebirth Director Won\u2019t Comment on Theories to Avoid \u201cSearch for The \u2018Righ... - GamingBolt",
+    "url": "https://gamingbolt.com/final-fantasy-7-rebirth-director-wont-comment-on-theories-to-avoid-search-for-the-right-answer",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-17T16:56:35Z",
+    "summary": "Final Fantasy 7 Rebirth Director Won\u2019t Comment on Theories to Avoid \u201cSearch for The \u2018Righ",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.981784937599943,
+    "home_score": 0.7018,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "672a01586dc01e625254dc0c34ec014a71d350c9",
+    "title": "SHIBOYUGI: Playing Death Games to Put Food on the Table Reveals Cloudy Beach Trailer and Visual",
+    "url": "https://anitrendz.net/news/2026/05/17/shiboyugi-playing-death-games-to-put-food-on-the-table-reveals-cloudy-beach-trailer-and-visual/?utm_source=rss&utm_medium=rss&utm_campaign=shiboyugi-playing-death-games-to-put-food-on-the-table-reveals-cloudy-beach-trailer-and-visual",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-17T15:39:15Z",
+    "summary": "A trailer and visual for SHIBOYUGI: Playing Death Games to Put Food on the Table 44:CLOUDY BEACH have been released",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9643662424846584,
+    "home_score": 0.701,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "eb079b37390c055a503f602330ba8c85a260f779",
+    "title": "Rascal Does Not Dream of a Dear Friend Anime Film Gets to Work in Sara Himeji Memorial Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/17/rascal-does-not-dream-of-a-dear-friend-anime-film-sara-himeji-memorial-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-17T14:22:00Z",
+    "summary": "The film premieres in Japan on October 16",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9472748887814002,
+    "home_score": 0.6948,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "October 16",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7c1484841b76d99c2cc801acb5afa2cc2a6c7d06",
+    "title": "RPGamer Round-Up: May 10 \u2013 May 17",
+    "url": "https://rpgamer.com/2026/05/rpgamer-round-up-may-10-may-17-2/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-17T14:07:24Z",
+    "summary": "Welcome to the latest edition of RPGamer's round-up column, where we look back at some of the articles that we have posted over the intervening period",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "manga"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9440789993787183,
+    "home_score": 0.6948,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 10",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "f179f11b7b75bc74e6468ba0f302723ce30c2034",
+    "title": "Daemons of the Shadow Realm Anime Adds Two New Cast Members",
+    "url": "https://crunchyroll.com/news/latest/2026/5/17/daemons-of-the-shadow-realm-anime-adds-two-new-cast-members",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-17T14:17:00Z",
+    "summary": "The new series from Fullmetal Alchemist creator Hiromu Arakawa is now streaming on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9461791390770959,
+    "home_score": 0.6943,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "75ab4fec4b6f434b91b9e8b8e3bd5b811a28eddd",
+    "title": "Preview: Mixtape Lives (Briefly) in the Moment",
+    "url": "https://www.siliconera.com/preview-mixtape-lives-briefly-in-the-moment/?utm_source=rss&utm_medium=rss&utm_campaign=preview-mixtape-lives-briefly-in-the-moment",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-17T13:00:31Z",
+    "summary": "Mixtape feels a little Lo-Fi, but there are some good times to be had",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9295753455907222,
+    "home_score": 0.6913,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a3c639cf4cdea8efa4cb5f4cdcfdf1c2800e5ffd",
+    "title": "TrySail Performs Ending Theme for From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage Anime",
+    "url": "https://crunchyroll.com/news/latest/2026/5/17/trysail-performs-ending-theme-for-from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage-anime",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-17T12:55:00Z",
+    "summary": "Adaptation based on Arata Shiraishi's isekai fantasy light novels debuts in July",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9283886353776487,
+    "home_score": 0.6863,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "be25d854a1e569db9ffb29b3a0f96005ef33b472",
+    "title": "Solo Leveling Producer Reveals The Anime Wasn\u2019t Made To Appeal To Overseas Fans",
+    "url": "https://animehunch.com/solo-leveling-producer-reveals-the-anime-wasnt-made-to-appeal-to-overseas-fans/",
+    "source_name": "Anime Hunch",
+    "source_type": "rss",
+    "published_at": "2026-05-17T14:05:40Z",
+    "summary": "At a time when the anime industry is actively trying to be inclusive of its international fans, A-1 Pictures animation producer Atsushi Kaneko has stated that the studio did not cr",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9437000428207418,
+    "home_score": 0.6817,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -49,9 +428,87 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9881921709107941,
-    "home_score": 0.7162,
+    "freshness_score": 0.9085671913907674,
+    "home_score": 0.6804,
     "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7e9fb1829f9b025ff4e17d16033c2596bc9f5941",
+    "title": "8 PS3 JRPGs You Should Avoid",
+    "url": "https://www.dualshockers.com/ps3-jrpgs-you-should-definitely-avoid/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-17T15:30:15Z",
+    "summary": "8 PS3 JRPGs You Should Avoid is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9623593514742552,
+    "home_score": 0.6776,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/ps3-jrpgs-you-should-avoid.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f37978ef82358897e0c2b8e0dc82c3d24d55f022",
+    "title": "Underrated Final Fantasy Legend Goes Infinite With Endless Sagas - MTG Rocks",
+    "url": "https://mtgrocks.com/mtg-oaka-traveling-merchant/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-17T15:51:25Z",
+    "summary": "Underrated Final Fantasy Legend Goes Infinite With Endless Sagas MTG Rocks",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9670859764106426,
+    "home_score": 0.6752,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8257dbabf4878120ee419f1a0b4202f3452a7001",
+    "title": "Final Fantasy XI Is Still Getting New Content and Updates - games.gg",
+    "url": "https://games.gg/news/final-fantasy-xi-24th-anniversary-updates/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-17T11:26:11Z",
+    "summary": "Final Fantasy XI Is Still Getting New Content and Updates games",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9094961767725374,
+    "home_score": 0.6733,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -76,8 +533,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9299800974085076,
-    "home_score": 0.7025,
+    "freshness_score": 0.8550456189891003,
+    "home_score": 0.6688,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -111,8 +568,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9548368634101854,
-    "home_score": 0.7017,
+    "freshness_score": 0.8778995154797851,
+    "home_score": 0.6671,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -125,6 +582,58 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "85c8263559b37f1daf40e7dc491a6f97e6f15968",
+    "title": "Big Nintendo Switch 2 and Switch sale live with games as low as $15",
+    "url": "https://nintendoeverything.com/big-nintendo-switch-2-and-switch-sale-live-with-games-as-low-as-15/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-17T13:00:59Z",
+    "summary": "GameStop kicked off a new sale today, and it\u2019s a pretty big one with various Nintendo Switch 2 and Switch games included",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9296755362809627,
+    "home_score": 0.6659,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6336e07551af05f764bf12c631c7930cb1ca1b18",
+    "title": "Hidden Nintendo DS JRPGs From Famous Developers You Probably Missed",
+    "url": "https://www.dualshockers.com/nintendo-ds-jrpgs-surprising-creators/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-17T12:30:14Z",
+    "summary": "From BioWare making a Sonic RPG to Monolith Soft making a Japanese Diablo, the DS hid some remarkable games from studios you'd never expect",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9230813815954563,
+    "home_score": 0.6599,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/ufc-que-choisir-6.jpg",
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -146,35 +655,10 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9137941365741833,
-    "home_score": 0.6832,
+    "freshness_score": 0.8401638651947875,
+    "home_score": 0.6501,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4f8108af922a2238caf82b11c0d8b4ac96ad0a7b",
-    "title": "Final Fantasy 9: Memoria Project Is The Perfect 25th Anniversary Celebration - ScreenRant",
-    "url": "https://screenrant.com/final-fantasy-9-memoria-project-25th-anniversary/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-17T11:00:20Z",
-    "summary": "Final Fantasy 9: Memoria Project Is The Perfect 25th Anniversary Celebration ScreenRant",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9833010842338014,
-    "home_score": 0.6825,
-    "source_quality": 0.76,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -203,8 +687,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.8300000000000001,
-    "freshness_score": 0.43497915186422037,
-    "home_score": 0.6642,
+    "freshness_score": 0.39993008361075094,
+    "home_score": 0.6485,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": {
@@ -217,6 +701,91 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "59f6400fc43d7273dcb6b2647f8ac9aad91754c4",
+    "title": "The Irregular at Magic High School: Yotsuba Succession Arc Shares Battle Clip",
+    "url": "https://anitrendz.net/news/2026/05/16/the-irregular-at-magic-high-school-yotsuba-succession-arc-shares-battle-clip/?utm_source=rss&utm_medium=rss&utm_campaign=the-irregular-at-magic-high-school-yotsuba-succession-arc-shares-battle-clip",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-17T06:05:20Z",
+    "summary": "A clip from The Irregular at Magic High School: Yotsuba Succession Arc film, which started screening in Japan on May 8, has been released on YouTube",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8443947178210653,
+    "home_score": 0.647,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "screening",
+      "date_label": "May 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4f8108af922a2238caf82b11c0d8b4ac96ad0a7b",
+    "title": "Final Fantasy 9: Memoria Project Is The Perfect 25th Anniversary Celebration - ScreenRant",
+    "url": "https://screenrant.com/final-fantasy-9-memoria-project-25th-anniversary/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-17T11:00:20Z",
+    "summary": "Final Fantasy 9: Memoria Project Is The Perfect 25th Anniversary Celebration ScreenRant",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9040701929139608,
+    "home_score": 0.6468,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6d058edb0d42a6c0319cf50e4108bbf14d67bde7",
+    "title": "Crunchyroll Announces Four New Presenters For Tenth Annual Crunchyroll Anime Awards",
+    "url": "https://anitrendz.net/news/2026/05/16/crunchyroll-announces-four-new-presenters-for-tenth-annual-crunchyroll-anime-awards/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-announces-four-new-presenters-for-tenth-annual-crunchyroll-anime-awards",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-17T06:02:57Z",
+    "summary": "Crunchyroll announced four new presenters for their anime awards: BamBam, TEN, Ethan Bortnick, and Young Miko",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.843928994632417,
+    "home_score": 0.6468,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -237,13 +806,52 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9105005020253608,
-    "home_score": 0.6572,
+    "freshness_score": 0.8371356293171529,
+    "home_score": 0.6242,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "May 17, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "13828b3226cb89aa13395b0c7d648cf87763b125",
+    "title": "Suntec anime convention organisers reject \u2018unfortunate\u2019 attempts to blame Amos Yee assault on them - stomp.sg",
+    "url": "https://www.stomp.sg/trending-now/suntec-anime-convention-organisers-reject-unfortunate-attempts-blame-amos-yee-assault-them",
+    "source_name": "Google News Anime Conventions",
+    "source_type": "rss",
+    "published_at": "2026-05-14T05:00:35Z",
+    "summary": "Suntec anime convention organisers reject \u2018unfortunate\u2019 attempts to blame Amos Yee assault on them stomp",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.7799999999999999,
+    "freshness_score": 0.3060141857758849,
+    "home_score": 0.6012,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -273,8 +881,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7873057032765696,
-    "home_score": 0.6273,
+    "freshness_score": 0.7238674272393361,
+    "home_score": 0.5987,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -300,162 +908,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8265704714276367,
-    "home_score": 0.6165,
+    "freshness_score": 0.7599683696866262,
+    "home_score": 0.5865,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/10-ps1-jrpgs-you-should-definitely-avoid.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "13828b3226cb89aa13395b0c7d648cf87763b125",
-    "title": "Suntec anime convention organisers reject \u2018unfortunate\u2019 attempts to blame Amos Yee assault on them - stomp.sg",
-    "url": "https://www.stomp.sg/trending-now/suntec-anime-convention-organisers-reject-unfortunate-attempts-blame-amos-yee-assault-them",
-    "source_name": "Google News Anime Conventions",
-    "source_type": "rss",
-    "published_at": "2026-05-14T05:00:35Z",
-    "summary": "Suntec anime convention organisers reject \u2018unfortunate\u2019 attempts to blame Amos Yee assault on them stomp",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.7799999999999999,
-    "freshness_score": 0.33283265308754434,
-    "home_score": 0.6133,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "29fcc84ac86da2e4790707bbb842cbd6e879f6a0",
-    "title": "10 Entirely Forgettable RPG Villains",
-    "url": "https://www.dualshockers.com/rpg-main-villains-who-were-entirely-forgettable/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-16T21:30:14Z",
-    "summary": "Here are 10 of the most forgettable RPG main villains that leave most players' minds the minute we finish the main story",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8151665353854706,
-    "home_score": 0.6113,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/10-rpg-main-villains-who-were-entirely-forgettable.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4ae52590e4a628ee1099df62cf6543337f0a6ebc",
-    "title": "RPG Backtrack 361 \u2013 Waking up as a Pok\u00e9mon",
-    "url": "https://rpgamer.com/2026/05/rpg-backtrack-361-waking-up-as-a-pokemon/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-16T16:01:33Z",
-    "summary": "On this week's episode, we kick off Mystery Dungeon May with a classic question: what if you could BE a Pok\u00e9mon? The Pok\u00e9mon Mystery Dungeon series explores this concept, and offer",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.75544613545877,
-    "home_score": 0.61,
-    "source_quality": 0.8,
-    "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/backtrack/2026/backtrack361.mp3",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Cassandra"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "9d32453eb288817b6f88545c3c9f74ca5d12c1d7",
-    "title": "Pokemon Champions producer on how the team is deciding which Pokemon to include in the game and more",
-    "url": "https://nintendoeverything.com/pokemon-champions-how-pokemon-are-decided-for-the-game/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-05-16T20:00:22Z",
-    "summary": "Pokemon Champions producer Masaaki Hoshino has shared a few comments about the game, including how the team is going about picking Pokemon",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7983843524955706,
-    "home_score": 0.6068,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4392814b3672ebe57f05bea5760a6fc992a13772",
-    "title": "10 Best JRPG Soundtracks Worth Listening to Right Now",
-    "url": "https://www.dualshockers.com/jrpg-osts-we-still-listen-to-today/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-16T20:30:14Z",
-    "summary": "From Miki Higashino's regional sounds to Yoko Shimomura's Dearly Beloved, these ten JRPG soundtracks are just as good outside the game as they are in",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8039230375206272,
-    "home_score": 0.6063,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/thumbnail-4.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -481,48 +937,118 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5221648836060694,
-    "home_score": 0.605,
+    "freshness_score": 0.4800907014662136,
+    "home_score": 0.586,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "9394d825485b1346b4751bff7685ce6172c94809",
-    "title": "Square Enix unveils new Final Fantasy board game about climbing the Shinra Tower - wargamer.com",
-    "url": "https://www.wargamer.com/board-games/final-fantasy-ascend-shinra-tower",
-    "source_name": "Google News JRPG",
+    "id": "85d65bf6736dfbb9ea6f77e8f7b720c347d5b243",
+    "title": "Goddess of Victory: Nikke Announces Animated Shorts Series, 1st to Drop on May 22",
+    "url": "https://anitrendz.net/news/2026/05/16/goddess-of-victory-nikke-announces-animated-shorts-series-1st-to-drop-on-may-22/?utm_source=rss&utm_medium=rss&utm_campaign=goddess-of-victory-nikke-announces-animated-shorts-series-1st-to-drop-on-may-22",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-16T20:28:21Z",
-    "summary": "Square Enix unveils new Final Fantasy board game about climbing the Shinra Tower wargamer",
+    "published_at": "2026-05-16T17:24:57Z",
+    "summary": "RPG shooter Goddess of Victory: Nikke is getting a series of animated shorts titled Outpost: Off-Duty Tales",
     "content": "",
     "categories": [
+      "anime",
+      "manga",
+      "events",
       "games"
     ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8035724621661031,
-    "home_score": 0.6016,
-    "source_quality": 0.76,
+    "freshness_score": 0.7081142121753706,
+    "home_score": 0.5857,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 22",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "f32d5163dfb8890e2e1d62dc2fb5d9be1463c5ea",
+    "title": "MediaOCD Unveils Shaman King, Cat\u2019s Eye, Belladonna of Sadness & More May 2026 Discotek Deep Dives Releases",
+    "url": "https://anitrendz.net/news/2026/05/16/mediaocd-unveils-shaman-king-cats-eye-belladonna-of-sadness-more-may-2026-discotek-deep-dives-releases/?utm_source=rss&utm_medium=rss&utm_campaign=mediaocd-unveils-shaman-king-cats-eye-belladonna-of-sadness-more-may-2026-discotek-deep-dives-releases",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-16T16:53:03Z",
+    "summary": "MediaOCD has announced another set of Discotek Deep Dives Blu-ray releases for May 2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7029045703651159,
+    "home_score": 0.5833,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "3e3b039c19e192267180b8c3a628e365ada788ec",
-    "title": "The Most Tragic Villains in RPGs",
-    "url": "https://www.dualshockers.com/most-tragic-rpg-villains-ranked/",
+    "id": "4ae52590e4a628ee1099df62cf6543337f0a6ebc",
+    "title": "RPG Backtrack 361 \u2013 Waking up as a Pok\u00e9mon",
+    "url": "https://rpgamer.com/2026/05/rpg-backtrack-361-waking-up-as-a-pokemon/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-16T16:01:33Z",
+    "summary": "On this week's episode, we kick off Mystery Dungeon May with a classic question: what if you could BE a Pok\u00e9mon? The Pok\u00e9mon Mystery Dungeon series explores this concept, and offer",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6945749775415245,
+    "home_score": 0.5826,
+    "source_quality": 0.8,
+    "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/backtrack/2026/backtrack361.mp3",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Cassandra"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "29fcc84ac86da2e4790707bbb842cbd6e879f6a0",
+    "title": "10 Entirely Forgettable RPG Villains",
+    "url": "https://www.dualshockers.com/rpg-main-villains-who-were-entirely-forgettable/",
     "source_name": "DualShockers",
     "source_type": "rss",
-    "published_at": "2026-05-16T19:30:13Z",
-    "summary": "There's nothing more compelling than a sad villain who needs to be guided from their path, and here are the saddest",
+    "published_at": "2026-05-16T21:30:14Z",
+    "summary": "Here are 10 of the most forgettable RPG main villains that leave most players' minds the minute we finish the main story",
     "content": "",
     "categories": [
       "games",
@@ -533,35 +1059,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7928315610923121,
-    "home_score": 0.6013,
+    "freshness_score": 0.7494833222378644,
+    "home_score": 0.5818,
     "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/tragic-rpg-villains.jpg",
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/10-rpg-main-villains-who-were-entirely-forgettable.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "a9da0aa3f1cd30dc3a4649069ea7a5762977fd46",
-    "title": "Review: Nitro Gen Omega Lets You Create Your Own Mecha Anime Story",
-    "url": "https://www.siliconera.com/review-nitro-gen-omega-lets-you-create-your-own-mecha-anime-story/?utm_source=rss&utm_medium=rss&utm_campaign=review-nitro-gen-omega-lets-you-create-your-own-mecha-anime-story",
-    "source_name": "Siliconera",
+    "id": "f3328cd8fff9181a4b0dd57a12b26fe6689a1272",
+    "title": "Taito Ban, Nobunaga Shimazaki & More Join Voice Cast of The Ogre\u2019s Bride TV Anime",
+    "url": "https://anitrendz.net/news/2026/05/16/taito-ban-nobunaga-shimazaki-more-join-voice-cast-of-the-ogres-bride-tv-anime/?utm_source=rss&utm_medium=rss&utm_campaign=taito-ban-nobunaga-shimazaki-more-join-voice-cast-of-the-ogres-bride-tv-anime",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-16T13:00:00Z",
-    "summary": "Nitro Gen Omega feels totally original, even if it takes a little adjusting to life as a mecha mercenary",
+    "published_at": "2026-05-16T16:26:50Z",
+    "summary": "Three additional voice cast members have been announced for the upcoming The Ogre's Bride TV anime series",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch",
+      "manga",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7243562135724024,
-    "home_score": 0.599,
-    "source_quality": 0.82,
+    "freshness_score": 0.6986517888199072,
+    "home_score": 0.5814,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -588,59 +1113,21 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.5055705578224559,
-    "home_score": 0.599,
+    "freshness_score": 0.46483348689341153,
+    "home_score": 0.5807,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "f9ab6580d9475fbcea2ac8efe76b652fb50c2c67",
-    "title": "7 Reasons the Street Fighter Movie Might Be A Great Adaptation",
-    "url": "https://www.dualshockers.com/street-fighter-movie-details-that-suggest-this-adaptation-might-finally-get-it-right/",
-    "source_name": "DualShockers",
+    "id": "d299a258a5d2565223f9fd86a1c4f60ab0830f66",
+    "title": "My Hero Academia I Am A Hero Too Short Sets August 3 as Streaming Debut Date, Will Be at Anime Expo",
+    "url": "https://anitrendz.net/news/2026/05/16/my-hero-academia-i-am-a-hero-too-short-sets-august-3-as-streaming-debut-date-will-be-at-anime-expo/?utm_source=rss&utm_medium=rss&utm_campaign=my-hero-academia-i-am-a-hero-too-short-sets-august-3-as-streaming-debut-date-will-be-at-anime-expo",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-16T18:30:13Z",
-    "summary": "The new Street Fighter movie featuring Ken Masters, Ryu, Chun-Li and more is just one of the reasons it might be a more faithful adaptation",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7818961268696095,
-    "home_score": 0.5964,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/street-fighter-movie-successful-details.jpg",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Ken Masters",
-        "Ryu",
-        "Chun-Li"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "1542b5390fe437ab543aa4c6b145f6de06e26bd5",
-    "title": "Witch on the Holy Night Anime Movie Reveals Character Visuals",
-    "url": "https://animecorner.me/witch-on-the-holy-night-anime-movie-reveals-character-visuals/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-16T11:27:20Z",
-    "summary": "Witch on the Holy Night Anime Movie Reveals Character Visuals",
+    "published_at": "2026-05-16T16:15:06Z",
+    "summary": "The recently announced My Hero Academia short anime I am a hero too will make its streaming debut on August 3 in Japan",
     "content": "",
     "categories": [
       "anime",
@@ -651,9 +1138,69 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7089835295059775,
-    "home_score": 0.589,
-    "source_quality": 0.8,
+    "freshness_score": 0.6967567896766892,
+    "home_score": 0.5805,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "expo",
+      "date_label": "August 3",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9d32453eb288817b6f88545c3c9f74ca5d12c1d7",
+    "title": "Pokemon Champions producer on how the team is deciding which Pokemon to include in the game and more",
+    "url": "https://nintendoeverything.com/pokemon-champions-how-pokemon-are-decided-for-the-game/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-16T20:00:22Z",
+    "summary": "Pokemon Champions producer Masaaki Hoshino has shared a few comments about the game, including how the team is going about picking Pokemon",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7340533983447226,
+    "home_score": 0.5778,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a9da0aa3f1cd30dc3a4649069ea7a5762977fd46",
+    "title": "Review: Nitro Gen Omega Lets You Create Your Own Mecha Anime Story",
+    "url": "https://www.siliconera.com/review-nitro-gen-omega-lets-you-create-your-own-mecha-anime-story/?utm_source=rss&utm_medium=rss&utm_campaign=review-nitro-gen-omega-lets-you-create-your-own-mecha-anime-story",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-16T13:00:00Z",
+    "summary": "Nitro Gen Omega feels totally original, even if it takes a little adjusting to life as a mecha mercenary",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6659901822382491,
+    "home_score": 0.5727,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -679,8 +1226,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4729611636959409,
-    "home_score": 0.5888,
+    "freshness_score": 0.4348516411291732,
+    "home_score": 0.5717,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -693,6 +1240,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "1542b5390fe437ab543aa4c6b145f6de06e26bd5",
+    "title": "Witch on the Holy Night Anime Movie Reveals Character Visuals",
+    "url": "https://animecorner.me/witch-on-the-holy-night-anime-movie-reveals-character-visuals/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-16T11:27:20Z",
+    "summary": "Witch on the Holy Night anime movie revealed the character visuals for Aoko Aozaki,\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6518561642898449,
+    "home_score": 0.5633,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -714,8 +1286,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6962435589285723,
-    "home_score": 0.5818,
+    "freshness_score": 0.6401427336924522,
+    "home_score": 0.5566,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -740,8 +1312,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6897974370594069,
-    "home_score": 0.5804,
+    "freshness_score": 0.6342160174266841,
+    "home_score": 0.5554,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -776,8 +1348,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6897415492021053,
-    "home_score": 0.5804,
+    "freshness_score": 0.6341646328994194,
+    "home_score": 0.5554,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -802,8 +1374,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6899863130979694,
-    "home_score": 0.579,
+    "freshness_score": 0.6343896744654439,
+    "home_score": 0.554,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -816,33 +1388,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "611f0a5cde95075edef966ecd3e30f405b92c49f",
-    "title": "GATE Season 2 Reveals New Key Visual",
-    "url": "https://animecorner.me/gate-season-2-reveals-new-key-visual/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-16T02:05:30Z",
-    "summary": "The upcoming GATE Season 2, titled GATE 2: Tides of Conflict revealed a new key\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.622521570473603,
-    "home_score": 0.5701,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -868,8 +1413,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4538677386744375,
-    "home_score": 0.5697,
+    "freshness_score": 0.4172966940969636,
+    "home_score": 0.5533,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -900,8 +1445,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4693062060126569,
-    "home_score": 0.5692,
+    "freshness_score": 0.43149119583088075,
+    "home_score": 0.5522,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C0%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/o2vpNTKvQEOTD1YmGPEd",
     "event_metadata": {
@@ -917,53 +1462,28 @@
     "result_type": "article"
   },
   {
-    "id": "a225f4aebf64d49b0393ca62a6abf41c0663e284",
-    "title": "Where Winds Meet Reveals Imperial Palace Expansion",
-    "url": "https://monstervine.com/2026/05/where-winds-meet-imperial-palace-expansion-roadmap/",
-    "source_name": "MonsterVine",
+    "id": "611f0a5cde95075edef966ecd3e30f405b92c49f",
+    "title": "GATE Season 2 Reveals New Key Visual",
+    "url": "https://animecorner.me/gate-season-2-reveals-new-key-visual/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-05-16T07:49:21Z",
-    "summary": "Everstone Studio has announced Imperial Palace, the second major expansion for Where Winds Meet, as part of the open-world Wuxia ARPG\u2019s half-anniversary celebration",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6740963237438174,
-    "home_score": 0.5643,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e0dadeabe2c46166e2a2e71b8ef041811bbffc13",
-    "title": "Witch on the Holy Night Anime Film Unveils Trio of Character Visuals",
-    "url": "https://crunchyroll.com/news/latest/2026/5/16/witch-on-the-holy-night-anime-film-unveils-trio-of-character-visuals",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-16T05:36:00Z",
-    "summary": "Studio ufotable's latest TYPE-MOON adaptation premieres this year",
+    "published_at": "2026-05-16T02:05:30Z",
+    "summary": "The upcoming GATE Season 2, titled GATE 2: Tides of Conflict revealed a new key\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "games",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6536062419730988,
-    "home_score": 0.5626,
-    "source_quality": 0.79,
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.5723610026033201,
+    "home_score": 0.5476,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -990,8 +1510,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.4527661653868375,
-    "home_score": 0.5617,
+    "freshness_score": 0.4162838924300033,
+    "home_score": 0.5453,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C0%2C1920%2C960%5D/resize=w:1920/pjpg=q:90/compress/0ZJb8nhRj2UlcJgELxlQ",
     "event_metadata": {
@@ -1007,50 +1527,105 @@
     "result_type": "article"
   },
   {
-    "id": "077b4de81a87366684e45d287a46ecc99890ef68",
-    "title": "Zero Parades: For Dead Spies showcase reveals new gameplay, music video, and more",
-    "url": "https://www.rpgsite.net/news/20380-zero-parades-for-dead-spies-showcase-new-gameplay-music-video-twitch",
-    "source_name": "RPG Site",
+    "id": "504ec881364594882c426a465ae415ff87d7c9a1",
+    "title": "Gundam Seed Freedom Zero Confirms Theatrical Release, Reveals New Teaser Trailer",
+    "url": "https://anitrendz.net/news/2026/05/15/gundam-seed-freedom-zero-confirms-theatrical-release-reveals-new-teaser-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=gundam-seed-freedom-zero-confirms-theatrical-release-reveals-new-teaser-trailer",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-05-16T07:52:46Z",
-    "summary": "The showcase also had merchandise reveals with an extended gameplay video",
+    "published_at": "2026-05-16T06:51:28Z",
+    "summary": "Gundam Seed Freedom Zero will be released as a movie",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch"
+      "manga",
+      "events",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6746298849997757,
-    "home_score": 0.5571,
-    "source_quality": 0.81,
+    "freshness_score": 0.6115310500834291,
+    "home_score": 0.5422,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "6770ef8eac28782d9e39683ce327b95e7739c4fb",
-    "title": "The Best RPGs Playable on Steam Deck",
-    "url": "https://www.rpgsite.net/feature/12808-the-best-rpgs-playable-on-steam-deck",
-    "source_name": "RPG Site",
+    "id": "a225f4aebf64d49b0393ca62a6abf41c0663e284",
+    "title": "Where Winds Meet Reveals Imperial Palace Expansion",
+    "url": "https://monstervine.com/2026/05/where-winds-meet-imperial-palace-expansion-roadmap/",
+    "source_name": "MonsterVine",
     "source_type": "rss",
-    "published_at": "2026-05-16T08:46:46Z",
-    "summary": "Valve's new PC handheld is a wonderful way to play a large variety of Steam's RPGs, and we're here to highlight some of the best",
+    "published_at": "2026-05-16T07:49:21Z",
+    "summary": "Everstone Studio has announced Imperial Palace, the second major expansion for Where Winds Meet, as part of the open-world Wuxia ARPG\u2019s half-anniversary celebration",
     "content": "",
     "categories": [
       "games",
-      "anime"
+      "anime",
+      "merch",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6831156852517035,
-    "home_score": 0.5549,
-    "source_quality": 0.81,
+    "freshness_score": 0.619780042076266,
+    "home_score": 0.5399,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e0dadeabe2c46166e2a2e71b8ef041811bbffc13",
+    "title": "Witch on the Holy Night Anime Film Unveils Trio of Character Visuals",
+    "url": "https://crunchyroll.com/news/latest/2026/5/16/witch-on-the-holy-night-anime-film-unveils-trio-of-character-visuals",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-16T05:36:00Z",
+    "summary": "Studio ufotable's latest TYPE-MOON adaptation premieres this year",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6009409798397312,
+    "home_score": 0.5389,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b63bc9663df7299d16c50ccd8784fc162d5a9e7a",
+    "title": "Witch on the Holy Night Movie Reveals New Character Visuals and Returning Cast",
+    "url": "https://noisypixel.net/witch-on-the-holy-night-movie-character-visuals-cast/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-16T04:39:56Z",
+    "summary": "Type-Moon and ufotable have revealed new character visuals for the upcoming theatrical anime adaptation of Witch on the Holy Night, alongside confirmation of the film\u2019s main cast",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.5931922372113102,
+    "home_score": 0.5339,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1076,8 +1651,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6012284083267285,
-    "home_score": 0.5546,
+    "freshness_score": 0.5527835681730109,
+    "home_score": 0.5328,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -1105,8 +1680,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.5868572797917356,
-    "home_score": 0.5541,
+    "freshness_score": 0.5395704259504702,
+    "home_score": 0.5328,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1122,6 +1697,31 @@
       ],
       "merch_status": "Merch or booth updates mentioned"
     },
+    "result_type": "article"
+  },
+  {
+    "id": "077b4de81a87366684e45d287a46ecc99890ef68",
+    "title": "Zero Parades: For Dead Spies showcase reveals new gameplay, music video, and more",
+    "url": "https://www.rpgsite.net/news/20380-zero-parades-for-dead-spies-showcase-new-gameplay-music-video-twitch",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-16T07:52:46Z",
+    "summary": "The showcase also had merchandise reveals with an extended gameplay video",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6202706294429573,
+    "home_score": 0.5326,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1144,8 +1744,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.5927046997061881,
-    "home_score": 0.5522,
+    "freshness_score": 0.5449466655529327,
+    "home_score": 0.5307,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -1161,688 +1761,25 @@
     "result_type": "article"
   },
   {
-    "id": "cf2cc7674398cafeb022f26b1fbbd8988e8abb3e",
-    "title": "Dragon Ball DAIMA Anime Comes Home in Limited Edition Blu-ray Set This August",
-    "url": "https://crunchyroll.com/news/announcements/2026/5/15/august-2026-home-video-crunchyroll",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-15T21:34:00Z",
-    "summary": "Complete Season set now available to pre-order along with the rest of August's slate",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.5846018495768562,
-    "home_score": 0.5516,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "474ca9ccca95cc4b195ad34025694ca634ed5e25",
-    "title": "The Oblivious Saint Can't Contain Her Power Anime Unveils New Trailer, Additional Cast",
-    "url": "https://animecorner.me/the-oblivious-saint-cant-contain-her-power-anime-unveils-new-trailer-additional-cast/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-16T02:25:48Z",
-    "summary": "The Oblivious Saint Can't Contain Her Power anime unveiled a new trailer on Friday\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6254537301324347,
-    "home_score": 0.5515,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0dfe0c76ab8fb4aba27d7c9e7ed30c53c8489348",
-    "title": "Cyborg 009 Nemesis Anime Casts Yuki Kaji as 009/Joe Shimamura",
-    "url": "https://crunchyroll.com/news/latest/2026/5/16/cyborg-009-nemesis-anime-yuki-kaji-joe-shimamura-009",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-16T02:30:00Z",
-    "summary": "The latest anime adaptation starts streaming this summer",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6260620809888562,
-    "home_score": 0.5502,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e14f9a76209f0c6269f8caea7acfe8a646056bee",
-    "title": "Dota 2 pros salaries are too high and the scene is suffering for it",
-    "url": "https://esportsinsider.com/2026/05/dota-2-pros-salaries-too-high",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-05-15T21:49:16Z",
-    "summary": "With Norwegian organization HEROIC recently pulling out of the scene, the financial sustainability of the professional Dota 2 scene has been a pretty hot topic in the community",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events",
-      "gacha"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.5866713680379697,
-    "home_score": 0.5495,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "993236c1c9620271668d2cd6e4d8db757bf973d8",
-    "title": "Voice Actress Wakana Yamazaki Died at 61",
-    "url": "https://www.siliconera.com/voice-actress-wakana-yamazaki-died-at-61/?utm_source=rss&utm_medium=rss&utm_campaign=voice-actress-wakana-yamazaki-died-at-61",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-16T01:00:16Z",
-    "summary": "Akemi Okamura, who voices Nami in One Piece, will succeed her most iconic role",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6131921463833605,
-    "home_score": 0.5489,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4f0809816aa23e5a597d4766746f158992e101d8",
-    "title": "Round1 USA Honkai: Star Rail Crossover Promotion Detailed",
-    "url": "https://www.siliconera.com/round1-usa-honkai-star-rail-crossover-promotion-detailed/?utm_source=rss&utm_medium=rss&utm_campaign=round1-usa-honkai-star-rail-crossover-promotion-detailed",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-15T19:00:00Z",
-    "summary": "HoYoVerse and Round1 USA shared all the merchandise and requirements to get them ahead of the Honkai: Star Rail crossover event",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.5641291838760539,
-    "home_score": 0.5469,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d5b46015c382704efd6a3676cdbe1581c9fd99ab",
-    "title": "Medaka Kuroiwa Is Impervious to My Charms Released a New Visual and Trailer",
-    "url": "https://blog.jlist.com/news/medaka-kuroiwa-is-impervious-to-my-charms-released-a-new-visual-and-trailer/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-05-15T20:30:00Z",
-    "summary": "The second season of Medaka Kuroiwa Is Impervious to My Charms is on its way",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.5760048396309868,
-    "home_score": 0.5462,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "32356c1f9800bce7b475756986ec979652bcd7d3",
-    "title": "Love Live! Superstar!! Anime and Japan Aerospace Exploration Agency Launch Collaboration Project",
-    "url": "https://crunchyroll.com/news/latest/2026/5/16/love-live-superstar-anime-japan-aerospace-exploration-agency-collaboration-project",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-16T01:26:00Z",
-    "summary": "\"JAXA \u00d7 Liella!\" collaboration livestream Episode 1 is now available",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6168554522299764,
-    "home_score": 0.5461,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9310d631976fde751b0bb5eb2df927c54e91971e",
-    "title": "All teams qualified for the VALORANT Masters London 2026",
-    "url": "https://esports.gg/news/valorant/teams-qualified-valorant-masters-london-2026/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-15T18:31:43Z",
-    "summary": "Here are all the teams that have qualified for VALORANT Masters London 2026, set to take place from June 6 to June 21",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.5604475778162208,
-    "home_score": 0.5442,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 6",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0ae6e0ea1cbe7087f2abbd44fcf7a27e4ac15df5",
-    "title": "New FFXIV Free Login Campaign Runs Until June 2026",
-    "url": "https://www.siliconera.com/new-ffxiv-free-login-campaign-runs-until-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=new-ffxiv-free-login-campaign-runs-until-june-2026",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-15T20:00:00Z",
-    "summary": "Past FFXIV players can head back to Eorzea for 96 hours now that the Free Login Campaign is back for a month",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5720189757406309,
-    "home_score": 0.5304,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c44cddc6446355f09fab1e4a9b02d7ef3d3739ff",
-    "title": "Studio Ghibli Fest 2026 Tickets on Sale Now, Announcement Trailer Released",
-    "url": "https://animecorner.me/studio-ghibli-fest-2026-tickets-on-sale-now-announcement-trailer-released/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-15T19:02:00Z",
-    "summary": "Tickets are now on sale for Studio Ghibli Fest 2026, featuring a seven-film lineup\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5643902080295417,
-    "home_score": 0.524,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": "Tickets on sale",
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "067ed88339d9fe129ec08803de4edf05259d46a4",
-    "title": "Street Fighter 6 Chun-Li Premium Masterline Figure Costs at Least $1,099",
-    "url": "https://www.siliconera.com/street-fighter-6-chun-li-premium-masterline-figure-costs-at-least-1099/?utm_source=rss&utm_medium=rss&utm_campaign=street-fighter-6-chun-li-premium-masterline-figure-costs-at-least-1099",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-15T18:00:00Z",
-    "summary": "Prime 1 Studio's Street Fighter 6 Chun-Li Premium Masterline figure costs between $1,099 and $1,599",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5563482150601109,
-    "home_score": 0.5234,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1c44dde6e2ff214b91b646920efc8ad5a5e09c3e",
-    "title": "Spring 2026 Anime Rankings - Week 6",
-    "url": "https://animecorner.me/spring-2026-anime-rankings-week-6/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-15T12:42:24Z",
-    "summary": "The sixth weekly poll for the Spring 2026 anime season, hosted by Anime Corner,\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.5169134739666356,
-    "home_score": 0.5226,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2c4aa0186ccf2bea98dee5632142fff1cf5e725a",
-    "title": "Announcing the Fan Festival 2026 in Anaheim Art and Video Contests Winners!",
-    "url": "https://img.finalfantasyxiv.com/t/3c4f806edd6ce4259edf29debd3aa0c8b7a8a306.png?1778835210",
-    "source_name": "Final Fantasy XIV News",
-    "source_type": "rss",
-    "published_at": "2026-05-15T19:00:00Z",
-    "summary": "Fan Festival 2026 in Anaheim has concluded",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5641289335459605,
-    "home_score": 0.5224,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "6cd0bfedc117e5948f1c8f549664049110942a49",
-    "title": "Pokemon Quagsire Table Looks Friendly and Helpful",
-    "url": "https://www.siliconera.com/pokemon-quagsire-table-looks-friendly-and-helpful/?utm_source=rss&utm_medium=rss&utm_campaign=pokemon-quagsire-table-looks-friendly-and-helpful",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-15T17:00:00Z",
-    "summary": "Aww, it's doing such a good job! The post Pokemon Quagsire Table Looks Friendly and Helpful appeared first on Siliconera",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5486745682481537,
-    "home_score": 0.5199,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "792937a17c098548501a7681c0ace2e1bfc99066",
-    "title": "\u2018Fortnite\u2019 Brings Tracer, Genji, D.Va, And Mercy To Battle Island With \u2018Overwatch\u2019 Collab",
-    "url": "https://geekculture.co/fortnite-brings-tracer-genji-d-va-and-mercy-to-battle-island-with-overwatch-collab/",
-    "source_name": "Geek Culture",
-    "source_type": "rss",
-    "published_at": "2026-05-14T04:30:56Z",
-    "summary": "Epic Games' crossover giant preps for an incoming Blizzard",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.33055617518121405,
-    "home_score": 0.5188,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a5f777e4d49e37135c6572ac5c4c7e21da88c1ac",
-    "title": "What to expect with HoYo Fest 2023 at Anime Festival Asia Singapore 2023 - HardwareZone",
-    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/feature-what-to-expect-hoyo-fest-2023-afa-singapore-anime-festival-asia-suntec",
-    "source_name": "Google News HoyoFest",
-    "source_type": "rss",
-    "published_at": "2023-11-25T08:00:00Z",
-    "summary": "What to expect with HoYo Fest 2023 at Anime Festival Asia Singapore 2023 HardwareZone",
-    "content": "",
-    "categories": [
-      "events",
-      "gacha",
-      "merch",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore",
-      "hoyofest"
-    ],
-    "entity_tags": [
-      "AFA Singapore",
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 1.0,
-    "freshness_score": 1.2798335547318377e-131,
-    "home_score": 0.5185,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0820ae5f09e2fc923b33bbf5f4cd43f860c3dc24",
-    "title": "HoYo FEST 2023 in Singapore to take place at Anime Festival Asia in November - Yahoo News Singapore",
-    "url": "https://sg.news.yahoo.com/hoyo-fest-2023-in-singapore-to-take-place-at-anime-festival-asia-in-november-054746186.html",
-    "source_name": "Google News HoyoFest",
-    "source_type": "rss",
-    "published_at": "2023-09-11T07:00:00Z",
-    "summary": "HoYo FEST 2023 in Singapore to take place at Anime Festival Asia in November Yahoo News Singapore",
-    "content": "",
-    "categories": [
-      "events",
-      "gacha",
-      "merch",
-      "anime"
-    ],
-    "tags": [
-      "afa",
-      "singapore",
-      "hoyofest"
-    ],
-    "entity_tags": [
-      "AFA Singapore",
-      "HoyoFest Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 1.0,
-    "freshness_score": 1.7529098342184317e-142,
-    "home_score": 0.5185,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c16532a1c3c284be91caaaec4c5489c08df002a1",
-    "title": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! - Geek Culture",
-    "url": "https://geekculture.co/anime-festival-asia-singapore-afa-sg-2022-artist-alley-highlights/",
-    "source_name": "Google News Artist Alley",
-    "source_type": "rss",
-    "published_at": "2022-11-26T08:00:00Z",
-    "summary": "Anime Festival Asia Singapore (AFA SG) 2022 Artist Alley Highlights! Geek Culture",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "afa",
-      "singapore"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 1.0,
-    "freshness_score": 2.586761285658163e-184,
-    "home_score": 0.517,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Lineup details mentioned",
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "1bacbd00f8e79d2a92564d7851ca5f4941a02f7a",
-    "title": "New Gundam x Hololive Vtubers, Designs, and Details Shared",
-    "url": "https://www.siliconera.com/new-gundam-x-hololive-vtubers-designs-and-details-shared/?utm_source=rss&utm_medium=rss&utm_campaign=new-gundam-x-hololive-vtubers-designs-and-details-shared",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-15T16:00:00Z",
-    "summary": "New phase 1 Gundam x Hololive crossover art and reveals appeared alongside the reveal of phase 2 Vtubers like Calliope Mori and IRyS",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5411067632792025,
-    "home_score": 0.5165,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "78d54c451c7629c90f20dfd8d4012faeae2c04bb",
-    "title": "Blue Archive will get official Steam Deck support and controller support after May 26",
-    "url": "https://www.rpgsite.net/news/20374-blue-archive-steam-deck-controller-support-update-release-date",
+    "id": "6770ef8eac28782d9e39683ce327b95e7739c4fb",
+    "title": "The Best RPGs Playable on Steam Deck",
+    "url": "https://www.rpgsite.net/feature/12808-the-best-rpgs-playable-on-steam-deck",
     "source_name": "RPG Site",
     "source_type": "rss",
-    "published_at": "2026-05-15T16:22:37Z",
-    "summary": "This announcement was made in the special 4",
+    "published_at": "2026-05-16T08:46:46Z",
+    "summary": "Valve's new PC handheld is a wonderful way to play a large variety of Steam's RPGs, and we're here to highlight some of the best",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "events"
+      "anime"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.5439469478203722,
-    "home_score": 0.5163,
+    "freshness_score": 0.6280726743431532,
+    "home_score": 0.5301,
     "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 26",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "15613a94355e8993bfbfcb4287f8262ec14feb4c",
-    "title": "New Gundam Wing Video, Original Series Remaster and More Announced for Gundam 50th Anniversary",
-    "url": "https://crunchyroll.com/news/latest/2026/5/15/new-gundam-wing-video-original-series-remaster-gundam-50th-anniversary",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-15T16:58:00Z",
-    "summary": "Theatrical release also confirmed for Mobile Suit Gundam SEED FREEDOM ZERO",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.5484203891852064,
-    "home_score": 0.5153,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
