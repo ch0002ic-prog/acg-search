@@ -147,7 +147,7 @@
     "freshness_score": 1.0,
     "home_score": 0.8215,
     "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=937c7d304bd0c619c0340ae571645cb0",
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
     "event_metadata": {
       "event_type": "expo",
       "date_label": "13 Aug 2026 to 16 Aug 2026",
@@ -459,6 +459,44 @@
     "result_type": "event"
   },
   {
+    "id": "efb6d5ecf62620abd9381227204c528e78e0f420",
+    "title": "Gamedev Jalan",
+    "url": "https://www.eventbrite.sg/e/gamedev-jalan-tickets-1989444139977",
+    "source_name": "Eventbrite SG Gaming",
+    "source_type": "event_listing",
+    "published_at": "2026-06-21T00:00:00Z",
+    "summary": "A free community afternoon for Singapore game devs and curious players: talks, indie games, and the local scene in one place",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "esports"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 1.0,
+    "home_score": 0.8015,
+    "source_quality": 0.76,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184571752%2F2858659952031%2F1%2Foriginal.20260514-062600?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.377&fp-y=0.386&s=55da061b1f4fe6735d390f0c5622db0b",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "21 Jun 2026",
+      "venue": "National Library Building - Imagination & Possibility Rooms (Level 5)",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/gamedev-jalan-tickets-1989444139977",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
     "id": "34e7aaa88fafb7de753f56dc6173b264137c85d0",
     "title": "One Punggol - Esports Arena 2026",
     "url": "https://www.eventbrite.sg/e/one-punggol-esports-arena-2026-tickets-1989296881523",
@@ -606,51 +644,13 @@
     "result_type": "event"
   },
   {
-    "id": "0cc296405fe0b81f30521450e64c276a573cfe7f",
-    "title": "Wonderland - MazeFox Escape Game in Vivocity!",
-    "url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
+    "id": "2f5be626bc9da710a0a06bdadd089ec3403cd07e",
+    "title": "VR Escape Room - Singles + Friend-making events",
+    "url": "https://www.eventbrite.sg/e/vr-escape-room-singles-friend-making-events-tickets-1988984970589",
     "source_name": "Eventbrite SG Gaming",
     "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Inspired by our very first Escape Game held in Jurong Point in 2016, now upgraded to be bigger and better in Vivocity! Venue: The Escape Artist - #1 Physical & Virtual Escape Room",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9957552365514714,
-    "home_score": 0.7996,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F598733659%2F258796489549%2F1%2Foriginal.20230915-120552?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C174%2C1600%2C800&s=2223279d923ba5347023b274a08deae6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "The Escape Artist - #1 Physical & Virtual Escape Room In Singapore",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/wonderland-mazefox-escape-game-in-vivocity-tickets-1985586245912",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "65545fa285949f3a5bd9e86a433adf6ad62e0db0",
-    "title": "Gamedev Together",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
+    "published_at": "2026-05-31T00:00:00Z",
+    "summary": "Join us for \"VR Embarking on an immersive action-adventure\" Venue: VR+ZONE",
     "content": "",
     "categories": [
       "events",
@@ -663,16 +663,16 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 0.9957552338277427,
-    "home_score": 0.7996,
+    "freshness_score": 1.0,
+    "home_score": 0.8015,
     "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2a3e5d556e369526088f916483a32f5f",
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184002554%2F281758671497%2F1%2Foriginal.20260507-102017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.548&fp-y=0.347&s=80071e99265b3a8bcd101b12ac26c42b",
     "event_metadata": {
       "event_type": "event",
-      "date_label": "23 May 2026",
-      "venue": "MAGES Studio",
+      "date_label": "31 May 2026",
+      "venue": "VR+ZONE",
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-tickets-1988004096769",
+      "ticket_url": "https://www.eventbrite.sg/e/vr-escape-room-singles-friend-making-events-tickets-1988984970589",
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
@@ -680,43 +680,97 @@
     "result_type": "event"
   },
   {
-    "id": "55515ab098d644238f342830e8881127726d98da",
-    "title": "Board Games + PS5 + Nitendo Switch - Singles + Friend-making events",
-    "url": "https://www.eventbrite.sg/e/board-games-ps5-nitendo-switch-singles-friend-making-events-tickets-1988988240369",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-23T00:00:00Z",
-    "summary": "Looking for a fun and relaxing weekend activity to unwind, play games, and meet new people? Venue: Pixels and Pieces | Singapore's Premier Board Game & Console Cafe",
+    "id": "c755a4058c25dcf4acefda85d9fd7a0242dd434a",
+    "title": "Japan Joins South Korea, Hong Kong, Taiwan, Indonesia, Philippines, and Singapore in Witnessing Explosive Growth in Anime Tourism as Fans Fuel Pilgrimages and Festivals - Travel And Tour World",
+    "url": "https://www.travelandtourworld.com/news/article/84u3irlvdx4p/",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-05-23T06:12:10Z",
+    "summary": "Japan Joins South Korea, Hong Kong, Taiwan, Indonesia, Philippines, and Singapore in Witnessing Explosive Growth in Anime Tourism as Fans Fuel Pilgrimages and Festivals Travel And",
     "content": "",
     "categories": [
       "events",
       "games",
-      "esports",
-      "merch"
+      "anime"
     ],
     "tags": [
       "singapore"
     ],
     "entity_tags": [],
     "region_tags": [
-      "Singapore"
+      "Singapore",
+      "SEA"
     ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9957552302281183,
-    "home_score": 0.7996,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184008649%2F281758671497%2F1%2Foriginal.20260507-114554?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.539&fp-y=0.903&s=61b46304ec17914a92778b55fb17b50d",
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9198162910611041,
+    "home_score": 0.7794,
+    "source_quality": 0.72,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "cafe",
-      "date_label": "23 May 2026",
-      "venue": "Pixels and Pieces | Singapore's Premier Board Game & Console Cafe",
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/board-games-ps5-nitendo-switch-singles-friend-making-events-tickets-1988988240369",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
+  },
+  {
+    "id": "4860de64d98f725bd4fda1b312a082991830d7d8",
+    "title": "Ayanokoji Fights Nanase in Classroom of the Elite Season 4 Episode 12 Preview",
+    "url": "https://animecorner.me/ayanokoji-fights-nanase-in-classroom-of-the-elite-season-4-episode-12-preview/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-23T08:20:55Z",
+    "summary": "Classroom of the Elite Season 4 revealed the Episode 2 preview, ahead of the episode's\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9476426271251762,
+    "home_score": 0.7164,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fcc7533aecc06317eb2d33484044d89ee8f5bb5f",
+    "title": "Demon Slayer: Infinity Castle Wins Film of the Year Award at Crunchyroll's 2026 Anime Awards",
+    "url": "https://animecorner.me/demon-slayer-infinity-castle-wins-film-of-the-year-award-at-crunchyrolls-2026-anime-awards/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-23T10:57:42Z",
+    "summary": "Demon Slayer: Kimetsu no Yaiba Infinity Castle won the Film of the Year award\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9826665997497692,
+    "home_score": 0.7122,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "34a489b8ebe6690bb4a456431fff2eb6a1010469",
@@ -741,11 +795,246 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8910409234654304,
-    "home_score": 0.7665,
+    "freshness_score": 0.7551475554504649,
+    "home_score": 0.7053,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b1794fb309c65454dcef50927733265a9f0423f4",
+    "title": "Agents of the Four Seasons Dance of Spring Anime Shares Special Music Video Featuring Ending Song",
+    "url": "https://crunchyroll.com/news/latest/2026/5/23/agents-of-the-four-seasons-dance-of-spring-anime-special-music-video-ending-song",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-23T06:09:00Z",
+    "summary": "The new spring 2026 anime is now available on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9191424850773566,
+    "home_score": 0.7021,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "580ec5a8bac9c2ea1accf093f80f4b7f126d2155",
+    "title": "Crunchyroll Anime Awards 2026 Winners: Full Results List",
+    "url": "https://animecorner.me/crunchyroll-anime-awards-2026-winners-full-results-list/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-23T08:29:21Z",
+    "summary": "The results for the Crunchyroll Anime Awards 2026 are being announced today, celebrating the\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9494943857563037,
+    "home_score": 0.6973,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b5bda1b21e6bffa592b291c87c2d787e00994f70",
+    "title": "OWCS Champions Clash 2026 schedule, results, and rewards",
+    "url": "https://esports.gg/guides/overwatch/owcs-champions-clash-2026-schedule-results-and-rewards/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-23T08:00:46Z",
+    "summary": "Which Overwatch esports team are you rooting for at the 2026 OWCS Champions Clash?",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9432326722843675,
+    "home_score": 0.6965,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6a38a1106f565988de27ee997a8c49d8fe53b00e",
+    "title": "Japanese Nintendo eShop releases for May 28, 2026",
+    "url": "https://nintendoeverything.com/japanese-nintendo-eshop-releases-for-may-28-2026/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-23T12:00:59Z",
+    "summary": "Nintendo has updated the Japanese Switch and Switch 2 release schedule on eShop for the week of May 28, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9971676975859017,
+    "home_score": 0.6962,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 28, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "47f625e2f87099a1704cd3838381cad071c7c71b",
+    "title": "Jinshi & Gaoshun Stroll in the Rain in New The Apothecary Diaries Seasonal Visual - Anime Trending",
+    "url": "https://anitrendz.net/news/2026/05/22/jinshi-gaoshun-stroll-in-the-rain-in-new-the-apothecary-diaries-seasonal-visual/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-05-22T15:59:12Z",
+    "summary": "Jinshi & Gaoshun Stroll in the Rain in New The Apothecary Diaries Seasonal Visual Anime Trending",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7550076838879668,
+    "home_score": 0.6798,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4b40c7b4d5e0b3027b5affb6fc78b0bc0b4bd0f6",
+    "title": "PS Vita JRPG Where You Power Up by Kissing Girls Finally Heads West Via PS5 Remaster - Push Square",
+    "url": "https://www.pushsquare.com/news/2026/05/ps-vita-jrpg-where-you-power-up-by-kissing-girls-finally-heads-west-via-ps5-remaster",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-23T10:15:00Z",
+    "summary": "PS Vita JRPG Where You Power Up by Kissing Girls Finally Heads West Via PS5 Remaster Push Square",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9730012471171123,
+    "home_score": 0.6779,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bfc4adddaa5f241fe929cf148a4f99c0d2d56b6d",
+    "title": "Exstetra's HD remaster launches on July 30 for Steam with English support, PS5 and Switch 1/2 ports revealed",
+    "url": "https://www.rpgsite.net/news/20421-exstetra-remaster-steam-release-date-switch-2-ps5-port",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-23T04:49:23Z",
+    "summary": "The fantasy RPG where kisses save the world will launch this July for PC Steam worldwide with console ports to follow",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9023582100660253,
+    "home_score": 0.6776,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 30",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "ee745264554b6b1fe35f85996dfa1b5d67529b5b",
+    "title": "Dota 2 Esports World Cup 2026: All invited teams, format, and schedule",
+    "url": "https://esports.gg/news/dota-2/dota-2-esports-world-cup-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-23T02:20:02Z",
+    "summary": "Several teams from all regions finally booked their tickets to the upcoming Dota 2 Esports World Cup 2026 in Paris, with still a handful of slots left for other teams to fight in t",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8716949462465484,
+    "home_score": 0.6763,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "qualifier",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -769,9 +1058,123 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9984213903302195,
-    "home_score": 0.7393,
+    "freshness_score": 0.8461513651073944,
+    "home_score": 0.6708,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3409ae966bcdf1cc72bb3790a06d62b92656bcc7",
+    "title": "\u2018Final Fantasy 7 Rebirth\u2019 Director Confirms a Controversial Character Will Appear in Part 3 - Men's Journal",
+    "url": "https://www.mensjournal.com/entertainment/final-fantasy-7-rebirth-director-confirms-a-controversial-character-will-appear-in-part-3",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-23T04:24:54Z",
+    "summary": "\u2018Final Fantasy 7 Rebirth\u2019 Director Confirms a Controversial Character Will Appear in Part 3 Men's Journal",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8972582290698289,
+    "home_score": 0.6678,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "943a88c3e50414a5c9bcad6641f6c391fbdc26ba",
+    "title": "Make it Rain Campaign seasonal event returns to Final Fantasy XIV on May 29, 2026 - Nova Crystallis",
+    "url": "https://novacrystallis.com/2026/05/make-it-rain-campaign-seasonal-event-returns-to-final-fantasy-xiv-on-may-29-2026/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-23T00:38:50Z",
+    "summary": "Make it Rain Campaign seasonal event returns to Final Fantasy XIV on May 29, 2026 Nova Crystallis",
+    "content": "",
+    "categories": [
+      "games",
+      "events",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8515118693801804,
+    "home_score": 0.6672,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 29, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "2f9aa70d2d189547593c59385f217981502d7ce8",
+    "title": "Alabaster Dawn early access roadmap and 0.2.0 update details have been revealed",
+    "url": "https://www.rpgsite.net/news/20423-alabaster-dawn-early-access-roadmap-new-update-collaboration",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-23T06:05:20Z",
+    "summary": "Radical Fish Games has shared details for a new update, collaboration, and the roadmap for Alabaster Dawn",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9183628657946897,
+    "home_score": 0.6668,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0d9c9d35b0f95aec559564251a312422d7f5bfb9",
+    "title": "Coffee Talk Tokyo launch trailer \u2013 cozy, narrative-driven visual novel lands on Nintendo Switch 2 and Switch",
+    "url": "https://nintendoeverything.com/coffee-talk-tokyo-launch-trailer/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-23T05:47:07Z",
+    "summary": "The official launch trailer for Coffee Talk Tokyo has gone live to accompany the official release",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9144984246565442,
+    "home_score": 0.659,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -796,38 +1199,98 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9726210966410962,
-    "home_score": 0.7232,
+    "freshness_score": 0.8242858743070348,
+    "home_score": 0.6564,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "dd9395ad4ea6a2e468a44d9d5a1d0bf8d5887068",
-    "title": "The Apothecary Diaries Anime Unveils New Seasonal Visual Featuring Japanese Water Iris - AnimeTV \u30c1\u30a7\u30fc\u30f3",
-    "url": "https://animetv-jp.net/the-apothecary-diaries-anime-unveils-new-seasonal-visual-featuring-japanese-water-iris/",
-    "source_name": "Google News Anime And Manga",
+    "id": "ee81d1f59663706deb4f21f242956acb4b2b7335",
+    "title": "Cosplay Trackside \u2014 Where Umamusume Meets IRL Horse Racing",
+    "url": "https://animecorner.me/cosplay-trackside-where-umamusume-meets-irl-horse-racing/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-05-22T09:51:57Z",
-    "summary": "The Apothecary Diaries Anime Unveils New Seasonal Visual Featuring Japanese Water Iris AnimeTV \u30c1\u30a7\u30fc\u30f3",
+    "published_at": "2026-05-23T01:01:41Z",
+    "summary": "The Umamusume franchise has been around for a few years, but the boom that\u2026",
     "content": "",
     "categories": [
       "anime",
-      "manga"
+      "manga",
+      "events",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8182709714850723,
-    "home_score": 0.7082,
-    "source_quality": 0.75,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8560279876457907,
+    "home_score": 0.6552,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e148d5ec741ba36b6e585f0626af710379063c40",
+    "title": "Turn-based indie pixel-art RPG Quartet is now available for Nintendo Switch (Update)",
+    "url": "https://www.rpgsite.net/news/20345-quartet-now-available-nintendo-switch-turn-based-indie-pixel-art-rpg",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-23T04:46:38Z",
+    "summary": "It will be expanding to include the EU and Australia Switch eShop regions in the future",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9017839762430577,
+    "home_score": 0.6533,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "84dd5282af57606c259be455fcd52ed1be160527",
+    "title": "Doraemon TV Anime Reveals New Screenshots for Special Vietnam Episode",
+    "url": "https://crunchyroll.com/news/latest/2026/5/23/doraemon-tv-anime-vietnam-special-episode-new-screenshots",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-23T00:46:00Z",
+    "summary": "This episode will broadcast in Japan on May 23",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8529258662020481,
+    "home_score": 0.6523,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 23",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -849,8 +1312,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.955118430332854,
-    "home_score": 0.7028,
+    "freshness_score": 0.8094525861005906,
+    "home_score": 0.6373,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -875,37 +1338,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9419445916776824,
-    "home_score": 0.6969,
+    "freshness_score": 0.7982878996131784,
+    "home_score": 0.6322,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d409b1ed3fe508d180e3553f90f142c26669f4d4",
-    "title": "Though I Am an Inept Villainess Showcases Main Heroines on a Flower Field in Latest Seasonal Visual",
-    "url": "https://anitrendz.net/news/2026/05/22/though-i-am-an-inept-villainess-showcases-main-heroines-on-a-flower-field-in-latest-seasonal-visual/?utm_source=rss&utm_medium=rss&utm_campaign=though-i-am-an-inept-villainess-showcases-main-heroines-on-a-flower-field-in-latest-seasonal-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-22T17:12:13Z",
-    "summary": "The latest seasonal visual has been released for the upcoming Though I Am an Inept Villainess TV anime series, showcasing Kou Reirin and Shu Keigetsu in a field of nemophila flower",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.906061579989948,
-    "home_score": 0.6947,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -931,9 +1366,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9289524455517026,
-    "home_score": 0.691,
+    "freshness_score": 0.7872772049630866,
+    "home_score": 0.6273,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "caf288afca365600d9440a263850291b7095a683",
+    "title": "The Apothecary Diaries Anime Unveils Japanese Iris Seasonal Visual - Crunchyroll",
+    "url": "https://www.crunchyroll.com/news/latest/2026/5/22/the-apothecary-diaries-anime-japanese-iris-seasonal-visual",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-05-22T03:45:00Z",
+    "summary": "The Apothecary Diaries Anime Unveils Japanese Iris Seasonal Visual Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.6370029125487461,
+    "home_score": 0.6267,
+    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -957,37 +1419,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9419440606093259,
-    "home_score": 0.6879,
+    "freshness_score": 0.7982874133783843,
+    "home_score": 0.6232,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dc46788b219d2c62b016e6d7e6c876fe44acbb31",
-    "title": "Jinshi & Gaoshun Stroll in the Rain in New The Apothecary Diaries Seasonal Visual",
-    "url": "https://anitrendz.net/news/2026/05/22/jinshi-gaoshun-stroll-in-the-rain-in-new-the-apothecary-diaries-seasonal-visual/?utm_source=rss&utm_medium=rss&utm_campaign=jinshi-gaoshun-stroll-in-the-rain-in-new-the-apothecary-diaries-seasonal-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-22T15:59:12Z",
-    "summary": "A new seasonal visual for The Apothecary Diaries anime series has been released, showcasing Jinshi and Gaoshun strolling in the rain while passing by some Japanese iris flowers",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8908760133334201,
-    "home_score": 0.6879,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1011,8 +1445,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9161395114423382,
-    "home_score": 0.6853,
+    "freshness_score": 0.7764183811417468,
+    "home_score": 0.6224,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1042,10 +1476,36 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.882678891884881,
-    "home_score": 0.6812,
+    "freshness_score": 0.7480608177471192,
+    "home_score": 0.6206,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "34c439a67349e40c052e39ddbaf3241021a3615a",
+    "title": "Azure Striker Gunvolt Trilogy Enhanced and Luminous Avenger iX 3 Coming",
+    "url": "https://www.siliconera.com/azure-striker-gunvolt-trilogy-enhanced-and-luminous-avenger-ix-3-coming/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-22T17:00:00Z",
+    "summary": "Inti Creates' next two games will be Azure Striker Gunvolt Trilogy Enhanced for Switch 2 and Luminous Avenger iX 3",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7657093317559199,
+    "home_score": 0.6176,
+    "source_quality": 0.82,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1069,8 +1529,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9293644413280302,
-    "home_score": 0.6807,
+    "freshness_score": 0.7876263318823019,
+    "home_score": 0.6169,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": {
@@ -1086,55 +1546,29 @@
     "result_type": "article"
   },
   {
-    "id": "34c439a67349e40c052e39ddbaf3241021a3615a",
-    "title": "Azure Striker Gunvolt Trilogy Enhanced and Luminous Avenger iX 3 Coming",
-    "url": "https://www.siliconera.com/azure-striker-gunvolt-trilogy-enhanced-and-luminous-avenger-ix-3-coming/",
-    "source_name": "Siliconera",
+    "id": "bd135158bbf11767587772854f8740f0cec1d09f",
+    "title": "Riot Games \u201cbricks\u201d $6,000 DMA cheating devices? Vanguard explained and response",
+    "url": "https://esports.gg/news/gaming/riot-games-cheating-devices-vanguard-update/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-05-22T17:00:00Z",
-    "summary": "Inti Creates' next two games will be Azure Striker Gunvolt Trilogy Enhanced for Switch 2 and Luminous Avenger iX 3",
+    "published_at": "2026-05-22T13:58:19Z",
+    "summary": "A new Vanguard update appears to disable external cheating devices, as Riot Games showcases the consequences of cheating in its games",
     "content": "",
     "categories": [
+      "esports",
       "games",
-      "anime",
-      "merch",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9035033046925472,
-    "home_score": 0.6796,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "caf288afca365600d9440a263850291b7095a683",
-    "title": "The Apothecary Diaries Anime Unveils Japanese Iris Seasonal Visual - Crunchyroll",
-    "url": "https://www.crunchyroll.com/news/latest/2026/5/22/the-apothecary-diaries-anime-japanese-iris-seasonal-visual",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2026-05-22T03:45:00Z",
-    "summary": "The Apothecary Diaries Anime Unveils Japanese Iris Seasonal Visual Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
     "region_tags": [
-      "Singapore",
       "SEA"
     ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7516354392654776,
-    "home_score": 0.6782,
-    "source_quality": 0.75,
-    "image_url": null,
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7341738497224916,
+    "home_score": 0.6144,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1156,8 +1590,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9014662724379249,
-    "home_score": 0.6757,
+    "freshness_score": 0.7639829451702018,
+    "home_score": 0.6138,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1195,8 +1629,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9013619355082562,
-    "home_score": 0.6756,
+    "freshness_score": 0.76389452005777,
+    "home_score": 0.6138,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1209,6 +1643,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "070f1101ca21095aa42e9f8ab072249156c23ad6",
+    "title": "Spring 2026 Anime Rankings - Week 7",
+    "url": "https://animecorner.me/spring-2026-anime-rankings-week-7/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-22T12:31:09Z",
+    "summary": "The seventh weekly poll for the Spring 2026 anime season, hosted by Anime Corner,\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7195086148790701,
+    "home_score": 0.6138,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1233,225 +1694,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.891041387666246,
-    "home_score": 0.674,
+    "freshness_score": 0.7551479910442894,
+    "home_score": 0.6128,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bd135158bbf11767587772854f8740f0cec1d09f",
-    "title": "Riot Games \u201cbricks\u201d $6,000 DMA cheating devices? Vanguard explained and response",
-    "url": "https://esports.gg/news/gaming/riot-games-cheating-devices-vanguard-update/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:58:19Z",
-    "summary": "A new Vanguard update appears to disable external cheating devices, as Riot Games showcases the consequences of cheating in its games",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8662928799032172,
-    "home_score": 0.6738,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "102a66cae78df08486ef0e70bc02b95755189b31",
-    "title": "The Oblivious Saint Can\u2019t Contain Her Power Highlights Theodore in New Visual",
-    "url": "https://anitrendz.net/news/2026/05/22/the-oblivious-saint-cant-contain-her-power-highlights-theodore-in-new-visual/?utm_source=rss&utm_medium=rss&utm_campaign=the-oblivious-saint-cant-contain-her-power-highlights-theodore-in-new-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-22T16:43:26Z",
-    "summary": "A fourth character concept visual has been unveiled for the upcoming The Oblivious Saint Can't Contain Her Power TV anime series, highlighting the character Theodore",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9000447302764777,
-    "home_score": 0.672,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "070f1101ca21095aa42e9f8ab072249156c23ad6",
-    "title": "Spring 2026 Anime Rankings - Week 7",
-    "url": "https://animecorner.me/spring-2026-anime-rankings-week-7/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-22T12:31:09Z",
-    "summary": "The seventh weekly poll for the Spring 2026 anime season, hosted by Anime Corner,\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.848988540589352,
-    "home_score": 0.672,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "26c6800e3cb2cb2bc5fb36642020554cac53dd1a",
-    "title": "'We Reached an Audience We Hadn't Reached Before' \u2014 Why a Massive Player Surge Is Forcing the Final Fantasy 11 Team to Investigate Creating Brand-New Areas 24 Years Later - IGN",
-    "url": "https://www.ign.com/articles/final-fantasy-11-team-explores-adding-new-areas-as-player-count-explodes",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-22T21:21:14Z",
-    "summary": "'We Reached an Audience We Hadn't Reached Before' \u2014 Why a Massive Player Surge Is Forcing the Final Fantasy 11 Team to Investigate Creating Brand-New Areas 24 Years Later IGN",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9598239703875882,
-    "home_score": 0.6719,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d753aab91a27070d4dd8adbbf2b7e2858c5faf17",
-    "title": "Anime Awards 2026 Winners: Anime of the Year and Full List",
-    "url": "https://crunchyroll.com/news/latest/2026/5/22/anime-awards-2026-winners-list",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-22T16:00:00Z",
-    "summary": "The Anime Awards 2026 winners will be revealed live!",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8910411081020544,
-    "home_score": 0.6695,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "548d3ce4de16b54396a033144f3af7d295cf99c0",
-    "title": "Fighting Evil by Moonlight, Selling It by Daylight: Sailor Moon and the limits of 1990s American girl power",
-    "url": "https://www.animefeminist.com/sailor-moon-and-the-limits-of-1990s-american-girl-power/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-05-22T17:12:44Z",
-    "summary": "Sailor Moon's original North American release was a product of its moment, shaped by broadcast standards, marketing logic, and a cultural framework that simply did not have room fo",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9061700337807993,
-    "home_score": 0.6688,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "04780301aa9efb0f0717f96aeace68e55469dca1",
-    "title": "Mega Man Crossover Arrives at McDonald\u2019s Japan",
-    "url": "https://www.siliconera.com/mega-man-crossover-arrives-at-mcdonalds-japan/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-22T15:00:00Z",
-    "summary": "The chain also published a new rendition of the popular fan song \"Can't Beat Air Man",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8787513564805092,
-    "home_score": 0.6684,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0401a0d8396b9b7f1b8195665380e467598862eb",
-    "title": "Xbox Game Pass Is Losing Some of Its Best RPGs on May 31 - Military.com",
-    "url": "https://www.military.com/xbox-game-pass-is-losing-some-of-its-best-rpgs-on-may-31",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-22T20:37:58Z",
-    "summary": "Xbox Game Pass Is Losing Some of Its Best RPGs on May 31 Military",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9502588833555148,
-    "home_score": 0.6676,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 31",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1475,9 +1722,141 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.838743117542364,
-    "home_score": 0.6674,
+    "freshness_score": 0.7108257293504794,
+    "home_score": 0.6099,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d753aab91a27070d4dd8adbbf2b7e2858c5faf17",
+    "title": "Anime Awards 2026 Winners: Anime of the Year and Full List",
+    "url": "https://crunchyroll.com/news/latest/2026/5/22/anime-awards-2026-winners-list",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-22T16:00:00Z",
+    "summary": "The Anime Awards 2026 winners are all revealed here!",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7551477111647038,
+    "home_score": 0.6083,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "04780301aa9efb0f0717f96aeace68e55469dca1",
+    "title": "Mega Man Crossover Arrives at McDonald\u2019s Japan",
+    "url": "https://www.siliconera.com/mega-man-crossover-arrives-at-mcdonalds-japan/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-22T15:00:00Z",
+    "summary": "The chain also published a new rendition of the popular fan song \"Can't Beat Air Man",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7447323217272752,
+    "home_score": 0.6081,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ba2aeadb4860a34ccc861bcf597a513601790f59",
+    "title": "Tekken 8\u2019s Michael Murray On Delivering Knockout Punch With Kunimitsu\u2019s Return For Season 3 Pass",
+    "url": "https://geekculture.co/tekken-8-season-3-michael-murray-interview-preview/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-05-21T14:00:00Z",
+    "summary": "Tekken 8\u2019s Michael Murray On Delivering Knockout Punch With Kunimitsu\u2019s Return For Season 3 Pass",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.5262635797195384,
+    "home_score": 0.6068,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "548d3ce4de16b54396a033144f3af7d295cf99c0",
+    "title": "Fighting Evil by Moonlight, Selling It by Daylight: Sailor Moon and the limits of 1990s American girl power",
+    "url": "https://www.animefeminist.com/sailor-moon-and-the-limits-of-1990s-american-girl-power/",
+    "source_name": "Anime Feminist",
+    "source_type": "rss",
+    "published_at": "2026-05-22T17:12:44Z",
+    "summary": "Sailor Moon's original North American release was a product of its moment, shaped by broadcast standards, marketing logic, and a cultural framework that simply did not have room fo",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7679693135532033,
+    "home_score": 0.6066,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "26c6800e3cb2cb2bc5fb36642020554cac53dd1a",
+    "title": "'We Reached an Audience We Hadn't Reached Before' \u2014 Why a Massive Player Surge Is Forcing the Final Fantasy 11 Team to Investigate Creating Brand-New Areas 24 Years Later - IGN",
+    "url": "https://www.ign.com/articles/final-fantasy-11-team-explores-adding-new-areas-as-player-count-explodes",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-22T21:21:14Z",
+    "summary": "'We Reached an Audience We Hadn't Reached Before' \u2014 Why a Massive Player Surge Is Forcing the Final Fantasy 11 Team to Investigate Creating Brand-New Areas 24 Years Later IGN",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8134404339984426,
+    "home_score": 0.606,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1501,401 +1880,13 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8751511922062444,
-    "home_score": 0.6658,
+    "freshness_score": 0.7416811736383934,
+    "home_score": 0.6058,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
       "event_type": "tournament",
       "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "b62cf187d7c661e095c0ac020ac9af9253f1aaba",
-    "title": "Chadley Will Return In Final Fantasy VII Remake Part 3, Confirms Naoki Hamaguchi - PlayStation Universe",
-    "url": "https://www.psu.com/news/chadley-will-return-in-final-fantasy-vii-remake-part-3-confirms-naoki-hamaguchi/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-22T16:05:52Z",
-    "summary": "Chadley Will Return In Final Fantasy VII Remake Part 3, Confirms Naoki Hamaguchi PlayStation Universe",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.892251773692168,
-    "home_score": 0.6655,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3b016411d5add567bbe6e4cfb615e3b74b2ae14d",
-    "title": "A Livid Lady\u2019s Guide to Getting Even Announces 3 Additional Cast Members",
-    "url": "https://anitrendz.net/news/2026/05/22/a-livid-ladys-guide-to-getting-even-announces-3-additional-cast-members/?utm_source=rss&utm_medium=rss&utm_campaign=a-livid-ladys-guide-to-getting-even-announces-3-additional-cast-members",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-22T15:32:34Z",
-    "summary": "The official Twitter/X account and website of the upcoming A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires TV anime series has announced th",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8854005469495895,
-    "home_score": 0.6654,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1a6ca1461941e010185e612bf5d7cae0fb670a39",
-    "title": "Made in Abyss: Awakening Mystery reveals second trailer",
-    "url": "https://nichegamer.com/made-in-abyss-awakening-mystery-reveals-second-trailer/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-05-22T16:01:02Z",
-    "summary": "The adventure fantasy Made in Abyss shared a second official trailer for its brand new movie! The movie, Mezameru Shinpi (Awakening Mystery), will be part one of a movie series and",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8912543140288423,
-    "home_score": 0.6636,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "October 23, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "6b70eae54c1d962e09988baeb0afdd063ff7014b",
-    "title": "Rin and Gilgamesh Join Honkai: Star Rail Fate/Stay Night Crossover",
-    "url": "https://www.siliconera.com/rin-and-gilgamesh-join-honkai-star-rail-fate-stay-night-crossover/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-22T14:00:00Z",
-    "summary": "There's more to the Fate/Stay Night: Unlimited Blade Works Honkai: Star Rail crossover, as Rin and Gilgamesh are on the way",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8666308403288943,
-    "home_score": 0.663,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1bedc38c19475d4a70d2586e7d90ff5acb9b314f",
-    "title": "We know precious little about Final Fantasy 7 Remake Part 3, but the trilogy lead just confirmed one of the series' most controversial characters is coming back - Eurogamer",
-    "url": "https://www.eurogamer.net/final-fantasy-7-remake-part-3-chadley",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-22T15:26:15Z",
-    "summary": "We know precious little about Final Fantasy 7 Remake Part 3, but the trilogy lead just confirmed one of the series' most controversial characters is coming back Eurogamer",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8841067596690331,
-    "home_score": 0.6618,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d28b720512a2586c392751439dee4be3e469cbb3",
-    "title": "Interview: KILL BLUE Voice Cast on Bringing Juzo Ogami to Life",
-    "url": "https://animecorner.me/interview-kill-blue-voice-cast-on-bringing-juzo-ogami-to-life/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-22T14:19:43Z",
-    "summary": "Ahead of the currently ongoing anime adaptation of KILL BLUE, we were invited to\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8705949808601438,
-    "home_score": 0.6618,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7998332f17a643489be4d0974e4e878671493538",
-    "title": "Twins of Olus blends dual-control combat into a colorful action RPG",
-    "url": "https://nichegamer.com/twins-of-olus-blends-dual-control-combat-into-a-colorful-action-rpg/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-05-22T15:31:58Z",
-    "summary": "Developed by Team Verdant, Twins of Olus follows Lions, a young orphan bound to the spirit of an ancient warrior named Creo",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.885277729924155,
-    "home_score": 0.6609,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "39d70ed1c873330f727ae4c2e4f0e225fee7914b",
-    "title": "Rich Girl Caretaker Reveals 1st Trailer, July 4 Start",
-    "url": "https://anitrendz.net/news/2026/05/22/rich-girl-caretaker-reveals-1st-trailer-july-4-start/?utm_source=rss&utm_medium=rss&utm_campaign=rich-girl-caretaker-reveals-1st-trailer-july-4-start",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-22T10:37:42Z",
-    "summary": "The Rich Girl Caretaker TV anime has received a trailer, which reveals a July 4 broadcast start date and the opening theme song \"Saisaisaikokyu no Oseawashite\" by angela",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8269828531687883,
-    "home_score": 0.6591,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 4",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "fd95c0355d119c7c574da6b694842e482110fe22",
-    "title": "Honkai: Star Rail Version 4.3 \"The Lethe Below the Living\" launches on June 1",
-    "url": "https://www.rpgsite.net/news/20420-honkai-star-rail-version-4-3-the-lethe-below-living-release-date-fsn-new-collab",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:22:37Z",
-    "summary": "Honkai: Star Rail Version 4.3 \"The Lethe Below the Living\" launches on June 1 is trending around hoyoverse.",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8591636448282403,
-    "home_score": 0.6581,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 1",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "1c710b595ce62225de6f967f48b07c849ece8ac1",
-    "title": "Five thrills of Combo Breaker 2026: Stream schedule and tournament results",
-    "url": "https://esports.gg/news/fgc/combo-breaker-2026-overview-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:11:57Z",
-    "summary": "The best players in the world at high-stakes fighting games tournaments \u2014 Combo Breaker is always special, and this year, it\u2019s surrounded by great stories",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8570446551206775,
-    "home_score": 0.6577,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "1c3c91aaf0b774bee6058eb1d42c2ff226b4dec2",
-    "title": "Review: Birushana: Winds of Fate Prioritizes New Loves",
-    "url": "https://www.siliconera.com/review-birushana-winds-of-fate-prioritizes-new-loves/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:00:00Z",
-    "summary": "The fan disc Birushana: Winds of Fate feels a bit like wish fulfillment, since the otome game gives us time with every character",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8546775010493324,
-    "home_score": 0.6576,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b5bda1b21e6bffa592b291c87c2d787e00994f70",
-    "title": "OWCS Champions Clash 2026 schedule, results, and rewards",
-    "url": "https://esports.gg/guides/overwatch/owcs-champions-clash-2026-schedule-results-and-rewards/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:09:00Z",
-    "summary": "Which Overwatch esports team are you rooting for at the 2026 OWCS Champions Clash?",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8564596031973418,
-    "home_score": 0.6574,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "259ae945961717643dacaec36ceae3d27468f235",
-    "title": "A Certain Scientific Railgun T Collaborates With Don Quijote for Heisei Gal Merchandise",
-    "url": "https://noisypixel.net/a-certain-scientific-railgun-t-don-quijote-collaboration/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:32:38Z",
-    "summary": "The third season of the A Certain Magical Index spinoff, A Certain Scientific Railgun T, is getting a new collaboration with Don Quijote stores across Japan starting June 6, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8611580643225796,
-    "home_score": 0.6565,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 6, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
