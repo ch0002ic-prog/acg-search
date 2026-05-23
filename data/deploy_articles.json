@@ -627,8 +627,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
+    "freshness_score": 0.9957552365514714,
+    "home_score": 0.7996,
     "source_quality": 0.76,
     "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F598733659%2F258796489549%2F1%2Foriginal.20230915-120552?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C174%2C1600%2C800&s=2223279d923ba5347023b274a08deae6",
     "event_metadata": {
@@ -663,8 +663,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
+    "freshness_score": 0.9957552338277427,
+    "home_score": 0.7996,
     "source_quality": 0.76,
     "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2a3e5d556e369526088f916483a32f5f",
     "event_metadata": {
@@ -702,8 +702,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
+    "freshness_score": 0.9957552302281183,
+    "home_score": 0.7996,
     "source_quality": 0.76,
     "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184008649%2F281758671497%2F1%2Foriginal.20260507-114554?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.539&fp-y=0.903&s=61b46304ec17914a92778b55fb17b50d",
     "event_metadata": {
@@ -741,9 +741,64 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9656936767117402,
-    "home_score": 0.8001,
+    "freshness_score": 0.8910409234654304,
+    "home_score": 0.7665,
     "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3d270963d9dd1608c864e72cca7d7bc0f4576718",
+    "title": "8-Bit Adventures: The Forgotten Journey Remastered Edition Review",
+    "url": "https://rpgamer.com/review/8-bit-adventures-the-forgotten-journey-remastered-edition-review/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-23T00:11:33Z",
+    "summary": "Blue, Green, and Red While many staff have sung the praises of the 8-Bit Adventures series, I asked myself the immediate question: why? From all of the promotional materials of bot",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9984213903302195,
+    "home_score": 0.7393,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8a3590d97a7a1c1c9384da6b9268e22c3c3579c0",
+    "title": "Is Rocket League cooked? The RLCS 2026 Paris Major viewership decline shocks fans\u2026 But the real reason impacts esports as a whole",
+    "url": "https://esportsinsider.com/2026/05/is-rocket-league-cooked-the-rlcs-2026-paris-major-viewership-decline-shocks-fans-but-the-real-reason-impacts-esports-as-a-whole",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-22T22:18:27Z",
+    "summary": "The viewership numbers from the RLCS 2026 Paris Major were shockingly low",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9726210966410962,
+    "home_score": 0.7232,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -768,9 +823,61 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8868269343773246,
-    "home_score": 0.7391,
+    "freshness_score": 0.8182709714850723,
+    "home_score": 0.7082,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "089b22e91352c7a2b6301e976238f6ee648e5f85",
+    "title": "Inazuma Eleven INA-DAI Stream Focuses on 2 Games",
+    "url": "https://www.siliconera.com/inazuma-eleven-ina-dai-stream-focuses-on-2-games/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-22T21:00:00Z",
+    "summary": "The Inazuma Eleven INA-DAI stream will look at two games, with details about one that's available and another on the way",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.955118430332854,
+    "home_score": 0.7028,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6f4d70c7bf34b0eab3e322d1aee94d06a589ed62",
+    "title": "Meiji Tokyo Renka Otome Game\u2019s Twilight Kiss Sequel Appearing in English",
+    "url": "https://www.siliconera.com/meiji-tokyo-renka-otome-games-twilight-kiss-sequel-appearing-in-english/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-22T20:00:00Z",
+    "summary": "The Meiji Tokyo Renka Full Moon otome follow-up Meiji Tokyo Renka: Twilight Kiss will be in English over 10 years after its debut",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9419445916776824,
+    "home_score": 0.6969,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -796,9 +903,63 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9819728333749268,
-    "home_score": 0.7289,
+    "freshness_score": 0.906061579989948,
+    "home_score": 0.6947,
     "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7fac905f9f11b190a8e77c97ff2b0f817f4d0885",
+    "title": "Hear Persona, Persona 2, and Persona Q Soundtracks on Sound Station",
+    "url": "https://www.siliconera.com/hear-persona-persona-2-and-persona-q-soundtracks-on-sound-station/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-22T19:00:00Z",
+    "summary": "The next Persona Sound Station 30-hour stream features music from Persona 1, Persona 2, and Persona Q soundtracks",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9289524455517026,
+    "home_score": 0.691,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4bdf461ba4ac90f133ae82c378ad1b2d5416ebb7",
+    "title": "In Final Fantasy XIV's Upcoming Make It Rain Event, The Otter Backpack That Glitched Into Existence Arrives For Real - MMORPG.com",
+    "url": "https://www.mmorpg.com/news/in-final-fantasy-xivs-upcoming-make-it-rain-event-the-otter-backpack-that-glitched-into-existence-arrives-for-real-2000138126",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-22T20:00:00Z",
+    "summary": "In Final Fantasy XIV's Upcoming Make It Rain Event, The Otter Backpack That Glitched Into Existence Arrives For Real MMORPG",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9419440606093259,
+    "home_score": 0.6879,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -824,8 +985,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9655149959884392,
-    "home_score": 0.7215,
+    "freshness_score": 0.8908760133334201,
+    "home_score": 0.6879,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -850,8 +1011,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9928951589773803,
-    "home_score": 0.7198,
+    "freshness_score": 0.9161395114423382,
+    "home_score": 0.6853,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -881,11 +1042,47 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9566311179702673,
-    "home_score": 0.7145,
+    "freshness_score": 0.882678891884881,
+    "home_score": 0.6812,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e700c4bf05874e732a71b89ecd9629ce559c79a1",
+    "title": "Kingdom manga stretching across 300 meters obtains World Record",
+    "url": "https://nichegamer.com/kingdom-manga-stretching-across-300-meters-obtains-world-record/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-05-22T19:01:55Z",
+    "summary": "Guinness World Records certified the longest continuous outdoor display of manga pages in Saga, Japan, on 19 May 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9293644413280302,
+    "home_score": 0.6807,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "19 May 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -907,9 +1104,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9792002704680742,
-    "home_score": 0.7136,
+    "freshness_score": 0.9035033046925472,
+    "home_score": 0.6796,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "caf288afca365600d9440a263850291b7095a683",
+    "title": "The Apothecary Diaries Anime Unveils Japanese Iris Seasonal Visual - Crunchyroll",
+    "url": "https://www.crunchyroll.com/news/latest/2026/5/22/the-apothecary-diaries-anime-japanese-iris-seasonal-visual",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-05-22T03:45:00Z",
+    "summary": "The Apothecary Diaries Anime Unveils Japanese Iris Seasonal Visual Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7516354392654776,
+    "home_score": 0.6782,
+    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -932,8 +1156,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9769925493015735,
-    "home_score": 0.7096,
+    "freshness_score": 0.9014662724379249,
+    "home_score": 0.6757,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -971,8 +1195,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9768794702890382,
-    "home_score": 0.7096,
+    "freshness_score": 0.9013619355082562,
+    "home_score": 0.6756,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1009,8 +1233,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9656942736797623,
-    "home_score": 0.7076,
+    "freshness_score": 0.891041387666246,
+    "home_score": 0.674,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1018,7 +1242,7 @@
   },
   {
     "id": "bd135158bbf11767587772854f8740f0cec1d09f",
-    "title": "Riot Games \u201cbricks\u201d $6,000 DMA cheating devices? Vanguard update explained and response",
+    "title": "Riot Games \u201cbricks\u201d $6,000 DMA cheating devices? Vanguard explained and response",
     "url": "https://esports.gg/news/gaming/riot-games-cheating-devices-vanguard-update/",
     "source_name": "Esports.gg",
     "source_type": "rss",
@@ -1036,8 +1260,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9388722597986756,
-    "home_score": 0.7065,
+    "freshness_score": 0.8662928799032172,
+    "home_score": 0.6738,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -1061,8 +1285,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9754518825823306,
-    "home_score": 0.706,
+    "freshness_score": 0.9000447302764777,
+    "home_score": 0.672,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1088,9 +1312,34 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9201181483813172,
-    "home_score": 0.7041,
+    "freshness_score": 0.848988540589352,
+    "home_score": 0.672,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "26c6800e3cb2cb2bc5fb36642020554cac53dd1a",
+    "title": "'We Reached an Audience We Hadn't Reached Before' \u2014 Why a Massive Player Surge Is Forcing the Final Fantasy 11 Team to Investigate Creating Brand-New Areas 24 Years Later - IGN",
+    "url": "https://www.ign.com/articles/final-fantasy-11-team-explores-adding-new-areas-as-player-count-explodes",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-22T21:21:14Z",
+    "summary": "'We Reached an Audience We Hadn't Reached Before' \u2014 Why a Massive Player Surge Is Forcing the Final Fantasy 11 Team to Investigate Creating Brand-New Areas 24 Years Later IGN",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9598239703875882,
+    "home_score": 0.6719,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1114,8 +1363,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.965693942672459,
-    "home_score": 0.7031,
+    "freshness_score": 0.8910411081020544,
+    "home_score": 0.6695,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1140,8 +1389,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9820903905983673,
-    "home_score": 0.7029,
+    "freshness_score": 0.9061700337807993,
+    "home_score": 0.6688,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -1166,37 +1415,43 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.952374563754955,
-    "home_score": 0.7016,
+    "freshness_score": 0.8787513564805092,
+    "home_score": 0.6684,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "b62cf187d7c661e095c0ac020ac9af9253f1aaba",
-    "title": "Chadley Will Return In Final Fantasy VII Remake Part 3, Confirms Naoki Hamaguchi - PlayStation Universe",
-    "url": "https://www.psu.com/news/chadley-will-return-in-final-fantasy-vii-remake-part-3-confirms-naoki-hamaguchi/",
+    "id": "0401a0d8396b9b7f1b8195665380e467598862eb",
+    "title": "Xbox Game Pass Is Losing Some of Its Best RPGs on May 31 - Military.com",
+    "url": "https://www.military.com/xbox-game-pass-is-losing-some-of-its-best-rpgs-on-may-31",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-22T16:05:52Z",
-    "summary": "Chadley Will Return In Final Fantasy VII Remake Part 3, Confirms Naoki Hamaguchi PlayStation Universe",
+    "published_at": "2026-05-22T20:37:58Z",
+    "summary": "Xbox Game Pass Is Losing Some of Its Best RPGs on May 31 Military",
     "content": "",
     "categories": [
-      "games",
-      "events"
+      "games"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9670059641277199,
-    "home_score": 0.6992,
+    "freshness_score": 0.9502588833555148,
+    "home_score": 0.6676,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 31",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1220,9 +1475,70 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9090143471539902,
-    "home_score": 0.6991,
+    "freshness_score": 0.838743117542364,
+    "home_score": 0.6674,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3c93f4409ff3c11cc6cc23c01699f370a39d4393",
+    "title": "All League of Legends teams qualified for EWC 2026",
+    "url": "https://esports.gg/news/league-of-legends/all-league-of-legends-teams-qualified-esports-world-cup-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-22T14:42:16Z",
+    "summary": "Here are all the teams that have qualified for the League of Legends tournament at EWC 2026, set to take place in Paris, France",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8751511922062444,
+    "home_score": 0.6658,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b62cf187d7c661e095c0ac020ac9af9253f1aaba",
+    "title": "Chadley Will Return In Final Fantasy VII Remake Part 3, Confirms Naoki Hamaguchi - PlayStation Universe",
+    "url": "https://www.psu.com/news/chadley-will-return-in-final-fantasy-vii-remake-part-3-confirms-naoki-hamaguchi/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-22T16:05:52Z",
+    "summary": "Chadley Will Return In Final Fantasy VII Remake Part 3, Confirms Naoki Hamaguchi PlayStation Universe",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.892251773692168,
+    "home_score": 0.6655,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1245,39 +1561,39 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9595807864380965,
-    "home_score": 0.6988,
+    "freshness_score": 0.8854005469495895,
+    "home_score": 0.6654,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "3c93f4409ff3c11cc6cc23c01699f370a39d4393",
-    "title": "All League of Legends teams qualified for the EWC 2026",
-    "url": "https://esports.gg/news/league-of-legends/all-league-of-legends-teams-qualified-esports-world-cup-2026/",
-    "source_name": "Esports.gg",
+    "id": "1a6ca1461941e010185e612bf5d7cae0fb670a39",
+    "title": "Made in Abyss: Awakening Mystery reveals second trailer",
+    "url": "https://nichegamer.com/made-in-abyss-awakening-mystery-reveals-second-trailer/",
+    "source_name": "Niche Gamer",
     "source_type": "rss",
-    "published_at": "2026-05-22T14:42:16Z",
-    "summary": "Here are all the teams that have qualified for the League of Legends tournament at the EWC 2026, set to take place in Paris, France",
+    "published_at": "2026-05-22T16:01:02Z",
+    "summary": "The adventure fantasy Made in Abyss shared a second official trailer for its brand new movie! The movie, Mezameru Shinpi (Awakening Mystery), will be part one of a movie series and",
     "content": "",
     "categories": [
-      "esports",
-      "games"
+      "games",
+      "anime",
+      "merch",
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9484727356281814,
-    "home_score": 0.6988,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8912543140288423,
+    "home_score": 0.6636,
+    "source_quality": 0.75,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
+      "event_type": null,
+      "date_label": "October 23, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1309,8 +1625,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9392385546659132,
-    "home_score": 0.6957,
+    "freshness_score": 0.8666308403288943,
+    "home_score": 0.663,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1335,8 +1651,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9581785581711012,
-    "home_score": 0.6952,
+    "freshness_score": 0.8841067596690331,
+    "home_score": 0.6618,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1349,23 +1665,84 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-05-22T14:19:43Z",
-    "summary": "Interview: KILL BLUE Voice Cast on Bringing Juzo Ogami to Life",
+    "summary": "Ahead of the currently ongoing anime adaptation of KILL BLUE, we were invited to\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "events",
-      "games"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9435348113432441,
-    "home_score": 0.6946,
+    "freshness_score": 0.8705949808601438,
+    "home_score": 0.6618,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7998332f17a643489be4d0974e4e878671493538",
+    "title": "Twins of Olus blends dual-control combat into a colorful action RPG",
+    "url": "https://nichegamer.com/twins-of-olus-blends-dual-control-combat-into-a-colorful-action-rpg/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-05-22T15:31:58Z",
+    "summary": "Developed by Team Verdant, Twins of Olus follows Lions, a young orphan bound to the spirit of an ancient warrior named Creo",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.885277729924155,
+    "home_score": 0.6609,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "39d70ed1c873330f727ae4c2e4f0e225fee7914b",
+    "title": "Rich Girl Caretaker Reveals 1st Trailer, July 4 Start",
+    "url": "https://anitrendz.net/news/2026/05/22/rich-girl-caretaker-reveals-1st-trailer-july-4-start/?utm_source=rss&utm_medium=rss&utm_campaign=rich-girl-caretaker-reveals-1st-trailer-july-4-start",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-22T10:37:42Z",
+    "summary": "The Rich Girl Caretaker TV anime has received a trailer, which reveals a July 4 broadcast start date and the opening theme song \"Saisaisaikokyu no Oseawashite\" by angela",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8269828531687883,
+    "home_score": 0.6591,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 4",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1389,49 +1766,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9311457258664833,
-    "home_score": 0.6905,
+    "freshness_score": 0.8591636448282403,
+    "home_score": 0.6581,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "June 1",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "39d70ed1c873330f727ae4c2e4f0e225fee7914b",
-    "title": "Rich Girl Caretaker Reveals 1st Trailer, July 4 Start",
-    "url": "https://anitrendz.net/news/2026/05/22/rich-girl-caretaker-reveals-1st-trailer-july-4-start/?utm_source=rss&utm_medium=rss&utm_campaign=rich-girl-caretaker-reveals-1st-trailer-july-4-start",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-22T10:37:42Z",
-    "summary": "The Rich Girl Caretaker TV anime has received a trailer, which reveals a July 4 broadcast start date and the opening theme song \"Saisaisaikokyu no Oseawashite\" by angela",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8962687652410081,
-    "home_score": 0.6903,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 4",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1460,8 +1801,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9288492040809329,
-    "home_score": 0.69,
+    "freshness_score": 0.8570446551206775,
+    "home_score": 0.6577,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -1495,8 +1836,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.926283745312941,
-    "home_score": 0.6898,
+    "freshness_score": 0.8546775010493324,
+    "home_score": 0.6576,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1521,8 +1862,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9282151354513498,
-    "home_score": 0.6897,
+    "freshness_score": 0.8564596031973418,
+    "home_score": 0.6574,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -1548,8 +1889,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9333072398276834,
-    "home_score": 0.689,
+    "freshness_score": 0.8611580643225796,
+    "home_score": 0.6565,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1562,358 +1903,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "2fcb8d5a2aff5e18755537dac15d3a3bd7293ffd",
-    "title": "The Oblivious Saint Can't Contain Her Power Anime Unveils Theodore Character Concept Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/5/22/the-oblivious-saint-cant-contain-her-power-theodore-character-concept-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:33:00Z",
-    "summary": "The light novel adaptation premieres in July",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9333863184977106,
-    "home_score": 0.6885,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e92e8144ad2c3cfc017f86dbaba57f9aed91e74f",
-    "title": "A Livid Lady's Guide to Getting Even Anime Reveals Three More Cast Members",
-    "url": "https://crunchyroll.com/news/latest/2026/5/22/a-livid-ladys-guide-to-getting-even-anime-reveals-three-more-cast-members",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:22:00Z",
-    "summary": "Adaptation based on fantasy light novel series broadcasts in July",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9310126627527199,
-    "home_score": 0.6875,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "323c97bb064badd1a6e3652f483127e4ebc9473c",
-    "title": "Honkai: Star Rail Version 4.3 Launches June 1, Teases New Fate/stay night [Unlimited Blade Works] Collaboration",
-    "url": "https://animecorner.me/honkai-star-rail-version-4-3-launches-june-1-teases-new-fate-stay-night-unlimited-blade-works-collaboration/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:03:24Z",
-    "summary": "Honkai: Star Rail has officially revealed Version 4",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "gacha",
-      "merch"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9270127903725266,
-    "home_score": 0.6872,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 1",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "507ccc06eff128f0ea4082dfd02455419e1dd52c",
-    "title": "The Iceblade Sorcerer Shall Rule the World to Get 2nd Season in October 2026",
-    "url": "https://anitrendz.net/news/2026/05/22/the-iceblade-sorcerer-shall-rule-the-world-to-get-2nd-season-in-october-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-iceblade-sorcerer-shall-rule-the-world-to-get-2nd-season-in-october-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-22T10:01:55Z",
-    "summary": "A second season of The Iceblade Sorcerer Shall Rule the World TV anime is set to begin airing this October",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8888754686854461,
-    "home_score": 0.687,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "79ff282d71d7aed4a1b99e0d1b1c7e4470af0804",
-    "title": "Mouseward Demo Released",
-    "url": "https://rpgamer.com/2026/05/mouseward-demo-released/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-05-22T16:49:53Z",
-    "summary": "Developer Finite Reflection Studios released a demo for Soulslike RPG Mouseward",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.976909625082748,
-    "home_score": 0.6856,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6afb907b671af5e3f1b734dfb288ed2bb722b9d0",
-    "title": "Final Fantasy 7 Remake Part 3 brings back a big ol' nerd we all love to hate, lead confirms, who with a straight face says \"many fans are fond\" of - GamesRadar+",
-    "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-7-remake-part-3-brings-back-a-big-ol-nerd-we-all-love-to-hate-lead-confirms-who-with-a-straight-face-says-many-fans-are-fond-of/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-22T13:35:50Z",
-    "summary": "Final Fantasy 7 Remake Part 3 brings back a big ol' nerd we all love to hate, lead confirms, who with a straight face says \"many fans are fond\" of GamesRadar+",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9339984045414598,
-    "home_score": 0.6843,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "582133011648b7015fdf5519602fd9faabeebda1",
-    "title": "Persona Sound Station Vol. 2 to Air Friday 29th May, 2026, Featuring Persona, Persona 2 and Persona Q Series - Persona Central",
-    "url": "https://personacentral.com/p-sound-station-2/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-22T17:34:53Z",
-    "summary": "Persona Sound Station Vol. 2 to Air Friday 29th May, 2026, Featuring Persona, Persona 2 and Persona Q Series - Persona Central is trending around jrpg.",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9871385301520444,
-    "home_score": 0.6842,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Persona",
-        "Persona 2"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e2519ba5ce2cd0774a4b4c68478eaa0243893739",
-    "title": "McDonald\u2019s Japan Mega Man Collaboration Features \u201cCan\u2019t Beat Air Man\u201d Promotion",
-    "url": "https://noisypixel.net/mcdonalds-japan-mega-man-cant-beat-air-man/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-22T12:33:21Z",
-    "summary": "McDonald\u2019s Japan has officially announced its new Mega Man collaboration tied to the company\u2019s premium iced coffee promotion for Summer",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9205869418208144,
-    "home_score": 0.6833,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b315e11138762581c44ff89b775314305e403d37",
-    "title": "The Iceblade Sorcerer Shall Rule the World Season 2 Anime Announced",
-    "url": "https://crunchyroll.com/news/latest/2026/5/22/the-iceblade-sorcerer-shall-rule-the-world-season-2-anime-announced-teaser-visual-staff",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-22T09:01:00Z",
-    "summary": "We're officially returning to the Arnold Academy of Sorcery this October!",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8764294453801803,
-    "home_score": 0.6829,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3f253746a0827fde47a96236a3c7d0ff4d61e39a",
-    "title": "Honkai: Star Rail Version 4.3 Revealed Alongside Fate/stay night Collaboration Return",
-    "url": "https://noisypixel.net/honkai-star-rail-version-4-3-fate-stay-night-collaboration/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-22T12:46:48Z",
-    "summary": "HoYoverse has officially revealed Version 4",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9234575894239945,
-    "home_score": 0.6826,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 1, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c599b71dad5ce73c6dfc96e92fb1d3116dc3b6b6",
-    "title": "Smoking Behind the Supermarket with You Releases Special Opening and Ending Videos",
-    "url": "https://animecorner.me/smoking-behind-the-supermarket-with-you-releases-special-opening-and-ending-videos/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-22T11:52:56Z",
-    "summary": "Smoking Behind the Supermarket with You released special opening and ending theme song videos\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9120142655680817,
-    "home_score": 0.6804,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "74befe94b87321593dcb9675e6f7ba33456f6b1a",
-    "title": "Cate Blanchett & Nina Hoss in Electra/Persona: London tickets go on sale for the National Theatre\u2019s new season - West End Theatre",
-    "url": "https://www.westendtheatre.com/355169/news/electrapersona-national-goes-on-sale/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-22T09:01:04Z",
-    "summary": "Cate Blanchett & Nina Hoss in Electra/Persona: London tickets go on sale for the National Theatre\u2019s new season West End Theatre",
-    "content": "",
-    "categories": [
-      "games",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8764426939523147,
-    "home_score": 0.6784,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   }
 ]
