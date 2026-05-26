@@ -1,38 +1,5 @@
 [
   {
-    "id": "de9477226ece2c12f86531e52e132b5a5311d504",
-    "title": "Brigandine Abyss Preview \u2013 The Tactical JRPG Series That Could",
-    "url": "https://noisypixel.net/brigandine-abyss-preview-tactical-rpg-series/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-25T14:06:30Z",
-    "summary": "When discussing the early success of tactical RPGs, many will reference Final Fantasy Tactics, Fire Emblem, and maybe even Disgaea if they\u2019re hipsters",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "singapore",
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.941233952753178,
-    "home_score": 0.8156,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
     "id": "d03b80811a592641a3849111d88eff9cd949ee72",
     "title": "Crunchyroll Anime Awards 2026: \u2018My Hero Academia Final Season\u2019 Scores Surprise Anime Of The Year Win",
     "url": "https://geekculture.co/crunchyroll-anime-awards-2026-my-hero-academia-final-season-scores-surprise-anime-of-the-year-win/",
@@ -54,10 +21,106 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9054480200694905,
-    "home_score": 0.7775,
+    "freshness_score": 0.8349602119507327,
+    "home_score": 0.7457,
     "source_quality": 0.75,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9310d631976fde751b0bb5eb2df927c54e91971e",
+    "title": "All teams qualified for the VALORANT Masters London 2026",
+    "url": "https://esports.gg/news/valorant/teams-qualified-valorant-masters-london-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-25T20:50:32Z",
+    "summary": "Here are all the teams that have qualified for VALORANT Masters London 2026, set to take place from June 6 to June 21",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9530542982622094,
+    "home_score": 0.7209,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 6",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "8e09c19da300c94da0695007b84a29b7cfbff906",
+    "title": "Honkai: Star Rail \u2013 The Lethe Below the Living - Kotaku",
+    "url": "https://kotaku.com/games/honkai-star-rail-the-lethe-below-the-living",
+    "source_name": "Google News SEA Gacha",
+    "source_type": "rss",
+    "published_at": "2026-05-25T08:20:04Z",
+    "summary": "Honkai: Star Rail \u2013 The Lethe Below the Living Kotaku",
+    "content": "",
+    "categories": [
+      "games",
+      "gacha",
+      "merch",
+      "anime"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.8010733600239996,
+    "home_score": 0.717,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4462aa185bffd5dabc2c46270a1ed544719f6c95",
+    "title": "VALORANT Masters London 2026 draw sets up banger matchups",
+    "url": "https://esports.gg/news/valorant/valorant-masters-london-2026-draw/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-05-25T18:27:22Z",
+    "summary": "Everyone is eagerly waiting for Masters London 2026 to begin, and this draw promises incredible matchups right from the start",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9219872960063942,
+    "home_score": 0.7069,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -82,21 +145,138 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.9930637249834108,
-    "home_score": 0.7389,
+    "freshness_score": 0.9157551594891526,
+    "home_score": 0.7041,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "7202d26fd35500f65a0c999bf146dec40513bb10",
-    "title": "CrossCode, Alabaster Dawn, and SHADE Protocol Collaboration Announced",
-    "url": "https://noisypixel.net/crosscode-alabaster-dawn-shade-protocol-collaboration/",
-    "source_name": "Noisy Pixel",
+    "id": "77fe569e1977cbc8bce9646f388d93f25679b461",
+    "title": "Dive into Grand Blue This July!",
+    "url": "https://blog.jlist.com/news/dive-into-grand-blue-this-july/",
+    "source_name": "J-List Blog",
     "source_type": "rss",
-    "published_at": "2026-05-25T16:50:05Z",
-    "summary": "Radical Fish Games and Little Legendary have announced a collaboration between CrossCode, Alabaster Dawn, and the upcoming cyber-fantasy metroidvania SHADE Protocol",
+    "published_at": "2026-05-25T20:57:00Z",
+    "summary": "The third season of Grand Blue is coming this July, and it\u2019s taking us to Palau! In the spirit of Japanese wordplay, the anime released a new visual on May 24 (Scuba Diving Day in",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9544819607339455,
+    "home_score": 0.6985,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 24",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "890bf889798e0e0971d25baadf9da6e8ff9c5ce5",
+    "title": "No money, no events: Melee needs the SSBMRank more than ever, but it\u2019s slowly disappearing",
+    "url": "https://esportsinsider.com/2026/05/melee-needs-ssbmrank-controversy",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-25T18:04:40Z",
+    "summary": "No money, no events: Melee needs the SSBMRank more than ever, but it\u2019s slowly disappearing",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9171552514810678,
+    "home_score": 0.6982,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "08e74c392bef07e39ae778b2658137289a59b191",
+    "title": "FanFes 2026 Celebrates Filipino Anime and Game Fandoms",
+    "url": "https://animecorner.me/fanfes-2026-celebrates-filipino-anime-and-game-fandoms/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-25T20:10:06Z",
+    "summary": "FanFes 2026 Celebrates Filipino Anime and Game Fandoms",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9441758463342024,
+    "home_score": 0.6949,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "88214828308070f5aaf73e045b2858ae79c4d241",
+    "title": "Brigandine Abyss Demo Available Now on Steam",
+    "url": "https://monstervine.com/2026/05/brigandine-abyss-steam-demo/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-05-25T20:53:52Z",
+    "summary": "NIS America has released a free Steam demo for Brigandine Abyss, the new entry in the strategy RPG series",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.953789919742123,
+    "home_score": 0.6922,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "16efb6fc1418c252b5baaf9833e53b2554131a3c",
+    "title": "Marvel Cosmic Invasion Cyclops and The Thing DLC Feel Unique",
+    "url": "https://www.siliconera.com/marvel-cosmic-invasion-cyclops-and-the-thing-dlc-feel-unique/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-25T19:00:00Z",
+    "summary": "The Cyclops and The Thing DLC characters feel solid on their own or used as a pair in Marvel Cosmic Invasion The post Marvel Cosmic Invasion Cyclops and The Thing DLC Feel Unique a",
     "content": "",
     "categories": [
       "games",
@@ -108,11 +288,116 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.977558612473076,
-    "home_score": 0.7069,
-    "source_quality": 0.78,
+    "freshness_score": 0.9289787768346561,
+    "home_score": 0.691,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3fa70468b68c04e3452634c7cbcec28ea7f2180c",
+    "title": "Enter the FINAL FANTASY XIV x Jollibee Collaboration Sweepstakes!",
+    "url": "https://img.finalfantasyxiv.com/t/16acbd9985564fc77714b9c5bb6eee42bd3f0277.png?1779735347",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-05-25T18:55:00Z",
+    "summary": "To celebrate the FINAL FANTASY XIV x Jollibee collaboration, we're holding a spectacular sweepstakes through the conclusion of the campaign! Enter for a chance to win a Jollibee Pr",
+    "content": "",
+    "categories": [
+      "games",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.927903821475534,
+    "home_score": 0.6861,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "8f3bcf1e875b5f6f2adcefc0e1120a948dee191b",
+    "title": "UK software sales chart for the week ending May 23, 2026 \u2013 Yoshi and the Mysterious Book makes first appearance",
+    "url": "https://nintendoeverything.com/uk-software-sales-chart-for-the-week-ending-may-23-2026-yoshi-and-the-mysterious-book-makes-first-appearance/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-25T19:10:26Z",
+    "summary": "The latest UK software sales chart for the week ending May 23, 2026 is now available",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9312249059297877,
+    "home_score": 0.6846,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 23, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e528196736eaf882323623685b58caaac159532c",
+    "title": "Babymetal x Resident Evil 30th Anniversary Merch Pre-Orders Open",
+    "url": "https://monstervine.com/2026/05/babymetal-resident-evil-30th-anniversary-merch/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-05-25T21:12:43Z",
+    "summary": "Capcom has opened pre-orders for the limited-time Babymetal x Resident Evil 30th Anniversary collaboration merchandise",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9579608066937341,
+    "home_score": 0.6741,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 26",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
     "result_type": "article"
   },
   {
@@ -135,8 +420,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.913479569085996,
-    "home_score": 0.7011,
+    "freshness_score": 0.8423665078125414,
+    "home_score": 0.6691,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -163,8 +448,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9529629327931829,
-    "home_score": 0.6973,
+    "freshness_score": 0.8787761121024756,
+    "home_score": 0.6639,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -189,8 +474,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9529627205677731,
-    "home_score": 0.6973,
+    "freshness_score": 0.8787759552111186,
+    "home_score": 0.6639,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -215,8 +500,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9359904560343011,
-    "home_score": 0.6912,
+    "freshness_score": 0.863124941249481,
+    "home_score": 0.6584,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -251,8 +536,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.935936282362567,
-    "home_score": 0.6912,
+    "freshness_score": 0.8630749884499564,
+    "home_score": 0.6584,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -276,8 +561,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9358604512082718,
-    "home_score": 0.6911,
+    "freshness_score": 0.8630050622567997,
+    "home_score": 0.6584,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -311,87 +596,37 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9268561767742022,
-    "home_score": 0.6901,
+    "freshness_score": 0.8547017333893969,
+    "home_score": 0.6576,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "1bd9423cebdfb5a753882865b0ecdba0a96f67a1",
-    "title": "JRPG Exstetra HD Remaster Revealed, and It\u2019s Coming to the West for the First Time - Simulation Daily",
-    "url": "https://simulationdaily.com/news/exstetra-hd-remaster-revealed/",
+    "id": "4284f8b3b4705034c86d4bc53e4f8e36a37ca55e",
+    "title": "Sephiroth Coming to DISSIDIA DUELLUM FINAL FANTASY Along With New Season Content and Roadmap - GamerBraves",
+    "url": "https://www.gamerbraves.com/sephiroth-coming-to-dissidia-duellum-final-fantasy-along-with-new-season-content-and-roadmap/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-25T18:16:14Z",
-    "summary": "JRPG Exstetra HD Remaster Revealed, and It\u2019s Coming to the West for the First Time Simulation Daily",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9972484430006546,
-    "home_score": 0.6888,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b20a4afa569b57da7b067f6f77a74ad7349c395b",
-    "title": "Resident Evil 30th Anniversary Collaborates With BABYMETAL for New Merchandise",
-    "url": "https://noisypixel.net/resident-evil-30th-anniversary-babymetal-collaboration/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-25T16:39:30Z",
-    "summary": "Capcom has announced that Resident Evil\u2019s 30th anniversary is collaborating with the heavy metal band BABYMETAL for exclusive merchandise",
+    "published_at": "2026-05-25T10:21:52Z",
+    "summary": "Sephiroth Coming to DISSIDIA DUELLUM FINAL FANTASY Along With New Season Content and Roadmap GamerBraves",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch"
+      "events"
     ],
     "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9751666736033334,
-    "home_score": 0.6878,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5280cb0b0d0d8868411bccf2066413b80b088809",
-    "title": "You and I Are Polar Opposites Season 2 Reveals Trailer",
-    "url": "https://anitrendz.net/news/2026/05/25/you-and-i-are-polar-opposites-season-2-reveals-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=you-and-i-are-polar-opposites-season-2-reveals-trailer",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-25T10:06:15Z",
-    "summary": "A trailer has been released for the second season of rom-com anime You and I Are Polar Opposites",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
+    "entity_tags": [
+      "Final Fantasy"
     ],
-    "tags": [],
-    "entity_tags": [],
     "region_tags": [
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8903173500590609,
-    "home_score": 0.6876,
-    "source_quality": 0.78,
+    "freshness_score": 0.823980658997095,
+    "home_score": 0.6548,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -415,21 +650,21 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9290037920825995,
-    "home_score": 0.6866,
+    "freshness_score": 0.8566821945551936,
+    "home_score": 0.654,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "8a01a7b1a361831d690a6798a51984124b116717",
-    "title": "Exstetra HD Remaster Hits Steam July 30: 13-Year Japan-Only JRPG Gets First English Release - Tech Times",
-    "url": "https://www.techtimes.com/articles/317148/20260525/exstetra-hd-remaster-hits-steam-july-30-13-year-japan-only-jrpg-gets-first-english-release.htm",
+    "id": "1bd9423cebdfb5a753882865b0ecdba0a96f67a1",
+    "title": "JRPG Exstetra HD Remaster Revealed, and It\u2019s Coming to the West for the First Time - Simulation Daily",
+    "url": "https://simulationdaily.com/news/exstetra-hd-remaster-revealed/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-25T17:49:28Z",
-    "summary": "Exstetra HD Remaster Hits Steam July 30: 13-Year Japan-Only JRPG Gets First English Release Tech Times",
+    "published_at": "2026-05-25T18:16:14Z",
+    "summary": "JRPG Exstetra HD Remaster Revealed, and It\u2019s Coming to the West for the First Time Simulation Daily",
     "content": "",
     "categories": [
       "games"
@@ -440,44 +675,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9910886141572128,
-    "home_score": 0.686,
+    "freshness_score": 0.9196141269005871,
+    "home_score": 0.6538,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 30",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "275db406fbb21c6f93b352ba4b6571bb613e8e42",
-    "title": "Historie Anime Reveals New Trailer, Visual, Main Cast & January 2027 Release",
-    "url": "https://animecorner.me/historie-anime-new-trailer-visual-main-cast-january-2027-release/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-25T12:42:50Z",
-    "summary": "Historie Anime Reveals New Trailer, Visual, Main Cast & January 2027 Release",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9231800473304296,
-    "home_score": 0.6854,
-    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -503,92 +703,64 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8804288458624584,
-    "home_score": 0.6847,
+    "freshness_score": 0.811888737622709,
+    "home_score": 0.6538,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "117c4e07a5bc27e519d02ba15a525e609a03afab",
-    "title": "Who is Yujiro Hanma in TEKKEN 8, the final DLC character of Season 3",
-    "url": "https://esports.gg/news/tekken-8/yujiro-hanma-dlc-explained/",
-    "source_name": "Esports.gg",
+    "id": "275db406fbb21c6f93b352ba4b6571bb613e8e42",
+    "title": "Historie Anime Reveals New Trailer, Visual, Main Cast & January 2027 Release",
+    "url": "https://animecorner.me/historie-anime-new-trailer-visual-main-cast-january-2027-release/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-05-25T12:06:52Z",
-    "summary": "In a way, the anime character Yujiro Hanma matches the energy of Heihachi \u2014 in terms of strength and pride",
+    "published_at": "2026-05-25T12:42:50Z",
+    "summary": "The anime adaptation of Parasyte creator's Historie revealed the first trailer and new teaser visual,\u2026",
     "content": "",
     "categories": [
-      "esports",
-      "games",
-      "anime"
+      "anime",
+      "manga",
+      "events",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9155257935362863,
-    "home_score": 0.684,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "aca91f1e0fa754df866293f748fe228c187d2d5e",
-    "title": "Final Fantasy Tactics beat Pokemon when the Mewgenics creators were trying to figure out how combat should work: \"One has depth, and the other has the illusion of depth\" - GamesRadar+",
-    "url": "https://www.gamesradar.com/games/roguelike/final-fantasy-tactics-beat-pokemon-when-the-mewgenics-creators-were-trying-to-figure-out-how-combat-should-work-one-has-depth-and-the-other-has-the-illusion-of-depth/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-25T16:27:06Z",
-    "summary": "Final Fantasy Tactics beat Pokemon when the Mewgenics creators were trying to figure out how combat should work: \"One has depth, and the other has the illusion of depth\" GamesRadar",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9723711547978869,
-    "home_score": 0.6836,
-    "source_quality": 0.76,
+    "freshness_score": 0.8513118179490952,
+    "home_score": 0.6531,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "d1de467a18a72de4db4eabd5c55a4ba87ceb8db6",
-    "title": "Final Fantasy X House Grooves arrangement album to release July 22, 2026 - Nova Crystallis",
-    "url": "https://novacrystallis.com/2026/05/final-fantasy-x-house-grooves-arrangement-album-to-release-july-22-2026/",
+    "id": "8a01a7b1a361831d690a6798a51984124b116717",
+    "title": "Exstetra HD Remaster Hits Steam July 30: 13-Year Japan-Only JRPG Gets First English Release - Tech Times",
+    "url": "https://www.techtimes.com/articles/317148/20260525/exstetra-hd-remaster-hits-steam-july-30-13-year-japan-only-jrpg-gets-first-english-release.htm",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-25T17:05:19Z",
-    "summary": "Final Fantasy X House Grooves arrangement album to release July 22, 2026 Nova Crystallis",
+    "published_at": "2026-05-25T17:49:28Z",
+    "summary": "Exstetra HD Remaster Hits Steam July 30: 13-Year Japan-Only JRPG Gets First English Release Tech Times",
     "content": "",
     "categories": [
-      "games",
-      "anime"
+      "games"
     ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
+    "tags": [
+      "jrpg"
     ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9810113608058608,
-    "home_score": 0.6815,
+    "freshness_score": 0.9139338305487347,
+    "home_score": 0.6513,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "July 22, 2026",
+      "date_label": "July 30",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -596,59 +768,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "4284f8b3b4705034c86d4bc53e4f8e36a37ca55e",
-    "title": "Sephiroth Coming to DISSIDIA DUELLUM FINAL FANTASY Along With New Season Content and Roadmap - GamerBraves",
-    "url": "https://www.gamerbraves.com/sephiroth-coming-to-dissidia-duellum-final-fantasy-along-with-new-season-content-and-roadmap/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-25T09:21:52Z",
-    "summary": "Sephiroth Coming to DISSIDIA DUELLUM FINAL FANTASY Along With New Season Content and Roadmap GamerBraves",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8812170324781866,
-    "home_score": 0.6805,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f8291c21c8e2117b031c92c12baf132fda4b8198",
-    "title": "Historie Anime Drops 1st Trailer and New Teaser Visual, Begins January 2027",
-    "url": "https://anitrendz.net/news/2026/05/25/historie-anime-drops-1st-trailer-and-new-teaser-visual-begins-january-2027/?utm_source=rss&utm_medium=rss&utm_campaign=historie-anime-drops-1st-trailer-and-new-teaser-visual-begins-january-2027",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-25T12:07:01Z",
-    "summary": "The upcoming Historie TV anime has received a trailer and a new teaser visual, as well as a January 2027 broadcast premiere window",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9155575481419148,
-    "home_score": 0.679,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -672,8 +791,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8619571533134457,
-    "home_score": 0.6779,
+    "freshness_score": 0.7948550300470978,
+    "home_score": 0.6477,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -689,32 +808,38 @@
     "result_type": "article"
   },
   {
-    "id": "762cd56d81f6b1c904d97d00e9b6fa2e5c658435",
-    "title": "Dragon Quest VII Reimagined Developer Video Details Narrative and Gameplay Changes",
-    "url": "https://noisypixel.net/dragon-quest-vii-reimagined-making-of-video/",
-    "source_name": "Noisy Pixel",
+    "id": "d1de467a18a72de4db4eabd5c55a4ba87ceb8db6",
+    "title": "Final Fantasy X House Grooves arrangement album to release July 22, 2026 - Nova Crystallis",
+    "url": "https://novacrystallis.com/2026/05/final-fantasy-x-house-grooves-arrangement-album-to-release-july-22-2026/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-25T14:52:55Z",
-    "summary": "Square Enix has unveiled a new post-launch video for Dragon Quest VII Reimagined, detailing the making of this title",
+    "published_at": "2026-05-25T17:05:19Z",
+    "summary": "Final Fantasy X House Grooves arrangement album to release July 22, 2026 Nova Crystallis",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch"
+      "anime"
     ],
-    "tags": [
-      "jrpg"
-    ],
+    "tags": [],
     "entity_tags": [
-      "Dragon Quest"
+      "Final Fantasy"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9514016643195433,
-    "home_score": 0.6771,
-    "source_quality": 0.78,
+    "freshness_score": 0.9046410764957695,
+    "home_score": 0.6471,
+    "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 22, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -735,68 +860,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9662904335349665,
-    "home_score": 0.6748,
+    "freshness_score": 0.8910661514530851,
+    "home_score": 0.641,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9e3791dac0868cf6451b6717e23b3f662a8af4a6",
-    "title": "Though I Am an Inept Villainess Reveals Main Visual, July 12 Start",
-    "url": "https://anitrendz.net/news/2026/05/25/though-i-am-an-inept-villainess-reveals-main-visual-july-12-start/?utm_source=rss&utm_medium=rss&utm_campaign=though-i-am-an-inept-villainess-reveals-main-visual-july-12-start",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-25T11:02:50Z",
-    "summary": "The upcoming Though I Am an Inept Villainess TV anime has gotten a main visual",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.902055427111052,
-    "home_score": 0.6729,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 12",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a2ebaa078a905690ce9461c8f86a8df7f390baee",
-    "title": "Nioh 3 Version 1.06.00 Buffs Stone of Penance and Adjusts Enemy Balance",
-    "url": "https://noisypixel.net/nioh-3-version-1-06-00-update/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-25T14:07:42Z",
-    "summary": "Koei Tecmo and Team Ninja have announced that their samurai action RPG Nioh 3 has been updated to version 1",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9414954451973775,
-    "home_score": 0.6727,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -820,8 +886,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.894811265477634,
-    "home_score": 0.6712,
+    "freshness_score": 0.8251515066363669,
+    "home_score": 0.6398,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -856,35 +922,10 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9464153033665074,
-    "home_score": 0.6704,
+    "freshness_score": 0.872738245567065,
+    "home_score": 0.6372,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/7-final-fantasy-7-moments-that-will-shock-new-players-after-the-remake-trilogy.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "efc90a7db7cf524bf859e122e65701db5f6c939f",
-    "title": "Final Fantasy VII Rebirth is the largest game on the Switch 2 so far, weighing in at over 102 GB - Instant Gaming News",
-    "url": "https://news.instant-gaming.com/en/articles/19715-final-fantasy-vii-rebirth-is-the-largest-game-on-the-switch-2-so-far-weighing-in-at-over-102-gb",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-25T15:03:47Z",
-    "summary": "Final Fantasy VII Rebirth is the largest game on the Switch 2 so far, weighing in at over 102 GB Instant Gaming News",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9537974409609362,
-    "home_score": 0.6692,
-    "source_quality": 0.76,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -907,38 +948,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8882075214286125,
-    "home_score": 0.6682,
+    "freshness_score": 0.8190618545346874,
+    "home_score": 0.6371,
     "source_quality": 0.79,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ab990ab2ece1fd570ee2205b8b17c0d691895eec",
-    "title": "G2 Esports claim VCT Americas 2026 Stage 1 title with revenge win over Leviat\u00e1n",
-    "url": "https://esports.gg/news/valorant/g2-esports-vct-americas-2026-stage-1-title/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-25T09:14:13Z",
-    "summary": "In one of the most intense series in the region, G2 Esports defeated Leviat\u00e1n 3\u20132 to secure the VCT Americas 2026: Stage 1 title",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8796580551124877,
-    "home_score": 0.6678,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -962,36 +975,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9268560132298721,
-    "home_score": 0.6676,
+    "freshness_score": 0.8547015795463963,
+    "home_score": 0.6351,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "16c3366ecf1e800a0c69570b1854d94479314a20",
-    "title": "What is Fearless Draft in LoL Esports? Soft vs Hard Fearless explained",
-    "url": "https://esports.gg/news/league-of-legends/fearless-draft-in-lol-esports-explained/",
-    "source_name": "Esports.gg",
+    "id": "cadbafbf72a2938fbece06e3c9400e51ffa05028",
+    "title": "Historie anime reveals cast with first promo video",
+    "url": "https://nichegamer.com/historie-anime-reveals-cast-with-first-promo-video/",
+    "source_name": "Niche Gamer",
     "source_type": "rss",
-    "published_at": "2026-05-25T08:49:15Z",
-    "summary": "What is Fearless Draft in LoL Esports? Soft vs Hard Fearless explained",
+    "published_at": "2026-05-25T10:01:39Z",
+    "summary": "History anime fans rejoice! Liden Films has revealed the first promotional video for the anime Historie, along with a new teaser visual, its cast, and a premiere window",
     "content": "",
     "categories": [
-      "esports",
-      "games"
+      "games",
+      "anime",
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
+    "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8745888896065431,
-    "home_score": 0.6656,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "freshness_score": 0.8201338214327814,
+    "home_score": 0.6336,
+    "source_quality": 0.75,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1012,8 +1024,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9283089439011585,
-    "home_score": 0.6652,
+    "freshness_score": 0.8560414013197458,
+    "home_score": 0.6327,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -1038,34 +1050,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8734020946179932,
-    "home_score": 0.663,
+    "freshness_score": 0.8054090067291597,
+    "home_score": 0.6324,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b4d13e524818c79f9b0bc33fc65e61836dae64d4",
-    "title": "Japanese voice actress Kana Hanazawa literally ate her audition script to get her role in the 2010 Book Girl anime movie",
-    "url": "https://automaton-media.com/en/news/japanese-voice-actress-kana-hanazawa-literally-ate-her-audition-script-to-get-her-role-in-the-2010-book-girl-anime-movie/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-05-25T12:00:00Z",
-    "summary": "Japanese voice actress Kana Hanazawa literally ate her audition script to get her role in the 2010 Book Girl anime movie",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9140719947867324,
-    "home_score": 0.6618,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1089,21 +1076,21 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8711036443323403,
-    "home_score": 0.6605,
+    "freshness_score": 0.8032894895018136,
+    "home_score": 0.63,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "e27e81ce4fd1e6a41c0c604c880e2dddf64b304b",
-    "title": "Outward 2 Hands-On Preview: A Brutal Adventure",
-    "url": "https://www.dualshockers.com/outward-2-preview-the-pain-outweighs-the-pleasure/",
-    "source_name": "DualShockers",
+    "id": "b4d13e524818c79f9b0bc33fc65e61836dae64d4",
+    "title": "Japanese voice actress Kana Hanazawa literally ate her audition script to get her role in the 2010 Book Girl anime movie",
+    "url": "https://automaton-media.com/en/news/japanese-voice-actress-kana-hanazawa-literally-ate-her-audition-script-to-get-her-role-in-the-2010-book-girl-anime-movie/",
+    "source_name": "Automaton West",
     "source_type": "rss",
-    "published_at": "2026-05-25T12:18:10Z",
-    "summary": "Outward 2 has entered early access, and DualShockers was punished by it ahead of launch, as it's one of the most challenging RPGs to date",
+    "published_at": "2026-05-25T12:00:00Z",
+    "summary": "Japanese voice actress Kana Hanazawa literally ate her audition script to get her role in the 2010 Book Girl anime movie",
     "content": "",
     "categories": [
       "games",
@@ -1114,10 +1101,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9179237733421789,
-    "home_score": 0.6576,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/outward-2-key-art.jpg",
+    "freshness_score": 0.8429127789059886,
+    "home_score": 0.6298,
+    "source_quality": 0.79,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1139,8 +1126,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8605615748165926,
-    "home_score": 0.6573,
+    "freshness_score": 0.7935680957706851,
+    "home_score": 0.6271,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1156,36 +1143,27 @@
     "result_type": "article"
   },
   {
-    "id": "ebac06642aa6e6c60f5e7e0025cf5999e6d2305a",
-    "title": "MPL Singapore Season 11 - MLBB - Viewership, Overview, Prize Pool - Esports Charts",
-    "url": "https://escharts.com/tournaments/mobile-legends/mpl-singapore-season-11",
-    "source_name": "Google News SG ACG",
+    "id": "e27e81ce4fd1e6a41c0c604c880e2dddf64b304b",
+    "title": "Outward 2 Hands-On Preview: A Brutal Adventure",
+    "url": "https://www.dualshockers.com/outward-2-preview-the-pain-outweighs-the-pleasure/",
+    "source_name": "DualShockers",
     "source_type": "rss",
-    "published_at": "2026-05-24T02:58:34Z",
-    "summary": "MPL Singapore Season 11 - MLBB - Viewership, Overview, Prize Pool Esports Charts",
+    "published_at": "2026-05-25T12:18:10Z",
+    "summary": "Outward 2 has entered early access, and DualShockers was punished by it ahead of launch, as it's one of the most challenging RPGs to date",
     "content": "",
     "categories": [
-      "events",
       "games",
       "anime",
-      "esports"
+      "merch"
     ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.5778092455165053,
-    "home_score": 0.6555,
-    "source_quality": 0.72,
-    "image_url": null,
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8464647397912534,
+    "home_score": 0.6254,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/outward-2-preview-key-art.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1207,8 +1185,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8980898644190738,
-    "home_score": 0.6471,
+    "freshness_score": 0.8281748803978135,
+    "home_score": 0.6157,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1234,8 +1212,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8007246454798336,
-    "home_score": 0.6413,
+    "freshness_score": 0.7383893946599446,
+    "home_score": 0.6133,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -1259,8 +1237,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8833786471040802,
-    "home_score": 0.6405,
+    "freshness_score": 0.8146089110989985,
+    "home_score": 0.6096,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1288,8 +1266,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8125691425306203,
-    "home_score": 0.6372,
+    "freshness_score": 0.7493117804091217,
+    "home_score": 0.6087,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -1323,99 +1301,45 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7959076690890751,
-    "home_score": 0.6267,
+    "freshness_score": 0.7339474119401328,
+    "home_score": 0.5988,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "e2b7fd240dddff89582e2b9f916a3293f0614f6b",
-    "title": "Famitsu\u2019s most wanted games \u2013 May 24, 2026 \u2013 Pokemon Winds and Waves with a comfortable lead",
-    "url": "https://nintendoeverything.com/famitsus-most-wanted-games-may-24-2026-pokemon-winds-and-waves-with-a-comfortable-lead/",
-    "source_name": "Nintendo Everything",
+    "id": "7d922bcd64ccfe82c9c1203c97c90fc0a782d133",
+    "title": "FINAL FANTASY X - House Grooves\", a collection of classic songs from \"FF 10\", will be available for pre-order starting May 25! - Saiga NAK",
+    "url": "https://saiganak.com/product/square-enix-ff10house-reservation/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-25T03:50:56Z",
-    "summary": "It\u2019s time for the latest Famitsu\u2019s most wanted games chart outlining what Japanese gamers are looking forward to based on reader votes",
+    "published_at": "2026-05-25T06:47:38Z",
+    "summary": "FINAL FANTASY X - House Grooves\", a collection of classic songs from \"FF 10\", will be available for pre-order starting May 25! Saiga NAK",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch"
+      "games"
     ],
     "tags": [],
-    "entity_tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8162326572621571,
-    "home_score": 0.6148,
-    "source_quality": 0.77,
+    "freshness_score": 0.7841152532685653,
+    "home_score": 0.5929,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "May 24, 2026",
+      "date_label": "May 25",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
-      "merch_status": null
+      "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "article"
-  },
-  {
-    "id": "5b40c2328c3d881ea015ef8ba32236c63bd44bcd",
-    "title": "Baki Antagonist Yujiro Hanma Announced for Tekken 8 DLC Early 2027",
-    "url": "https://noisypixel.net/baki-yujiro-hanma-tekken-8-season-3-dlc/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-24T22:13:58Z",
-    "summary": "Bandai Namco has announced that the next and fourth Season 3 DLC character for Tekken 8 will be Yujiro Hanma, the antagonist of the Baki franchise",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7549850124137164,
-    "home_score": 0.6087,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "12bcde3ead8bca21807956f28a1174e7c455dcee",
-    "title": "Brigandine Abyss Steam Demo Now Available Ahead of August Release",
-    "url": "https://noisypixel.net/brigandine-abyss-steam-demo/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-25T00:24:47Z",
-    "summary": "NIS America and Happinet have announced that the Adglobe-developed tactical JRPG, Brigandine Abyss, now has a free demo available on PC via Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7781968681881161,
-    "home_score": 0.5992,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1438,8 +1362,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7475274696892975,
-    "home_score": 0.5989,
+    "freshness_score": 0.6893335336019384,
+    "home_score": 0.5727,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -1465,64 +1389,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.721836315116169,
-    "home_score": 0.5978,
+    "freshness_score": 0.6656423782314916,
+    "home_score": 0.5725,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "36827552cc071eee5c966b131d24bb29dda86e5d",
-    "title": "Unhinged comedy Grand Blue reveals Season 3 key visual and band for opening song",
-    "url": "https://nichegamer.com/unhinged-comedy-grand-blue-reveals-season-3-key-visual/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-05-24T16:00:31Z",
-    "summary": "Drunk diving anime Grand Blue just dropped a new key visual for Season 3 today, along with confirmation that the band FUNKY MONKEY BABY\u2019S will be performing the opening theme song",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.692460356150015,
-    "home_score": 0.5941,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "974fee89cf7119ee92603cc15afe2021eac5c6a6",
-    "title": "Grand Blue Dreaming Season 3 Reveals Key Visual, Opening Song Details",
-    "url": "https://anitrendz.net/news/2026/05/24/grand-blue-dreaming-season-3-reveals-key-visual-opening-song-details/?utm_source=rss&utm_medium=rss&utm_campaign=grand-blue-dreaming-season-3-reveals-key-visual-opening-song-details",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-24T14:30:29Z",
-    "summary": "A key visual for Grand Blue Dreaming Season 3 has been revealed ahead of the anime's July broadcast premiere",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.6781779793503518,
-    "home_score": 0.5922,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1548,8 +1417,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6641214688155084,
-    "home_score": 0.5919,
+    "freshness_score": 0.612420551207037,
+    "home_score": 0.5686,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1576,8 +1445,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6684809611705642,
-    "home_score": 0.5908,
+    "freshness_score": 0.6164406868698838,
+    "home_score": 0.5674,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1604,34 +1473,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6659685463312897,
-    "home_score": 0.5882,
+    "freshness_score": 0.6141238614376376,
+    "home_score": 0.5649,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "739315542ea15622cd8c3eff394ca0c7bac1be57",
-    "title": "Pokemon Champions Mystery Gift codes list",
-    "url": "https://nintendoeverything.com/pokemon-champions-mystery-gift-codes-list/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-05-24T21:10:28Z",
-    "summary": "The Mystery Gift feature is back again in Pokemon Champions, and we\u2019ve set up a post that rounds up all of the codes",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7439685869349748,
-    "home_score": 0.5823,
-    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1657,8 +1501,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.6479564588595489,
-    "home_score": 0.5816,
+    "freshness_score": 0.5975139873638069,
+    "home_score": 0.5589,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1683,9 +1527,234 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.6859618156075082,
-    "home_score": 0.5787,
+    "freshness_score": 0.6325606819256366,
+    "home_score": 0.5547,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2983e8df2829860e4db2a5a5069fcf3dc1e05286",
+    "title": "Ripley and Saul Appear in One Piece 1164 Preview",
+    "url": "https://animecorner.me/ripley-and-saul-appear-in-one-piece-1164-preview/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-24T15:04:59Z",
+    "summary": "ONE PIECE revealed the preview for Episode 1164, with Robin and Saul finally reunited at\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6303972829104754,
+    "home_score": 0.5537,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9964a14b46a0067453f045cffe3298f7356d8462",
+    "title": "RPGamer Round-Up: May 17 \u2013 May 24",
+    "url": "https://rpgamer.com/2026/05/rpgamer-round-up-may-17-may-24-2/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-24T14:14:48Z",
+    "summary": "Welcome to the latest edition of RPGamer's round-up column, where we look back at some of the articles that we have posted over the intervening period",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "jrpg",
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6231166748016393,
+    "home_score": 0.5504,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 17",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "5e1950699b86417a88fef4ce4e63c3b9c52fffe3",
+    "title": "Quartet Switch Version Hitting Europe, Australia This Week; Version 1.4 Update Coming Soon",
+    "url": "https://rpgamer.com/2026/05/quartet-switch-version-hitting-europe-australia-this-week-version-1-4-update-coming-soon/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-24T14:14:33Z",
+    "summary": "Something Classic Games announced that the Nintendo Switch version of turn-based RPG Quartet will release in Europe and Australia on May 29, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6230806086478975,
+    "home_score": 0.5504,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 29, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c755a4058c25dcf4acefda85d9fd7a0242dd434a",
+    "title": "Japan Joins South Korea, Hong Kong, Taiwan, Indonesia, Philippines, and Singapore in Witnessing Explosive Growth in Anime Tourism as Fans Fuel Pilgrimages and Festivals - Travel And Tour World",
+    "url": "https://www.travelandtourworld.com/news/article/84u3irlvdx4p/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-05-23T06:12:10Z",
+    "summary": "Japan Joins South Korea, Hong Kong, Taiwan, Indonesia, Philippines, and Singapore in Witnessing Explosive Growth in Anime Tourism as Fans Fuel Pilgrimages and Festivals Travel And",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.39928659436290476,
+    "home_score": 0.5497,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "2319d13d2968bf63e7cfd1be70c3b8a65a297259",
+    "title": "Uchi no Otouto-domo ga Sumimasen Reveals New Trailer, Theme Songs, Additional Cast",
+    "url": "https://animecorner.me/uchi-no-otouto-domo-ga-sumimasen-reveals-new-trailer-theme-songs-additional-cast/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-24T13:45:55Z",
+    "summary": "Uchi no Otouto-domo ga Sumimasen (Sorry About My Younger Brothers) anime revealed a new\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6189643994162796,
+    "home_score": 0.5485,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4cffda16e6758210e7a00739b14ebd64392ab221",
+    "title": "Rascal Does Not Dream of a Dear Friend Anime Film Centers Ikumi Akagi in Latest Memorial Visual",
+    "url": "https://crunchyroll.com/news/latest/2026/5/24/rascal-does-not-dream-of-a-dear-friend-anime-film-ikumi-akagi-memorial-visual",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-24T13:24:00Z",
+    "summary": "The film premieres in Japan on October 16",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6158321338028095,
+    "home_score": 0.5456,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "October 16",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3f544fd2dce11b6838ccc5d0783113b958b8e78e",
+    "title": "Maebashi Witches - Emoemories: Blooming Witches Anime Film Debuts in Fall 2026",
+    "url": "https://crunchyroll.com/news/latest/2026/5/24/maebashi-witches-emoemories-blooming-witches-anime-film-fall-2026",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-24T13:18:00Z",
+    "summary": "Teaser art published for upcoming compilation film",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.6149774044911123,
+    "home_score": 0.5452,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
