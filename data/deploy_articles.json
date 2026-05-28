@@ -1,678 +1,110 @@
 [
   {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
+    "id": "733247a12054e69b788bf9dad830478ac6d45bc3",
+    "title": "BTS team up with OREO to launch limited-edition purple cookie inspired by Korean brown sugar pancakes",
+    "url": "https://www.bandwagon.asia/articles/bts-team-up-with-oreo-to-launch-limited-edition-purple-cookie-inspired-by-brown-sugar-pancakes",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-05-28T03:55:00Z",
+    "summary": "Everyone\u2019s favourite wonder-filled cream cookies, OREO , are getting an exciting new makeover through a collaboration with one of the world\u2019s most beloved K-pop groups, BTS",
     "content": "",
     "categories": [
-      "events",
+      "games",
+      "esports",
       "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8545,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=969814dd6e45c3646d9d7ffda898075f",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
       "events",
-      "games",
-      "esports"
+      "merch"
     ],
     "tags": [
       "singapore"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
     "region_tags": [
       "Singapore",
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8215,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=937c7d304bd0c619c0340ae571645cb0",
+    "freshness_score": 0.9557949373068567,
+    "home_score": 0.7881,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C50%2C1952%2C976%5D/resize=w:1920/pjpg=q:90/compress/xafh1FeZR9aqvgShI7v4",
     "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
+      "event_type": null,
+      "date_label": "8 June",
+      "venue": "VivoCity",
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "the vibrant BTS lightstick"
+      ],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
-    "id": "ccdae9afc9ae811f900ffa5d2c14fb5f83b4fe46",
-    "title": "Young Musicians Festival Jun 2026: Piano Adventures",
-    "url": "https://www.eventbrite.com/e/young-musicians-festival-jun-2026-piano-adventures-tickets-1989856209488",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "From Bach to Anime! Witness the grit and growth of Singapore\u2019s young musicians as they share their \"Piano Adventures\" at the Library",
+    "id": "3a13312229e34e189c101b8ec4586309bdda2b8b",
+    "title": "Rurui character trailer released for Kyoto Xanadu",
+    "url": "https://nintendoeverything.com/rurui-character-trailer-released-for-kyoto-xanadu/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-28T06:21:24Z",
+    "summary": "Rurui character trailer released for Kyoto Xanadu is trending around jrpg.",
     "content": "",
     "categories": [
-      "events",
+      "games",
       "anime",
-      "manga",
       "merch"
     ],
     "tags": [
-      "singapore"
+      "jrpg"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184878983%2F3002514252271%2F1%2Foriginal.20260518-192603?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=297563c4b8bab2213f0da05f45203e92",
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9887406559566928,
+    "home_score": 0.6924,
+    "source_quality": 0.77,
+    "image_url": null,
     "event_metadata": {
-      "event_type": "festival",
-      "date_label": "8 Jun 2026",
-      "venue": "National Library / Lee Kong Chian Reference Library",
+      "event_type": null,
+      "date_label": "July 16, 2026",
+      "venue": null,
       "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/young-musicians-festival-jun-2026-piano-adventures-tickets-1989856209488",
+      "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "event"
+    "result_type": "article"
   },
   {
-    "id": "93e7c6ad300bb19dfb19dc71fc990c9b14a6b6be",
-    "title": "Create Your Own Anime Bookmark | Kids Art Workshop (June School Holidays)",
-    "url": "https://www.eventbrite.com/e/create-your-own-anime-bookmark-kids-art-workshop-june-school-holidays-tickets-1989891571256",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-03T00:00:00Z",
-    "summary": "Design, colour and take home a handmade anime bookmark! A 1",
+    "id": "db4bcd2e4f941175feea2c87a6e4017d2b436944",
+    "title": "Dropout Idol Fruit Tart Manga to Conclude in 3 Chapters",
+    "url": "https://crunchyroll.com/news/latest/2026/5/28/dropout-idol-fruit-tart-manga-conclude-three-chapters",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-28T01:59:00Z",
+    "summary": "Feel-produced TV anime is available on Crunchyroll",
     "content": "",
     "categories": [
-      "events",
       "anime",
       "manga",
-      "merch"
+      "games",
+      "events"
     ],
     "tags": [
-      "singapore"
+      "idol"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184915777%2F2019038755103%2F1%2Foriginal.20260519-063256?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be98f275931bb1264bd4e79581f0de06",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "3 Jun 2026 to 6 Jun 2026",
-      "venue": "Art Journey - Inspiring Art Workshops & Fun Art Jamming in Singapore",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/create-your-own-anime-bookmark-kids-art-workshop-june-school-holidays-tickets-1989891571256",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "38de75e0c5315fc404691dfa2a231b89fc5374b5",
-    "title": "Holiday Art Immersion - Manga Drawing & Coloured Illustration 12s (10-18YO)",
-    "url": "https://www.eventbrite.sg/e/holiday-art-immersion-manga-drawing-coloured-illustration-12s-10-18yo-tickets-1989771745855",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-01T00:00:00Z",
-    "summary": "Does your teen like Anime or Manga? Sign them up for our Manga Drawing & Coloured Illustration Holiday Art Immersion lessons to draw! Venue: Visual Arts Centre @ Dhoby Ghaut MRT St",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184774755%2F168574416186%2F1%2Foriginal.20260517-053152?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9b5734b4cdbc7b3d4b4436e92a32708a",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "1 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/holiday-art-immersion-manga-drawing-coloured-illustration-12s-10-18yo-tickets-1989771745855",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "8ddf0afe21dbcc1bee0ee3dca711a03094ea7a56",
-    "title": "Summer Holiday Art Camp - Manga & Coloured Illustration 8 Sessions (6-9YO)",
-    "url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-coloured-illustration-8-sessions-6-9yo-tickets-1989639080048",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-01T00:00:00Z",
-    "summary": "Let your child learn how to draw in manga and coloured illustration style with us this holiday! They will learn using markers and more! Venue: Visual Arts Centre @ Dhoby Ghaut MRT",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184666232%2F168574416186%2F1%2Foriginal.20260515-081125?w=400&auto=format%2Ccompress&q=75&sharp=10&s=f8e6528f3bd863a3c0d0670cef675a1e",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "1 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-coloured-illustration-8-sessions-6-9yo-tickets-1989639080048",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "8aa4cf2adaa96e282d9471473b243a1c8ca14ee4",
-    "title": "Summer Holiday Art Camp - Manga Drawing 8 Sessions (10-18YO)",
-    "url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-drawing-8-sessions-10-18yo-tickets-1989732136382",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-01T00:00:00Z",
-    "summary": "Does your teen like Manga? Let your teen learn Manga Drawing with us this holiday! They will learn from professional artists too! Venue: Visual Arts Centre @ Dhoby Ghaut MRT Statio",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184737360%2F168574416186%2F1%2Foriginal.20260516-055151?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bcb932dddbc7b91f64f68d99a80743a6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "1 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-drawing-8-sessions-10-18yo-tickets-1989732136382",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "367a784b68e5919cd26add7599130201bc145ecc",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537104903",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-05-28T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.9957649913471626,
-    "home_score": 0.8026,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "28 May 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537104903",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "ec630209addf7b1509bb665b3ceda8f39f173142",
-    "title": "Boardgame Networking Night",
-    "url": "https://www.eventbrite.sg/e/boardgame-networking-night-tickets-1989206140113",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-07-10T00:00:00Z",
-    "summary": "Come hang out, play game shows, and meet cool people who love board games as much as you do! Venue: 30 Prinsep St, #01 01",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184274343%2F2609071568161%2F1%2Foriginal.20260511-084805?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c5614b7d8eaf7f54be86f8cb11e5c88",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "10 Jul 2026",
-      "venue": "30 Prinsep St, #01 01",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/boardgame-networking-night-tickets-1989206140113",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "515ed23532c2bf578c44d4396dad5a1c5fac6a37",
-    "title": "Board Game",
-    "url": "https://www.eventbrite.com/e/board-game-tickets-1989295510422",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-21T00:00:00Z",
-    "summary": "Join us for a fun in-person Board Game night full of laughs and friendly competition! Venue: Tampines Street 21",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184379548%2F3001780228824%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=c22a5c019052745d2444cd0daa4d21f9",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "21 Jun 2026",
-      "venue": "Tampines Street 21",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/board-game-tickets-1989295510422",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "2a09586e6279a34c70c3b48d44e12356848d9b0f",
-    "title": "Gamedev Jalan: Talks and Indie Showcase by the Local Dev Community",
-    "url": "https://www.eventbrite.sg/e/gamedev-jalan-talks-and-indie-showcase-by-the-local-dev-community-tickets-1989444139977",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-21T00:00:00Z",
-    "summary": "A free community afternoon for Singapore game devs and curious players: talks, indie games, and the local scene in one place",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184571752%2F2858659952031%2F1%2Foriginal.20260514-062600?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.377&fp-y=0.386&s=55da061b1f4fe6735d390f0c5622db0b",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "21 Jun 2026",
-      "venue": "National Library Building - Imagination & Possibility Rooms (Level 5)",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-jalan-talks-and-indie-showcase-by-the-local-dev-community-tickets-1989444139977",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "34e7aaa88fafb7de753f56dc6173b264137c85d0",
-    "title": "One Punggol - Esports Arena 2026",
-    "url": "https://www.eventbrite.sg/e/one-punggol-esports-arena-2026-tickets-1989296881523",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-20T00:00:00Z",
-    "summary": "Join us for a weekend of competitive esports & tcg events at the Esports Arena 2026! Venue: One Punggol",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184771788%2F1569231854123%2F1%2Foriginal.20260517-022835?w=400&auto=format%2Ccompress&q=75&sharp=10&s=5ffc6389579ca8024c8ee8a49e0bb89b",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "20 Jun 2026 to 21 Jun 2026",
-      "venue": "One Punggol",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/one-punggol-esports-arena-2026-tickets-1989296881523",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "e0564b53391fb7dfb81be699b4de4f295e057e7a",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696544603",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-12T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "12 Jun 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696544603",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "4dcdfa02755c6c86c5bf6832feda8cff84d27b63",
-    "title": "Kids Camp: Board Game Design Lab",
-    "url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Kids Camp: Board Game Design Lab",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182547060%2F796777249053%2F1%2Foriginal.20260420-092254?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.057&fp-y=0.677&s=7e961ad10e6b60a26f9e9960200681ae",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "VIVISTOP Kampong Eunos",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "8482a5910db3b9bd03c7d632b1e36d152be9b3b6",
-    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 8-12",
-    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-8-12-tickets-1990389913812",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "6 Jun 2026",
-      "venue": "681691",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-8-12-tickets-1990389913812",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "7d72c8e96e579a31631106bbf5d724626ad2f48f",
-    "title": "Lockdown Escape at Marina Square (Temporary Closure Sale)",
-    "url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "We are having a closing down sale, so come visit us soon before it is too late to enjoy our latest escape room games! Venue: Marina Square",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962706213%2F258796489549%2F1%2Foriginal.20250217-200424?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C302%2C2738%2C1369&s=35975baddf34bcdb2d5f50c147150607",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "Marina Square",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/lockdown-escape-at-marina-square-temporary-closure-sale-tickets-1980809534640",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "2f5be626bc9da710a0a06bdadd089ec3403cd07e",
-    "title": "VR Escape Room - Singles + Friend-making events",
-    "url": "https://www.eventbrite.sg/e/vr-escape-room-singles-friend-making-events-tickets-1988984970589",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-05-31T00:00:00Z",
-    "summary": "Join us for \"VR Embarking on an immersive action-adventure\" Venue: VR+ZONE",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184002554%2F281758671497%2F1%2Foriginal.20260507-102017?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.548&fp-y=0.347&s=80071e99265b3a8bcd101b12ac26c42b",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "31 May 2026",
-      "venue": "VR+ZONE",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/vr-escape-room-singles-friend-making-events-tickets-1988984970589",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9304712101997012,
+    "home_score": 0.6872,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "1db11570dbcbf1c9256ae8d3e5e29d3b5548748f",
@@ -695,8 +127,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9698844016451448,
-    "home_score": 0.7264,
+    "freshness_score": 0.8816633949048632,
+    "home_score": 0.6867,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -722,8 +154,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9740763701704341,
-    "home_score": 0.7238,
+    "freshness_score": 0.8854740100510939,
+    "home_score": 0.684,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -750,8 +182,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9588382551614484,
-    "home_score": 0.7215,
+    "freshness_score": 0.8716220070523616,
+    "home_score": 0.6822,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -788,8 +220,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.956569604655033,
-    "home_score": 0.7205,
+    "freshness_score": 0.8695597111776624,
+    "home_score": 0.6813,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -824,16 +256,68 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9697867335012987,
-    "home_score": 0.7204,
+    "freshness_score": 0.8815745572797168,
+    "home_score": 0.6807,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
   {
+    "id": "3175c55877337160ec1c6b114eeb5058b497ddf0",
+    "title": "Dragon Quest Monsters The Withered World announced for Switch 2, PS5, Xbox, Switch, and Steam",
+    "url": "https://www.rpgsite.net/news/20455-dragon-quest-monsters-the-withered-world-switch-2-ps5-xbox-switch-steam-trailer",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-28T04:20:16Z",
+    "summary": "A new Dragon Quest Monsters title is in development for release soon titled The Withered World",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9614013561238081,
+    "home_score": 0.6801,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3a53be78d7f5ab56b977ae9160a6f31fea7cdb18",
+    "title": "Dragon Quest XII: The Flames of Fate has been renamed to Dragon Quest XII: Beyond Dreams",
+    "url": "https://www.rpgsite.net/news/20449-dragon-quest-xii-the-flames-fate-has-been-renamed-to-dragon-quest-xii-beyond-dreams",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-28T04:17:04Z",
+    "summary": "Dragon Quest XII: The Flames of Fate has been renamed and development reshuffled as revealed in the Stream",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9606894693640219,
+    "home_score": 0.6798,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "d64b216c37f0812882b697943241e14062ff88df",
-    "title": "South American Dota 2 teams are getting robbed at The International 2026",
+    "title": "South American Dota 2 teams were done dirty at The International 2026",
     "url": "https://esportsinsider.com/2026/05/the-international-2026-south-america",
     "source_name": "Esports Insider",
     "source_type": "rss",
@@ -851,8 +335,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9633503687782977,
-    "home_score": 0.719,
+    "freshness_score": 0.8757236494122704,
+    "home_score": 0.6796,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -877,8 +361,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9996913872294864,
-    "home_score": 0.7184,
+    "freshness_score": 0.9087590825838604,
+    "home_score": 0.6774,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -894,13 +378,105 @@
     "result_type": "article"
   },
   {
+    "id": "1b5239514082cfc9ce5d55344b268b68a61bb437",
+    "title": "Story-rich vampire RPG Nighthawks launches this fall for PC via Steam and GOG",
+    "url": "https://www.rpgsite.net/news/20458-story-rich-vampire-rpg-nighthawks-launches-this-fall-for-pc-steam-gog",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-28T03:47:49Z",
+    "summary": "Nighthawks will be available on Windows, macOS, and Linux from Wadjet Eye Games Fall 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9542067769067637,
+    "home_score": 0.6769,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b6e891430a45bfcc350ec0d370d0f9e754386fad",
+    "title": "Saya no Uta gets horrifying \u201ctupperware\u201d merch ahead of stage play, Gen Urobuchi jokes \u201cwhoever thought of this is even more unhinged than me\u201d",
+    "url": "https://automaton-media.com/en/news/saya-no-uta-gets-horrifying-tupperware-merch-ahead-of-stage-play-gen-urobuchi-jokes-whoever-thought-of-this-is-even-more-unhinged-than-me/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-05-28T03:10:25Z",
+    "summary": "Saya no Uta will be getting an official stage play adaptation starting June, and the commemorative merch for it is grotesquely on-brand",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9459814690996301,
+    "home_score": 0.6762,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3766fb880aba90f247db1545718a784999ee3df1",
+    "title": "River City Saga: Journey to the West releases this June for Nintendo Switch [update: trailer]",
+    "url": "https://nintendoeverything.com/river-city-saga-journey-to-the-west-releases-this-june-for-nintendo-switch/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-28T03:03:35Z",
+    "summary": "April 27: Publisher Arc System Works and developer UnitePlus have announced an official release date for River City Saga: Journey to the West",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9444862893735486,
+    "home_score": 0.6725,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "April 27",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "105d4317ddc112db8645202adcd05f09c8d013f4",
-    "title": "George Wada Calls for a Japanese Anime Awards as Criticisms of Crunchyroll Anime Awards Return for Another Year",
+    "title": "George Wada Calls for a Japanese Anime Awards, Meanwhile Criticisms of Crunchyroll Anime Awards Return for Another Year",
     "url": "https://animecorner.me/george-wada-calls-for-a-japanese-anime-awards-as-criticisms-of-crunchyroll-anime-awards-return-for-another-year/",
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-05-27T22:22:21Z",
-    "summary": "George Wada Calls for a Japanese Anime Awards as Criticisms of Crunchyroll Anime Awards Return for Another Year",
+    "summary": "George Wada Calls for a Japanese Anime Awards, Meanwhile Criticisms of Crunchyroll Anime Awards Return for Another Year",
     "content": "",
     "categories": [
       "anime",
@@ -911,9 +487,39 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.973509221127439,
-    "home_score": 0.7081,
+    "freshness_score": 0.8849584645687987,
+    "home_score": 0.6682,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0716e49f27c3d95e9e21ec456c47fb97aa37f2c2",
+    "title": "Dragon Quest Monsters: The Withered World Announced for Consoles and PC",
+    "url": "https://monstervine.com/2026/05/dragon-quest-monsters-the-withered-world-announced/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-05-27T23:17:45Z",
+    "summary": "Square Enix has announced Dragon Quest Monsters: The Withered World, the newest entry in the Dragon Quest Monsters series",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8963801769582831,
+    "home_score": 0.6644,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -937,8 +543,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.941953810762007,
-    "home_score": 0.6969,
+    "freshness_score": 0.8562733899079367,
+    "home_score": 0.6583,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -965,11 +571,47 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9144742701790594,
-    "home_score": 0.6955,
+    "freshness_score": 0.8312933368011067,
+    "home_score": 0.6581,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "770040d35366e20c3ef91e33590e0e57fbf5c012",
+    "title": "Jaadugar A Witch in Mongolia anime reveals new trailer and cast info",
+    "url": "https://nichegamer.com/jaadugar-a-witch-in-mongolia-anime-reveals-new-trailer-and-cast-info/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-05-27T17:31:36Z",
+    "summary": "Jaadugar: A Witch in Mongolia revealed a second promotional video today along with new key visual and cast information",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8273579882715986,
+    "home_score": 0.6548,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -991,8 +633,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9289615506993489,
-    "home_score": 0.691,
+    "freshness_score": 0.8444629097187516,
+    "home_score": 0.653,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1020,38 +662,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9354347855908332,
-    "home_score": 0.6894,
+    "freshness_score": 0.8503472854283891,
+    "home_score": 0.6512,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "55ccb4e0c3fdde309aef297b8f9da2117548a140",
-    "title": "Dragon Quest XII: Beyond Dreams Revealed for Series\u2019 40th Anniversary",
-    "url": "https://monstervine.com/2026/05/dragon-quest-xii-beyond-dreams-revealed/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-05-27T23:32:58Z",
-    "summary": "Square Enix has revealed Dragon Quest XII: Beyond Dreams as part of its Dragon Quest Day announcements celebrating the series\u2019 40th anniversary",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Dragon Quest"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9895532820092098,
-    "home_score": 0.6883,
-    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1078,8 +691,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9005260224138838,
-    "home_score": 0.6877,
+    "freshness_score": 0.8186138415574217,
+    "home_score": 0.6509,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -1106,8 +719,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8826330831356489,
-    "home_score": 0.6857,
+    "freshness_score": 0.8023484455310004,
+    "home_score": 0.6496,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1133,9 +746,38 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8787562909781815,
-    "home_score": 0.6854,
+    "freshness_score": 0.7988242947514336,
+    "home_score": 0.6495,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "55ccb4e0c3fdde309aef297b8f9da2117548a140",
+    "title": "Dragon Quest XII: Beyond Dreams Revealed for Series\u2019 40th Anniversary",
+    "url": "https://monstervine.com/2026/05/dragon-quest-xii-beyond-dreams-revealed/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-05-27T23:32:58Z",
+    "summary": "Square Enix has revealed Dragon Quest XII: Beyond Dreams as part of its Dragon Quest Day announcements celebrating the series\u2019 40th anniversary",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8995431349164149,
+    "home_score": 0.6478,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1159,8 +801,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9161484913536493,
-    "home_score": 0.6853,
+    "freshness_score": 0.8328153299932435,
+    "home_score": 0.6478,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": {
@@ -1173,60 +815,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "a56f42992971a89ab5d98d5646b5702dc2e54c4f",
-    "title": "Frieren Pays Tribute to Vermeer\u2019s \u201cGirl with a Pearl Earring\u201d Painting in Special Illustration",
-    "url": "https://anitrendz.net/news/2026/05/27/frieren-pays-tribute-to-vermeers-girl-with-a-pearl-earring-painting-in-special-illustration/?utm_source=rss&utm_medium=rss&utm_campaign=frieren-pays-tribute-to-vermeers-girl-with-a-pearl-earring-painting-in-special-illustration",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-27T18:50:42Z",
-    "summary": "A special Frieren: Beyond Journey\u2019s End collaboration illustration has been released in tribute to Dutch painter Johannes Vermeer\u2019s \u201cGirl with a Pearl Earring\u201d oil painting",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9269634353009254,
-    "home_score": 0.6841,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "67f480057beb55ba4fe766f4c522735b5b1e82b4",
-    "title": "Dorohedoro Anime Series Gets 3rd Season",
-    "url": "https://anitrendz.net/news/2026/05/27/dorohedoro-anime-series-gets-3rd-season/?utm_source=rss&utm_medium=rss&utm_campaign=dorohedoro-anime-series-gets-3rd-season",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-27T15:00:00Z",
-    "summary": "A third season of the Dorohedoro anime series is in production",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8787595753902011,
-    "home_score": 0.6824,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1249,65 +837,10 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8838529379327291,
-    "home_score": 0.6817,
+    "freshness_score": 0.8034573325182218,
+    "home_score": 0.6456,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7457b0688394ce52fb478666a8e0f25a4ce1a639",
-    "title": "What is going on with Square Enix's Switch 1 and Switch 2 game upgrades for Dragon Quest, Octopath, and more?",
-    "url": "https://www.rpgsite.net/feature/18652-square-enix-switch-1-2-save-data-transfer-upgrade-game-key-card-physical-cross-generation-release-dragon-quest-final-fantasy-octopath",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-27T17:22:19Z",
-    "summary": "We take a look at Square Enix's cross-generation Switch and Switch 2 releases to cover how inconsistent the publisher is across Dragon Quest, Octopath Traveler, Romancing SaGa 2: R",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Dragon Quest"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9081915340334663,
-    "home_score": 0.6802,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c30a63223c6bdea907d8442f2b4f183d4095768c",
-    "title": "Tetris: The Grand Master 4 Absolute Eye Price Drop, Switch Version Coming",
-    "url": "https://www.siliconera.com/tetris-the-grand-master-4-absolute-eye-price-drop-switch-version-coming/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-27T17:00:00Z",
-    "summary": "Tetris: The Grand Master 4 Absolute Eye is heading to the Switch, and the Steam PC price will drop to match it",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9035121610621814,
-    "home_score": 0.6796,
-    "source_quality": 0.82,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1332,8 +865,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8688485562954893,
-    "home_score": 0.6795,
+    "freshness_score": 0.789817763866988,
+    "home_score": 0.6439,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1349,26 +882,82 @@
     "result_type": "article"
   },
   {
-    "id": "769ab6007c2013817333ab725a30189e5696ccaf",
-    "title": "Makoto Tamura & Maaya Uchida Join Cast of The Duke\u2019s Son Claims He Won\u2019t Love Me Yet Showers Me with Adoration",
-    "url": "https://anitrendz.net/news/2026/05/27/makoto-tamura-maaya-uchida-join-cast-of-the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration/?utm_source=rss&utm_medium=rss&utm_campaign=makoto-tamura-maaya-uchida-join-cast-of-the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration",
-    "source_name": "Anime Trending",
+    "id": "7457b0688394ce52fb478666a8e0f25a4ce1a639",
+    "title": "What is going on with Square Enix's Switch 1 and Switch 2 game upgrades for Dragon Quest, Octopath, and more?",
+    "url": "https://www.rpgsite.net/feature/18652-square-enix-switch-1-2-save-data-transfer-upgrade-game-key-card-physical-cross-generation-release-dragon-quest-final-fantasy-octopath",
+    "source_name": "RPG Site",
     "source_type": "rss",
-    "published_at": "2026-05-27T17:52:13Z",
-    "summary": "Two more voice cast members have been announced for the upcoming The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration TV anime series",
+    "published_at": "2026-05-27T17:22:19Z",
+    "summary": "We take a look at Square Enix's cross-generation Switch and Switch 2 releases to cover how inconsistent the publisher is across Dragon Quest, Octopath Traveler, Romancing SaGa 2: R",
     "content": "",
     "categories": [
+      "games",
       "anime",
-      "manga",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8255821113811163,
+    "home_score": 0.643,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c30a63223c6bdea907d8442f2b4f183d4095768c",
+    "title": "Tetris: The Grand Master 4 Absolute Eye Price Drop, Switch Version Coming",
+    "url": "https://www.siliconera.com/tetris-the-grand-master-4-absolute-eye-price-drop-switch-version-coming/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-27T17:00:00Z",
+    "summary": "Tetris: The Grand Master 4 Absolute Eye is heading to the Switch, and the Steam PC price will drop to match it",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
       "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9144989413200748,
-    "home_score": 0.6785,
-    "source_quality": 0.78,
+    "freshness_score": 0.8213284041369747,
+    "home_score": 0.6426,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5163d4f5f53b732da51d5b3037820485ee9aeb53",
+    "title": "Tank Chair anime unveils main cast trailer",
+    "url": "https://nichegamer.com/tank-chair-anime-unveils-main-cast-trailer/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-05-27T18:31:38Z",
+    "summary": "The anime adaptation of Tank Chair unveiled its main cast and character promo video today",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "manga"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8389357163402626,
+    "home_score": 0.642,
+    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1396,8 +985,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9036792959982372,
-    "home_score": 0.6767,
+    "freshness_score": 0.8214803097146742,
+    "home_score": 0.6397,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1434,8 +1023,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9034875255041508,
-    "home_score": 0.6766,
+    "freshness_score": 0.8213059777256936,
+    "home_score": 0.6396,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1470,8 +1059,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9034491804459442,
-    "home_score": 0.6766,
+    "freshness_score": 0.8212711198094101,
+    "home_score": 0.6396,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1508,8 +1097,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8912289001918948,
-    "home_score": 0.6741,
+    "freshness_score": 0.8101624323313332,
+    "home_score": 0.6376,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1534,8 +1123,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8916550687889717,
-    "home_score": 0.6712,
+    "freshness_score": 0.8105497956396962,
+    "home_score": 0.6347,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1560,9 +1149,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8895453907690486,
-    "home_score": 0.6703,
+    "freshness_score": 0.8086320144186055,
+    "home_score": 0.6339,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "94a16bb1caa3ae486cba8de6a11f16a2970b51f4",
+    "title": "Digimon Ultraman Crossover Virtual Pet Announced",
+    "url": "https://www.siliconera.com/digimon-ultraman-crossover-virtual-pet-announced/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-27T15:00:00Z",
+    "summary": "This is to celebrate the 60th anniversary of Ultraman",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7988276807442701,
+    "home_score": 0.6325,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1588,111 +1203,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9400364472218729,
-    "home_score": 0.669,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "94a16bb1caa3ae486cba8de6a11f16a2970b51f4",
-    "title": "Digimon Ultraman Crossover Virtual Pet Announced",
-    "url": "https://www.siliconera.com/digimon-ultraman-crossover-virtual-pet-announced/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-27T15:00:00Z",
-    "summary": "This is to celebrate the 60th anniversary of Ultraman",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8787599710050032,
-    "home_score": 0.6684,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "462812dde71dd9042482a5ff263f82b244cb37a2",
-    "title": "What platforms can you play Fatekeeper on? Answered",
-    "url": "https://esports.gg/guides/gaming/what-platforms-can-you-play-fatekeeper-on-answered/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-27T15:09:23Z",
-    "summary": "Fatekeeper is a new RPG arriving in early access, but what platforms is the game coming to when it launches?",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8806703993884641,
-    "home_score": 0.6683,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dd8c063d8254fbccb78354bfadf6b2a99c3c5f72",
-    "title": "Tactical RPG \u2018Calame\u2019 Announced for PC With Steam Demo Now Available",
-    "url": "https://noisypixel.net/calame-tactical-rpg-steam-demo-announcement/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-27T16:00:12Z",
-    "summary": "Independent developer Nextale, formerly known as Smart Tale, has announced its single-player isometric tactical RPG Calame coming to PC later this year, with console versions plann",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8910912127006743,
-    "home_score": 0.668,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "089aee4c084b51436f396e396a8580c9b36cae55",
-    "title": "New Line Of Magic: The Gathering | FINAL FANTASY Ultra Pro Accessories Coming In Q4 - Star City Games",
-    "url": "https://articles.starcitygames.com/magic-the-gathering/new-line-of-magic-the-gathering-final-fantasy-ultra-pro-accessories-coming-in-q4/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-27T20:11:46Z",
-    "summary": "New Line Of Magic: The Gathering | FINAL FANTASY Ultra Pro Accessories Coming In Q4 Star City Games",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.944522440613355,
-    "home_score": 0.665,
+    "freshness_score": 0.8545303825538232,
+    "home_score": 0.6305,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1719,8 +1231,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8666393365825816,
-    "home_score": 0.663,
+    "freshness_score": 0.7878095429418893,
+    "home_score": 0.6275,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1745,59 +1257,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8759164329253823,
-    "home_score": 0.6627,
+    "freshness_score": 0.796242744138034,
+    "home_score": 0.6268,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2ed8f047fbc968149bd75867d7101e289a22d157",
-    "title": "After Nearly 3 Years, Baldur's Gate 3 Remains the Most Authentic Role-Playing Game",
-    "url": "https://www.dualshockers.com/after-nearly-3-years-baldurs-gate-3-remains-the-most-authentic-role-playing-game-out-there/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-27T19:00:16Z",
-    "summary": "Of course, a game based on Dungeons and Dragons would be good for roleplay",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9290185538264154,
-    "home_score": 0.6626,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/baldur-s-gate-3-lae-zel-shadowheart-gale-after-nearly-three-years-bg3-is-still-the-most-authentic-roleplaying-game-out-there.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1941caec1e69daa90ad2d75eefc072cc0bbb0adc",
-    "title": "FINAL FANTASY X House Grooves album announced - GoNintendo",
-    "url": "https://gonintendo.com/contents/61159-final-fantasy-x-house-grooves-album-announced",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-27T19:45:05Z",
-    "summary": "FINAL FANTASY X House Grooves album announced GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9387063898615776,
-    "home_score": 0.6624,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1823,9 +1285,34 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8751057738043992,
-    "home_score": 0.6623,
+    "freshness_score": 0.7955058226705264,
+    "home_score": 0.6265,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "089aee4c084b51436f396e396a8580c9b36cae55",
+    "title": "New Line Of Magic: The Gathering | FINAL FANTASY Ultra Pro Accessories Coming In Q4 - Star City Games",
+    "url": "https://articles.starcitygames.com/magic-the-gathering/new-line-of-magic-the-gathering-final-fantasy-ultra-pro-accessories-coming-in-q4/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-27T20:11:46Z",
+    "summary": "New Line Of Magic: The Gathering | FINAL FANTASY Ultra Pro Accessories Coming In Q4 Star City Games",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8586083251786099,
+    "home_score": 0.6264,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1851,8 +1338,112 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8609972092600449,
-    "home_score": 0.6604,
+    "freshness_score": 0.7826806250781029,
+    "home_score": 0.6252,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2ed8f047fbc968149bd75867d7101e289a22d157",
+    "title": "After Nearly 3 Years, Baldur's Gate 3 Remains the Most Authentic Role-Playing Game",
+    "url": "https://www.dualshockers.com/after-nearly-3-years-baldurs-gate-3-remains-the-most-authentic-role-playing-game-out-there/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-27T19:00:16Z",
+    "summary": "Of course, a game based on Dungeons and Dragons would be good for roleplay",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8445146757739909,
+    "home_score": 0.6245,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/baldur-s-gate-3-lae-zel-shadowheart-gale-after-nearly-three-years-bg3-is-still-the-most-authentic-roleplaying-game-out-there.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1941caec1e69daa90ad2d75eefc072cc0bbb0adc",
+    "title": "FINAL FANTASY X House Grooves album announced - GoNintendo",
+    "url": "https://gonintendo.com/contents/61159-final-fantasy-x-house-grooves-album-announced",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-27T19:45:05Z",
+    "summary": "FINAL FANTASY X House Grooves album announced GoNintendo",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8533213051671912,
+    "home_score": 0.624,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "897cde6ef5d539ffd38ac7234ab75e7aed10788c",
+    "title": "Dragon Quest XII: The Flames of Fate Now Beyond Dreams",
+    "url": "https://www.siliconera.com/dragon-quest-xii-the-flames-of-fate-now-beyond-dreams/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-27T13:15:28Z",
+    "summary": "Dragon Quest XII will take a bit longer, and the subtitle is now Beyond Dreams instead of The Flames of Fate",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.779730010148742,
+    "home_score": 0.6239,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "00337ecb91cbe13c11e0c7fe42b46c041a3c3bcf",
+    "title": "Review: Mina the Hollower Is Another Yacht Club Games Success Story",
+    "url": "https://www.siliconera.com/review-mina-the-hollower-is-another-yacht-club-games-success-story/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-05-27T13:01:00Z",
+    "summary": "Mina the Hollower is a a robust game that is a joy to play and proves Shovel Knight wasn\u2019t lightning in a bottle for Yacht Club Games",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7771232430757805,
+    "home_score": 0.6227,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1876,10 +1467,289 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9223865224788806,
-    "home_score": 0.6596,
+    "freshness_score": 0.8384858963018911,
+    "home_score": 0.6218,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/iconic-game-bugs.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "dbcfa7c8f85e9cc813b311f7e12140c8db7ee8d0",
+    "title": "Mina the Hollower Review",
+    "url": "https://rpgamer.com/review/mina-the-hollower-review/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-27T13:01:02Z",
+    "summary": "The Legend of Mina When word came out that Yacht Club Games was working on a new project following the massive success of the Shovel Knight franchise, people took notice",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7771289986391295,
+    "home_score": 0.6197,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c2d307782a26a6cf626e341180da7d76b502c25a",
+    "title": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration Anime Adds Cast for Stim and Tanja",
+    "url": "https://crunchyroll.com/news/latest/2026/5/27/the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration-anime-cast-stim-tanja",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-05-27T13:03:00Z",
+    "summary": "Adaptation based on Fantasy romance manga debuts in July",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7774827817018496,
+    "home_score": 0.6184,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "529b89310de22ca7e5536f37438044bac5cb4700",
+    "title": "South Korean indie faves JANNABI to make Singapore debut with \u2018Sweat & Stardust\u2019 tour this August",
+    "url": "https://www.bandwagon.asia/articles/south-korean-indie-faves-jannabi-to-make-singapore-debut-with-sweat-stardust-tour-this-august",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-05-26T04:08:00Z",
+    "summary": "South Korean indie favourites JANNABI are finally heading to Singapore for the very first time",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 0.49220041088601046,
+    "home_score": 0.617,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C456%2C5472%2C2736%5D/resize=w:1920/pjpg=q:90/compress/ZN1OoLj1RbuR7Wyi7DHc",
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": "13 August",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "283283feb503c4da2e051fad287bc5a808f84088",
+    "title": "Dragon Quest XII New Subtitle, Development Restart Revealed",
+    "url": "https://rpgamer.com/2026/05/dragon-quest-xii-new-subtitle-development-restart-revealed/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-27T17:00:13Z",
+    "summary": "Square Enix marked the 40th anniversary of Dragon Quest with a new video from game designer and series creator Yuji Horii and executive producer Yosuke Saito",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8213693585378232,
+    "home_score": 0.6156,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ddad0aeece93355480b53e2862d8c07c7b186cf1",
+    "title": "Dragon Quest Monsters: The Withered World Announced",
+    "url": "https://rpgamer.com/2026/05/dragon-quest-monsters-the-withered-world-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-27T16:59:59Z",
+    "summary": "As part of its developer update marking the 40th anniversary for Dragon Quest , Square Enix announced a new title in the Dragon Quest Monsters spin-off series",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8213249927539977,
+    "home_score": 0.6156,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "67bd29e8b54dd2353aa50ebc024aeae1b6f08a87",
+    "title": "PUBG MOBILE Teams Up With Blue Lock for New Anime Collaboration",
+    "url": "https://animecorner.me/pubg-mobile-teams-up-with-blue-lock-for-new-anime-collaboration/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-27T11:50:41Z",
+    "summary": "PUBG MOBILE has launched a new collaboration with BLUE LOCK, bringing characters, cosmetics, vehicles,\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7645761051749437,
+    "home_score": 0.6141,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ac625801715d164e5a46c5ba025cca4186d80d63",
+    "title": "The Witcher 3: Wild Hunt Songs of the Past Expansion Announced",
+    "url": "https://rpgamer.com/2026/05/the-witcher-3-wild-hunt-songs-of-the-past-expansion-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-05-27T12:13:40Z",
+    "summary": "CD Projekt RED has announced a third expansion for The Witcher 3: Wild Hunt",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7686546860849129,
+    "home_score": 0.6119,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "454d80087e8aa9a274d9a39a5ce0981ab9aa9bd2",
+    "title": "10 JRPGs That Reward Players for Exploring Rather Than Grinding Levels",
+    "url": "https://www.dualshockers.com/jrpgs-that-reward-players-for-exploring-the-world-more-than-grinding-levels/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-05-27T16:30:13Z",
+    "summary": "Some JRPGs love players who choose to explore every single corner of their world instead of those who prefer grinding levels",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8156850524146826,
+    "home_score": 0.6116,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/jrpgs-that-reward-players-for-exploring-the-world-more-than-grinding-levels.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "988cf0198d68fce6f1b7143f5ea9aa83bcdf4def",
+    "title": "You and I Are Polar Opposites Returns to Warm Our Hearts in July",
+    "url": "https://blog.jlist.com/news/you-and-i-are-polar-opposites-returns-to-warm-our-hearts-in-july/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-05-27T14:30:00Z",
+    "summary": "Everyone needs some wholesome romance in their life, even people like us who thrive on horniness",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7932990585026536,
+    "home_score": 0.606,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bf6e48872af707af4b504d731c18946b418e5c38",
+    "title": "Wuthering Waves is full of beautiful technical headaches that would make the average UE developer say \u201cplease don\u2019t make me do this.\u201d From Mornye\u2019s crystal legs to Camellya\u2019s acrobatics",
+    "url": "https://automaton-media.com/en/column/wuthering-waves-is-full-of-beautiful-technical-headaches-that-would-make-the-average-ue-developer-say-please-dont-make-me-do-this/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-05-27T14:00:00Z",
+    "summary": "We talk to Japanese game developer Masahiko Nakamura about what makes Wuthering Waves impressive, or even intimidating, from a technical perspective",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7878093800245947,
+    "home_score": 0.605,
+    "source_quality": 0.79,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   }
