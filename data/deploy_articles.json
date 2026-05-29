@@ -24,9 +24,239 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8599378053343704,
-    "home_score": 0.757,
+    "freshness_score": 0.7823594967914104,
+    "home_score": 0.7221,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "da6abb4fb141e619c607b5b38b04ff6d5a18d036",
+    "title": "Gravastar Announced as a Sci-Fi Fantasy RPG Developed for Over 10 Years",
+    "url": "https://noisypixel.net/gravastar-announced-sci-fi-fantasy-rpg/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-29T04:39:50Z",
+    "summary": "Seattle-based developer Studio Atma has announced its science fiction fantasy RPG Gravastar, which has been in development for more than a decade",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9657685692161758,
+    "home_score": 0.7216,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7292a47519aaa815d201a83a4efc2fc4905647f7",
+    "title": "New Optional Items & Limited-time Sale!",
+    "url": "https://img.finalfantasyxiv.com/t/0100ad1804a2f2d5917035574a68a5c59b4a06f4.png?1780038271",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-05-29T07:00:00Z",
+    "summary": "New optional items will be added to the FINAL FANTASY XIV Online Store staring Friday, May 29 around 1:00 a",
+    "content": "",
+    "categories": [
+      "games",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9976174987061692,
+    "home_score": 0.7174,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 29",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "30474e747b38bc1e22caa35e2567cd92f2b358f0",
+    "title": "Re:ZERO Season 4\u2019s \u201cThe Recapture Arc\u201d to Have Episode 1 Screening at Anime Expo 2026",
+    "url": "https://anitrendz.net/news/2026/05/28/rezero-season-4s-the-recapture-arc-to-have-episode-1-screening-at-anime-expo-2026/?utm_source=rss&utm_medium=rss&utm_campaign=rezero-season-4s-the-recapture-arc-to-have-episode-1-screening-at-anime-expo-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-29T03:52:10Z",
+    "summary": "The first episode of Re:ZERO -Starting Life in Another World- Season 4's \"The Recapture Arc\" will be screened at Anime Expo 2026 as part of the KADOKAWA Anime 10th Anniversary Pane",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.955170562318439,
+    "home_score": 0.7168,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "screening",
+      "date_label": "July 3",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "08999e50f6a5b20df21b1bea6e716397f8ae97d7",
+    "title": "KADOKAWA World Manga Contest Winners Include Cry Or The Witch Will Come, Cells Within the Body.",
+    "url": "https://anitrendz.net/news/2026/05/28/kadokawa-world-manga-contest-winners-include-cry-or-the-witch-will-come-cells-within-the-body/?utm_source=rss&utm_medium=rss&utm_campaign=kadokawa-world-manga-contest-winners-include-cry-or-the-witch-will-come-cells-within-the-body",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-29T06:40:57Z",
+    "summary": "The winners of the KADOKAWA World Manga Contest, which is said to have received 1,959 entries from 118 countries and regions, have been announced",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9932278991201731,
+    "home_score": 0.714,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7e5bf8149caacb617525f28a45b44543d2da0c51",
+    "title": "Moving the Esports World Cup to Paris shouldn\u2019t negate the concerns surrounding the event",
+    "url": "https://esportsinsider.com/2026/05/esports-world-cup-paris-move",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-05-29T02:58:42Z",
+    "summary": "On May 20th, the Esports World Cup (EWC) officially announced that it would move the $75m competition from its previous host, Riyadh, Saudi Arabia, to Paris for its 2026 edition",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.943421679453008,
+    "home_score": 0.71,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "193f9fa8ac5067a717e86a496d756e17d33b5084",
+    "title": "The Shy Snow Woman and the Cursed Ring Adult Dojin Gets TV Anime",
+    "url": "https://anitrendz.net/news/2026/05/28/the-shy-snow-woman-and-the-cursed-ring-adult-dojin-gets-tv-anime/?utm_source=rss&utm_medium=rss&utm_campaign=the-shy-snow-woman-and-the-cursed-ring-adult-dojin-gets-tv-anime",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-29T05:49:38Z",
+    "summary": "A TV anime adaptation of the adult dojin The Shy Snow Woman and the Cursed Ring has been announced with a commemorative illustration by creator Puuzaki Puuna",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9814992834327436,
+    "home_score": 0.7087,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a927c503260ffa71ee802db21d2b48b024ae0105",
+    "title": "Calame Announced With Steam Demo Available Now",
+    "url": "https://monstervine.com/2026/05/calame-tactical-rpg-announced/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-05-29T06:20:24Z",
+    "summary": "Nextale has announced Calame, a single-player isometric tactical RPG coming to PC later this year, with a console release planned for 2027",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9885143657685066,
+    "home_score": 0.7058,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a0bd4bd0faf8b6d04605dca604fc036ff6cfd22f",
+    "title": "Open World RPG \u2018Crystal Project 2\u2019 Announced for PC",
+    "url": "https://noisypixel.net/crystal-project-2-announced-steam-rpg/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-29T04:55:30Z",
+    "summary": "Publisher River Running Games and developer Andrew Willman have announced Crystal Project 2, a sequel to the open-world RPG Crystal Project, coming to PC via Steam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.969277331433486,
+    "home_score": 0.7052,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -53,8 +283,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8075501251245913,
-    "home_score": 0.7334,
+    "freshness_score": 0.7346979111744817,
+    "home_score": 0.7006,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
@@ -83,8 +313,8 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.9379934443320662,
-    "home_score": 0.7321,
+    "freshness_score": 0.8533734729861177,
+    "home_score": 0.694,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -97,6 +327,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "a705c68b29bd6ae34f9192a579b7eaac84ce702e",
+    "title": "Stardust: Wish of Witch Out Now on Steam",
+    "url": "https://monstervine.com/2026/05/stardust-wish-of-witch-out-now/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-05-29T07:09:15Z",
+    "summary": "Kniv Studio has released Stardust: Wish of Witch on Steam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9997557987764493,
+    "home_score": 0.6929,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -119,8 +376,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9852903790313001,
-    "home_score": 0.7289,
+    "freshness_score": 0.8964035143366933,
+    "home_score": 0.6889,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -136,26 +393,226 @@
     "result_type": "article"
   },
   {
+    "id": "a31e0e2e161853f56677699c4af935313a425da8",
+    "title": "Famitsu software sales (5/18/26 \u2013 5/24/26) \u2013 Top 30",
+    "url": "https://nintendoeverything.com/famitsu-software-sales-5-18-26-5-24-26-top-30/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-29T05:00:25Z",
+    "summary": "This week\u2019s expanded Japanese software sales are as follows: 1",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9703810949184262,
+    "home_score": 0.6842,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "60237456b98e612d20f879e44bf96cee8000690b",
+    "title": "Survival Horror RPG THERMOCLINE Launches Free on PC This Winter",
+    "url": "https://noisypixel.net/thermocline-free-pc-release-winter-2026/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-29T01:39:01Z",
+    "summary": "Publisher SEMICOLON and developer Decent Treatment have announced their survival horror RPG THERMOCLINE, coming to PlayStation 5, Xbox Series X|S, Nintendo Switch 2, PlayStation 4,",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9261799208351194,
+    "home_score": 0.6838,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "750c1bc21635687dce4ed54b0e078dc6e3683d9d",
+    "title": "Neptune Unlimited Details Villains, Customization, and Disc Make Systems",
+    "url": "https://noisypixel.net/neptune-unlimited-villains-customization-details/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-29T04:20:02Z",
+    "summary": "Compile Heart has shared a new batch of details for Neptune Unlimited, introducing several of the villains and customization systems",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.961352256147543,
+    "home_score": 0.6816,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "dd2ba637d4e62c20bcb3e54b7258b15dead7acdf",
+    "title": "Granblue Fantasy: Relink \u2013 Endless Ragnarok Fraux character trailer",
+    "url": "https://nintendoeverything.com/granblue-fantasy-relink-endless-ragnarok-fraux-character-trailer/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-29T04:14:49Z",
+    "summary": "Cygames has just released a new trailer for Granblue Fantasy: Relink \u2013 Endless Ragnarok, introducing the character Fraux",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9601920509026207,
+    "home_score": 0.6796,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 9, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "bcf12a6a3f1af8d602b801b7b867c652e6b463a8",
+    "title": "Anima: Song from the Abyss Confirmed for 2027 Release on Consoles and PC",
+    "url": "https://noisypixel.net/anima-song-from-the-abyss-2027-release-window/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-29T00:49:13Z",
+    "summary": "Developer Anima Project has announced that Anima: Song from the Abyss, a new action RPG set in the universe of Anima: Beyond Fantasy, is set to be released in 2027 for PlayStation",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9155644266293969,
+    "home_score": 0.679,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "91e490955a40552306827468cafb43a17a1ac356",
+    "title": "Edge of Memories Steam Demo Arrives June 15",
+    "url": "https://noisypixel.net/edge-of-memories-steam-demo-june-2026/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-29T00:42:50Z",
+    "summary": "Nacon and Midgar Studio have announced that a free demo for their upcoming action RPG, Edge of Memories, will be available on PC via Steam starting June 15, 2026, featuring the gam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9142125640952997,
+    "home_score": 0.6784,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 15",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "the gam Nacon"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "f483d2b5a400c54a0772f1fa7bea89fe48fb2620",
+    "title": "Full Circle Announced as PS1-Inspired JRPG From Peru-Based Studio 2nd Player Games",
+    "url": "https://noisypixel.net/full-circle-ps1-inspired-jrpg-announcement/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-05-29T00:37:49Z",
+    "summary": "Publisher Deck13 Spotlight and Peru-based developer 2nd Player Games have announced their story-driven JRPG Full Circle, inspired by the role-playing games of the original PlayStat",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9131515345716615,
+    "home_score": 0.6779,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "2f01f4ddabd6ba7f7346a2629c379930a0e6bcd6",
     "title": "Witch Hat Atelier Interview: Anjali Kunapaneni (Coco), Joshua A. Waters (Qifrey), & Madeleine Morris (Agott) on the English Dub",
     "url": "https://animecorner.me/witch-hat-atelier-interview-anjali-kunapaneni-coco-joshua-a-waters-qifrey-madeleine-morris-agott-on-the-english-dub/",
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-05-28T23:59:25Z",
-    "summary": "Witch Hat Atelier Interview: Anjali Kunapaneni (Coco), Joshua A. Waters (Qifrey), & Madeleine Morris (Agott) on the English Dub",
+    "summary": "Witch Hat Atelier is at once one of the most beautiful fantasy manga series\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "events",
-      "games"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9948166553600762,
-    "home_score": 0.7177,
+    "freshness_score": 0.9050704231087504,
+    "home_score": 0.6773,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -181,8 +638,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9380911658734773,
-    "home_score": 0.7121,
+    "freshness_score": 0.8534623807486553,
+    "home_score": 0.6741,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -208,8 +665,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.977747526547672,
-    "home_score": 0.71,
+    "freshness_score": 0.8895411947054807,
+    "home_score": 0.6703,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -236,11 +693,44 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9676941293197301,
-    "home_score": 0.7085,
+    "freshness_score": 0.8803948081188393,
+    "home_score": 0.6692,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0cc752b1bffe2cfef39ca94acd72d8b0021130e2",
+    "title": "Viractal is coming to Nintendo Switch 2 and Nintendo Switch on September 30",
+    "url": "https://www.rpgsite.net/news/20464-viractal-nintendo-switch-2-release-date-physical",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-29T02:14:42Z",
+    "summary": "Sting will launch its board game RPG for Switch 1 and 2 on September 30 in the West, October 1 in Japan",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9338618996856602,
+    "home_score": 0.6677,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "September 30",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -261,8 +751,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9749184846415127,
-    "home_score": 0.7057,
+    "freshness_score": 0.8869673140346629,
+    "home_score": 0.6661,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -275,32 +765,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "0204baabf86a8d8e4d3421072848f21edacf8d78",
-    "title": "The Witch\u2019s Bakery Launches This August With Physical Editions and New Theme Song",
-    "url": "https://noisypixel.net/the-witchs-bakery-august-2026-release-date/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-28T22:31:04Z",
-    "summary": "Sunny Lab and Silver Lining Interactive have announced that their adventure RPG The Witch\u2019s Bakery will be released for PlayStation 5, Switch, Switch 2, Xbox Series X|S, and PC via",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.974678063190724,
-    "home_score": 0.7056,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -322,9 +786,61 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9543468359808557,
-    "home_score": 0.7025,
+    "freshness_score": 0.8682516240081465,
+    "home_score": 0.6637,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f74b400faf0c851e80910e69d22ab61635919c1f",
+    "title": "Pixel art RPG Seed of Nostalgia on the way to Nintendo Switch",
+    "url": "https://nintendoeverything.com/pixel-art-rpg-seed-of-nostalgia-on-the-way-to-nintendo-switch/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-29T01:30:52Z",
+    "summary": "Primitive Pixels\u2019 upcoming game Seed of Nostalgia is slated for Nintendo Switch, it\u2019s been announced",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9244342473178186,
+    "home_score": 0.6635,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "588f3455ecb2308a36c8c7271d7417d3bebf5ee4",
+    "title": "Japanese-style sci-fi fantasy Gravastar revealed for Nintendo Switch 2",
+    "url": "https://nintendoeverything.com/japanese-style-sci-fi-fantasy-gravastar-revealed-for-nintendo-switch-2/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-05-29T01:20:15Z",
+    "summary": "Studio Atma is bringing its new game Gravastar to Nintendo Switch 2, the developer just announced",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9221651798658481,
+    "home_score": 0.6625,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -348,8 +864,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9609969476436877,
-    "home_score": 0.7009,
+    "freshness_score": 0.8743017123328647,
+    "home_score": 0.6619,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -374,76 +890,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9612453010849875,
-    "home_score": 0.6996,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "733247a12054e69b788bf9dad830478ac6d45bc3",
-    "title": "BTS team up with OREO to launch limited-edition purple cookie inspired by Korean brown sugar pancakes",
-    "url": "https://www.bandwagon.asia/articles/bts-team-up-with-oreo-to-launch-limited-edition-purple-cookie-inspired-by-brown-sugar-pancakes",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-05-28T03:55:00Z",
-    "summary": "Everyone\u2019s favourite wonder-filled cream cookies, OREO , are getting an exciting new makeover through a collaboration with one of the world\u2019s most beloved K-pop groups, BTS",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7527691691853963,
-    "home_score": 0.6967,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C50%2C1952%2C976%5D/resize=w:1920/pjpg=q:90/compress/xafh1FeZR9aqvgShI7v4",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "8 June",
-      "venue": "VivoCity",
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "the vibrant BTS lightstick"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "c661432c7204c456b8d9f2a52e49308904069fcf",
-    "title": "Cyborg 009 Nemesis Anime Adds Hiroki Yasumoto to Voice Cast",
-    "url": "https://anitrendz.net/news/2026/05/28/cyborg-009-nemesis-anime-adds-hiroki-yasumoto-to-voice-cast/?utm_source=rss&utm_medium=rss&utm_campaign=cyborg-009-nemesis-anime-adds-hiroki-yasumoto-to-voice-cast",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-28T21:01:29Z",
-    "summary": "Voice actor Hiroki Yasumoto has been announced to be joining the voice cast of the upcoming Cyborg 009 Nemesis anime",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.95467413616136,
-    "home_score": 0.6966,
+    "freshness_score": 0.8745276409576719,
+    "home_score": 0.6605,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -468,11 +916,70 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9411836403207725,
-    "home_score": 0.6965,
+    "freshness_score": 0.8562759292314034,
+    "home_score": 0.6583,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c661432c7204c456b8d9f2a52e49308904069fcf",
+    "title": "Cyborg 009 Nemesis Anime Adds Hiroki Yasumoto to Voice Cast",
+    "url": "https://anitrendz.net/news/2026/05/28/cyborg-009-nemesis-anime-adds-hiroki-yasumoto-to-voice-cast/?utm_source=rss&utm_medium=rss&utm_campaign=cyborg-009-nemesis-anime-adds-hiroki-yasumoto-to-voice-cast",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-28T21:01:29Z",
+    "summary": "Voice actor Hiroki Yasumoto has been announced to be joining the voice cast of the upcoming Cyborg 009 Nemesis anime",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8685492859742715,
+    "home_score": 0.6578,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6bed0fa01eb9845f3af8564b52c478c79deb178c",
+    "title": "Kunihiko Ikuhara\u2019s Adolescence of Utena Screens in North America in June 2026",
+    "url": "https://anitrendz.net/news/2026/05/28/kunihiko-ikuharas-adolescence-of-utena-screens-in-north-america-in-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=kunihiko-ikuharas-adolescence-of-utena-screens-in-north-america-in-june-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-05-28T20:31:40Z",
+    "summary": "GKIDS announced that it has acquired the North American theatrical rights for the 1999 Adolescence of Utena anime film or screening in U",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8625751923500237,
+    "home_score": 0.6552,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "screening",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -495,8 +1002,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9954618033012869,
-    "home_score": 0.6955,
+    "freshness_score": 0.9056573984059637,
+    "home_score": 0.655,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
@@ -510,40 +1017,6 @@
         "has revealed that CrossCode",
         "Seed of Nostalgia"
       ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "6bed0fa01eb9845f3af8564b52c478c79deb178c",
-    "title": "Kunihiko Ikuhara\u2019s Adolescence of Utena Screens in North America in June 2026",
-    "url": "https://anitrendz.net/news/2026/05/28/kunihiko-ikuharas-adolescence-of-utena-screens-in-north-america-in-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=kunihiko-ikuharas-adolescence-of-utena-screens-in-north-america-in-june-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-28T20:31:40Z",
-    "summary": "GKIDS announced that it has acquired the North American theatrical rights for the 1999 Adolescence of Utena anime film or screening in U",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9481076552927742,
-    "home_score": 0.6936,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "screening",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
       "merch_status": null
     },
     "result_type": "article"
@@ -566,8 +1039,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9380658293033753,
-    "home_score": 0.6921,
+    "freshness_score": 0.8534393292089881,
+    "home_score": 0.654,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -603,8 +1076,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9282020031729843,
-    "home_score": 0.6907,
+    "freshness_score": 0.8444654139850427,
+    "home_score": 0.653,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -630,8 +1103,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9153994201644385,
-    "home_score": 0.6849,
+    "freshness_score": 0.8328177996734953,
+    "home_score": 0.6478,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -656,8 +1129,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9866863756713673,
-    "home_score": 0.684,
+    "freshness_score": 0.8976735656950284,
+    "home_score": 0.644,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -668,6 +1141,45 @@
       "ticket_url": null,
       "guest_status": null,
       "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "33d9f01b022bb60804c7d9fb5f9986622f72f8c4",
+    "title": "Dr. Stone Final Season Reveals Climax Visual Featuring Senku in a Spacesuit",
+    "url": "https://animecorner.me/dr-stone-final-season-reveals-climax-visual-featuring-senku-in-a-spacesuit/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-05-28T13:54:12Z",
+    "summary": "Dr. Stone Final Season Reveals Climax Visual Featuring Senku in a Spacesuit",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7867545358707158,
+    "home_score": 0.644,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Senku"
+      ],
       "merch_status": null
     },
     "result_type": "article"
@@ -692,101 +1204,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9027734218994835,
-    "home_score": 0.6792,
+    "freshness_score": 0.8213308398387669,
+    "home_score": 0.6426,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "69d81de624dc60e79058c22b6762f091620a7281",
-    "title": "All Overwatch collaborations and crossover skins (full list 2026)",
-    "url": "https://esports.gg/news/overwatch/all-overwatch-2-collaborations-and-crossover-skins/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-28T15:00:00Z",
-    "summary": "Full list of all Overwatch collaborations and crossover skins, including every crossover event from One-Punch Man to NieR Automata",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8780410918051162,
-    "home_score": 0.6791,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "33d9f01b022bb60804c7d9fb5f9986622f72f8c4",
-    "title": "Dr. Stone Final Season Reveals Climax Visual Featuring Senku in a Spacesuit",
-    "url": "https://animecorner.me/dr-stone-final-season-reveals-climax-visual-featuring-senku-in-a-spacesuit/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-05-28T13:54:12Z",
-    "summary": "Dr. Stone Final Season Reveals Climax Visual Featuring Senku in a Spacesuit",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.864768637821743,
-    "home_score": 0.6791,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "Senku"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3a8a65858d7e6bdb884bf452356109305a96aefd",
-    "title": "Nintendo NY hosting meet-and-greet with Final Fantasy VII REBIRTH battle director, Teruki Endo - GoNintendo",
-    "url": "https://gonintendo.com/contents/61246-nintendo-ny-hosting-meet-and-greet-with-final-fantasy-vii-rebirth-battle-director",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-28T22:20:49Z",
-    "summary": "Nintendo NY hosting meet-and-greet with Final Fantasy VII REBIRTH battle director, Teruki Endo GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.972367850658556,
-    "home_score": 0.6776,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -810,8 +1230,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9061228888157946,
-    "home_score": 0.6763,
+    "freshness_score": 0.8243780533619625,
+    "home_score": 0.6395,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -846,35 +1266,34 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8957199528916097,
-    "home_score": 0.6751,
+    "freshness_score": 0.8149135980228664,
+    "home_score": 0.6387,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "42fdb22689a0160a0239712ec9bf118ba11a2b40",
-    "title": "The Witch\u2019s Bakery hits Nintendo Switch 2 and Switch this August, new trailer",
-    "url": "https://nintendoeverything.com/the-witchs-bakery-hits-nintendo-switch-2-and-switch-this-august-new-trailer/",
-    "source_name": "Nintendo Everything",
+    "id": "3a8a65858d7e6bdb884bf452356109305a96aefd",
+    "title": "Nintendo NY hosting meet-and-greet with Final Fantasy VII REBIRTH battle director, Teruki Endo - GoNintendo",
+    "url": "https://gonintendo.com/contents/61246-nintendo-ny-hosting-meet-and-greet-with-final-fantasy-vii-rebirth-battle-director",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-05-28T17:32:01Z",
-    "summary": "The Witch\u2019s Bakery is almost here, with Silver Lining Interactive and Sunny Lab confirming that the game is launching this August",
+    "published_at": "2026-05-28T22:22:12Z",
+    "summary": "Nintendo NY hosting meet-and-greet with Final Fantasy VII REBIRTH battle director, Teruki Endo GoNintendo",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
+      "games"
     ],
     "tags": [],
-    "entity_tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9094887918339187,
-    "home_score": 0.6748,
-    "source_quality": 0.77,
+    "freshness_score": 0.8849300934805486,
+    "home_score": 0.6382,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -900,8 +1319,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8903215724746731,
-    "home_score": 0.6736,
+    "freshness_score": 0.8100023182127459,
+    "home_score": 0.6375,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -925,36 +1344,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9019409690520802,
-    "home_score": 0.6729,
+    "freshness_score": 0.8205733813330222,
+    "home_score": 0.6363,
     "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7fd2dc3d5ed2ac65c507cfe48ef60fcf1c2dbbcc",
-    "title": "Kunimitsu guide: How to play the TEKKEN 8 ninja, best buttons, combos, and more",
-    "url": "https://esports.gg/news/tekken-8/kunimitsu-gameplan-buttons-combos/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-05-28T15:38:35Z",
-    "summary": "She is a quick rushdown character, with plenty of mix-up options",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8859182905459305,
-    "home_score": 0.6707,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -979,35 +1372,36 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8523771040015944,
-    "home_score": 0.6706,
+    "freshness_score": 0.7754808742575121,
+    "home_score": 0.636,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "8663531bf68d12873854ce79012b5e228ea41e8d",
-    "title": "Neptunia Unlimited villains introduced with playable character customization features",
-    "url": "https://www.rpgsite.net/news/20466-neptunia-unlimited-villains-introduced-with-playable-character-customization-features",
-    "source_name": "RPG Site",
+    "id": "7fd2dc3d5ed2ac65c507cfe48ef60fcf1c2dbbcc",
+    "title": "Kunimitsu guide: How to play the TEKKEN 8 ninja, best buttons, combos, and more",
+    "url": "https://esports.gg/news/tekken-8/kunimitsu-gameplan-buttons-combos/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-05-28T18:42:39Z",
-    "summary": "Arfoire and Warechu are also returning, although the main antagonist figure is now a deity based on the term \"End of Service\"",
+    "published_at": "2026-05-28T15:38:35Z",
+    "summary": "She is a quick rushdown character, with plenty of mix-up options",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch"
+      "esports",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9244814720420657,
-    "home_score": 0.6695,
-    "source_quality": 0.81,
-    "image_url": null,
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.805996181091031,
+    "home_score": 0.6347,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1030,8 +1424,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8870435696460606,
-    "home_score": 0.6692,
+    "freshness_score": 0.8070199611508838,
+    "home_score": 0.6332,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1065,9 +1459,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8780888963294198,
-    "home_score": 0.6681,
+    "freshness_score": 0.7988731972944588,
+    "home_score": 0.6325,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8663531bf68d12873854ce79012b5e228ea41e8d",
+    "title": "Neptunia Unlimited villains introduced with playable character customization features",
+    "url": "https://www.rpgsite.net/news/20466-neptunia-unlimited-villains-introduced-with-playable-character-customization-features",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-05-28T18:42:39Z",
+    "summary": "Arfoire and Warechu are also returning, although the main antagonist figure is now a deity based on the term \"End of Service\"",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8410804899011721,
+    "home_score": 0.632,
+    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1092,8 +1511,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8789155039472252,
-    "home_score": 0.6675,
+    "freshness_score": 0.799625142563117,
+    "home_score": 0.6318,
     "source_quality": 0.76,
     "image_url": "https://media.esports.gg/uploads/2026/05/X5NC4Q8LVxZAtLuO.mp4",
     "event_metadata": null,
@@ -1117,8 +1536,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8804054378769971,
-    "home_score": 0.6662,
+    "freshness_score": 0.8009806804159969,
+    "home_score": 0.6304,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1131,71 +1550,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "f83feef862fb408bb2cfc13a84f8529951e158e0",
-    "title": "Sephiroth Joins Dissidia Duellum Final Fantasy as A Planet in Peril Season Begins",
-    "url": "https://noisypixel.net/sephiroth-dissidia-duellum-final-fantasy-season/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-28T15:18:04Z",
-    "summary": "Square Enix has announced that Sephiroth has joined the playable roster of its mobile 3v3 team battle arena game, Dissidia Duellum Final Fantasy, as part of the newly launched A Pl",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8817210531984488,
-    "home_score": 0.6658,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 30",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "fed733bd2ed9fd11edc23bbe55b7bcef5375a584",
-    "title": "Leaked Persona 6 Design Docs Reveal Potential Protagonists - GameSpot",
-    "url": "https://www.gamespot.com/articles/leaked-persona-6-design-docs-reveal-potential-protagonists/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-28T20:17:20Z",
-    "summary": "Leaked Persona 6 Design Docs Reveal Potential Protagonists GameSpot",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9449670685990934,
-    "home_score": 0.6652,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1217,37 +1571,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8659307455111177,
-    "home_score": 0.6627,
+    "freshness_score": 0.7878118787459378,
+    "home_score": 0.6275,
     "source_quality": 0.82,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e4696148e83fad1c380df9bed403bc518361c7c1",
-    "title": "10 JRPGs Where the World Feels Like It\u2019s Slowly Falling Apart Around the Player",
-    "url": "https://www.dualshockers.com/jrpgs-where-the-world-feels-like-its-falling-apart/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-05-28T18:44:37Z",
-    "summary": "These JRPGs Where the World Feels Like It\u2019s Slowly Falling Apart Around the Player raise the stakes as the final battle draws closer",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9249022420372581,
-    "home_score": 0.6607,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/wm/2026/05/worldend.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1272,9 +1599,34 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8235015190039044,
-    "home_score": 0.6606,
+    "freshness_score": 0.7492102821452431,
+    "home_score": 0.6271,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fed733bd2ed9fd11edc23bbe55b7bcef5375a584",
+    "title": "Leaked Persona 6 Design Docs Reveal Potential Protagonists - GameSpot",
+    "url": "https://www.gamespot.com/articles/leaked-persona-6-design-docs-reveal-potential-protagonists/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-05-28T20:17:20Z",
+    "summary": "Leaked Persona 6 Design Docs Reveal Potential Protagonists GameSpot",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8597179202359583,
+    "home_score": 0.6269,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1298,8 +1650,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8665120132901653,
-    "home_score": 0.6599,
+    "freshness_score": 0.7883406526710045,
+    "home_score": 0.6248,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1332,8 +1684,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8663883266160339,
-    "home_score": 0.6599,
+    "freshness_score": 0.7882281232379178,
+    "home_score": 0.6247,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1357,8 +1709,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8663448709141879,
-    "home_score": 0.6599,
+    "freshness_score": 0.7881885868467199,
+    "home_score": 0.6247,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1383,362 +1735,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8693447350846379,
-    "home_score": 0.6597,
+    "freshness_score": 0.790917798320307,
+    "home_score": 0.6244,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c75d6b239517ad9b6c674ab79c04a521fb7857d8",
-    "title": "Tavern Talk Stories: Dreamwalker gets Nintendo Switch release date, new trailer",
-    "url": "https://nintendoeverything.com/tavern-talk-stories-dreamwalker-gets-nintendo-switch-release-date-new-trailer/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-05-28T17:50:17Z",
-    "summary": "Gentle Troll, the studio behind the D&D-inspired visual novel Tavern Talk, has announced the release date for Tavern Talk Stories: Dreamwalker",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9133426137354624,
-    "home_score": 0.6585,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 9, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "1b2915d7d01b2970c6f67eb1e8f71f3590719265",
-    "title": "Interview: Developing the Roguelike CRYMELIGHT",
-    "url": "https://www.siliconera.com/interview-developing-the-roguelike-crymelight/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-05-28T13:00:00Z",
-    "summary": "Siliconera spoke with the CRYMELIGHT Producer and Director Takumi to learn more about the roguelike follow-up to CRYSTAR",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8539870629177965,
-    "home_score": 0.6573,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "477b0e9d8317526803282833851a49ba23216a90",
-    "title": "Detective Conan and Star Detective Precure! Join Forces in New Anime Crossover Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/5/28/detective-conan-star-detective-precure-anime-crossover-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-28T13:32:00Z",
-    "summary": "The first half of the two-part detective collab airs this weekend",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8603360617954715,
-    "home_score": 0.6557,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7f14106e80f8f9bef30a8e92793c491a55528676",
-    "title": "Debora is confirmed appearing in Dragon Quest Monsters: The Withered World",
-    "url": "https://www.rpgsite.net/news/20465-debora-confirmed-appearing-in-dragon-quest-monsters-the-withered-world",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-05-28T12:52:40Z",
-    "summary": "Yuji Horii personally confirmed the appearance of the DQV remake character in the game that shall be known in Japan as Dragon Quest Monsters 4",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Dragon Quest"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.85253848167097,
-    "home_score": 0.6551,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ea0939b21e66e0c74f544dfc9fd897b60ed9ac02",
-    "title": "Kindergarten Wars Anime Casts Tetsu Inada as Gordon",
-    "url": "https://crunchyroll.com/news/latest/2026/5/28/kindergarten-wars-anime-casts-tetsu-inada-as-gordon",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-05-28T13:17:00Z",
-    "summary": "Adaptation based on action / romantic comedy manga broadcasts in spring 2027",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8573539633940166,
-    "home_score": 0.6543,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "80ea6331873d1188b79dfbff675138750db26219",
-    "title": "Persona 6 leak allegedly appears online",
-    "url": "https://nichegamer.com/persona-6-leak-allegedly-appears-online/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-05-28T17:31:15Z",
-    "summary": "The internet is once again losing its mind over Persona 6, this time thanks to a new wave of alleged leaked character art and background images that recently surfaced online",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9093272747680765,
-    "home_score": 0.6537,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "99fff9e26ac31a6a78abba13bdb8a34bf4491fe6",
-    "title": "Indie RPG Mirage Miracle Quest gets Kickstarter campaign",
-    "url": "https://nichegamer.com/indie-rpg-mirage-miracle-quest-gets-kickstarter-campaign/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-05-28T17:12:26Z",
-    "summary": "Mirage Miracle Quest might have one of the most charming art styles shown during the AG French Direct 2026 showcase",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9053751207242017,
-    "home_score": 0.6519,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b3b974da13f725022d57f12b8f68dcf3370b5e82",
-    "title": "Fire Emblem fans should keep an eye on Calame",
-    "url": "https://nichegamer.com/fire-emblem-fans-should-keep-an-eye-on-calame/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-05-28T16:45:06Z",
-    "summary": "If you\u2019re into tactical RPGs like Fire Emblem or Triangle Strategy, Calame should definitely be on your radar",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8996647497250523,
-    "home_score": 0.6493,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "da537ca285791a68241c00ad0070a75a7cf6b923",
-    "title": "Ultra PRO Unveils Massive Wave of New 'Magic: The Gathering' 'Final Fantasy' TCG Accessories - ICv2",
-    "url": "https://icv2.com/articles/news/view/62491/ultra-pro-unveils-massive-wave-new-magic-the-gathering-final-fantasy-tcg-accessories",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-05-28T17:18:50Z",
-    "summary": "Ultra PRO Unveils Massive Wave of New 'Magic: The Gathering' 'Final Fantasy' TCG Accessories ICv2",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9067172247468978,
-    "home_score": 0.648,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "02d7605006d18ba2de7fa89b94b8a256a277f496",
-    "title": "Ingrid Joins Street Fighter 6 Alongside Avatar Arcade and New Outfit Updates",
-    "url": "https://noisypixel.net/ingrid-street-fighter-6-avatar-arcade-update/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-05-28T15:24:13Z",
-    "summary": "Capcom has announced that Ingrid is now available in Street Fighter 6 across the Fighting Ground, World Tour, and Battle Hub modes",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8829771763890977,
-    "home_score": 0.6463,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ae93bc433bac4b3fb2110cc37c41724a07e717b5",
-    "title": "Animated Music Video for PORNOGRAFFITTI\u2019s \u201cDessin4\u201d Drops on YouTube",
-    "url": "https://anitrendz.net/news/2026/05/28/animated-music-video-for-pornograffittis-dessin4-drops-on-youtube/?utm_source=rss&utm_medium=rss&utm_campaign=animated-music-video-for-pornograffittis-dessin4-drops-on-youtube",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-05-28T11:19:15Z",
-    "summary": "An animated music video for PORNOGRAFFITTI's \"Dessin4\" song has been released on the Japanese band's YouTube channel",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8343006469786856,
-    "home_score": 0.6424,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2ca65775c08a13f320d9c458e7f66b2d2ccef73e",
-    "title": "STARBITES Review",
-    "url": "https://nichegamer.com/reviews/starbites-review/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-05-28T12:00:56Z",
-    "summary": "There is a distinct smell to JRPGs from the PlayStation 2 era",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8423898155420462,
-    "home_score": 0.6416,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d21dca04af9a7fef4534f8fbe8594b016f65c486",
-    "title": "The More Doujins You Own, the Happier You Are",
-    "url": "https://blog.jlist.com/product-previews-and-reviews/the-more-doujins-you-own-the-happier-you-are/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-05-28T14:30:00Z",
-    "summary": "What would you do if you saw a pair of hot JKs offering free rim jobs? Likewise, how would you proceed if you found out that for $10",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8719646676053974,
-    "home_score": 0.6414,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
