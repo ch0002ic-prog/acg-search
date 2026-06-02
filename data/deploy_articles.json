@@ -23,8 +23,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.9354429360530263,
-    "home_score": 0.7789,
+    "freshness_score": 0.8655043322812246,
+    "home_score": 0.7475,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C41%2C2100%2C1050%5D/resize=w:1920/pjpg=q:90/compress/CngLQ7oqRWSCLj8rBd9A",
     "event_metadata": {
@@ -60,9 +60,733 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8830830168430763,
-    "home_score": 0.7704,
+    "freshness_score": 0.8170589930866572,
+    "home_score": 0.7407,
     "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "076fd8c59c524eb22cb124b8c366933ddd86b73c",
+    "title": "Dragon Quest Smash/Grow developer denies rumors about the game performing poorly overseas",
+    "url": "https://automaton-media.com/en/news/dragon-quest-smash-grow-developer-denies-rumors-about-the-game-performing-poorly-overseas/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-06-02T13:00:00Z",
+    "summary": "Dragon Quest Smash/Grow developer KLab addressed concerns about the new title's performance outside of Asia in a recent shareholders meeting",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9990758220148457,
+    "home_score": 0.7381,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6fd23dd51d40b06f5528760aaf3951c34de2bb29",
+    "title": "All LGBTQ+ agents in VALORANT (2026)",
+    "url": "https://esports.gg/news/valorant/all-lgbtq-agents-valorant-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-06-02T09:58:18Z",
+    "summary": "These are all the LGBTQ+ agents in VALORANT, including both confirmed representation and some of the most popular fan speculations",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9579256461600276,
+    "home_score": 0.7351,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "73aa6e8d8fec5f0543b5cb5e9fcf076340cc2aea",
+    "title": "Final Fantasy VII Rebirth Switch 2 Review",
+    "url": "https://rpgamer.com/review/final-fantasy-vii-rebirth-switch-2-review/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:00:34Z",
+    "summary": "The Planet Calls Again Revisiting Final Fantasy VII Rebirth on a handheld console still feels unreal",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha",
+      "esports"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9854248996872678,
+    "home_score": 0.7334,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e6a5efdaa33ed3a3f1c78908b5c42f0e5d709800",
+    "title": "FFVII Rebirth Switch 2 Impressed Me More Than Remake",
+    "url": "https://www.siliconera.com/ffvii-rebirth-switch-2-impressed-me-more-than-remake/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-02T13:00:00Z",
+    "summary": "Like Final Fantasy VII Remake, FFVII Rebirth works and runs well on the Switch 2 and proves to be a welcome addition to its JRPG library",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.999076069744823,
+    "home_score": 0.7226,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d8bb54500e65b32205d41f342d5fcc919fa7b78b",
+    "title": "Kaiju No. 8 THE GAME Launches Chapter 12, Introduces New Playable Version of Gen Narumi",
+    "url": "https://animecorner.me/kaiju-no-8-the-game-launches-chapter-12-introduces-new-playable-version-of-gen-narumi/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:50:02Z",
+    "summary": "Kaiju No. 8 THE GAME Launches Chapter 12, Introduces New Playable Version of Gen Narumi",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9967732970392781,
+    "home_score": 0.7185,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "60eba74111007005694e9b1b17561542f18af428",
+    "title": "Wistoria: Wand and Sword Season 2 Episode 9 Preview Teases Will and Elfaria's Backstory",
+    "url": "https://animecorner.me/wistoria-wand-and-sword-season-2-episode-9-preview-teases-will-and-elfarias-backstory/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-02T09:27:09Z",
+    "summary": "Wistoria: Wand and Sword Season 2 has revealed the preview images and synopsis for Episode\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9510433266809053,
+    "home_score": 0.718,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4158f398c72ba890572188fd875bddd62cb19b11",
+    "title": "Subaru Doubts Everyone in Re:ZERO Season 4 Episode 9 Preview, Features Long Awaited \"Aura Monster\" Scene",
+    "url": "https://animecorner.me/subaru-doubts-everyone-in-rezero-season-4-episode-9-preview-features-long-awaited-aura-monster-scene/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-02T08:59:57Z",
+    "summary": "Re:ZERO -Starting Life in Another World- Season 4 has revealed the Episode 9 (Episode 75\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9450740851281136,
+    "home_score": 0.7153,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f45dc630b34e6839d4615d2c833e29c8fadef8dd",
+    "title": "Final Fantasy VII Rebirth on Nintendo Switch 2: Square's most ambitious game goes portable, with compromises",
+    "url": "https://www.rpgsite.net/feature/20504-final-fantasy-vii-rebirth-nintendo-switch-2-full-game-impressions-port-quality",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-02T11:53:56Z",
+    "summary": "The Switch 2 port's steady framerate and responsive controls make up for blurry textures, pop-in shadows, and other asset downgrades",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9839129925924053,
+    "home_score": 0.7143,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d6cd311962caf36dc90fd9646398d5d5b7babf89",
+    "title": "Frieren: Beyond Journey's End Film Concert Reveals New Visual Ahead of August Performances",
+    "url": "https://animecorner.me/frieren-beyond-journeys-end-film-concert-reveals-new-visual-ahead-of-august-performances/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:04:05Z",
+    "summary": "Frieren: Beyond Journey's End Film Concert Reveals New Visual Ahead of August Performances",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9862272293723401,
+    "home_score": 0.7138,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "01a6c5061f9c38d8a2536f04abce59303394bce7",
+    "title": "1win Signs Full Tundra Roster Under the 1win Team Banner",
+    "url": "https://esports.gg/news/press-releases/1win-signs-full-tundra-roster-under-the-1win-team-banner/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-06-02T11:42:29Z",
+    "summary": "1win signed the entire Tundra Dota 2 roster, including their coach and staff, ahead of the 2026 Esports World Cup",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "gacha"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9813082938126758,
+    "home_score": 0.7136,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ae785460a6769f2e93a19178fb7c0da55a3aebbc",
+    "title": "Final Fantasy VII Rebirth (Switch 2) Review \u2013 A Smooth and Stable Port - COGconnected",
+    "url": "https://cogconnected.com/review/final-fantasy-vii-rebirth-switch-2-review/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:39:26Z",
+    "summary": "Final Fantasy VII Rebirth (Switch 2) Review \u2013 A Smooth and Stable Port COGconnected",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9943302664516268,
+    "home_score": 0.7114,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "113e6fd477a549c93d8157c352030afd09cb35ce",
+    "title": "Final Fantasy 7 Rebirth review for Nintendo Switch 2",
+    "url": "https://nintendoeverything.com/final-fantasy-7-rebirth-review-for-nintendo-switch-2/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:00:00Z",
+    "summary": "System: Switch 2 Release date: June 3, 2026 Developer: Square Enix Publisher: Square Enix Final Fantasy 7 Rebirth picks up immediately in tandem and after the events of Remake\u2019s In",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9852956706440427,
+    "home_score": 0.7089,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 3, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "daa64d27690b05f38acf22b2eb14976f49ecdd76",
+    "title": "Zero Parades: For Dead Spies Review",
+    "url": "https://rpgamer.com/review/zero-parades-for-dead-spies-review/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-02T11:12:34Z",
+    "summary": "Becoming Many Masks The history of ZA/UM following the success of Disco Elysium is messy to say the least",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9745363064518597,
+    "home_score": 0.7085,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "31c15cb7b6f9196bf421d3d654ee02089160abfe",
+    "title": "Failbetter Games Discusses Mandrake Folklore Inspirations",
+    "url": "https://rpgamer.com/2026/06/failbetter-games-discusses-mandrake-folklore-inspirations/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-02T11:09:04Z",
+    "summary": "Failbetter Games posted a new blog post for its upcoming rural life sim Mandrake",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9737470493309494,
+    "home_score": 0.7042,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bf87c9ce1982006ea235c91b0df5d4da3d5733b2",
+    "title": "My Hero Academia Reveals Japan National Soccer Team Collaboration Ahead of 2026 World Cup",
+    "url": "https://animecorner.me/my-hero-academia-reveals-japan-national-soccer-team-collaboration-ahead-of-2026-world-cup/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-02T09:44:20Z",
+    "summary": "My Hero Academia anime has announced a new collaboration with Japan's national football team,\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9548337538630176,
+    "home_score": 0.6997,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d4d5c6bf24d3c3f04b6c4f386b0d828b7ff780b6",
+    "title": "MARRIAGETOXIN Goes into the Animal Kingdom in Episode 9 Preview",
+    "url": "https://animecorner.me/marriagetoxin-goes-into-the-animal-kingdom-in-episode-9-preview/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-02T09:18:58Z",
+    "summary": "MARRIAGETOXIN anime revealed a recap trailer alongside the Episode 9 preview images and synopsis, ahead\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9492434786029839,
+    "home_score": 0.6972,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b3b5bf886d5ee7eec0416553deccb7a8036e24ac",
+    "title": "Scarlet Nexus Surpasses 2 Million Units Sold Worldwide",
+    "url": "https://noisypixel.net/scarlet-nexus-2-million-units-sold-worldwide/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:05:06Z",
+    "summary": "Bandai Namco has announced that its action JRPG Scarlet Nexus has sold over two million units worldwide",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.986459560777078,
+    "home_score": 0.6929,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0e6714ea54c4dd7d51c4c79f0f63e2b67aaa816c",
+    "title": "Which is the best version of Final Fantasy VII Rebirth? PS5 Pro, Switch 2, Xbox, Steam Deck, & More Compared",
+    "url": "https://www.rpgsite.net/news/20495-final-fantasy-vii-rebirth-switch-2-vs-ps5-full-game-xbox-rog-ally-steam-deck-ps5-pro-comparison",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-02T11:58:06Z",
+    "summary": "We compare Final Fantasy VII Rebirth on Switch 2, PS5, PS5 Pro, Xbox, Steam Deck, and PC going over visuals, performance, load times, features, and more to help find the best versi",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.98486244247431,
+    "home_score": 0.6907,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "70413dc71c6e88e2790c9dfa019d08267c9b9c82",
+    "title": "The Apothecary Diaries Exhibition Kuala Lumpur Report",
+    "url": "https://anitrendz.net/news/2026/06/02/the-apothecary-diaries-exhibition-kuala-lumpur-report/?utm_source=rss&utm_medium=rss&utm_campaign=the-apothecary-diaries-exhibition-kuala-lumpur-report",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-02T07:57:57Z",
+    "summary": "The Apothecary Diaries Exhibition has landed in Malaysia, and this is definitely an exhibition that fans of the anime should visit",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9316072606963238,
+    "home_score": 0.6862,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5dadefae7d81fa6a62641f85f7c9d822e5e50842",
+    "title": "Final Fantasy VII Rebirth Review \u2013 Switch 2\u2019s Most Ambitious Port Yet - VICE",
+    "url": "https://www.vice.com/en/article/final-fantasy-vii-rebirth-review-switch-2s-most-ambitious-port-yet/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:23:29Z",
+    "summary": "Final Fantasy VII Rebirth Review \u2013 Switch 2\u2019s Most Ambitious Port Yet VICE",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9906658436524256,
+    "home_score": 0.6858,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "800ef8478be11bc1493fefb419e4732ca3b9cda0",
+    "title": "Edenfall: Legacy of the First Wardens Releasing in Q4 2026",
+    "url": "https://rpgamer.com/2026/06/edenfall-legacy-of-the-first-wardens-releasing-in-q4-2026/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-02T11:08:23Z",
+    "summary": "Everflux Games announced that action RPG Edenfall: Legacy of the First Wardens will release in Q4 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9735930270035319,
+    "home_score": 0.6841,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "50a2e966f7a1d9a6e3ce6e406598a37f733b3c4f",
+    "title": "Final Fantasy VII Rebirth Review (Switch 2) - Hey Poor Player",
+    "url": "https://www.heypoorplayer.com/2026/06/02/final-fantasy-vii-rebirth-review-switch-2/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:06:24Z",
+    "summary": "Final Fantasy VII Rebirth Review (Switch 2) Hey Poor Player",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9867560182668875,
+    "home_score": 0.684,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f26d0dab85299e781cdd8438d4004e2272ee83dd",
+    "title": "Final Fantasy VII Rebirth struggles on Switch 2 - GamingTrend",
+    "url": "https://gamingtrend.com/impressions/final-fantasy-vii-rebirth-struggles-on-switch-2/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:03:33Z",
+    "summary": "Final Fantasy VII Rebirth struggles on Switch 2 GamingTrend",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9861052422641493,
+    "home_score": 0.6837,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c531f1471f6a2ff8c0b5357b111f548a5cd2be41",
+    "title": "Final Fantasy VII REBIRTH Switch 2 Review: Feels Great in Heldheld - But Why Tho?",
+    "url": "https://butwhytho.net/2026/06/final-fantasy-vii-rebirth-switch-2-review/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:00:06Z",
+    "summary": "Final Fantasy VII REBIRTH Switch 2 Review: Feels Great in Heldheld But Why Tho?",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9853180441307761,
+    "home_score": 0.6834,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "66b8905eeb090c40770a5d627c76cd85f3d6c6f5",
+    "title": "Final Fantasy VII Rebirth (Nintendo Switch 2) Review - Comics Gaming Magazine",
+    "url": "https://www.cgmagonline.com/review/game/final-fantasy-vii-rebirth-nsw2/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-02T12:00:00Z",
+    "summary": "Final Fantasy VII Rebirth (Nintendo Switch 2) Review Comics Gaming Magazine",
+    "content": "",
+    "categories": [
+      "games",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9852952409077337,
+    "home_score": 0.6834,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "76ea9a756f539d0a15aac9c1d0f010ef181297e0",
+    "title": "Review: Final Fantasy VII Rebirth on Nintendo Switch 2 - Nintendo Wire",
+    "url": "https://nintendowire.com/news/2026/06/02/review-final-fantasy-vii-rebirth-on-nintendo-switch-2/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-02T11:59:32Z",
+    "summary": "Review: Final Fantasy VII Rebirth on Nintendo Switch 2 Nintendo Wire",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9851888045355289,
+    "home_score": 0.6833,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -88,8 +812,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7528855059375102,
-    "home_score": 0.7043,
+    "freshness_score": 0.6965957420326706,
+    "home_score": 0.679,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -115,88 +839,34 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9601824614621131,
-    "home_score": 0.7036,
+    "freshness_score": 0.8883941932299534,
+    "home_score": 0.6713,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "33524df54907da4ca74c31c9c2090dc744f5a47e",
-    "title": "Where to unlock content and features in Final Fantasy XIV 7.51 - Nova Crystallis",
-    "url": "https://novacrystallis.com/2026/06/where-to-unlock-content-and-features-in-final-fantasy-xiv-7-51/",
+    "id": "3f5829e2e9c427bf41afa0674645b131c53735d2",
+    "title": "Hilde Lynn Helphenstein, artworld satirist behind Jerry Gogosian persona, 1985\u20132026 - ArtReview",
+    "url": "https://artreview.com/hilde-lynn-helphenstein-artworld-satirist-behind-jerry-gogosian-persona-1985-2026/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-02T05:19:55Z",
-    "summary": "Where to unlock content and features in Final Fantasy XIV 7",
+    "published_at": "2026-06-02T09:45:20Z",
+    "summary": "Hilde Lynn Helphenstein, artworld satirist behind Jerry Gogosian persona, 1985\u20132026 ArtReview",
     "content": "",
     "categories": [
-      "games",
-      "events",
-      "anime"
+      "games"
     ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
+    "tags": [
+      "jrpg"
     ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9707193205527445,
-    "home_score": 0.7008,
+    "freshness_score": 0.9550545736730999,
+    "home_score": 0.6698,
     "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2b3fa367f8853f866990c26d7ff622f55def6673",
-    "title": "Geek+Pop's PICCS and RESBAK: An Explosive Weekend of Cards, Collectibles, and Fighting Games",
-    "url": "https://animecorner.me/geekpops-piccs-and-resbak-an-explosive-weekend-of-cards-collectibles-and-fighting-games/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-02T03:45:58Z",
-    "summary": "Geek+Pop's PICCS and RESBAK: An Explosive Weekend of Cards, Collectibles, and Fighting Games",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9498364810680762,
-    "home_score": 0.6974,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "68a07228af9be6d449eb6ab14e8481ada657a817",
-    "title": "Magical Girl Witch Trials devs launch Steam store page for new folk-horror visual novel about an ancient ritual where a magical girl is hanged every night",
-    "url": "https://automaton-media.com/en/news/magical-girl-witch-trials-devs-launch-steam-store-page-for-new-folk-horror-visual-novel-about-an-ancient-ritual-where-a-magical-girl-is-hanged-every-night/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-06-02T06:36:41Z",
-    "summary": "Acacia, the studio behind Magical Girl Witch Trials, just unveiled the Steam page for their new game, Magical Girl: Taboo village",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9881235443235685,
-    "home_score": 0.6952,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -221,35 +891,95 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7441126454607122,
-    "home_score": 0.6944,
+    "freshness_score": 0.6884787845256689,
+    "home_score": 0.6693,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "64e3650e2a201d5548e01963c4cedad9c95f8855",
-    "title": "Former Blue Archive developers finally show new RPG Astrae Oratio in action, revealing apparent turn-based combat and 3D cinematics",
-    "url": "https://automaton-media.com/en/news/former-blue-archive-developers-finally-show-new-rpg-astrae-oratio-in-action-revealing-apparent-turn-based-combat-and-3d-cinematics/",
+    "id": "baad2fd956a3a16b8fe8694e73b338b91637d359",
+    "title": "Patch 7.51 Notes",
+    "url": "https://img.finalfantasyxiv.com/t/c46881a31a2c90d0965493c921b434eca09113f8.jpg?1780394024",
+    "source_name": "Final Fantasy XIV News",
+    "source_type": "rss",
+    "published_at": "2026-06-02T04:15:00Z",
+    "summary": "Patch 7.51 Notes",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.884747771838785,
+    "home_score": 0.6666,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 2, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "Tiisol Ja"
+      ],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "2b3fa367f8853f866990c26d7ff622f55def6673",
+    "title": "Geek+Pop's PICCS and RESBAK: An Explosive Weekend of Cards, Collectibles, and Fighting Games",
+    "url": "https://animecorner.me/geekpops-piccs-and-resbak-an-explosive-weekend-of-cards-collectibles-and-fighting-games/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-02T03:45:58Z",
+    "summary": "For many fans, geek culture started with late-night gaming sessions, small card collections, tech\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.878821664588596,
+    "home_score": 0.6655,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "68a07228af9be6d449eb6ab14e8481ada657a817",
+    "title": "Magical Girl Witch Trials devs launch Steam store page for new folk-horror visual novel about an ancient ritual where a magical girl is hanged every night",
+    "url": "https://automaton-media.com/en/news/magical-girl-witch-trials-devs-launch-steam-store-page-for-new-folk-horror-visual-novel-about-an-ancient-ritual-where-a-magical-girl-is-hanged-every-night/",
     "source_name": "Automaton West",
     "source_type": "rss",
-    "published_at": "2026-06-02T06:13:57Z",
-    "summary": "Dynamis One and NC have published a trailer for the upcoming \u201cmagic x bureaucracy\u201d RPG Astrae Oratio, showcasing gameplay footage",
+    "published_at": "2026-06-02T06:36:41Z",
+    "summary": "Acacia, the studio behind Magical Girl Witch Trials, just unveiled the Steam page for their new game, Magical Girl: Taboo village",
     "content": "",
     "categories": [
       "games",
       "anime",
       "merch"
     ],
-    "tags": [
-      "jrpg"
-    ],
+    "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9829373525924737,
-    "home_score": 0.6928,
+    "freshness_score": 0.9142462563730452,
+    "home_score": 0.6619,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -274,8 +1004,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9404362017153897,
-    "home_score": 0.6917,
+    "freshness_score": 0.8701242120359197,
+    "home_score": 0.6601,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -288,6 +1018,33 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "64e3650e2a201d5548e01963c4cedad9c95f8855",
+    "title": "Former Blue Archive developers finally show new RPG Astrae Oratio in action, revealing apparent turn-based combat and 3D cinematics",
+    "url": "https://automaton-media.com/en/news/former-blue-archive-developers-finally-show-new-rpg-astrae-oratio-in-action-revealing-apparent-turn-based-combat-and-3d-cinematics/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-06-02T06:13:57Z",
+    "summary": "Dynamis One and NC have published a trailer for the upcoming \u201cmagic x bureaucracy\u201d RPG Astrae Oratio, showcasing gameplay footage",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9094478115290919,
+    "home_score": 0.6598,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -308,8 +1065,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.944271769094536,
-    "home_score": 0.6859,
+    "freshness_score": 0.8736730119383034,
+    "home_score": 0.6542,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -339,8 +1096,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8646428058886894,
-    "home_score": 0.6821,
+    "freshness_score": 0.7999975757278805,
+    "home_score": 0.653,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -367,11 +1124,85 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8527165062647672,
-    "home_score": 0.6722,
+    "freshness_score": 0.7889629054675498,
+    "home_score": 0.6435,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "05255474e3066e1b672abfae6c972075db3d9598",
+    "title": "Crunchyroll Anime Nights SNEAK PEEK Previews 2nd Seasons of Skeleton Knight In Another World, Clevatess & Young Ladies Don\u2019t Play Fighting Games",
+    "url": "https://anitrendz.net/news/2026/06/01/crunchyroll-anime-nights-sneak-peek-previews-2nd-seasons-of-skeleton-knight-in-another-world-clevatess-young-ladies-dont-play-fighting-games/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-anime-nights-sneak-peek-previews-2nd-seasons-of-skeleton-knight-in-another-world-clevatess-young-ladies-dont-play-fighting-games",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-01T20:13:56Z",
+    "summary": "The Crunchyroll Anime Night SNEAK PEEK theatrical event will be previewing the second seasons of Skeleton Knight In Another World and Clevatess, as well as the newly acquired title",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.7915115779681934,
+    "home_score": 0.6432,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 15, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "efe52138af1ab46827b13b5a3ed8b0e1527cfc63",
+    "title": "Apocalypse Hotel takes home two awards at the Japan Sci-fi Convention",
+    "url": "https://nichegamer.com/apocalypse-hotel-takes-home-two-awards-at-the-japan-sci-fi-convention/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-06-02T01:00:25Z",
+    "summary": "The Japan Science Fiction Convention revealed the winners of the 57th Seiun Awards today",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "manga",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.84578081962133,
+    "home_score": 0.6431,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "convention",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -392,11 +1223,83 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8915008188155479,
-    "home_score": 0.6712,
+    "freshness_score": 0.8248474858176404,
+    "home_score": 0.6412,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f40688a7b18a95cde95eec33760f1d9ab7efd721",
+    "title": "Turn-Based RPG \u2018Entropy\u2019 Enters Steam Early Access This August, Demo Available Now",
+    "url": "https://noisypixel.net/entropy-steam-early-access-august-2026/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-01T23:37:20Z",
+    "summary": "Publisher DreadXP and developer Lovely Hellplace have announced that their turn-based RPG Entropy will launch in Early Access for PC via Steam on August 18, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8296701350303236,
+    "home_score": 0.6404,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "August 18, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "55c3f86eaae6013e91e31d9e47bca11a457da243",
+    "title": "Side-Scrolling RPG \u2018Signy & Mino: Against All Gods\u2019 Launches July 30 on Steam",
+    "url": "https://noisypixel.net/signy-and-mino-against-all-gods-steam-release-date/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-01T23:25:12Z",
+    "summary": "Publisher Armor Games Studios and developer AN Productions have announced that their side-scrolling RPG Signy & Mino: Against All Gods will launch for PC via Steam on July 30, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8273431559857123,
+    "home_score": 0.6393,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 30",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -419,8 +1322,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8292792265430623,
-    "home_score": 0.6632,
+    "freshness_score": 0.7672779079327781,
+    "home_score": 0.6353,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -455,8 +1358,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8291127888269981,
-    "home_score": 0.6631,
+    "freshness_score": 0.7671239161417195,
+    "home_score": 0.6352,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -481,35 +1384,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8527168718933661,
-    "home_score": 0.6567,
+    "freshness_score": 0.788963299760383,
+    "home_score": 0.628,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "55a47749e9f17fcf6dbe1f3d4f613c5d2e218624",
-    "title": "In 1997, Warren Spector told us the upcoming PC classic Deus Ex was inspired by Final Fantasy, Miyamoto, and 'the console guys' - PC Gamer",
-    "url": "https://www.pcgamer.com/games/rpg/in-1997-warren-spector-told-us-the-upcoming-pc-classic-deus-ex-was-inspired-by-final-fantasy-miyamoto-and-the-console-guys/",
-    "source_name": "Google News JRPG",
+    "id": "c15f5aead675e11d123baeedbbcabc71e9792357",
+    "title": "Crunchyroll to Open Pop-Up Experience in Los Angeles\u2019 The Loop Retail Space in June 2026",
+    "url": "https://anitrendz.net/news/2026/06/01/crunchyroll-to-open-pop-up-experience-in-los-angeles-the-loop-retail-space-in-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-to-open-pop-up-experience-in-los-angeles-the-loop-retail-space-in-june-2026",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-06-01T21:26:21Z",
-    "summary": "In 1997, Warren Spector told us the upcoming PC classic Deus Ex was inspired by Final Fantasy, Miyamoto, and 'the console guys' PC Gamer",
+    "published_at": "2026-06-01T21:04:09Z",
+    "summary": "Crunchyroll has announced that it is collaborating with Three Ten Merchandising Services to bring a special pop-up experience at Los Angeles\u2019 The Loop retail space",
     "content": "",
     "categories": [
-      "games",
-      "events"
+      "anime",
+      "manga",
+      "events",
+      "merch"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8699323485366288,
-    "home_score": 0.6555,
-    "source_quality": 0.76,
+    "freshness_score": 0.8007659744692264,
+    "home_score": 0.6273,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -534,8 +1437,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8565975500554083,
-    "home_score": 0.6555,
+    "freshness_score": 0.792553768443405,
+    "home_score": 0.6266,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -570,8 +1473,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8565711081530943,
-    "home_score": 0.6555,
+    "freshness_score": 0.7925293034628338,
+    "home_score": 0.6266,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -605,8 +1508,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8535064251273645,
-    "home_score": 0.6526,
+    "freshness_score": 0.7896937658289118,
+    "home_score": 0.6239,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -631,9 +1534,68 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8409554462856552,
-    "home_score": 0.6514,
+    "freshness_score": 0.7780812198336867,
+    "home_score": 0.6231,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "72dd88c4356eb94a8f7662aec877b7fb2a701c46",
+    "title": "Yoroi-Shinden Samurai Troopers Reveals 2nd Cour Visual, Trailer, New Theme Songs & More Cast",
+    "url": "https://anitrendz.net/news/2026/06/01/yoroi-shinden-samurai-troopers-reveals-2nd-cour-visual-trailer-new-theme-songs-more-cast/?utm_source=rss&utm_medium=rss&utm_campaign=yoroi-shinden-samurai-troopers-reveals-2nd-cour-visual-trailer-new-theme-songs-more-cast",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-01T19:38:02Z",
+    "summary": "A key visual, trailer, new theme songs, and additional voice cast members have been revealed for the upcoming second cour of Yoroi-Shinden Samurai Troopers, which will begin airing",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7849612233871384,
+    "home_score": 0.6202,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 7, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9b8f0ae1e09f1b3464712cb02445e4c89ea4d974",
+    "title": "Manga Mavericks Books Licenses Taiyo Matsumoto\u2019s Brothers of Japan Anthology Manga",
+    "url": "https://anitrendz.net/news/2026/06/01/manga-mavericks-books-licenses-taiyo-matsumotos-brothers-of-japan-anthology-manga/?utm_source=rss&utm_medium=rss&utm_campaign=manga-mavericks-books-licenses-taiyo-matsumotos-brothers-of-japan-anthology-manga",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-01T19:15:00Z",
+    "summary": "Manga Mavericks Books announced that it has licensed Taiyo Matsumoto\u2019s Brothers of Japan anthology manga during its online Manga Mavericks Monday licensing event",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.780787111076106,
+    "home_score": 0.6184,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -658,34 +1620,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8293562447403957,
-    "home_score": 0.6462,
+    "freshness_score": 0.7673492351791422,
+    "home_score": 0.6183,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b8441356edc31f566419d795340478a0c95ff383",
-    "title": "Poll: So, Will You Be Getting Final Fantasy VII Rebirth For Switch 2? - Nintendo Life",
-    "url": "https://www.nintendolife.com/news/2026/06/poll-so-will-you-be-getting-final-fantasy-vii-rebirth-for-switch-2",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T23:55:00Z",
-    "summary": "Poll: So, Will You Be Getting Final Fantasy VII Rebirth For Switch 2? Nintendo Life",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9003874541455957,
-    "home_score": 0.6452,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -709,8 +1646,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8343624355028672,
-    "home_score": 0.644,
+    "freshness_score": 0.7719810821625559,
+    "home_score": 0.6159,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -723,34 +1660,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "a4775c62f7201c6c503513118030b509d0192ef1",
-    "title": "10 Most Addictive PS1 JRPGs",
-    "url": "https://www.dualshockers.com/most-addictive-ps1-jrpgs/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-06-01T19:30:14Z",
-    "summary": "It's really hard to turn off your console once you boot any of these addictive PS1 JRPGs",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8468611123758315,
-    "home_score": 0.6436,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/10-most-addictive-ps1-jrpgs.png",
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -773,8 +1682,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8293464235663762,
-    "home_score": 0.6432,
+    "freshness_score": 0.7673400809379581,
+    "home_score": 0.6153,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -807,8 +1716,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8293240226620721,
-    "home_score": 0.6432,
+    "freshness_score": 0.7673193548619752,
+    "home_score": 0.6153,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -824,874 +1733,30 @@
     "result_type": "article"
   },
   {
-    "id": "ac3c27cd22f60f2b4976295acfd4625901fb60e7",
-    "title": "Preview: Chivalware Plays With Battle Network Style Combat",
-    "url": "https://www.siliconera.com/preview-chivalware-plays-with-battle-network-style-combat/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:01:00Z",
-    "summary": "There\u2019s still some time before Chivalware launches, but I do appreciate its Battle Network and One Step from Eden approach to combat",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8181063840230485,
-    "home_score": 0.6411,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e186c7f7040fdb46ad000e5f1e6d3f3aa55c3d24",
-    "title": "Hunter x Hunter Volume 39 Release Date Announced",
-    "url": "https://crunchyroll.com/news/latest/2026/6/1/hunter-x-hunter-volume-39-release-date",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:43:00Z",
-    "summary": "The next manga volume launches in Japan on July 3",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8260986342641327,
-    "home_score": 0.6402,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 3",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "5bbaa37bbd0509aa1d1ae3947d407289be35effe",
-    "title": "Frieren: Beyond Journey's End Collabs with Osaka-Based Vermeer Exhibition",
-    "url": "https://crunchyroll.com/news/latest/2026/6/1/frieren-beyond-journeys-end-vermeer-exhibition-collab",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:27:00Z",
-    "summary": "Artist Tsukasa Abe shares a new take on the legendary Girl with a Pearl Earring",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8230446678627745,
-    "home_score": 0.6389,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4f90fd744fd9c8235d155818364473c6479c9565",
-    "title": "Taking Pride in RPGs, Part 1: Ladies Who Love Ladies, Gents Who Love Gents",
-    "url": "https://rpgamer.com/2026/06/taking-pride-in-rpgs-part-1-ladies-who-love-ladies-gents-who-love-gents/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-01T12:48:59Z",
-    "summary": "It's another year, another June, and the world needs more Pride than ever before",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "manga",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7717455498989297,
-    "home_score": 0.6373,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "aa81caedc7a6eb1121269d36764f2a8a19d4cc40",
-    "title": "Witch Hat Atelier Casts Ryusei Nakao and Hiiro Ishibashi as Sasaran and Euini",
-    "url": "https://animecorner.me/witch-hat-atelier-casts-ryusei-nakao-and-hiiro-ishibashi-as-sasaran-and-euini/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:47:05Z",
-    "summary": "Witch Hat Atelier has announced two new cast additions ahead of the anime's upcoming\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8154748200232764,
-    "home_score": 0.637,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c218152c1e22d615fc5d1a37d93105a4030e194c",
-    "title": "Crunchyroll Brings Immersive Pop-Up Anime Experience to The Loop in LA This Summer",
-    "url": "https://crunchyroll.com/news/announcements/2026/6/1/crunchyroll-anime-activation-the-loop-los-angeles",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:00:00Z",
-    "summary": "Solo Leveling, Sentenced to Be a Hero and Bananya to be featured",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8179166794618941,
-    "home_score": 0.6366,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b7ee87dfe0f617d385de9efe5310c4eea4739251",
-    "title": "Lego Sega Genesis Set Can Also Look Like a Mega Drive",
-    "url": "https://www.siliconera.com/lego-sega-genesis-set-can-also-look-like-a-mega-drive/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:00:00Z",
-    "summary": "The Lego Sega Genesis console set is out now and includes parts to build a Mega Drive",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8066355940016611,
-    "home_score": 0.636,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0972a99c558101d12d3f781e36bedee38cc55dec",
-    "title": "Vietnamese team crowned FFWS SEA esports champion - Th\u00f4ng t\u1ea5n x\u00e3 Vi\u1ec7t Nam",
-    "url": "https://vietnam.vnanet.vn/english/tin-van/vietnamese-team-crowned-ffws-sea-esports-champion-449169.html",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-05-31T20:16:44Z",
-    "summary": "Vietnamese team crowned FFWS SEA esports champion Th\u00f4ng t\u1ea5n x\u00e3 Vi\u1ec7t Nam",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6133692492129358,
-    "home_score": 0.6355,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "aed8e4bd95d9f24a5935088a002b11ed5d3e2a37",
-    "title": "KILL BLUE Reveals Recap Trailer, Creator Tadatoshi Fujimaki to Appear at Anime Expo 2026",
-    "url": "https://animecorner.me/kill-blue-reveals-recap-trailer-creator-tadatoshi-fujimaki-to-appear-at-anime-expo-2026/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:09:23Z",
-    "summary": "DMM announced that KILL BLUE creator Tadatoshi Fujimaki will attend Anime Expo 2026 for\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.808389253016991,
-    "home_score": 0.6338,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "855eeab48a72fecf8a70fcf0eec9fc3b86427b27",
-    "title": "Witch Hat Atelier Anime Reveals Cast for Sasaran, Euini",
-    "url": "https://crunchyroll.com/news/latest/2026/6/1/witch-hat-atelier-anime-reveals-cast-for-sasaran-euini",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:22:00Z",
-    "summary": "Ryusei Nakao and Hiro Ishibashi join the adaptation",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8107535917136226,
-    "home_score": 0.6333,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "779887c862eb7354bea0661eb9cfb45aa0447529",
-    "title": "CS2 Premier mode guide: Rating, map veto, matchmaking, and more",
-    "url": "https://esports.gg/news/cs-go/cs2-premier-mode/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-01T15:22:25Z",
-    "summary": "Counter-Strike 2 (CS2) emulates the high-stakes feel of professional esports in its Premier mode",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7996480581736707,
-    "home_score": 0.6318,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2397ce8a2d447d37bf00f9316d1996e884c2d990",
-    "title": "Pokemon TCG 30th Celebration Expansion Only Has Foil Cards",
-    "url": "https://www.siliconera.com/pokemon-tcg-30th-celebration-expansion-only-has-foil-cards/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-01T15:00:00Z",
-    "summary": "The Pokemon TCG 30th Celebration expansion will feature only foil trading cards for the game when it launches in 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7955097622755523,
-    "home_score": 0.631,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a0a32632fe7dcef6042d0af7251b4037465cf92d",
-    "title": "Check out the Japanese launch trailer for FINAL FANTASY VII REBIRTH - GoNintendo",
-    "url": "https://gonintendo.com/contents/61342-check-out-the-japanese-launch-trailer-for-final-fantasy-vii-rebirth",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T21:03:24Z",
-    "summary": "Check out the Japanese launch trailer for FINAL FANTASY VII REBIRTH GoNintendo",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8653230882077652,
-    "home_score": 0.6294,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "766296b93634df4103fafe2839639d042ebfa0be",
-    "title": "Uniqlo Will Sell Mario Kart World Shirts for Adults and Kids",
-    "url": "https://www.siliconera.com/uniqlo-will-sell-mario-kart-world-shirts-for-adults-and-kids/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:00:00Z",
-    "summary": "Mario Kart World will get its own Uniqlo shirts and sweatshirts collections for the first time in 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7845373878634007,
-    "home_score": 0.626,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9f565bf91ae0cd00210f5530d55647cb854acf6c",
-    "title": "Hunter x Hunter Manga Volume 39 Arrives After Almost 2 Years",
-    "url": "https://www.siliconera.com/hunter-x-hunter-manga-volume-39-arrives-after-almost-2-years/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-01T13:00:17Z",
-    "summary": "The 38th volume was released in Japan in September 2024, and the next one will be out in July 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7737671011108077,
-    "home_score": 0.6212,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d69f28b1b62b9bde15e9a3ed9d10286ff783d8df",
-    "title": "Canvas City mixes Jet Set Radio style with tactical RPG combat",
-    "url": "https://nichegamer.com/canvas-city-mixes-jet-set-radio-style-with-tactical-rpg-combat/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-06-01T18:01:09Z",
-    "summary": "If you\u2019ve ever wondered what would happen if Jet Set Radio and a tactical RPG had a child, Canvas City might be the answer",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.829576741759396,
-    "home_score": 0.6178,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "eed756111d3d41ff955a5d1f682fd74d1ad62236",
-    "title": "Beyond the Dark: Nightwatch revealed exclusively for Nintendo Switch 2, from new studio co-founded by Ready at Dawn head",
-    "url": "https://nintendoeverything.com/beyond-the-dark-nightwatch-revealed-exclusively-for-nintendo-switch-2-from-studio-ready-at-dawn-co-founded-by-ready-at-dawn-co-founder/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:17:22Z",
-    "summary": "Beyond the Dark: Nightwatch, the debut game from Atlantis Studio, has just been revealed",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8212115202198772,
-    "home_score": 0.617,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6cedfe03860f0713c190e7e40b2f612e6f7b26d3",
-    "title": "Former Dragon Quest producer\u2019s studio PinCool was hit by NetEase Games funding withdrawal before securing a new partner",
-    "url": "https://automaton-media.com/en/news/former-dragon-quest-producers-studio-pincool-was-hit-by-netease-games-funding-withdrawal-before-securing-a-new-partner/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:00:00Z",
-    "summary": "Ryutaro Ichimura recently talked about the \"turbulence\" his studio PinCool experienced after NetEase Games abruptly withdrew funding",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Dragon Quest"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.806635404000412,
-    "home_score": 0.6135,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "57b4afe47bb81b0b9031e171af6ed17fdd0df19b",
-    "title": "10 Popular Gaming Lego Sets That Sold out Quickly",
-    "url": "https://www.dualshockers.com/gaming-lego-sets-that-sold-out-shockingly-fast/",
+    "id": "a4775c62f7201c6c503513118030b509d0192ef1",
+    "title": "10 Most Addictive PS1 JRPGs",
+    "url": "https://www.dualshockers.com/most-addictive-ps1-jrpgs/",
     "source_name": "DualShockers",
     "source_type": "rss",
-    "published_at": "2026-06-01T16:30:14Z",
-    "summary": "From Zelda to Mario, these gaming LEGO sets vanished from shelves fast and became must-have collectibles",
+    "published_at": "2026-06-01T19:30:14Z",
+    "summary": "It's really hard to turn off your console once you boot any of these addictive PS1 JRPGs",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8123002497303267,
-    "home_score": 0.61,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/gaming-lego-sets-that-sold-out-shockingly-fast.png",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": "Sold out",
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "fa99a9f4477c91572a1e852b8036bcc5d1ff5565",
-    "title": "Perfect, expensive broadcasts are ruining the magic of esports (I miss the Overwatch League)",
-    "url": "https://esportsinsider.com/2026/06/perfect-broadcasts-ruining-esports",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-06-01T07:45:00Z",
-    "summary": "Esports used to have this kind of magical, exciting feeling I couldn\u2019t quite place",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7193069640915332,
-    "home_score": 0.6092,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "94b9849e2e3f8a7e10626243b1866d2b097dc889",
-    "title": "Hunter x Hunter Volume 39 Set for July Release, First New Manga Volume in Nearly Two Years",
-    "url": "https://animecorner.me/hunter-x-hunter-volume-39-set-for-july-release-first-new-manga-volume-in-nearly-two-years/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-01T10:18:07Z",
-    "summary": "Yoshihiro Togashi's Hunter x Hunter will release its long-awaited Volume 39 on July 3,\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7452591136296759,
-    "home_score": 0.6054,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 3",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "caf6bb2d27598e04927868181d965032fe83a6da",
-    "title": "The Shy Snow Woman and the Cursed Ring Is Getting a TV Anime",
-    "url": "https://blog.jlist.com/news/the-shy-snow-woman-and-the-cursed-ring-is-getting-a-tv-anime/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:30:00Z",
-    "summary": "Supernatural horniness is on its way! Puuzaki Puuna (Puu no Puupuupuu) announced that their adult doujin, The Shy Snow Woman and the Cursed Ring (Hitozukiai ga Nigate na Mib\u014djin no",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
       "merch",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7900041572233705,
-    "home_score": 0.6045,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "819f49e2ad6cf1f522d8458d093ea923e79af180",
-    "title": "Wisdom of Nym: What will Final Fantasy XIV\u2019s next ranged DPS job be? - Massively Overpowered",
-    "url": "https://massivelyop.com/2026/06/01/wisdom-of-nym-what-will-final-fantasy-xivs-next-ranged-dps-job-be/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:00:00Z",
-    "summary": "Wisdom of Nym: What will Final Fantasy XIV\u2019s next ranged DPS job be? Massively Overpowered",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8066351652805583,
-    "home_score": 0.603,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2c349cdf0624e063d78c7d8e12ab2843b8d35c8d",
-    "title": "The Simpsons come to Monopoly GO!",
-    "url": "https://nichegamer.com/the-simpsons-come-monopoly-go/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-06-01T15:00:45Z",
-    "summary": "Developer Scopely has announced a big update for Monopoly GO! featuring The Simpsons, adding characters and visuals from the beloved cartoon series",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.79564758813153,
-    "home_score": 0.6025,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "The Simpsons"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "9ddd5c49f2e07497419223d5a0c42c5aa9b6d8d6",
-    "title": "Daemons of the Shadow Realm Reveals Additional Cast Including Tenaga & Ashinaga Voices",
-    "url": "https://animecorner.me/daemons-of-the-shadow-realm-additional-cast-tenaga-ashinaga-voices/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-01T09:37:42Z",
-    "summary": "Daemons of the Shadow Realm anime revealed four additional cast members including the voice actors\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
       "events"
     ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7383191990435312,
-    "home_score": 0.6022,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9ebe97716dcb1bb5176be9f24aeae787da7491a5",
-    "title": "GBA-styled Japanese pixel art indie RPG Wiz Brochure is coming to PC via Steam",
-    "url": "https://www.rpgsite.net/news/20500-gba-styled-japanese-pixel-art-indie-rpg-wiz-brochure-coming-to-pc-via-steam",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-01T12:39:30Z",
-    "summary": "The player can spawn rabbits by driving away monsters in this game",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7700533120220302,
-    "home_score": 0.594,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f0481d208079c84767d5417a1f0dc35cb91aca68",
-    "title": "Andrew Lloyd Webber's DJ Persona Makes a Return at Cats: The Jellicle Ball - Playbill",
-    "url": "https://playbill.com/article/andrew-lloyd-webbers-dj-persona-makes-a-return-at-cats-the-jellicle-ball",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:08:00Z",
-    "summary": "Andrew Lloyd Webber's DJ Persona Makes a Return at Cats: The Jellicle Ball Playbill",
-    "content": "",
-    "categories": [
-      "games"
-    ],
     "tags": [
       "jrpg"
     ],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7859911591463429,
-    "home_score": 0.5937,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "63933ca4f71ae3a4fa47317a41030e9996a928ee",
-    "title": "Support Save Scumming Save #14 \u2013 Should Nihon Falcom Make All JRPGS - The Outerhaven",
-    "url": "https://www.theouterhaven.net/support-save-scumming-save-14-should-nihon-falcom-make-all-jrpgs/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:00:25Z",
-    "summary": "Support Save Scumming Save #14 \u2013 Should Nihon Falcom Make All JRPGS The Outerhaven",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7846126447075379,
-    "home_score": 0.5931,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "00565e62fb81798b0371de5628860d06e76c9eee",
-    "title": "Gravity announces Ragnarok Project for PlayStation 5, Switch 2, Xbox Series X|S, and PC Steam",
-    "url": "https://www.rpgsite.net/news/20499-gravity-announces-ragnarok-project-for-playstation-5-switch-2-xbox-series-xs-pc-steam",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-01T11:22:21Z",
-    "summary": "While most of the series entries comprise of MMORPGs, this one will be a single-player RPG slated for release around the first half of 2027",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7564231571601658,
-    "home_score": 0.5879,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "91e12d3c1d99ef20df9c704c952653d27552751f",
-    "title": "Gear up for Final Fantasy VII Rebirth\u2019s imminent launch with this glossy trailer - Nintendo Wire",
-    "url": "https://nintendowire.com/news/2026/06/01/gear-up-for-final-fantasy-vii-rebirths-imminent-launch-with-this-glossy-trailer/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T09:00:49Z",
-    "summary": "Gear up for Final Fantasy VII Rebirth\u2019s imminent launch with this glossy trailer Nintendo Wire",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7320422961689277,
-    "home_score": 0.5694,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "67b1b621f95164ecbdcad2410ac45da176663588",
-    "title": "Tekken 8 director Kohei Ikeda leaves Bandai Namco Studios after 20 years",
-    "url": "https://automaton-media.com/en/news/tekken-8-director-kohei-ikeda-leaves-bandai-namco-studios-after-20-years/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-06-01T05:53:07Z",
-    "summary": "Kohei Ikeda, the director of Tekken 7 and Tekken 8, has announced his departure from development company Bandai Namco Studios",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7009170293304431,
-    "home_score": 0.5659,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "24feb23dabce96d198fccaa623896637feef500a",
-    "title": "Mitsuri Kanroji From Demon Slayer Gets Special 2026 Birthday Illustration by Ufotable",
-    "url": "https://animecorner.me/mitsuri-kanroji-from-demon-slayer-gets-special-2026-birthday-illustration-by-ufotable/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-01T01:02:21Z",
-    "summary": "Demon Slayer: Kimetsu no Yaiba revealed a new special 2026 illustration by ufotable for Mitsuri\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.6552928711286475,
-    "home_score": 0.5649,
-    "source_quality": 0.8,
-    "image_url": null,
+    "freshness_score": 0.7835452917400272,
+    "home_score": 0.6151,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/10-most-addictive-ps1-jrpgs.png",
     "event_metadata": null,
     "result_type": "article"
   }
