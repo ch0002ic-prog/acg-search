@@ -20,8 +20,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8881681467152608,
-    "home_score": 0.7652,
+    "freshness_score": 0.8304764851821226,
+    "home_score": 0.7392,
     "source_quality": 0.72,
     "image_url": null,
     "event_metadata": null,
@@ -47,9 +47,229 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8778189244269864,
-    "home_score": 0.7545,
+    "freshness_score": 0.8207995040951205,
+    "home_score": 0.7289,
     "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "dd214ee41ff1fc240a0820b00120443521e04134",
+    "title": "3.0 Zenless Zone Zero Stream Set and PS5 and Xbox Collector\u2019s Edition Pre-Orders Start",
+    "url": "https://www.siliconera.com/3-0-zenless-zone-zero-stream-set-and-ps5-and-xbox-collectors-edition-pre-orders-start/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-01T21:00:00Z",
+    "summary": "3.0 Zenless Zone Zero Stream Set and PS5 and Xbox Collector\u2019s Edition Pre-Orders Start is trending around hoyoverse.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9537513633137269,
+    "home_score": 0.7222,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ea31fa0479dc0d5e066968ada2ca77cc03ee0e3b",
+    "title": "Interview: TEKKONKINKREET Director Michael Arias & Screenwriter Anthony Weintraub",
+    "url": "https://animecorner.me/interview-tekkonkinkreet-director-michael-arias-screenwriter-anthony-weintraub/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-01T23:12:09Z",
+    "summary": "Interview: TEKKONKINKREET Director Michael Arias & Screenwriter Anthony Weintraub",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9833773198816508,
+    "home_score": 0.7125,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f40688a7b18a95cde95eec33760f1d9ab7efd721",
+    "title": "Turn-Based RPG \u2018Entropy\u2019 Enters Steam Early Access This August, Demo Available Now",
+    "url": "https://noisypixel.net/entropy-steam-early-access-august-2026/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-01T23:37:20Z",
+    "summary": "Publisher DreadXP and developer Lovely Hellplace have announced that their turn-based RPG Entropy will launch in Early Access for PC via Steam on August 18, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9891267807001405,
+    "home_score": 0.7121,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "August 18, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "92d5e8df2b9e56b7867e1443261278cd9bbc43be",
+    "title": "Discotek Media Licenses Digimon Season 3 (Digimon Tamers), Kamen Rider: Skyrider and More",
+    "url": "https://crunchyroll.com/news/latest/2026/6/1/digimon-tamers-kamen-rider-skyrider-discotek-media-announcements",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-01T20:00:00Z",
+    "summary": "A new release of the Hana Yori Dango TV anime is also on the way",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9405959700018814,
+    "home_score": 0.7118,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "05255474e3066e1b672abfae6c972075db3d9598",
+    "title": "Crunchyroll Anime Nights SNEAK PEEK Previews 2nd Seasons of Skeleton Knight In Another World, Clevatess & Young Ladies Don\u2019t Play Fighting Games",
+    "url": "https://anitrendz.net/news/2026/06/01/crunchyroll-anime-nights-sneak-peek-previews-2nd-seasons-of-skeleton-knight-in-another-world-clevatess-young-ladies-dont-play-fighting-games/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-anime-nights-sneak-peek-previews-2nd-seasons-of-skeleton-knight-in-another-world-clevatess-young-ladies-dont-play-fighting-games",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-01T20:13:56Z",
+    "summary": "The Crunchyroll Anime Night SNEAK PEEK theatrical event will be previewing the second seasons of Skeleton Knight In Another World and Clevatess, as well as the newly acquired title",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9436344781702055,
+    "home_score": 0.7116,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 15, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "55c3f86eaae6013e91e31d9e47bca11a457da243",
+    "title": "Side-Scrolling RPG \u2018Signy & Mino: Against All Gods\u2019 Launches July 30 on Steam",
+    "url": "https://noisypixel.net/signy-and-mino-against-all-gods-steam-release-date/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-01T23:25:12Z",
+    "summary": "Publisher Armor Games Studios and developer AN Productions have announced that their side-scrolling RPG Signy & Mino: Against All Gods will launch for PC via Steam on July 30, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9863525730516522,
+    "home_score": 0.7109,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 30",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "d3f7d06461ff78453f8c6c21ec487373f7c36307",
+    "title": "Wild Blue Skies Announced as Anime-Inspired On-Rails Shooter for PC and Consoles",
+    "url": "https://noisypixel.net/wild-blue-skies-announced-on-rails-shooter/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-01T22:39:49Z",
+    "summary": "Publisher Balor Games and developers Chuhai Labs and Vitei Backroom have announced that their on-rails shooter Wild Blue Skies will launch for PlayStation 5, Xbox Series X|S, and P",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9760447798880248,
+    "home_score": 0.7062,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -74,8 +294,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9782888050920462,
-    "home_score": 0.7302,
+    "freshness_score": 0.9147432841096702,
+    "home_score": 0.7016,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -110,9 +330,159 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9780924593253476,
-    "home_score": 0.7301,
+    "freshness_score": 0.9145596900059698,
+    "home_score": 0.7016,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c15f5aead675e11d123baeedbbcabc71e9792357",
+    "title": "Crunchyroll to Open Pop-Up Experience in Los Angeles\u2019 The Loop Retail Space in June 2026",
+    "url": "https://anitrendz.net/news/2026/06/01/crunchyroll-to-open-pop-up-experience-in-los-angeles-the-loop-retail-space-in-june-2026/?utm_source=rss&utm_medium=rss&utm_campaign=crunchyroll-to-open-pop-up-experience-in-los-angeles-the-loop-retail-space-in-june-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-01T21:04:09Z",
+    "summary": "Crunchyroll has announced that it is collaborating with Three Ten Merchandising Services to bring a special pop-up experience at Los Angeles\u2019 The Loop retail space",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9546675037994605,
+    "home_score": 0.6966,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3a7419f6d4f6a6151a0f45b0d9909208d3411347",
+    "title": "Vtuber Agency VAllure Shuts Down, Gives Members Their IPs",
+    "url": "https://www.siliconera.com/vtuber-agency-vallure-shuts-down-gives-members-their-ips/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-01T20:00:00Z",
+    "summary": "The English-language Vtuber agency VAllure announced it shut down as June 2026 began and gave performers their IP",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9405963787547869,
+    "home_score": 0.6963,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c29706e89be779cf11db92a7b0b84fc6fe29ec6e",
+    "title": "Entropy Coming to Steam Early Access in August, Demo Available",
+    "url": "https://rpgamer.com/2026/06/entropy-coming-to-steam-early-access-in-august-demo-available/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-01T20:19:37Z",
+    "summary": "Developer Lovely Hellplace and publisher DreadXP announced that tactical turn-based RPG Entropy will release on Steam Early Access on August 18, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9448769860799472,
+    "home_score": 0.6952,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "August 18, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "131042547313bd897c5e2bb258a27e2c623d56cf",
+    "title": "Signy & Mino: Against All Gods Hitting Steam in July",
+    "url": "https://rpgamer.com/2026/06/signy-mino-against-all-gods-hitting-steam-in-july/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-01T20:19:29Z",
+    "summary": "Armor Games Studios and AN Productions announced that turn-based RPG Signy & Mino: Against All Gods will release for PC via Steam on July 30, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9448478190014215,
+    "home_score": 0.6952,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 30, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "adbe9321ab40c0af26c94f92b35ef3dd4742232f",
+    "title": "Taiyo Matsumoto\u2019s Brothers of Japan Coming via Manga Mavericks",
+    "url": "https://crunchyroll.com/news/latest/2026/6/1/taiyo-matsumoto-brothers-of-japan-manga-mavericks",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-01T20:04:00Z",
+    "summary": "Print and digital release planned for February 2027",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9414672965062171,
+    "home_score": 0.6922,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -136,8 +506,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9920630801393213,
-    "home_score": 0.7194,
+    "freshness_score": 0.9276228412549586,
+    "home_score": 0.6904,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -164,8 +534,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9515760332110544,
-    "home_score": 0.7167,
+    "freshness_score": 0.889765658997033,
+    "home_score": 0.6889,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -192,8 +562,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9515760320766524,
-    "home_score": 0.7167,
+    "freshness_score": 0.8897656579672115,
+    "home_score": 0.6889,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -206,6 +576,65 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "72dd88c4356eb94a8f7662aec877b7fb2a701c46",
+    "title": "Yoroi-Shinden Samurai Troopers Reveals 2nd Cour Visual, Trailer, New Theme Songs & More Cast",
+    "url": "https://anitrendz.net/news/2026/06/01/yoroi-shinden-samurai-troopers-reveals-2nd-cour-visual-trailer-new-theme-songs-more-cast/?utm_source=rss&utm_medium=rss&utm_campaign=yoroi-shinden-samurai-troopers-reveals-2nd-cour-visual-trailer-new-theme-songs-more-cast",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-01T19:38:02Z",
+    "summary": "A key visual, trailer, new theme songs, and additional voice cast members have been revealed for the upcoming second cour of Yoroi-Shinden Samurai Troopers, which will begin airing",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9358251920193584,
+    "home_score": 0.6881,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 7, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b8441356edc31f566419d795340478a0c95ff383",
+    "title": "Poll: So, Will You Be Getting Final Fantasy VII Rebirth For Switch 2? - Nintendo Life",
+    "url": "https://www.nintendolife.com/news/2026/06/poll-so-will-you-be-getting-final-fantasy-vii-rebirth-for-switch-2",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-01T23:55:00Z",
+    "summary": "Poll: So, Will You Be Getting Final Fantasy VII Rebirth For Switch 2? Nintendo Life",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.993179697445448,
+    "home_score": 0.6869,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -226,8 +655,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9955131915488021,
-    "home_score": 0.715,
+    "freshness_score": 0.9308488450115486,
+    "home_score": 0.6859,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -253,8 +682,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9783796684390629,
-    "home_score": 0.7133,
+    "freshness_score": 0.9148282463374923,
+    "home_score": 0.6847,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -281,10 +710,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9990299005809192,
-    "home_score": 0.7121,
+    "freshness_score": 0.934137125330596,
+    "home_score": 0.6829,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/10-most-addictive-ps1-jrpgs.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ce141a8187ff3f7249521d201df45dda6916b1fb",
+    "title": "Final Fantasy 7 Rebirth Gets Stylish New Trailer Ahead of Switch 2 and Xbox Series X/S Launch - GamingBolt",
+    "url": "https://gamingbolt.com/final-fantasy-7-rebirth-gets-stylish-new-trailer-ahead-of-switch-2-and-xbox-series-x-s-launch",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-01T23:15:00Z",
+    "summary": "Final Fantasy 7 Rebirth Gets Stylish New Trailer Ahead of Switch 2 and Xbox Series X/S Launch GamingBolt",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9840260358426097,
+    "home_score": 0.6828,
+    "source_quality": 0.76,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -307,8 +761,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9842853982112308,
-    "home_score": 0.7114,
+    "freshness_score": 0.9203503609877683,
+    "home_score": 0.6827,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -325,7 +779,7 @@
   },
   {
     "id": "1c044bde533641f20ddf7c30a83db87e560ea773",
-    "title": "VIractal Coming to Switch, Switch 2 at End of September",
+    "title": "Viractal Coming to Switch, Switch 2 at End of September",
     "url": "https://rpgamer.com/2026/06/viractal-coming-to-switch-switch-2-at-end-of-september/",
     "source_name": "RPGamer",
     "source_type": "rss",
@@ -343,8 +797,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9783680817331563,
-    "home_score": 0.7103,
+    "freshness_score": 0.9148174063540585,
+    "home_score": 0.6817,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -377,8 +831,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.97834165304284,
-    "home_score": 0.7103,
+    "freshness_score": 0.914792696844923,
+    "home_score": 0.6817,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -412,8 +866,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9651083690062965,
-    "home_score": 0.7073,
+    "freshness_score": 0.9024189946141122,
+    "home_score": 0.6791,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -438,8 +892,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.974536710282945,
-    "home_score": 0.707,
+    "freshness_score": 0.9112349068890359,
+    "home_score": 0.6786,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -474,36 +928,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9709339898879455,
-    "home_score": 0.7054,
+    "freshness_score": 0.9078662041330257,
+    "home_score": 0.677,
     "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ffef641358afc17934e5727dccfe8706d6d53de2",
-    "title": "RPGs, Simulators And Shooters: A Look At The Games Joining Xbox Game Pass In June 2026 - AugustMan Singapore",
-    "url": "https://www.augustman.com/my/gear/gaming/xbox-game-pass-june-2026-new-games-final-fantasy-vi-elder-scrolls-online/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T06:35:25Z",
-    "summary": "RPGs, Simulators And Shooters: A Look At The Games Joining Xbox Game Pass In June 2026 AugustMan Singapore",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.8349975503475614,
-    "home_score": 0.7032,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -526,8 +953,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9620039484005923,
-    "home_score": 0.7029,
+    "freshness_score": 0.8995162211029742,
+    "home_score": 0.6748,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -552,8 +979,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9648845754877899,
-    "home_score": 0.7027,
+    "freshness_score": 0.9022097342643433,
+    "home_score": 0.6745,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -578,8 +1005,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9515764425393561,
-    "home_score": 0.7012,
+    "freshness_score": 0.8897660450565498,
+    "home_score": 0.6734,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -609,8 +1036,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9104171544197341,
-    "home_score": 0.6997,
+    "freshness_score": 0.8512802876478658,
+    "home_score": 0.6731,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -634,8 +1061,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9536452069443141,
-    "home_score": 0.6991,
+    "freshness_score": 0.8917004282812248,
+    "home_score": 0.6713,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -669,8 +1096,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.956434383577188,
-    "home_score": 0.6989,
+    "freshness_score": 0.8943084312879425,
+    "home_score": 0.6709,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -695,80 +1122,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9579668335427509,
-    "home_score": 0.6981,
+    "freshness_score": 0.8957413404443989,
+    "home_score": 0.6701,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "a5eb25a7583fad514291196ebf8dffdba05960f0",
-    "title": "Square Enix Shares June 2026 Dragon Quest and Final Fantasy Calendar Wallpapers",
-    "url": "https://noisypixel.net/square-enix-june-2026-dragon-quest-final-fantasy-wallpapers/",
-    "source_name": "Noisy Pixel",
+    "id": "a0a32632fe7dcef6042d0af7251b4037465cf92d",
+    "title": "Check out the Japanese launch trailer for FINAL FANTASY VII REBIRTH - GoNintendo",
+    "url": "https://gonintendo.com/contents/61342-check-out-the-japanese-launch-trailer-for-final-fantasy-vii-rebirth",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-01T12:59:54Z",
-    "summary": "Square Enix has shared its new monthly calendar wallpapers for June 2026 across the Dragon Quest and Final Fantasy franchises",
+    "published_at": "2026-06-01T21:03:24Z",
+    "summary": "Check out the Japanese launch trailer for FINAL FANTASY VII REBIRTH GoNintendo",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy",
-      "Dragon Quest"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9127207485753999,
-    "home_score": 0.6977,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "dae5572996fca497aa038312e83b8029d441a540",
-    "title": "League of Legends x Jimei Palace unveil breathtaking Unforgiven Yasuo statue",
-    "url": "https://esports.gg/news/league-of-legends/lol-jimei-palace-unforgiven-yasuo-limited-edition-statue/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-01T13:30:19Z",
-    "summary": "The Unforgiven Yasuo statue is now available for pre-order, as Riot Games and Jimei Palace bring one of the most iconic LoL champions to life",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
+      "games"
     ],
     "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
+    "entity_tags": [
+      "Final Fantasy"
     ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9191695484489543,
-    "home_score": 0.6976,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9545016751695696,
+    "home_score": 0.6695,
     "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -790,8 +1173,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9433333062844155,
-    "home_score": 0.6965,
+    "freshness_score": 0.8820583490924191,
+    "home_score": 0.6689,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -816,8 +1199,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9384514582809792,
-    "home_score": 0.6953,
+    "freshness_score": 0.8774936045583254,
+    "home_score": 0.6679,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -842,9 +1225,36 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9449907559829955,
-    "home_score": 0.6937,
+    "freshness_score": 0.8836081337406222,
+    "home_score": 0.6661,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "0972a99c558101d12d3f781e36bedee38cc55dec",
+    "title": "Vietnamese team crowned FFWS SEA esports champion - Th\u00f4ng t\u1ea5n x\u00e3 Vi\u1ec7t Nam",
+    "url": "https://vietnam.vnanet.vn/english/tin-van/vietnamese-team-crowned-ffws-sea-esports-champion-449169.html",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-05-31T20:16:44Z",
+    "summary": "Vietnamese team crowned FFWS SEA esports champion Th\u00f4ng t\u1ea5n x\u00e3 Vi\u1ec7t Nam",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.6765819370940598,
+    "home_score": 0.664,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -868,8 +1278,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.938451052686836,
-    "home_score": 0.6908,
+    "freshness_score": 0.8774932221106753,
+    "home_score": 0.6634,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -894,101 +1304,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9255075054792914,
-    "home_score": 0.6895,
+    "freshness_score": 0.8653904364339711,
+    "home_score": 0.6624,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "36e9c1aa13d09d0a3ce02fc7e5156e4b1eb5978d",
-    "title": "Chiikawa the Movie: The Secret of Mermaid Island Anime Film Shares New Trailer and Cast Announcements",
-    "url": "https://crunchyroll.com/news/latest/2026/6/1/chiikawa-the-movie-the-secret-of-mermaid-island-anime-film-new-trailer-cast",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:23:00Z",
-    "summary": "The film adaptation of the popular mascot series premieres in Japan on July 24",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9304477147018685,
-    "home_score": 0.6872,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 24",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0972a99c558101d12d3f781e36bedee38cc55dec",
-    "title": "Vietnamese team crowned FFWS SEA esports champion - Th\u00f4ng t\u1ea5n x\u00e3 Vi\u1ec7t Nam",
-    "url": "https://vietnam.vnanet.vn/english/tin-van/vietnamese-team-crowned-ffws-sea-esports-champion-449169.html",
-    "source_name": "Google News SEA Esports",
-    "source_type": "rss",
-    "published_at": "2026-05-31T20:16:44Z",
-    "summary": "Vietnamese team crowned FFWS SEA esports champion Th\u00f4ng t\u1ea5n x\u00e3 Vi\u1ec7t Nam",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.7235828310111831,
-    "home_score": 0.6851,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
     "id": "111bf75c1d40dc7774c1da9a72801fd06768d373",
-    "title": "Final Fantasy 7 Rebirth Nintendo Switch 2 launch trailer \u2013 big RPG reaches the console",
+    "title": "Final Fantasy 7 Rebirth Nintendo Switch 2 launch trailer \u2013 big RPG reaches the console - Nintendo Everything",
     "url": "https://nintendoeverything.com/final-fantasy-7-rebirth-nintendo-switch-2-launch-trailer-big-rpg-reaches-the-console/",
-    "source_name": "Nintendo Everything",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-01T14:21:52Z",
-    "summary": "Ahead of Final Fantasy 7 Rebirth\u2019s launch on Nintendo Switch 2 this week, Square Enix has readied a launch trailer",
+    "published_at": "2026-06-01T15:20:17Z",
+    "summary": "Final Fantasy 7 Rebirth Nintendo Switch 2 launch trailer \u2013 big RPG reaches the console Nintendo Everything",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch",
       "events"
     ],
-    "tags": [
-      "jrpg"
-    ],
+    "tags": [],
     "entity_tags": [
       "Final Fantasy"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9302038166241818,
-    "home_score": 0.6841,
-    "source_quality": 0.77,
+    "freshness_score": 0.8816227471150314,
+    "home_score": 0.6607,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1013,46 +1357,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9128019526107535,
-    "home_score": 0.6838,
+    "freshness_score": 0.8535101828162155,
+    "home_score": 0.6571,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3ea607306d7e5f4fa567db8bf75752353925471a",
-    "title": "Yoroi-Shinden Samurai Troopers Cour 2 Anime Shares Main Trailer, Visual, Theme Songs and New Cast",
-    "url": "https://crunchyroll.com/news/latest/2026/6/1/yoroi-shinden-samurai-troopers-cour-2-anime-main-trailer-visual-cast-release-date",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-01T13:45:00Z",
-    "summary": "Yoroi-Shinden Samurai Troopers Cour 2 Anime Shares Main Trailer, Visual, Theme Songs and New Cast",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9222991111001004,
-    "home_score": 0.6835,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 7",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1073,70 +1382,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.968771456118357,
-    "home_score": 0.6834,
+    "freshness_score": 0.9058441398648572,
+    "home_score": 0.6551,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2e19c2451edd2a94923c219717c83766b1fbd51b",
-    "title": "Otome Visual Novel \u2018Hakuoki Memoirs: Drifting Clouds\u2019 Brings New Stories to Switch in Early 2027; New Trailer Streaming Now",
-    "url": "https://noisypixel.net/hakuoki-memoirs-drifting-clouds-english-release-switch-2027/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:20:17Z",
-    "summary": "Hakuoki Memoirs: Drifting Clouds will launch for Nintendo Switch in early 2027, bringing the otome visual novel fan disc to English-speaking players for the first time",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9560545821697418,
-    "home_score": 0.6792,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ebbc5f337ab15e4ead6c046b5c2961c211d7c163",
-    "title": "UK software sales chart for the week ending May 30, 2026 \u2013 Pokemon Pokopia back in front of Yoshi",
-    "url": "https://nintendoeverything.com/uk-software-sales-chart-for-the-week-ending-may-30-2026-pokemon-pokopia-back-in-front-of-yoshi/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:30:06Z",
-    "summary": "The latest UK software sales chart for the week ending May 30, 2026 is now available",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9582295543935387,
-    "home_score": 0.6787,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "May 30, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -1159,36 +1409,45 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.951576229642507,
-    "home_score": 0.6787,
+    "freshness_score": 0.8897658387146101,
+    "home_score": 0.6509,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "a0a32632fe7dcef6042d0af7251b4037465cf92d",
-    "title": "Check out the Japanese launch trailer for FINAL FANTASY VII REBIRTH - GoNintendo",
-    "url": "https://gonintendo.com/contents/61342-check-out-the-japanese-launch-trailer-for-final-fantasy-vii-rebirth",
-    "source_name": "Google News JRPG",
+    "id": "ebbc5f337ab15e4ead6c046b5c2961c211d7c163",
+    "title": "UK software sales chart for the week ending May 30, 2026 \u2013 Pokemon Pokopia back in front of Yoshi",
+    "url": "https://nintendoeverything.com/uk-software-sales-chart-for-the-week-ending-may-30-2026-pokemon-pokopia-back-in-front-of-yoshi/",
+    "source_name": "Nintendo Everything",
     "source_type": "rss",
-    "published_at": "2026-06-01T17:28:04Z",
-    "summary": "Check out the Japanese launch trailer for FINAL FANTASY VII REBIRTH GoNintendo",
+    "published_at": "2026-06-01T16:30:06Z",
+    "summary": "The latest UK software sales chart for the week ending May 30, 2026 is now available",
     "content": "",
     "categories": [
-      "games"
+      "games",
+      "anime",
+      "merch"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.97117354573054,
-    "home_score": 0.677,
-    "source_quality": 0.76,
+    "freshness_score": 0.895986995549917,
+    "home_score": 0.6507,
+    "source_quality": 0.77,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 30, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1209,8 +1468,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9582589468833971,
-    "home_score": 0.6757,
+    "freshness_score": 0.8960144811572559,
+    "home_score": 0.6477,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/gaming-lego-sets-that-sold-out-shockingly-fast.png",
     "event_metadata": {
@@ -1223,31 +1482,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "f27928225113fadd1f91a30cd8dc7dda97d27939",
-    "title": "Hakuoki Memoirs: Drifting Clouds getting English release on Nintendo Switch in the west",
-    "url": "https://nintendoeverything.com/hakuoki-memoirs-drifting-clouds-getting-english-release-on-nintendo-switch-in-the-west/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-01T15:05:16Z",
-    "summary": "Today, Eastasiasoft announced that it\u2019s teaming up with Idea Factory to launch Hakuoki Memoirs: Drifting Clouds for Nintendo Switch in the west",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9395960220253534,
-    "home_score": 0.6703,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1270,34 +1504,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8493421191729756,
-    "home_score": 0.6692,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "caf6bb2d27598e04927868181d965032fe83a6da",
-    "title": "The Shy Snow Woman and the Cursed Ring Is Getting a TV Anime",
-    "url": "https://blog.jlist.com/news/the-shy-snow-woman-and-the-cursed-ring-is-getting-a-tv-anime/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:30:00Z",
-    "summary": "Supernatural horniness is on its way! Puuzaki Puuna (Puu no Puupuupuu) announced that their adult doujin, The Shy Snow Woman and the Cursed Ring (Hitozukiai ga Nigate na Mib\u014djin no",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9319564828820491,
-    "home_score": 0.6684,
+    "freshness_score": 0.794172430395041,
+    "home_score": 0.6444,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1323,8 +1531,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.845859502929365,
-    "home_score": 0.6676,
+    "freshness_score": 0.7909160302334787,
+    "home_score": 0.6429,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1350,47 +1558,37 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8485560265192387,
-    "home_score": 0.6674,
+    "freshness_score": 0.7934374020323609,
+    "home_score": 0.6425,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "2c349cdf0624e063d78c7d8e12ab2843b8d35c8d",
-    "title": "The Simpsons come to Monopoly GO!",
-    "url": "https://nichegamer.com/the-simpsons-come-monopoly-go/",
-    "source_name": "Niche Gamer",
+    "id": "caf6bb2d27598e04927868181d965032fe83a6da",
+    "title": "The Shy Snow Woman and the Cursed Ring Is Getting a TV Anime",
+    "url": "https://blog.jlist.com/news/the-shy-snow-woman-and-the-cursed-ring-is-getting-a-tv-anime/",
+    "source_name": "J-List Blog",
     "source_type": "rss",
-    "published_at": "2026-06-01T15:00:45Z",
-    "summary": "Developer Scopely has announced a big update for Monopoly GO! featuring The Simpsons, adding characters and visuals from the beloved cartoon series",
+    "published_at": "2026-06-01T14:30:00Z",
+    "summary": "Supernatural horniness is on its way! Puuzaki Puuna (Puu no Puupuupuu) announced that their adult doujin, The Shy Snow Woman and the Cursed Ring (Hitozukiai ga Nigate na Mib\u014djin no",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch"
+      "manga",
+      "merch",
+      "comics"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9386140448171222,
-    "home_score": 0.6669,
-    "source_quality": 0.75,
+    "freshness_score": 0.8714205161322908,
+    "home_score": 0.6411,
+    "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "The Simpsons"
-      ],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1412,8 +1610,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8887440601200062,
-    "home_score": 0.6669,
+    "freshness_score": 0.8310149870234148,
+    "home_score": 0.641,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1426,6 +1624,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "819f49e2ad6cf1f522d8458d093ea923e79af180",
+    "title": "Wisdom of Nym: What will Final Fantasy XIV\u2019s next ranged DPS job be? - Massively Overpowered",
+    "url": "https://massivelyop.com/2026/06/01/wisdom-of-nym-what-will-final-fantasy-xivs-next-ranged-dps-job-be/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-01T16:00:00Z",
+    "summary": "Wisdom of Nym: What will Final Fantasy XIV\u2019s next ranged DPS job be? Massively Overpowered",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8897654807521362,
+    "home_score": 0.6404,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1447,8 +1670,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8791714870511563,
-    "home_score": 0.6656,
+    "freshness_score": 0.8220642077751336,
+    "home_score": 0.6399,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1464,54 +1687,39 @@
     "result_type": "article"
   },
   {
-    "id": "0f8571de85962452198712dd679ac3516d4faaa9",
-    "title": "Path of Exile 2 tops 400,000 players on Steam following major update",
-    "url": "https://nichegamer.com/path-of-exile-2-tops-400000-players-on-steam/",
+    "id": "2c349cdf0624e063d78c7d8e12ab2843b8d35c8d",
+    "title": "The Simpsons come to Monopoly GO!",
+    "url": "https://nichegamer.com/the-simpsons-come-monopoly-go/",
     "source_name": "Niche Gamer",
     "source_type": "rss",
-    "published_at": "2026-06-01T11:05:24Z",
-    "summary": "Following the launch of Return of the Ancients and a free-to-play weekend, the action RPG Path of Exile 2 has recorded its highest player count since entering Early Access",
+    "published_at": "2026-06-01T15:00:45Z",
+    "summary": "Developer Scopely has announced a big update for Monopoly GO! featuring The Simpsons, adding characters and visuals from the beloved cartoon series",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "merch",
-      "events"
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8888470688752028,
-    "home_score": 0.6625,
+    "freshness_score": 0.8776456257324643,
+    "home_score": 0.6394,
     "source_quality": 0.75,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1dd584a23a5a3027125f27f82a0c90d4a4752eca",
-    "title": "The Seven Knights of the Marronnier Kingdom Anime To Begin Airing October 2026",
-    "url": "https://anitrendz.net/news/2026/06/01/the-seven-knights-of-the-marronnier-kingdom-anime-to-begin-airing-october-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-seven-knights-of-the-marronnier-kingdom-anime-to-begin-airing-october-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-01T10:10:28Z",
-    "summary": "A TV anime adaptation of The Seven Knights of the Marronnier Kingdom manga has been revealed with an October broadcast start window and a teaser visual",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8776158662049997,
-    "home_score": 0.6619,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": "Named guests mentioned",
+      "guest_names": [
+        "The Simpsons"
+      ],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1532,208 +1740,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8709845692526991,
-    "home_score": 0.6619,
+    "freshness_score": 0.8144090777067148,
+    "home_score": 0.6365,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "85c7b2efc7fc498e69a9c32dcdf404b8b242c3c1",
-    "title": "Hunter x Hunter Volume 39 Release Date Confirmed After Nearly Two-Year Wait",
-    "url": "https://animehunch.com/hunter-x-hunter-volume-39-release-date-confirmed-after-nearly-two-year-wait/",
-    "source_name": "Anime Hunch",
-    "source_type": "rss",
-    "published_at": "2026-06-01T10:06:16Z",
-    "summary": "The release date for volume 39 of Yoshihiro Togashi\u2019s Hunter x Hunter manga has been officially confirmed, ending a nearly two-year wait for fans of the long-running series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8767630679448913,
-    "home_score": 0.6615,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 3, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "def5c585d7013210c535e53db2ffc81efb381c4c",
-    "title": "Final Fantasy X 25th Anniversary Visual Art Book Eternal Spira Announced for Pre-Order",
-    "url": "https://noisypixel.net/final-fantasy-x-25th-anniversary-visual-art-book-eternal-spira/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-01T12:53:48Z",
-    "summary": "Square Enix has announced the Final Fantasy X 25th Anniversary Visual Art Book- Eternal Spira, which is set to be released in Japan on July 3, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9114328605163158,
-    "home_score": 0.6591,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 3, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": "Merch or booth updates mentioned"
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "99413c86983be1f403130c0ca0ef2a5c97a2c816",
-    "title": "Tekken 8 Chief Producer Kohei Ikeda Leaves Bandai Namco After 2 Decades",
-    "url": "https://noisypixel.net/tekken-8-chief-producer-kohei-ikeda-leaves-bandai-namco/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-01T12:39:03Z",
-    "summary": "The chief producer of Tekken 8, Kohei Ikeda, has announced that he has left Bandai Namco after two decades",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9083262126983398,
-    "home_score": 0.6577,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f0481d208079c84767d5417a1f0dc35cb91aca68",
-    "title": "Andrew Lloyd Webber's DJ Persona Makes a Return at Cats: The Jellicle Ball - Playbill",
-    "url": "https://playbill.com/article/andrew-lloyd-webbers-dj-persona-makes-a-return-at-cats-the-jellicle-ball",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:08:00Z",
-    "summary": "Andrew Lloyd Webber's DJ Persona Makes a Return at Cats: The Jellicle Ball Playbill",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9272224045067295,
-    "home_score": 0.6573,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "63933ca4f71ae3a4fa47317a41030e9996a928ee",
-    "title": "Support Save Scumming Save #14 \u2013 Should Nihon Falcom Make All JRPGS - The Outerhaven",
-    "url": "https://www.theouterhaven.net/support-save-scumming-save-14-should-nihon-falcom-make-all-jrpgs/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:00:25Z",
-    "summary": "Support Save Scumming Save #14 \u2013 Should Nihon Falcom Make All JRPGS The Outerhaven",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.925596189857618,
-    "home_score": 0.6565,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9ebe97716dcb1bb5176be9f24aeae787da7491a5",
-    "title": "GBA-styled Japanese pixel art indie RPG Wiz Brochure is coming to PC via Steam",
-    "url": "https://www.rpgsite.net/news/20500-gba-styled-japanese-pixel-art-indie-rpg-wiz-brochure-coming-to-pc-via-steam",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-01T12:39:30Z",
-    "summary": "The player can spawn rabbits by driving away monsters in this game",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.908420859438242,
-    "home_score": 0.6563,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "46290996bcd95e24442994b8a536a5ad12f81079",
-    "title": "Sega leaker drops new Jet Set Radio, Sonic, Persona, and Crazy Taxi rumors",
-    "url": "https://nichegamer.com/sega-leaker-drops-new-jet-set-radio-sonic-persona-and-crazy-taxi-rumors/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-06-01T12:05:04Z",
-    "summary": "New Sega rumors are making the rounds online after an insider previously leaked footage from the upcoming Jet Set Radio reboot from an internal Q&A session",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9012087570881753,
-    "home_score": 0.65,
-    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
