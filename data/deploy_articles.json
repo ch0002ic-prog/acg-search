@@ -1,5 +1,64 @@
 [
   {
+    "id": "7bc4d9473bf899b7db72334fdf334f9fd2ea9a4f",
+    "title": "All the SGF 2026 Wholesome Direct Cozy Games We Saw Today",
+    "url": "https://www.siliconera.com/all-the-sgf-2026-wholesome-direct-cozy-games-we-saw-today/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-06T17:01:00Z",
+    "summary": "The Wholesome Direct SGF 2026 showcase went over tons of upcoming cozy games for various platforms and shared a Momento shadowdrop",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9815765928218435,
+    "home_score": 0.8397,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ad1f7e9496aab17ce82293af8d806b18332912db",
+    "title": "Action Roguelite \u2018HellHeart Breaker\u2019 Gets Q2 2027 Release Window for PC",
+    "url": "https://noisypixel.net/hellheart-breaker-q2-2027-release-window/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-06T16:07:16Z",
+    "summary": "Publisher Red Dunes Games and developer BattleBrew Productions have announced that the action roguelite dungeon crawler HellHeart Breaker will be released for PC via Steam in Q2 20",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 0.9694428572497981,
+    "home_score": 0.7727,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "a24d66312a334313204e13fdf5f387428c2fe509",
     "title": "All of the Day of the Devs Games Shown at SGF 2026",
     "url": "https://www.siliconera.com/all-of-the-day-of-the-devs-games-shown-at-sgf-2026/",
@@ -22,8 +81,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.8444173986199116,
-    "home_score": 0.778,
+    "freshness_score": 0.7767606499471215,
+    "home_score": 0.7475,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -53,8 +112,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.58,
-    "freshness_score": 0.8366344031526588,
-    "home_score": 0.7735,
+    "freshness_score": 0.7696012950676452,
+    "home_score": 0.7433,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
@@ -85,38 +144,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.8298838812614835,
-    "home_score": 0.7714,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7ba62d4426907333f0e17b6590fb82ec3489f7be",
-    "title": "Virtua Fighter Crossroads Debuts at Summer Game Fest 2026",
-    "url": "https://www.siliconera.com/virtua-fighter-crossroads-debuts-at-summer-game-fest-2026/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T22:10:00Z",
-    "summary": "Sega and RGG shared a look at the new fighting game Virtua Fighter Crossroads, which included a peek at Pai-chan, at SGF 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.8212841227317078,
-    "home_score": 0.7676,
+    "freshness_score": 0.7633915935206083,
+    "home_score": 0.7415,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -146,9 +175,36 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8822858005790877,
-    "home_score": 0.767,
+    "freshness_score": 0.8115949956751111,
+    "home_score": 0.7352,
     "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "330d3fc199ff0ff516fd6b99494733887ff2259c",
+    "title": "No Straight Roads 2 Receives New Trailer, Screenshots",
+    "url": "https://rpgamer.com/2026/06/no-straight-roads-2-receives-new-trailer-screenshots/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-06T17:01:38Z",
+    "summary": "Developer Metronomik and publisher Shueisha Games released a new trailer and screenshots for musical action adventure No Straight Roads 2",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9817202454030748,
+    "home_score": 0.7318,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -178,13 +234,89 @@
       "SEA"
     ],
     "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.805484013789324,
-    "home_score": 0.752,
+    "freshness_score": 0.7409467550693792,
+    "home_score": 0.7229,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
       "event_type": "qualifier",
       "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c2a83b8eff716d3fa2213023ec778ce10c02ef0f",
+    "title": "Zenless Zone Zero Version 3.0 Releasing This Month",
+    "url": "https://rpgamer.com/2026/06/zenless-zone-zero-version-3-0-releasing-this-month/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-06T15:27:43Z",
+    "summary": "HoYoverse announced that its newest season for free-to-play action RPG Zenless Zone Zero will begin later this month",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.960607994239731,
+    "home_score": 0.7223,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 17, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "e890525691403d251300924e5d5fced24dee5b5b",
+    "title": "CONTROL Resonant Receives Further Trailer",
+    "url": "https://rpgamer.com/2026/06/control-resonant-receives-further-trailer/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-06T15:27:33Z",
+    "summary": "Following its release date reveal earlier this week, Remedy Entertainment released another trailer for action RPG CONTROL Resonant",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.960570928420391,
+    "home_score": 0.7223,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "September 24, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -216,11 +348,352 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.8397322760902989,
-    "home_score": 0.7459,
+    "freshness_score": 0.7724509526754539,
+    "home_score": 0.7156,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "35a67832c24b4627381f877fb1debfd7d103a95e",
+    "title": "Moonlight Peaks Demo Released",
+    "url": "https://rpgamer.com/2026/06/moonlight-peaks-demo-released/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-06T17:01:50Z",
+    "summary": "XSEED Games and Little Chicken Game Company have released a demo for gothic life sim Moonlight Peaks",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9817657011215901,
+    "home_score": 0.7138,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 7, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c0b9d44dc03089be84e50f413a57514d7d7268e4",
+    "title": "Road-Trip RPG Ithaca Announced, Undergoing Kickstarter Campaign",
+    "url": "https://rpgamer.com/2026/06/road-trip-rpg-ithaca-announced-undergoing-kickstarter-campaign/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-06T17:02:12Z",
+    "summary": "Developer The Pixel Hunt announced narrative road-trip RPG Ithaca",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.981849038775778,
+    "home_score": 0.7118,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 5, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "cafedd61c4125235c5f16c3c8f04a1ca22b09a41",
+    "title": "1.0 Fields of Mistria PC Release Date Set",
+    "url": "https://www.siliconera.com/1-0-fields-of-mistria-pc-release-date-set/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-06T16:15:00Z",
+    "summary": "1.0 Fields of Mistria PC Release Date Set",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9711800683480616,
+    "home_score": 0.71,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "88be62478cf9c63d5f5c7d4cc16bf3abc33ee6a5",
+    "title": "Zenless Zone Zero Sets June 17 As Steam and Version 3.0 Launch Date",
+    "url": "https://anitrendz.net/news/2026/06/06/zenless-zone-zero-sets-june-17-as-steam-and-version-3-0-launch-date/?utm_source=rss&utm_medium=rss&utm_campaign=zenless-zone-zero-sets-june-17-as-steam-and-version-3-0-launch-date",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-06T17:03:41Z",
+    "summary": "HoYoverse has announced June 17 to be the date of Zenless Zone Zero's Steam release",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.982186027822059,
+    "home_score": 0.709,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 17",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9e0af3d32416cdd7737f95f453c8e5c6d4b8fe9a",
+    "title": "Sound! Euphonium, The Final Movie Part 2 Drops Main Trailer, Final Visual",
+    "url": "https://anitrendz.net/news/2026/06/06/sound-euphonium-the-final-movie-part-2-drops-main-trailer-final-visual/?utm_source=rss&utm_medium=rss&utm_campaign=sound-euphonium-the-final-movie-part-2-drops-main-trailer-final-visual",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-06T15:57:20Z",
+    "summary": "A main trailer and final visual for Sound! Euphonium, The Final Movie Part 2 have been released",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9672160858916705,
+    "home_score": 0.7022,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8660d83a7da44542da30ae3c08b599792ee521ab",
+    "title": "Zenless Zone Zero 3.0 \"A Sleepwalker's Confession\" launches on June 17, Steam release arrives same day",
+    "url": "https://www.rpgsite.net/news/20569-zenless-zone-zero-steam-release-date-3-0-update-patch-gameplay-screenshots",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-06T14:51:29Z",
+    "summary": "Zenless Zone Zero 3.0 \"A Sleepwalker's Confession\" launches on June 17, Steam release arrives same day is trending around hoyoverse.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha"
+    ],
+    "tags": [
+      "hoyoverse"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9525847848999517,
+    "home_score": 0.7002,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 17",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "337bb1d86352067088bd8821ca57f30cdf3fa1b5",
+    "title": "The Saga of Tanya the Evil II Reveals July 8 Start, New Key Visual",
+    "url": "https://anitrendz.net/news/2026/06/06/the-saga-of-tanya-the-evil-ii-reveals-july-8-start-new-key-visual/?utm_source=rss&utm_medium=rss&utm_campaign=the-saga-of-tanya-the-evil-ii-reveals-july-8-start-new-key-visual",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-06T15:17:15Z",
+    "summary": "The Saga of Tanya the Evil II is set to begin airing on July 8",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9582832286039563,
+    "home_score": 0.6982,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "1788d33b759274ab9c0abab110e24328c11c3ea5",
+    "title": "Interview: Kana Editor Kristiina Korpus on Bringing Billy Bat to English and Why the Wait Was Worth It",
+    "url": "https://animecorner.me/interview-kana-editor-kristiina-korpus-on-bringing-billy-bat-to-english-and-why-the-wait-was-worth-it/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-06T13:52:55Z",
+    "summary": "For years, BILLY BAT occupied a unique place in the manga world: one of\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9397575579937351,
+    "home_score": 0.6929,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "02e5346f4478afee35a3a8b53e75a1199f8c58b7",
+    "title": "Review: Stray Ends Up Being a Solid Switch 2 Game",
+    "url": "https://www.siliconera.com/review-stray-ends-up-being-a-solid-switch-2-game/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-06T13:00:00Z",
+    "summary": "Stray on Switch 2 is a step up from the original Switch version of the game, though it still isn\u2019t the ideal way to step into the cat\u2019s paws",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.928316756316361,
+    "home_score": 0.6907,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "cf0d9c7e1b601b2e96451e583d0062a5f770abd8",
+    "title": "Slice-of-life RPG Petal Runner gets new trailer during Wholesome Direct 2026",
+    "url": "https://www.rpgsite.net/news/20541-petal-runner-new-gameplay-trailer-wholesome-direct-2026",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-06T16:48:36Z",
+    "summary": "Nano Park Studios and iam8bit showcase more of the slice-of-life RPG",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9787629289753159,
+    "home_score": 0.6879,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "89ec580c55c38d8555caa86494ab586d7120e0ba",
+    "title": "Fields of Mistria Leaves Early Access This August as Version 1.0 Roadmap Is Revealed",
+    "url": "https://noisypixel.net/fields-of-mistria-version-1-release-date-roadmap/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-06T16:26:05Z",
+    "summary": "Developer and publisher NPC Studio has announced that its farming RPG Fields of Mistria will be released for PC via Steam on August 5, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9736746809982213,
+    "home_score": 0.6872,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "August 5, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -244,8 +717,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9527978161934282,
-    "home_score": 0.7188,
+    "freshness_score": 0.8764574193885407,
+    "home_score": 0.6844,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -261,13 +734,115 @@
     "result_type": "article"
   },
   {
+    "id": "dd3f108e677c37ab25205d53ebbe3d22af5668f6",
+    "title": "8 Reasons Skyrim Still Feels Like The Open-World RPG Everyone Looks Up To",
+    "url": "https://www.dualshockers.com/reasons-skyrim-still-feels-like-open-world-rpg-every-game-gets-compared-to/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-06-06T16:30:16Z",
+    "summary": "Skyrim still has a lot to offer, years after its initial release",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9746178889661711,
+    "home_score": 0.6831,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/the-dragonborn-a-frost-troll-and-a-dragon-priest-with-a-skyrim-landscape-blurred-in-the-background.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f87a46157a368b490b923333dd84d50970899b3a",
+    "title": "Anime Superhero Action Game \u2018MIGHTREYA\u2019 Delayed to Unknown Time",
+    "url": "https://noisypixel.net/mightreya-delayed-unknown-time/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-06T15:22:53Z",
+    "summary": "Publisher 505 Games and solo developer Wazen have announced that their upcoming anime superhero action game MIGHTREYA has been delayed from the first half of 2026 to an unknown tim",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9595338660913333,
+    "home_score": 0.6808,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ef550c1a45b6994691ea77fc990a7f5a23bfc74e",
+    "title": "MMORPG Aion 2 Releasing Internationally in September",
+    "url": "https://rpgamer.com/2026/06/mmorpg-aion-2-releasing-internationally-in-september/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-06T15:27:24Z",
+    "summary": "NC has announced that MMORPG Aion 2 will release internationally in September 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9605375727034017,
+    "home_score": 0.6782,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4080ada0a6a3d9f8a522ed4af70d64e125972792",
+    "title": "10 Most Impressive Game Boy Advance JRPGs",
+    "url": "https://www.dualshockers.com/most-ambitious-game-boy-advance-jrpgs/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-06-06T12:30:14Z",
+    "summary": "The Game Boy Advance was an incredible console for the time and its size, and these JRPGs do a great job at showing what it did best",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9219419045590047,
+    "home_score": 0.6774,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/10-most-ambitious-gba-jrpgs.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "6fe1fb22976477d3879f980473767f2b3288717d",
-    "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage Anime Reveals July 1st Debut in New Trailer",
+    "title": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage Anime Reveals July 1 Debut in New Trailer",
     "url": "https://crunchyroll.com/news/latest/2026/6/6/from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage-anime-reveals-july-1st-debut-in-new-trailer",
     "source_name": "Crunchyroll News",
     "source_type": "rss",
     "published_at": "2026-06-06T11:16:00Z",
-    "summary": "Key art and theme song info revealed for upcoming fantasy light novel adaptation",
+    "summary": "New key art and theme song info revealed for upcoming fantasy series",
     "content": "",
     "categories": [
       "anime",
@@ -279,11 +854,20 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9851689835457614,
-    "home_score": 0.7118,
+    "freshness_score": 0.9062349351146852,
+    "home_score": 0.6763,
     "source_quality": 0.79,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 1",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -307,13 +891,48 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9356044684403556,
-    "home_score": 0.7095,
+    "freshness_score": 0.8606416450741163,
+    "home_score": 0.6758,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "July 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "02d58c44cc2b1ba8bbf98d6822c234cd6a6241f0",
+    "title": "Kamui: He\u2019s Behind You Will Sexily Exorcise Your Demons on July 3",
+    "url": "https://blog.jlist.com/news/kamui-hes-behind-you-will-sexily-exorcise-your-demons-on-july-3/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-06-06T14:30:00Z",
+    "summary": "Any day I can talk about horny anime, like today, is a good day",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9478590961889675,
+    "home_score": 0.6755,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 3",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -330,7 +949,7 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-06-06T10:29:15Z",
-    "summary": "The Oblivious Saint Can't Contain Her Power Reveals Main Visual, Additional Cast",
+    "summary": "The Oblivious Saint Can't Contain Her Power anime revealed its main key visual and two\u2026",
     "content": "",
     "categories": [
       "anime",
@@ -341,8 +960,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9745652438872845,
-    "home_score": 0.7086,
+    "freshness_score": 0.8964807871416403,
+    "home_score": 0.6734,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -368,8 +987,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9703109361087954,
-    "home_score": 0.7066,
+    "freshness_score": 0.8925672775779511,
+    "home_score": 0.6717,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -402,10 +1021,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9702809851688112,
-    "home_score": 0.7066,
+    "freshness_score": 0.892539726579423,
+    "home_score": 0.6716,
     "source_quality": 0.8,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "be9dd3f16da8903122a1d1938796d1c4a588c0c9",
+    "title": "7 RPG Studios Hasbro Should Learn From if They Want Their $1B Investment Into D&D to Work",
+    "url": "https://www.dualshockers.com/rpg-studios-hasbro-should-study-before-spending-1b-on-dd/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-06-06T14:30:14Z",
+    "summary": "7 RPG Studios Hasbro should study if they want their $1B investment into video games to succeed",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9479104070885248,
+    "home_score": 0.6711,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/05/7-rpg-studios-hasbro-should-study-before-spending-1b-on-d-d.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -427,8 +1071,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9740914864084464,
-    "home_score": 0.7053,
+    "freshness_score": 0.8960449966184446,
+    "home_score": 0.6702,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -461,8 +1105,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9622882978306107,
-    "home_score": 0.703,
+    "freshness_score": 0.8851874327173845,
+    "home_score": 0.6683,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -486,8 +1130,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9622585933440542,
-    "home_score": 0.703,
+    "freshness_score": 0.8851601082670922,
+    "home_score": 0.6683,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -521,8 +1165,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9621991923559055,
-    "home_score": 0.703,
+    "freshness_score": 0.8851054667048601,
+    "home_score": 0.6683,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -550,8 +1194,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9702248330544204,
-    "home_score": 0.7026,
+    "freshness_score": 0.8924880736218352,
+    "home_score": 0.6676,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -575,8 +1219,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9667198806077328,
-    "home_score": 0.702,
+    "freshness_score": 0.8892640210182282,
+    "home_score": 0.6672,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -610,8 +1254,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9587825534594326,
-    "home_score": 0.7015,
+    "freshness_score": 0.8819626427290949,
+    "home_score": 0.6669,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -636,8 +1280,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9425606045742893,
-    "home_score": 0.6927,
+    "freshness_score": 0.8670404393170869,
+    "home_score": 0.6587,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -650,6 +1294,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "cbc5490f23e7462b31e9672ba808a4cf6f80b31a",
+    "title": "Street Fighter 6 Brings Fan-Favorite Final Fantasy 7 Character To The Game - vice.com",
+    "url": "https://www.vice.com/en/article/street-fighter-6-brings-fan-favorite-final-fantasy-7-character-to-the-game/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-06T13:00:34Z",
+    "summary": "Street Fighter 6 Brings Fan-Favorite Final Fantasy 7 Character To The Game vice",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Street Fighter 6",
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9284380265047857,
+    "home_score": 0.6578,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -671,8 +1341,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9282698148241647,
-    "home_score": 0.6862,
+    "freshness_score": 0.85389466111689,
+    "home_score": 0.6528,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -688,109 +1358,38 @@
     "result_type": "article"
   },
   {
-    "id": "612bcbc68d2ce73e527aa51f69f95de5e8d7c9b7",
-    "title": "Swords of Legends Interview",
-    "url": "https://rpgamer.com/2026/06/swords-of-legends-interview/",
-    "source_name": "RPGamer",
+    "id": "fbc3044506b8331cadba42eb4875cf72ba02ccbf",
+    "title": "A Livid Lady\u2019s Guide to Getting Even Premieres July 6, Reveals New Trailer and Additional Cast",
+    "url": "https://anitrendz.net/news/2026/06/06/a-livid-ladys-guide-to-getting-even-premieres-july-6-reveals-new-trailer-and-additional-cast/?utm_source=rss&utm_medium=rss&utm_campaign=a-livid-ladys-guide-to-getting-even-premieres-july-6-reveals-new-trailer-and-additional-cast",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-06-06T05:03:27Z",
-    "summary": "Swords of Legends is a brand new title in Aurogon Shanghai's GuJian Chinese fantasy RPG franchise and is set for an international release",
+    "published_at": "2026-06-06T07:01:33Z",
+    "summary": "A Livid Lady's Guide to Getting Even premieres July 6",
     "content": "",
     "categories": [
-      "games",
       "anime",
+      "manga",
       "events",
-      "gacha"
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9037699745495963,
-    "home_score": 0.6767,
-    "source_quality": 0.8,
+    "freshness_score": 0.8543987527951012,
+    "home_score": 0.6515,
+    "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f6be4a347e150c27d765f96d3b9f2ee11c2f3d4a",
-    "title": "Final Fantasy VII: Revelation Announced, coming to Consoles & PC Spring 2027 - playday.one",
-    "url": "https://playday.one/2026/06/06/final-fantasy-vii-revelation-announced-coming-to-consoles-pc-spring-2027/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-06T05:47:01Z",
-    "summary": "Final Fantasy VII: Revelation Announced, coming to Consoles & PC Spring 2027 playday",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9129302095130789,
-    "home_score": 0.6748,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "53f0c0b6401221d621efa87b9497822234df0be1",
-    "title": "What does Final Fantasy 7 Revelation do differently from its predecessors? Director Naoki Hamaguchi on meaningful player choices, resolving the \u201cminigame issue,\u201d and more",
-    "url": "https://automaton-media.com/en/interviews/what-does-final-fantasy-7-revelation-do-differently-from-its-predecessors-director-naoki-hamaguchi-on-meaningful-player-choices-resolving-the/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-06-06T08:04:15Z",
-    "summary": "Interview with Final Fantasy VII Revelation director Naoki Hamaguchi on how the new entry will differ and improve upon its predecessors",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9423971521427066,
-    "home_score": 0.6746,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2010fe69dbd4cf47b878c02e1dbca48ad1e94edd",
-    "title": "Final Fantasy 7 Revelation\u2019s open world evolves another step beyond Rebirth. Director Naoki Hamaguchi on map design, player freedom, and new battle systems",
-    "url": "https://automaton-media.com/en/interviews/final-fantasy-7-revelations-open-world-evolves-another-step-beyond-rebirth-director-naoki-hamaguchi-on-map-design-player-freedom-and-new-battle-systems/",
-    "source_name": "Automaton West",
-    "source_type": "rss",
-    "published_at": "2026-06-06T08:00:47Z",
-    "summary": "Interview with Final Fantasy 7 Revelation director Naoki Hamaguchi on the game's open world design, FITS system and more",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9416412088921309,
-    "home_score": 0.6742,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 6",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -816,9 +1415,115 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6809836625388805,
-    "home_score": 0.6719,
+    "freshness_score": 0.6264216554258948,
+    "home_score": 0.6474,
     "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f6be4a347e150c27d765f96d3b9f2ee11c2f3d4a",
+    "title": "Final Fantasy VII: Revelation Announced, coming to Consoles & PC Spring 2027 - playday.one",
+    "url": "https://playday.one/2026/06/06/final-fantasy-vii-revelation-announced-coming-to-consoles-pc-spring-2027/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-06T05:47:01Z",
+    "summary": "Final Fantasy VII: Revelation Announced, coming to Consoles & PC Spring 2027 playday",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8397840983714888,
+    "home_score": 0.6419,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "50ac39c31c5e948c4e5c102e882d0c81c8b8094b",
+    "title": "Steins;Gate Re:Boot Trailer Previews New Route",
+    "url": "https://anitrendz.net/news/2026/06/05/steinsgate-reboot-trailer-previews-new-route/?utm_source=rss&utm_medium=rss&utm_campaign=steinsgate-reboot-trailer-previews-new-route",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-06T05:01:41Z",
+    "summary": "A trailer for Steins;Gate Re:Boot's new route has been released",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8310176996024682,
+    "home_score": 0.641,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "53f0c0b6401221d621efa87b9497822234df0be1",
+    "title": "What does Final Fantasy 7 Revelation do differently from its predecessors? Director Naoki Hamaguchi on meaningful player choices, resolving the \u201cminigame issue,\u201d and more",
+    "url": "https://automaton-media.com/en/interviews/what-does-final-fantasy-7-revelation-do-differently-from-its-predecessors-director-naoki-hamaguchi-on-meaningful-player-choices-resolving-the/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-06-06T08:04:15Z",
+    "summary": "Interview with Final Fantasy VII Revelation director Naoki Hamaguchi on how the new entry will differ and improve upon its predecessors",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8668900360507206,
+    "home_score": 0.6406,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2010fe69dbd4cf47b878c02e1dbca48ad1e94edd",
+    "title": "Final Fantasy 7 Revelation\u2019s open world evolves another step beyond Rebirth. Director Naoki Hamaguchi on map design, player freedom, and new battle systems",
+    "url": "https://automaton-media.com/en/interviews/final-fantasy-7-revelations-open-world-evolves-another-step-beyond-rebirth-director-naoki-hamaguchi-on-map-design-player-freedom-and-new-battle-systems/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-06-06T08:00:47Z",
+    "summary": "Interview with Final Fantasy 7 Revelation director Naoki Hamaguchi on the game's open world design, FITS system and more",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8661946608500763,
+    "home_score": 0.6403,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -842,61 +1547,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8844298690593091,
-    "home_score": 0.671,
+    "freshness_score": 0.8135672252519376,
+    "home_score": 0.6391,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "27b03ed480b89dac86ae2c19d5123f9a72df7f9e",
-    "title": "Final Fantasy VII Revelation to release in Spring 2027 - Inquirer Technology",
-    "url": "https://technology.inquirer.net/147191/final-fantasy-vii-revelation-to-release-in-spring-2027",
-    "source_name": "Google News JRPG",
+    "id": "b45c1b675b3e5ed47d8a48670fc4cf18dc5bf837",
+    "title": "Koei Tecmo Reveals Attack on Titan 3",
+    "url": "https://anitrendz.net/news/2026/06/05/koei-tecmo-reveals-attack-on-titan-3/?utm_source=rss&utm_medium=rss&utm_campaign=koei-tecmo-reveals-attack-on-titan-3",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-06-06T08:59:00Z",
-    "summary": "Final Fantasy VII Revelation to release in Spring 2027 Inquirer Technology",
+    "published_at": "2026-06-06T04:19:36Z",
+    "summary": "Attack on Titan 3 has been announced and will launch on PlayStation 5, Nintendo Switch 2, Xbox Series X/S, and Steam sometime in the future",
     "content": "",
     "categories": [
+      "anime",
+      "manga",
+      "events",
       "games"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9544163752770121,
-    "home_score": 0.6695,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e9b7b9a4e406c30c50db834e4de84a0a508ac391",
-    "title": "Monster Hunter Wilds: Ascendance Expansion Announced",
-    "url": "https://rpgamer.com/2026/06/monster-hunter-wilds-ascendance-expansion-announced/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-06T00:03:04Z",
-    "summary": "Capcom has announced a large-scale expansion for Monster Hunter Wilds",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8430629613770738,
-    "home_score": 0.6694,
-    "source_quality": 0.8,
+    "freshness_score": 0.8229616323316877,
+    "home_score": 0.6373,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -920,8 +1599,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8783092700984945,
-    "home_score": 0.6682,
+    "freshness_score": 0.8079370232326123,
+    "home_score": 0.6366,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -946,25 +1625,24 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8752648721670074,
-    "home_score": 0.6669,
+    "freshness_score": 0.8051365498389931,
+    "home_score": 0.6353,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "59825a6138b742272962ce38544bc26fe5a5d716",
-    "title": "Final Fantasy VII Revelation save data bonus revealed for Final Fantasy VII Remake Intergrade and Rebirth",
-    "url": "https://www.rpgsite.net/news/20561-final-fantasy-vii-revelation-save-data-bonus-ff7-remake-intergrade-rebirth-list",
-    "source_name": "RPG Site",
+    "id": "27b03ed480b89dac86ae2c19d5123f9a72df7f9e",
+    "title": "Final Fantasy VII Revelation to release in Spring 2027 - Inquirer Technology",
+    "url": "https://technology.inquirer.net/147191/final-fantasy-vii-revelation-to-release-in-spring-2027",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-06T06:56:03Z",
-    "summary": "If you have Final Fantasy VII Remake Intergrade and Rebirth save data on the same platform, you can unlock exclusive DLC in Final Fantasy VII Revelation",
+    "published_at": "2026-06-06T08:59:00Z",
+    "summary": "Final Fantasy VII Revelation to release in Spring 2027 Inquirer Technology",
     "content": "",
     "categories": [
-      "games",
-      "anime"
+      "games"
     ],
     "tags": [],
     "entity_tags": [
@@ -972,34 +1650,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9276363201708548,
-    "home_score": 0.6649,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4b338b01ebf940cfb0fa10b0f2b85ae2b6b3e6bd",
-    "title": "Wuthering Waves x Cyberpunk: Edgerunners collaboration gets new trailer during Summer Game Fest",
-    "url": "https://www.rpgsite.net/news/20559-wuthering-waves-x-cyberpunk-edgerunners-collaborationsummer-game-fest-2026-trailer-new-lucy-story",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-06T05:51:34Z",
-    "summary": "The trailer arrives a few days before the Wuthering Waves x Cyberpunk: Edgerunners goes live in update 3",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9138926013038278,
-    "home_score": 0.6648,
-    "source_quality": 0.81,
+    "freshness_score": 0.877946292624501,
+    "home_score": 0.6351,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1024,27 +1677,76 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.832789232260604,
-    "home_score": 0.6648,
+    "freshness_score": 0.7660642070270427,
+    "home_score": 0.6347,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "7f0694ff51869ec3788de6fea2027173ce42d146",
-    "title": "Final Fantasy VII Revelation Recasts Sephiroth English Voice Actor",
-    "url": "https://noisypixel.net/final-fantasy-vii-revelation-sephiroth-voice-actor-recast/",
-    "source_name": "Noisy Pixel",
+    "id": "f15366f019a4d6e5fe7929e4d9878aece5dd6812",
+    "title": "A Gundam Battles a Mechanical Dragon in Gundam: Rogue Orbit Announcement Trailer",
+    "url": "https://anitrendz.net/news/2026/06/05/a-gundam-battles-a-mechanical-dragon-in-gundam-rogue-orbit-announcement-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=a-gundam-battles-a-mechanical-dragon-in-gundam-rogue-orbit-announcement-trailer",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-06-06T02:46:48Z",
-    "summary": "On a stream with content creator Maxmillian Dood, Naoki Hamaguchi confirmed that the English voice actor of Sephiroth in Final Fantasy VII Revelation will be changed from the previ",
+    "published_at": "2026-06-06T03:22:54Z",
+    "summary": "Bandai Namco Entertainment has unveiled Gundam: Rogue Orbit, a new Gundam action game that seems to pit players against a mechanical alien threat",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8122308346672154,
+    "home_score": 0.6325,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4b338b01ebf940cfb0fa10b0f2b85ae2b6b3e6bd",
+    "title": "Wuthering Waves x Cyberpunk: Edgerunners collaboration gets new trailer during Summer Game Fest",
+    "url": "https://www.rpgsite.net/news/20559-wuthering-waves-x-cyberpunk-edgerunners-collaborationsummer-game-fest-2026-trailer-new-lucy-story",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-06T05:51:34Z",
+    "summary": "The trailer arrives a few days before the Wuthering Waves x Cyberpunk: Edgerunners goes live in update 3",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "merch",
-      "events"
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8406693359584904,
+    "home_score": 0.6318,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "59825a6138b742272962ce38544bc26fe5a5d716",
+    "title": "Final Fantasy VII Revelation save data bonus revealed for Final Fantasy VII Remake Intergrade and Rebirth",
+    "url": "https://www.rpgsite.net/news/20561-final-fantasy-vii-revelation-save-data-bonus-ff7-remake-intergrade-rebirth-list",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-06T06:56:03Z",
+    "summary": "If you have Final Fantasy VII Remake Intergrade and Rebirth save data on the same platform, you can unlock exclusive DLC in Final Fantasy VII Revelation",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
     ],
     "tags": [],
     "entity_tags": [
@@ -1052,62 +1754,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.875629433103015,
-    "home_score": 0.661,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c2f004cb1a26b710ad30b94cb3d0ee1ba5206dc0",
-    "title": "LumenTale: Memories of Trey Review",
-    "url": "https://rpgamer.com/review/lumentale-memories-of-trey-review/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-06T01:55:12Z",
-    "summary": "Split in Two Like Talea Sometimes indie studios dream bigger than the make-believe worlds they create",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "gacha",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8652326752752485,
-    "home_score": 0.6594,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "81555f17fef483173fd915490e0dc43fd3701fe0",
-    "title": "Novelbright Shares The Ramparts of Ice Opening Song Anime Version Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/6/6/the-ramparts-of-ice-opening-song-anime-version-music-video-novelbright",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-06T02:09:00Z",
-    "summary": "The song reached number 47 on the weekly singles chart",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8680009493862593,
-    "home_score": 0.6591,
-    "source_quality": 0.79,
+    "freshness_score": 0.8533118751596276,
+    "home_score": 0.6315,
+    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1132,615 +1781,11 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8324969982469865,
-    "home_score": 0.6586,
+    "freshness_score": 0.7657953887727422,
+    "home_score": 0.6286,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4563e04022f76b7f31a14de03632058a1db4451e",
-    "title": "Eve Releases Witch Hat Atelier Opening Song Special Anime Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/6/6/witch-hat-atelier-opening-song-special-anime-music-video-eve",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-06T01:33:00Z",
-    "summary": "Bug Films-animated fantasy is now available on Crunchyroll",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8607976626546704,
-    "home_score": 0.6559,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "79747dc21832f818f3bc5798bd0f0f760d216384",
-    "title": "Summer Game Fest 2026 Spotlights Resident Evil Veronica, Final Fantasy VII Revelation and More",
-    "url": "https://crunchyroll.com/news/latest/2026/6/6/summer-game-fest-2026-roundup-final-fantasy-vii-revelation-resident-evil-veronica",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-06T01:23:00Z",
-    "summary": "A hot summer for video games gets even hotter!",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8588073790744593,
-    "home_score": 0.655,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9a156dfcace5709ef1911c0e636d0d9cebbaccad",
-    "title": "Star Wars Zero Company Gets August 2026 Release Date, Reveals Clone Wars Campaign Details",
-    "url": "https://noisypixel.net/star-wars-zero-company-august-2026-release-date/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-06T01:24:41Z",
-    "summary": "Electronic Arts and developer Bit Reactor, in collaboration with Lucasfilm Games, have announced that Star Wars Zero Company will launch on August 27, 2026, for PlayStation 5, Xbox",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8591422347204091,
-    "home_score": 0.6536,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 27, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "0126d8e23b8b66df6cc65d80a2a444c1d4c34283",
-    "title": "Wuthering Waves x Cyberpunk: Edgerunners Trailer Teases Lucy\u2019s Story Continuation",
-    "url": "https://noisypixel.net/wuthering-waves-cyberpunk-edgerunners-lucy-story-trailer/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-06T01:05:58Z",
-    "summary": "Kuro Games debuted a new trailer for the upcoming Wuthering Waves and Cyberpunk: Edgerunners, ahead of Version 3",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8554279979895272,
-    "home_score": 0.6519,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 8, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "41bfdb4a9b7bd54b8c40d3a922e6fafa0d8feb8c",
-    "title": "Nowlu Releases Star Blazers: Space Battleship Yamato 3199 Anime Chapter 6 Ending Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/6/6/star-blazers-space-battleship-yamato-3199-anime-chapter-6-ending-song-music-video-nowlu",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-06T00:34:00Z",
-    "summary": "The sixth installment of the seven-chapter series opens on June 26",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8491213123000582,
-    "home_score": 0.6506,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 26",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e7e5aab6c85fde864237adfd1cd50e3efb5d3357",
-    "title": "Final Fantasy VII Revelation Trailer Unveils the Last Remake Entry",
-    "url": "https://monstervine.com/2026/06/final-fantasy-vii-revelation-trailer/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-06-06T05:10:52Z",
-    "summary": "To close out this year\u2019s Summer Game Fest Showcase, Square Enix finally showed off the final entry in the Final Fantasy VII remake trilogy \u2014 Final Fantasy VII Revelation",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.905322702946786,
-    "home_score": 0.6504,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a6908e03f856a21286b80d9047a6c7a2b0b3c8e5",
-    "title": "Tifa Lockhart Will Join Street Fighter 6 as Year 4 DLC",
-    "url": "https://www.siliconera.com/tifa-lockhart-will-join-street-fighter-6-as-year-4-dlc/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:40:30Z",
-    "summary": "Tifa Lockhart Will Join Street Fighter 6 as Year 4 DLC",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8386707644949185,
-    "home_score": 0.6504,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c30cc1fe0d68016fb69bfaec7db9f7ba4e5e9661",
-    "title": "New Stellar Blade Game Is Blood Rain and Stars Evie",
-    "url": "https://www.siliconera.com/new-stellar-blade-game-is-blood-rain-and-stars-evie/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:35:00Z",
-    "summary": "The new Stellar Blade sequel called Blood Rain showed up at Summer Game Fest 2026 and introduced Evie",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8376036905964298,
-    "home_score": 0.6499,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ec11a322eeced5d9a6e23d7cc55c2349a30f6ed9",
-    "title": "Here\u2019s All the Games Featured at Summer Game Fest 2026",
-    "url": "https://www.siliconera.com/heres-all-the-games-featured-at-summer-game-fest-2026/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:30:00Z",
-    "summary": "The event included the appearance of Resident Evil Veronica and Final Fantasy VII Revelation The post Here\u2019s All the Games Featured at Summer Game Fest 2026 appeared first on Silic",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8366348012867957,
-    "home_score": 0.6495,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2ef9e6195854a01d5c75291c246f7b9544a548fd",
-    "title": "Final Fantasy VII Revelation Announced for Spring 2027",
-    "url": "https://rpgamer.com/2026/06/final-fantasy-vii-revelation-announced-for-spring-2027/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-06T00:03:18Z",
-    "summary": "Square Enix officially revealed the third and final part in its Final Fantasy VII remake trilogy",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8431085025329034,
-    "home_score": 0.6494,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0886af19458aa0daba20abfc1c5b514c477184f0",
-    "title": "Swords of Legends Receives First Gameplay Trailer",
-    "url": "https://rpgamer.com/2026/06/swords-of-legends-receives-first-gameplay-trailer/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-06T00:02:54Z",
-    "summary": "Developer Aurogon Shanghai released its first gameplay trailer for fantasy action RPG Swords of Legends",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8430304324365402,
-    "home_score": 0.6494,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "10e3f6953b3e3197a1ff74e1afc09dab30382e58",
-    "title": "Tifa enters Street Fighter 6 Year 4 in 2027 with new Materia system",
-    "url": "https://esports.gg/news/street-fighter-6/street-fighter-6-year-4-characters-tifa-materia/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:12:00Z",
-    "summary": "The Street Fighter 6 Year 4 characters are Tifa, Yasmine, Arjun and Bosch",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8331556775462268,
-    "home_score": 0.6469,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "52e61c1ded37d63a67f0ec62b50d444168d3d5c2",
-    "title": "Omega Force Working on Attack on Titan 3 Game",
-    "url": "https://www.siliconera.com/omega-force-working-on-attack-on-titan-3-game/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:00:00Z",
-    "summary": "The new Omega Force Attack on Titan 3 game will cover the full events of the anime and manga",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.830844952647771,
-    "home_score": 0.6469,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4de299cb333ba6c75c2aad23fe13f22b9f79906e",
-    "title": "Square Enix announces Final Fantasy VII Revelation, the conclusion in its trilogy - Digitally Downloaded",
-    "url": "https://www.digitallydownloaded.net/2026/06/square-enix-announces-final-fantasy-vii-revelation.html",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-06T00:30:04Z",
-    "summary": "Square Enix announces Final Fantasy VII Revelation, the conclusion in its trilogy Digitally Downloaded",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8483483890569974,
-    "home_score": 0.6458,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1735360aa395e142c3b7c1c1c002e99412bc2392",
-    "title": "Monster Hunter Wilds Expansion Is Called Ascendance",
-    "url": "https://www.siliconera.com/monster-hunter-wilds-expansion-is-called-ascendance/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T22:35:00Z",
-    "summary": "The Monster Hunter Wilds expansion is called Ascendance and it will send us into the sky and perhaps involve some familiar faces",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8260507045130896,
-    "home_score": 0.6447,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1cb16e9f9bba505cdfd576de90abefd22dd029b2",
-    "title": "Final Fantasy 7 Revelation reveals new voice actor",
-    "url": "https://nintendoeverything.com/final-fantasy-7-revelation-sephiroth-new-voice-actor/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-06T02:50:18Z",
-    "summary": "Original: A new voice actor will play the part of Sephiroth in Final Fantasy 7 Revelation, it\u2019s been revealed",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8763391366332451,
-    "home_score": 0.6419,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f2f013a38f0e4db9fcb76aafe214df6ed7af9618",
-    "title": "Performing Ease: Emotional detachment and masculinity in Skip and Loafer",
-    "url": "https://www.animefeminist.com/performing-ease-emotional-detachment-and-masculinity-in-skip-and-loafer/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-06-06T00:15:37Z",
-    "summary": "Skip and Loafer highlights how gendered expectations around emotion are learned and reinforced at an early age",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8455156300626735,
-    "home_score": 0.6415,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e808f563cdb7e26a39d3a7f9a176834748257753",
-    "title": "New Gundam Game Is Rogue Orbit",
-    "url": "https://www.siliconera.com/new-gundam-game-is-rogue-orbit/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T21:50:00Z",
-    "summary": "The next new Gundam game is an entirely new experience in a new universe that is called Gundam Rogue Orbit",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8174906680252683,
-    "home_score": 0.6409,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9b133def65227c60ac58b064ab8e66ea9a91b72b",
-    "title": "Final Fantasy VII: Revelation Concludes the Final Fantasy VII Remake Trilogy in 2027",
-    "url": "https://www.dualshockers.com/final-fantasy-vii-revelation-wont-be-a-console-exclusive-on-launch/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:13:44Z",
-    "summary": "Revelation will be available the same day for all platforms",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8334900895841063,
-    "home_score": 0.6376,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/ffvii_revelation_june_screenshots.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "140b8949c1eab923385c246d8260f3efbddb87e5",
-    "title": "Dorohedoro Season 2 Anime Releases Animated Music Video for Ending Theme Song \"Return to Head\"",
-    "url": "https://crunchyroll.com/news/latest/2026/6/5/dorohedoro-season-2-anime-return-to-head-ending-theme-song-animated-music-video",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-05T17:14:00Z",
-    "summary": "Crunchyroll currently streams both seasons of the Dorohedoro anime",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7668952420084987,
-    "home_score": 0.6336,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b7579bf359e7cf5f8c9e6a1915be906f92656355",
-    "title": "Stage 2 at CS2 IEM Cologne Major 2026: Spirit, G2, and more join the fun",
-    "url": "https://esports.gg/news/counter-strike-2/cologne-major-2026-stage-2-details-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-05T20:34:30Z",
-    "summary": "It\u2019s time for some heavy hitters and very promising tournament winners to start their exciting journey at the Counter-Strike 2 (CS2) Cologne Major",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8033272590780882,
-    "home_score": 0.6335,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   }
 ]
