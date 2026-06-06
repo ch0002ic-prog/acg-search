@@ -1,84 +1,5 @@
 [
   {
-    "id": "d8f4bb2aa586fd330e3cf14e58ab0ba0ae0d8038",
-    "title": "DOKI! DOKI! ANIME MARKET SINGAPORE 2026",
-    "url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-06T00:00:00Z",
-    "summary": "HUNDREDS OF ARTISTS & FANDOMS \u2726 HONKAI: STAR RAIL AVENTURINE VOICE ACTOR \u2726 GENSHIN C6 / STAR RAIL E6 LUCKY DRAW \u2726 DOKI! DOKI! STAGE OF MEMES Venue: Suntec Singapore Convention & Ex",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "gacha"
-    ],
-    "tags": [
-      "singapore",
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 0.9951556303491157,
-    "home_score": 0.8523,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176341694%2F1832968789393%2F1%2Foriginal.20260131-200017?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7850043dcbff9793d64b040a3a49adf1",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "6 Jun 2026 to 7 Jun 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre HALL 405",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/doki-doki-anime-market-singapore-2026-tickets-1982062677825",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "c7fd4c18a62190ff5cb5deb297708782ba0d060c",
-    "title": "TableCon Quest 2026",
-    "url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-08-01T00:00:00Z",
-    "summary": "Dive into the ultimate tabletop gaming experience at #TableConQuest2026! Venue: Suntec Singapore Convention & Exhibition Centre",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.55,
-    "freshness_score": 1.0,
-    "home_score": 0.8515,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180016976%2F2111792961183%2F1%2Foriginal.20260317-044857?w=400&auto=format%2Ccompress&q=75&sharp=10&s=802e2d94e7d2eac884f55e24e07ded3d",
-    "event_metadata": {
-      "event_type": "convention",
-      "date_label": "1 Aug 2026 to 2 Aug 2026",
-      "venue": "Suntec Singapore Convention & Exhibition Centre",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/tablecon-quest-2026-tickets-1985118966266",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
     "id": "a24d66312a334313204e13fdf5f387428c2fe509",
     "title": "All of the Day of the Devs Games Shown at SGF 2026",
     "url": "https://www.siliconera.com/all-of-the-day-of-the-devs-games-shown-at-sgf-2026/",
@@ -101,10 +22,84 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.997462571156206,
-    "home_score": 0.8469,
+    "freshness_score": 0.9099755878920758,
+    "home_score": 0.8075,
     "source_quality": 0.82,
     "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d6daab5470792063798b52c0f7dc02dc2a63943d",
+    "title": "Sindicate Esports vs Clarity Gaming Live Score on 2026-06-06 of Mobile Legends MPL Singapore Season 11 - GosuGamers",
+    "url": "https://www.gosugamers.net/mobile-legends/tournaments/62909-mpl-singapore-season-11/matches/652249-sindicate-esports-vs-clarity-gaming",
+    "source_name": "Google News SG ACG",
+    "source_type": "rss",
+    "published_at": "2026-06-05T19:00:00Z",
+    "summary": "Sindicate Esports vs Clarity Gaming Live Score on 2026-06-06 of Mobile Legends MPL Singapore Season 11 GosuGamers",
+    "content": "",
+    "categories": [
+      "events",
+      "games",
+      "anime",
+      "esports"
+    ],
+    "tags": [
+      "singapore",
+      "mlbb"
+    ],
+    "entity_tags": [
+      "MLBB"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.6699999999999999,
+    "freshness_score": 0.8469637591725512,
+    "home_score": 0.8066,
+    "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "6 Jun 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9c508a1604e9296058f9f168cc8b987fa3fbee3f",
+    "title": "Capcom hits homerun at SGF 2026 with Monster Hunter Wilds Ascendance, Resident Evil Veronica, and Street Fighter 6",
+    "url": "https://esports.gg/news/gaming/capcom-summer-game-fest-2026-monster-hunter-wilds-ascendance-resident-evil-veronica-street-fighter-6/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-06-05T23:30:00Z",
+    "summary": "Capcom arguably stole the show at Summer Game Fest 2026 with its major reveals across multiple beloved franchises",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [
+      "Street Fighter 6"
+    ],
+    "region_tags": [
+      "SEA",
+      "Singapore"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 0.9015883253911154,
+    "home_score": 0.8027,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -133,8 +128,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.9802949453728768,
-    "home_score": 0.8391,
+    "freshness_score": 0.8943137389759288,
+    "home_score": 0.8004,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -164,9 +159,40 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.9962273252663627,
-    "home_score": 0.8373,
+    "freshness_score": 0.9088487693157199,
+    "home_score": 0.798,
     "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e0f29de3eeef1eb86ce241e831452de35688beb9",
+    "title": "\u2018Final Fantasy VII Revelation\u2019 Will Conclude 7-Year Remake Journey In Spring 2027",
+    "url": "https://geekculture.co/final-fantasy-vii-revelation-will-conclude-7-year-remake-journey-in-spring-2027/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-06-06T03:19:31Z",
+    "summary": "\u2018Final Fantasy VII Revelation\u2019 Will Conclude 7-Year Remake Journey In Spring 2027",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9507839698385719,
+    "home_score": 0.7979,
+    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -194,85 +220,12 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.970136536951512,
-    "home_score": 0.8346,
+    "freshness_score": 0.8850463196814846,
+    "home_score": 0.7963,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
-  },
-  {
-    "id": "d52dc90c9d0684e6569624bf0e0723c81ff433db",
-    "title": "Stranger Than Heaven Gets Release Date and Tupac\u2019s Likeness",
-    "url": "https://www.siliconera.com/stranger-than-heaven-gets-release-date-and-tupacs-likeness/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T21:35:00Z",
-    "summary": "Stranger than Heaven got a 2027 release date at SGF 2026 and a reveal that the likeness of Tupac Shakur will appear",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.9623083856080145,
-    "home_score": 0.831,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d958943683b299952c291ef741715e325d40f62e",
-    "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
-    "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-08-13T00:00:00Z",
-    "summary": "Join us for Grand Archive TCG's first overseas World Championships in Singapore! Venue: Singapore EXPO",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Grand Archive TCG"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 1.0,
-    "home_score": 0.8245,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178566025%2F1397427866083%2F1%2Foriginal.20260226-225716?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=be97e6243952f1f8fad056ef7c7a2e06",
-    "event_metadata": {
-      "event_type": "expo",
-      "date_label": "13 Aug 2026 to 16 Aug 2026",
-      "venue": "Singapore EXPO",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
   },
   {
     "id": "41511e8660f0eded126ce1127d15bdcc8ef8cb81",
@@ -299,8 +252,8 @@
       "SEA"
     ],
     "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.9514726453487558,
-    "home_score": 0.8177,
+    "freshness_score": 0.86801949786056,
+    "home_score": 0.7801,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": {
@@ -337,538 +290,21 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.991928224197628,
-    "home_score": 0.8144,
+    "freshness_score": 0.9049267042465235,
+    "home_score": 0.7752,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "88291822aa950a33e98928b768e5207bca82195d",
-    "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
-    "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537134993",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-10T00:00:00Z",
-    "summary": "Learn to draw manga characters with expressive eyes, dynamic poses and storytelling skills",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178770091%2F168574416186%2F1%2Foriginal.20260302-084902?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d02dcbdd719f3f8f42bf8afbcd85c0b9",
-    "event_metadata": {
-      "event_type": "workshop",
-      "date_label": "10 Jun 2026",
-      "venue": "20B Mosque St",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537134993",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "10aecab2014ccc96137245d2b8f343b4ea3c8f66",
-    "title": "Holiday Art Immersion - Manga Drawing & Coloured Illustration 12s (10-18YO)",
-    "url": "https://www.eventbrite.sg/e/holiday-art-immersion-manga-drawing-coloured-illustration-12s-10-18yo-tickets-1989771748864",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Does your teen like Anime or Manga? Sign them up for our Manga Drawing & Coloured Illustration Holiday Art Immersion lessons to draw! Venue: Visual Arts Centre @ Dhoby Ghaut MRT St",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184774755%2F168574416186%2F1%2Foriginal.20260517-053152?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9b5734b4cdbc7b3d4b4436e92a32708a",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/holiday-art-immersion-manga-drawing-coloured-illustration-12s-10-18yo-tickets-1989771748864",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "8edb08f532601073e9b4480252a79d993a1f7ecd",
-    "title": "Summer Holiday Art Camp - Manga & Coloured Illustration 8 Sessions (6-9YO)",
-    "url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-coloured-illustration-8-sessions-6-9yo-tickets-1989639082054",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Let your child learn how to draw in manga and coloured illustration style with us this holiday! They will learn using markers and more! Venue: Visual Arts Centre @ Dhoby Ghaut MRT",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184666232%2F168574416186%2F1%2Foriginal.20260515-081125?w=400&auto=format%2Ccompress&q=75&sharp=10&s=f8e6528f3bd863a3c0d0670cef675a1e",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-coloured-illustration-8-sessions-6-9yo-tickets-1989639082054",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "608ae67463bb0e8b3c4c7861c555169e99272cb5",
-    "title": "Summer Holiday Art Camp - Manga Drawing 8 Sessions (10-18YO)",
-    "url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-drawing-8-sessions-10-18yo-tickets-1989732139391",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Does your teen like Manga? Let your teen learn Manga Drawing with us this holiday! They will learn from professional artists too! Venue: Visual Arts Centre @ Dhoby Ghaut MRT Statio",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184737360%2F168574416186%2F1%2Foriginal.20260516-055151?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bcb932dddbc7b91f64f68d99a80743a6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-drawing-8-sessions-10-18yo-tickets-1989732139391",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "ccdae9afc9ae811f900ffa5d2c14fb5f83b4fe46",
-    "title": "Young Musicians Festival Jun 2026: Piano Adventures",
-    "url": "https://www.eventbrite.com/e/young-musicians-festival-jun-2026-piano-adventures-tickets-1989856209488",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "From Bach to Anime! Witness the grit and growth of Singapore\u2019s young musicians as they share their \"Piano Adventures\" at the Library",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184878983%2F3002514252271%2F1%2Foriginal.20260518-192603?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=817feb9425e6819f3c896b8ea34102c6",
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "8 Jun 2026",
-      "venue": "National Library / Lee Kong Chian Reference Library",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/young-musicians-festival-jun-2026-piano-adventures-tickets-1989856209488",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "ec630209addf7b1509bb665b3ceda8f39f173142",
-    "title": "Boardgame Networking Night",
-    "url": "https://www.eventbrite.sg/e/boardgame-networking-night-tickets-1989206140113",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-07-10T00:00:00Z",
-    "summary": "Come hang out, play game shows, and meet cool people who love board games as much as you do! Venue: 30 Prinsep St, #01 01",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184274343%2F2609071568161%2F1%2Foriginal.20260511-084805?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0c5614b7d8eaf7f54be86f8cb11e5c88",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "10 Jul 2026",
-      "venue": "30 Prinsep St, #01 01",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/boardgame-networking-night-tickets-1989206140113",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "2a09586e6279a34c70c3b48d44e12356848d9b0f",
-    "title": "Gamedev Jalan: Talks and Indie Showcase by the Local Dev Community",
-    "url": "https://www.eventbrite.sg/e/gamedev-jalan-talks-and-indie-showcase-by-the-local-dev-community-tickets-1989444139977",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-21T00:00:00Z",
-    "summary": "A free community afternoon for Singapore game devs and curious players: talks, indie games, and the local scene in one place",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184571752%2F2858659952031%2F1%2Foriginal.20260514-062600?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.377&fp-y=0.386&s=55da061b1f4fe6735d390f0c5622db0b",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "21 Jun 2026",
-      "venue": "National Library Building - Imagination & Possibility Rooms (Level 5)",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-jalan-talks-and-indie-showcase-by-the-local-dev-community-tickets-1989444139977",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "34e7aaa88fafb7de753f56dc6173b264137c85d0",
-    "title": "One Punggol - Esports Arena 2026",
-    "url": "https://www.eventbrite.sg/e/one-punggol-esports-arena-2026-tickets-1989296881523",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-20T00:00:00Z",
-    "summary": "Join us for a weekend of competitive esports & tcg events at the Esports Arena 2026! Venue: One Punggol",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184771788%2F1569231854123%2F1%2Foriginal.20260517-022835?w=400&auto=format%2Ccompress&q=75&sharp=10&s=5ffc6389579ca8024c8ee8a49e0bb89b",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "20 Jun 2026 to 21 Jun 2026",
-      "venue": "One Punggol",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/one-punggol-esports-arena-2026-tickets-1989296881523",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "60f987a163a3864a4bd82ad9749d321cdda9b0a8",
-    "title": "Gamedev Together (June)",
-    "url": "https://www.eventbrite.sg/e/gamedev-together-june-tickets-1990975593596",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-20T00:00:00Z",
-    "summary": "Come hang out and build cool games with fellow devs in a chill, creative space",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182780581%2F2858659952031%2F1%2Foriginal.20260422-142135?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6203434b1e16ea9bffd6420eefee1bf6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "20 Jun 2026",
-      "venue": "MAGES Studio",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/gamedev-together-june-tickets-1990975593596",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "817905e328dd70071b5f2ee5375e181651152a60",
-    "title": "Dungeon of the Mad Mage (Dungeons & Dragons 5E 2024) - Level 8-12",
-    "url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-8-12-tickets-1990389909800",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-20T00:00:00Z",
-    "summary": "Encounter creatures, beasts, demons, fauna, and all manner of humanoids with its own ecology and economy ala Delicious in Dungeon",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173250933%2F2013670307193%2F1%2Foriginal.20251219-041606?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C660%2C330&s=0486ed9f2cddd64fc58e4b2adb9968b0",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "20 Jun 2026",
-      "venue": "681691",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/dungeon-of-the-mad-mage-dungeons-dragons-5e-2024-level-8-12-tickets-1990389909800",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "e0564b53391fb7dfb81be699b4de4f295e057e7a",
-    "title": "Learn to play Singapore Mahjong Lah! (Beginners)",
-    "url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696544603",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-12T00:00:00Z",
-    "summary": "Mahjong Lah\u2019s flagship Basic Session is designed to initiate participants into the game of Singapore mahjong and the point system",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F892824093%2F494011962419%2F1%2Foriginal.20241106-061643?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C42%2C1366%2C683&s=b130ce66fa02d648b3f67f5e5276fb55",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "12 Jun 2026",
-      "venue": "Co. @ Duxton",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/learn-to-play-singapore-mahjong-lah-beginners-tickets-1977696544603",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "1eab6e6967e962754af9d4f77331017dbd7b90b5",
-    "title": "Phileo-Fish",
-    "url": "https://www.eventbrite.sg/e/phileo-fish-tickets-1990772767939",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-11T00:00:00Z",
-    "summary": "Phileo-Fish is here! Play exciting board games, laugh together, and build amazing friendships",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1185849258%2F2179318665353%2F1%2Foriginal.20260601-101002?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9c38ce6380ec8fa56913316fa9e29ba2",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "11 Jun 2026",
-      "venue": "78A Serangoon Garden Wy",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/phileo-fish-tickets-1990772767939",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "b5ae933061329bcad44e4fa386fe143613eeb774",
-    "title": "Russia-Singapore B2B Mission: Games & Animation",
-    "url": "https://www.eventbrite.com/e/russia-singapore-b2b-mission-games-animation-tickets-1991045482636",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-11T00:00:00Z",
-    "summary": "Connect with top gaming and animation pros from Russia and Singapore in this in-person B2B mission! Venue: \u041a\u0430\u0440\u043b\u0442\u043e\u043d \u0425\u043e\u0442\u0435\u043b \u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186137428%2F3004249015199%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=7712deac535ee48abe1adef7d5e03448",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "11 Jun 2026",
-      "venue": "\u041a\u0430\u0440\u043b\u0442\u043e\u043d \u0425\u043e\u0442\u0435\u043b \u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/russia-singapore-b2b-mission-games-animation-tickets-1991045482636",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "4dcdfa02755c6c86c5bf6832feda8cff84d27b63",
-    "title": "Kids Camp: Board Game Design Lab",
-    "url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Kids Camp: Board Game Design Lab",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182547060%2F796777249053%2F1%2Foriginal.20260420-092254?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.057&fp-y=0.677&s=fc13fc21828047954b43b0f4ddc8e04e",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "VIVISTOP Kampong Eunos",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "08c7927417d0c2b2e0f10b5e9f5c6069da4076bb",
-    "title": "Next Love and Deepspace Nendoroid Is a Rafayel Figure",
-    "url": "https://www.siliconera.com/next-love-and-deepspace-nendoroid-is-a-rafayel-figure/",
+    "id": "76711814d0de5def010b4584ad898fce2eb76537",
+    "title": "Monster Hunter Wilds Switch 2 Version, Felyne Nendoroid, and Hunter Figma Figure Teased",
+    "url": "https://www.siliconera.com/monster-hunter-wilds-switch-2-version-felyne-nendoroid-and-hunter-figma-figure-teased/",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-06-05T20:00:00Z",
-    "summary": "A Love and Deepspace Rafayel Nendoroid will join the Xavier, Sylus, and Zayne figures later this year",
+    "published_at": "2026-06-06T03:30:00Z",
+    "summary": "A Monster Hunter Wilds Switch 2 version is on the way and we got a closer look at the new Felyne Nendoroid and Hunter figma figure",
     "content": "",
     "categories": [
       "games",
@@ -876,44 +312,39 @@
       "merch",
       "events"
     ],
-    "tags": [
-      "afa"
-    ],
-    "entity_tags": [
-      "AFA Singapore"
-    ],
+    "tags": [],
+    "entity_tags": [],
     "region_tags": [],
-    "sg_relevance": 0.2,
-    "freshness_score": 0.9413774947142921,
-    "home_score": 0.7466,
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9530945140199684,
+    "home_score": 0.7019,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "49000aa44540f1b233b23c3daf6cdfd681a37dad",
-    "title": "Slideshow: Final Fantasy VII Revelation Screenshots - IGN Southeast Asia",
-    "url": "https://sea.ign.com/final-fantasy-vii-remake-part-3/243735/final-fantasy-vii-revelation-screenshots",
-    "source_name": "Google News JRPG",
+    "id": "09b3389e97eaa26c59b4fb223b9c21589f313b2b",
+    "title": "New Junji Ito Figure Is Gyaru Tomie With Hello Kitty",
+    "url": "https://www.siliconera.com/new-junji-ito-figure-is-gyaru-tomie-with-hello-kitty/",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-06-06T00:18:06Z",
-    "summary": "Slideshow: Final Fantasy VII Revelation Screenshots IGN Southeast Asia",
+    "published_at": "2026-06-06T03:00:00Z",
+    "summary": "We're one step closer to the Junji Ito x Sanrio characters figure based on the gyaru Tomie with Hello Kitty accessories appearing",
     "content": "",
     "categories": [
-      "games"
+      "games",
+      "anime",
+      "merch",
+      "events"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.2,
-    "freshness_score": 0.9993338515549353,
-    "home_score": 0.7397,
-    "source_quality": 0.76,
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9464987289771564,
+    "home_score": 0.6989,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -938,9 +369,86 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9958626702493548,
-    "home_score": 0.7381,
+    "freshness_score": 0.9085160100562073,
+    "home_score": 0.6988,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c77c9c30a2c002c444ffeb80272bbaffdbcc0151",
+    "title": "Hideo Kojima Being Turned Into a Nendoroid Figure",
+    "url": "https://www.siliconera.com/hideo-kojima-being-turned-into-a-nendoroid-figure/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-06T02:45:00Z",
+    "summary": "Hideo Kojima is getting his very own Nendoroid, and a Death Stranding 2 Sam Bridges figma figure is on the way too",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9432179725362014,
+    "home_score": 0.6974,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "59825a6138b742272962ce38544bc26fe5a5d716",
+    "title": "Final Fantasy VII Revelation save data bonus revealed for Final Fantasy VII Remake Intergrade and Rebirth",
+    "url": "https://www.rpgsite.net/news/20561-final-fantasy-vii-revelation-save-data-bonus-ff7-remake-intergrade-rebirth-list",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-06T06:56:03Z",
+    "summary": "If you have Final Fantasy VII Remake Intergrade and Rebirth save data on the same platform, you can unlock exclusive DLC in Final Fantasy VII Revelation",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9996553874673898,
+    "home_score": 0.6973,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4b338b01ebf940cfb0fa10b0f2b85ae2b6b3e6bd",
+    "title": "Wuthering Waves x Cyberpunk: Edgerunners collaboration gets new trailer during Summer Game Fest",
+    "url": "https://www.rpgsite.net/news/20559-wuthering-waves-x-cyberpunk-edgerunners-collaborationsummer-game-fest-2026-trailer-new-lucy-story",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-06T05:51:34Z",
+    "summary": "The trailer arrives a few days before the Wuthering Waves x Cyberpunk: Edgerunners goes live in update 3",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9848446449169115,
+    "home_score": 0.6967,
+    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -968,9 +476,89 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8044074395857725,
-    "home_score": 0.7275,
+    "freshness_score": 0.7338532984868965,
+    "home_score": 0.6957,
     "source_quality": 0.72,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b3ef01a4984498ad94f95fbb902d26864e321891",
+    "title": "Final Fantasy 7 Revelation - Official Reveal Trailer | IGN Summer of Gaming 2026 - IGN Southeast Asia",
+    "url": "https://sea.ign.com/final-fantasy-vii-remake-part-3/243718/final-fantasy-7-revelation-official-reveal-trailer-ign-summer-of-gaming-2026",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-05T23:10:06Z",
+    "summary": "Final Fantasy 7 Revelation - Official Reveal Trailer | IGN Summer of Gaming 2026 IGN Southeast Asia",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.2,
+    "freshness_score": 0.8974446154854433,
+    "home_score": 0.6939,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c2f004cb1a26b710ad30b94cb3d0ee1ba5206dc0",
+    "title": "Lumentale: Memories of Trey Review",
+    "url": "https://rpgamer.com/review/lumentale-memories-of-trey-review/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-06T01:55:12Z",
+    "summary": "Split in Two like Talea Sometimes indie studios dream bigger than the make-believe worlds they create",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9324069473155573,
+    "home_score": 0.6896,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "81555f17fef483173fd915490e0dc43fd3701fe0",
+    "title": "Novelbright Shares The Ramparts of Ice Opening Song Anime Version Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/6/6/the-ramparts-of-ice-opening-song-anime-version-music-video-novelbright",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-06T02:09:00Z",
+    "summary": "The song reached number 47 on the weekly singles chart",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.935390086005386,
+    "home_score": 0.6894,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -995,11 +583,129 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9833816142944721,
-    "home_score": 0.7265,
+    "freshness_score": 0.8971297042032492,
+    "home_score": 0.6877,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4563e04022f76b7f31a14de03632058a1db4451e",
+    "title": "Eve Releases Witch Hat Atelier Opening Song Special Anime Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/6/6/witch-hat-atelier-opening-song-special-anime-music-video-eve",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-06T01:33:00Z",
+    "summary": "Bug Films-animated fantasy is now available on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9276275564826401,
+    "home_score": 0.6859,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "79747dc21832f818f3bc5798bd0f0f760d216384",
+    "title": "Summer Game Fest 2026 Spotlights Resident Evil Veronica, Final Fantasy VII Revelation and More",
+    "url": "https://crunchyroll.com/news/latest/2026/6/6/summer-game-fest-2026-roundup-final-fantasy-vii-revelation-resident-evil-veronica",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-06T01:23:00Z",
+    "summary": "A hot summer for video games gets even hotter!",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9254827529478152,
+    "home_score": 0.685,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e7e5aab6c85fde864237adfd1cd50e3efb5d3357",
+    "title": "Final Fantasy VII Revelation Trailer Unveils the Last Remake Entry",
+    "url": "https://monstervine.com/2026/06/final-fantasy-vii-revelation-trailer/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-06-06T05:10:52Z",
+    "summary": "To close out this year\u2019s Summer Game Fest Showcase, Square Enix finally showed off the final entry in the Final Fantasy VII remake trilogy \u2014 Final Fantasy VII Revelation",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.97560938572133,
+    "home_score": 0.682,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "41bfdb4a9b7bd54b8c40d3a922e6fafa0d8feb8c",
+    "title": "Nowlu Releases Star Blazers: Space Battleship Yamato 3199 Anime Chapter 6 Ending Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/6/6/star-blazers-space-battleship-yamato-3199-anime-chapter-6-ending-song-music-video-nowlu",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-06T00:34:00Z",
+    "summary": "The sixth installment of the seven-chapter series opens on June 26",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9150446874522598,
+    "home_score": 0.6803,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 26",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1023,8 +729,34 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9906743968773306,
-    "home_score": 0.7188,
+    "freshness_score": 0.9037828012007207,
+    "home_score": 0.6797,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c30cc1fe0d68016fb69bfaec7db9f7ba4e5e9661",
+    "title": "New Stellar Blade Game Is Blood Rain and Stars Evie",
+    "url": "https://www.siliconera.com/new-stellar-blade-game-is-blood-rain-and-stars-evie/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-05T23:35:00Z",
+    "summary": "The new Stellar Blade sequel called Blood Rain showed up at Summer Game Fest 2026 and introduced Evie",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9026328827206602,
+    "home_score": 0.6792,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1049,8 +781,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9959510689102641,
-    "home_score": 0.7182,
+    "freshness_score": 0.908596655668472,
+    "home_score": 0.6789,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1078,35 +810,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9959164655527049,
-    "home_score": 0.7182,
+    "freshness_score": 0.9085650870155845,
+    "home_score": 0.6789,
     "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c30cc1fe0d68016fb69bfaec7db9f7ba4e5e9661",
-    "title": "New Stellar Blade Game Is Blood Rain and Stars Evie",
-    "url": "https://www.siliconera.com/new-stellar-blade-game-is-blood-rain-and-stars-evie/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:35:00Z",
-    "summary": "The new Stellar Blade sequel called Blood Rain showed up at Summer Game Fest 2026 and introduced Evie",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9894139229823491,
-    "home_score": 0.7182,
-    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1129,8 +835,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9958242458177888,
-    "home_score": 0.7181,
+    "freshness_score": 0.9084809556808052,
+    "home_score": 0.6788,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1157,37 +863,38 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.988269428747309,
-    "home_score": 0.7177,
+    "freshness_score": 0.9015887714687458,
+    "home_score": 0.6787,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "8566c83f1f024558b795bb275fe25f5cf3ad2e66",
-    "title": "Final Fantasy VII Remake Part 3 confirmed to be Final Fantasy VII Revelation, Spring 2027 release",
-    "url": "https://www.rpgsite.net/news/20542-final-fantasy-vii-remake-part-3-revelation-ff7r-part-3",
-    "source_name": "RPG Site",
+    "id": "10e3f6953b3e3197a1ff74e1afc09dab30382e58",
+    "title": "Tifa enters Street Fighter 6 Year 4 in 2027 with new Materia system",
+    "url": "https://esports.gg/news/street-fighter-6/street-fighter-6-year-4-characters-tifa-materia/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-06-05T23:32:49Z",
-    "summary": "Final Fantasy VII Revelation is coming to PS5, Xbox, Switch 2, and PC",
+    "published_at": "2026-06-05T23:12:00Z",
+    "summary": "The Street Fighter 6 Year 4 characters are Tifa, Yasmine, Arjun and Bosch",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "events"
+      "esports",
+      "games"
     ],
     "tags": [],
     "entity_tags": [
-      "Final Fantasy"
+      "Street Fighter 6"
     ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9889137617450714,
-    "home_score": 0.7165,
-    "source_quality": 0.81,
-    "image_url": null,
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8978395214744639,
+    "home_score": 0.676,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1211,9 +918,37 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9814302044037034,
-    "home_score": 0.7146,
+    "freshness_score": 0.8953494250289238,
+    "home_score": 0.6759,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4de299cb333ba6c75c2aad23fe13f22b9f79906e",
+    "title": "Square Enix announces Final Fantasy VII Revelation, the conclusion in its trilogy - Digitally Downloaded",
+    "url": "https://www.digitallydownloaded.net/2026/06/square-enix-announces-final-fantasy-vii-revelation.html",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-06T00:30:04Z",
+    "summary": "Square Enix announces Final Fantasy VII Revelation, the conclusion in its trilogy Digitally Downloaded",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.914211741967448,
+    "home_score": 0.6754,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1236,8 +971,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9874611270047914,
-    "home_score": 0.7144,
+    "freshness_score": 0.9008513620075961,
+    "home_score": 0.6754,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1261,8 +996,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9874268376163124,
-    "home_score": 0.7143,
+    "freshness_score": 0.9008200800736079,
+    "home_score": 0.6754,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1296,36 +1031,38 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9757670306912273,
-    "home_score": 0.7121,
+    "freshness_score": 0.8901829655134551,
+    "home_score": 0.6736,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "c885631cd965bc50f544bdd5e05de7506e445cbc",
-    "title": "MMORPG Aion 2 Launches Globally on PC This September",
-    "url": "https://noisypixel.net/aion-2-global-launch-september-steam-purple/",
-    "source_name": "Noisy Pixel",
+    "id": "1cb16e9f9bba505cdfd576de90abefd22dd029b2",
+    "title": "Final Fantasy 7 Revelation reveals new voice actor",
+    "url": "https://nintendoeverything.com/final-fantasy-7-revelation-sephiroth-new-voice-actor/",
+    "source_name": "Nintendo Everything",
     "source_type": "rss",
-    "published_at": "2026-06-05T23:04:18Z",
-    "summary": "NC has announced that its MMORPG Aion 2 will launch globally on PC this September via Steam and the company\u2019s PURPLE platform",
+    "published_at": "2026-06-06T02:50:18Z",
+    "summary": "Original: A new voice actor will play the part of Sephiroth in Final Fantasy 7 Revelation, it\u2019s been revealed",
     "content": "",
     "categories": [
       "games",
       "anime",
       "merch"
     ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
+    "tags": [
+      "jrpg"
     ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9824073400446963,
-    "home_score": 0.7111,
-    "source_quality": 0.78,
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.944375634806649,
+    "home_score": 0.6725,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1348,67 +1085,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9987597853469464,
-    "home_score": 0.7104,
+    "freshness_score": 0.91115906666668,
+    "home_score": 0.671,
     "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6d6ea3ede06a779972e6b071bbe4b9515b7a1e2b",
-    "title": "Final Fantasy VII Revelation Gets Spring 2027 Release Window for Consoles and PC",
-    "url": "https://noisypixel.net/final-fantasy-vii-revelation-spring-2027-release-window/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:14:02Z",
-    "summary": "Square Enix has officially announced Final Fantasy VII Revelation, the third and final entry in the Final Fantasy VII Remake project, set to be released for PlayStation 5, Switch 2",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9846232863607556,
-    "home_score": 0.7101,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ec5cca72785d66d3637de30cb0b99dd9830513c2",
-    "title": "Street Fighter 6 Year 4 DLC Adds Tifa, Bosch, Yasmine, and Arjun",
-    "url": "https://noisypixel.net/street-fighter-6-year-4-dlc-tifa-bosch-yasmine-arjun/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-05T22:54:35Z",
-    "summary": "Capcom has officially announced the Year 4 DLC Roster for Street Fighter 6, which will also include the second protagonist of the World Tour Mode, Bosch",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9802001625178316,
-    "home_score": 0.7081,
-    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1432,51 +1111,21 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9656555432794659,
-    "home_score": 0.7075,
+    "freshness_score": 0.8809583517417989,
+    "home_score": 0.6694,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "248e0feafffb843fd2eba8d6fd7e01e82a49f898",
-    "title": "Final Fantasy 7 Revelation revealed for Nintendo Switch 2",
-    "url": "https://nintendoeverything.com/final-fantasy-7-revelation-revealed/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-05T22:50:46Z",
-    "summary": "Although everyone knew this would be coming at some point, Square Enix just revealed Final Fantasy 7 Revelation",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9793345459638759,
-    "home_score": 0.7062,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
     "id": "88f0ab3420d15f8afc59a7babae5b0e2dd526e25",
-    "title": "\u2018Final Fantasy VII: Revelation\u2019 Set to Conclude Remake Game Trilogy in 2027; Matthew Mercer Joins Voice Cast - Variety",
+    "title": "\u2018Final Fantasy VII: Revelation\u2019 Set to Conclude Remake Game Trilogy in 2027, First Trailer Revealed - Variety",
     "url": "https://variety.com/2026/gaming/news/final-fantasy-7-revelation-trailer-release-matthew-mercer-1236768349/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
     "published_at": "2026-06-05T23:01:00Z",
-    "summary": "\u2018Final Fantasy VII: Revelation\u2019 Set to Conclude Remake Game Trilogy in 2027; Matthew Mercer Joins Voice Cast Variety",
+    "summary": "\u2018Final Fantasy VII: Revelation\u2019 Set to Conclude Remake Game Trilogy in 2027, First Trailer Revealed Variety",
     "content": "",
     "categories": [
       "games",
@@ -1488,8 +1137,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9816567223978503,
-    "home_score": 0.7057,
+    "freshness_score": 0.8955561503882561,
+    "home_score": 0.667,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1516,36 +1165,10 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9845546999067158,
-    "home_score": 0.7055,
+    "freshness_score": 0.8981998975585876,
+    "home_score": 0.6667,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/final-fantasy-vii-revelation-won-t-be-a-console-exclusive-on-launch.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "639979f07bca9def21cbac62294082eed9823b50",
-    "title": "Resident Evil Veronica Remake Arrives in 2027",
-    "url": "https://www.siliconera.com/resident-evil-veronica-remake-arrives-in-2027/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-05T21:20:00Z",
-    "summary": "Code Veronica is coming back via a reimagining, as a remake called Resident Evil Veronica is on the way next year",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9589728295595188,
-    "home_score": 0.7045,
-    "source_quality": 0.82,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1568,8 +1191,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9489250514760248,
-    "home_score": 0.699,
+    "freshness_score": 0.865695309265012,
+    "home_score": 0.6616,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -1585,65 +1208,28 @@
     "result_type": "article"
   },
   {
-    "id": "de29782ac57dbf70fcebff3f7922d799f52f32f8",
-    "title": "Dorohedoro Season 2 Gets Striking Animated Music Video for Ending Song \u201cReturn to Head\u201d",
-    "url": "https://anitrendz.net/news/2026/06/05/dorohedoro-season-2-gets-striking-animated-music-video-for-ending-song-return-to-head/?utm_source=rss&utm_medium=rss&utm_campaign=dorohedoro-season-2-gets-striking-animated-music-video-for-ending-song-return-to-head",
-    "source_name": "Anime Trending",
+    "id": "40ddee2835ecdd4a9c77db7bfd7fc24b42b14c83",
+    "title": "Final Fantasy VII Revelation arrives in Spring 2027 - GadgetMatch",
+    "url": "https://www.gadgetmatch.com/final-fantasy-vii-revelation-spring-2027/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-05T17:51:36Z",
-    "summary": "The Dorohedoro Season 2 ending song \"Return to Head\" (by (K)NoW_NAME) has been given an animated music video with a striking, high-contrast color palette",
+    "published_at": "2026-06-06T02:06:47Z",
+    "summary": "Final Fantasy VII Revelation arrives in Spring 2027 GadgetMatch",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "events"
+      "games"
     ],
     "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
+    "entity_tags": [
+      "Final Fantasy"
     ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.913808883715892,
-    "home_score": 0.6982,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9b6a3a0bba1b2162a41fa2d4c34c5e6116f41a0c",
-    "title": "Star Wars Zero Company releases on August 27",
-    "url": "https://www.rpgsite.net/news/20552-star-wars-zero-company-releases-on-august-27",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-06T00:13:08Z",
-    "summary": "Utilize the high ground against Anakin Skywalker in this turn-based tactics RPG",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9981860613263549,
-    "home_score": 0.6967,
-    "source_quality": 0.81,
+    "freshness_score": 0.9349100541469767,
+    "home_score": 0.6607,
+    "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 27",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1667,11 +1253,97 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9058899799638326,
-    "home_score": 0.6962,
+    "freshness_score": 0.8264348178071622,
+    "home_score": 0.6604,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6aec457caed7bd48eeaec989fb8e2391e5cf344b",
+    "title": "Guild Wars 3 announced",
+    "url": "https://nichegamer.com/guild-wars-3-announced/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-06-05T21:43:50Z",
+    "summary": "Publisher NCSOFT and developer ArenaNet have announced Guild Wars 3, a new successor to their beloved MMORPG series",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8797013898562784,
+    "home_score": 0.6584,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d27f85f7fc26dcc8fc022a4edc9d9badc64f4bc1",
+    "title": "Final Fantasy VII Revelation announced, coming spring 2027, launches simultaneously on all platforms - TweakTown",
+    "url": "https://www.tweaktown.com/news/112055/final-fantasy-vii-revelation-announced-coming-spring-2027-launches-simultaneously-on-all-platforms/index.html",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-06T01:38:03Z",
+    "summary": "Final Fantasy VII Revelation announced, coming spring 2027, launches simultaneously on all platforms TweakTown",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9287123755792333,
+    "home_score": 0.6579,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9b6a3a0bba1b2162a41fa2d4c34c5e6116f41a0c",
+    "title": "Star Wars Zero Company releases on August 27",
+    "url": "https://www.rpgsite.net/news/20552-star-wars-zero-company-releases-on-august-27",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-06T00:13:08Z",
+    "summary": "Utilize the high ground against Anakin Skywalker in this turn-based tactics RPG",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9106356341661208,
+    "home_score": 0.6573,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "August 27",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1691,8 +1363,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9959319100891121,
-    "home_score": 0.6957,
+    "freshness_score": 0.908579193551502,
+    "home_score": 0.6564,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -1715,8 +1387,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9952366923169421,
-    "home_score": 0.6954,
+    "freshness_score": 0.9079449529310797,
+    "home_score": 0.6561,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
@@ -1744,62 +1416,36 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9918481963990944,
-    "home_score": 0.6938,
+    "freshness_score": 0.9048536617099853,
+    "home_score": 0.6547,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "372173feacf622bbd0c8d80913bd6c485447a604",
-    "title": "Play like TenZ: Crosshair, sensitivity, settings, and more",
-    "url": "https://esports.gg/news/valorant/tenzs-valorant-crosshair-settings-and-video-settings/",
-    "source_name": "Esports.gg",
+    "id": "1c106df23275550aa2df2d4649b8e4083824732f",
+    "title": "From $1.5M contracts to players paying their own $2K transfer fees, a damning indictment of the Call of Duty League economics",
+    "url": "https://esportsinsider.com/2026/06/call-of-duty-league-financial-issues",
+    "source_name": "Esports Insider",
     "source_type": "rss",
-    "published_at": "2026-06-05T16:11:50Z",
-    "summary": "Channel TenZ into your comp VALORANT games with his crosshair, mouse sens, and setup",
+    "published_at": "2026-06-05T16:10:43Z",
+    "summary": "From multi-million-dollar deals and record-high transfers for League superstars just six years ago, to minimum-wage contracts and players \u201cbuying\u201d their own transfer fees out, the",
     "content": "",
     "categories": [
       "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.8929471068922701,
-    "home_score": 0.6938,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "84fca422fc7839ae6655d155cf96af2278a87299",
-    "title": "Action RPG \u2018Swords of Legends\u2019 Trailer Showcases Kong Kong Zi Boss and Spirit Companion System",
-    "url": "https://noisypixel.net/aurogon-shanghai-has-revealed-new-swords-of-legends-gameplay-featuring-the-illusion-wielding-kong-kong-zi-boss-and-the-spirit-companion-system/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:24:39Z",
-    "summary": "Developer Aurogon Shanghai showcased a new gameplay trailer for their upcoming action RPG Swords of Legends, ahead of its arrival on PlayStation 5, Xbox Series X|S, and PC via Stea",
-    "content": "",
-    "categories": [
       "games",
-      "anime",
-      "merch"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9870460371640603,
-    "home_score": 0.6932,
-    "source_quality": 0.78,
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8144165675774055,
+    "home_score": 0.652,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1821,8 +1467,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.987560187726661,
-    "home_score": 0.6904,
+    "freshness_score": 0.9009417343255803,
+    "home_score": 0.6514,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1859,9 +1505,192 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9990794122688724,
-    "home_score": 0.6896,
+    "freshness_score": 0.9114507093349414,
+    "home_score": 0.6502,
     "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4a15e981afe055f69c6853526c88cfe060f1aee2",
+    "title": "10 Anime Like The Backrooms, From Sonny Boy to Deadman Wonderland",
+    "url": "https://crunchyroll.com/news/features/2026/6/5/anime-like-backrooms",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-05T19:00:00Z",
+    "summary": "The perfect anime to fill that liminal space in your watchlist",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8469639119920136,
+    "home_score": 0.6496,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4fbefe6c561d6bd9c36d738318f4cc1a75019fe8",
+    "title": "Prelude Dark Pain Demo Available",
+    "url": "https://rpgamer.com/2026/06/prelude-dark-pain-demo-available/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-05T18:08:10Z",
+    "summary": "Publisher Firesquid Games and developer Quickfire Games have released a demo for dark fantasy tactical RPG Prelude Dark Pain",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8368624431642413,
+    "home_score": 0.6466,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3ee7cc31ee46edcffd65d2e24013c98e5c2ec0b7",
+    "title": "Koshmar: The Last Reverie Gets Gameplay Trailer",
+    "url": "https://rpgamer.com/2026/06/koshmar-the-last-reverie-gets-gameplay-trailer/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-05T18:08:02Z",
+    "summary": "Developer Purple Ray Studio released a gameplay trailer for Koshmar: The Last Reverie",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8368366104716973,
+    "home_score": 0.6466,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d6b6ec416d1a8fb244f8c19aa7af6d0d82e88d63",
+    "title": "Taste of Heaven Releasing Early Next Year",
+    "url": "https://rpgamer.com/2026/06/taste-of-heaven-releasing-early-next-year/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-05T18:07:51Z",
+    "summary": "Thousand Generation and Chromatic Dream announced that cooking RPG Taste of Heaven is planned to release in early 2027",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8368010940006455,
+    "home_score": 0.6466,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "df0f619b2030d284f088d8921910e9ba1dd2a25e",
+    "title": "Final Fantasy VII Revelation officially announced, launches in Spring 2027 on all platforms - GosuGamers",
+    "url": "https://www.gosugamers.net/entertainment/news/78558-final-fantasy-vii-revelation-officially-announced-launches-in-spring-2027-on-all-platforms",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-05T23:33:42Z",
+    "summary": "Final Fantasy VII Revelation officially announced, launches in Spring 2027 on all platforms GosuGamers",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.902360730862211,
+    "home_score": 0.6461,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "386aecf384f288e7dd2feab855a60e8675808660",
+    "title": "Final Fantasy VII Revelation announced",
+    "url": "https://nichegamer.com/final-fantasy-vii-revelation-announced/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-06-05T22:45:44Z",
+    "summary": "Square Enix has officially announced/revealed Final Fantasy VII Revelation, the final entry in their Final Fantasy VII remake trilogy",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8923971141684267,
+    "home_score": 0.6461,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ee688c6096516e95323810ab119af711004cc92f",
+    "title": "Street Fighter 6 reveals Year 4 DLC characters including Tifa from Final Fantasy VII",
+    "url": "https://nichegamer.com/street-fighter-6-reveals-year-4-dlc-characters-including-tifa-from-final-fantasy-vii/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-06-05T22:40:51Z",
+    "summary": "Capcom announced Street Fighter 6 Year 4 DLC characters, the latest additions to their flagship fighting game",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Street Fighter 6",
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8913889150846562,
+    "home_score": 0.6456,
+    "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
