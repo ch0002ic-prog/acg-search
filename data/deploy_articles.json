@@ -38,6 +38,40 @@
     "result_type": "event"
   },
   {
+    "id": "c5685df832a2c81229032c71242553c46d4809fe",
+    "title": "Persona 4 Revival Remake Arrives in 2027",
+    "url": "https://www.siliconera.com/persona-4-revival-remake-arrives-in-2027/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-07T17:19:25Z",
+    "summary": "Atlus brought Persona 4 Revival to SGF 2026 and shared more details and a new trailer for the upcoming JRPG remake",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "singapore",
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9493264688565832,
+    "home_score": 0.8252,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "d958943683b299952c291ef741715e325d40f62e",
     "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
     "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
@@ -79,6 +113,40 @@
       "merch_status": null
     },
     "result_type": "event"
+  },
+  {
+    "id": "432a284b66f4b9ea2707b1ebc4db14fac18f3c2c",
+    "title": "Atlus Unveils \u2018Persona 6\u2019, Sets \u2018Persona 4 Revival\u2019 Remake For Feb 2027",
+    "url": "https://geekculture.co/atlus-unveils-persona-6-sets-persona-4-revival-remake-for-feb-2027/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:53:32Z",
+    "summary": "Atlus Unveils \u2018Persona 6\u2019, Sets \u2018Persona 4 Revival\u2019 Remake For Feb 2027 is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.970235278932258,
+    "home_score": 0.8066,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
   },
   {
     "id": "88291822aa950a33e98928b768e5207bca82195d",
@@ -622,8 +690,8 @@
       "SEA"
     ],
     "sg_relevance": 0.28,
-    "freshness_score": 0.999621302055965,
-    "home_score": 0.7898,
+    "freshness_score": 0.9194939720085837,
+    "home_score": 0.7538,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -639,19 +707,19 @@
     "result_type": "article"
   },
   {
-    "id": "e8056d6bb06dbacc5d66a576037c355de51931e7",
-    "title": "5 Hidden Gems From the Spring 2026 Anime Season",
-    "url": "https://crunchyroll.com/news/features/2026/6/7/spring-2026-anime-hidden-gems",
-    "source_name": "Crunchyroll News",
+    "id": "898f3b09c91ee010940386e192a0fe5a0865bd85",
+    "title": "Fable Reboot Gets Firm Release Date",
+    "url": "https://rpgamer.com/2026/06/fable-reboot-gets-firm-release-date/",
+    "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-06-07T15:00:00Z",
-    "summary": "With such a stacked anime season, some series may have slipped through the cracks",
+    "published_at": "2026-06-07T19:57:08Z",
+    "summary": "Xbox Game Studios and Playground Games announced a firm release date for the upcoming Fable reboot",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
       "games",
-      "events"
+      "anime",
+      "events",
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
@@ -659,9 +727,381 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9992780135316666,
-    "home_score": 0.7382,
+    "freshness_score": 0.9846251416328529,
+    "home_score": 0.7331,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "February 23, 2027",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "a5cf8cee5990f34d0608d23246f50c7c3b7c9006",
+    "title": "Persona 4 Revival Reveals February 2027 Release Date - IGN Southeast Asia",
+    "url": "https://sea.ign.com/persona-4-revival/243857/persona-4-revival-reveals-february-2027-release-date",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:02:54Z",
+    "summary": "Persona 4 Revival Reveals February 2027 Release Date IGN Southeast Asia",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.2,
+    "freshness_score": 0.9589297031126018,
+    "home_score": 0.7215,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2409ed0b4ba93305f6729e7389c425c83dfc46f3",
+    "title": "Citizen Sleeper Creator Announces Fungal Punk Narrative RPG \u2018Signet City\u2019",
+    "url": "https://noisypixel.net/signet-city-announced-fungal-punk-rpg/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-07T20:45:18Z",
+    "summary": "Publisher Fellow Traveller and developer Jump Over the Age have announced the fungal punk first-person narrative RPG Signet City, set to be released for PC via Steam, GOG, and the",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9956648735476288,
+    "home_score": 0.715,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b083c668e430f716ec7266e7d09ab54f162f1da2",
+    "title": "Where Winds Meet Launches on Xbox as Hidden Mountain Expansion Is Revealed",
+    "url": "https://noisypixel.net/where-winds-meet-xbox-launch-hidden-mountain-expansion/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-07T20:34:27Z",
+    "summary": "Developer Everstone Studio has released its free-to-play open-world action RPG Where Winds Meet for Xbox Series X|S and PC via the Microsoft Store",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9931673230974218,
+    "home_score": 0.7139,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "91e34d65dd70346512e130aa58eed82d7a40524f",
+    "title": "Persona 6 Revealed",
+    "url": "https://rpgamer.com/2026/06/persona-6-revealed/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:57:59Z",
+    "summary": "Atlus confirmed that it is currently working on Persona 6",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.984818911859066,
+    "home_score": 0.7132,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "073be8891f4d20ea1c1482070e715f482d0186df",
+    "title": "Persona 4 Revival Arriving in February",
+    "url": "https://rpgamer.com/2026/06/persona-4-revival-arriving-in-february/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:57:23Z",
+    "summary": "Atlus announced that Persona 4 Revival , its newest remake of Persona 4 , will release on February 19, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.984682133966612,
+    "home_score": 0.7131,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "February 19, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "33a043be76c1e69fa19970521c03a3391536e9dd",
+    "title": "Bellwright Coming to Consoles This Week",
+    "url": "https://rpgamer.com/2026/06/bellwright-coming-to-consoles-this-week/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:56:55Z",
+    "summary": "Donkey Crew and Snail Games announced that open-world survival RPG Bellwright will release for PlayStation 5 and Xbox Series X|S on June 9, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9845757550354238,
+    "home_score": 0.7131,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 9, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "8653bbc56dbc9a18a45fb15c049815a191a0dbc8",
+    "title": "Persona 6 Video Game Officially Announced",
+    "url": "https://crunchyroll.com/news/latest/2026/6/7/persona-6-persona-4-revival-video-game-announcements",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-07T20:09:00Z",
+    "summary": "Persona 4 Revival also releases on February 18, 2027",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9873334326783944,
+    "home_score": 0.7128,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "February 18, 2027",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4802af66620eea4d698e86bf8dc07e947430d22d",
+    "title": "A Returner\u2019s Magic Should Be Special Season 2 Reveals October 2026 Start, Teaser Visual",
+    "url": "https://anitrendz.net/news/2026/06/07/a-returners-magic-should-be-special-season-2-reveals-october-2026-start-teaser-visual/?utm_source=rss&utm_medium=rss&utm_campaign=a-returners-magic-should-be-special-season-2-reveals-october-2026-start-teaser-visual",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-07T16:31:16Z",
+    "summary": "An October broadcast start window and teaser visual for A Returner\u2019s Magic Should Be Special Season 2 have been revealed",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9388037518875266,
+    "home_score": 0.7095,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2ccab427e053e3f94d45784d9484cbbdbeadcc5e",
+    "title": "Vampire Narrative RPG \u2018Red Kiss\u2019 Announced for PC",
+    "url": "https://noisypixel.net/red-kiss-vampire-rpg-announced-pc/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:46:46Z",
+    "summary": "Publisher Fellow Traveller and Dutch developer Wispfire have announced their vampire narrative RPG Red Kiss, which is currently in development for PC via Steam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.982265208557077,
+    "home_score": 0.709,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fdbd94077a6130889b679dbb92c990be73352275",
+    "title": "Persona 4 Revival Release Date Revealed \u2013 Atlus Confirms February 2027 Launch - vice.com",
+    "url": "https://www.vice.com/en/article/persona-4-revival-release-date-revealed-atlus-confirms-february-2027-launch/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:40:06Z",
+    "summary": "Persona 4 Revival Release Date Revealed \u2013 Atlus Confirms February 2027 Launch vice",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9807501722515348,
+    "home_score": 0.7053,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a8761c514c012f03a22b5bae779e713bdb47cfeb",
+    "title": "Castlevania: Belmont\u2019s Curse Release Date Set",
+    "url": "https://www.siliconera.com/castlevania-belmonts-curse-release-date-set/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:10:06Z",
+    "summary": "The release date for Castlevania: Belmont's Curse is set, and we'll head out on a new adventure with Rose in October",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9605298055174486,
+    "home_score": 0.7052,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c3af039b1bbfcbc51c9aa339df77c6577a42bc0f",
+    "title": "Persona 6 Announced",
+    "url": "https://www.siliconera.com/persona-6-announced/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:02:00Z",
+    "summary": "Atlus officially announced Persona 6 and offered us a first look at a PS5, Xbox Series X, and PC teaser trailer for the new JRPG",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9587304957802307,
+    "home_score": 0.7044,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -689,11 +1129,153 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.7363527963760899,
-    "home_score": 0.7294,
+    "freshness_score": 0.6773284389182058,
+    "home_score": 0.7028,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e8056d6bb06dbacc5d66a576037c355de51931e7",
+    "title": "5 Hidden Gems From the Spring 2026 Anime Season",
+    "url": "https://crunchyroll.com/news/features/2026/6/7/spring-2026-anime-hidden-gems",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-07T15:00:00Z",
+    "summary": "With such a stacked anime season, some series may have slipped through the cracks",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9191782166771177,
+    "home_score": 0.7021,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6dbd1cf31e0516881f78ae40bde6ea23ef5452af",
+    "title": "Wo Long 2: Wings of Ember Appears in 2027",
+    "url": "https://www.siliconera.com/wo-long-2-wings-of-ember-appears-in-2027/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-07T17:37:01Z",
+    "summary": "A first trailer appeared for the Wo Long 2: Wings of Ember sequel as part of the Sunday Summer Game Fest 2026 reveals",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9532019858646634,
+    "home_score": 0.7019,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "43455863cde6bbc56b4dce28e59e4cca41e748eb",
+    "title": "SlashZero Gameplay Trailer Highlights Roguelike Action",
+    "url": "https://noisypixel.net/slashzero-gameplay-trailer-roguelike-action-platformer/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-07T20:49:07Z",
+    "summary": "Publisher Skystone Games and developer Streetlamp Studio have unveiled a new gameplay trailer for their 3D anime-styled roguelike action platformer, SlashZero",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9965449220335991,
+    "home_score": 0.6974,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a93e7c41694ff0d426a6eceac667184cd76dd76e",
+    "title": "Persona 6 has been confirmed - Instant Gaming News",
+    "url": "https://news.instant-gaming.com/en/articles/20023-persona-6-has-been-confirmed",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:08:36Z",
+    "summary": "Persona 6 has been confirmed Instant Gaming News",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9601957816634752,
+    "home_score": 0.6961,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "39139c2b594ad0ddfac048470f4a6bd647103451",
+    "title": "Persona 4 Revival DLC Guide \u2013 Deluxe Edition, Cosmetics, Bgm DLC, Personas, and More",
+    "url": "https://www.rpgsite.net/guide/20593-persona-4-revival-dlc-guide-all-editions-costumes-personas-premium-deluxe-collectors-edition-upgrade",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-07T20:31:56Z",
+    "summary": "Our Persona 4 Revival DLC guide covers all the editions, pre-order bonus, cosmetics, BGM packs, and more for PS5, Xbox, and Steam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9925889317247227,
+    "home_score": 0.6942,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
     "result_type": "article"
   },
   {
@@ -717,8 +1299,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9793549509782081,
-    "home_score": 0.7292,
+    "freshness_score": 0.900852140472798,
+    "home_score": 0.6939,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -744,21 +1326,109 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9741058292858703,
-    "home_score": 0.7283,
+    "freshness_score": 0.8960237728548617,
+    "home_score": 0.6932,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "7a67c867d6360b7047a79fefb97a74aff2ce2513",
-    "title": "Gunko Teases Her Abilities in One Piece Episode 1166 Preview Trailer",
-    "url": "https://animecorner.me/gunko-teases-her-abilities-in-one-piece-episode-1166-preview-trailer/",
+    "id": "18344e33943a7f357d0138073972c398cc336dee",
+    "title": "Wo Long 2: Wings of Ember Announced for PS5, Xbox, Switch 2, PC, and Game Pass in Early 2027",
+    "url": "https://noisypixel.net/wo-long-2-wings-of-ember-announced-early-2027/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:27:42Z",
+    "summary": "Koei Tecmo and Team Ninja have officially announced their action RPG Wo Long 2: Wings of Ember, set to be released in early 2027 for PlayStation 5, Xbox Series X|S, Nintendo Switch",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9779394533099703,
+    "home_score": 0.6891,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6f4160c4a0df25c274b36fa46c9c2c0a1eab3ef7",
+    "title": "Cassette Beasts 2002, a follow-up to the original Cassette Beasts, revealed for Nintendo Switch 2",
+    "url": "https://nintendoeverything.com/cassette-beasts-2002-a-follow-up-to-the-original-cassette-beasts-revealed-for-nintendo-switch-2/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:32:01Z",
+    "summary": "Cassette Beasts 2002 is in development for Nintendo Switch 2, Raw Fury and Cassette Beasts 2002 have revealed",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.978917124224465,
+    "home_score": 0.688,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6f1056ea249bb7c41f5af69219625532f9651e63",
+    "title": "Persona 4 Revival launches on February 18, 2027",
+    "url": "https://www.rpgsite.net/news/20578-persona-4-revival-release-date",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:21:21Z",
+    "summary": "Atlus reveals the release date and will launch pre-orders for P4R soon",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9765030516052152,
+    "home_score": 0.6869,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "February 18, 2027",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "563ab5f905c04e91d3e237cb90d0d19f3d9cfb72",
+    "title": "Aniplex Launches Mysterious Countdown Set to End on June 9",
+    "url": "https://animecorner.me/aniplex-launches-mysterious-countdown-set-to-end-on-june-9/",
     "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-06-07T14:49:42Z",
-    "summary": "Gunko Teases Her Abilities in One Piece Episode 1166 Preview Trailer",
+    "published_at": "2026-06-07T15:14:24Z",
+    "summary": "Aniplex Launches Mysterious Countdown Set to End on June 9",
     "content": "",
     "categories": [
       "anime",
@@ -770,10 +1440,187 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9968983522892798,
-    "home_score": 0.7186,
+    "freshness_score": 0.9222472897787533,
+    "home_score": 0.685,
     "source_quality": 0.8,
     "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 9",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "28e59f107466de64690c80b63c01932ac51390f3",
+    "title": "Persona 6 revealed for PS5, Xbox, and PC",
+    "url": "https://www.rpgsite.net/news/20590-persona-6-revealed-for-ps5-xbox-pc",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:54:01Z",
+    "summary": "Persona 6 revealed for PS5, Xbox, and PC is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9703440659385167,
+    "home_score": 0.6842,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "10f9ecbd0ed33cfeb365409b51e7817967545dd3",
+    "title": "Kaiju Girl Caramelise Drops New Main Trailer and Visual, Begins Airing on July 2",
+    "url": "https://anitrendz.net/news/2026/06/07/kaiju-girl-caramelise-drops-new-main-trailer-and-visual-begins-airing-on-july-2/?utm_source=rss&utm_medium=rss&utm_campaign=kaiju-girl-caramelise-drops-new-main-trailer-and-visual-begins-airing-on-july-2",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-07T15:33:31Z",
+    "summary": "The Kaiju Girl Caramelise TV anime has gotten a second main trailer and main visual, along with a July 2 broadcast start date",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9263372814647848,
+    "home_score": 0.6839,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 2",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "7a67c867d6360b7047a79fefb97a74aff2ce2513",
+    "title": "Gunko Teases Her Abilities in One Piece Episode 1166 Preview Trailer",
+    "url": "https://animecorner.me/gunko-teases-her-abilities-in-one-piece-episode-1166-preview-trailer/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-07T14:49:42Z",
+    "summary": "ONE PIECE revealed the preview for Episode 1166, with the Knight of God Gunko giving\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9169893004459048,
+    "home_score": 0.6826,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "550255096d4d4892ed0b3f970f6823baa8a3d02f",
+    "title": "Terrinoth: Heroes of Descent Review: An RPG That Streamlines Combat",
+    "url": "https://www.dualshockers.com/terrinoth-heroes-of-descent-review/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-06-07T19:01:13Z",
+    "summary": "A review of Terrinoth: Heroes of Descent, a new RPG game based on the board game of the Descent IP",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9719624882814408,
+    "home_score": 0.6819,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/terrinothheroesofdescent-keyart.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8e5d902d3c0c440db071437242e7b9c03be25d95",
+    "title": "9 Elden Ring Features that Redefined the Standard for Open World RPGs",
+    "url": "https://www.dualshockers.com/elden-ring-features-changed-expectations-open-world-rpgs/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:30:13Z",
+    "summary": "Elden Ring made history from the moment it was released",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9650127215839349,
+    "home_score": 0.6788,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/malenia-and-the-night-s-cavalry-in-front-of-a-blurred-image-of-leyndell-in-the-background-elden-ring.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "caecc62c1ab32563f82af7a28be73e24b1e69790",
+    "title": "Persona 6 Reveal Disappoints With Off-Brand Miniscule Announcement",
+    "url": "https://www.dualshockers.com/persona-6-reveal-disappoints-with-off-brand-miniscule-trailer/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:22:23Z",
+    "summary": "Atlus finally revealed Persona 6 during the Xbox Games Showcase 2026, and it was a massive disappointment, due to off-brand tone and short length",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9632644757470669,
+    "home_score": 0.678,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/persona-6-teaser-trailer-_-xbox-games-showcase-2026-1-12-screenshot.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -797,9 +1644,63 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9719026552086558,
-    "home_score": 0.7104,
+    "freshness_score": 0.8939971587683359,
+    "home_score": 0.6753,
     "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "790245f4f5cdb148e8fabcc74d60042405500ef3",
+    "title": "Persona 4 Revival Release Date Unveiled, But It Won't Be In 2026",
+    "url": "https://www.dualshockers.com/persona-4-revival-release-date-unveiled-but-it-wont-be-this-year/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-06-07T17:44:25Z",
+    "summary": "Persona 4 Revival finally received its release date during the Xbox Games Showcase 2026, but it's not coming out until next year at the earliest",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9548358394145066,
+    "home_score": 0.6742,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/persona-4-revival-midnight-channel.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9d7dd07761d6ed28589d21f473520d1311fd1357",
+    "title": "Persona 6 Is Coming With Graveyard Visuals And A Toxic Green Color Scheme - Engadget",
+    "url": "https://www.engadget.com/2189059/persona-6-is-coming-with-graveyard-visuals-and-a-toxic-green-color-scheme/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:26:47Z",
+    "summary": "Persona 6 Is Coming With Graveyard Visuals And A Toxic Green Color Scheme Engadget",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.964245874074863,
+    "home_score": 0.6739,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -825,8 +1726,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9975791673065038,
-    "home_score": 0.7099,
+    "freshness_score": 0.9176155488491525,
+    "home_score": 0.6739,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
@@ -851,8 +1752,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9786750782966983,
-    "home_score": 0.7089,
+    "freshness_score": 0.9002267648531063,
+    "home_score": 0.6736,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -865,33 +1766,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "441c7430cc1faeec955e0016db939d4475536f12",
-    "title": "Roguelike Action RPG \u2018Dinghai: The Ocean Pillar\u2019 Set for PC Release in 2026",
-    "url": "https://noisypixel.net/dinghai-the-ocean-pillar-pc-2026/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-07T13:23:24Z",
-    "summary": "Justdan has announced the roguelike action RPG based on the ancient Chinese text Classic of Mountains and Seas, Dinghai: The Ocean Pillar, planned for release on PC via Steam in 20",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9771811657446142,
-    "home_score": 0.7087,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -912,635 +1786,77 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9706882371796681,
-    "home_score": 0.7068,
+    "freshness_score": 0.8928801171957038,
+    "home_score": 0.6718,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "55e989c5511d1f6828a91d92ae184910c5605e59",
-    "title": "Dark Deity 3 announced for PC Steam",
-    "url": "https://www.rpgsite.net/news/20580-dark-deity-3-announced-for-pc-steam",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-07T12:16:18Z",
-    "summary": "Dark Deity 3 brings the conclusion to the tactical RPG trilogy",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9621204781823232,
-    "home_score": 0.7045,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f70294ecbefa8d828501d68c1075fe3875650ab2",
-    "title": "Kaiju Girl Caramelise New Trailer Features Opening Theme Song by METANICK",
-    "url": "https://animecorner.me/kaiju-girl-caramelise-new-trailer-features-opening-theme-songs/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-07T11:32:58Z",
-    "summary": "The new trailer for the upcoming Kaiju Girl Caramelise anime features the opening theme\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9525176958194291,
-    "home_score": 0.6986,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "17e7cbf19be3a39b84bcc9400c0d50d680b8abc3",
-    "title": "Dara-san of Reiwa Anime Reveals July 2 Debut in New Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/7/dara-san-of-reiwa-anime-reveals-july-2-debut-in-new-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-07T11:23:00Z",
-    "summary": "Additional cast and ending theme song performer revealed for horror comedy adaptation",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9503226388905939,
-    "home_score": 0.6961,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 2",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "5ee12d9ce8e6b6881228a92a940ba2746ce7aeb6",
-    "title": "Archetype Entertainment Showcases Exodus Gameplay",
-    "url": "https://rpgamer.com/2026/06/archetype-entertainment-showcases-exodus-gameplay/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-07T10:27:06Z",
-    "summary": "Archetype Entertainment released a gameplay showcase video for its upcoming sci-fi action RPG Exodus",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9381049405549513,
-    "home_score": 0.6921,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f94f20e223896ec00ee660393443fbe1f5f9fc12",
-    "title": "Thousand Hells: The Underworld Heists Releasing in Fall",
-    "url": "https://rpgamer.com/2026/06/thousand-hells-the-underworld-heists-releasing-in-fall/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-07T10:26:43Z",
-    "summary": "Developer A Sharp and publisher Kitfox Games announced that Thousand Hells: The Underworld Heists will release in fall 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.938021694250298,
-    "home_score": 0.6921,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "30bf37e41fd54110d0d03efe28e1108efe51330c",
-    "title": "Best MLBB names and IGN ideas for Mobile Legends",
-    "url": "https://esports.gg/news/mobile-legends-bang-bang/best-name-ideas-for-mlbb-players/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-06T22:35:18Z",
-    "summary": "Check out our list of the best names for MLBB players, including IGN ideas with special characters and aesthetic styles you can copy paste",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.32,
-    "freshness_score": 0.7955972857194674,
-    "home_score": 0.69,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f8e96b6653b57997d22d47bc222de75a61222289",
-    "title": "The Hearth and Harbour Releasing Later This Year",
-    "url": "https://rpgamer.com/2026/06/the-hearth-and-harbour-releasing-later-this-year/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-07T10:26:34Z",
-    "summary": "Publisher Fellow Traveler and developer Saltstone Studios announced that story-focused restaurant management RPG The Hearth and Harbour will release late this year",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9379891204130009,
-    "home_score": 0.6881,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "948996365d6b27e92671df996b837ea388f8e229",
-    "title": "The Villager of Level 999 Reveals Main Trailer and Visual, July 1 Start",
-    "url": "https://anitrendz.net/news/2026/06/07/the-villager-of-level-999-reveals-main-trailer-and-visual-july-1-start/?utm_source=rss&utm_medium=rss&utm_campaign=the-villager-of-level-999-reveals-main-trailer-and-visual-july-1-start",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-07T10:06:40Z",
-    "summary": "A main trailer for The Villager of Level 999 TV anime has been released",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9336780549786808,
-    "home_score": 0.6872,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 1",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "1b2f7f3869107fae2e0c41319ffa8e2d55af0f45",
-    "title": "Chronoscript: The Endless End Arriving in Fall",
-    "url": "https://rpgamer.com/2026/06/chronoscript-the-endless-end-arriving-in-fall/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-07T12:54:54Z",
-    "summary": "Publisher Shueisha Games and developer Deskworks announced that action adventure RPG Chronoscript: The Endless End will release for PC and PlayStation 5 in fall 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9707556553243261,
-    "home_score": 0.6828,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d890618f4f88f5d0e78aa4da2a525a7df69490c7",
-    "title": "Aniimo Releasing in Q3 2026, New Closed Beta Sign-Ups Begin",
-    "url": "https://rpgamer.com/2026/06/aniimo-releasing-in-q3-2026-new-closed-beta-sign-ups-begin/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-07T12:54:49Z",
-    "summary": "Pawprint Studio announced that its free-to-play creature-collecting RPG Aniimo is set to release in Q3 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9707369259319044,
-    "home_score": 0.6828,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "16979c8dee7b010d3650767e1f34a02a37d6dae6",
-    "title": "Final Fantasy 7 Remake Part 3 announced with Spring 2027 launch - KitGuru",
-    "url": "https://www.kitguru.net/gaming/joao-silva/final-fantasy-7-remake-part-3-announced-with-spring-2027-launch/",
+    "id": "ec12997c239c2c21212ba0c6a3cfd8649b6fa99d",
+    "title": "Persona 6\u2032 s Big Reveal Was\u2026Kind Of A Let-Down - Kotaku",
+    "url": "https://kotaku.com/persona-6-finally-officially-revealed-2000703045",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-07T13:49:09Z",
-    "summary": "Final Fantasy 7 Remake Part 3 announced with Spring 2027 launch KitGuru",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9830228276337403,
-    "home_score": 0.6824,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a73899771924b060f93e2ff3e8bdf6d5379d68ef",
-    "title": "Fatekeeper Preview: A Few Refinements Could Make This RPG Special",
-    "url": "https://www.dualshockers.com/fatekeeper-preview/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-06-07T13:00:15Z",
-    "summary": "Fatekeeper is a first-person RPG with a ton of potential, but Paraglacial needs to make some adjustments to allow it to truly shine",
+    "published_at": "2026-06-07T18:01:39Z",
+    "summary": "Persona 6\u2032 s Big Reveal Was\u2026Kind Of A Let-Down Kotaku",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9719585060557882,
-    "home_score": 0.6819,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/fatekeeper-keyart.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "09920f0d39fd56ad5c4103dc8d1b4a49c4c8eb8a",
-    "title": "Tons of new Final Fantasy 7 Revelation details",
-    "url": "https://nintendoeverything.com/tons-of-new-final-fantasy-7-revelation-details/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-07T12:17:01Z",
-    "summary": "A truckload of Final Fantasy 7 Revelation details have come in following this week\u2019s announcement",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
+      "anime"
     ],
     "tags": [
       "jrpg"
     ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9622800724615121,
-    "home_score": 0.6805,
-    "source_quality": 0.77,
+    "freshness_score": 0.9586522632349168,
+    "home_score": 0.6714,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "d93c6757ab6938db0b7615dc1e8809ad606509a6",
-    "title": "The Villager of Level 999 Anime Reveals July 1 Premiere Date in New Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/7/the-villager-of-level-999-anime-july-1-release-date-main-trailer-visual",
-    "source_name": "Crunchyroll News",
+    "id": "8242ab23a0dc5dff8ac5b505f6aec72213d3e24b",
+    "title": "Persona 6 exists, and that\u2019s all we know - The Verge",
+    "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-07T07:45:00Z",
-    "summary": "Crunchyroll will stream the fantasy series as it airs",
+    "published_at": "2026-06-07T18:00:41Z",
+    "summary": "Persona 6 exists, and that\u2019s all we know The Verge",
     "content": "",
     "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
+      "games"
     ],
-    "tags": [],
+    "tags": [
+      "jrpg"
+    ],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9035564458509479,
-    "home_score": 0.6751,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 1",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "b7579bf359e7cf5f8c9e6a1915be906f92656355",
-    "title": "Stage 2 at CS2 IEM Cologne Major 2026: Spirit, G2, and more join the fun",
-    "url": "https://esports.gg/news/counter-strike-2/cologne-major-2026-stage-2-details-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-07T06:38:25Z",
-    "summary": "It\u2019s time for some heavy hitters and very promising tournament winners to start their exciting journey at the Counter-Strike 2 (CS2) Cologne Major",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8897368091050494,
-    "home_score": 0.6724,
+    "freshness_score": 0.9584377782145842,
+    "home_score": 0.6713,
     "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "efc502e13444c559678593d7491fdee802836bbd",
-    "title": "New RPG Ithaca tackles big questions about environmental resistance",
-    "url": "https://nichegamer.com/ithaca-rpg-announced/",
+    "id": "092238ad5aff7b6c3e7d66464d6b839b49dd4d07",
+    "title": "Persona 4 Revival reveals release date and full trailer",
+    "url": "https://nichegamer.com/persona-4-revival-reveals-release-date-and-full-trailer/",
     "source_name": "Niche Gamer",
     "source_type": "rss",
-    "published_at": "2026-06-07T11:21:06Z",
-    "summary": "The Pixel Hunt, the studio behind the acclaimed narrative experience Bury Me, My Love, has revealed more details about its next project called Ithaca",
+    "published_at": "2026-06-07T17:10:11Z",
+    "summary": "Atlus has announced a release date for Persona 4 Revival, their new remake of their beloved RPG classic Persona 4 Golden",
     "content": "",
     "categories": [
       "games",
       "anime",
       "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9499048148210939,
-    "home_score": 0.672,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "07c02d7f2082624e56881c8752a7b003c053f7d8",
-    "title": "Zenless Zone Zero Version 3.0 Launches June 17, Begins Season 3 With New Region Roscaelifer",
-    "url": "https://animecorner.me/zenless-zone-zero-version-3-0-launches-june-17-begins-season-3-with-new-region-roscaelifer/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-07T02:47:29Z",
-    "summary": "HoYoverse has announced that Zenless Zone Zero Version 3",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "hoyoverse"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8434233472164572,
-    "home_score": 0.6695,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 17",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "5b8755ca1401057ab36b2cf4b7ba68ba752741e1",
-    "title": "The Oblivious Saint Can\u2019t Contain Her Power Premieres June 30, Releases Main Visual and Two Additional Cast",
-    "url": "https://anitrendz.net/news/2026/06/06/the-oblivious-saint-cant-contain-her-power-premieres-june-30-releases-main-visual-and-two-additional-cast/?utm_source=rss&utm_medium=rss&utm_campaign=the-oblivious-saint-cant-contain-her-power-premieres-june-30-releases-main-visual-and-two-additional-cast",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-07T06:22:24Z",
-    "summary": "The Oblivious Saint Can't Contain Her Power premieres on June 30",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8864441318247459,
-    "home_score": 0.6659,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 30",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a24d66312a334313204e13fdf5f387428c2fe509",
-    "title": "All of the Day of the Devs Games Shown at SGF 2026",
-    "url": "https://www.siliconera.com/all-of-the-day-of-the-devs-games-shown-at-sgf-2026/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-06T00:10:00Z",
-    "summary": "Get the details on all 20 games that showed up at the Day of the Devs showcase at SGF 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.5827052936349019,
-    "home_score": 0.6602,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4533d96da3613b6726fcbf8d6c340a1abc432cc5",
-    "title": "Kuro Games shares new Wuthering Waves Cyberpunk: Edgerunners collaboration 'The Phantom Rapid Unit' trailer",
-    "url": "https://www.rpgsite.net/news/20577-new-wuthering-waves-cyberpunk-edgerunners-collaboration-the-phantom-rapid-unit-trailer",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-07T07:23:50Z",
-    "summary": "Kuro Games shares another Wuthering Waves Cyberpunk: Edgerunners collaboration trailer ahead of its launch on Monday",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8991402792744088,
-    "home_score": 0.6581,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9c508a1604e9296058f9f168cc8b987fa3fbee3f",
-    "title": "Capcom hits homerun at SGF 2026 with Monster Hunter Wilds Ascendance, Resident Evil Veronica, and Street Fighter 6",
-    "url": "https://esports.gg/news/gaming/capcom-summer-game-fest-2026-monster-hunter-wilds-ascendance-resident-evil-veronica-street-fighter-6/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-05T23:30:00Z",
-    "summary": "Capcom arguably stole the show at Summer Game Fest 2026 with its major reveals across multiple beloved franchises",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [
-      "SEA",
-      "Singapore"
-    ],
-    "sg_relevance": 0.58,
-    "freshness_score": 0.5773345094427675,
-    "home_score": 0.6568,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "585f2196f3d5803de20be54edb9d4348e89ce1f6",
-    "title": "[Rumor] Persona 4 Revival Key Visual Posted on Atlus Website - Persona Central",
-    "url": "https://personacentral.com/p4revival-leak/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-07T08:04:29Z",
-    "summary": "[Rumor] Persona 4 Revival Key Visual Posted on Atlus Website Persona Central",
-    "content": "",
-    "categories": [
-      "games"
     ],
     "tags": [
       "jrpg"
@@ -1551,339 +1867,36 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9076405139798077,
-    "home_score": 0.6484,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "28d0c93729f869fd6059289fee74187e7e037198",
-    "title": "Dungeon crawler RPG Rizz Dungeon: Skeleton Key to My Heart launches on September 17 for PC Steam",
-    "url": "https://www.rpgsite.net/news/20575-rizz-dungeon-skeleton-key-to-my-heart-release-date-dungeon-crawler-rpg",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-07T06:14:47Z",
-    "summary": "A new demo for dungeon crawler RPG Rizz Dungeon: Skeleton Key to My Heart is also available on Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8848828504611796,
-    "home_score": 0.6457,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "September 17",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "e0f29de3eeef1eb86ce241e831452de35688beb9",
-    "title": "\u2018Final Fantasy VII Revelation\u2019 Will Conclude 7-Year Remake Journey In Spring 2027",
-    "url": "https://geekculture.co/final-fantasy-vii-revelation-will-conclude-7-year-remake-journey-in-spring-2027/",
-    "source_name": "Geek Culture",
-    "source_type": "rss",
-    "published_at": "2026-06-06T03:19:31Z",
-    "summary": "\u2018Final Fantasy VII Revelation\u2019 Will Conclude 7-Year Remake Journey In Spring 2027",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6088370734834923,
-    "home_score": 0.644,
+    "freshness_score": 0.9472993137168055,
+    "home_score": 0.6708,
     "source_quality": 0.75,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "41511e8660f0eded126ce1127d15bdcc8ef8cb81",
-    "title": "MLBB MSC 2026 qualifiers guide: MPL Singapore, MTC Turkiye, MCC Season 7 schedule, results, streams - Esports Charts",
-    "url": "https://escharts.com/news/mlbb-msc-2026-qualifiers-guide",
-    "source_name": "Google News SEA Esports",
+    "id": "27539a8f26d706267186881e3fdbc0cc76ba81c7",
+    "title": "Persona fans, mark your calendars for another revival in spring 2027 - Polygon.com",
+    "url": "https://www.polygon.com/persona-4-revival-release-date/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-05T20:46:05Z",
-    "summary": "MLBB MSC 2026 qualifiers guide: MPL Singapore, MTC Turkiye, MCC Season 7 schedule, results, streams Esports Charts",
+    "published_at": "2026-06-07T17:30:35Z",
+    "summary": "Persona fans, mark your calendars for another revival in spring 2027 Polygon",
     "content": "",
     "categories": [
-      "esports",
       "games"
-    ],
-    "tags": [
-      "singapore",
-      "mlbb"
-    ],
-    "entity_tags": [
-      "MLBB"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.5499999999999999,
-    "freshness_score": 0.5558386123079282,
-    "home_score": 0.6396,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "qualifier",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "6c3a8a13e142745abe61e27c92d451fa76f38efd",
-    "title": "One Piece Film Red Director Says Anime Is Being Made Like 'Junk Food' Due to Lack of Director Oversight",
-    "url": "https://animecorner.me/one-piece-film-red-director-says-anime-is-being-made-like-junk-food-due-to-lack-of-director-oversight/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-07T00:41:15Z",
-    "summary": "Asahi Shimbun published a report on Goro Taniguchi's (Director: One Piece Film RED, Code\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.819134539131317,
-    "home_score": 0.6386,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2201986081f5adc9b02b745279b4967681c515dd",
-    "title": "Pokemon Champions\u2019 Battle Pass isn\u2019t worth it, and why that\u2019s a good thing",
-    "url": "https://nintendoeverything.com/pokemon-champions-battle-pass-isnt-worth-it-and-why-thats-a-good-thing/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-07T04:50:21Z",
-    "summary": "Pokemon Champions, Pokemon\u2019s new dedicated competitive battle simulator, recently hit Nintendo Switch with a mobile version slated for release in the next few months",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8677559221061967,
-    "home_score": 0.638,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fff2509a6ddd62a95e806b25b74ee7f8b30eeddc",
-    "title": "Tactical RPG Dark Deity III Announced for PC via Steam",
-    "url": "https://noisypixel.net/dark-deity-3-announced-pc-steam/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-07T00:28:23Z",
-    "summary": "Tactical RPG Dark Deity III Announced for PC via Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8166985514576793,
-    "home_score": 0.6345,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "873896bf6760214901bd592e95837e082419e559",
-    "title": "The Pokemon Company posts its best numbers ever in latest yearly financial results report",
-    "url": "https://nintendoeverything.com/the-pokemon-company-posts-its-best-numbers-ever-in-latest-yearly-financial-results-report/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-07T04:00:32Z",
-    "summary": "A new report went up this week detailing The Pokemon Company\u2019s latest financial results, and once again, records were achieved across the board",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8578067494574483,
-    "home_score": 0.6335,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1203ed77bf7d4d308cd5964a5ff6d1ec0e077807",
-    "title": "Retro Soulslike Memoirium Launching in August",
-    "url": "https://rpgamer.com/2026/06/retro-soulslike-memoirium-launching-in-august/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-06T22:30:18Z",
-    "summary": "Developer GoldenGratus announced that its retro soulslike action RPG Memoirium will release on August 13, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
     ],
     "tags": [
       "jrpg"
     ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.794677105936842,
-    "home_score": 0.6276,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 13, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "5d01bbbba38863d0da09760855d941f08d74867c",
-    "title": "Street Fighter Beach Queens Swimsuit Figures of Chun-Li and Cammy Coming",
-    "url": "https://www.siliconera.com/street-fighter-beach-queens-swimsuit-figures-of-chun-li-and-cammy-coming/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-06T21:30:00Z",
-    "summary": "Good Smile Company's Beach Queens line of figures will get Street Fighter 6 Cammy and Chun-Li ones of them in the Outfit 4 swimsuit costumes",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
     "entity_tags": [
-      "Street Fighter 6"
+      "Persona"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.7836620515619145,
-    "home_score": 0.6256,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bf6ed75161d1d08452da10adeb568f972fc040bd",
-    "title": "Montabi Launching in August",
-    "url": "https://rpgamer.com/2026/06/montabi-launching-in-august/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-06T22:02:47Z",
-    "summary": "Developer Mankibo and publisher Akupara Games announced that creature-collecting roguelike deckbuilder Montabi will release on August 6, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7896314098119501,
-    "home_score": 0.6253,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 6, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a669e4cfd3b7c981b2bb431b3834f4145c3e25aa",
-    "title": "Action Roguelite HellHeart Breaker Releasing Next Year",
-    "url": "https://rpgamer.com/2026/06/action-roguelite-hellheart-breaker-releasing-next-year/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-06T22:02:39Z",
-    "summary": "Publisher Red Dunes Games and developer BattleBrew Productions announced they are partnering to release action roguelite HellHeart Breaker next year",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7896070363624382,
-    "home_score": 0.6253,
-    "source_quality": 0.8,
+    "freshness_score": 0.9517829828549188,
+    "home_score": 0.6683,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
