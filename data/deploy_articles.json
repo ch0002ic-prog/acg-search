@@ -38,40 +38,6 @@
     "result_type": "event"
   },
   {
-    "id": "c5685df832a2c81229032c71242553c46d4809fe",
-    "title": "Persona 4 Revival Remake Arrives in 2027",
-    "url": "https://www.siliconera.com/persona-4-revival-remake-arrives-in-2027/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-07T17:19:25Z",
-    "summary": "Atlus brought Persona 4 Revival to SGF 2026 and shared more details and a new trailer for the upcoming JRPG remake",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "singapore",
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.9493264688565832,
-    "home_score": 0.8252,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
     "id": "d958943683b299952c291ef741715e325d40f62e",
     "title": "Grand Archive TCG \u2014 Ascent Worlds Singapore 2026",
     "url": "https://www.eventbrite.com/e/grand-archive-tcg-ascent-worlds-singapore-2026-tickets-1984055541534",
@@ -115,40 +81,6 @@
     "result_type": "event"
   },
   {
-    "id": "432a284b66f4b9ea2707b1ebc4db14fac18f3c2c",
-    "title": "Atlus Unveils \u2018Persona 6\u2019, Sets \u2018Persona 4 Revival\u2019 Remake For Feb 2027",
-    "url": "https://geekculture.co/atlus-unveils-persona-6-sets-persona-4-revival-remake-for-feb-2027/",
-    "source_name": "Geek Culture",
-    "source_type": "rss",
-    "published_at": "2026-06-07T18:53:32Z",
-    "summary": "Atlus Unveils \u2018Persona 6\u2019, Sets \u2018Persona 4 Revival\u2019 Remake For Feb 2027 is trending around jrpg.",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.970235278932258,
-    "home_score": 0.8066,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
     "id": "88291822aa950a33e98928b768e5207bca82195d",
     "title": "Manga Drawing - Art Workshop Experience \u52a8\u6f2b\u7ed8\u753b\u5de5\u4f5c\u574a",
     "url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537134993",
@@ -179,156 +111,6 @@
       "venue": "20B Mosque St",
       "ticket_status": null,
       "ticket_url": "https://www.eventbrite.sg/e/manga-drawing-art-workshop-experience-tickets-1984537134993",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "10aecab2014ccc96137245d2b8f343b4ea3c8f66",
-    "title": "Holiday Art Immersion - Manga Drawing & Coloured Illustration 12s (10-18YO)",
-    "url": "https://www.eventbrite.sg/e/holiday-art-immersion-manga-drawing-coloured-illustration-12s-10-18yo-tickets-1989771748864",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Does your teen like Anime or Manga? Sign them up for our Manga Drawing & Coloured Illustration Holiday Art Immersion lessons to draw! Venue: Visual Arts Centre @ Dhoby Ghaut MRT St",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184774755%2F168574416186%2F1%2Foriginal.20260517-053152?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9b5734b4cdbc7b3d4b4436e92a32708a",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/holiday-art-immersion-manga-drawing-coloured-illustration-12s-10-18yo-tickets-1989771748864",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "8edb08f532601073e9b4480252a79d993a1f7ecd",
-    "title": "Summer Holiday Art Camp - Manga & Coloured Illustration 8 Sessions (6-9YO)",
-    "url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-coloured-illustration-8-sessions-6-9yo-tickets-1989639082054",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Let your child learn how to draw in manga and coloured illustration style with us this holiday! They will learn using markers and more! Venue: Visual Arts Centre @ Dhoby Ghaut MRT",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184666232%2F168574416186%2F1%2Foriginal.20260515-081125?w=400&auto=format%2Ccompress&q=75&sharp=10&s=f8e6528f3bd863a3c0d0670cef675a1e",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-coloured-illustration-8-sessions-6-9yo-tickets-1989639082054",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "608ae67463bb0e8b3c4c7861c555169e99272cb5",
-    "title": "Summer Holiday Art Camp - Manga Drawing 8 Sessions (10-18YO)",
-    "url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-drawing-8-sessions-10-18yo-tickets-1989732139391",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "Does your teen like Manga? Let your teen learn Manga Drawing with us this holiday! They will learn from professional artists too! Venue: Visual Arts Centre @ Dhoby Ghaut MRT Statio",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184737360%2F168574416186%2F1%2Foriginal.20260516-055151?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bcb932dddbc7b91f64f68d99a80743a6",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "8 Jun 2026",
-      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-drawing-8-sessions-10-18yo-tickets-1989732139391",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
-    "id": "ccdae9afc9ae811f900ffa5d2c14fb5f83b4fe46",
-    "title": "Young Musicians Festival Jun 2026: Piano Adventures",
-    "url": "https://www.eventbrite.com/e/young-musicians-festival-jun-2026-piano-adventures-tickets-1989856209488",
-    "source_name": "Eventbrite SG Anime",
-    "source_type": "event_listing",
-    "published_at": "2026-06-08T00:00:00Z",
-    "summary": "From Bach to Anime! Witness the grit and growth of Singapore\u2019s young musicians as they share their \"Piano Adventures\" at the Library",
-    "content": "",
-    "categories": [
-      "events",
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8045,
-    "source_quality": 0.78,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184878983%2F3002514252271%2F1%2Foriginal.20260518-192603?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=817feb9425e6819f3c896b8ea34102c6",
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "8 Jun 2026",
-      "venue": "National Library / Lee Kong Chian Reference Library",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/young-musicians-festival-jun-2026-piano-adventures-tickets-1989856209488",
       "guest_status": null,
       "guest_names": [],
       "merch_status": null
@@ -630,6 +412,190 @@
     "result_type": "event"
   },
   {
+    "id": "c5685df832a2c81229032c71242553c46d4809fe",
+    "title": "Persona 4 Revival Remake Arrives in 2027",
+    "url": "https://www.siliconera.com/persona-4-revival-remake-arrives-in-2027/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-07T17:19:25Z",
+    "summary": "Atlus brought Persona 4 Revival to SGF 2026 and shared more details and a new trailer for the upcoming JRPG remake",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "singapore",
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.8732543792603943,
+    "home_score": 0.791,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "10aecab2014ccc96137245d2b8f343b4ea3c8f66",
+    "title": "Holiday Art Immersion - Manga Drawing & Coloured Illustration 12s (10-18YO)",
+    "url": "https://www.eventbrite.sg/e/holiday-art-immersion-manga-drawing-coloured-illustration-12s-10-18yo-tickets-1989771748864",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-06-08T00:00:00Z",
+    "summary": "Does your teen like Anime or Manga? Sign them up for our Manga Drawing & Coloured Illustration Holiday Art Immersion lessons to draw! Venue: Visual Arts Centre @ Dhoby Ghaut MRT St",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 0.9581018092793755,
+    "home_score": 0.7856,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184774755%2F168574416186%2F1%2Foriginal.20260517-053152?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9b5734b4cdbc7b3d4b4436e92a32708a",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "8 Jun 2026",
+      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/holiday-art-immersion-manga-drawing-coloured-illustration-12s-10-18yo-tickets-1989771748864",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "8edb08f532601073e9b4480252a79d993a1f7ecd",
+    "title": "Summer Holiday Art Camp - Manga & Coloured Illustration 8 Sessions (6-9YO)",
+    "url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-coloured-illustration-8-sessions-6-9yo-tickets-1989639082054",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-06-08T00:00:00Z",
+    "summary": "Let your child learn how to draw in manga and coloured illustration style with us this holiday! They will learn using markers and more! Venue: Visual Arts Centre @ Dhoby Ghaut MRT",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 0.9581018050765909,
+    "home_score": 0.7856,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184666232%2F168574416186%2F1%2Foriginal.20260515-081125?w=400&auto=format%2Ccompress&q=75&sharp=10&s=f8e6528f3bd863a3c0d0670cef675a1e",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "8 Jun 2026",
+      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-coloured-illustration-8-sessions-6-9yo-tickets-1989639082054",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "608ae67463bb0e8b3c4c7861c555169e99272cb5",
+    "title": "Summer Holiday Art Camp - Manga Drawing 8 Sessions (10-18YO)",
+    "url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-drawing-8-sessions-10-18yo-tickets-1989732139391",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-06-08T00:00:00Z",
+    "summary": "Does your teen like Manga? Let your teen learn Manga Drawing with us this holiday! They will learn from professional artists too! Venue: Visual Arts Centre @ Dhoby Ghaut MRT Statio",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 0.9581018031692586,
+    "home_score": 0.7856,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184737360%2F168574416186%2F1%2Foriginal.20260516-055151?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bcb932dddbc7b91f64f68d99a80743a6",
+    "event_metadata": {
+      "event_type": "event",
+      "date_label": "8 Jun 2026",
+      "venue": "Visual Arts Centre @ Dhoby Ghaut MRT Station Exit B",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.sg/e/summer-holiday-art-camp-manga-drawing-8-sessions-10-18yo-tickets-1989732139391",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
+    "id": "ccdae9afc9ae811f900ffa5d2c14fb5f83b4fe46",
+    "title": "Young Musicians Festival Jun 2026: Piano Adventures",
+    "url": "https://www.eventbrite.com/e/young-musicians-festival-jun-2026-piano-adventures-tickets-1989856209488",
+    "source_name": "Eventbrite SG Anime",
+    "source_type": "event_listing",
+    "published_at": "2026-06-08T00:00:00Z",
+    "summary": "From Bach to Anime! Witness the grit and growth of Singapore\u2019s young musicians as they share their \"Piano Adventures\" at the Library",
+    "content": "",
+    "categories": [
+      "events",
+      "anime",
+      "manga",
+      "merch"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 0.9581017919507441,
+    "home_score": 0.7856,
+    "source_quality": 0.78,
+    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1184878983%2F3002514252271%2F1%2Foriginal.20260518-192603?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=817feb9425e6819f3c896b8ea34102c6",
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "8 Jun 2026",
+      "venue": "National Library / Lee Kong Chian Reference Library",
+      "ticket_status": null,
+      "ticket_url": "https://www.eventbrite.com/e/young-musicians-festival-jun-2026-piano-adventures-tickets-1989856209488",
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "event"
+  },
+  {
     "id": "4dcdfa02755c6c86c5bf6832feda8cff84d27b63",
     "title": "Kids Camp: Board Game Design Lab",
     "url": "https://www.eventbrite.sg/e/kids-camp-board-game-design-lab-tickets-1987810769522",
@@ -649,8 +615,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
+    "freshness_score": 0.9581017801408089,
+    "home_score": 0.7826,
     "source_quality": 0.76,
     "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182547060%2F796777249053%2F1%2Foriginal.20260420-092254?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.057&fp-y=0.677&s=92bdccaa7b0c91b50eada44d1ece9e4a",
     "event_metadata": {
@@ -666,37 +632,84 @@
     "result_type": "event"
   },
   {
-    "id": "57159d9c13a01aa6cff49d68ce3ed4525b87237e",
-    "title": "RPGamer Round-Up: May 31 \u2013 June 7",
-    "url": "https://rpgamer.com/2026/06/rpgamer-round-up-may-31-june-7/",
+    "id": "2933aad886d8e8c8282806b902eaf2f092d8e5a2",
+    "title": "Terrinoth: Heroes of Descent Out Now",
+    "url": "https://rpgamer.com/2026/06/terrinoth-heroes-of-descent-out-now/",
     "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-06-07T15:01:29Z",
-    "summary": "Welcome to the latest edition of RPGamer's round-up column, where we look back at some of the articles that we have posted over the intervening period",
+    "published_at": "2026-06-07T22:55:55Z",
+    "summary": "New Tales and Artefacts Studio have released high fantasy tactical RPG Terrinoth: Heroes of Descent",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "events",
-      "gacha"
+      "events"
     ],
     "tags": [
-      "afa",
-      "jrpg",
-      "hoyoverse"
+      "jrpg"
     ],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.28,
-    "freshness_score": 0.9194939720085837,
-    "home_score": 0.7538,
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9439943402061713,
+    "home_score": 0.7148,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9f60df323f63bf968705c7d1050c7f85ac334ebc",
+    "title": "Sophi\u00e0 la Mode Releases Ichijyoma Mankitsu Gurashi! Anime Opening Song Music Video",
+    "url": "https://crunchyroll.com/news/latest/2026/6/8/ichijyoma-mankitsu-gurashi-anime-opening-song-music-video-sophia-la-mode",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-08T01:50:00Z",
+    "summary": "The song \"Ciao Ciao\" is now available on digital platforms",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.982811306062239,
+    "home_score": 0.7108,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "25c863d7956520abfc40fa5697ef4ec09c5715e4",
+    "title": "In the Clear Moonlit Dusk Live-Action Film Unveils New Trailer, Additional Cast Members",
+    "url": "https://crunchyroll.com/news/latest/2026/6/8/in-the-clear-moonlit-dusk-live-action-film-new-trailer-additional-cast-members",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-08T00:38:00Z",
+    "summary": "The adaptation of Mika Yamamori's manga releases in Japan on October 23",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9665668629425768,
+    "home_score": 0.7035,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "May 31",
+      "date_label": "October 23",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -727,8 +740,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9846251416328529,
-    "home_score": 0.7331,
+    "freshness_score": 0.9057244370501589,
+    "home_score": 0.6976,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -744,13 +757,124 @@
     "result_type": "article"
   },
   {
-    "id": "a5cf8cee5990f34d0608d23246f50c7c3b7c9006",
-    "title": "Persona 4 Revival Reveals February 2027 Release Date - IGN Southeast Asia",
-    "url": "https://sea.ign.com/persona-4-revival/243857/persona-4-revival-reveals-february-2027-release-date",
+    "id": "4822cab9a74d523841a3076550600ad50e998be0",
+    "title": "Citizen Sleeper Creator Reveals Signet City",
+    "url": "https://rpgamer.com/2026/06/citizen-sleeper-creator-reveals-signet-city/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T22:56:16Z",
+    "summary": "Publisher Fellow Traveler and developer Gareth Damian Martin (Jump Over the Age) have announced \"first-person fungalpunk narrative RPG\" Signet City",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9440708322346996,
+    "home_score": 0.6948,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9962ddd419cf9096a94941faa0c2b186a1d3fcd9",
+    "title": "inXile Entertainment\u2019s Clockwork Revolution Releasing Next Year",
+    "url": "https://rpgamer.com/2026/06/inxile-entertainments-clockwork-revolution-releasing-next-year/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T22:25:12Z",
+    "summary": "Xbox Game Studios and inXile Entertainment announced that first-person steampunk RPG Clockwork Revolution will release on PC and Xbox Series X|S in 2027",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9373060156842473,
+    "home_score": 0.6918,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5fad41d492f53ede73e1b5283e34a46c061a6ff1",
+    "title": "Valor Mortis Receives September Date, Demo",
+    "url": "https://rpgamer.com/2026/06/valor-mortis-receives-september-date-demo/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T22:24:53Z",
+    "summary": "Lyrical Games and One More Level revealed that first-person Soulslike RPG Valor Mortis will release on September 24, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9372373062261506,
+    "home_score": 0.6918,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "September 24, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "849459378b0a97c18efde4b4e43d17586b105f4b",
+    "title": "Persona 6 - Teaser Trailer | Xbox Games Showcase 2026 - IGN Southeast Asia",
+    "url": "https://sea.ign.com/persona-6/243863/persona-6-teaser-trailer-xbox-games-showcase-2026",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-07T18:02:54Z",
-    "summary": "Persona 4 Revival Reveals February 2027 Release Date IGN Southeast Asia",
+    "published_at": "2026-06-07T18:00:34Z",
+    "summary": "Persona 6 - Teaser Trailer | Xbox Games Showcase 2026 IGN Southeast Asia",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.2,
+    "freshness_score": 0.8816118089112316,
+    "home_score": 0.6867,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8e799a0d32e6c49854d7478c4ec67033b53f06e0",
+    "title": "Persona 4 Revival Gets New Gameplay Trailer, Coming February 18 2027 - Gamer Matters",
+    "url": "https://gamermatters.com/persona-4-revival-gets-new-gameplay-trailer-coming-february-18-2027/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-08T01:49:33Z",
+    "summary": "Persona 4 Revival Gets New Gameplay Trailer, Coming February 18 2027 Gamer Matters",
     "content": "",
     "categories": [
       "games"
@@ -761,25 +885,32 @@
     "entity_tags": [
       "Persona"
     ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.2,
-    "freshness_score": 0.9589297031126018,
-    "home_score": 0.7215,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9827087393419356,
+    "home_score": 0.6822,
     "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "February 18",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
-    "id": "2409ed0b4ba93305f6729e7389c425c83dfc46f3",
-    "title": "Citizen Sleeper Creator Announces Fungal Punk Narrative RPG \u2018Signet City\u2019",
-    "url": "https://noisypixel.net/signet-city-announced-fungal-punk-rpg/",
-    "source_name": "Noisy Pixel",
+    "id": "7bc4d9473bf899b7db72334fdf334f9fd2ea9a4f",
+    "title": "All the SGF 2026 Wholesome Direct Cozy Games We Saw Today",
+    "url": "https://www.siliconera.com/all-the-sgf-2026-wholesome-direct-cozy-games-we-saw-today/",
+    "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-06-07T20:45:18Z",
-    "summary": "Publisher Fellow Traveller and developer Jump Over the Age have announced the fungal punk first-person narrative RPG Signet City, set to be released for PC via Steam, GOG, and the",
+    "published_at": "2026-06-06T17:01:00Z",
+    "summary": "The Wholesome Direct SGF 2026 showcase went over tons of upcoming cozy games for various platforms and shared a Momento shadowdrop",
     "content": "",
     "categories": [
       "games",
@@ -787,39 +918,17 @@
       "merch",
       "events"
     ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9956648735476288,
-    "home_score": 0.715,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b083c668e430f716ec7266e7d09ab54f162f1da2",
-    "title": "Where Winds Meet Launches on Xbox as Hidden Mountain Expansion Is Revealed",
-    "url": "https://noisypixel.net/where-winds-meet-xbox-launch-hidden-mountain-expansion/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-07T20:34:27Z",
-    "summary": "Developer Everstone Studio has released its free-to-play open-world action RPG Where Winds Meet for Xbox Series X|S and PC via the Microsoft Store",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
+    "tags": [
+      "singapore"
     ],
-    "tags": [],
     "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9931673230974218,
-    "home_score": 0.7139,
-    "source_quality": 0.78,
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.6230522845929028,
+    "home_score": 0.6784,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -847,8 +956,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.984818911859066,
-    "home_score": 0.7132,
+    "freshness_score": 0.9059026740108628,
+    "home_score": 0.6777,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -861,7 +970,7 @@
     "source_name": "RPGamer",
     "source_type": "rss",
     "published_at": "2026-06-07T19:57:23Z",
-    "summary": "Atlus announced that Persona 4 Revival , its newest remake of Persona 4 , will release on February 19, 2026",
+    "summary": "Atlus announced that Persona 4 Revival , its newest remake of Persona 4 , will release on February 19, 2027",
     "content": "",
     "categories": [
       "games",
@@ -877,13 +986,13 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.984682133966612,
-    "home_score": 0.7131,
+    "freshness_score": 0.9057768592523922,
+    "home_score": 0.6776,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "February 19, 2026",
+      "date_label": "February 19, 2027",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -911,8 +1020,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9845757550354238,
-    "home_score": 0.7131,
+    "freshness_score": 0.9056790073627682,
+    "home_score": 0.6776,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -925,6 +1034,34 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "932c6d225bc89245fc0e414cf918b6d4ad6e98a2",
+    "title": "Green light for Persona 6: Atlus teases a grittier return for the 30th anniversary (VIDEO) - Malay Mail",
+    "url": "https://www.malaymail.com/news/tech-gadgets/2026/06/08/green-light-for-persona-6-atlus-teases-a-grittier-return-for-the-30th-anniversary-video/222887",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-08T01:01:42Z",
+    "summary": "Green light for Persona 6: Atlus teases a grittier return for the 30th anniversary (VIDEO) Malay Mail",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona",
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9718839446390611,
+    "home_score": 0.6773,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -950,8 +1087,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9873334326783944,
-    "home_score": 0.7128,
+    "freshness_score": 0.9082157469422409,
+    "home_score": 0.6772,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -967,84 +1104,77 @@
     "result_type": "article"
   },
   {
-    "id": "4802af66620eea4d698e86bf8dc07e947430d22d",
-    "title": "A Returner\u2019s Magic Should Be Special Season 2 Reveals October 2026 Start, Teaser Visual",
-    "url": "https://anitrendz.net/news/2026/06/07/a-returners-magic-should-be-special-season-2-reveals-october-2026-start-teaser-visual/?utm_source=rss&utm_medium=rss&utm_campaign=a-returners-magic-should-be-special-season-2-reveals-october-2026-start-teaser-visual",
-    "source_name": "Anime Trending",
+    "id": "791e59be6ef099eb683757ca9b6ea83532a1e151",
+    "title": "Top-Down Action RPG Wardens of Avalon Announced",
+    "url": "https://rpgamer.com/2026/06/top-down-action-rpg-wardens-of-avalon-announced/",
+    "source_name": "RPGamer",
     "source_type": "rss",
-    "published_at": "2026-06-07T16:31:16Z",
-    "summary": "An October broadcast start window and teaser visual for A Returner\u2019s Magic Should Be Special Season 2 have been revealed",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9388037518875266,
-    "home_score": 0.7095,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2ccab427e053e3f94d45784d9484cbbdbeadcc5e",
-    "title": "Vampire Narrative RPG \u2018Red Kiss\u2019 Announced for PC",
-    "url": "https://noisypixel.net/red-kiss-vampire-rpg-announced-pc/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-07T19:46:46Z",
-    "summary": "Publisher Fellow Traveller and Dutch developer Wispfire have announced their vampire narrative RPG Red Kiss, which is currently in development for PC via Steam",
+    "published_at": "2026-06-07T22:55:46Z",
+    "summary": "Publisher The Arcade Crew and developer Runes Studio have announced top-down action RPG Wardens of Avalon",
     "content": "",
     "categories": [
       "games",
       "anime",
-      "merch",
-      "events"
+      "merch"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.982265208557077,
-    "home_score": 0.709,
-    "source_quality": 0.78,
+    "freshness_score": 0.9439615594355973,
+    "home_score": 0.6768,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "fdbd94077a6130889b679dbb92c990be73352275",
-    "title": "Persona 4 Revival Release Date Revealed \u2013 Atlus Confirms February 2027 Launch - vice.com",
-    "url": "https://www.vice.com/en/article/persona-4-revival-release-date-revealed-atlus-confirms-february-2027-launch/",
-    "source_name": "Google News JRPG",
+    "id": "aeb57d93d479a370996fc086238f2ae7455f0954",
+    "title": "10 Hard to Beat PS2 JRPGs",
+    "url": "https://www.dualshockers.com/hard-to-beat-ps2-jrpgs/",
+    "source_name": "DualShockers",
     "source_type": "rss",
-    "published_at": "2026-06-07T19:40:06Z",
-    "summary": "Persona 4 Revival Release Date Revealed \u2013 Atlus Confirms February 2027 Launch vice",
+    "published_at": "2026-06-07T23:30:15Z",
+    "summary": "If you're looking for a stiff challenge on PS2, then you'll want to check out this group of hard to beat JRPG adventures",
     "content": "",
     "categories": [
       "games",
-      "events"
+      "anime",
+      "merch"
     ],
     "tags": [
       "jrpg"
     ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9807501722515348,
-    "home_score": 0.7053,
-    "source_quality": 0.76,
+    "freshness_score": 0.951526557679583,
+    "home_score": 0.6727,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/hard-to-beat-ps2-jrpgs-featured.jpg",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5d471eb5942dfa0f63b5fd24738ac19f6148f888",
+    "title": "Cassette Beasts 2002 Unveiled",
+    "url": "https://rpgamer.com/2026/06/cassette-beasts-2002-unveiled/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T22:56:02Z",
+    "summary": "Publisher Raw Fury and developer Bytten Studio announced a follow-up to 2023 retro-styled monster-battling RPG Cassette Beasts",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9440198380598094,
+    "home_score": 0.6708,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1068,8 +1198,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9605298055174486,
-    "home_score": 0.7052,
+    "freshness_score": 0.8835599743837897,
+    "home_score": 0.6706,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1099,38 +1229,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9587304957802307,
-    "home_score": 0.7044,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7bc4d9473bf899b7db72334fdf334f9fd2ea9a4f",
-    "title": "All the SGF 2026 Wholesome Direct Cozy Games We Saw Today",
-    "url": "https://www.siliconera.com/all-the-sgf-2026-wholesome-direct-cozy-games-we-saw-today/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-06T17:01:00Z",
-    "summary": "The Wholesome Direct SGF 2026 showcase went over tons of upcoming cozy games for various platforms and shared a Momento shadowdrop",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.6773284389182058,
-    "home_score": 0.7028,
+    "freshness_score": 0.8819048367496167,
+    "home_score": 0.6699,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1157,11 +1257,68 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9191782166771177,
-    "home_score": 0.7021,
+    "freshness_score": 0.845521991737073,
+    "home_score": 0.669,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e6706ffc2313858a234e3a2b2ca166f28931c64d",
+    "title": "Wo Long 2: Wings of Ember Announced",
+    "url": "https://rpgamer.com/2026/06/wo-long-2-wings-of-ember-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T22:25:20Z",
+    "summary": "Koei Tecmo and Team Ninja have announced Wo Long 2: Wings of Ember , a sequel to 2023 dark fantasy action RPG Wo Long: Fallen Dynasty",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9373349488256298,
+    "home_score": 0.6678,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8e9d4eb38da975a78435d405ee0727259d171697",
+    "title": "Minecraft Dungeons II Releasing in September",
+    "url": "https://rpgamer.com/2026/06/minecraft-dungeons-ii-releasing-in-september/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-07T22:24:28Z",
+    "summary": "Xbox Game Studios, Mojang Studios, and Double Eleven announced that Minecraft Dungeons II will release on September 29, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9371469103412737,
+    "home_score": 0.6677,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "September 29, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1183,21 +1340,21 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9532019858646634,
-    "home_score": 0.7019,
+    "freshness_score": 0.8768193409083918,
+    "home_score": 0.6676,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "43455863cde6bbc56b4dce28e59e4cca41e748eb",
-    "title": "SlashZero Gameplay Trailer Highlights Roguelike Action",
-    "url": "https://noisypixel.net/slashzero-gameplay-trailer-roguelike-action-platformer/",
-    "source_name": "Noisy Pixel",
+    "id": "2ca0f68c1da1c49503e9cc01132c0a90d982215d",
+    "title": "VTM's Disco Elysium-Inspired CRPG Seeks Redemption from Bloodlines 2 Fans",
+    "url": "https://www.dualshockers.com/vampire-the-masquerades-disco-elysium-inspired-crpg/",
+    "source_name": "DualShockers",
     "source_type": "rss",
-    "published_at": "2026-06-07T20:49:07Z",
-    "summary": "Publisher Skystone Games and developer Streetlamp Studio have unveiled a new gameplay trailer for their 3D anime-styled roguelike action platformer, SlashZero",
+    "published_at": "2026-06-07T22:09:27Z",
+    "summary": "Vampire: The Masquerade - Eternal Whispers is a new Disco Elysium-inspired CRPG that might finally be the Bloodlines 2 that fans sorely deserve",
     "content": "",
     "categories": [
       "games",
@@ -1208,64 +1365,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9965449220335991,
-    "home_score": 0.6974,
-    "source_quality": 0.78,
-    "image_url": null,
+    "freshness_score": 0.9338948882841918,
+    "home_score": 0.6648,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/vampire-the-masquerade-eternal-whispers-1-1.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "a93e7c41694ff0d426a6eceac667184cd76dd76e",
-    "title": "Persona 6 has been confirmed - Instant Gaming News",
-    "url": "https://news.instant-gaming.com/en/articles/20023-persona-6-has-been-confirmed",
-    "source_name": "Google News JRPG",
+    "id": "4ed0bfb75cf757de63738af775e241f92c6cebd3",
+    "title": "Gears of War: E-Day, Halo: Campaign Evolved, and Fable's Collector's Edition Explained",
+    "url": "https://www.dualshockers.com/everything-included-in-gears-of-war-e-day-halo-campaign-evolved-fables-collectors-editions/",
+    "source_name": "DualShockers",
     "source_type": "rss",
-    "published_at": "2026-06-07T18:08:36Z",
-    "summary": "Persona 6 has been confirmed Instant Gaming News",
+    "published_at": "2026-06-07T21:35:47Z",
+    "summary": "Gears of War: E-Day, Halo: Campaign Evolved, and Fable's collector's editions all include statues and other fun merch and in-game items for fans",
     "content": "",
     "categories": [
       "games",
-      "events"
+      "anime",
+      "merch"
     ],
-    "tags": [
-      "jrpg"
-    ],
+    "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9601957816634752,
-    "home_score": 0.6961,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "39139c2b594ad0ddfac048470f4a6bd647103451",
-    "title": "Persona 4 Revival DLC Guide \u2013 Deluxe Edition, Cosmetics, Bgm DLC, Personas, and More",
-    "url": "https://www.rpgsite.net/guide/20593-persona-4-revival-dlc-guide-all-editions-costumes-personas-premium-deluxe-collectors-edition-upgrade",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-07T20:31:56Z",
-    "summary": "Our Persona 4 Revival DLC guide covers all the editions, pre-order bonus, cosmetics, BGM packs, and more for PS5, Xbox, and Steam",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9925889317247227,
-    "home_score": 0.6942,
-    "source_quality": 0.81,
-    "image_url": null,
+    "freshness_score": 0.9266451341625483,
+    "home_score": 0.6615,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/everything-included-in-gears-of-war-e-day-halo-campaign-evolved-and-fable-s-collector-s-editions.jpg",
     "event_metadata": {
       "event_type": null,
       "date_label": null,
@@ -1299,8 +1427,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.900852140472798,
-    "home_score": 0.6939,
+    "freshness_score": 0.8286644332698787,
+    "home_score": 0.6614,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1326,36 +1454,85 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8960237728548617,
-    "home_score": 0.6932,
+    "freshness_score": 0.8242229805555983,
+    "home_score": 0.6609,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "18344e33943a7f357d0138073972c398cc336dee",
-    "title": "Wo Long 2: Wings of Ember Announced for PS5, Xbox, Switch 2, PC, and Game Pass in Early 2027",
-    "url": "https://noisypixel.net/wo-long-2-wings-of-ember-announced-early-2027/",
-    "source_name": "Noisy Pixel",
+    "id": "2786290c96a57451ed20a9b489661042ff132c17",
+    "title": "Persona 4 Revival Announced for February 18, 2027 Release, Japanese Limited Edition and DLC Contents - Persona Central",
+    "url": "https://personacentral.com/persona-4-revival-release-date/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-07T19:27:42Z",
-    "summary": "Koei Tecmo and Team Ninja have officially announced their action RPG Wo Long 2: Wings of Ember, set to be released in early 2027 for PlayStation 5, Xbox Series X|S, Nintendo Switch",
+    "published_at": "2026-06-07T17:48:50Z",
+    "summary": "Persona 4 Revival Announced for February 18, 2027 Release, Japanese Limited Edition and DLC Contents Persona Central",
     "content": "",
     "categories": [
       "games",
-      "anime",
-      "merch"
+      "events"
     ],
-    "tags": [],
-    "entity_tags": [],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9779394533099703,
-    "home_score": 0.6891,
-    "source_quality": 0.78,
+    "freshness_score": 0.879220549733568,
+    "home_score": 0.6596,
+    "source_quality": 0.76,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "February 18, 2027",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "39139c2b594ad0ddfac048470f4a6bd647103451",
+    "title": "Persona 4 Revival DLC Guide \u2013 Deluxe Edition, Cosmetics, Bgm DLC, Personas, and More",
+    "url": "https://www.rpgsite.net/guide/20593-persona-4-revival-dlc-guide-all-editions-costumes-personas-premium-deluxe-collectors-edition-upgrade",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-07T20:31:56Z",
+    "summary": "Our Persona 4 Revival DLC guide covers all the editions, pre-order bonus, cosmetics, BGM packs, and more for PS5, Xbox, and Steam",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9130500849748239,
+    "home_score": 0.6584,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
     "result_type": "article"
   },
   {
@@ -1376,11 +1553,72 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.978917124224465,
-    "home_score": 0.688,
+    "freshness_score": 0.9004738395198857,
+    "home_score": 0.6527,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "ec12997c239c2c21212ba0c6a3cfd8649b6fa99d",
+    "title": "Persona 6\u2032 s Big Reveal Was\u2026Kind Of A Let-Down - Kotaku",
+    "url": "https://kotaku.com/persona-6-finally-officially-revealed-2000703045",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-07T20:47:15Z",
+    "summary": "Persona 6\u2032 s Big Reveal Was\u2026Kind Of A Let-Down Kotaku",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9162927676155271,
+    "home_score": 0.6523,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "563ab5f905c04e91d3e237cb90d0d19f3d9cfb72",
+    "title": "Aniplex Launches Mysterious Countdown Set to End on June 9",
+    "url": "https://animecorner.me/aniplex-launches-mysterious-countdown-set-to-end-on-june-9/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-07T15:14:24Z",
+    "summary": "Aniplex Launches Mysterious Countdown Set to End on June 9",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8483451375651045,
+    "home_score": 0.6518,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 9",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -1405,110 +1643,13 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9765030516052152,
-    "home_score": 0.6869,
+    "freshness_score": 0.89825320989664,
+    "home_score": 0.6517,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "February 18, 2027",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "563ab5f905c04e91d3e237cb90d0d19f3d9cfb72",
-    "title": "Aniplex Launches Mysterious Countdown Set to End on June 9",
-    "url": "https://animecorner.me/aniplex-launches-mysterious-countdown-set-to-end-on-june-9/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-07T15:14:24Z",
-    "summary": "Aniplex Launches Mysterious Countdown Set to End on June 9",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9222472897787533,
-    "home_score": 0.685,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 9",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "28e59f107466de64690c80b63c01932ac51390f3",
-    "title": "Persona 6 revealed for PS5, Xbox, and PC",
-    "url": "https://www.rpgsite.net/news/20590-persona-6-revealed-for-ps5-xbox-pc",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-07T18:54:01Z",
-    "summary": "Persona 6 revealed for PS5, Xbox, and PC is trending around jrpg.",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9703440659385167,
-    "home_score": 0.6842,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "10f9ecbd0ed33cfeb365409b51e7817967545dd3",
-    "title": "Kaiju Girl Caramelise Drops New Main Trailer and Visual, Begins Airing on July 2",
-    "url": "https://anitrendz.net/news/2026/06/07/kaiju-girl-caramelise-drops-new-main-trailer-and-visual-begins-airing-on-july-2/?utm_source=rss&utm_medium=rss&utm_campaign=kaiju-girl-caramelise-drops-new-main-trailer-and-visual-begins-airing-on-july-2",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-07T15:33:31Z",
-    "summary": "The Kaiju Girl Caramelise TV anime has gotten a second main trailer and main visual, along with a July 2 broadcast start date",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9263372814647848,
-    "home_score": 0.6839,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 2",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -1537,9 +1678,37 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9169893004459048,
-    "home_score": 0.6826,
+    "freshness_score": 0.843508484925003,
+    "home_score": 0.6496,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "28e59f107466de64690c80b63c01932ac51390f3",
+    "title": "Persona 6 revealed for PS5, Xbox, and PC",
+    "url": "https://www.rpgsite.net/news/20590-persona-6-revealed-for-ps5-xbox-pc",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:54:01Z",
+    "summary": "Persona 6 revealed for PS5, Xbox, and PC is trending around jrpg.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8925877605515427,
+    "home_score": 0.6492,
+    "source_quality": 0.81,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1562,8 +1731,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9719624882814408,
-    "home_score": 0.6819,
+    "freshness_score": 0.8940765150438716,
+    "home_score": 0.6468,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/terrinothheroesofdescent-keyart.jpg",
     "event_metadata": null,
@@ -1587,40 +1756,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9650127215839349,
-    "home_score": 0.6788,
+    "freshness_score": 0.8876836518067698,
+    "home_score": 0.644,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/malenia-and-the-night-s-cavalry-in-front-of-a-blurred-image-of-leyndell-in-the-background-elden-ring.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "caecc62c1ab32563f82af7a28be73e24b1e69790",
-    "title": "Persona 6 Reveal Disappoints With Off-Brand Miniscule Announcement",
-    "url": "https://www.dualshockers.com/persona-6-reveal-disappoints-with-off-brand-miniscule-trailer/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-06-07T18:22:23Z",
-    "summary": "Atlus finally revealed Persona 6 during the Xbox Games Showcase 2026, and it was a massive disappointment, due to off-brand tone and short length",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9632644757470669,
-    "home_score": 0.678,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/persona-6-teaser-trailer-_-xbox-games-showcase-2026-1-12-screenshot.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1644,91 +1783,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8939971587683359,
-    "home_score": 0.6753,
+    "freshness_score": 0.82235875592505,
+    "home_score": 0.6431,
     "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "790245f4f5cdb148e8fabcc74d60042405500ef3",
-    "title": "Persona 4 Revival Release Date Unveiled, But It Won't Be In 2026",
-    "url": "https://www.dualshockers.com/persona-4-revival-release-date-unveiled-but-it-wont-be-this-year/",
-    "source_name": "DualShockers",
-    "source_type": "rss",
-    "published_at": "2026-06-07T17:44:25Z",
-    "summary": "Persona 4 Revival finally received its release date during the Xbox Games Showcase 2026, but it's not coming out until next year at the earliest",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9548358394145066,
-    "home_score": 0.6742,
-    "source_quality": 0.75,
-    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/persona-4-revival-midnight-channel.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "9d7dd07761d6ed28589d21f473520d1311fd1357",
-    "title": "Persona 6 Is Coming With Graveyard Visuals And A Toxic Green Color Scheme - Engadget",
-    "url": "https://www.engadget.com/2189059/persona-6-is-coming-with-graveyard-visuals-and-a-toxic-green-color-scheme/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-07T18:26:47Z",
-    "summary": "Persona 6 Is Coming With Graveyard Visuals And A Toxic Green Color Scheme Engadget",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.964245874074863,
-    "home_score": 0.6739,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7f879f8f85dde060dc18710390ebb47d57d5786b",
-    "title": "Beastfolk Barber Revealed, Blending Haircuts With Heartfelt Narrative Choices",
-    "url": "https://monstervine.com/2026/06/beastfolk-barber-revealed-wholesome-direct-2026/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-06-07T14:52:39Z",
-    "summary": "Safe Flight Games and Sigono have revealed Beastfolk Barber, a narrative barbershop game where every haircut leads to a personal conversation",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9176155488491525,
-    "home_score": 0.6739,
-    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1752,8 +1809,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9002267648531063,
-    "home_score": 0.6736,
+    "freshness_score": 0.8280891706661945,
+    "home_score": 0.6411,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -1769,64 +1826,13 @@
     "result_type": "article"
   },
   {
-    "id": "fd720bb29768277a1604d2edbfe42253820be6e0",
-    "title": "Hellcard II Trailer Shows Blackmail Manor",
-    "url": "https://rpgamer.com/2026/06/hellcard-ii-trailer-shows-blackmail-manor/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-07T12:54:36Z",
-    "summary": "Publisher Skystone Games and developer Thing Trunk released a new teaser trailer for co-op roguelike deckbuilder Hellcard II",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8928801171957038,
-    "home_score": 0.6718,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ec12997c239c2c21212ba0c6a3cfd8649b6fa99d",
-    "title": "Persona 6\u2032 s Big Reveal Was\u2026Kind Of A Let-Down - Kotaku",
-    "url": "https://kotaku.com/persona-6-finally-officially-revealed-2000703045",
+    "id": "9d7dd07761d6ed28589d21f473520d1311fd1357",
+    "title": "Persona 6 Is Coming With Graveyard Visuals And A Toxic Green Color Scheme - Engadget",
+    "url": "https://www.engadget.com/2189059/persona-6-is-coming-with-graveyard-visuals-and-a-toxic-green-color-scheme/",
     "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-07T18:01:39Z",
-    "summary": "Persona 6\u2032 s Big Reveal Was\u2026Kind Of A Let-Down Kotaku",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9586522632349168,
-    "home_score": 0.6714,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8242ab23a0dc5dff8ac5b505f6aec72213d3e24b",
-    "title": "Persona 6 exists, and that\u2019s all we know - The Verge",
-    "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-07T18:00:41Z",
-    "summary": "Persona 6 exists, and that\u2019s all we know The Verge",
+    "published_at": "2026-06-07T18:26:47Z",
+    "summary": "Persona 6 Is Coming With Graveyard Visuals And A Toxic Green Color Scheme Engadget",
     "content": "",
     "categories": [
       "games"
@@ -1837,8 +1843,33 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9584377782145842,
-    "home_score": 0.6713,
+    "freshness_score": 0.886978286586283,
+    "home_score": 0.6391,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "47d39048f83dc23480a797e369a5b664879109a1",
+    "title": "Persona 6 Is Finally Official After Years Of Waiting - GameSpot",
+    "url": "https://www.gamespot.com/articles/persona-6-is-finally-official-after-years-of-waiting/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-07T18:06:55Z",
+    "summary": "Persona 6 Is Finally Official After Years Of Waiting GameSpot",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8829086403507992,
+    "home_score": 0.6373,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1867,36 +1898,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9472993137168055,
-    "home_score": 0.6708,
+    "freshness_score": 0.8713896723186604,
+    "home_score": 0.6366,
     "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "27539a8f26d706267186881e3fdbc0cc76ba81c7",
-    "title": "Persona fans, mark your calendars for another revival in spring 2027 - Polygon.com",
-    "url": "https://www.polygon.com/persona-4-revival-release-date/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-07T17:30:35Z",
-    "summary": "Persona fans, mark your calendars for another revival in spring 2027 Polygon",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9517829828549188,
-    "home_score": 0.6683,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
