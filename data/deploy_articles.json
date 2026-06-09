@@ -486,44 +486,6 @@
     "result_type": "event"
   },
   {
-    "id": "b5ae933061329bcad44e4fa386fe143613eeb774",
-    "title": "Russia-Singapore B2B Mission: Games & Animation",
-    "url": "https://www.eventbrite.com/e/russia-singapore-b2b-mission-games-animation-tickets-1991045482636",
-    "source_name": "Eventbrite SG Gaming",
-    "source_type": "event_listing",
-    "published_at": "2026-06-11T00:00:00Z",
-    "summary": "Connect with top gaming and animation pros from Russia and Singapore in this in-person B2B mission! Venue: \u041a\u0430\u0440\u043b\u0442\u043e\u043d \u0425\u043e\u0442\u0435\u043b \u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
-    "content": "",
-    "categories": [
-      "events",
-      "games",
-      "esports"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 1.0,
-    "home_score": 0.8015,
-    "source_quality": 0.76,
-    "image_url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1186137428%2F3004249015199%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=7712deac535ee48abe1adef7d5e03448",
-    "event_metadata": {
-      "event_type": "event",
-      "date_label": "11 Jun 2026",
-      "venue": "\u041a\u0430\u0440\u043b\u0442\u043e\u043d \u0425\u043e\u0442\u0435\u043b \u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440",
-      "ticket_status": null,
-      "ticket_url": "https://www.eventbrite.com/e/russia-singapore-b2b-mission-games-animation-tickets-1991045482636",
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "event"
-  },
-  {
     "id": "1eab6e6967e962754af9d4f77331017dbd7b90b5",
     "title": "Phileo-Fish",
     "url": "https://www.eventbrite.sg/e/phileo-fish-tickets-1990772767939",
@@ -560,18 +522,17 @@
     "result_type": "event"
   },
   {
-    "id": "5977b4cfeab6143306f5dc2cf4af7b7b11fba8ae",
-    "title": "Sgt. Frog New Anime Film Releases Gundam Collab Illustrations",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/sgt-frog-new-anime-film-gundam-collab-illustrations",
-    "source_name": "Crunchyroll News",
+    "id": "79b8889043100f5fe9bbe9be9f074dda1ad65d6b",
+    "title": "Sgt. Frog Reveals Gundam Collaboration Illustrations, Previews Gundam Cameos from Upcoming Movie",
+    "url": "https://anitrendz.net/news/2026/06/09/sgt-frog-reveals-gundam-collaboration-illustrations-previews-gundam-cameos-from-upcoming-movie/?utm_source=rss&utm_medium=rss&utm_campaign=sgt-frog-reveals-gundam-collaboration-illustrations-previews-gundam-cameos-from-upcoming-movie",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-06-09T04:19:00Z",
-    "summary": "The first feature film in 16 years opens in Japan on June 26",
+    "published_at": "2026-06-09T08:56:36Z",
+    "summary": "Sgt. Frog Reveals Gundam Collaboration Illustrations, Previews Gundam Cameos from Upcoming Movie is trending around singapore.",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "games",
       "events",
       "merch"
     ],
@@ -583,13 +544,43 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.8881140741625918,
-    "home_score": 0.7932,
-    "source_quality": 0.79,
+    "freshness_score": 0.8741396291328815,
+    "home_score": 0.7854,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1e9d48581da1f0395c4dfa97e438f61573bf4287",
+    "title": "CS2 drives bulk of $36 million esports volume last week on Kalshi",
+    "url": "https://esportsinsider.com/2026/06/cs2-drives-36m-esports-volume-last-week-on-kalshi",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-06-09T13:25:56Z",
+    "summary": "Counter-Strike 2 accounted for nearly two-thirds of all esports prediction market volume on Kalshi this week, with League of Legends the clear second, and Valorant and Dota 2 both",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events",
+      "gacha"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Valorant"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9303731668862928,
+    "home_score": 0.7242,
+    "source_quality": 0.77,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
-      "date_label": "June 26",
+      "date_label": "1-7 June 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -597,6 +588,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "38c04e429fa86690ed8b8302160bbd01e80b0ea3",
+    "title": "Kairosoft Making New One Piece: Grand Gourmet Game",
+    "url": "https://www.siliconera.com/kairosoft-making-new-one-piece-grand-gourmet-game/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T18:30:00Z",
+    "summary": "The next new Kairosoft game is a One Piece: Grand Gourmet restaurant management sim involving Sanji and Baratie",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9982184038720125,
+    "home_score": 0.7222,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -625,8 +642,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.8720209946551386,
-    "home_score": 0.7504,
+    "freshness_score": 0.804880879197641,
+    "home_score": 0.7202,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C176%2C1080%2C540%5D/resize=w:1920/pjpg=q:90/compress/ESDZXvsMSA6ZUnK7tFFf",
     "event_metadata": {
@@ -639,6 +656,817 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "6c26adfda449b99e854ad0050f3f693b382c402e",
+    "title": "Fire Emblem: Fortune\u2019s Weave Collector\u2019s Edition Costs $120",
+    "url": "https://www.siliconera.com/fire-emblem-fortunes-weave-collectors-edition-costs-120/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T18:10:00Z",
+    "summary": "Pre-orders for the Fire Emblem: Fortune's Weave Dagdan Collection Collector's Edition opened, and the limited edition box costs $119",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9936077019498349,
+    "home_score": 0.7201,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "456983a74268abdcb4b69769372422c75ee362b4",
+    "title": "Final Fantasy: Resonance - IGN Southeast Asia",
+    "url": "https://sea.ign.com/final-fantasy-resonance",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:05:22Z",
+    "summary": "Final Fantasy: Resonance IGN Southeast Asia",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.2,
+    "freshness_score": 0.9520358183084167,
+    "home_score": 0.7184,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "643795a6fe4d0391cad6f9a5c92957a799a097e3",
+    "title": "Kingdom Hearts Cloud Version Switch Games Delisted",
+    "url": "https://www.siliconera.com/kingdom-hearts-cloud-version-switch-games-delisted/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T17:40:00Z",
+    "summary": "All four of the Kingdom Hearts Switch Cloud Version collections of games are delisted ahead of the Switch 2 releases",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9867315480793792,
+    "home_score": 0.717,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "08b06f801da4f894a177c1d6dfd65591b7498a5d",
+    "title": "Atelier Yumia Switch 2 Edition, Atelier Karia Announced",
+    "url": "https://www.siliconera.com/atelier-yumia-switch-2-edition-atelier-karia-announced/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T17:20:00Z",
+    "summary": "The Atelier Yumia Switch 2 Edition is out now, and the follow-up game Atelier Karia will show up on multiple platforms in 2027",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9821739030566886,
+    "home_score": 0.715,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "53a38fc4a87d8e95e29ed8bf0e17dc65f021ff7a",
+    "title": "Muramasa: Revenant Blades Announced for Early 2027",
+    "url": "https://rpgamer.com/2026/06/muramasa-revenant-blades-announced-for-early-2027/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-09T17:25:13Z",
+    "summary": "Marvelous and Vanillaware have announced Muramasa: Revenant Blades",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9833604194887655,
+    "home_score": 0.7125,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "1eddb93a59bb589f4848b7943b91889de13391e6",
+    "title": "Kingdom Hearts IV Receives New Trailer, Platforms Announced",
+    "url": "https://rpgamer.com/2026/06/kingdom-hearts-iv-receives-new-trailer-platforms-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-09T17:24:53Z",
+    "summary": "Square Enix releaed a new trailer for its latest mainline Kingdom Hearts game, Kingdom Hearts IV",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.983284541166813,
+    "home_score": 0.7125,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9f3ec8d2a6085f4d7b9ad437c8fbde3e36be3a1e",
+    "title": "Final Fantasy Resonance HD-2D JRPG Brings Back Brave Exvius",
+    "url": "https://www.siliconera.com/final-fantasy-resonance-hd-2d-jrpg-brings-back-brave-exvius/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:30:00Z",
+    "summary": "The Final Fantasy Brave Exvius story will be preserved in the new HD-2D console and PC game Final Fantasy Resonance",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9708716805503792,
+    "home_score": 0.7099,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9ffe6fee7104a63949469436ee61866d66800c99",
+    "title": "Metaphor: ReFantazio Comes to Nintendo Switch 2 This November",
+    "url": "https://monstervine.com/2026/06/metaphor-refantazio-switch-2-release-date/",
+    "source_name": "MonsterVine",
+    "source_type": "rss",
+    "published_at": "2026-06-09T18:03:40Z",
+    "summary": "Atlus has announced that its award-winning fantasy RPG Metaphor: ReFantazio is coming to Nintendo Switch 2 on November 12, 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Atlus"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9921515915655393,
+    "home_score": 0.7075,
+    "source_quality": 0.74,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "November 12, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "626b8c5dec976200fdf7fe266d6514bc90a588fe",
+    "title": "10 Best JRPG Announcements During Summer Game Fest Season",
+    "url": "https://www.dualshockers.com/best-jrpg-announcements-during-summer-game-fest-season/",
+    "source_name": "DualShockers",
+    "source_type": "rss",
+    "published_at": "2026-06-09T17:30:13Z",
+    "summary": "A JRPG was the headliner for Summer Game Fest, but there are plenty of other titles that deserve your attention as well",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.984499121961025,
+    "home_score": 0.7075,
+    "source_quality": 0.75,
+    "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/best-jrpg-announcements-during-summer-game-fest-season.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9d9bde4380217df6cafc395f7b2c914836883540",
+    "title": "The Last Blossom Anime Film Heads to North American Theaters This August",
+    "url": "https://crunchyroll.com/news/latest/2026/6/9/the-last-blossom-anime-film-heads-to-north-american-theaters-this-august",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:50:00Z",
+    "summary": "2025 film from ODDTAXI creator to screen for two nights",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9753765529416784,
+    "home_score": 0.7074,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "98763d627116341b6172dbb5696e6e24116bd7f2",
+    "title": "Pok\u00e9mon Pokopia Free Update, Expansion Pass Announced",
+    "url": "https://rpgamer.com/2026/06/pokemon-pokopia-free-update-expansion-pass-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:32:38Z",
+    "summary": "The Pok\u00e9mon Company announced a free update and an Expansion Pass for life sim Pok\u00e9mon Pokopia",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9714634336068708,
+    "home_score": 0.7072,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "e41c68b1377dd8bba617d0f7253f9af7ed49a048",
+    "title": "Lords of the Fallen II Switch 2 Version Added",
+    "url": "https://rpgamer.com/2026/06/lords-of-the-fallen-ii-switch-2-version-added/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:31:15Z",
+    "summary": "CI Games announced that Lords of the Fallen II will also be released for Nintendo Switch 2",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9711523960603375,
+    "home_score": 0.707,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "252c264af88ba4206023791b8a027aa6a96924d2",
+    "title": "Vanillaware\u2019s Muramasa: Rebirth Returns as Muramasa: Revenant Blades",
+    "url": "https://www.siliconera.com/vanillawares-muramasa-rebirth-returns-as-muramasa-revenant-blades/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:57:10Z",
+    "summary": "The Vanillaware action-RPG Muramasa: Revenant Blades is coming back for a third time, this time on Switch, Switch 2, PS5, and PC",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9635207246629534,
+    "home_score": 0.7066,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "1cc1912a3fb086be76df2592972a033da0525e10",
+    "title": "Every Switch and Switch 2 Game at the June 2026 Nintendo Direct",
+    "url": "https://www.siliconera.com/every-switch-and-switch-2-game-at-the-june-2026-nintendo-direct/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:50:00Z",
+    "summary": "Several big announcements as well as lots of ports and remakes",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9619236147013259,
+    "home_score": 0.7059,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "cd77a62555680c46f8ad33383da8469d3113ad0f",
+    "title": "Touhou Scarlet Devil Remake Announced",
+    "url": "https://www.siliconera.com/touhou-scarlet-devil-remake-announced/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:50:00Z",
+    "summary": "The remake will also let players access the original classic version of the mainline Touhou shmup game",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.96192361342841,
+    "home_score": 0.7059,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6b521626ef4f0991ff2b79173601a191572af712",
+    "title": "Deltarune Chapter 5 Release Date Falls in June 2026",
+    "url": "https://www.siliconera.com/deltarune-chapter-5-release-date-falls-in-june-2026/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:42:57Z",
+    "summary": "We got a Deltarune Chapter 5 release date, and it'll be showing up sooner than expected later in June 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9603550863450623,
+    "home_score": 0.7052,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "888c685ce7133260a472a0044c73bfdd920a911c",
+    "title": "Nintendo Goes All Out in Latest Direct With Zelda: Ocarina of Time, Kingdom Hearts IV, New Xenoblade, Fire Emblem, and a Lot More",
+    "url": "https://animecorner.me/nintendo-goes-all-out-in-latest-direct-with-zelda-ocarina-of-time-kingdom-hearts-iv-new-xenoblade-fire-emblem-and-a-lot-more/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:11:40Z",
+    "summary": "Nintendo Goes All Out in Latest Direct With Zelda: Ocarina of Time, Kingdom Hearts IV, New Xenoblade, Fire Emblem, and a Lot More",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.966759915757328,
+    "home_score": 0.705,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7d1c05ab0abdae5cdadcecf3f2aaf89f1b1e46a3",
+    "title": "Jujutsu Kaisen Rumble: Survivaton Is a \u201cSurvivors Royale\u201d from Vampire Survivors\u2019 Developer That Will Launch in 2026",
+    "url": "https://anitrendz.net/news/2026/06/09/jujutsu-kaisen-rumble-survivaton-is-a-survivors-royale-from-vampire-survivors-developer/?utm_source=rss&utm_medium=rss&utm_campaign=jujutsu-kaisen-rumble-survivaton-is-a-survivors-royale-from-vampire-survivors-developer",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:36:21Z",
+    "summary": "Jujutsu Kaisen is getting a multiplayer bullet heaven/Survivors-like game from Vampire Survivors developer poncle",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9722993603272043,
+    "home_score": 0.7045,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "adedb159ef4afa18aef15513e20ef00508338a3d",
+    "title": "Lies of P: Complete Edition Coming to Switch 2 in August",
+    "url": "https://rpgamer.com/2026/06/lies-of-p-complete-edition-coming-to-switch-2-in-august/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:02:46Z",
+    "summary": "Neowiz announced that Round 8 Studio's action RPG Lies of P will release on Nintendo Switch 2",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.964770294179672,
+    "home_score": 0.7041,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "August 6, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "03297b708e260bbbb44c2244001bdd0ef87c9f95",
+    "title": "Onimusha: Way of the Sword Switch 2 Version Announced",
+    "url": "https://rpgamer.com/2026/06/onimusha-way-of-the-sword-switch-2-version-announced/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:02:08Z",
+    "summary": "Capcom revealed that action RPG Onimusha: Way of the Sword will also release on Nintendo Switch 2",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.964628860784467,
+    "home_score": 0.7041,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "September 25, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "1646e6113fe13335f8377641bc137588fb022a94",
+    "title": "RuneScape: Dragonwilds Switch 2 Version Also Revealed",
+    "url": "https://rpgamer.com/2026/06/runescape-dragonwilds-switch-2-version-also-revealed/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:02:01Z",
+    "summary": "Jagex announced that RuneScape: Dragonwilds will also be coming to Nintendo Switch 2 alongside the PC, PlayStation 5, and Xbox Series X|S versions",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9646028076607334,
+    "home_score": 0.7041,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "September 15, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "b8072a014f5ffc0ebceb28ba0504291a61ecfda8",
+    "title": "9 R.I.P. Sequel Receives Fall 2026 Western Release Window",
+    "url": "https://noisypixel.net/9-r-i-p-sequel-fall-2026-release-window/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:25:18Z",
+    "summary": "9 R.I.P. Sequel Receives Fall 2026 Western Release Window",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9698157687483709,
+    "home_score": 0.7034,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6092d0ff09e2252b7f0b0f368291238e58985df9",
+    "title": "Counter-Strike 2 captures 66% of $36 million Kalshi esports trading volume",
+    "url": "https://esports.gg/news/counter-strike-2/counter-strike-2-captures-66-of-36-million-kalshi-esports-trading-volume/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:33:02Z",
+    "summary": "Counter-Strike 2 accounted for nearly two-thirds of all esports prediction market activity on Kalshi during the first week of June 2026",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9581527063522098,
+    "home_score": 0.7032,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "f418d7524d44e25a65ef5b1138d9256e4ac95e79",
+    "title": "New Xenoblade Genesis Game Coming to Switch 2 in 2027",
+    "url": "https://www.siliconera.com/new-xenoblade-genesis-game-coming-to-switch-2-in-2027/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:10:30Z",
+    "summary": "This first look at the game showcases the world and characters in this new entry in the JRPG series",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9531683322100495,
+    "home_score": 0.7019,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "391600cc473fa98129652b48417b609c048af18c",
+    "title": "Kingdom Hearts IV Reveals First Trailer, Confirmed for Nintendo Switch 2",
+    "url": "https://animecorner.me/kingdom-hearts-iv-reveals-first-trailer-confirmed-for-nintendo-switch-2/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:39:30Z",
+    "summary": "Square Enix has unveiled the first trailer for Kingdom Hearts IV during the June\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9595881648874858,
+    "home_score": 0.7018,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "6ad74bd8594e8d740a4f37b9860dd2f4c2d59234",
+    "title": "Vampire Survivors Dev Making Jujutsu Kaisen Rumble: Survivaton",
+    "url": "https://www.siliconera.com/vampire-survivors-dev-making-jujutsu-kaisen-rumble-survivaton/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:09:17Z",
+    "summary": "The Vampire Survivors developers Poncle are working with Shueisha on Jujutsu Kaisen Rumble: Survivaton for 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9528999223091551,
+    "home_score": 0.7018,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "09829367629ef24eed08d6857db56875a311b68d",
+    "title": "Kingdom Hearts 4 Switch 2 Appears at Nintendo Direct",
+    "url": "https://www.siliconera.com/kingdom-hearts-4-switch-2-appears-at-nintendo-direct/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:06:28Z",
+    "summary": "Kingdom Hearts 4 will be on the Switch 2 at launches and appeared at the Nintendo Direct, and the other games are headed to the system",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9522788267344691,
+    "home_score": 0.7015,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "62abe79a3f5168dc9a079b1b7b141893d9afdccc",
+    "title": "Build and Manage Your Own Baratie in ONE PIECE: Grand Gourmet New Game",
+    "url": "https://animecorner.me/build-and-manage-your-own-baratie-in-one-piece-grand-gourmet-new-game/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:29:02Z",
+    "summary": "Bandai Namco has announced ONE PIECE: Grand Gourmet, a new management simulation game developed\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9572660496367049,
+    "home_score": 0.7008,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "8ee8451decb585ea77ad85357c9449dbc27646c4",
+    "title": "Nintendo Reveals The Legend of Zelda: Ocarina of Time Remake, New Kingdom Hearts 4 Trailer in June 2026 Direct",
+    "url": "https://crunchyroll.com/news/latest/2026/6/9/nintendo-direct-kingdom-hearts-4-zelda-ocarina-of-time-remake-pokopia-expansion-pass-xenoblade-genesis",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:43:00Z",
+    "summary": "Pokopia gets an Expansion Pass while ONE PIECE gets cookin\u2019",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9603658869103378,
+    "home_score": 0.7007,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -663,21 +1491,186 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9924844212390675,
-    "home_score": 0.7351,
+    "freshness_score": 0.9160693931221522,
+    "home_score": 0.7007,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "a2c882ae09a8fe1008426bd86cf2ce9fce286720",
-    "title": "Persona 4 Revival Broadcast Livestream Will Air Next Week",
-    "url": "https://www.siliconera.com/persona-4-revival-broadcast-livestream-will-air-next-week/",
-    "source_name": "Siliconera",
+    "id": "8472e0d2349d76cb3e54231548f70e64b606e11a",
+    "title": "Riot on inspirations for Locke: Dante, Vergil, and anime swagger",
+    "url": "https://esports.gg/news/league-of-legends/locke-inspirations/",
+    "source_name": "Esports.gg",
     "source_type": "rss",
-    "published_at": "2026-06-08T16:00:00Z",
-    "summary": "Following SGF 2026, Atlus will hold a Persona 4 Revival Broadcast Livestream going over the JRPG remake",
+    "published_at": "2026-06-09T15:02:00Z",
+    "summary": "Dante, Vergil, and animes: Riot Games speak on Locke's design \u2014 \"He had to be blonde",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9512943424944701,
+    "home_score": 0.7001,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3410d431673dba82f38f651baf42fb6904b2111a",
+    "title": "The Legend of Zelda: Ocarina of Time Gets Official Remake in 2026",
+    "url": "https://animecorner.me/the-legend-of-zelda-ocarina-of-time-gets-official-remake-in-2026/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:08:13Z",
+    "summary": "Nintendo confirmed that The Legend of Zelda: Ocarina of Time will officially get a\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.952664392267338,
+    "home_score": 0.6987,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a5f8613fc6ccd118642665cbf1386dcce4f418fd",
+    "title": "New HD-2D Final Fantasy Announced For Consoles And PC - Engadget",
+    "url": "https://www.engadget.com/2190521/new-hd-2d-final-fantasy-announced-for-consoles-and-pc/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:50:17Z",
+    "summary": "New HD-2D Final Fantasy Announced For Consoles And PC Engadget",
+    "content": "",
+    "categories": [
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9619861221649526,
+    "home_score": 0.6969,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c32546037ca19382aa8a157a0609992e7e4a7de9",
+    "title": "Clarion on the Link Between Anime and Guitar Music",
+    "url": "https://crunchyroll.com/news/interviews/2026/6/9/clarion-anime-and-guitar-music-interview",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:00:00Z",
+    "summary": "Clarion on the Link Between Anime and Guitar Music",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9508541054751788,
+    "home_score": 0.6964,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3392ab8f6a759e90b22ab715b5edb581815b3443",
+    "title": "Dark Arthurian Co-op Action RPG \u2018Wardens of Avalon\u2019 Reveals PC Playtest Set for June in New Trailer",
+    "url": "https://noisypixel.net/wardens-of-avalon-june-pc-playtest-dark-arthurian-rpg/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-09T18:04:46Z",
+    "summary": "Publisher The Arcade Crew and developer Runes Studio have announced Wardens of Avalon, a Dark Arthurian action RPG coming to PC via Steam in 2027",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9924045321887233,
+    "home_score": 0.6956,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b5a3690876b8f45660801822d55026dd315f2bc6",
+    "title": "Clevatess Season 2 Reveals July 8 Start With 3rd Trailer",
+    "url": "https://anitrendz.net/news/2026/06/09/clevatess-season-2-reveals-july-8-start-with-3rd-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=clevatess-season-2-reveals-july-8-start-with-3rd-trailer",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-09T11:10:06Z",
+    "summary": "Clevatess' second season has gotten its third trailer and a July 8 start date",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9015747010613815,
+    "home_score": 0.6927,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "4bb4b10a776e8dbcd6a413a56ab2a8ee23c24f18",
+    "title": "Dragon\u2019s Dogma 2: Dark Arisen announced for Nintendo Switch 2, expanding original game with new region",
+    "url": "https://automaton-media.com/en/news/dragon-dogma-2-dark-arisen-announced-for-nintendo-switch-2-expanding-original-game-with-new-region/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-06-09T14:21:48Z",
+    "summary": "During the June 9 Nintendo Direct, Capcom announced that Dragon\u2019s Dogma 2: Dark Arisen, an expanded edition of the 2024 action RPG, will release for the Nintendo Switch 2 on Octobe",
     "content": "",
     "categories": [
       "games",
@@ -685,23 +1678,24 @@
       "merch",
       "events"
     ],
-    "tags": [
-      "singapore",
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona",
-      "Atlus"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.5,
-    "freshness_score": 0.7484734806895528,
-    "home_score": 0.7348,
-    "source_quality": 0.82,
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9424832706202626,
+    "home_score": 0.6926,
+    "source_quality": 0.79,
     "image_url": null,
-    "event_metadata": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 9",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
     "result_type": "article"
   },
   {
@@ -724,8 +1718,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9678866224962928,
-    "home_score": 0.7255,
+    "freshness_score": 0.8933654427176683,
+    "home_score": 0.692,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -761,987 +1755,21 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9662486798345032,
-    "home_score": 0.7248,
+    "freshness_score": 0.8918536338545364,
+    "home_score": 0.6913,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "a59e309f5337e34fc8ed70822d88ea6afd0e0c19",
-    "title": "I Want to Love You Till Your Dying Day Anime Reveals July 7 Debut in New Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/i-want-to-love-you-till-your-dying-day-anime-premiere-date-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T12:47:00Z",
-    "summary": "New key art and cast additions revealed for dark fantasy yuri manga adaptation",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9989380839237149,
-    "home_score": 0.718,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 7",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "fe8e32802c335f1774a3f391789555a3a4b030bb",
-    "title": "Persona 4 Revival Demo Event Will Let You Play First 30 Minutes",
-    "url": "https://www.siliconera.com/persona-4-revival-demo-event-will-let-you-play-first-30-minutes/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-09T12:00:00Z",
-    "summary": "Persona 4 Revival Demo Event Will Let You Play First 30 Minutes is trending around jrpg.",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9881293009033624,
-    "home_score": 0.7177,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "546598403bc8da9c62b68d2014b06ce86241cc7c",
-    "title": "Kyousuke Motomi\u2019s Dengeki Daisy Manga Gets Anime Adaptation More Than A Decade After Its End",
-    "url": "https://animehunch.com/kyousuke-motomis-dengeki-daisy-manga-finally-gets-anime-adaptation-more-than-a-decade-later/",
-    "source_name": "Anime Hunch",
-    "source_type": "rss",
-    "published_at": "2026-06-09T12:45:08Z",
-    "summary": "Kyousuke Motomi\u2019s Dengeki Daisy manga is finally getting a TV anime adaptation more than a decade after the shoujo series concluded its serialization",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9985062967793858,
-    "home_score": 0.7163,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": "Named guests mentioned",
-      "guest_names": [
-        "the protagonists Teru Kurebayashi"
-      ],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "48fd4ce1c7d4a72b7bbae658a3ec4a2222724904",
-    "title": "Clevatess Season 2 Anime Reveals July 8 Premiere, Opening Theme Song in New Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/clevatess-season-2-anime-opening-theme-song",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T09:12:00Z",
-    "summary": "Crunchyroll will continue to stream the series when it returns",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9504392761864254,
-    "home_score": 0.7162,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 8",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "2fa28c8e911e8b2d65414b473fe871eac801ee4c",
-    "title": "I Want to Love You Till Your Dying Day Reveals New Visual, Trailer, Theme Songs, July 7 Premiere",
-    "url": "https://animecorner.me/i-want-to-love-you-till-your-dying-day-reveals-new-visual-trailer-opening-theme-song-july-7-premiere/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-09T12:05:23Z",
-    "summary": "I Want to Love You Till Your Dying Day Reveals New Visual, Trailer, Theme Songs, July 7 Premiere",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9893610712000748,
-    "home_score": 0.7152,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 7",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "181219851b2ae9c0a12da4515d97b8c70100bb1e",
-    "title": "Dr. STONE SCIENCE FUTURE Anime Takes One Small Step in Final Story Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/dr-stone-science-future-anime-final-story-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T12:11:00Z",
-    "summary": "Dr. STONE SCIENCE FUTURE Anime Takes One Small Step in Final Story Trailer",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.990648186723744,
-    "home_score": 0.7143,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "12d2be71820770738b852f01b4c06ea4235b97cb",
-    "title": "Hanaori-san Still Wants to Fight in the Next Life Anime Premieres on July 11",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/hanaori-san-still-wants-to-fight-in-the-next-life-anime-july-11-release-date",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T11:51:00Z",
-    "summary": "Crunchyroll will stream the reverse isekai series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9860724516980277,
-    "home_score": 0.7122,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 11",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "d4b8b4001e77d7c43d3acd5388083220f3e1481c",
-    "title": "Tactical Exploration Roguelite Ascenders: Beyond the Peak Demo Released",
-    "url": "https://rpgamer.com/2026/06/tactical-exploration-roguelite-ascenders-beyond-the-peak-demo-released/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-09T10:31:11Z",
-    "summary": "Publisher Twin Sails Interactive and developer Ludogram have released a demo for turn-based exploration roguelite Ascenders: Beyond the Peak",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "gacha"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9680210678943483,
-    "home_score": 0.7056,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "40f7ea3e10a6053361b29e0e8d40ae09becf1066",
-    "title": "Street Fighter 6 Celebrates 7 Million Copies Sold Globally",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/street-fighter-6-7-million-copies",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T10:43:00Z",
-    "summary": "New milestone adds another million since November",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Street Fighter 6"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9706724614631796,
-    "home_score": 0.7053,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1c6dfd47fe1f110e4db2aca355a5a3b4a6f0d4e0",
-    "title": "Though I Am an Inept Villainess Anime Reveals More Cast, Opening Theme Song in New Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/though-i-am-an-inept-villainess-anime-cast-opening-theme-song-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T10:38:00Z",
-    "summary": "Crunchyroll will simulcast the fantasy drama series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9695496468803404,
-    "home_score": 0.7048,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3e89d70481ebbe630799d30b36ae201db8fe3aa0",
-    "title": "SlashZero introduces features in latest trailer",
-    "url": "https://nichegamer.com/slashzero-introduces-features-in-latest-trailer/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-06-09T10:25:13Z",
-    "summary": "Publisher Skystone Games and developer Streetlamp Studio shared a new features trailer for SlashZero, their 2",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9666849376834403,
-    "home_score": 0.6975,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d0790b6581ff83c84d1ff6e1e1f536c1348f1c78",
-    "title": "\u2018Final Fantasy VII Revelation\u2019 Concludes The Trilogy This Spring 2027 - THE MAGIC RAIN",
-    "url": "https://themagicrain.com/2026/06/final-fantasy-vii-revelation-concludes-the-trilogy-this-spring-2027/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-09T09:19:42Z",
-    "summary": "\u2018Final Fantasy VII Revelation\u2019 Concludes The Trilogy This Spring 2027 THE MAGIC RAIN",
-    "content": "",
-    "categories": [
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9521344900408405,
-    "home_score": 0.6925,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "726669fe9a4d3f4f5f51609434c27db4050c444c",
-    "title": "FINAL FANTASY X/X-2 HD Remaster Gets Nintendo Switch 2 Release Date",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/final-fantasy-x-x-2-hd-remaster-nintendo-switch-2-release-date",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T08:30:00Z",
-    "summary": "The game's long list of available platforms expands!",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9412436666790386,
-    "home_score": 0.6921,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6e4edc5295e94ceb3265d87df3bb21b8941c7e9e",
-    "title": "The Way of the Househusband Gets New Special Anime Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/the-way-of-the-househusband-special-anime-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T04:15:00Z",
-    "summary": "The promotional video features previously unadapted scenes",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8872921260262451,
-    "home_score": 0.6878,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b06ef20b26f75dc9f2ce8ef675f88e77202d8320",
-    "title": "Final Fantasy 10/10-2 HD Remaster coming to Nintendo Switch 2",
-    "url": "https://nintendoeverything.com/final-fantasy-10-10-2-hd-remaster-coming-to-nintendo-switch-2/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-09T11:08:07Z",
-    "summary": "Just ahead of today\u2019s Nintendo Direct, Square Enix made a surprise announcement that it\u2019s releasing Final Fantasy 10/10-2 HD Remaster on Nintendo Switch 2",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9763325499963861,
-    "home_score": 0.6868,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 23, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "a34a932c565e435fbae53e68caaef8b47957d3cc",
-    "title": "Persona 4 Revival Brings Shadows, Social Links, & More on February 18th, 2027 - RPGFan",
-    "url": "https://www.rpgfan.com/2026/06/09/persona-4-revival-february-2027/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-09T12:00:00Z",
-    "summary": "Persona 4 Revival Brings Shadows, Social Links, & More on February 18th, 2027 RPGFan",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9881285379130602,
-    "home_score": 0.6847,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b7579bf359e7cf5f8c9e6a1915be906f92656355",
-    "title": "Stage 2 at CS2 IEM Cologne Major 2026: Spirit, G2, and more join the fun",
-    "url": "https://esports.gg/news/counter-strike-2/cologne-major-2026-stage-2-details-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-09T06:20:40Z",
-    "summary": "It\u2019s time for some heavy hitters and very promising tournament winners to start their exciting journey at the Counter-Strike 2 (CS2) Cologne Major",
-    "content": "",
-    "categories": [
-      "esports",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9134818926257329,
-    "home_score": 0.6831,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": "tournament",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "fd0de260f056935737df107e97b7856e2439f57c",
-    "title": "Final Fantasy VII Revelation revealed as the final chapter of Square Enix\u2019s remake trilogy - HardwareZone",
-    "url": "https://www.hardwarezone.com.sg/entertainment/gaming/square-enix-final-fantasy-vii-revelation-pc-playstation-xbox-switch-2",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-09T11:36:23Z",
-    "summary": "Final Fantasy VII Revelation revealed as the final chapter of Square Enix\u2019s remake trilogy HardwareZone",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9827413563237027,
-    "home_score": 0.6822,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d64e4c378f55b8081cd84592b589643cdc4cd230",
-    "title": "Edge of Memories Demo Preview \u2013 A Souls-Flavoured JRPG That Hooks You Fast - AltChar",
-    "url": "https://www.altchar.com/features/edge-of-memories-demo-preview-a-souls-flavoured-jrpg-that-hooks-you-fast-aGa4i7m7KpjP",
-    "source_name": "Google News JRPG Demo",
-    "source_type": "rss",
-    "published_at": "2026-06-09T10:35:00Z",
-    "summary": "Edge of Memories Demo Preview \u2013 A Souls-Flavoured JRPG That Hooks You Fast AltChar",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9688762050667499,
-    "home_score": 0.682,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7587564c7868d9fe3b88c0d6838db1909ed9a020",
-    "title": "Final Fantasy X|X-2 HD Remaster Switch 2 Version Releasing in July",
-    "url": "https://rpgamer.com/2026/06/final-fantasy-xx-2-hd-remaster-switch-2-version-releasing-in-july/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-09T10:31:35Z",
-    "summary": "Square Enix announced that Final Fantasy X|X-2 HD Remaster will be getting a dedicated Nintendo Switch 2 release",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9681107096004392,
-    "home_score": 0.6816,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 23, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "1894b7ed580272440844eab50e8d84b54c9c2dfa",
-    "title": "New Fairy Tail Manga Reveals Title & More Details",
-    "url": "https://animehunch.com/new-fairy-tail-manga-reveals-title-more-details/",
-    "source_name": "Anime Hunch",
-    "source_type": "rss",
-    "published_at": "2026-06-09T11:14:00Z",
-    "summary": "Hiro Mashima has revealed the title and new details for the upcoming Fairy Tail manga series that is set to launch as part of the franchise\u2019s 20th anniversary celebrations",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9776627511760424,
-    "home_score": 0.6769,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "8439682f3b8cf1df9da6f7db9fa101c1c0f89165",
-    "title": "VALORANT continues to be afraid of exploring Nanobomb even during Pride Month",
-    "url": "https://esportsinsider.com/2026/06/valorant-nanobomb-pride-month-drama",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-06-08T22:17:52Z",
-    "summary": "Pride Month is a month-long celebration of the LGBTQ+ community, and many games find ways to take part",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Valorant"
-    ],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.16,
-    "freshness_score": 0.8168898232587541,
-    "home_score": 0.6731,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "04def5cb0833e386adb1da64454f9eb5fb65e45f",
-    "title": "The Most Wholesome (and Emotional) Anime Sex Scenes, Ranked!",
-    "url": "https://blog.jlist.com/your-friend-in-japan/the-most-wholesome-and-emotional-anime-sex-scenes-ranked/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-06-09T08:21:35Z",
-    "summary": "People online celebrate today, June 9th, as \u2018Sex Day\u2019 because, well, 6/9",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9394113642315186,
-    "home_score": 0.6717,
-    "source_quality": 0.78,
-    "image_url": "https://bimgs.jlist.com/wp-content/uploads/2026/06/fate-stay-night-love-scene-.mp4",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "5972088e7d6910c002e7a7ab937e9f1eb0b1d694",
-    "title": "Shiranuhi Anime Short Film Unveils Main Visual",
-    "url": "https://crunchyroll.com/news/latest/2026/6/9/shiranuhi-anime-short-film-main-visual",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-09T04:56:00Z",
-    "summary": "The CoMix Wave Films-produced short hits theaters August 21",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8957532751437677,
-    "home_score": 0.6716,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 21",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "60023cacf5fbc8fe75ced70cd40d820392ce4292",
-    "title": "The release date for the Nintendo Switch 2 version of FINAL FANTASY X/X-2 HD Remaster has been set! Downloadable version will be released on July 23rd and packaged version on August 27th. - Saiga NAK",
-    "url": "https://saiganak.com/news/ffx-x-2hd-nintendo-switch2-release-date/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-09T09:13:05Z",
-    "summary": "The release date for the Nintendo Switch 2 version of FINAL FANTASY X/X-2 HD Remaster has been set! Downloadable version will be released on July 23rd and packaged version on Augus",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.950677285222546,
-    "home_score": 0.6678,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bc43f95034d0bf709f92dcf2afd5b9a883fdf810",
-    "title": "Final Fantasy X/X-2 HD Remaster Is Getting A Switch 2 Release This July - Gamer Matters",
-    "url": "https://gamermatters.com/final-fantasy-x-x-2-hd-remaster-is-getting-a-switch-2-release-this-july/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-09T09:11:15Z",
-    "summary": "Final Fantasy X/X-2 HD Remaster Is Getting A Switch 2 Release This July Gamer Matters",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9502739248775263,
-    "home_score": 0.6676,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fe02b201e93ccdfc98d6c44ea1827f92692695ec",
-    "title": "Final Fantasy X & X-2 HD Remaster launches on July 23 for Nintendo Switch 2",
-    "url": "https://www.rpgsite.net/news/20611-final-fantasy-x-x-2-hd-remaster-switch-2-release-date",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-09T07:33:56Z",
-    "summary": "Final Fantasy X & X-2 HD Remaster arrives on another platform",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9291068997200774,
-    "home_score": 0.6656,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 23",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "b1e9c250c0e8c1d6073d177abf94c76453cd6f39",
-    "title": "Swords of Legends Shows New Combat Gameplay at Summer Game Fest 2026",
-    "url": "https://monstervine.com/2026/06/swords-of-legends-combat-gameplay-summer-game-fest/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-06-09T08:14:47Z",
-    "summary": "Aurogon Shanghai has shared a new combat-focused trailer for Swords of Legends, its upcoming single-player action-adventure RPG coming to PlayStation, Xbox, and PC",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9379338266215845,
-    "home_score": 0.6651,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "209fa8123107d34ce4786f04c44ca2c44ce3b679",
-    "title": "MARRIAGETOXIN Reveals Episode 10 Preview",
-    "url": "https://animecorner.me/marriagetoxin-reveals-episode-10-preview/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-09T02:37:21Z",
-    "summary": "MARRIAGETOXIN anime revealed the Episode 10 preview images and synopsis ahead of the episode\u2019s June\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8674606512301997,
-    "home_score": 0.6604,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bd45d39240513c554ace077fddb2ace2990261d2",
-    "title": "Final Fantasy X/X-2 HD Remaster coming to Switch 2",
-    "url": "https://nichegamer.com/final-fantasy-x-x-2-hd-remaster-coming-to-switch-2/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-06-09T07:01:23Z",
-    "summary": "Square Enix has announced they\u2019re releasing a native port for Final Fantasy X/X-2 HD Remaster on Switch 2",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9221325565300361,
-    "home_score": 0.6595,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "688edec5c53f55d7be0e388c468ca2fe71a67543",
-    "title": "Dengeki Daisy 2007 Shojo Manga Gets TV Anime Adaptation in 2027, Reveals Main Staff",
-    "url": "https://animecorner.me/dengeki-daisy-2007-shojo-manga-gets-tv-anime-adaptation-in-2027-reveals-main-staff/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-09T02:04:52Z",
-    "summary": "Kyosuke Motomi's Dengeki Daisy shojo is officially getting an anime adaptation in 2027, with\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.860962423297148,
-    "home_score": 0.6574,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "add32817192aec8859c7384342a8adc79cf9dd65",
-    "title": "What\u2019s your favorite LGBTQ+ manga or light novel of the 2020s so far?",
-    "url": "https://www.animefeminist.com/whats-your-favorite-lgbtq-manga-or-light-novel-of-the-2020s-so-far/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-06-09T03:25:12Z",
-    "summary": "The post What\u2019s your favorite LGBTQ+ manga or light novel of the 2020s so far? appeared first on Anime Feminist",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8771222097188548,
-    "home_score": 0.6557,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "739f6c48a07d61b6d307d25b4317fe56ea1ed20c",
-    "title": "Schr\u00f6dinger\u2019s Call earns high praise from The House in Fata Morgana\u2019s creator. A one-of-a-kind visual novel where everything comes together so seamlessly you wonder \u201cJust how much of this did they plan?\u201d",
-    "url": "https://automaton-media.com/en/interviews/schrodingers-call-earns-high-praise-from-the-house-in-fata-morganas-creator-a-one-of-a-kind-visual-novel-where-everything-comes-together-so-seamlessly-you-wonder-just-how-much-of-t/",
+    "id": "e646fcb8e975dbfbd15e1cfe5df50531898c04dc",
+    "title": "Blue Archive executive producer, who majored in AI, says the game\u2019s philosophy is \u201cdirectly opposed to AI\u201d",
+    "url": "https://automaton-media.com/en/news/blue-archive-executive-producer-who-majored-in-ai-says-the-games-philosophy-is-directly-opposed-to-ai/",
     "source_name": "Automaton West",
     "source_type": "rss",
-    "published_at": "2026-06-09T00:33:43Z",
-    "summary": "The House in Fata Morgana developer Hanada Keika shares impression of Shueisha's poignant end-of-the-world title Schrodinger's Call",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8429869008414955,
-    "home_score": 0.6498,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fa05b93aa717bcdb366428cf09f4c3153cbf80b5",
-    "title": "Sea of Stars Sunset Edition and Switch 2 Version Announced",
-    "url": "https://www.siliconera.com/sea-of-stars-sunset-edition-and-switch-2-version-announced/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-08T20:00:00Z",
-    "summary": "Sea of Stars is on the Switch 2 today and gets a Sunset Edition update on every other platform too",
+    "published_at": "2026-06-09T14:00:00Z",
+    "summary": "Blue Archive executive producer Yong-Ha Kim recently talked about generative AI in the context of the game's current and future direction",
     "content": "",
     "categories": [
       "games",
@@ -1751,103 +1779,23 @@
     ],
     "tags": [],
     "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7912320877001274,
-    "home_score": 0.6491,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4fe632ee43871a9d689febe4e6c613eb73c792c3",
-    "title": "Persona 4 Revival arrives Feb 2027, Persona 6 gets first teaser - GadgetMatch",
-    "url": "https://www.gadgetmatch.com/persona-4-revival-arrives-feb-2027-persona-6-gets-first-teaser/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-09T05:46:45Z",
-    "summary": "Persona 4 Revival arrives Feb 2027, Persona 6 gets first teaser GadgetMatch",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9063380144214447,
-    "home_score": 0.6479,
-    "source_quality": 0.76,
+    "freshness_score": 0.9377391982936927,
+    "home_score": 0.6905,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "5638deb2294f71f9c55768afe6d3c64be24c4fee",
-    "title": "Interview: Rooster Fighter Creator Shu Sakuratani & Series Composer Hiroshi Seko",
-    "url": "https://animecorner.me/interview-rooster-fighter-creator-shu-sakuratani-series-composer-hiroshi-seko/",
-    "source_name": "Anime Corner",
+    "id": "3a075a3b2ff8504a44d31716a91d7fb954894451",
+    "title": "Final Fantasy Resonance Trailer Reveals Series\u2019 First HD-2D Game",
+    "url": "https://monstervine.com/2026/06/final-fantasy-resonance-trailer-hd-2d/",
+    "source_name": "MonsterVine",
     "source_type": "rss",
-    "published_at": "2026-06-08T23:22:55Z",
-    "summary": "At Anime NYC 2025 we had the opportunity to speak with Rooster Fighter creator\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8292837969527878,
-    "home_score": 0.6432,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f5453f8ad354167069bc6f4349a6dd34718f7e6f",
-    "title": "Live-Action Look Back Film Reveals Lead Cast, Release Date, New Teaser Visual & Trailer",
-    "url": "https://animecorner.me/live-action-look-back-film-lead-cast-release-date-new-teaser-visual-trailer/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-08T23:17:16Z",
-    "summary": "The upcoming live-action adaptation of Tatsuki Fujimoto's Look Back has revealed its lead cast,\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.828199909070795,
-    "home_score": 0.6427,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "cc3661d77626d8adfca1116b1e6bd24427f61c03",
-    "title": "Square Enix explains Tifa\u2019s inclusion in Street Fighter 6",
-    "url": "https://nintendoeverything.com/square-enix-explains-tifas-inclusion-in-street-fighter-6/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-09T03:23:29Z",
-    "summary": "An announcement at Summer Game Fest on Friday gave us a look at what Capcom is cooking up for Street Fighter 6\u2019s next wave of DLC, which included the surprise reveal of Final Fanta",
+    "published_at": "2026-06-09T18:09:06Z",
+    "summary": "One of the bigger surprises from this morning\u2019s Nintendo Direct presentation was certainly the unveiling of Final Fantasy Resonance \u2014 a new Final Fantasy title featuring some famil",
     "content": "",
     "categories": [
       "games",
@@ -1858,42 +1806,40 @@
       "jrpg"
     ],
     "entity_tags": [
-      "Street Fighter 6"
+      "Final Fantasy"
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8767739789063409,
-    "home_score": 0.642,
-    "source_quality": 0.77,
+    "freshness_score": 0.993400224347701,
+    "home_score": 0.69,
+    "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "643e67fb7e809ef19c812d4c61443f4ca796592f",
-    "title": "Team WE\u2019s dwindling hope, SkewMond becoming best LEC player, Cloud9\u2019s last chance: League of Legends action leading up to MSI",
-    "url": "https://esportsinsider.com/2026/06/league-of-legends-recap-ahead-of-msi",
-    "source_name": "Esports Insider",
+    "id": "65e68dfc7ae785faa64357d83fae84e2985b5587",
+    "title": "Square Enix announces Final Fantasy Resonance, new HD-2D game based on Brave Exvius - GosuGamers",
+    "url": "https://www.gosugamers.net/entertainment/news/78602-square-enix-announces-final-fantasy-resonance-new-hd-2d-game-based-on-brave-exvius",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-08T19:49:15Z",
-    "summary": "Even though the Mid-Season Invitational is less than three weeks away, teams across the world are busy with their spring splits",
+    "published_at": "2026-06-09T18:30:14Z",
+    "summary": "Square Enix announces Final Fantasy Resonance, new HD-2D game based on Brave Exvius GosuGamers",
     "content": "",
     "categories": [
-      "esports",
-      "games",
-      "events"
+      "games"
     ],
     "tags": [
-      "donghua"
+      "jrpg"
     ],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
+    "entity_tags": [
+      "Final Fantasy"
     ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7892650701029047,
-    "home_score": 0.6407,
-    "source_quality": 0.77,
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9982717025477633,
+    "home_score": 0.6892,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
