@@ -1,5 +1,45 @@
 [
   {
+    "id": "4b3513e8b5fda880c322cee1a407d7c3b8250a08",
+    "title": "MLBB Asian Games Qualifier Groups Officially Revealed - games.gg",
+    "url": "https://games.gg/news/mlbb-asian-games-qualifier-groups-revealed/",
+    "source_name": "Google News SEA Esports",
+    "source_type": "rss",
+    "published_at": "2026-06-11T14:57:57Z",
+    "summary": "MLBB Asian Games Qualifier Groups Officially Revealed games",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [
+      "mlbb"
+    ],
+    "entity_tags": [
+      "MLBB"
+    ],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.5499999999999999,
+    "freshness_score": 0.9468538876945174,
+    "home_score": 0.8156,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "qualifier",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "bd4261de6ee0cdcc821b14494a002426bcfcee55",
     "title": "Quartet Switch Review",
     "url": "https://rpgamer.com/review/quartet-switch-review/",
@@ -22,8 +62,316 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.9998030595843533,
-    "home_score": 0.8449,
+    "freshness_score": 0.9225539970644084,
+    "home_score": 0.8101,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a8fcfe956fd5f67c4d2234c4e3cc0abe07bad189",
+    "title": "Japanese Rock Band FLOW Brings \u2018Naruto\u2019 Concert To Singapore In Sep",
+    "url": "https://geekculture.co/japanese-rock-band-flow-brings-naruto-concert-to-singapore-in-sep/",
+    "source_name": "Geek Culture",
+    "source_type": "rss",
+    "published_at": "2026-06-11T07:52:35Z",
+    "summary": "Japanese Rock Band FLOW Brings \u2018Naruto\u2019 Concert To Singapore In Sep is trending around singapore.",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.8580655085758649,
+    "home_score": 0.7561,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "3c008979af09dc7b3c87a854b811953c8d4ebf50",
+    "title": "New Release Round-Up (June 11, 2026)",
+    "url": "https://rpgamer.com/2026/06/new-release-round-up-june-11-2026/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-11T18:04:43Z",
+    "summary": "Welcome to RPGamer's new release round-up",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9886874447359154,
+    "home_score": 0.7549,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 11, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c6a952e9171cb5eeb23bec672df385e6050de5e9",
+    "title": "Fallout 76 Interview",
+    "url": "https://rpgamer.com/2026/06/fallout-76-interview/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-11T15:26:22Z",
+    "summary": "At this year's Summer Game Fest Play Days, Bethesda Game Studios was on-site to discuss Fallout 76 , including its update history, the newest Infestations update, and the future of",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9531031336809981,
+    "home_score": 0.7389,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "5a92a230ab70123d43a81e7f0f6729c0fb22875f",
+    "title": "Esports prediction markets on Kalshi: Breaking down the $36M by game",
+    "url": "https://esportsinsider.com/2026/06/esports-prediction-markets-on-kalshi-breaking-down-the-36m-by-game",
+    "source_name": "Esports Insider",
+    "source_type": "rss",
+    "published_at": "2026-06-11T14:52:44Z",
+    "summary": "Earlier this week, we published our initial piece looking at the headline figures from 1-7 June on prediction market operator Kalshi",
+    "content": "",
+    "categories": [
+      "esports",
+      "games",
+      "events",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.16,
+    "freshness_score": 0.9457112731716865,
+    "home_score": 0.7311,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "1-7 June",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "900f8b7a9444d6cd0619efcb58b5f8668e8abf35",
+    "title": "MOONTON mandates ESIC integrity standards for third-party MLBB tournament licensing",
+    "url": "https://esports.gg/news/mobile-legends-bang-bang/moonton-mandates-esic-integrity-standards-for-third-party-mlbb-tournament-licensing/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-06-11T14:10:52Z",
+    "summary": "MOONTON mandates ESIC integrity standards for third-party MLBB tournament licensing is trending around mlbb.",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [
+      "mlbb"
+    ],
+    "entity_tags": [
+      "MLBB"
+    ],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.2,
+    "freshness_score": 0.9365903858276335,
+    "home_score": 0.7235,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "bc75a6ee259e997bf3902548d3f87d07a272f894",
+    "title": "Final Fantasy Resonance: What To Know About The Franchise\u2019s First HD-2D Game - AugustMan Singapore",
+    "url": "https://www.augustman.com/my/gear/gaming/final-fantasy-resonance-release-date-trailer/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-11T09:23:15Z",
+    "summary": "Final Fantasy Resonance: What To Know About The Franchise\u2019s First HD-2D Game AugustMan Singapore",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.35,
+    "freshness_score": 0.8762644892453848,
+    "home_score": 0.7218,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7cff40bac5bc092c96df8b91e2096cd3828b31dc",
+    "title": "The Forsaken Saintess and Her Foodie Road Trip in Another World Adds 2 New Cast Members, Airs July 6",
+    "url": "https://anitrendz.net/news/2026/06/11/the-forsaken-saintess-and-her-foodie-road-trip-in-another-world-adds-2-new-cast-members-airs-july-6/?utm_source=rss&utm_medium=rss&utm_campaign=the-forsaken-saintess-and-her-foodie-road-trip-in-another-world-adds-2-new-cast-members-airs-july-6",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-11T18:44:38Z",
+    "summary": "Two new voice cast members have been revealed for the upcoming The Forsaken Saintess and Her Foodie Road Trip in Another World TV anime series, which will begin airing in Japan on",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9978649126526961,
+    "home_score": 0.716,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 6",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "41319f5df80bb537ec29dd2f7451343f41bcf9f4",
+    "title": "Chained Echoes Physical Switch Release Revealed",
+    "url": "https://rpgamer.com/2026/06/chained-echoes-physical-switch-release-revealed/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-11T18:04:25Z",
+    "summary": "Umami Tiger announced that it is partnering with Super Rare Games for a Nintendo Switch release of Chained Echoes",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9886187725095933,
+    "home_score": 0.7149,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 18, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "43e99eff27236d7e9c1835e074e8f2cbfeac4e2a",
+    "title": "Calame Provides First Gameplay Look, Demo",
+    "url": "https://rpgamer.com/2026/06/calame-provides-first-gameplay-look-demo/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-11T18:00:15Z",
+    "summary": "Developer Nextale released a gameplay trailer for its upcoming isometric tactical RPG Calame",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9876656976597387,
+    "home_score": 0.7144,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -52,8 +400,8 @@
       "SEA"
     ],
     "sg_relevance": 0.2,
-    "freshness_score": 0.9929451219258804,
-    "home_score": 0.7488,
+    "freshness_score": 0.9162259499497349,
+    "home_score": 0.7143,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -66,6 +414,179 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "f7172fe8ddf5bbead0afc5963ad997ced12ab8ba",
+    "title": "Pokemon Deluxe Character Guide Limited Edition pre-orders return after selling out, plus discount available",
+    "url": "https://nintendoeverything.com/pokemon-deluxe-character-guide-limited-edition-pre-orders-return-after-selling-out-plus-discount-available/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-06-11T18:15:24Z",
+    "summary": "May 18: Good news for Pokemon fans: if you missed out on the Pokemon Deluxe Character Guide Limited Edition after pre-orders went live a few days ago, they\u2019re available once again",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9911355074542982,
+    "home_score": 0.7135,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "May 18",
+      "venue": null,
+      "ticket_status": "Sold out",
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "1ea5e91661a0dda9de34041aca575835fd210aa2",
+    "title": "All the Astronauts Assemble in Dr. Stone Final Season Updated Climax Visual",
+    "url": "https://animecorner.me/all-the-astronauts-assemble-in-dr-stone-final-season-updated-climax-visual/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-11T14:14:28Z",
+    "summary": "All the Astronauts Assemble in Dr. Stone Final Season Updated Climax Visual",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9373713153823553,
+    "home_score": 0.7118,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3af12104c6abcea72c234f60420bd9aece9637ec",
+    "title": "Ninja Scroll Anime Film Gets 4K Screenings in US, Canada This October",
+    "url": "https://crunchyroll.com/news/latest/2026/6/11/ninja-scroll-4k-screenings-us-canada-october",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-11T16:45:00Z",
+    "summary": "Screenings feature restoration overseen by director Yoshiaki Kawajiri",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9706103658733394,
+    "home_score": 0.7053,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "screening",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "988f3d6c3605dfbca70c06dbf083fb43dc3498cd",
+    "title": "1.0 Tales of Seikyu Adds New Romance Options and Marriage",
+    "url": "https://www.siliconera.com/1-0-tales-of-seikyu-adds-new-romance-options-and-marriage/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-11T18:00:00Z",
+    "summary": "1.0 Tales of Seikyu Adds New Romance Options and Marriage",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9876088205597224,
+    "home_score": 0.6994,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "81472490e412e075054a79026050ba39f1d2f4a5",
+    "title": "Cyborg 009 Nemesis Anime Visual Puts Full Cast Together",
+    "url": "https://crunchyroll.com/news/latest/2026/6/11/cyborg-009-nemesis-anime-visual-puts-full-cast-together",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-11T15:47:00Z",
+    "summary": "All nine members on display ahead of summer debut",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9576661107897733,
+    "home_score": 0.6994,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "b91201c261f7a29c4b70b963f4344057578ddfab",
+    "title": "Fall In Love, You False Angels Manga Gets 2027 Anime",
+    "url": "https://anitrendz.net/news/2026/06/11/fall-in-love-you-false-angels-manga-gets-2027-anime/?utm_source=rss&utm_medium=rss&utm_campaign=fall-in-love-you-false-angels-manga-gets-2027-anime",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-11T15:43:04Z",
+    "summary": "A TV anime adaptation of Coco Uzuki's Fall In Love, You False Angels manga is set to begin airing in 2027",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.956794453767887,
+    "home_score": 0.6976,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -87,21 +608,170 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9887783004675905,
-    "home_score": 0.732,
+    "freshness_score": 0.9123810501515865,
+    "home_score": 0.6976,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "1c8a0137df9cbd6c57970c96fb7438643367a77b",
-    "title": "Review: Lover\u2019s Enigma Starts Strong",
-    "url": "https://www.siliconera.com/review-lovers-enigma-starts-strong/",
+    "id": "96818ad44dcc95e9c77f38bb4d50f17200171305",
+    "title": "Fall in Love, You False Angels TV Anime Announced for 2027",
+    "url": "https://animecorner.me/fall-in-love-you-false-angels-tv-anime-announced-for-2027/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-11T15:07:58Z",
+    "summary": "Coco Uzuki's award-winning romance manga Fall in Love, You False Angels is officially receiving\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9490521461688575,
+    "home_score": 0.6971,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fcae00e40dd879837f22e01e2554948cd21d3483",
+    "title": "Japanese scientists develop Mobile Suit Gundam\u2019s Beam Saber-inspired plasma technology that could help grow and fertilize crops in space",
+    "url": "https://automaton-media.com/en/news/japanese-scientists-develop-mobile-suit-gundams-beam-saber-inspired-plasma-technology-that-could-help-grow-and-fertilize-crops-in-space/",
+    "source_name": "Automaton West",
+    "source_type": "rss",
+    "published_at": "2026-06-11T15:00:00Z",
+    "summary": "Tohoku University scientists recently revealed new developments on their scientific research based on Gundam's fictional Beat Saber",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9473037527674046,
+    "home_score": 0.6968,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9a069fabd6b5ef83bf76302393e0610c7f487e2c",
+    "title": "Inazuma Eleven: Victory Road Update Adds Professor Layton Characters",
+    "url": "https://noisypixel.net/inazuma-eleven-victory-road-professor-layton-update/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-11T14:04:05Z",
+    "summary": "Level-5 has released the fifth major free update for Inazuma Eleven: Victory Road, introducing characters from the Professor Layton series and several new gameplay features",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "esports"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9351211671615772,
+    "home_score": 0.6958,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "6771ec005e226233e3708be191fee52ea4c7b8fe",
+    "title": "Animal Crossing: New Horizons Switch 2 Cases Coming",
+    "url": "https://www.siliconera.com/animal-crossing-new-horizons-switch-2-cases-coming/",
     "source_name": "Siliconera",
     "source_type": "rss",
-    "published_at": "2026-06-11T13:00:00Z",
-    "summary": "Lover\u2019s Enigma is a great game for folks who are looking for a dark, unsettling mystery with a touch of romance",
+    "published_at": "2026-06-11T17:00:00Z",
+    "summary": "Even more Animal Crossing: New Horizons Switch 2 cases are on the way that feature major characters from the game",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9739868460723654,
+    "home_score": 0.6933,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "13470fcce1851a97af76802b96f42d36b69f28fe",
+    "title": "Team Vitality\u2019s apEX secures Oakley partnership ahead of IEM Cologne Major 2026",
+    "url": "https://esports.gg/news/counter-strike-2/team-vitalitys-apex-secures-oakley-partnership-ahead-of-iem-cologne-major-2026/",
+    "source_name": "Esports.gg",
+    "source_type": "rss",
+    "published_at": "2026-06-11T13:42:45Z",
+    "summary": "French Counter-Strike 2 star secures eyewear brand partnership ahead of major tournament debut",
+    "content": "",
+    "categories": [
+      "esports",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9305143919905123,
+    "home_score": 0.6907,
+    "source_quality": 0.76,
+    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": {
+      "event_type": "tournament",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "f4850b6a81f6a50fbf76e53b11c344ea6161987e",
+    "title": "Echoes of Aincrad Story Trailer 2 Debuts Aimer Theme Song",
+    "url": "https://noisypixel.net/echoes-of-aincrad-story-trailer-2-aimer-live-to-survive/",
+    "source_name": "Noisy Pixel",
+    "source_type": "rss",
+    "published_at": "2026-06-11T14:21:04Z",
+    "summary": "Bandai Namco and Game Studio have unveiled the second story trailer for the upcoming action RPG Echoes of Aincrad, with the theme song, \u201cLive to Survive\u201d by Aimer",
     "content": "",
     "categories": [
       "games",
@@ -113,8 +783,70 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9985004395786599,
-    "home_score": 0.7223,
+    "freshness_score": 0.9388046724625659,
+    "home_score": 0.6895,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "June 15",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "641c8ed769167c897fb0769c2ba3c3499348d741",
+    "title": "Final Fantasy XVI, Kingdom Come, & Blades of Fire will be on the PlayStation Plus Game Catalog this month",
+    "url": "https://www.rpgsite.net/news/20658-playstation-plus-june-monthly-catalog-games-free-ff16-kingdom-come-deliverance-blades-of-fire",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-11T17:34:59Z",
+    "summary": "The three games are joined by Black Desert as well for PlayStation Plus Extra and Premium subscribers",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9819059882359734,
+    "home_score": 0.6894,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c1290dbbefc2139b7d6905667d3efa7e722cbe42",
+    "title": "Trails from Zero and to Azure Switch 2 and PS5 Release Dates Set",
+    "url": "https://www.siliconera.com/trails-from-zero-and-to-azure-switch-2-and-ps5-release-dates-set/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-11T16:00:00Z",
+    "summary": "The Fall 2026 release dates are set for the Switch 2 and PS5 copies of the JRPGs Trails from Zero and Trails to Azure",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9605527579997196,
+    "home_score": 0.6872,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -143,8 +875,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9994597989087083,
-    "home_score": 0.7198,
+    "freshness_score": 0.9222372597713593,
+    "home_score": 0.685,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -178,8 +910,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9994135240658855,
-    "home_score": 0.7197,
+    "freshness_score": 0.9221945604168902,
+    "home_score": 0.685,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -203,8 +935,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9993865295231557,
-    "home_score": 0.7197,
+    "freshness_score": 0.9221696516342459,
+    "home_score": 0.685,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -217,6 +949,66 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "6ba7e14b67b1658e26d857c9858feba5ef0d0316",
+    "title": "To You in the Beyond Anime Film Shares International Visual, Anime Expo 2026 World Premiere Plans",
+    "url": "https://crunchyroll.com/news/latest/2026/6/11/to-you-in-the-beyond-anime-film-international-visual-world-premiere-anime-expo",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-11T13:16:00Z",
+    "summary": "TMS Entertainment-animated film opens in Japan on October 9",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9247703938503385,
+    "home_score": 0.6846,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "expo",
+      "date_label": "October 9",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "60aafec6a5c433fd149a86c3abed375f0a1861d5",
+    "title": "Danganronpa 2 Zozotown Merchandise Pre-Orders Opened",
+    "url": "https://www.siliconera.com/danganronpa-2-zozotown-merchandise-pre-orders-opened/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-11T15:00:40Z",
+    "summary": "The products will be delivered in mid-November 2026",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9474501649528151,
+    "home_score": 0.6814,
+    "source_quality": 0.82,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -238,13 +1030,50 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9943482671035013,
-    "home_score": 0.716,
+    "freshness_score": 0.9175206737756275,
+    "home_score": 0.6814,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "July 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "9ff331d73dd1fdc134b9701bc2fa8ce543fc5350",
+    "title": "The Legend of Heroes: Trails from Zero and Trails to Azure receives Nintendo Switch 2 release date, new trailer",
+    "url": "https://nintendoeverything.com/the-legend-of-heroes-trails-from-zero-and-trails-to-azure-receives-nintendo-switch-2-release-date-new-trailer/",
+    "source_name": "Nintendo Everything",
+    "source_type": "rss",
+    "published_at": "2026-06-11T13:08:42Z",
+    "summary": "NIS America and Falcom just set the release date for The Legend of Heroes: Trails from Zero and The Legend of Heroes: Trails to Azure on Nintendo Switch",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9232092267134011,
+    "home_score": 0.6809,
+    "source_quality": 0.77,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "September 10, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -261,20 +1090,19 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-06-11T12:20:08Z",
-    "summary": "Love Unseen Beneath the Clear Night Sky New Trailer Reveals Opening Theme Song",
+    "summary": "The new trailer for the upcoming Love Unseen Beneath the Clear Night Sky anime\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "events",
-      "games"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9893279027314738,
-    "home_score": 0.7152,
+    "freshness_score": 0.9128882131816816,
+    "home_score": 0.6808,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -287,20 +1115,19 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-06-11T12:03:22Z",
-    "summary": "Smoking Behind the Supermarket with You Reveals Main Trailer, July 9 Premiere",
+    "summary": "Smoking Behind the Supermarket with You anime has revealed a new main PV trailer\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "events",
-      "games"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9854955909441626,
-    "home_score": 0.7135,
+    "freshness_score": 0.9093520018072682,
+    "home_score": 0.6792,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -313,6 +1140,34 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "de649e1daddcf748c6048c4f150897509857eb1a",
+    "title": "The Legend of Heroes: Trails from Zero and Trails to Azure launch for PS5 and Switch 2 in September",
+    "url": "https://nichegamer.com/the-legend-of-heroes-trails-from-zero-and-trails-to-azure-launch-for-ps5-and-switch-2-in-september/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-06-11T13:05:35Z",
+    "summary": "NIS America has confirmed that The Legend of Heroes: Trails from Zero and The Legend of Heroes: Trails to Azure will launch on PlayStation 5 and Nintendo Switch 2 in September",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9225432633392279,
+    "home_score": 0.6776,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -333,8 +1188,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9796124137760132,
-    "home_score": 0.7108,
+    "freshness_score": 0.9039233836998445,
+    "home_score": 0.6768,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -359,9 +1214,34 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9813145684398732,
-    "home_score": 0.7101,
+    "freshness_score": 0.9054940143536123,
+    "home_score": 0.676,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "4e9df3e625fdbdfa9d24aff069c1206b4119a6e8",
+    "title": "FFVII Revelation Might Get Post-Game DLC",
+    "url": "https://www.siliconera.com/ffvii-revelation-might-get-post-game-dlc/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-11T14:00:00Z",
+    "summary": "FFVII Revelation Might Get Post-Game DLC",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9342379109005469,
+    "home_score": 0.6754,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -385,108 +1265,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9834558656721918,
-    "home_score": 0.7096,
+    "freshness_score": 0.9074698504516652,
+    "home_score": 0.6754,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": "expo",
       "date_label": "July 3",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "8f976db96a749b93d9055f9cf307aea7173f66ab",
-    "title": "Thunder 3 Has New Trailer, Will Begin on July 8",
-    "url": "https://anitrendz.net/news/2026/06/11/thunder-3-has-new-trailer-will-begin-on-july-8/?utm_source=rss&utm_medium=rss&utm_campaign=thunder-3-has-new-trailer-will-begin-on-july-8",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-11T11:30:53Z",
-    "summary": "The Thunder 3 TV anime has gotten a trailer ahead of its newly revealed July 8 broadcast start date",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9781130231656785,
-    "home_score": 0.7072,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 8",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3be886892641439714d1c0800d878d2cc5a5ed6c",
-    "title": "Smoking Behind the Supermarket with You Anime Puffs Along in New Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/11/smoking-behind-the-supermarket-with-you-anime-main-trailer",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-11T10:56:00Z",
-    "summary": "Crunchyroll is currently streaming the first 12 mini-episodes",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9702468033183427,
-    "home_score": 0.7051,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2e94042e0b6803dfe945776f87f22d84adcf7373",
-    "title": "Smoking Behind the Supermarket with You\u2019s New Main Trailer Reveals July 9 Start Date",
-    "url": "https://anitrendz.net/news/2026/06/11/smoking-behind-the-supermarket-with-yous-new-main-trailer-reveals-july-9-start-date/?utm_source=rss&utm_medium=rss&utm_campaign=smoking-behind-the-supermarket-with-yous-new-main-trailer-reveals-july-9-start-date",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-11T10:54:25Z",
-    "summary": "A second main trailer for the Smoking Behind the Supermarket with You TV anime has been released",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.969891169557286,
-    "home_score": 0.7035,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 9",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -518,21 +1303,143 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.7357337201681319,
-    "home_score": 0.6991,
+    "freshness_score": 0.678887784336999,
+    "home_score": 0.6735,
     "source_quality": 0.74,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "958de5186c5404fc0b31862c2016c32046593e54",
-    "title": "Famitsu sales (6/1/26 \u2013 6/7/26) \u2013 first week sales revealed for Final Fantasy 7 Rebirth on Nintendo Switch 2",
-    "url": "https://nintendoeverything.com/famitsu-sales-6-1-26-6-7-26-first-week-sales-revealed-for-final-fantasy-7-rebirth-on-nintendo-switch-2/",
-    "source_name": "Nintendo Everything",
+    "id": "8f976db96a749b93d9055f9cf307aea7173f66ab",
+    "title": "Thunder 3 Has New Trailer, Will Begin on July 8",
+    "url": "https://anitrendz.net/news/2026/06/11/thunder-3-has-new-trailer-will-begin-on-july-8/?utm_source=rss&utm_medium=rss&utm_campaign=thunder-3-has-new-trailer-will-begin-on-july-8",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-06-11T13:03:37Z",
-    "summary": "The latest Japanese hardware sales from Famitsu are as follows: Switch 2 \u2013 23,059 PS5 Digital Edition \u2013 6,731 Switch Lite \u2013 4,099 Switch OLED \u2013 2,978 PS5 Pro \u2013 1,644 Switch \u2013 774 X",
+    "published_at": "2026-06-11T11:30:53Z",
+    "summary": "The Thunder 3 TV anime has gotten a trailer ahead of its newly revealed July 8 broadcast start date",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9025398195353334,
+    "home_score": 0.6731,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "602fbe54ba38c9090eb18b852cb335f0a20fe485",
+    "title": "3 must-play JRPGs that will hold you over until Final Fantasy 7 Revelation - Polygon.com",
+    "url": "https://www.polygon.com/best-jrpgs-like-ff7-revelation/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-11T16:00:21Z",
+    "summary": "3 must-play JRPGs that will hold you over until Final Fantasy 7 Revelation Polygon",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9606299425226995,
+    "home_score": 0.6723,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "3be886892641439714d1c0800d878d2cc5a5ed6c",
+    "title": "Smoking Behind the Supermarket with You Anime Puffs Along in New Trailer",
+    "url": "https://crunchyroll.com/news/latest/2026/6/11/smoking-behind-the-supermarket-with-you-anime-main-trailer",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-11T10:56:00Z",
+    "summary": "Crunchyroll is currently streaming the first 12 mini-episodes",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8952813920593716,
+    "home_score": 0.6714,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2e94042e0b6803dfe945776f87f22d84adcf7373",
+    "title": "Smoking Behind the Supermarket with You\u2019s New Main Trailer Reveals July 9 Start Date",
+    "url": "https://anitrendz.net/news/2026/06/11/smoking-behind-the-supermarket-with-yous-new-main-trailer-reveals-july-9-start-date/?utm_source=rss&utm_medium=rss&utm_campaign=smoking-behind-the-supermarket-with-yous-new-main-trailer-reveals-july-9-start-date",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-11T10:54:25Z",
+    "summary": "A second main trailer for the Smoking Behind the Supermarket with You TV anime has been released",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8949532222979686,
+    "home_score": 0.6697,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 9",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "1c8a0137df9cbd6c57970c96fb7438643367a77b",
+    "title": "Review: Lover\u2019s Enigma Starts Strong",
+    "url": "https://www.siliconera.com/review-lovers-enigma-starts-strong/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-11T13:00:00Z",
+    "summary": "Lover\u2019s Enigma is a great game for folks who are looking for a dark, unsettling mystery with a touch of romance",
     "content": "",
     "categories": [
       "games",
@@ -540,14 +1447,12 @@
       "merch"
     ],
     "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
+    "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9993364651633657,
-    "home_score": 0.6972,
-    "source_quality": 0.77,
+    "freshness_score": 0.9213520755805474,
+    "home_score": 0.6696,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -571,8 +1476,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9504624187551782,
-    "home_score": 0.6962,
+    "freshness_score": 0.8770256334547816,
+    "home_score": 0.6632,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
@@ -588,98 +1493,28 @@
     "result_type": "article"
   },
   {
-    "id": "b4b83282a9638fe0e6073c0110239dd023cf5ae3",
-    "title": "K-pop Idol Stories: Road to Debut gets Nintendo Switch release date, new trailer",
-    "url": "https://nintendoeverything.com/k-pop-idol-stories-road-to-debut-gets-nintendo-switch-release-date-new-trailer/",
-    "source_name": "Nintendo Everything",
+    "id": "e6748757cf2a6b02db654edb27c10d5408174215",
+    "title": "Final Fantasy fans have two big reasons to look forward to 2026 - GadgetMatch",
+    "url": "https://www.gadgetmatch.com/final-fantasy-x-x2-switch-2-final-fantasy-resonance-announced/",
+    "source_name": "Google News JRPG",
     "source_type": "rss",
-    "published_at": "2026-06-11T12:43:46Z",
-    "summary": "Thanks to publisher PQube and developer Wisageni Studio, we\u2019ve got the release date for K-pop Idol Stories: Road to Debut",
+    "published_at": "2026-06-11T14:27:57Z",
+    "summary": "Final Fantasy fans have two big reasons to look forward to 2026 GadgetMatch",
     "content": "",
     "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [
-      "idol"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9947551368523172,
-    "home_score": 0.6951,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 16, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "37f182ff018b4652b4fd196c1de206bf80e4f3f1",
-    "title": "Tactical RPG \u2018Calame\u2019 Coming to Steam Fall 2026",
-    "url": "https://noisypixel.net/calame-tactical-rpg-steam-fall-2026-announcement/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-11T12:27:21Z",
-    "summary": "Independent developer Nextale, formerly known as Smart Tale, has announced that its single-player isometric tactical RPG, Calame, will be released on PC via Steam in Fall 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
+      "games"
     ],
     "tags": [],
-    "entity_tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9909820999062064,
-    "home_score": 0.6949,
-    "source_quality": 0.78,
+    "freshness_score": 0.9403013158376163,
+    "home_score": 0.6631,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2292cb7cad07eaaf4be4edad6e09d434ec0bb764",
-    "title": "Global Anime Challenge to Showcase Lucifer\u2019s Lawyer and 11 Other Anime at Annecy 2026",
-    "url": "https://anitrendz.net/news/2026/06/11/global-anime-challenge-to-showcase-lucifers-lawyer-and-11-other-anime-at-annecy-2026/?utm_source=rss&utm_medium=rss&utm_campaign=global-anime-challenge-to-showcase-lucifers-lawyer-and-11-other-anime-at-annecy-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-11T08:58:21Z",
-    "summary": "The Global Anime Challenge initiative will showcase 12 titles at Annecy 2026 as part of the animation festival's Partners Pitches",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9441797702344505,
-    "home_score": 0.6919,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -703,13 +1538,47 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8989080759397666,
-    "home_score": 0.6915,
+    "freshness_score": 0.8294545878332691,
+    "home_score": 0.6603,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "July 6",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "2292cb7cad07eaaf4be4edad6e09d434ec0bb764",
+    "title": "Global Anime Challenge to Showcase Lucifer\u2019s Lawyer and 11 Other Anime at Annecy 2026",
+    "url": "https://anitrendz.net/news/2026/06/11/global-anime-challenge-to-showcase-lucifers-lawyer-and-11-other-anime-at-annecy-2026/?utm_source=rss&utm_medium=rss&utm_campaign=global-anime-challenge-to-showcase-lucifers-lawyer-and-11-other-anime-at-annecy-2026",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-11T08:58:21Z",
+    "summary": "The Global Anime Challenge initiative will showcase 12 titles at Annecy 2026 as part of the animation festival's Partners Pitches",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8712283964993986,
+    "home_score": 0.6591,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": null,
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
@@ -737,8 +1606,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9916512224723146,
-    "home_score": 0.6907,
+    "freshness_score": 0.9150320189757253,
+    "home_score": 0.6563,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/villain-rpgs.jpg",
     "event_metadata": null,
@@ -764,26 +1633,25 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9816364157206185,
-    "home_score": 0.6862,
+    "freshness_score": 0.9057909988470436,
+    "home_score": 0.6521,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/10-most-addictive-jrpgs-on-playstation-5.jpg",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "ecde68ac8f9c554fbc2a56c94fd725311c8a8cf9",
-    "title": "Grand Blue Dreaming Season 3 Anime Reveals July 6 Premiere in New Trailer",
-    "url": "https://crunchyroll.com/news/latest/2026/6/11/grand-blue-dreaming-season-3-anime-july-6-release-date-main-trailer",
-    "source_name": "Crunchyroll News",
+    "id": "61f8813b7b1e25a79ef294a6d06b7e1ccc4e4e2f",
+    "title": "Grand Blue Season 3 Main Trailer Previews Theme Song and July 6 Premiere",
+    "url": "https://animecorner.me/grand-blue-season-3-main-trailer-previews-theme-song-and-july-6-premiere/",
+    "source_name": "Anime Corner",
     "source_type": "rss",
-    "published_at": "2026-06-11T03:46:00Z",
-    "summary": "Grand Blue Dreaming Season 3 Anime Reveals July 6 Premiere in New Trailer",
+    "published_at": "2026-06-11T03:09:58Z",
+    "summary": "Grand Blue Season 3 anime revealed the main trailer featuring both opening and ending theme\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "games",
       "events"
     ],
     "tags": [],
@@ -792,9 +1660,9 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8783221464134796,
-    "home_score": 0.6837,
-    "source_quality": 0.79,
+    "freshness_score": 0.8037273019309861,
+    "home_score": 0.6517,
+    "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
@@ -829,47 +1697,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9169400342904287,
-    "home_score": 0.6826,
+    "freshness_score": 0.8460933255214157,
+    "home_score": 0.6507,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "61f8813b7b1e25a79ef294a6d06b7e1ccc4e4e2f",
-    "title": "Grand Blue Season 3 Main Trailer Previews Theme Song and July 6 Premiere",
-    "url": "https://animecorner.me/grand-blue-season-3-main-trailer-previews-theme-song-and-july-6-premiere/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-11T03:09:58Z",
-    "summary": "Grand Blue Season 3 anime revealed the main trailer featuring both opening and ending theme\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8710265233417748,
-    "home_score": 0.682,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 6",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -892,8 +1724,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9719850201142721,
-    "home_score": 0.6774,
+    "freshness_score": 0.8968853138825397,
+    "home_score": 0.6436,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -916,8 +1748,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9502535902852973,
-    "home_score": 0.6751,
+    "freshness_score": 0.8768330024250766,
+    "home_score": 0.6421,
     "source_quality": 0.81,
     "image_url": null,
     "event_metadata": {
@@ -930,6 +1762,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "284abd9c0f6b57bd60108798e22b99136f3d4612",
+    "title": "#SHOWBIZ: From promo to playfulness: Aisha Retno embraces her 'Ratu Kacip' persona on Threads - NST Online",
+    "url": "https://www.nst.com.my/lifestyle/groove/2026/06/1460592/showbiz-promo-playfulness-aisha-retno-embraces-her-ratu-kacip",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-11T07:00:24Z",
+    "summary": "#SHOWBIZ: From promo to playfulness: Aisha Retno embraces her 'Ratu Kacip' persona on Threads NST Online",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8477627637032569,
+    "home_score": 0.6415,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -953,33 +1810,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9644246958371852,
-    "home_score": 0.674,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "284abd9c0f6b57bd60108798e22b99136f3d4612",
-    "title": "#SHOWBIZ: From promo to playfulness: Aisha Retno embraces her 'Ratu Kacip' persona on Threads - NST Online",
-    "url": "https://www.nst.com.my/lifestyle/groove/2026/06/1460592/showbiz-promo-playfulness-aisha-retno-embraces-her-ratu-kacip",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-11T07:00:24Z",
-    "summary": "#SHOWBIZ: From promo to playfulness: Aisha Retno embraces her 'Ratu Kacip' persona on Threads NST Online",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.9187492496011755,
-    "home_score": 0.6734,
+    "freshness_score": 0.8899091324956727,
+    "home_score": 0.6405,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1004,772 +1836,13 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8846475902401433,
-    "home_score": 0.6666,
+    "freshness_score": 0.8162959396414192,
+    "home_score": 0.6358,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": {
       "event_type": null,
       "date_label": "July 9",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "37dc2727b9e1a00458afb94122d96af261b0f489",
-    "title": "'Persona 5: The Phantom X' Launches P5FES Collaboration Update: 'Wind Chasing the Dance' - Inven Global",
-    "url": "https://www.invenglobal.com/articles/22712/persona-5-the-phantom-x-launches-p5fes-collaboration-update-wind-chasing-the-dance",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-11T08:01:50Z",
-    "summary": "'Persona 5: The Phantom X' Launches P5FES Collaboration Update: 'Wind Chasing the Dance' Inven Global",
-    "content": "",
-    "categories": [
-      "games",
-      "merch"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9319078188880254,
-    "home_score": 0.6654,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7c8d4e4c098b92f3a2abc0f8adae42ff85e41133",
-    "title": "Konomi Suzuki Releases Re:ZERO -Starting Life in Another World- Season 4 Anime Opening Song Music Video",
-    "url": "https://crunchyroll.com/news/latest/2026/6/11/re-zero-starting-life-in-another-world-season-4-anime-opening-song-music-video-konomi-suzuki",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-11T00:18:00Z",
-    "summary": "The song has already surpassed 10 million streams on digital platforms",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8370344977605175,
-    "home_score": 0.6652,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e6748757cf2a6b02db654edb27c10d5408174215",
-    "title": "Final Fantasy fans have two big reasons to look forward to 2026 - GadgetMatch",
-    "url": "https://www.gadgetmatch.com/final-fantasy-x-x2-switch-2-final-fantasy-resonance-announced/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-11T08:40:44Z",
-    "summary": "Final Fantasy fans have two big reasons to look forward to 2026 GadgetMatch",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9403372031729398,
-    "home_score": 0.6632,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "22fb7f56d36c2be23b5652ef395fd0b67c24283f",
-    "title": "Echoes of Aincrad Demo Launches June 15 for PC and Consoles",
-    "url": "https://noisypixel.net/echoes-of-aincrad-demo/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-11T03:52:48Z",
-    "summary": "Bandai Namco and Game Studio have announced that a free demo of their upcoming action RPG Echoes of Aincrad will be released for PC via Steam on June 15, 2026, at 10 AM PT/ 1 PM ET",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8797059207848884,
-    "home_score": 0.6629,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 15",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "d8bf21bc8c657d056aff800d694d7be909533d08",
-    "title": "Wo Long 2: Wings of Ember Announced for Early 2027",
-    "url": "https://monstervine.com/2026/06/wo-long-2-wings-of-ember-announced-early-2027/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-06-11T08:01:34Z",
-    "summary": "Koei Tecmo and Team Ninja have announced Wo Long 2: Wings of Ember, the sequel to Wo Long: Fallen Dynasty",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9318503931396025,
-    "home_score": 0.6623,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0e21ff7c777df927850a58ede7beaea85cac6881",
-    "title": "This BL and Yuri Manga Bundle Is Offering I Want to Love You Till Your Dying Day and More for US$1",
-    "url": "https://anitrendz.net/news/2026/06/10/this-bl-and-yuri-manga-bundle-is-offering-i-want-to-love-you-till-your-dying-day-and-more-for-us1/?utm_source=rss&utm_medium=rss&utm_campaign=this-bl-and-yuri-manga-bundle-is-offering-i-want-to-love-you-till-your-dying-day-and-more-for-us1",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-11T03:38:42Z",
-    "summary": "Humble Bundle is currently hosting Kodansha Presents: BL, Yuri & More from Ichijinsha bundle, which offers up to 61 titles at the highest, US$30 tier",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8768391122505229,
-    "home_score": 0.6616,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "46c52a9e7888592be68c827379581950a6485eb2",
-    "title": "Beast of Reincarnation Launches August 4, Game Freak Reveals Voice Cast and New Story Details",
-    "url": "https://monstervine.com/2026/06/beast-of-reincarnation-release-date-voice-cast/",
-    "source_name": "MonsterVine",
-    "source_type": "rss",
-    "published_at": "2026-06-11T07:44:50Z",
-    "summary": "Game Freak and publisher Fictions have revealed new details for Beast of Reincarnation, the upcoming action RPG launching August 4, 2026 for PC via Steam, PlayStation 5, Xbox Serie",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9282478890277711,
-    "home_score": 0.6607,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "August 4",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "8e6cc17df47a8979fde57dd07c1c2c756b9094f3",
-    "title": "Final Fantasy Resonance details story, characters, combat, visions, Resonances, espers, more",
-    "url": "https://nintendoeverything.com/final-fantasy-resonance-details-story-characters-combat-visions-resonances-espers-more/",
-    "source_name": "Nintendo Everything",
-    "source_type": "rss",
-    "published_at": "2026-06-11T03:30:38Z",
-    "summary": "Square Enix has passed along additional details about Final Fantasy Resonance covering its story, characters, combat, visions, Resonances, espers, and more",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8752035493615432,
-    "home_score": 0.6593,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "29b862561e0e7775a891cdae11e00de53e8fe8f7",
-    "title": "Scum of the Brave Cour 2 Ending Song Anime Version Music Video Streamed",
-    "url": "https://crunchyroll.com/news/latest/2026/6/11/scum-of-the-brave-cour-2-ending-song-anime-version-music-video",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-11T01:50:00Z",
-    "summary": "Crunchyroll currently streams the fantasy action series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8550513989454833,
-    "home_score": 0.6533,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1325a7bf2d1fbabffaaa486b9631af133aa76308",
-    "title": "\u2018Final Fantasy VII Revelation\u2019: A Love Letter To The Bestselling RPG Title From 1997 - AugustMan Singapore",
-    "url": "https://www.augustman.com/my/gear/gaming/final-fantasy-vii-revelation-story-gameplay-platforms/",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-10T13:41:15Z",
-    "summary": "\u2018Final Fantasy VII Revelation\u2019: A Love Letter To The Bestselling RPG Title From 1997 AugustMan Singapore",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [
-      "Singapore"
-    ],
-    "sg_relevance": 0.35,
-    "freshness_score": 0.722320715104319,
-    "home_score": 0.6525,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fcf61bac10e68aef8261d4bf1044561b0e0882a5",
-    "title": "Japan Football Association Launches \"Real Life BLUE LOCK\" Project in the United States",
-    "url": "https://animecorner.me/japan-football-association-launches-real-life-blue-lock-project-in-the-united-states/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-11T01:10:23Z",
-    "summary": "The Japan Football Association (JFA) has launched a new international scouting initiative inspired by\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8472460083077142,
-    "home_score": 0.6513,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "561683289751c3ca6afb64e945c524ce8ed416e5",
-    "title": "Digimon Story Time Stranger Switch, Switch 2 Demo Released",
-    "url": "https://rpgamer.com/2026/06/digimon-story-time-stranger-switch-switch-2-demo-released/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-10T20:50:39Z",
-    "summary": "Bandai Namco has released a demo for Digimon Story Time Stranger on Nintendo Switch and Nintendo Switch 2 ahead of the game's release on the platforms",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7978077657965483,
-    "home_score": 0.649,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 10, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "929483986656ca22582987dbf31365ba20df72d6",
-    "title": "Nioh 3 Version 1.07 Buffs Dozens of Sets, Reworks Bonuses, and Fixes Bugs",
-    "url": "https://noisypixel.net/nioh-3-version-1-07-patch-notes-set-bonus-buffs/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-11T04:09:49Z",
-    "summary": "Koei Tecmo and Team Ninja have announced that their samurai action RPG Nioh 3 has been updated to version 1",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8831779560278453,
-    "home_score": 0.6464,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0ad3379ae33e731708b9d6f5a88a4483826fca78",
-    "title": "Hunter x Hunter: Nen x Impact Adds Zeno as DLC Fighter Next Week",
-    "url": "https://noisypixel.net/hunter-x-hunter-nen-x-impact-zeno-zoldyck-dlc-release-date/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-11T03:49:29Z",
-    "summary": "Bushiroad and Eighting have announced that Kilua\u2019s grandfather, Zeno, will join Hunter x Hunter: Nen x Impact as DLC on June 18, 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8790307865448285,
-    "home_score": 0.6446,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 18, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "9c766247f5ffe5bd5cb67656e33fe95f56f3e0d2",
-    "title": "\u201cEveryone is in survival mode\u201d: Inside the struggles of Iran\u2019s esports community",
-    "url": "https://esportsinsider.com/2026/06/inside-iran-struggling-esports-community",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-06-10T20:06:51Z",
-    "summary": "It\u2019s been over 70 days since the conflict between the United States and Iran began, with fighting in the Middle East resulting in sharp increases in oil prices, damage to infrastru",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7897595883713511,
-    "home_score": 0.6409,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "000045545fa9dea1f49ce1ce32b988843be70b46",
-    "title": "Touch grass, kick a ball, play Counter-Strike 2: Esports fans wonder if signing a kid at 7 years old is a harmful marketing stunt",
-    "url": "https://esportsinsider.com/2026/06/7-year-old-signed-to-cs2-team",
-    "source_name": "Esports Insider",
-    "source_type": "rss",
-    "published_at": "2026-06-10T19:56:20Z",
-    "summary": "Esports organization Inner Circle made headlines after signing a seven-year-old Counter-Strike 2 player, making him one of the youngest signings in this industry\u2019s history",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7878393225990639,
-    "home_score": 0.64,
-    "source_quality": 0.77,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "527793787e5e50a7e6c80c857da26bb5480352d9",
-    "title": "Deltarune Chapters 6 and 7 Updates Shared",
-    "url": "https://www.siliconera.com/deltarune-chapters-6-and-7-updates-shared/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-10T22:00:00Z",
-    "summary": "Deltarune Chapter 5 is out this month, Chapter 6 is progressing well, and development might start on Chapter 7 in 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8107187821986854,
-    "home_score": 0.6378,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "e0b62a0fdfeac8e3c60fe00a9234651188d61973",
-    "title": "Rascal Does Not Dream of a Dear Friend Highlights Uzuki Hirokawa in New Visual",
-    "url": "https://anitrendz.net/news/2026/06/10/rascal-does-not-dream-of-a-dear-friend-highlights-uzuki-hirokawa-in-new-visual/?utm_source=rss&utm_medium=rss&utm_campaign=rascal-does-not-dream-of-a-dear-friend-highlights-uzuki-hirokawa-in-new-visual",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-10T22:14:40Z",
-    "summary": "A new memorial visual has been released for the upcoming Rascal Does Not Dream of a Dear Friend anime film, highlighting Uzuki Hirokawa",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8134754967953474,
-    "home_score": 0.6331,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a325ab30e570d13b118ffba2325a4ab81eddbe39",
-    "title": "Demo for Sword Art Online Game Echoes of Aincrad Confirmed",
-    "url": "https://www.siliconera.com/demo-for-sword-art-online-game-echoes-of-aincrad-confirmed/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-10T21:00:00Z",
-    "summary": "We'll see what the new Sword Art Online game is like soon as an Echoes of Aincrad demo will be out in June",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7995366313250665,
-    "home_score": 0.6328,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f7d8867eeac5a7f53da988cb976bdbe9414c6543",
-    "title": "Atelier Karia: The Night Kingdom & the Guide of Memories Announced",
-    "url": "https://rpgamer.com/2026/06/atelier-karia-the-night-kingdom-the-guide-of-memories-announced/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-10T17:23:17Z",
-    "summary": "Koei Tecmo and Gust have announced the latest title in the long-running Atelier series",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.760416348250469,
-    "home_score": 0.6322,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 12, 2026",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "50ab790158641c83ae1f63a8b4c923a426d84df7",
-    "title": "Metal-Detecting RPG The Detectorist Guild Announced",
-    "url": "https://rpgamer.com/2026/06/metal-detecting-rpg-the-detectorist-guild-announced/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-10T20:51:30Z",
-    "summary": "PQube and Full Stop Studios have announced metal-detecting cozy village-life RPG The Detectorist Guild",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7979647650853785,
-    "home_score": 0.6291,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "0beab57c705e54d995c264965ecd064e57859bdc",
-    "title": "My Time at Evershine Receives New Trailer, 2027 Release Window",
-    "url": "https://rpgamer.com/2026/06/my-time-at-evershine-receives-new-trailer-2027-release-window/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-10T20:51:22Z",
-    "summary": "Pathea Games and PM Studios released a new trailer for the latest title in the My Time life sim RPG series, My Time at Evershine",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7979401331737326,
-    "home_score": 0.6291,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3b80bc65864c9d5f77d83bcff052dba13da904d8",
-    "title": "Dead or Alive 6 PC Version Being Delisted on Steam",
-    "url": "https://www.siliconera.com/dead-or-alive-6-pc-version-being-delisted-on-steam/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-10T20:00:00Z",
-    "summary": "Today is the last day to get Dead or Alive 6 on Steam for the PC before it is delisted ahead of the Last Round release",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.788508714662982,
-    "home_score": 0.6278,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "d11660b95b4fe8e51749c3603a7f4e39402be6ad",
-    "title": "FFVII Remake Survive Said the Prophet Music Video Launches",
-    "url": "https://www.siliconera.com/ffvii-remake-survive-said-the-prophet-music-video-launches/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-10T19:00:00Z",
-    "summary": "Survive Said the Prophet shared a brief cover and music video of the FFVII Remake song \"Hollow\" worldwide",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7776329047701781,
-    "home_score": 0.6229,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a1f41340be7fb5cf751abf1acf121baf8c9052c6",
-    "title": "Stupid Never Dies Releasing in Fall",
-    "url": "https://rpgamer.com/2026/06/stupid-never-dies-releasing-in-fall/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-10T18:49:01Z",
-    "summary": "GPTRACK50 announced that its action RPG Stupid Never Dies will release this fall",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7756580796143396,
-    "home_score": 0.619,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fc0fda39a800bda8dc350293f8228a119d1f4bf7",
-    "title": "Crimson Moon Releasing in September",
-    "url": "https://rpgamer.com/2026/06/crimson-moon-releasing-in-september/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-10T18:48:46Z",
-    "summary": "Developer ProbablyMonsters announced that action adventure RPG Crimson Moon will release in September 2026",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.7756131871585117,
-    "home_score": 0.619,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "64b3b75dbece7979a7f02eecb3106909f76098e5",
-    "title": "Wo Long: Fallen Dynasty Complete Edition Coming to Switch 2",
-    "url": "https://rpgamer.com/2026/06/wo-long-fallen-dynasty-complete-edition-coming-to-switch-2/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-10T18:48:33Z",
-    "summary": "Following the announcement of sequel Wo Long 2: Wings of Ember , Koei Tecmo and Team Ninja announced that Wo Long: Fallen Dynasty Complete Edition will be released on Nintendo Swit",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.775574285064351,
-    "home_score": 0.619,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "September 3, 2026",
       "venue": null,
       "ticket_status": null,
       "ticket_url": null,
