@@ -1,5 +1,104 @@
 [
   {
+    "id": "d2bf1b8090d854fa5d8adeda79277e997042deb4",
+    "title": "Phantom Blade Zero: SGF Play Days Impression",
+    "url": "https://rpgamer.com/2026/06/phantom-blade-zero-sgf-play-days-impression/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-13T07:36:31Z",
+    "summary": "Phantom Blade Zero 's combat impressed me heavily, standing out for its fluidity, rhythm, and satisfying challenge",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "singapore"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.58,
+    "freshness_score": 0.9346887712801509,
+    "home_score": 0.8356,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "83a822769e9660609868661c37fbe95c7e124417",
+    "title": "Petal Runner: SGF Play Days Impression",
+    "url": "https://rpgamer.com/2026/06/petal-runner-sgf-play-days-impression/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-13T08:45:21Z",
+    "summary": "Petal Runner delights and captivates with its bright, pastel visuals, cute themes, cozy aesthetic, and solid, fun gameplay loop",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "merch"
+    ],
+    "tags": [
+      "singapore",
+      "jrpg"
+    ],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore"
+    ],
+    "sg_relevance": 0.5,
+    "freshness_score": 0.9497011412772082,
+    "home_score": 0.8224,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": "Merch or booth updates mentioned"
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "8251ad196bb397a5b114dd6a7cdc1c59c56bbbd3",
+    "title": "Olivia Rodrigo dances through heartbreak on theatrical 3rd album 'you seem pretty sad for a girl so in love'",
+    "url": "https://www.bandwagon.asia/articles/olivia-rodrigo-dances-through-heartbreak-on-theatrical-3rd-album-you-seem-pretty-sad-for-a-girl-so-in-love",
+    "source_name": "Bandwagon Asia",
+    "source_type": "rss",
+    "published_at": "2026-06-13T10:58:00Z",
+    "summary": "Olivia Rodrigo has officially released her third studio album, you seem pretty sad for a girl so in love , via Geffen Records",
+    "content": "",
+    "categories": [
+      "games",
+      "esports",
+      "anime",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.9793152946235559,
+    "home_score": 0.7987,
+    "source_quality": 0.67,
+    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C820%2C2048%2C1024%5D/resize=w:1920/pjpg=q:90/compress/9gRjIo75Qy6oMZC1Cl9V",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
     "id": "12dcee4d1982d25d828e576ac1a6e57d3515150b",
     "title": "Petal Runner Interview",
     "url": "https://rpgamer.com/2026/06/petal-runner-interview/",
@@ -21,8 +120,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.8995635725360872,
-    "home_score": 0.7998,
+    "freshness_score": 0.8358736641012314,
+    "home_score": 0.7711,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -61,8 +160,8 @@
       "Singapore"
     ],
     "sg_relevance": 0.5,
-    "freshness_score": 0.8991714663466885,
-    "home_score": 0.7996,
+    "freshness_score": 0.8355093210936527,
+    "home_score": 0.771,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -81,13 +180,196 @@
     "result_type": "article"
   },
   {
+    "id": "95e4eee97a42075a60d59c5b4a30f07075b0becd",
+    "title": "Welcome to Demon School! Iruma-kun Season 4 Anime Ranks up with New Trailer, Visual and Cast",
+    "url": "https://crunchyroll.com/news/latest/2026/6/13/welcome-to-demon-school-iruma-kun-season-4-anime-new-trailer-visual-cast",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-13T12:00:00Z",
+    "summary": "The anime adaptation is currently streaming on Crunchyroll",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9934710742273343,
+    "home_score": 0.7356,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "33f3417f5dc4e17b2977c0d1fcaa46842286eac3",
+    "title": "Welcome to Demon School, Iruma-kun Season 4 Teases Dem-dol Games in New Main Visual & Trailer",
+    "url": "https://animecorner.me/welcome-to-demon-school-iruma-kun-season-4-teases-dem-dol-games-main-visual-trailer/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-13T10:04:51Z",
+    "summary": "Welcome to Demon School! Iruma-kun Season 4 has revealed its second main visual and\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.9673398589226586,
+    "home_score": 0.7253,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "d4886d84741c9332f1956ed61068d579b7c31d49",
+    "title": "The Elder Scrolls Online Interview",
+    "url": "https://rpgamer.com/2026/06/the-elder-scrolls-online-interview/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-13T08:40:07Z",
+    "summary": "At this year's Summer Game Fest Play Days, Bethesda was on-site to discuss The Elder Scrolls Online , including its change to a seasonal model, and new and upcoming content for Sea",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events",
+      "gacha",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.948551319421469,
+    "home_score": 0.7168,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "festival",
+      "date_label": "July 8, 2026",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "2289d63165def8d8e9f7fb21019871f604979799",
+    "title": "BLEACH Gets New JUMP MV Featuring ASIAN KUNG-FU GENERATION's \"After Dark\"",
+    "url": "https://animecorner.me/bleach-gets-new-jump-mv-featuring-asian-kung-fu-generations-after-dark/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-13T11:14:34Z",
+    "summary": "BLEACH Gets New JUMP MV Featuring ASIAN KUNG-FU GENERATION's \"After Dark\"",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.983077552448693,
+    "home_score": 0.7124,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "7457b0688394ce52fb478666a8e0f25a4ce1a639",
+    "title": "What is going on with Square Enix's Switch 1 and Switch 2 game upgrades for Dragon Quest, Octopath, and more?",
+    "url": "https://www.rpgsite.net/feature/18652-square-enix-switch-1-2-save-data-transfer-upgrade-game-key-card-physical-cross-generation-release-dragon-quest-final-fantasy-octopath",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-13T10:24:05Z",
+    "summary": "We take a look at Square Enix's cross-generation Switch and Switch 2 releases to cover how inconsistent the publisher is across Dragon Quest, Octopath Traveler, Romancing SaGa 2: R",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Dragon Quest"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9716564947193626,
+    "home_score": 0.7087,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "2b8b25a73f6068a661f75f2666431b85b1d6312e",
+    "title": "Tomb Raider King Anime Reveals New Visual, PV, Additional Cast Ahead of July 8 Premiere",
+    "url": "https://animecorner.me/tomb-raider-king-anime-reveals-new-visual-pv-additional-cast-ahead-of-july-8-premiere/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-13T10:35:22Z",
+    "summary": "The upcoming Tomb Raider King TV anime has revealed its second key visual, PV\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9741973832445573,
+    "home_score": 0.7084,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 8",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
     "id": "6e344c6839740bf831130265286547be89d0d263",
     "title": "Living in a World Without Magic Anime Film Project Expands Overseas With Fan Campaign, Annecy Panel, and Anime Expo 2026 Appearance",
     "url": "https://animecorner.me/living-in-a-world-without-magic-anime-film-project-expands-overseas-with-fan-campaign-annecy-panel-and-anime-expo-2026-appearance/",
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-06-13T04:09:08Z",
-    "summary": "Living in a World Without Magic Anime Film Project Expands Overseas With Fan Campaign, Annecy Panel, and Anime Expo 2026 Appearance",
+    "summary": "The feature film adaptation project for Living in a World Without Magic continues to\u2026",
     "content": "",
     "categories": [
       "anime",
@@ -100,8 +382,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9587595143838347,
-    "home_score": 0.7214,
+    "freshness_score": 0.8908785108005892,
+    "home_score": 0.6909,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -114,6 +396,34 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "1031a447abafb95cb8aec4b44d8f4c823bb8f835",
+    "title": "SAKAMOTO DAYS Anime Releases New Rainy Season Visual and Audio Drama - AnimeTV \u30c1\u30a7\u30fc\u30f3",
+    "url": "https://animetv-jp.net/sakamoto-days-anime-releases-new-rainy-season-visual-and-audio-drama/",
+    "source_name": "Google News Anime And Manga",
+    "source_type": "rss",
+    "published_at": "2026-06-12T16:58:14Z",
+    "summary": "SAKAMOTO DAYS Anime Releases New Rainy Season Visual and Audio Drama AnimeTV \u30c1\u30a7\u30fc\u30f3",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "Singapore",
+      "SEA"
+    ],
+    "sg_relevance": 0.43,
+    "freshness_score": 0.7627321118474172,
+    "home_score": 0.6892,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -137,8 +447,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9622278492313661,
-    "home_score": 0.717,
+    "freshness_score": 0.8941012900403945,
+    "home_score": 0.6863,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": {
@@ -171,8 +481,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9535102234938708,
-    "home_score": 0.7161,
+    "freshness_score": 0.8860008803068378,
+    "home_score": 0.6857,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -185,34 +495,6 @@
       "guest_names": [],
       "merch_status": "Merch or booth updates mentioned"
     },
-    "result_type": "article"
-  },
-  {
-    "id": "1031a447abafb95cb8aec4b44d8f4c823bb8f835",
-    "title": "SAKAMOTO DAYS Anime Releases New Rainy Season Visual and Audio Drama - AnimeTV \u30c1\u30a7\u30fc\u30f3",
-    "url": "https://animetv-jp.net/sakamoto-days-anime-releases-new-rainy-season-visual-and-audio-drama/",
-    "source_name": "Google News Anime And Manga",
-    "source_type": "rss",
-    "published_at": "2026-06-12T16:58:14Z",
-    "summary": "SAKAMOTO DAYS Anime Releases New Rainy Season Visual and Audio Drama AnimeTV \u30c1\u30a7\u30fc\u30f3",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.8208489186183227,
-    "home_score": 0.7154,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -235,8 +517,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9928336016194819,
-    "home_score": 0.7153,
+    "freshness_score": 0.9225401254303959,
+    "home_score": 0.6836,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -269,8 +551,8 @@
       "SEA"
     ],
     "sg_relevance": 0.55,
-    "freshness_score": 0.7040247708306103,
-    "home_score": 0.7048,
+    "freshness_score": 0.6541792604450751,
+    "home_score": 0.6824,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C309%2C1080%2C540%5D/resize=w:1920/pjpg=q:90/compress/60z0IdcQDeBEvEBYeaVO",
     "event_metadata": {
@@ -283,6 +565,31 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "e35d96762cada12ef542c428a7798318b47c6a1f",
+    "title": "Final Fantasy 7 Remake director says RPGs need more player choice, to stop them just watching streams instead - Video Games Chronicle",
+    "url": "https://www.videogameschronicle.com/news/final-fantasy-7-remake-director-says-rpgs-need-more-player-choice-to-stop-them-just-watching-streams-instead/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-13T09:52:28Z",
+    "summary": "Final Fantasy 7 Remake director says RPGs need more player choice, to stop them just watching streams instead Video Games Chronicle",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9645707042820912,
+    "home_score": 0.6741,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -304,8 +611,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9713098472532327,
-    "home_score": 0.7041,
+    "freshness_score": 0.9025402753668056,
+    "home_score": 0.6731,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -327,20 +634,19 @@
     "source_name": "Anime Corner",
     "source_type": "rss",
     "published_at": "2026-06-13T04:24:34Z",
-    "summary": "Jaadugar: A Witch in Mongolia Casts Active Sumo Wrestlers Tamawashi and Tamashoho in Voice Acting Debut Roles",
+    "summary": "The upcoming historical anime Jaadugar: A Witch in Mongolia has announced that active professional\u2026",
     "content": "",
     "categories": [
       "anime",
       "manga",
-      "events",
-      "games"
+      "events"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9621908390591342,
-    "home_score": 0.703,
+    "freshness_score": 0.8940668950806785,
+    "home_score": 0.6723,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -367,9 +673,34 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9176897531526205,
-    "home_score": 0.7015,
+    "freshness_score": 0.8527165263161066,
+    "home_score": 0.6722,
     "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "a5355c4b78ccfe5a874b85975128b5d8ac57775e",
+    "title": "Weekend PC Game Deals: Anno 117, Final Fantasy VII, Rematch, and more - Neowin",
+    "url": "https://www.neowin.net/news/weekend-pc-game-deals-anno-117-final-fantasy-vii-rematch-and-more/",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-13T09:30:00Z",
+    "summary": "Weekend PC Game Deals: Anno 117, Final Fantasy VII, Rematch, and more Neowin",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.9595673523270841,
+    "home_score": 0.6718,
+    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -394,8 +725,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.9189118838978538,
-    "home_score": 0.699,
+    "freshness_score": 0.8538521325786604,
+    "home_score": 0.6697,
     "source_quality": 0.77,
     "image_url": null,
     "event_metadata": null,
@@ -421,8 +752,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9524184365941836,
-    "home_score": 0.6986,
+    "freshness_score": 0.8849863866950246,
+    "home_score": 0.6682,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -447,8 +778,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9479680782820773,
-    "home_score": 0.6966,
+    "freshness_score": 0.8808511176282513,
+    "home_score": 0.6664,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -473,8 +804,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9355423206170567,
-    "home_score": 0.691,
+    "freshness_score": 0.86930511429319,
+    "home_score": 0.6612,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -501,94 +832,9 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9788716333409878,
-    "home_score": 0.688,
+    "freshness_score": 0.9095667515681997,
+    "home_score": 0.6568,
     "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c8af9d86968ea508863b4936ca4c2d96222ff281",
-    "title": "Class of \u201909 Puzzle Showdown announced",
-    "url": "https://nichegamer.com/class-of-09-puzzle-showdown-announced/",
-    "source_name": "Niche Gamer",
-    "source_type": "rss",
-    "published_at": "2026-06-13T04:28:20Z",
-    "summary": "Developer SBN3 has announced the latest entry in the Class of \u201909 series, Class of \u201909 Puzzle Showdown! Class of \u201909 is an irreverent visual novel taking place in the late 2000s in",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9630301568992724,
-    "home_score": 0.6779,
-    "source_quality": 0.75,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c14d3f99a7bfa1e0b8f699a745ccb4ba1139a34e",
-    "title": "Jaadugar: A Witch in Mongolia Anime Casts Two Mongolian Sumo Wrestlers",
-    "url": "https://crunchyroll.com/news/latest/2026/6/13/jaadugar-a-witch-in-mongolia-anime-two-mongolian-sumo-wrestlers",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-13T00:21:00Z",
-    "summary": "Science Saru-animated historical drama will premiere on July 4",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9094423370346456,
-    "home_score": 0.6777,
-    "source_quality": 0.79,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "July 4",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "9e7d460e2ceac62bb9f6ec64af6e7b0f79da5bd4",
-    "title": "Why \u2018Final Fantasy VII Revelation\u2019 Took Only Three Years To Make - Bloomberg.com",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/why-final-fantasy-vii-revelation-took-only-three-years-to-make",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-13T05:01:41Z",
-    "summary": "Why \u2018Final Fantasy VII Revelation\u2019 Took Only Three Years To Make Bloomberg",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.9704931808158179,
-    "home_score": 0.6767,
-    "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -613,8 +859,93 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.7006210402537398,
-    "home_score": 0.6748,
+    "freshness_score": 0.6510164711882734,
+    "home_score": 0.6525,
+    "source_quality": 0.76,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c14d3f99a7bfa1e0b8f699a745ccb4ba1139a34e",
+    "title": "Jaadugar: A Witch in Mongolia Anime Casts Two Mongolian Sumo Wrestlers",
+    "url": "https://crunchyroll.com/news/latest/2026/6/13/jaadugar-a-witch-in-mongolia-anime-two-mongolian-sumo-wrestlers",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-13T00:21:00Z",
+    "summary": "Science Saru-animated historical drama will premiere on July 4",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8450530343668825,
+    "home_score": 0.6488,
+    "source_quality": 0.79,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": null,
+      "date_label": "July 4",
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "c8af9d86968ea508863b4936ca4c2d96222ff281",
+    "title": "Class of \u201909 Puzzle Showdown announced",
+    "url": "https://nichegamer.com/class-of-09-puzzle-showdown-announced/",
+    "source_name": "Niche Gamer",
+    "source_type": "rss",
+    "published_at": "2026-06-13T04:28:20Z",
+    "summary": "Developer SBN3 has announced the latest entry in the Class of \u201909 series, Class of \u201909 Puzzle Showdown! Class of \u201909 is an irreverent visual novel taking place in the late 2000s in",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.8948467922683436,
+    "home_score": 0.6472,
+    "source_quality": 0.75,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "9e7d460e2ceac62bb9f6ec64af6e7b0f79da5bd4",
+    "title": "Why \u2018Final Fantasy VII Revelation\u2019 Took Only Three Years To Make - Bloomberg.com",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-12/why-final-fantasy-vii-revelation-took-only-three-years-to-make",
+    "source_name": "Google News JRPG",
+    "source_type": "rss",
+    "published_at": "2026-06-13T05:01:41Z",
+    "summary": "Why \u2018Final Fantasy VII Revelation\u2019 Took Only Three Years To Make Bloomberg",
+    "content": "",
+    "categories": [
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [
+      "Final Fantasy"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.901781431625884,
+    "home_score": 0.6458,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -639,36 +970,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8577204491867015,
-    "home_score": 0.673,
+    "freshness_score": 0.7969931046168914,
+    "home_score": 0.6456,
     "source_quality": 0.78,
     "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "1250b4c009f5bf8540e0fe683d57cf816dc52ce5",
-    "title": "RPG Backtrack 363 \u2013 What\u2019s Your Lucky-Do?",
-    "url": "https://rpgamer.com/2026/06/rpg-backtrack-363-whats-your-lucky-do/",
-    "source_name": "RPGamer",
-    "source_type": "rss",
-    "published_at": "2026-06-12T22:48:04Z",
-    "summary": "Is World of Warcraft's fourth expansion an out-of-season April Fool's day joke? Are they REALLY ripping off a certain Dreamworks movie? Or are they simply giving players the most r",
-    "content": "",
-    "categories": [
-      "games",
-      "anime"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.8900871773298643,
-    "home_score": 0.6665,
-    "source_quality": 0.8,
-    "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/backtrack/2026/backtrack363.mp3",
     "event_metadata": null,
     "result_type": "article"
   },
@@ -695,8 +1000,8 @@
       "SEA"
     ],
     "sg_relevance": 0.43,
-    "freshness_score": 0.6806289000434739,
-    "home_score": 0.6643,
+    "freshness_score": 0.6324398356164166,
+    "home_score": 0.6426,
     "source_quality": 0.67,
     "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C201%2C1512%2C756%5D/resize=w:1920/pjpg=q:90/compress/yD2p5vBlRtdI0UtExcO7",
     "event_metadata": {
@@ -709,6 +1014,32 @@
       "guest_names": [],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "1250b4c009f5bf8540e0fe683d57cf816dc52ce5",
+    "title": "RPG Backtrack 363 \u2013 What\u2019s Your Lucky-Do?",
+    "url": "https://rpgamer.com/2026/06/rpg-backtrack-363-whats-your-lucky-do/",
+    "source_name": "RPGamer",
+    "source_type": "rss",
+    "published_at": "2026-06-12T22:48:04Z",
+    "summary": "Is World of Warcraft's fourth expansion an out-of-season April Fool's day joke? Are they REALLY ripping off a certain Dreamworks movie? Or are they simply giving players the most r",
+    "content": "",
+    "categories": [
+      "games",
+      "anime"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [
+      "SEA"
+    ],
+    "sg_relevance": 0.08,
+    "freshness_score": 0.8270682079626532,
+    "home_score": 0.6382,
+    "source_quality": 0.8,
+    "image_url": "https://nyc3.digitaloceanspaces.com/rpgamer/podcasts/backtrack/2026/backtrack363.mp3",
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -729,8 +1060,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.9052106956638075,
-    "home_score": 0.6623,
+    "freshness_score": 0.8411210713004748,
+    "home_score": 0.6335,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -758,53 +1089,11 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.856124158832123,
-    "home_score": 0.6583,
+    "freshness_score": 0.795509899559311,
+    "home_score": 0.631,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f5f2719fd072be6e156f533006804525dcb2c708",
-    "title": "BIGBANG announce 20th anniversary world tour spanning Singapore, Hanoi, Bangkok, Kuala Lumpur, Jakarta & more",
-    "url": "https://www.bandwagon.asia/articles/bigbang-announce-20th-anniversary-world-tour-spanning-singapore-hanoi-bangkok-kuala-lumpur-jakarta-more",
-    "source_name": "Bandwagon Asia",
-    "source_type": "rss",
-    "published_at": "2026-06-12T01:30:00Z",
-    "summary": "BIGBANG announce 20th anniversary world tour spanning Singapore, Hanoi, Bangkok, Kuala Lumpur, Jakarta & more is trending around singapore.",
-    "content": "",
-    "categories": [
-      "games",
-      "esports",
-      "anime",
-      "events",
-      "manga",
-      "merch"
-    ],
-    "tags": [
-      "singapore"
-    ],
-    "entity_tags": [],
-    "region_tags": [
-      "Singapore",
-      "SEA"
-    ],
-    "sg_relevance": 0.43,
-    "freshness_score": 0.6621359642402186,
-    "home_score": 0.656,
-    "source_quality": 0.67,
-    "image_url": "https://cdn.filestackcontent.com/crop=d:%5B0%2C342%2C2048%2C1024%5D/resize=w:1920/pjpg=q:90/compress/WuFOpXzAQD2ba5ywkSGl",
-    "event_metadata": {
-      "event_type": "festival",
-      "date_label": "21 August",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
     "result_type": "article"
   },
   {
@@ -832,8 +1121,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8104273339696871,
-    "home_score": 0.6547,
+    "freshness_score": 0.7530483526219904,
+    "home_score": 0.6289,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -868,9 +1157,35 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8612319632208001,
-    "home_score": 0.6546,
+    "freshness_score": 0.8002560003947333,
+    "home_score": 0.6271,
     "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "71c10071d5def949c44d8753f55bfb06dfcc35e7",
+    "title": "Second Ado Utattemita Album Cover Song Voting Opens",
+    "url": "https://www.siliconera.com/second-ado-utattemita-album-cover-song-voting-opens/",
+    "source_name": "Siliconera",
+    "source_type": "rss",
+    "published_at": "2026-06-12T19:00:00Z",
+    "summary": "It's time to vote for a J-pop, Vocaloid, or non-J-pop song you'd like to hear Ado cover for her next Utattemita album",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "merch",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7845375233292894,
+    "home_score": 0.626,
+    "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -894,35 +1209,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8464123665396818,
-    "home_score": 0.6529,
+    "freshness_score": 0.7864856431488539,
+    "home_score": 0.6259,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
     "event_metadata": null,
     "result_type": "article"
   },
   {
-    "id": "71c10071d5def949c44d8753f55bfb06dfcc35e7",
-    "title": "Second Ado Utattemita Album Cover Song Voting Opens",
-    "url": "https://www.siliconera.com/second-ado-utattemita-album-cover-song-voting-opens/",
-    "source_name": "Siliconera",
+    "id": "3692c0c3019e427e525a1415122af759e2740e27",
+    "title": "Yen Press Licenses Alma-chan Wants to Be a Family!, Witches Can\u2019t Be Collared & More December 2026 Titles",
+    "url": "https://anitrendz.net/news/2026/06/12/yen-press-licenses-alma-chan-wants-to-be-a-family-witches-cant-be-collared-more-december-2026-titles/?utm_source=rss&utm_medium=rss&utm_campaign=yen-press-licenses-alma-chan-wants-to-be-a-family-witches-cant-be-collared-more-december-2026-titles",
+    "source_name": "Anime Trending",
     "source_type": "rss",
-    "published_at": "2026-06-12T19:00:00Z",
-    "summary": "It's time to vote for a J-pop, Vocaloid, or non-J-pop song you'd like to hear Ado cover for her next Utattemita album",
+    "published_at": "2026-06-12T19:37:33Z",
+    "summary": "Yen Press announced the license acquisitions of 15 manga and light novel series, as well as the release of a Bungo Stray Dogs box set collection",
     "content": "",
     "categories": [
-      "games",
       "anime",
-      "merch",
-      "events"
+      "manga",
+      "events",
+      "games"
     ],
     "tags": [],
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8443157371491257,
-    "home_score": 0.6529,
-    "source_quality": 0.82,
+    "freshness_score": 0.7913860010241376,
+    "home_score": 0.6231,
+    "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -948,36 +1263,10 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8621362994434919,
-    "home_score": 0.6505,
+    "freshness_score": 0.8010963067189056,
+    "home_score": 0.623,
     "source_quality": 0.75,
     "image_url": "https://static0.dualshockersimages.com/wordpress/wp-content/uploads/2026/06/little-known-sega-genesis-jrpgs-from-famous-developers.jpg",
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "3692c0c3019e427e525a1415122af759e2740e27",
-    "title": "Yen Press Licenses Alma-chan Wants to Be a Family!, Witches Can\u2019t Be Collared & More December 2026 Titles",
-    "url": "https://anitrendz.net/news/2026/06/12/yen-press-licenses-alma-chan-wants-to-be-a-family-witches-cant-be-collared-more-december-2026-titles/?utm_source=rss&utm_medium=rss&utm_campaign=yen-press-licenses-alma-chan-wants-to-be-a-family-witches-cant-be-collared-more-december-2026-titles",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-12T19:37:33Z",
-    "summary": "Yen Press announced the license acquisitions of 15 manga and light novel series, as well as the release of a Bungo Stray Dogs box set collection",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8516861091907417,
-    "home_score": 0.6503,
-    "source_quality": 0.78,
-    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1002,8 +1291,8 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7996130231883148,
-    "home_score": 0.6483,
+    "freshness_score": 0.7429997307523473,
+    "home_score": 0.6228,
     "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
@@ -1027,8 +1316,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8680977305345955,
-    "home_score": 0.6456,
+    "freshness_score": 0.8066357330436164,
+    "home_score": 0.618,
     "source_quality": 0.82,
     "image_url": null,
     "event_metadata": null,
@@ -1053,35 +1342,9 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.83855310878368,
-    "home_score": 0.6443,
+    "freshness_score": 0.7791828283818317,
+    "home_score": 0.6176,
     "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "bcb596b0c2a40ffa2c08fa6a026b7b5941f05c3e",
-    "title": "Yen Press Announces Bungo Stray Dogs Manga Box Set and More",
-    "url": "https://crunchyroll.com/news/latest/2026/6/12/yen-press-announces-bungo-stray-dogs-manga-box-set-and-more",
-    "source_name": "Crunchyroll News",
-    "source_type": "rss",
-    "published_at": "2026-06-12T18:10:00Z",
-    "summary": "Box set contains the first 10 volumes of the series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8345994962673993,
-    "home_score": 0.6441,
-    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1106,9 +1369,35 @@
       "SEA"
     ],
     "sg_relevance": 0.08,
-    "freshness_score": 0.7834350069655143,
-    "home_score": 0.6425,
+    "freshness_score": 0.7279671301281734,
+    "home_score": 0.6176,
     "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "bcb596b0c2a40ffa2c08fa6a026b7b5941f05c3e",
+    "title": "Yen Press Announces Bungo Stray Dogs Manga Box Set and More",
+    "url": "https://crunchyroll.com/news/latest/2026/6/12/yen-press-announces-bungo-stray-dogs-manga-box-set-and-more",
+    "source_name": "Crunchyroll News",
+    "source_type": "rss",
+    "published_at": "2026-06-12T18:10:00Z",
+    "summary": "Box set contains the first 10 volumes of the series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "games",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7755091313716334,
+    "home_score": 0.6175,
+    "source_quality": 0.79,
     "image_url": null,
     "event_metadata": null,
     "result_type": "article"
@@ -1132,8 +1421,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8270925737477752,
-    "home_score": 0.6422,
+    "freshness_score": 0.7685336786467437,
+    "home_score": 0.6158,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1158,8 +1447,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.8281431195608211,
-    "home_score": 0.6417,
+    "freshness_score": 0.7695099260448215,
+    "home_score": 0.6153,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1186,8 +1475,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8283348435275608,
-    "home_score": 0.6398,
+    "freshness_score": 0.7696880854436555,
+    "home_score": 0.6134,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": null,
@@ -1215,8 +1504,8 @@
     ],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8346218602014726,
-    "home_score": 0.6396,
+    "freshness_score": 0.7755299169973132,
+    "home_score": 0.613,
     "source_quality": 0.76,
     "image_url": null,
     "event_metadata": null,
@@ -1240,149 +1529,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8188438096903896,
-    "home_score": 0.6385,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "c869c965612f4e4f5eb35b50fc0a1d5777da51c1",
-    "title": "Persona Live Tour 2026 -Resonance- will be held in Japan, South Korea, and Taiwan in September-October",
-    "url": "https://www.rpgsite.net/news/20676-persona-live-tour-2026-resonance-will-be-held-in-japan-south-korea-taiwan-in-september-october",
-    "source_name": "RPG Site",
-    "source_type": "rss",
-    "published_at": "2026-06-12T16:13:44Z",
-    "summary": "These concerts will have a focus on tracks from Persona 3 Reload and the Persona 5 sub-series",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "events"
-    ],
-    "tags": [
-      "jrpg"
-    ],
-    "entity_tags": [
-      "Persona"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8124372086445518,
-    "home_score": 0.6371,
-    "source_quality": 0.81,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "concert",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "db46476aeb191e8e322a26b4422a05eabc620f3d",
-    "title": "J18 Doujinshi Review: Girls and Tummies",
-    "url": "https://blog.jlist.com/featured/j18-doujinshi-review-girls-and-tummies/",
-    "source_name": "J-List Blog",
-    "source_type": "rss",
-    "published_at": "2026-06-12T20:30:00Z",
-    "summary": "Navels and stomachs make you glance twice? Then look no further than Girls and Tummies for your taste of doujinshi stomach worship",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "merch",
-      "comics"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.862089616469195,
-    "home_score": 0.6369,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "fa5d7c01a0babf3e7dfd9e13e9689d359184d577",
-    "title": "Sumo Wrestlers Tamawashi & Tamashoho Join Voice Cast of Jaadugar: A Witch in Mongolia",
-    "url": "https://anitrendz.net/news/2026/06/12/sumo-wrestlers-tamawashi-tamashoho-join-voice-cast-of-jaadugar-a-witch-in-mongolia/?utm_source=rss&utm_medium=rss&utm_campaign=sumo-wrestlers-tamawashi-tamashoho-join-voice-cast-of-jaadugar-a-witch-in-mongolia",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-12T17:01:51Z",
-    "summary": "Two active Mongolian sumo wrestlers have been cast in their first-ever voice acting roles for the upcoming Jaadugar: A Witch in Mongolia TV anime series",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8215365039576589,
-    "home_score": 0.6367,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "6ae72b585ec3cb96abab24028fe40277cd2aed41",
-    "title": "Inoue's Gal x Gal Yuri Manga Gets English Release by VIZ Media, Begins in Spring 2027",
-    "url": "https://animecorner.me/inoues-gal-x-gal-yuri-manga-gets-english-release-by-viz-media-begins-in-spring-2027/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-12T16:26:11Z",
-    "summary": "VIZ Media has announced the English release of Gal x Gal Yuri by Koharu\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.814781811839317,
-    "home_score": 0.6367,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "7772b50227bc7138a5cc0b319eeba4cc9f7b4bbc",
-    "title": "VIZ Media Announces Print Release of Jujutsu Kaisen Modulo Manga for Spring 2027",
-    "url": "https://animecorner.me/viz-media-announces-print-release-of-jujutsu-kaisen-modulo-manga-for-spring-2027/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-12T16:17:56Z",
-    "summary": "VIZ Media has announced the English print release of Jujutsu Kaisen Modulo, the sequel\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8132272886716833,
-    "home_score": 0.636,
+    "freshness_score": 0.7608689590256801,
+    "home_score": 0.6124,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": null,
@@ -1410,10 +1558,99 @@
       "SEA"
     ],
     "sg_relevance": 0.16,
-    "freshness_score": 0.735577265632969,
-    "home_score": 0.635,
+    "freshness_score": 0.6834977626077068,
+    "home_score": 0.6116,
     "source_quality": 0.76,
     "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "c869c965612f4e4f5eb35b50fc0a1d5777da51c1",
+    "title": "Persona Live Tour 2026 -Resonance- will be held in Japan, South Korea, and Taiwan in September-October",
+    "url": "https://www.rpgsite.net/news/20676-persona-live-tour-2026-resonance-will-be-held-in-japan-south-korea-taiwan-in-september-october",
+    "source_name": "RPG Site",
+    "source_type": "rss",
+    "published_at": "2026-06-12T16:13:44Z",
+    "summary": "These concerts will have a focus on tracks from Persona 3 Reload and the Persona 5 sub-series",
+    "content": "",
+    "categories": [
+      "games",
+      "anime",
+      "events"
+    ],
+    "tags": [
+      "jrpg"
+    ],
+    "entity_tags": [
+      "Persona"
+    ],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7549160150426285,
+    "home_score": 0.6112,
+    "source_quality": 0.81,
+    "image_url": null,
+    "event_metadata": {
+      "event_type": "concert",
+      "date_label": null,
+      "venue": null,
+      "ticket_status": null,
+      "ticket_url": null,
+      "guest_status": null,
+      "guest_names": [],
+      "merch_status": null
+    },
+    "result_type": "article"
+  },
+  {
+    "id": "6ae72b585ec3cb96abab24028fe40277cd2aed41",
+    "title": "Inoue's Gal x Gal Yuri Manga Gets English Release by VIZ Media, Begins in Spring 2027",
+    "url": "https://animecorner.me/inoues-gal-x-gal-yuri-manga-gets-english-release-by-viz-media-begins-in-spring-2027/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-12T16:26:11Z",
+    "summary": "VIZ Media has announced the English release of Gal x Gal Yuri by Koharu\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.757094554086684,
+    "home_score": 0.6107,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "fa5d7c01a0babf3e7dfd9e13e9689d359184d577",
+    "title": "Sumo Wrestlers Tamawashi & Tamashoho Join Voice Cast of Jaadugar: A Witch in Mongolia",
+    "url": "https://anitrendz.net/news/2026/06/12/sumo-wrestlers-tamawashi-tamashoho-join-voice-cast-of-jaadugar-a-witch-in-mongolia/?utm_source=rss&utm_medium=rss&utm_campaign=sumo-wrestlers-tamawashi-tamashoho-join-voice-cast-of-jaadugar-a-witch-in-mongolia",
+    "source_name": "Anime Trending",
+    "source_type": "rss",
+    "published_at": "2026-06-12T17:01:51Z",
+    "summary": "Two active Mongolian sumo wrestlers have been cast in their first-ever voice acting roles for the upcoming Jaadugar: A Witch in Mongolia TV anime series",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7633710137325612,
+    "home_score": 0.6105,
+    "source_quality": 0.78,
+    "image_url": null,
     "event_metadata": null,
     "result_type": "article"
   },
@@ -1438,8 +1675,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.08,
-    "freshness_score": 0.773213789366842,
-    "home_score": 0.6349,
+    "freshness_score": 0.7184696358991879,
+    "home_score": 0.6103,
     "source_quality": 0.78,
     "image_url": null,
     "event_metadata": {
@@ -1454,6 +1691,58 @@
       ],
       "merch_status": null
     },
+    "result_type": "article"
+  },
+  {
+    "id": "7772b50227bc7138a5cc0b319eeba4cc9f7b4bbc",
+    "title": "VIZ Media Announces Print Release of Jujutsu Kaisen Modulo Manga for Spring 2027",
+    "url": "https://animecorner.me/viz-media-announces-print-release-of-jujutsu-kaisen-modulo-manga-for-spring-2027/",
+    "source_name": "Anime Corner",
+    "source_type": "rss",
+    "published_at": "2026-06-12T16:17:56Z",
+    "summary": "VIZ Media has announced the English print release of Jujutsu Kaisen Modulo, the sequel\u2026",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "events",
+      "games"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.7556500924732258,
+    "home_score": 0.61,
+    "source_quality": 0.8,
+    "image_url": null,
+    "event_metadata": null,
+    "result_type": "article"
+  },
+  {
+    "id": "db46476aeb191e8e322a26b4422a05eabc620f3d",
+    "title": "J18 Doujinshi Review: Girls and Tummies",
+    "url": "https://blog.jlist.com/featured/j18-doujinshi-review-girls-and-tummies/",
+    "source_name": "J-List Blog",
+    "source_type": "rss",
+    "published_at": "2026-06-12T20:30:00Z",
+    "summary": "Navels and stomachs make you glance twice? Then look no further than Girls and Tummies for your taste of doujinshi stomach worship",
+    "content": "",
+    "categories": [
+      "anime",
+      "manga",
+      "merch",
+      "comics"
+    ],
+    "tags": [],
+    "entity_tags": [],
+    "region_tags": [],
+    "sg_relevance": 0.0,
+    "freshness_score": 0.801052931010029,
+    "home_score": 0.6095,
+    "source_quality": 0.78,
+    "image_url": null,
+    "event_metadata": null,
     "result_type": "article"
   },
   {
@@ -1474,8 +1763,8 @@
     "entity_tags": [],
     "region_tags": [],
     "sg_relevance": 0.0,
-    "freshness_score": 0.8102272469682421,
-    "home_score": 0.6346,
+    "freshness_score": 0.7528624318869017,
+    "home_score": 0.6088,
     "source_quality": 0.8,
     "image_url": null,
     "event_metadata": {
@@ -1488,291 +1777,6 @@
       "guest_names": [],
       "merch_status": null
     },
-    "result_type": "article"
-  },
-  {
-    "id": "f99ce2d21da274271aa7a4c18e57f97af2718a2e",
-    "title": "Ninja Scroll Receives Limited Time 4K Restoration Screenings in U.S. & Canada in October 2026",
-    "url": "https://anitrendz.net/news/2026/06/12/ninja-scroll-receives-limited-time-4k-restoration-screenings-in-u-s-canada-in-october-2026/?utm_source=rss&utm_medium=rss&utm_campaign=ninja-scroll-receives-limited-time-4k-restoration-screenings-in-u-s-canada-in-october-2026",
-    "source_name": "Anime Trending",
-    "source_type": "rss",
-    "published_at": "2026-06-12T16:19:44Z",
-    "summary": "Iconic Events Releasing and HIDIVE have announced that the 1993 Ninja Scroll anime film will screen in North American theaters in its 4K remastered format this coming October",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8135660715660932,
-    "home_score": 0.6331,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": "screening",
-      "date_label": null,
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "93447c14e76230a3ca17d932d75d8bb474096e1e",
-    "title": "New Frieren FIGURIZM\u03b1 Figure Is Upside Down",
-    "url": "https://www.siliconera.com/new-frieren-figurizm%ce%b1-figure-is-upside-down/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-12T18:00:00Z",
-    "summary": "The new Frieren Flower Dance figure in the FIGURIZM\u03b1 involves a pose of her using magic while floating upside down",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8326701876342042,
-    "home_score": 0.6297,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "2f64615814bf21e9b10e0c98a28ee9fb4432c0dc",
-    "title": "When does the Amazing Digital Circus come to Fortnite? Everything to know",
-    "url": "https://esports.gg/news/fortnite/the-amazing-digital-circus-fortnite/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-12T14:39:47Z",
-    "summary": "The Amazing Digital Circus collab arrives in Fortnite on June 12",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7949590632460036,
-    "home_score": 0.6297,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 12",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "ef4c4d8cf1620ce7c7b7d0bb5da24b7af0187658",
-    "title": "Review: TenSura Movie 2: Tears of the Azure Sea Showcases the Best of Slice-of-Isekai",
-    "url": "https://animecorner.me/review-tensura-movie-2-tears-of-the-azure-sea-showcases-the-best-of-slice-of-isekai/",
-    "source_name": "Anime Corner",
-    "source_type": "rss",
-    "published_at": "2026-06-12T10:26:16Z",
-    "summary": "When I was watching the last episode of Tensei Shitara Slime Datta Ken (TenSura)\u2026",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7496499118764655,
-    "home_score": 0.6273,
-    "source_quality": 0.8,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "f8d22e2cfe29538617cac79b2a037610f189a8a0",
-    "title": "Smoking Behind the Supermarket with You \u2014 Episodes 1-3",
-    "url": "https://www.animefeminist.com/smoking-behind-the-supermarket-with-you-episodes-1-3/",
-    "source_name": "Anime Feminist",
-    "source_type": "rss",
-    "published_at": "2026-06-12T16:11:38Z",
-    "summary": "You've heard of meet cutes: well this is a \"meat\" cute with the brightly lit aisles and dimly lit alley of a supermarket serving up the start of a fantastic adaptation",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8120421590857771,
-    "home_score": 0.6264,
-    "source_quality": 0.74,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "b778c98e32afa368b900875026af267b4154b89f",
-    "title": "[Exclusive] The Gene Of AI Editor Talks About The Manga\u2019s English Release & How It\u2019s Relevant In Today\u2019s AI Landscape",
-    "url": "https://animehunch.com/interview-the-gene-of-ai-editor-talks-about-the-mangas-english-release-how-its-relevant-in-todays-ai-landscape/",
-    "source_name": "Anime Hunch",
-    "source_type": "rss",
-    "published_at": "2026-06-12T19:30:08Z",
-    "summary": "Digital manga platform emaqi released the first ever official English translation of Kyuri Yamada\u2019s science-fiction manga The Gene of AI (also known as Ai no Idenshi) earlier this",
-    "content": "",
-    "categories": [
-      "anime",
-      "manga",
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8502252048658191,
-    "home_score": 0.6256,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "ce2c0f1d9ba2cac20a3d5455abb036478b0d1d43",
-    "title": "We Asked Final Fantasy VII Revelation Director Naoki Hamaguchi What's Next For Him - Game Informer",
-    "url": "https://gameinformer.com/sgf-2026/2026/06/12/we-asked-final-fantasy-vii-revelation-director-naoki-hamaguchi-whats-next-for",
-    "source_name": "Google News JRPG",
-    "source_type": "rss",
-    "published_at": "2026-06-12T19:47:35Z",
-    "summary": "We Asked Final Fantasy VII Revelation Director Naoki Hamaguchi What's Next For Him Game Informer",
-    "content": "",
-    "categories": [
-      "games"
-    ],
-    "tags": [],
-    "entity_tags": [
-      "Final Fantasy"
-    ],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.853666396885736,
-    "home_score": 0.6241,
-    "source_quality": 0.76,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "4353278d0283cc8783363c388c4dcf97d96a45fc",
-    "title": "The First Descendant x Evangelion Collaboration Launches June 18 With Asuka, Rei, and Mari Skins; New Trailer Streaming Now",
-    "url": "https://noisypixel.net/first-descendant-evangelion-collaboration-skins/",
-    "source_name": "Noisy Pixel",
-    "source_type": "rss",
-    "published_at": "2026-06-12T17:58:43Z",
-    "summary": "NEXON has revealed the first trailer for its upcoming collaboration between The First Descendant and Neon Genesis Evangelion, bringing one of anime\u2019s most recognizable franchises i",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8324226611226258,
-    "home_score": 0.6236,
-    "source_quality": 0.78,
-    "image_url": null,
-    "event_metadata": {
-      "event_type": null,
-      "date_label": "June 18",
-      "venue": null,
-      "ticket_status": null,
-      "ticket_url": null,
-      "guest_status": null,
-      "guest_names": [],
-      "merch_status": null
-    },
-    "result_type": "article"
-  },
-  {
-    "id": "3b5f871bfcca3ee091491e730792d94fae480838",
-    "title": "Jujutsu Kaisen Modulo Manga Volume 1 Out in English Next Year",
-    "url": "https://www.siliconera.com/jujutsu-kaisen-modulo-manga-volume-1-out-in-english-next-year/",
-    "source_name": "Siliconera",
-    "source_type": "rss",
-    "published_at": "2026-06-12T16:45:00Z",
-    "summary": "Viz Media is working on the physical English release of the Jujutsu Kaisen Modulo manga and volume 1 arrives in 2027",
-    "content": "",
-    "categories": [
-      "games",
-      "anime",
-      "merch",
-      "manga"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [],
-    "sg_relevance": 0.0,
-    "freshness_score": 0.8183388706799776,
-    "home_score": 0.6233,
-    "source_quality": 0.82,
-    "image_url": null,
-    "event_metadata": null,
-    "result_type": "article"
-  },
-  {
-    "id": "a04056dd13d812c988e8581cdf61aee22866b9de",
-    "title": "Brawlhalla Midseason Championship 2026: Viewership rewards, schedule, and results",
-    "url": "https://esports.gg/news/fgc/brawlhalla-midseason-championship-2026-details-results/",
-    "source_name": "Esports.gg",
-    "source_type": "rss",
-    "published_at": "2026-06-12T10:50:48Z",
-    "summary": "This esports event features rare offline clashes of the top Brawlhalla esports players from different regions",
-    "content": "",
-    "categories": [
-      "esports",
-      "games",
-      "events"
-    ],
-    "tags": [],
-    "entity_tags": [],
-    "region_tags": [
-      "SEA"
-    ],
-    "sg_relevance": 0.08,
-    "freshness_score": 0.7539192130813647,
-    "home_score": 0.6233,
-    "source_quality": 0.76,
-    "image_url": "https://cdn.esports.gg/wp-content/uploads/2021/02/13122740/cropped-esports-gg-favicon-1-32x32.png",
-    "event_metadata": null,
     "result_type": "article"
   }
 ]
